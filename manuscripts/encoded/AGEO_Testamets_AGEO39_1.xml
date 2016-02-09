@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Testament AGEO 39_1</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="spa">Early Modern Spanish</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+                <p>
+                    <lb/>[Yalga] para el [H]ynado del Sór Dn Carlos quarto
+                    <lb/>(759)
+                    <lb/>Don Domingo Co[rrexi] Caxique del Pueblo de [Ayoquer]
+                    <lb/>co dela Jurisdiccion de este corre[g]into como me forpro
+                    <lb/>seda y haya lugar A[with carat]nte V. paresco y Digo: fue hago de
+                    <lb/>bida presentador de un testamento otorgado por mis
+                    <lb/>antepasados como se vee en el Idioma Zapoteco, que
+                    <lb/>se hable en aquella Doctrina. Y conbiniendo a mi [dño]
+                    <lb/>suvencion en el castellano, suplico a la Justificacion de
+                    <lb/>y se vi[n]ua mandar la practique el Ynterprete qua[with carat]l de
+                    <lb/>este Jusgado y Corregimiento, [yfho.] con toda legalidad
+                    <lb/>segun que en de su cargo y oficio q tiene fu[n]ado, se me
+                    <lb/>entregue todo original pa
+                    <lb/>mi [r]e[r]guando y efectos que
+                    <lb/>me convenga Por tanto:
+                    <lb/>Al pido y suplico que habiendolo por presentado se[ ]iso apro
+                    <lb/>ven y mandar como [ll]evo pedido [f]uno en forma y [le nese]
+                    <lb/>sa[n]io &amp;a—
+                    <lb/>Domingo Corre[s]a
+                    <lb/>Antequera y Enero 2 y a... 
+                </p>
+        </body>
+    </text>
+</TEI>

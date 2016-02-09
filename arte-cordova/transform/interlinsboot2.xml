@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="UTF-8"?><linp xmlns="http://ds.haverford.edu/linp">
+   <!--This was transformed from a Flex Export to this using interlinears.xsl... -->
+   <html lang="en">
+      <head>
+         <meta charset="utf-8"></meta>
+         <meta name="viewport" content="width=device-width, initial-scale=1.0"></meta>
+         <meta name="description" content=""></meta>
+         <meta name="author" content=""></meta>
+         <title>Ticha</title>
+         <link href="../tei-docs/initializr/css/bootstrap_new.css" rel="stylesheet"></link>
+      </head>
+      <body>
+         <table class="table table-hover" id="arte2.01_01">
+            <tr>
+               <td>
+                  gǒnnǎ
+                  
+               </td>
+            </tr>
+            <tr>
+               <td>
+                  female
+                  
+               </td>
+            </tr>
+            <tr>
+               <td colspan="4">
+                  female
+                  
+               </td>
+            </tr>
+            <tr></tr>
+         </table>
+         <br></br>
+         <table class="table table-hover" id="arte2.01_02">
+            <tr>
+               <td>
+                  niguijo
+                  
+               </td>
+            </tr>
+            <tr>
+               <td>
+                  male, man
+                  
+               </td>
+            </tr>
+            <tr>
+               <td colspan="4">
+                  male
+                  
+               </td>
+            </tr>
+            <tr></tr>
+         </table>
+         <br></br>
+         <table class="table table-hover" id="arte2.01_03">
+            <tr>
+               <td>
+                  pěni
+                  
+               </td>
+               <td>
+                  gönnǎ
+                  
+               </td>
+            </tr>
+            <tr>
+               <td>
+                  person
+                  
+               </td>
+               <td>
+                  female
+                  
+               </td>
+            </tr>
+            <tr>
+               <td colspan="4">
+                  woman
+                  
+               </td>
+            </tr>
+            <tr></tr>
+         </table>
+         <br></br>
+         <table class="table table-hover" id="arte2.01_04">
+            <tr>
+               <td>
+                  pěni
+                  
+               </td>
+               <td>
+                  niguijo
+                  
+               </td>
+            </tr>
+            <tr>
+               <td>
+                  person
+                  
+               </td>
+               <td>
+                  male, man
+                  
+               </td>
+            </tr>
+            <tr>
+               <td colspan="4">
+                  man
+                  
+               </td>
+            </tr>
+            <tr></tr>
+         </table>
+         <br></br>
+         <table class="table table-hover" id="arte2.01_05">
+            <tr>
+               <td>
+                  mäni
+                  
+               </td>
+               <td>
+                  gǒnnǎ
+                  
+               </td>
+            </tr>
+            <tr>
+               <td>
+                  animal
+                  
+               </td>
+               <td>
+                  female
+                  
+               </td>
+            </tr>
+            <tr>
+               <td colspan="4">
+                  female
+                  animal
+                  
+               </td>
+            </tr>
+            <tr></tr>
+         </table>
+         <br></br>
+         <table class="table table-hover" id="arte2.01_06">
+            <tr>
+               <td>
+                  mani
+                  
+               </td>
+               <td>
+                  niguijo
+                  
+               </td>
+            </tr>
+            <tr>
+               <td>
+                  animal
+                  
+               </td>
+               <td>
+                  male, man
+                  
+               </td>
+            </tr>
+            <tr>
+               <td colspan="4">
+                  male
+                  animal
+                  
+               </td>
+            </tr>
+            <tr></tr>
+         </table>
+         <br></br>
+         <table class="table table-hover" id="arte2.2.1_1">
+            <tr>
+               <td>
+                  pichïna
+                  
+               </td>
+            </tr>
+            <tr>
+               <td>
+                  deer
+                  
+               </td>
+            </tr>
+            <tr>
+               <td colspan="4">
+                  deer
+                  
+               </td>
+            </tr>
+            <tr></tr>
+         </table>
+         <br></br>
+         <table class="table table-hover" id="arte2.2.1_2">
+            <tr>
+               <td>
+                  pichina
+                  
+               </td>
+            </tr>
+            <tr>
+               <td>
+                  deer
+                  
+               </td>
+            </tr>
+            <tr>
+               <td colspan="4">
+                  deer
+                  
+               </td>
+            </tr>
+            <tr></tr>
+         </table>
+         <br></br>
+         <table class="table table-hover" id="arte2.01_09">
+            <tr>
+               <td>
+                  xi-
+                  
+               </td>
+            </tr>
+            <tr>
+               <td>
+                  POSS-
+                  
+               </td>
+            </tr>
+            <tr>
+               <td colspan="4">
+                  ‎‎(prefix to
+                  mark nouns as possessed)
+                  
+               </td>
+            </tr>
+            <tr></tr>
+         </table>
+         <br></br>
+         <table class="table table-hover" id="arte2.01_010">
+            <tr>
+               <td>
+                  xi-téni
+                  
+               </td>
+            </tr>
+            <tr>
+               <td>
+                  POSS-GEN
+                  
+               </td>
+            </tr>
+            <tr>
+               <td colspan="4">
+                  of
+                  
+               </td>
+            </tr>
+            <tr></tr>
+         </table>
+         <br></br>
+         <table class="table table-hover" id="arte2.01_011">
+            <tr>
+               <td>
+                  xi-tíni
+                  
+               </td>
+            </tr>
+            <tr>
+               <td>
+                  POSS-GEN
+                  
+               </td>
+            </tr>
+            <tr>
+               <td colspan="4">
+                  of
+                  
+               </td>
+            </tr>
+            <tr></tr>
+         </table>
+         <br></br>
+         <table class="table table-hover" id="arte2.01_012">
+            <tr>
+               <td>
+                  xi-téni
+                  
+               </td>
+               <td>
+                  pichina
+                  
+               </td>
+            </tr>
+            <tr>
+               <td>
+                  POSS-GEN
+                  
+               </td>
+               <td>
+                  deer
+                  
+               </td>
+            </tr>
+            <tr>
+               <td colspan="4">
+                  of the
+                  deer
+                  
+               </td>
+            </tr>
+            <tr></tr>
+         </table>
+         <br></br>
+         <table class="table table-hover" id="arte2.01_013">
+            <tr>
+               <td>
+                  xi-tíni
+                  
+               </td>
+               <td>
+                  pichina
+                  
+               </td>
+            </tr>
+            <tr>
+               <td>
+                  POSS-GEN
+                  
+               </td>
+               <td>
+                  deer
+                  
+               </td>
+            </tr>
+            <tr>
+               <td colspan="4">
+                  of the
+                  deer
+                  
+               </td>
+            </tr>
+            <tr></tr>
+         </table>
+         <br></br>
+         <table class="table table-hover" id="arte2.01_014">
+            <tr>
+               <td>
+                  xi-quíti
+                  
+               </td>
+               <td>
+                  pichina
+                  
+               </td>
+            </tr>
+            <tr>
+               <td>
+                  POSS-skin
+                  
+               </td>
+               <td>
+                  deer
+                  
+               </td>
+            </tr>
+            <tr>
+               <td colspan="4">
+                  the skin of the
+                  deer
+                  
+               </td>
+            </tr>
+            <tr></tr>
+         </table>
+         <br></br>
+         <table class="table table-hover" id="arte2.01_015">
+            <tr>
+               <td>
+                  xába=ya
+                  
+               </td>
+            </tr>
+            <tr>
+               <td>
+                  clothes=1s
+                  
+               </td>
+            </tr>
+            <tr>
+               <td colspan="4">
+                  my cloak, my
+                  clothes
+                  
+               </td>
+            </tr>
+            <tr></tr>
+         </table>
+         <br></br>
+         <table class="table table-hover" id="arte2.01_016">
+            <tr>
+               <td>
+                  xi-xaba=ya
+                  
+               </td>
+            </tr>
+            <tr>
+               <td>
+                  POSS-clothes=1s
+                  
+               </td>
+            </tr>
+            <tr>
+               <td colspan="4">
+                  my cloak, my
+                  clothes
+                  
+               </td>
+            </tr>
+            <tr></tr>
+         </table>
+         <br></br>
+         <table class="table table-hover" id="arte2.01_017">
+            <tr>
+               <td>
+                  xaba=lo
+                  
+               </td>
+            </tr>
+            <tr>
+               <td>
+                  clothes=2s
+                  
+               </td>
+            </tr>
+            <tr>
+               <td colspan="4">
+                  your cloak,
+                  your clothes
+                  
+               </td>
+            </tr>
+            <tr></tr>
+         </table>
+         <br></br>
+         <table class="table table-hover" id="arte2.01_018">
+            <tr>
+               <td>
+                  xába=ni
+                  
+               </td>
+            </tr>
+            <tr>
+               <td>
+                  clothes=3
+                  
+               </td>
+            </tr>
+            <tr>
+               <td colspan="4">
+                  ‎‎his cloak,
+                  his clothes (or her, its, their cloak or
+                  clothes)
+                  
+               </td>
+            </tr>
+            <tr></tr>
+         </table>
+         <br></br>
+         <table class="table table-hover" id="arte2.01_019-unready">
+            <tr>
+               <td>
+                  p-ée=a
+                  
+               </td>
+               <td>
+                  tomines
+                  
+               </td>
+               <td>
+                  Pedro
+                  
+               </td>
+            </tr>
+            <tr>
+               <td>
+                  PERF=1s
+                  
+               </td>
+               <td>
+                  tomines
+                  
+               </td>
+               <td>
+                  Pedro
+                  
+               </td>
+            </tr>
+            <tr>
+               <td colspan="4">
+                  I gave? the
+                  tomines to Pedro.
+                  
+               </td>
+            </tr>
+            <tr></tr>
+         </table>
+         <br></br>
+         <table class="table table-hover" id="arte2.01_020-unready">
+            <tr>
+               <td>
+                  p-ée=a
+                  
+               </td>
+               <td>
+                  queta
+                  
+               </td>
+               <td>
+                  pichína
+                  
+               </td>
+            </tr>
+            <tr>
+               <td>
+                  PERF=1s
+                  
+               </td>
+               <td>
+                  tortilla
+                  
+               </td>
+               <td>
+                  deer
+                  
+               </td>
+            </tr>
+            <tr>
+               <td colspan="4">
+                  I gave? the
+                  tortilla to the deer.
+                  
+               </td>
+            </tr>
+            <tr></tr>
+         </table>
+         <br></br>
+         <table class="table table-hover" id="arte2.01_021">
+            <tr>
+               <td>
+                  pe-chij=cí=ca-láchi
+                  
+               </td>
+               <td>
+                  naa
+                  
+               </td>
+            </tr>
+            <tr>
+               <td>
+                  PERF:CAUS-love(w/CAUS)=only=EMPH-heart
+                  
+               </td>
+               <td>
+                  1s.fp
+                  
+               </td>
+            </tr>
+            <tr>
+               <td colspan="4">
+                  Be gentle with
+                  me!
+                  
+               </td>
+            </tr>
+            <tr></tr>
+         </table>
+         <br></br>
+         <table class="table table-hover" id="arte2.01_022">
+            <tr>
+               <td>
+                  pé-ti=a
+                  
+               </td>
+               <td>
+                  pichina
+                  
+               </td>
+            </tr>
+            <tr>
+               <td>
+                  PERF:CAUS-die(PERF)=1s
+                  
+               </td>
+               <td>
+                  deer
+                  
+               </td>
+            </tr>
+            <tr>
+               <td colspan="4">
+                  I killed the
+                  deer.
+                  
+               </td>
+            </tr>
+            <tr></tr>
+         </table>
+         <br></br>
+         <table class="table table-hover" id="arte2.01_023">
+            <tr>
+               <td>
+                  láo
+                  
+               </td>
+            </tr>
+            <tr>
+               <td>
+                  face/to:through:from;
+                  to
+                  
+               </td>
+            </tr>
+            <tr>
+               <td colspan="4">
+                  to
+                  
+               </td>
+            </tr>
+            <tr></tr>
+         </table>
+         <br></br>
+         <table class="table table-hover" id="arte2.01_024">
+            <tr>
+               <td>
+                  chá=ono
+                  
+               </td>
+               <td>
+                  láo
+                  
+               </td>
+               <td>
+                  pichína
+                  
+               </td>
+            </tr>
+            <tr>
+               <td>
+                  IRR.go=1pl
+                  
+               </td>
+               <td>
+                  face/to:through:from;
+                  to
+                  
+               </td>
+               <td>
+                  deer
+                  
+               </td>
+            </tr>
+            <tr>
+               <td colspan="4">
+                  We will go to
+                  the deer.
+                  
+               </td>
+            </tr>
+            <tr></tr>
+         </table>
+         <br></br>
+         <table class="table table-hover" id="arte2.01_025">
+            <tr>
+               <td>
+                  chá=ono
+                  
+               </td>
+               <td>
+                  yóhotáo
+                  
+               </td>
+            </tr>
+            <tr>
+               <td>
+                  IRR.go=1pl
+                  
+               </td>
+               <td>
+                  church(house-great)
+                  
+               </td>
+            </tr>
+            <tr>
+               <td colspan="4">
+                  We will go to
+                  the church.
+                  
+               </td>
+            </tr>
+            <tr></tr>
+         </table>
+         <br></br>
+         <table class="table table-hover" id="arte2.01_026">
+            <tr>
+               <td>
+                  chá=ono
+                  
+               </td>
+               <td>
+                  quígo
+                  
+               </td>
+            </tr>
+            <tr>
+               <td>
+                  IRR.go=1pl
+                  
+               </td>
+               <td>
+                  river
+                  
+               </td>
+            </tr>
+            <tr>
+               <td colspan="4">
+                  We will go to
+                  the river.
+                  
+               </td>
+            </tr>
+            <tr></tr>
+         </table>
+         <br></br>
+         <table class="table table-hover" id="arte2.01_027">
+            <tr>
+               <td>
+                  ha
+                  
+               </td>
+            </tr>
+            <tr>
+               <td>
+                  VOC(pre-N)
+                  
+               </td>
+            </tr>
+            <tr>
+               <td colspan="4">
+                  Oh!
+                  
+               </td>
+            </tr>
+            <tr></tr>
+         </table>
+         <br></br>
+         <table class="table table-hover" id="arte2.01_028">
+            <tr>
+               <td>
+                  ha
+                  
+               </td>
+               <td>
+                  pichína
+                  
+               </td>
+            </tr>
+            <tr>
+               <td>
+                  VOC(pre-N)
+                  
+               </td>
+               <td>
+                  deer
+                  
+               </td>
+            </tr>
+            <tr>
+               <td colspan="4">
+                  Oh,
+                  deer!
+                  
+               </td>
+            </tr>
+            <tr></tr>
+         </table>
+         <br></br>
+         <table class="table table-hover" id="arte2.01_029">
+            <tr>
+               <td>
+                  =he
+                  
+               </td>
+            </tr>
+            <tr>
+               <td>
+                  =VOC(post-N)
+                  
+               </td>
+            </tr>
+            <tr>
+               <td colspan="4">
+                  (suffix used
+                  for vocative forms)
+                  
+               </td>
+            </tr>
+            <tr></tr>
+         </table>
+         <br></br>
+         <table class="table table-hover" id="arte2.01_030">
+            <tr>
+               <td>
+                  pichína=he
+                  
+               </td>
+            </tr>
+            <tr>
+               <td>
+                  deer=VOC(post-N)
+                  
+               </td>
+            </tr>
+            <tr>
+               <td colspan="4">
+                  Oh,
+                  deer!
+                  
+               </td>
+            </tr>
+            <tr></tr>
+         </table>
+         <br></br>
+      </body>
+   </html>
+</linp>

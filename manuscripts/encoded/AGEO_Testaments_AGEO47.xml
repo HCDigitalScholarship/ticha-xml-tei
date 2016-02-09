@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Testament AGEO 47</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="spa">Early Modern Spanish</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="url"/>
+            <div type="page">
+            <p>
+                <lb/>Yo el ynterprete del Jusgado de Señor theniente
+                <lb/>coronel de los Reales exercitos Don Pedro de Pineda y
+                <lb/>de la torre cavallero del orden de Sn
+                <lb/>tiago Primer thenien
+                <lb/>te del Reximiento de ynfanteria de Guardias españolas co
+                <lb/>rrexidor deesta ciud
+                <lb/>y su Jurisdicion; en Virtud del au
+                <lb/>cto que Antecede tradusgo este testamento que original en la ydi
+                <lb/>oma zapoteco se me entrego cuyo themor es como sesigue
+                <lb/>Yo el infermo, Thomas Sebastian, otorgo mi testamento, porq the
+                <lb/>mo la emfermedad, y la muerte q [XXade] me pondra Dios mi alma quan
+                <lb/>do yo me muero q su Magd
+                <lb/>me ciud me hizo christiano Bau
+                <lb/>tiszado me yamo Nombre de Santo Favian: creo Un
+                <lb/>zolo Dios quees la SSma trinidad tres perzonas quees Verda
+                <lb/>dero, y ttn
+                <lb/>creo la Virgen Sta María de Dios, y ttn
+                <lb/>creo
+                <lb/>los dies mandamientos de la ley de Dios, y los sinco manda
+                <lb/>miento de la Sta madre yglesia, los siete zacramento
+                <lb/>y los catorce articulos de la fee: y le Ruego al Padre q: me
+                <lb/>entierre mi cuerpo en la yglesia quando yo me muero; y Un peso
+                <lb/>dno~. [de nuestro] de la tierra bendita; y ttn
+                <lb/>dos pesos para Una missa mayor
+                <lb/>que diga el Padre Saserdote; y ttn
+                <lb/>de los tres altares, de la SSma
+                <lb/>zacramento; del Sto entierro, de Nra señora del Rozario, a [with tilde]
+                <lb/>medio doy de limosna—queesto mi cassa y el zolar mio le doy a[with tilde]mi
+                <lb/>hijo chiquito Agustin que sea suyo; que biva o [with tilde] queeste, con mi
+                <lb/>hijo Jacinto con su muger, que sea como madre o [with tilde] cavesa de los
+                <lb/>dos muchachos chiquito Urzula mi hija—
+                <lb/>[FINGER POINTING] y ttn
+                <lb/>un pedazo de tierra de sembra dura mio que son sinco medidas
+<!--End page 1-->
+            </p>
+            </div>
+            <pb facs="url"/>
+            <div type="page">
+                <p>
+                    <lb/>medidas y media, thome mi hijo Jacinto Martin la mitad
+                    <lb/>thome Agustin chiquito su hermano, este de la tierra linda
+                    <lb/>con tierras de Domingo Luis por donde naze el zol (oriente)
+                    <lb/>linda con tierra de Favian Deaquino alado de Oaxaca
+                    <lb/>(norte), linda con tierra de Lucas Martin assi por donde se mu[ere]
+                    <lb/>el sol (poniente) linda asi mismo Lucas Martin assi alado
+                    <lb/>de simattan (sur) le devo tres Meses a [with carat] Ignacio Castillano
+                    <lb/>queenta por entero Nuehep~, Pague Jacinto mi hijo, co
+                    <lb/>mo mayordomo del Padre desde aquí la palabra di
+                    <lb/>xo el emfermo Thomas Sebastian por ante los testigos
+                    <lb/>quese hallaron presente y Ante las Justicias; oydia mier
+                    <lb/>coles Veynte de Agosto de mil seiscientos o[with carat]chenta y
+                    <lb/>siete años y Ante mi el essno doy fee—Pedro Martin alcade—
+                    <lb/>Nicolas mendes alcalde—Martin Ramires testigo—Ni
+                    <lb/>colas Luys testigo—Pedro de Agilar Rexidor—Thomas
+                    <lb/>Ramires Rexidor—Maravde agilar testigo—Domingo [Flo]
+                    <lb/>res discal—Ante mi Juachin de la Cruz essno—
+                    <lb/>el borron no vale—entre Renglon donde: vale El qual esta fielmente tradusido y consentado del ydioma za
+                    <lb/>poteco en quese halla al castella, al que me Remito a[squiggle]l[a]
+                    <lb/>do mi leal zaber y entery; y por ser verd
+                    <lb/>, assilo Juro en to
+                    <lb/>da forma de [dñosquiggle], y lo firme en [dela] Ciud
+                    <lb/>, o[carat]ctube 7 de 17[ ]
+                    <lb/>74—
+                    <lb/>Phelipe An[different carat] Lopez
+                    <lb/>Ynterprete
+            </p>
+            </div>
+<!--Footnote: q, when it stands for “que,” is written swith a squiggle up and around the stem of the letter.-->
+        </body>
+    </text>
+</TEI>

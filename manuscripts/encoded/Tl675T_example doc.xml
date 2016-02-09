@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bill of sale from Tlacochahuaya, 1675</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="cvz">Colonial Valley Zapotec</language>
+        </langUsage>
+     </profileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Escriptura = Yo Pedro Andres Principal y natural de este pueb<am rend="superscript">o</am> de Tlacochahuaya
+            <lb />Oy Jueves a catorze de Marzo de mill seis sientos y setenta
+            <lb />y sinco as como es verdad q vendo un pedaso de tierra
+            <lb />Solar de esta aonde esta la Cruz de vajo de la piedra a pies
+            <lb />todo el medio, hasí es Verdad q se hiso el concierto ante mi
+            <lb />Padre Mathias de sosa y Vendo esta tierra, y la compra
+            <lb />Gregorio de Mendosa quatro p<am rend="superscript">s</am>. en rr efectubos se empiesa
+            <lb />a meder un pedaso de tierra en la orilla del camino de
+            <lb />que va a S<am rend="superscript">n</am>. Sebastian y tiene por el lado del oriente
+            <lb />veinte medidas en donde linda con Gernonimo ramieres son
+            <lb />Veinte y seis <add place="above">de ancho</add> medidas y otro pedaso dl tierra son veinte y
+            <lb />siete medidas tambien a la orilla del camino hagora dejo
+            <lb />esta tierra que la tome Gregorio de Mendoza para que
+            <lb />Sean sus bienes y pueda venderlos y hacerlo que legareciere
+            <lb />de esta tierra que yo no se la pidire nunca ni mis hijos ni
+            <lb />mis netos impidan esta venta por que esta tierra medio mi
+            <lb />abuela lixitima Petronila de Aquino que me la dejo ensu
+            <lb />testam<am rend="superscript">to</am>. hasi Otorgo esta Escrip<am rend="superscript">a</am>. de Venta oy Jueves a
+            <lb />catorce de Marzo de mill seiscientos y setenta y sinco as =
+            <lb />Domingo Garcia = testigo = Ante mi = Juan Garcia
+         </p>
+      </body>
+  </text>
+</TEI>

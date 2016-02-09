@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Testament AGEO 45_2</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="spa">Early Modern Spanish</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="url"/>
+            <div type="page">
+                <p>
+                    <lb/>Jesus María y Joseph. [Symbol] y Año De años 1724 AD
+                    <lb/>En el Nombre de Jesus Christo hijo de Dios que murio en la Cruz
+                    <lb/>que crio todo nosotros pecadores en este mundo yo me ya
+                    <lb/>mo pedro Santiago quierre Dios que se Cava mi vida Cr[eo]
+                    <lb/>un Solo Dios que es la tres persona Dios padre Dios hijo [Dios]
+                    <lb/>espiritu Santo tres persona en un Solo Dios que es [?]
+                    <lb/>que Crio todo Crio en el Cielo y Crio en la tierra y [C ]
+                    <lb/>los angeles Crio todos los santos y santa Creo los Arti[culos]
+                    <lb/>de la fee son catorze y los siete perteneze que es de D[ios]
+                    <lb/>y Creo Los mandamiento de Jesus Christo hijo Dios y [ ]
+                    <lb/>Creo los mandamiento de la ley de Dios son dies y [ ]
+                    <lb/>Creo los mandamiento de la santa yglesia y los qu[ ]
+                    <lb/>tros o[with tilde]racion y todas estas palabras lo creo ento[ ]
+                    <lb/>Me vida y en todo el tiempo que estube vivos
+                    <lb/>en este mundo oy prometo—1 ps [peso] para el Padre
+                    <lb/>que me diga Missa Resada y ten 2 r [reales] para Cam
+                    <lb/>pana y 2 r para la tierra bendita dond8
+                    <lb/>se entiera
+                    <lb/>mi cuerpo y no mas o[with carat]bligo y ten mi casa como esta
+                    <lb/>se lo dejo A mi hijo Sebastian Santiago y Domingo
+                    <lb/>Santiago y ten todos pedazo de tierra [quena] si que
+                    <lb/>es mio y nasi se sigue donde le yaman la lengua sa
+                    <lb/>Poteca Sachi lla rixo que zenito nasimos Nosotros
+                    <lb/>y si Solar Junto la Glecia y Como Consiento que fue
+                    <lb/>de Solar Junto la Glecia que todo el camino de pro
+                    <lb/>cesion donde es solar en la puerta de la Glecia todos
+                    <lb/>las persona que vive detras el Camino donde sale pro
+                    <lb/>sesion niguno persona que bive Alli no es suyo sino
+                    <lb/>que es mio la tierra el camino donde sale prosesion
+                    <lb/>como Resa testamento de Antepasado de nosotros
+<!--[End page 1]-->
+                </p>
+            </div>
+            <pb facs="url"/>
+            <div type="page">
+                <p>
+                    <lb/>y de mi Antepasado hizo y [conpuso] 
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

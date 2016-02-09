@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Testament AGEO 42</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="spa">Early Modern Spanish</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="url"/>
+            <div type="page">
+                <p>
+                    <lb/>Name is Cristobal?
+                    <lb/>Oy miercoles a[with carat] ocho diaz del mez de Zeptiembre de
+                    <lb/>mill setecientos y ocho años, Otorgo Yo el enfermo [Xpto]
+                    <lb/>[val] Lazaro mi memoria y testamento, por q me ha
+                    <lb/>llo enfermo, y q Dios ha sido servido de q yo sea chris
+                    <lb/>tiano, y asi Creo en el misterio dela Santisima trinidad
+                    <lb/>Dios Padre, Dios hijo, Dios espiritu santo, tres Personas dis
+                    <lb/>tintas, y un solo Dios Verdadero, Creo los catorze ar
+                    <lb/>ticulos dela fee, los diez mandamientos dela ley de Dios,
+                    <lb/>y los sinco de nr[with carat]a Madre la Santa Yglecia, amen Jesus
+                    <lb/>Primer[ansquiggle—ante?] mando y Ordono sele dé al Padre mines
+                    <lb/>tro dos p[8—pesos], para q Diga Una Missa por mi Alma
+                    <lb/>Y[Hg?] mano seden quarto rr. [reales] para la cruz manga, y Re
+                    <lb/>al y medio para la Caxa del Altar mayor--------------------------------
+                    <lb/>Y[Hg] Declaro q tengo por mio Un pedazo de tierra Nom
+                    <lb/>brada [esquina tani(with carat)j], q se compone de diezyseis me
+                    <lb/>didas, y su Cavezera q cao al Oriente Linda con tierras
+                    <lb/>del Pueblo por el poniente con tierras q fueron de [Yre]
+                    <lb/>gorio me[n]eses defunto, por el norte con tierras del
+                    <lb/>mismo Pueblo, y por el Sur con tierras de Juan Peres,
+                    <lb/>estas dejo ami [H]ijo Pazqual [Xptoval], y a lsu her
+                    <lb/>mano Antonio [Xptonal], con Declaracion q las posee
+                    <lb/>mi Sobrino Domingo Gabriel por treinta p[8—pesos], de
+                    <lb/>arrendamiento, y si mis dos Hijos quisieren bolber
+                    <lb/>le el Resto, podran hazerlo, y tomarze luego las
+                    <lb/>rierras.-------------------------------------------------------
+                    <lb/>Y[Hg] Otro pedazo de tierra de solar mio q esta en el
+                    <lb/>Puesto Nombrado lachij bera waayaalaa, estas
+                    <lb/>linden con tierra de Pedro Gabriel asia al poni
+                    <lb/>ente, Le queda a Pazqual [Xptoval] desde donde esta
+                    <lb/>Sercado de [tanas]; Solar estas Palabras dijo el
+                    <lb/>enfermo [Xptoval] Lazaro q las oyeron el tessti
+                    <lb/>go Joseph Garcia, y los Alcaldes, y Legidores,
+                    <lb/>Otro pedazo de tierra q esta devajo del Arbol
+<!--[End page 1]-->
+                </p>
+            </div>
+            <pb facs="url"/>
+            <div type="page">
+                <p>
+                    <lb/>de Piru, y tiene de largo seis medida, y de an
+                    <lb/>cho quarto, le queda a mi hijo Pazqual [Xpto
+                    <lb/>bal]—Lorenzo Martin Alcalde—Miguel Cor
+                    <lb/>tes—Pazqual Lopez Regidor—Don Pedro
+                    <lb/>de Aguilar Regidor—Nicolas hernandes
+                    <lb/>testigo—Martin Lucas escrivano---------
+                    <lb/>Digo yo Don Me[dohor] Vazquez de Aguilar Cazique
+                    <lb/>del Pueblo y Cavezera de Zimatlan, q de pediment
+                    <lb/>to, y [J]uego de Pazqual [Xptoval] Natural del
+                    <lb/>Pueblo de Santa Cathalina [quianee] de la Juris 
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Testament AGEO 49</title>
+        </titleStmt>
+        <publicationStmt>
+            <p>Publication Information</p>
+        </publicationStmt>
+        <sourceDesc>
+            <p>Information about the source</p>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <langUsage>
+            <language ident="spa">Early Modern Spanish</language>
+        </langUsage>
+    </profileDesc>
+</teiHeader>
+    <text>
+        <body>
+            <pb facs="url"/>
+            <div type="page">
+                <p>
+            <!--Isabel—check discrepancies in the C/E starting letter and that g- or q-like letter-->
+            <lb />En el Nombre de N.S. Jesuchristo hijio de Dios, que bajo del Cielo a[with tilde] la
+            <lb />tierra a[with tilde] rredemir a todos nosotros los pecadores en este mundo
+            <lb />Oy dia viernes trese del mes deciembre de mil setecientos y ocho años
+            <lb />a querido Dios nuestro Señor acabar los dias de mi vida llo
+            <lb />Domingo Garcia Creo el misterio de la santissima trinidad tres
+            <lb />Personas distintas y un Solo Dios verdadero y Creo confiezo todo
+            <lb />Lo que cre y manda Crer nuestra Santa Madre Yglesia
+            <lb />amen Jesus
+            <lb />Ytn Primeramente un Peso Para el Padre Para que diga
+            <lb />una misa Por mi alma Ytn dos rrs de la tierra Sagrada
+            <lb />Onde Sea de Sepultar mi cuerpo y dos rrs del doble
+            <lb />de la canpaña
+            <lb />Ytn mas la tierra que llamamos e[with tilde]n Nuestra Ydioma tierra dexieco bisoba
+            <lb />sigue la tierra de Erillichii sigue la tierra de Elevechee sigue
+            <lb />la tierra de quexillar sigue la tierra de lachiqueeloo es Linda
+            <lb />Bajo de la Piedra [dha] que queeloo Linda Con pedro Gomes sigue
+            <lb />la tierra de quecossii sigue la tierra de e[with tilde]querucui sigue la tierra
+            <lb />de e[with tilde]colaachaa sigue la tierra de tavaa tierra de quecochatoo
+            <lb />sigue la tierra de Eruve Ytn la tierra de e[with tilde]nlavatoo sigue la tierra
+            <lb />de quietalachii sigue la tierra de ruchii sigue la tierra de xala
+            s<lb />aa sigue la tierra de la chiyrsucui sigue la tierra de Eovella
+            <lb />Sigue la tierra de quecoduanii es linder Equevachii y Lin
+            <lb />da Con Migel Luis tierra de lavichii es el lindero Guetela
+            <lb />bichii y Linda Con Migel Luis tierra de quelleya tierra
+            <lb />de quecoyagaguiti tierra de laci a[with tilde]rquechichi los dos a[with tilde]rro
+            <lb />llitos y Linda Con Juan Diego tierra de Egosaalaa tierra
+            <lb />de quegolaachii es el Lindero una peña queetaa es el Rio
+               <!--End page 1-->
+             </p>
+            </div>
+            <pb facs="url"/>
+            <div type="page">
+                <p>
+                <lb/>Sigue la tierra qe esta en el Lugar de Ariyello tierra de qu[ ]
+                <lb/>cotrichii tierra de Ecoleyaa esta tierra Locomy[rr]o mi abuelo
+                <lb/>y le costo siete rropas y sin qta [pis] Dinero que Usaban a[with tilde] aquel
+                <lb/>tiempo Le nonbraban Llivalaci sigue la tierra de quecaa
+                <lb/>tierra de quebelaa haora como este el Lindero voy a decla
+                <lb/>rar coxe Derecho queaalaa sigue subiendo el serro hasta llegar
+                <lb/>el Lugar de lachierbeyoo [Es?] que Guelagachii y e[with tilde] el Lindero y
+                <lb/>de ay Bajo el Lugar Equellugui de Ay Bajo derecho a[with tilde]
+                <lb/>el Lugar de quecoyaa coxio Derecho el Caño de hay
+                <lb/>llego onde esta la piedra de Eqeella Sigue la tierra
+                <lb/>de ualochoo Sigue la tierra de Areneloo sigue la tierra
+                <lb/>de e[with carat]xtecuii sigue la tierra de Laxtoo tierra de gue
+                <lb/>nio enguiz sigue la tierra de queconachina sigue la
+                <lb/>tierra de quecobrisaa es mi Lindero el Lugar llamadose 
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>
+

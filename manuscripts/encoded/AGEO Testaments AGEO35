@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Testament AGEO 35</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="spa">Early Modern Spanish</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1>
+                <p>
+                    <lb/>Yo el ynterprete el Jusgado del Señor Capithan y Ayu
+                    <lb/>dante Mayor del Reximiento de Dragones Provinciales
+                    <lb/>de guathemala, Don Jphe Mariano de Llano Correxi
+                    <lb/>dor por Su Mgd desta Ciudad, y su Jurisdicion, y theniente
+                    <lb/>de Capithan General Jues de Agravio Apelasion Rexis
+                    <lb/>taos Real[u]. quinta, Visitador de Yngenio, y trapriche Jues
+                    <lb/>de Obrafe Panaderia, y ofisina de la Llana su S,S~ atendiend[a/or]
+                    <lb/>su suma misera, Pedro esperanza—para heste efecto fue
+                    <lb/>por presentado bocablemente para tradusido escritura lo qual
+                    <lb/>con presedente de mandato berval de S,S,a tradusgo este [¿]ho
+                    <lb/>escritura que original en la YDioma zapotheco, se me en
+                    <lb/>tregó cuyo thenor, es como se sigue
+                    <lb/>Oydia Biernes a catorse del mes de octubre del año
+                    <lb/>de mil setesciento y quarenta años berdad bendi un Pe
+                    <lb/>daso de tierre la que comp[a] el Degunto Mihag[do] Mi
+                    <lb/>guel esperanza como enseña dentro papel escri
+<!--[End page 1—Check correspondence, thenor and weird squiggle letter in other will]-->
+                </p>
+            </div1>
+            <div1>
+                <p>
+                    <lb/>tura de venta, berdad bolvi bender, la tierra la quees
+                    <lb/>mio, lo que me pertenese; de lo largo la tierra tiene
+                    <lb/>Nueve medidas, y tres Palos que tiene trese codo ver
+                    <lb/>dad de lo hancho, la tierra tiene dos medidas y sin
+                    <lb/>co, Palos de trese, codo berdad lo bendi la tierra este por
+                    <lb/>quince pesos, en Plata fe[s]tivo por vista los dos con mi
+                    <lb/>esposa Antonia Maria berdad y es berdad la compro
+                    <lb/>el mismo mi hermano Phelipe esperanza Yo Bar
+                    <lb/>tolome esperanza Natural, de aquí en el Pueblo de
+                    <lb/>Santo Domingo de Ocotlan—Ante mi Juan
+                    <lb/>Gomes—tambien otro medida está por el camino
+                    <lb/>que Anda la jente de Santiago que coji tres pesos
+                    <lb/>y quatro Reales berdad, tiene una medida de lo lar
+                    <lb/>go la tierra y de lo háncho, la tierra, tiene dos medidas
+                    <lb/>y por el tanto vista de los testigos Juan Gomes y tan
+                    <lb/>bien Antemi Nicolas hernandes escrivano No
+                    <lb/>mbrado—Yo el ynterprete del Jusgado tradus
+                    <lb/>go este escritura que original en la YDioma
+                    <lb/>zapotheco se mentregó el qual esta fielmente
+                    <lb/>tradusido Y consentado de de la YDioma zapothe
+<!--[End page 2—Check correspondence capitals]-->
+                </p>
+            </div1>
+            <div1>
+                <p>
+                    <lb/>co según como semedemostró la escri
+                    <lb/>tura original o como esté en que se halla
+                    <lb/>Alcal[d]e [ll]ana al que lade buelvo a todo
+                    <lb/>mi leal saber y entender y ser berdad hasi lo Juro en toda forma de [Dro~], y lo firme he
+                    <lb/>nesta Ciudade de Antequera Valle de oaxaca
+                    <lb/>en once de mayo de mil setecientos ochenta
+                    <lb/>y sinco años—
+                    <lb/>Marcos de los Ang~. Lopez
+                    <lb/>Ynterprete 
+                </p>
+            </div1>
+        </body>
+    </text>
+</TEI>
+
