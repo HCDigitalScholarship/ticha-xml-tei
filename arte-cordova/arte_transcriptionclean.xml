@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="TEISchema_current.rnc" type="application/relax-ng-compact-syntax"?>
+﻿<?xml version="1.0" encoding="UTF-8"?><?xml-model href="TEISchema_current.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve">
    <teiHeader type="text">
           <!-- Note for Mike Z: Maybe Emily can be helpful about this header info -->
@@ -4170,8 +4170,8 @@
                     <hi rend="bold">ZAPOTECA</hi>
                  </fw>  
                  <fw type="pageNum" place="top-right">8</fw>
-                     <lb break="no"/>drido, 
-                     <foreign xml:lang="cvz">ytooxoa</foreign>, 
+                     <lb break="no"/>drido,y 
+                     <foreign xml:lang="cvz">tooxoa</foreign>, 
                      <choice><orig>eſtar</orig><reg type="spanish">estar</reg></choice> enojado, y 
                      <foreign xml:lang="cvz">tóchaya</foreign>, 
                      mezclar<lb break="no"/><choice><orig>ſe</orig><reg type="spanish">se</reg></choice> y 
@@ -4183,8 +4183,7 @@
                         <reg type="spanish">sim<pc type="hyphen">-</pc><lb break="no"/>ple</reg></choice>. 
                      <foreign xml:lang="lat"><choice><abbr>V.G.</abbr><expan>verbi gratia</expan></choice></foreign> 
                      <foreign xml:lang="cvz">Quelatóocho</foreign>, 
-                     <foreign xml:lang="cvz">q̃lanayóocho</foreign>. &amp;. 
-                     <foreign xml:lang="cvz">Yacerca</foreign>
+                     <foreign xml:lang="cvz">q̃lanayóocho</foreign>. &amp;c. Yacerca
                      <lb/><choice><orig>deſtos</orig>
                         <reg type="spanish">de estos</reg></choice> de. 
                      <foreign xml:lang="cvz">to</foreign>. 
@@ -4396,7 +4395,7 @@
                      <choice><orig>çapate</orig><reg type="spanish">zapate</reg></choice><pc type="hyphen">-</pc><lb break="no"/>ro, 
                      <foreign xml:lang="cvz">cótoquéla</foreign>, 
                      agujero que haze agujas, 
-                     <foreign xml:lang="cvz">huazáa<pc type="hyphen">-</pc><lb/>quéchiguiba</foreign>. el 
+                     <foreign xml:lang="cvz">huezáa<pc type="hyphen">-</pc><lb/>quéchiguiba</foreign>. el 
                      <foreign xml:lang="cvz">huezáaquéta</foreign>, de 
                      <foreign xml:lang="cvz">tozaaya</foreign>. el 
                      <foreign xml:lang="cvz">huéni<lb break="no"/>quéta</foreign>, de 
@@ -5553,7 +5552,7 @@
                   <lb/><foreign xml:lang="cvz">Huatijlapéni</foreign>.
                </p>
                <p><lb/><pc>¶</pc><foreign xml:lang="lat">Nequis</foreign>, 
-                  <foreign xml:lang="cvz">nequá</foreign>. 
+                  <foreign xml:lang="lat">nequá</foreign>. 
                   No alguno. 
                   <foreign xml:lang="cvz">Yácaróbi</foreign>.
                </p>
@@ -6077,8 +6076,8 @@
                    <foreign xml:lang="cvz">nj</foreign>. 
                    <foreign xml:lang="lat"><choice><abbr>V.g.</abbr><expan>verbi gratia</expan></choice></foreign> 
                    El que, 
-                   <foreign xml:lang="cvz">la</foreign>, 
-                   que. 
+                   <foreign xml:lang="cvz">ni</foreign>,
+                   la que.
                    <foreign xml:lang="cvz">ni</foreign>, 
                    lo que, 
                    <foreign xml:lang="cvz">ni</foreign>.
@@ -6129,10 +6128,9 @@
                 <choice><orig>dezir tãto</orig><reg type="spanish">decir tanto</reg></choice> como mi parte, o lugar, o 
                 lo<choice><orig>q̃</orig><reg type="spanish"> que</reg></choice>
                 <lb/>me pertenece. Y 
-                <choice><orig>dizẽ aſsi, mio</orig><reg type="spanish">dicen así, mío</reg></choice>, 
-                <foreign xml:lang="cvz">tuyo</foreign>, 
-                <foreign xml:lang="cvz">xiténi</foreign>
-                <lb/>lo, de <choice><orig>aq̃l</orig><reg type="spanish">aquel</reg></choice>, 
+                <choice><orig>dizẽ aſsi, mio</orig><reg type="spanish">dicen así, mío</reg></choice>,  tuyo, 
+                <foreign xml:lang="cvz">xiténi<lb/>lo</foreign>
+                , de <choice><orig>aq̃l</orig><reg type="spanish">aquel</reg></choice>, 
                 <foreign xml:lang="cvz">xiténini</foreign>, 
                 <choice><orig>nr̃o</orig><reg type="spanish">nuestro</reg></choice>, 
                 <foreign xml:lang="cvz">xitenitonó</foreign>. 
@@ -6336,19 +6334,19 @@
                      <foreign xml:lang="cvz">lóhui</foreign>, 
                      <choice><orig>q̃</orig><reg type="spanish">que</reg></choice> le qui,<lb break="no"/>tan en la 
                      <choice><orig>compoſicion</orig><reg type="spanish">composición</reg></choice> o ayuntamiento del verbo,
-                     <lb/><foreign xml:lang="cvz">la</foreign>, 
-                     y, y <choice><orig>dexanle</orig><reg type="spanish">dejan le</reg></choice> en, 
+                     <lb/>la, 
+                     <foreign xml:lang="cvz">y</foreign>, y <choice><orig>dexanle</orig><reg type="spanish">dejan le</reg></choice> en, 
                      <foreign xml:lang="cvz">lo</foreign>. 
                      <foreign xml:lang="lat">vt</foreign> 
                      <foreign xml:lang="cvz">col lóbalo</foreign>, 
                      <choice><orig>barreras</orig><reg type="spanish">barrerás</reg></choice>, y no 
                      di<lb break="no"/><choice><orig>zen</orig><reg type="spanish">cen</reg></choice>, 
                      <foreign xml:lang="cvz">col lóbalóy</foreign>. 
-                     Y <choice><orig>aun eſte</orig><reg type="spanish">aún este</reg></choice>, lo, 
+                     Y <choice><orig>aun eſte</orig><reg type="spanish">aún este</reg></choice>, 
+                     <foreign xml:lang="cvz">lo</foreign>, 
                      <choice><orig>tambien ſincopizan</orig><reg type="spanish">también sincopizan</reg></choice>
-                     <lb/><choice><orig>comiendoſe</orig><reg type="spanish">comiéndose</reg></choice> 
-                     <foreign xml:lang="cvz">la</foreign>, 
-                     <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>. 
+                     <lb/><choice><orig>comiendoſe</orig><reg type="spanish">comiéndose</reg></choice> la, 
+                     <foreign xml:lang="cvz">l</foreign>. 
                      Y <choice><orig>dizen</orig><reg type="spanish">dicen</reg></choice>, 
                      <foreign xml:lang="cvz">nácao</foreign>, 
                      por <choice><orig>dezir</orig><reg type="spanish">decir</reg></choice>, 
@@ -6595,8 +6593,8 @@
                      <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>. 
                      <foreign xml:lang="cvz">cé</foreign>.
                      <lb/>Son, 
-                     <foreign xml:lang="cvz">célea</foreign>, 
-                     <foreign xml:lang="cvz">yzeáaya</foreign>. 
+                     <foreign xml:lang="cvz">célea</foreign>, y
+                     <foreign xml:lang="cvz">zeáaya</foreign>. 
                      El primero quiere 
                      <choice><orig>dezir</orig>
                         <reg type="spanish">decir</reg></choice> venir,
