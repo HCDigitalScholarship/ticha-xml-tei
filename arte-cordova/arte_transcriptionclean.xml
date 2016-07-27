@@ -959,7 +959,7 @@
                         <reg type="spanish">sin</reg></choice> 
             <choice><orig>juſta</orig>
                         <reg type="spanish">justa</reg></choice> 
-            <choice><orig>cauſa</orig><reg>causa</reg></choice> 
+            <choice><orig>cauſa</orig><reg type="spanish">causa</reg></choice> 
             entre
             <lb/>los hombres celebrada). El
             <lb/>atribuir la gloria 
@@ -1051,7 +1051,7 @@
                <reg type="spanish">habiendo</reg></choice> 
             yo 
             <choice><orig>ſentido</orig>
-               <reg>sentido</reg></choice> 
+               <reg type="spanish">sentido</reg></choice> 
             en mi pecho
             <lb/><choice><orig>vn</orig><reg type="spanish">un</reg></choice> 
             <choice><orig>enagenamiento</orig>
@@ -1536,7 +1536,7 @@
                <choice><orig>eſta</orig>
                   <reg type="spanish">esta</reg></choice> 
                <choice><orig>ſolicita</orig>
-                  <reg>solícita</reg></choice> 
+                  <reg type="spanish">solícita</reg></choice> 
                diligencia, 
                <choice><orig>vencio</orig>
                   <reg type="spanish">venció</reg></choice> 
@@ -1688,7 +1688,7 @@
                <fw type="catchword" place="bottom-right">
                 <hi rend="bold">ſeare</hi>
                </fw></orig>
-               <reg>des
+               <reg type="spanish">des
                <fw type="catchword" place="bottom-right">
                 <hi rend="bold">seare</hi>
                </fw></reg></choice> <!-- XMFM I'm not sure if I have done this correctly, deseare -->      
@@ -1730,7 +1730,7 @@
                <choice><orig>ſin</orig>
                   <reg type="spanish">sin</reg></choice> 
                <choice><orig>eſtrope<pc type="hyphen">-</pc><lb break="no"/>çar</orig>
-               <reg>trope<pc type="hyphen">-</pc><lb break="no"/>zar</reg></choice> 
+               <reg type="spanish">trope<pc type="hyphen">-</pc><lb break="no"/>zar</reg></choice> 
                o caer. Y por 
                <choice><orig>eſto</orig>
                   <reg type="spanish">esto</reg></choice> 
@@ -2379,7 +2379,7 @@
                      <foreign xml:lang="lat">quis <choice><orig>velqui</orig><reg type="lat">vel qui</reg></choice></foreign>, 
                      y <choice><orig>aſsi</orig><reg type="spanish">así</reg></choice> para preguntar
                      <lb/>con que le dio, o <choice><orig>hirio</orig><reg type="spanish">hirió</reg></choice>? 
-                     <choice><orig>dizen</orig><reg type="span">dicen</reg></choice> 
+                     <choice><orig>dizen</orig><reg type="spanish">dicen</reg></choice> 
                      <foreign xml:lang="cvz">xij cotiñani</foreign>¿ Y 
                      <choice><orig>reſpon<lb break="no"/>den</orig><reg type="spanish">responden</reg></choice>, 
                      <foreign xml:lang="cvz">aláatijni cotiñani</foreign>. 
@@ -11031,7 +11031,7 @@
                         <lb/>puedo 
                         <choice><orig>hazer</orig>
                            <reg type="spanish">hacer</reg></choice>, 
-                        <foreign xml:lang="cvz">huatácatógolo</foreign>? 
+                        <foreign xml:lang="cvz">huatácatágolo</foreign>? 
                         preguntan <choice><orig>al</orig><reg type="spanish">a lo</reg></choice> que 
                         <choice><orig>eſta</orig><reg type="spanish">está</reg></choice>
                         <lb/>comiendo, puedes ya comer? 
@@ -11046,7 +11046,7 @@
                         <foreign xml:lang="cvz">t</foreign>, 
                         <choice><orig>buel</orig><reg type="spanish">vuel</reg></choice><pc type="hyphen">-</pc><lb break="no"/>ta en, 
                         <foreign xml:lang="cvz">zo</foreign>, o 
-                        <foreign xml:lang="cvz">la</foreign>. 
+                        la. 
                         <foreign xml:lang="cvz">c</foreign>. 
                         del fut. <choice><orig>buelta</orig><reg type="spanish">vuelta</reg></choice> en, 
                         <foreign xml:lang="cvz">zo</foreign>. 
@@ -11076,7 +11076,7 @@
                         <foreign xml:lang="cvz">yátáca tágoa</foreign>
                         <lb/><foreign xml:lang="cvz">yacóca cotágoa</foreign>. 
                         <choice><orig>preterito</orig><reg type="spanish">pretérito</reg></choice>, 
-                        <foreign xml:lang="cvz">yacácaáágoa</foreign>. fut. 
+                        <foreign xml:lang="cvz">yacácacágoa</foreign>. fut. 
                         <foreign xml:lang="cvz">yátá<lb/>catélea</foreign>, 
                         no puedo venir o andar, no tiene mas 
                         vo<pc type="hyphen">-</pc><lb break="no"/><choice><orig>zes</orig><reg type="spanish">ces</reg></choice> 
@@ -11297,11 +11297,14 @@
                         <choice><orig>vſado</orig><reg type="spanish">usado</reg></choice>.
                        </p> 
                   </div>
-                  <div xml:id="arte2.6.20.2">
-                     <head type="outline">Del adjectivo naca</head>
-                     <head type="cordova"><choice><orig>D E L   A D I E C T I V O   <foreign xml:lang="cvz">N A C A.</foreign></orig>
-                        <reg type="spacing">DEL ADIECTIVO NACA</reg>
-                        <reg type="spanish">DEL ADJETIVO NACA</reg></choice></head>
+                  <div xml:id="arte2.6.20.2" part="N" org="uniform" sample="complete">
+                     <head type="outline">2.6.20.2 Del adjectivo naca</head>
+                     <head type="cordova">
+                      <choice>
+                        <orig>D E L   A D I E C T I V O   <foreign xml:lang="cvz">N A C A.</foreign></orig>
+                        <reg type="spacing">DEL ADIECTIVO <foreign xml:lang="cvz">NACA</foreign></reg>
+                        <reg type="spanish">DEL ADJETIVO <foreign xml:lang="cvz">NACA</foreign></reg></choice>
+                      </head>
                         <p>
                            <lb/><choice><orig>T A M B I E N</orig><reg type="spacing">TAMBIEN</reg><reg type="spanish">TAMBIÉN</reg></choice> 
                            <choice><orig>ay</orig><reg type="spanish">hay</reg></choice> en 
@@ -11413,7 +11416,8 @@
                         <choice><orig>eſto</orig><reg type="spanish">esto</reg></choice> es virtud, 
                         <foreign xml:lang="cvz">nácaquelahuichije</foreign>, 
                         es<lb/><choice><orig>vellaqueria</orig><reg type="spanish">bellaquería</reg></choice>. 
-                        Con verbales en, or, 
+                        Con verbales en, 
+                        <foreign xml:lang="cvz">or</foreign>, 
                         <foreign xml:lang="lat">vt</foreign>, 
                         <foreign xml:lang="cvz">náca cótoquéla<lb break="no"/>ya</foreign>, 
                         <choice><orig>ſoy</orig><reg type="spanish">soy</reg></choice> 
@@ -11454,14 +11458,14 @@
                      </p>
                   </div>
                </div>
-               <div xml:id="arte2.6.21">
-                  <head type="outline">Los significados y vozes que tiene un verbo</head>
+               <div xml:id="arte2.6.21" part="N" org="uniform" sample="complete">
+                  <head type="outline">2.6.21 Los significados y vozes que tiene un verbo</head>
                   <head type="cordova">SIGVENSE LOS SIGNIFICADOS<lb/>y <choice>
                                    <orig>bozes</orig>
                                    <reg type="spanish">voces</reg>
                                 </choice> 
                      <choice><orig>q̃</orig><reg type="spanish">que</reg></choice> tiene <choice><orig>vn</orig><reg type="spanish">un</reg></choice> verbo <choice><orig>cõ</orig><reg type="spanish">con</reg></choice> todo lo <choice><orig>q̃</orig><reg type="spanish">que</reg></choice> del procede.</head>
-                  <div xml:id="arte2.6.21.1">
+                  <div xml:id="arte2.6.21.1" part="N" org="uniform" sample="complete">
                      <head type="outline">[Introducción]</head>
                      <p>
                         <lb/><choice><orig><g ref="#swirls-a">A</g> V I E N D O</orig>
@@ -11548,7 +11552,7 @@
                         <choice><orig>aſsi</orig><reg type="spanish">así</reg></choice>.
                      </p>
                   </div>
-                     <div xml:id="arte2.6.21.2">
+                     <div xml:id="arte2.6.21.2" part="N" org="uniform" sample="complete">
                         <head type="outline">Verbos de to</head>
                         <p>
                            <pc>¶</pc><foreign xml:lang="cvz">Tol lóbaya</foreign>, 
@@ -11654,7 +11658,7 @@
                            <choice><orig>eſtar</orig><reg type="spanish">estar</reg></choice> barrido.
                         </p>
                         <p>
-                           <lb/><pc>¶</pc> <foreign xml:lang="cvz">Tiyólóba</foreign>, 
+                           <lb/><pc>¶</pc> <foreign xml:lang="cvz">Tiyóllóba</foreign>, 
                            <choice><orig>eſtarſe</orig><reg type="spanish">estarse</reg></choice> barriendo.
                         </p>
                         <p>
@@ -11868,7 +11872,7 @@
                            <choice><orig>encaxados</orig><reg type="spanish">encajados</reg></choice>.
                         </p>
                      </div>
-                  <div xml:id="arte2.6.21.3">
+                  <div xml:id="arte2.6.21.3" part="N" org="uniform" sample="complete">
                      <head type="outline">Verbos de <foreign xml:lang="cvz">ta</foreign></head>
                      <head type="cordova"><choice><orig>V E R B O S   D E  <foreign xml:lang="cvz">T A</foreign>.</orig>
                         <reg type="spacing">VERBOS DE <foreign xml:lang="cvz">TA</foreign></reg></choice></head>
@@ -11938,8 +11942,8 @@
                      </p>
                   </div>
                </div>
-               <div xml:id="arte2.6.22">
-                  <head type="outline">Las mutaciones de letras y sillabas</head>
+               <div xml:id="arte2.6.22" part="N" org="uniform" sample="complete">
+                  <head type="outline">2.6.22 Las mutaciones de letras y sillabas</head>
                   <head type="cordova">
                      <choice><orig>L A S   M V T A C I O N E S   D E   L E</orig><reg type="spacing">LAS MVTACIONES DE LE</reg>
                         <reg type="spanish">LAS MUTACIONES DE LE</reg></choice><pc type="hyphen">-</pc>
@@ -12026,8 +12030,7 @@
                      </fw>
                      <fw type="pageNum" place="top-right">30</fw>
                      <lb/><foreign xml:lang="cvz">ya</foreign>, yo voy, 
-                     <foreign xml:lang="cvz">tiéelo</foreign>, 
-                     <foreign xml:lang="cvz">tu</foreign>. 
+                     <foreign xml:lang="cvz">tiéelo</foreign>, tu. 
                      <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>. 
                      <foreign xml:lang="cvz">tiéeni</foreign>, aquel. &amp;c. 
                      <choice><orig>Preterito</orig><reg type="spanish">Pretérito</reg></choice>.
@@ -12143,7 +12146,8 @@
                      <foreign xml:lang="cvz">ti<pc type="hyphen">-</pc><lb break="no"/>cóoya</foreign>, meter, 
                      <choice><orig>preterito</orig><reg type="spanish">pretérito</reg></choice>, 
                      <foreign xml:lang="cvz">colóoya</foreign>, plurales, 
-                     <foreign xml:lang="cvz">telóono<lb/>pelóono</foreign>, 
+                     <foreign xml:lang="cvz">telóono</foreign><lb/>
+                     <foreign xml:lang="cvz">pelóono</foreign>, 
                      <foreign xml:lang="cvz">quelóono</foreign>. 
                      <foreign xml:lang="lat" ana="ytem">
                         <choice><orig>Ytẽ</orig><reg type="lat">Ytem</reg></choice></foreign> 
@@ -12303,7 +12307,7 @@
                         <hi rend="bold"><choice><orig>Z A P O T E C A.</orig><reg type="spacing">ZAPOTECA.</reg></choice></hi>
                      </fw>
                     <fw type="pageNum" place="top-right">39</fw>
-                     <lb break="no"/>der en <choice><orig>ſi</orig><reg type="spannish">si</reg></choice>, 
+                     <lb break="no"/>der en <choice><orig>ſi</orig><reg type="spanish">si</reg></choice>, 
                      <foreign xml:lang="cvz">cotéea</foreign>, 
                      <foreign xml:lang="cvz">tetéeno</foreign>, 
                      <foreign xml:lang="cvz">petéeno</foreign>, 
@@ -12685,8 +12689,8 @@
                      <choice><orig>difficultad</orig><reg type="spanish">dificultad</reg></choice>.
                   </p>
                   </div>
-                  <div xml:id="arte2.6.23">
-                     <head type="outline">Diphtongos y letras duplicadas</head>
+                  <div xml:id="arte2.6.23"  part="N" org="uniform" sample="complete">
+                     <head type="outline">2.6.23 Diphtongos y letras duplicadas</head>
                      <head type="cordova"><choice><orig>D I P H T O N G O S   Y
                         <lb/>lerras duplicadas.</orig><reg type="spacing">DIPHTONGOS Y lerras duplicadas.</reg><reg type="spanish">DIPHTONGOS y letras duplicadas></reg></choice></head>
                         <p>
@@ -12736,7 +12740,10 @@
                         <lb/><foreign xml:lang="cvz">Ticiguíea</foreign>, engañar, <foreign xml:lang="cvz">huichije</foreign>, <foreign xml:lang="cvz">huichijea</foreign>, <foreign xml:lang="cvz">nácahui<pc type="hyphen">-</pc>
                         <lb break="no"/>chijea</foreign>. 
                      </p>
-                     <p><lb/><pc>¶</pc><foreign xml:lang="cvz">Ou</foreign>. <foreign xml:lang="lat">vt</foreign> <foreign xml:lang="cvz">tóua</foreign>, <foreign xml:lang="cvz">boca</foreign>. 
+                     <p><lb/><pc>¶</pc>
+                      <foreign xml:lang="cvz">Ou</foreign>. 
+                      <foreign xml:lang="lat">vt</foreign> 
+                      <foreign xml:lang="cvz">tóua</foreign>, boca. 
                         <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>. 
                         <foreign xml:lang="cvz">tóhua</foreign>, porque algu<pc type="hyphen">-</pc>
                         <lb break="no"/>nos pienſan que es 
@@ -12748,8 +12755,8 @@
                         <lb/>hemos entre las letras duplicados.
                      </p>                     
                   </div>
-                  <div xml:id="arte2.6.24">
-                     <head type="outline">Letras que se semejan</head>
+                  <div xml:id="arte2.6.24"  part="N" org="uniform" sample="complete">
+                     <head type="outline">2.6.24 Letras que se semejan</head>
                      <head type="cordova"><choice><orig>L E T R A S   Q V E   S E   S E M E I A N</orig><reg type="spacing">LETRAS QUE SE SEMEIAN</reg><reg type="spanish">LETRAS QUE SE SEMEJAN</reg></choice></head>
                      <p><lb/><g ref="#swirls-a">A</g> C E R C A del <choice><orig>hazer</orig><reg type="spanish">hacer</reg></choice> ſimbolizar <choice><orig>vnas</orig><reg type="spanish">unas</reg></choice> le<pc type="hyphen">-</pc>
                         <lb break="no"/>tras con otras, por razon de la blanda pro
@@ -12779,8 +12786,9 @@
                         <foreign xml:lang="cvz">z</foreign>, 
                         <foreign xml:lang="lat">vt</foreign> 
                         <foreign xml:lang="cvz">tozóbaya</foreign>, pro, 
-                        <foreign xml:lang="cvz">toçóbaya Ti<pc type="hyphen">-</pc>
-                        <lb break="no"/>cija</foreign>,pro,<foreign xml:lang="cvz">tizija</foreign>. 
+                        <foreign xml:lang="cvz">toçóbaya</foreign> 
+                        <foreign xml:lang="cvz">Ti<pc type="hyphen">-</pc><lb break="no"/>cija</foreign>,pro,
+                        <foreign xml:lang="cvz">tizija</foreign>. 
                         <foreign xml:lang="cvz">Tozáaya</foreign>, pro, 
                         <foreign xml:lang="cvz">toçáaya</foreign>. 
                      </p>
@@ -12876,8 +12884,8 @@
                         <lb/><choice><orig>aſsi</orig><reg type="spanish">así</reg></choice> al reues.
                      </p>
                   </div>
-                 <div xml:id="arte2.6.25">
-                     <head type="outline">Duplicacion de letras</head>
+                 <div xml:id="arte2.6.25"  part="N" org="uniform" sample="complete">
+                     <head type="outline">2.6.25 Duplicacion de letras</head>
                      <head type="cordova"><choice><orig>D V P L I C A C I O N   D E   L E T R A S</orig><reg type="spacing">DVPLICACION DE LETRAS</reg><reg type="spanish">DUPLICACIÓN DE LETRAS</reg></choice></head>
                      <p><lb/><g ref="#leaves-t">T</g> A M B I E N <choice><orig>ay</orig><reg type="spanish">hay</reg></choice> en <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice> lengua como arri
                         <lb break="no"/>ba diximos duplicacion de letras, <choice><orig>aſsi</orig><reg type="spanish">así</reg></choice> vo<pc type="hyphen">-</pc>
@@ -12966,8 +12974,8 @@
                         <lb break="no"/>ciones pero <choice><orig>agora</orig><reg type="spanish">ahora</reg></choice> no <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> offrecen mas.
                      </p>
                   </div>
-                  <div xml:id="arte2.6.26">
-                     <head type="outline">Notable curioso</head>
+                  <div xml:id="arte2.6.26"  part="N" org="uniform" sample="complete">
+                     <head type="outline">2.6.26 Notable curioso</head>
                      <head type="cordova"><choice><orig>N O T A B L E   C U R I O S O</orig><reg type="spacing">NOTABLE CURIOSO</reg></choice></head>
                      <p><lb/>PAreciome(auqueno por 
                         <choice><orig>coſa</orig><reg type="spanish">cosa</reg></choice>muy neceſſaria)
@@ -12986,8 +12994,27 @@
                      <p><lb/><pc>¶</pc>De los de <foreign xml:lang="cvz">to</foreign>.<foreign xml:lang="cvz">to</foreign>,<foreign xml:lang="cvz">too</foreign>,<foreign xml:lang="cvz">tocó</foreign>,<foreign xml:lang="cvz">tocé</foreign>,<foreign xml:lang="cvz">toci</foreign>,<foreign xml:lang="cvz">tococe</foreign>,<foreign xml:lang="cvz">to<pc type="hyphen">-</pc>
                         <lb/>cocí</foreign>,<foreign xml:lang="cvz">tóniná</foreign>,<foreign xml:lang="cvz">tónihué</foreign>,<foreign xml:lang="cvz">tóniqué</foreign>,<foreign xml:lang="cvz">tóniqui</foreign>.
                      </p>
-                     <p><lb/><pc>¶</pc><choice><orig>adiectiuos</orig><reg type="spanish">adjetivos</reg></choice> y participios.<foreign xml:lang="cvz">co</foreign>,<foreign xml:lang="cvz">ce</foreign>.<foreign xml:lang="cvz">ci</foreign>,<foreign xml:lang="cvz">ciáa</foreign>,<foreign xml:lang="cvz">huá</foreign>,<foreign xml:lang="cvz">hué</foreign>,
-                        <lb/><foreign xml:lang="cvz">La</foreign>.<foreign xml:lang="cvz">le</foreign>.<foreign xml:lang="cvz">li</foreign>.<foreign xml:lang="cvz">lo</foreign>. <foreign xml:lang="cvz">Na</foreign>.<foreign xml:lang="cvz">ne</foreign>.<foreign xml:lang="cvz">ni</foreign>.<foreign xml:lang="cvz">no</foreign>. <foreign xml:lang="cvz">Pe</foreign>.<foreign xml:lang="cvz">pi</foreign>. <foreign xml:lang="cvz">Quéla to</foreign>.<foreign xml:lang="cvz">zaa</foreign>.<foreign xml:lang="cvz">zee</foreign>.
+                     <p><lb/><pc>¶</pc><choice><orig>adiectiuos</orig><reg type="spanish">adjetivos</reg></choice> y participios.
+                        <foreign xml:lang="cvz">co</foreign>,
+                        <foreign xml:lang="cvz">ce</foreign>.
+                        <foreign xml:lang="cvz">ci</foreign>,
+                        <foreign xml:lang="cvz">ciáa</foreign>,
+                        <foreign xml:lang="cvz">huá</foreign>,
+                        <foreign xml:lang="cvz">hué</foreign>,
+                        <lb/><foreign xml:lang="cvz">La</foreign>.
+                        <foreign xml:lang="cvz">le</foreign>.
+                        <foreign xml:lang="cvz">li</foreign>.
+                        <foreign xml:lang="cvz">lo</foreign>. 
+                        <foreign xml:lang="cvz">Na</foreign>.
+                        <foreign xml:lang="cvz">ne</foreign>.
+                        <foreign xml:lang="cvz">ni</foreign>.
+                        <foreign xml:lang="cvz">no</foreign>. 
+                        <foreign xml:lang="cvz">Pe</foreign>.
+                        <foreign xml:lang="cvz">pi</foreign>. 
+                        <foreign xml:lang="cvz">Quéla</foreign> 
+                        <foreign xml:lang="cvz">to</foreign>.
+                        <foreign xml:lang="cvz">zaa</foreign>.
+                        <foreign xml:lang="cvz">zee</foreign>.
                      </p>
                   </div> 
             </div>
@@ -13101,10 +13128,15 @@
                      </choice> verbos <choice><orig>actiuos</orig><reg type="spanish">activos</reg></choice> que ſignificã alguna a<lb break="no"/>ctiõ. 
                      <foreign xml:lang="lat">vt</foreign> <foreign xml:lang="cvz">péninácoxábani</foreign>, el 
                      <choice><orig>q̃</orig><reg type="spanish">que</reg></choice> tiene cubierta la man<pc type="hyphen">-</pc><lb break="no"/>ta, 
-                     <foreign xml:lang="cvz">péninaça</foreign>, el que ſalta, <foreign xml:lang="cvz">ná?epiága</foreign>, el que tie<pc type="hyphen">-</pc><lb break="no"/>ne veſtida la camiſa. <choice>
+                     <foreign xml:lang="cvz">péninaça</foreign>, el que ſalta, 
+                     <foreign xml:lang="cvz">ná#epiága</foreign>, 
+                     el que tie<pc type="hyphen">-</pc><lb break="no"/>ne veſtida la camiſa. 
+                     <choice>
                        <orig>Tambien</orig>
                        <reg type="spanish">También</reg>
-                    </choice> <choice><orig>dizen</orig><reg type="spanish">dicen</reg></choice>, <foreign xml:lang="cvz">nitácati</foreign>,
+                    </choice> 
+                    <choice><orig>dizen</orig><reg type="spanish">dicen</reg></choice>, 
+                    <foreign xml:lang="cvz">nitácati</foreign>,
                      <fw type="catchword" place="bottom-right">
                         <hi rend="bold">F2		lo que</hi>
                      </fw>
@@ -13411,8 +13443,11 @@
                      <foreign xml:lang="cvz">tiyánaya</foreign>, cauado <choice><orig>ſer</orig><reg type="spanish">ser</reg></choice>, 
                      <foreign xml:lang="cvz">nipiyána</foreign>, loque
                      <lb/>ſe cabo. 
-                     <foreign xml:lang="cvz">Tiétea</foreign>, baxar, <foreign xml:lang="cvz">nónipéani</foreign>nipiéte. De los verbos neu<pc type="hyphen">-</pc><lb break="no"/>trosquando tienen los preteritos en, co, entonces
-                     <lb/>ſe tomara el,<foreign xml:lang="cvz">co</foreign>.
+                     <foreign xml:lang="cvz">Tiétea</foreign>, baxar, 
+                     <foreign xml:lang="cvz">nipiéte</foreign>. 
+                     De los verbos neu<pc type="hyphen">-</pc><lb break="no"/>trosquando tienen los preteritos en, co, entonces
+                     <lb/>ſe tomara el,
+                     <foreign xml:lang="cvz">co</foreign>.
                      
                        <lb/><pc>¶</pc>En los verbosde, 
                      <foreign xml:lang="cvz">te</foreign>, <choice>
@@ -13433,7 +13468,7 @@
                      <foreign xml:lang="cvz">nicóle</foreign>, el que
                      <lb/>nacio, 
                      <foreign xml:lang="cvz">tátia</foreign>, morir, 
-                     <foreign xml:lang="cvz">nicóri</foreign>, el que murio.   En los de, 
+                     <foreign xml:lang="cvz">nicóti</foreign>, el que murio.   En los de, 
                      <lb break="no"/>to. 
                      <foreign xml:lang="cvz">Tóochoa</foreign>, podrirſe, 
                      <foreign xml:lang="cvz">nicóocho</foreign>. 
@@ -13634,32 +13669,10 @@
                </div>
                <div xml:id="arte2.8.2">
                   <head type="outline">2.8.2 Preposiciones del genetivo</head>
-                  <head type="cordova"><hi rend="bold"><choice><orig>P R E P O S I C I O N E S <lb/>del <choice><orig>Genitiuo</orig><reg type="spanish">Genitivo</reg></choice>.</orig><reg type="spacing">PREPOSICIONES del Genitiuo</reg><reg type="spanish">PREPOSICIONES del Genitivo</reg></choice></hi></head>
-                  <p><lb/><foreign xml:lang="lat">PRidie</foreign>, 
-                     <choice><orig>vn dia</orig><reg type="spanish">un día</reg></choice>, antes, 
-                     <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice> no la 
-                     <choice><orig>ay</orig><reg type="spanish">hay</reg></choice>. Sino 
-                     <choice><orig>dizen</orig><reg type="spanish">dicen</reg></choice>, 
-                     <foreign xml:lang="cvz">ci<pc type="hyphen">-</pc><lb break="no"/>canaaque</foreign>. 
-                     <foreign xml:lang="lat"><choice><abbr>ſ</abbr><expan>supra</expan></choice></foreign>. 
-                     Como ayer 
-                     <choice><orig>paſſo</orig><reg type="spanish">pasó</reg></choice> tal 
-                     <choice><orig>coſa</orig><reg type="spanish">cosa</reg></choice>, que es 
-                     <choice><orig>de<lb break="no"/>zir</orig><reg type="spanish">de<lb break="no"/>cir</reg></choice> 
-                     como 
-                     <choice><orig>oy</orig><reg type="spanish">hoy</reg></choice> fue eſto, y ayer <choice><orig>paſſo</orig><reg type="spanish">pasó</reg></choice> lo otro.
-                  </p>
-                     <p><lb/><foreign xml:lang="lat">PRidie</foreign>, 
-                        <choice><orig>vn dia</orig><reg type="spanish">un día</reg></choice>, antes, 
-                        <choice><orig>eſta no la ay</orig><reg type="spanish">esta no la hay</reg></choice>. Sino 
-                        <choice><orig>dizen</orig><reg type="spanish">dicen</reg></choice>, <foreign xml:lang="cvz">ci<pc type="hyphen">-</pc></foreign>
-                    </p>
-                  <p><lb/><foreign xml:lang="lat">PRidie</foreign>, 
-                     <choice><orig>vn dia</orig><reg type="spanish">un día</reg></choice>, antes, 
-                     <choice><orig>eſta no la ay</orig><reg type="spanish">esta no la hay</reg></choice>. Sino <choice><orig>dizen</orig><reg type="spanish">dicen</reg></choice>, 
-                     <foreign xml:lang="cvz">ci<pc type="hyphen">-</pc>
-                  </foreign>
-                  </p>
+                  <head type="cordova"><hi rend="bold">
+                      <choice><orig>P R E P O S I C I O N E S <lb/>del <choice><orig>Genitiuo</orig><reg type="spanish">Genitivo</reg></choice>.</orig>
+                      <reg type="spacing">PREPOSICIONES del Genitiuo</reg><reg type="spanish">PREPOSICIONES del Genitivo</reg></choice>
+                  </hi></head>
                   <p><lb/><foreign xml:lang="lat">PRidie</foreign>, 
                      <choice><orig>vn dia</orig><reg type="spanish">un día</reg></choice>, antes, 
                      <choice><orig>eſta no la ay</orig><reg type="spanish">esta no la hay</reg></choice>. Sino <choice><orig>dizen</orig><reg type="spanish">dicen</reg></choice>, <foreign xml:lang="cvz">ci<pc type="hyphen">-</pc>
@@ -13674,6 +13687,7 @@
                      <choice><orig>oy fue eſto, y</orig><reg type="spanish">hoy fue esto, y</reg></choice> ayer 
                      <choice><orig>paſſo</orig><reg type="spanish">pasó</reg></choice> lo otro.
                   </p>
+                  
                   <p><lb/><pc>¶</pc><foreign xml:lang="lat">Poſtridie</foreign>, 
                      <choice><orig>vn dia deſpues</orig><reg type="spanish">un día después</reg></choice> 
                      <choice><orig>Tampoco la ay</orig><reg type="spanish">Tampoco la hay</reg></choice>, <choice><orig>ſino</orig><reg type="spanish">sino</reg></choice> 
@@ -13994,8 +14008,13 @@
                   <p><pc>¶</pc><foreign xml:lang="lat">Pro</foreign>. <foreign xml:lang="lat"><choice><abbr>ſ</abbr><expan>scilicet</expan></choice></foreign>. por, 
                      <choice><orig>ſirue</orig><reg type="spanish">sirve</reg></choice>. 
                      <foreign xml:lang="cvz">nijaténi</foreign>.
-                     <lb/><pc>¶</pc><foreign xml:lang="lat">Pre</foreign>. Si dize pujança o ſuperioridad. <foreign xml:lang="lat">vt</foreign> pre conſor<lb break="no"/>tibus tuis, como dize el pſalmo. Diremos. <foreign xml:lang="cvz">titételo
-                     <lb/>quitáali leçáalo</foreign>. Y 
+                     <lb/><pc>¶</pc><foreign xml:lang="lat">Pre</foreign>. 
+                     Si dize pujança o ſuperioridad. 
+                     <foreign xml:lang="lat">vt</foreign> 
+                     pre conſor<lb break="no"/>tibus tuis, como dize el pſalmo. Diremos. 
+                     <foreign xml:lang="cvz">titételo</foreign>
+                     <lb/><foreign xml:lang="cvz">quitáali</foreign> 
+                     <foreign xml:lang="cvz">leçáalo</foreign>. Y 
                      <choice>
                         <orig>ſi</orig>
                         <reg type="spanish">si</reg>
@@ -14072,8 +14091,10 @@
                      </choice> <choice>
                         <orig>ſignifica</orig>
                         <reg type="spanish">significa</reg>
-                     </choice> dentro de algo <choice><orig>dizen</orig><reg type="spanish">dicen</reg></choice>,
-                     <lb/><foreign xml:lang="cvz">láni, liyóo</foreign>. Y 
+                     </choice> dentro de algo 
+                     <choice><orig>dizen</orig><reg type="spanish">dicen</reg></choice>,
+                     <lb/><foreign xml:lang="cvz">láni</foreign>, 
+                     <foreign xml:lang="cvz">liyóo</foreign>. Y 
                      <choice><orig>quando</orig><reg type="spanish">cuando</reg></choice> <choice>
                         <orig>ſignifica</orig>
                         <reg type="spanish">significa</reg>
@@ -14776,7 +14797,9 @@
                     <foreign xml:lang="cvz">huij</foreign>, 
                     <foreign xml:lang="cvz">huay</foreign>,
                     <lb/><foreign xml:lang="cvz">huay</foreign>, 
-                    <foreign xml:lang="cvz">hoyy ho huij</foreign>, xxx. 
+                    <foreign xml:lang="cvz">hoyy</foreign> 
+                    <foreign xml:lang="cvz">ho</foreign> 
+                    <foreign xml:lang="cvz">huij</foreign>, xxx. 
                     <foreign xml:lang="lat">Dolẽtis ytem</foreign>. Quãdo dan
                     <lb/>burlando a 
                     <choice><orig>vna</orig><reg type="spanish">una</reg></choice> 
@@ -18846,7 +18869,7 @@
                     <choice><orig>quando</orig><reg type="spanish">cuando</reg></choice> 
                     duplican el ver<lb break="no"/>bo o otra diction 
                     <choice><orig>ſignifica</orig><reg type="spanish">significa</reg></choice> 
-                    <choice><orig>ſuperabundancia</orig><reg>superabundancia</reg></choice> 
+                    <choice><orig>ſuperabundancia</orig><reg type="spanish">superabundancia</reg></choice> 
                     o infini<lb break="no"/>dad. 
                      <foreign xml:lang="lat" ana="vt">vt</foreign>. 
                      <foreign xml:lang="lat" ana="vg"><choice><abbr>V.g.</abbr><expan>Verbi gratia</expan></choice></foreign> 
@@ -22214,7 +22237,7 @@
                                 <foreign xml:lang="cvz">huayá</foreign>.
                              </p>
                           </div>
-                          <div xml:id="arte2.14.3.2.6.2">
+                          <div xml:id="arte2.14.3.2.6.2"  part="N" org="uniform" sample="complete">
                              <head type="outline">2.14.3.2.6.2 Gerundio del ablative</head>
                              <head type="cordova">G E R V N D I O  de ablatiuo.</head>
                              <p><lb/><pc>¶</pc><choice><orig>Eſte</orig><reg type="spanish">Este</reg></choice> gerũdio de ablatiuo es mas dificultoſo que
@@ -25423,7 +25446,7 @@
                                 <choice><orig>boz</orig>
                                    <reg type="spanish">voz</reg></choice> 
                                 <choice><orig>pueſta</orig>
-                                   <reg>puesta</reg></choice> 
+                                   <reg type="spanish">puesta</reg></choice> 
                                 arriba, 
                                 vide
                                 <lb/>arras en 
@@ -25817,7 +25840,7 @@
                   <choice><orig>ſi</orig>
                      <reg type="spanish">si</reg></choice> 
                   <choice><orig>dezimos</orig>
-                     <reg>decimos</reg></choice> 
+                     <reg type="spanish">decimos</reg></choice> 
                   <choice><orig>treyn<lb break="no"/>ta</orig>
                      <reg type="spanish">trein<lb break="no"/>ta</reg></choice>, 
                   o contamos quarenta o cinquenta, con 
