@@ -18810,7 +18810,13 @@
                      <choice><orig>aſsi</orig><reg type="spanish">así</reg></choice> a los <choice><orig>adiectiuos</orig><reg type="spanish">adjetivos</reg></choice> como a otros
                      <lb/>muchos nombres en poſtponiendoles el <choice><orig>pronõbre</orig><reg type="spanish">pronombre</reg></choice>
                      <lb/>incluyen enſi verbo. ſ. 
-                     <foreign xml:lang="lat">Sum eſt fui</foreign> que es <choice><orig>ſer</orig><reg type="spanish">ser</reg></choice> lo que di<lb break="no"/>ze el nombre o <choice><orig>adiectiuo</orig><reg type="spanish">adjetivo</reg></choice>. <foreign xml:lang="lat" ana="vt">vt</foreign> <foreign xml:lang="cvz">naxiñáaya</foreign>,ſoy colora<pc type="hyphen">-</pc><lb break="no"/>do.Pedro yaſoy Pedro, <foreign xml:lang="cvz">yáguizácáya</foreign>,no ſoy bue<pc type="hyphen">-</pc><lb break="no"/>no,&amp;c
+                     <foreign xml:lang="lat">Sum eſt fui</foreign> que es 
+                     <choice><orig>ſer</orig><reg type="spanish">ser</reg></choice> lo que di<lb break="no"/>ze 
+                     el nombre o <choice><orig>adiectiuo</orig><reg type="spanish">adjetivo</reg></choice>. 
+                     <foreign xml:lang="lat" ana="vt">vt</foreign> 
+                     <foreign xml:lang="cvz">naxiñáaya</foreign>,
+                     ſoy colora<pc type="hyphen">-</pc><lb break="no"/>do.Pedro yaſoy 
+                     <foreign xml:lang="cvz">Pedro, yáguizácáya</foreign>,no ſoy bue<pc type="hyphen">-</pc><lb break="no"/>no,&amp;c
                   </p>
                </div>
                <div xml:id="arte2.13.4">
@@ -19480,7 +19486,8 @@
                      <foreign xml:lang="cvz">peçáca quicáhaxóoni xiténia</foreign>,
                      <lb/><foreign xml:lang="cvz">chíca cochágachóoñáaya nazéniyága</foreign>, 
                      <foreign xml:lang="cvz">céróbiñaa<lb break="no"/>ya coxéniaquíe</foreign>, 
-                     <foreign xml:lang="cvz">queláogaa peccáya quíeq3chíca pi<lb break="no"/>chéla xóoa penícani cotíñaya yaga ciáni</foreign>. &amp;c. 
+                     <foreign xml:lang="cvz">queláogaa peccáya quíe<choice><abbr>q3</abbr><expan>que</expan></choice>chíca pi<lb break="no"/>chéla 
+                      xóoa penícani cotíñaya yaga ciáni</foreign>. &amp;c. 
                      He a<lb break="no"/>qui muchas noticias juntas <choice>
                         <orig>ſin</orig>
                         <reg type="spanish">sin</reg>
@@ -19569,7 +19576,8 @@
                      <foreign xml:lang="cvz">Huayánipé<pc type="hyphen">-</pc><lb break="no"/>nitátini</foreign>, 
                      muchos han ya muerto, y yo dixera, 
                      <foreign xml:lang="cvz">ciáni
-                     <lb/>pénicótini</foreign>, el <foreign xml:lang="cvz">tátini</foreign>, es del <choice><orig>preſente</orig><reg type="spanish">presente</reg></choice> y por amor del
+                     <lb/>pénicótini</foreign>, el <foreign xml:lang="cvz">tátini</foreign>, es del 
+                     <choice><orig>preſente</orig><reg type="spanish">presente</reg></choice> y por amor del
                      <lb/><foreign xml:lang="cvz">huá</foreign>, <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> haze de preterito. <choice>
                        <orig>Dizen</orig>
                        <reg type="spanish">Dicen</reg>
@@ -19577,8 +19585,7 @@
                        <orig>tambien</orig>
                        <reg type="spanish">también</reg>
                     </choice>, 
-                     <foreign xml:lang="cvz">yácaná</foreign>,
-                     <lb/><foreign xml:lang="cvz">ni</foreign>, no quiſo. <choice>
+                     <foreign xml:lang="cvz">yácaná<pc type="hyphen">-</pc><lb break="no"/>ni</foreign>, no quiſo. <choice>
                        <orig>Tambien</orig>
                        <reg type="spanish">También</reg>
                     </choice> <choice><orig>dizen</orig><reg type="spanish">dicen</reg></choice>, 
@@ -19659,7 +19666,7 @@
                        <head type="outline">2.14.2.1 Indicativo modo</head>
                        <head type="cordova"><choice><orig>I N D I C A T I V O   M O D O</orig><reg type="spacing">INDICATIVO MODO</reg></choice></head>
                        <div xml:id="arte2.14.2.1.1">
-                          <head type="outline">Tempore presenti</head>
+                          <head type="outline">2.14.2.1.1 Tempore presenti</head>
                           <head type="cordova">Tempore preſenti.</head>
                           <p><lb/><foreign xml:lang="lat" ana="none">SVm</foreign>, yo ſoy. 
                              <foreign xml:lang="lat" ana="scilicet"><choice><abbr>ſ</abbr><expan>scilicet</expan></choice></foreign>. 
@@ -19744,7 +19751,7 @@
                           </p>
                        </div>
                        <div xml:id="arte2.14.2.1.2">
-                          <head type="outline">Preterito imperfecto</head>
+                          <head type="outline">2.14.2.1.2 Preterito imperfecto</head>
                           <head type="cordova"><choice><orig>P R E T E R I T O<lb/>imperfecto.</orig><reg type="spacing">PRETERITO</reg><reg type="spanish">PRETÉRITO</reg></choice></head>
                           <p><lb/><foreign xml:lang="cvz">NAcatiá</foreign>. 
                              <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>. 
@@ -19802,13 +19809,13 @@
                           </p>
                        </div>
                        <div xml:id="arte2.14.2.1.3">
-                          <head type="outline">Preterito perfecto</head>
+                          <head type="outline">2.14.2.1.3 Preterito perfecto</head>
                           <head type="cordova"><choice><orig>P R E T E R I T O   P E R F E C T O.</orig><reg type="spacing">PRETERITO PERFECTO</reg><reg type="spanish">PRETÉRITO PERFECTO</reg></choice></head>
-                          <p><lb/>COcava,<foreign xml:lang="cvz">ciácaya</foreign>,<foreign xml:lang="cvz">huayácaya</foreign>, yo <choice>
-                                   <orig>fuy</orig>
-                                   <reg type="spanish">fui</reg>
-                                </choice>, 
-                             <foreign xml:lang="cvz">he</foreign>, y oue ſi 
+                          <p><lb/><foreign xml:lang="cvz">COcava</foreign>,
+                            <foreign xml:lang="cvz">ciácaya</foreign>,
+                            <foreign xml:lang="cvz">huayácaya</foreign>, yo 
+                            <choice><orig>fuy</orig><reg type="spanish">fui</reg></choice>, 
+                            he, y oue ſi 
                              <lb/>do. Todas <choice><orig>eſtas</orig><reg type="spanish">estas</reg></choice> tres <choice>
                                    <orig>bozes</orig>
                                    <reg type="spanish">voces</reg>
@@ -19847,7 +19854,7 @@
                           </p>
                        </div>
                        <div xml:id="arte2.14.2.1.4">
-                          <head type="outline">Pluscuam perfecto</head>
+                          <head type="outline">2.14.2.1.4 Pluscuam perfecto</head>
                           <head type="cordova"><choice><orig>P L V S Q V A M   P E R F E C T O.</orig><reg type="spacing">PLVSQVAM PERFECTO.</reg><reg type="spanish">PLUSQUAM PERFECTO.</reg></choice></head>
                           <p><lb/><foreign xml:lang="cvz">HVayácacayá</foreign>. 
                              <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>. 
@@ -19874,7 +19881,7 @@
                           </p>
                        </div>
                        <div xml:id="arte2.14.2.1.5">
-                          <head type="outline">Futuro imperfecto</head>
+                          <head type="outline">2.14.2.1.5 Futuro imperfecto</head>
                           <head type="cordova"><choice><orig>F V T V R O   I M P E R F E C T O.</orig></choice><reg type="spacing">FVTVRO IMPERFECTO.</reg><reg type="spanish">FUTURO IMPERFECTO.</reg></head>
                           <p><lb/><foreign xml:lang="cvz">CAcaya</foreign>, yo ſere, 
                              <foreign xml:lang="cvz">cácalo</foreign>, tu, 
@@ -19893,7 +19900,7 @@
                           </p>
                        </div>
                        <div xml:id="arte2.14.2.1.6">
-                          <head type="outline">Futuro perfecto</head>
+                          <head type="outline">2.14.2.1.6 Futuro perfecto</head>
                           <head type="cordova"><choice><orig>F V T V R O   P E R F E C T O.</orig><reg type="spacing">FVTVRO PERFECTO.</reg><reg type="spanish">FUTURO PERFECTO</reg></choice></head>
                           <p><lb/><foreign xml:lang="cvz">HVayácalaya</foreign>. 
                              <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>. 
@@ -19971,9 +19978,16 @@
                        <div xml:id="arte2.14.2.3.1">
                           <head type="outline">2.14.2.3.1 Presente</head>
                           <head type="cordova"><choice><orig>O P T A T I V O   M O D O  preſente.</orig><reg type="spacing">OPTATIVO MODO preſente.</reg><reg type="spanish">OPTATIVO MODO presente.</reg></choice></head>
-                          <p><lb/><foreign xml:lang="cvz">HA</foreign>,<foreign xml:lang="cvz">nicácaya</foreign>.<foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>.<foreign xml:lang="cvz">há</foreign>,<foreign xml:lang="cvz">cooba</foreign>.<foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>.<foreign xml:lang="cvz">coopanicácaya</foreign>.<foreign xml:lang="cvz">Ha<pc type="hyphen">-</pc>
-                             <lb break="no"/>nicácalayá</foreign>.<foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>.<foreign xml:lang="cvz">há nicácacícalayá</foreign>, <foreign xml:lang="cvz">há</foreign>, <foreign xml:lang="cvz">tebélani
-                             <lb/>cácalaya</foreign>, <foreign xml:lang="cvz">hátebélanicácacícalayá</foreign>, o <choice>
+                          <p><lb/><foreign xml:lang="cvz">HA,nicácaya</foreign>.
+                            <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>.
+                            <foreign xml:lang="cvz">há,cooba</foreign>.
+                            <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>.
+                            <foreign xml:lang="cvz">coopanicácaya</foreign>.
+                            <foreign xml:lang="cvz">Ha<pc type="hyphen">-</pc><lb break="no"/>nicácalayá</foreign>.
+                            <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>.
+                            <foreign xml:lang="cvz">há nicácacícalayá</foreign>, 
+                            <foreign xml:lang="cvz">há, tebélani<lb break="no"/>cácalaya</foreign>, 
+                            <foreign xml:lang="cvz">hátebélanicácacícalayá</foreign>, o <choice>
                         <orig>ſi</orig>
                         <reg type="spanish">si</reg>
                      </choice> yo fue
@@ -19996,7 +20010,9 @@
                              <lb/>futuro imperfecto de 
                              <choice><orig>indicatiuo</orig><reg type="spanish">indicativo</reg></choice> <choice><orig>antepueſto</orig><reg type="spanish">antepuesto</reg></choice>, 
                              <foreign xml:lang="cvz">háni</foreign>,
-                             <lb/>y <choice><orig>interpueſto</orig><reg type="spanish">interpuesto</reg></choice>, <foreign xml:lang="cvz">cíca</foreign>,y <foreign xml:lang="cvz">la</foreign>, y 
+                             <lb/>y <choice><orig>interpueſto</orig><reg type="spanish">interpuesto</reg></choice>, 
+                             <foreign xml:lang="cvz">cíca</foreign>,y 
+                             <foreign xml:lang="cvz">la</foreign>, y 
                              <foreign xml:lang="cvz">tébela</foreign>, 
                              <choice><orig>quando</orig><reg type="spanish">cuando</reg></choice> quiſieren
                              <lb/>hablar con ellos.
@@ -20037,7 +20053,8 @@
                              <choice><orig>enel</orig><reg type="spanish">en el</reg></choice> <choice><orig>preſente</orig><reg type="spanish">presente</reg></choice>. 
                              <foreign xml:lang="lat" ana="scilicet"><choice><abbr>ſ</abbr><expan>scilicet</expan></choice></foreign><foreign xml:lang="cvz">Ca</foreign>, 
                              <foreign xml:lang="cvz">cíca</foreign>, 
-                             <foreign xml:lang="cvz">tebélaycópa</foreign>, <choice><orig>quando</orig><reg type="spanish">cuando</reg></choice>
+                             <foreign xml:lang="cvz">tebéla</foreign>y
+                             <foreign xml:lang="cvz">cópa</foreign>, <choice><orig>quando</orig><reg type="spanish">cuando</reg></choice>
                              <lb/>las quiſierẽ meter. Y puedeſe <choice><orig>cõ</orig><reg type="spanish">con</reg></choice> <choice><orig>qualquiera</orig><reg type="spanish">cualquiera</reg></choice> de las
                              <lb/>dos <choice>
                                    <orig>bozes</orig>
@@ -20283,7 +20300,7 @@
                              <lb/>ſe les puede anteponer, 
                              <foreign xml:lang="cvz">chi</foreign>, en lugar del, 
                              <foreign xml:lang="cvz">ni</foreign>. 
-                             <foreign xml:lang="cvz">vt</foreign> 
+                             <foreign xml:lang="lat">vt</foreign> 
                              <foreign xml:lang="cvz">tebé<pc type="hyphen">-</pc>
                              <lb break="no"/>lachi</foreign>. 
                              <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>. 
@@ -20314,8 +20331,7 @@
                        <div xml:id="arte2.14.2.4.3">
                           <head type="outline">2.14.2.4.3 Preterito perfecto</head>
                           <head type="cordova"><choice><orig>P R E T E R I T O   P E R F E C T O.</orig><reg type="spacing">PRETÉRITO PERFECTO.</reg><reg type="spanish">PRETÉRITO PERFECTO.</reg></choice></head>
-                          <p><lb/>TEBELA 
-                             <foreign xml:lang="cvz">ciácacicalayá</foreign>, como. 
+                          <p><lb/><foreign xml:lang="cvz">TEBELA ciácacicalayá</foreign>, como. 
                              <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>. ſiyo aya ſido, 
                              <foreign xml:lang="cvz">te
                              <lb break="no"/>béla ciácacícalaló</foreign>, tu. 
@@ -20464,8 +20480,9 @@
                              <lb/>quiero ſere, pero ſirvuẽſe 
                              <choice><orig>della</orig><reg type="spanish">de ella</reg></choice> 
                              <choice><orig>aſsi</orig><reg type="spanish">así</reg></choice>, laformaciõ <choice><orig>della</orig><reg type="spanish">de ella</reg></choice>
-                             <lb/>es el <choice><orig>preſente</orig><reg type="spanish">presente</reg></choice> de indicatuio de querer, <choice><orig>q̃</orig><reg type="spanish">que</reg></choice> es,<foreign xml:lang="cvz">tácala</foreign>,
-                             <lb/><foreign xml:lang="cvz">chí</foreign>,y el futuro imperfecto de alli que es,<foreign xml:lang="cvz">cácaya</foreign>.                             
+                             <lb/>es el <choice><orig>preſente</orig><reg type="spanish">presente</reg></choice> de indicatuio de querer, 
+                             <choice><orig>q̃</orig><reg type="spanish">que</reg></choice> es,
+                             <foreign xml:lang="cvz">tácala<pc type="hyphen">-</pc><lb break="no"/>chí</foreign>,y el futuro imperfecto de alli que es,<foreign xml:lang="cvz">cácaya</foreign>.                             
                           </p>
                        </div>
                        <div xml:id="arte2.14.2.5.2">
@@ -20550,8 +20567,7 @@
                         <orig>haziendo</orig>
                         <reg type="spanish">haciendo</reg>
                      </choice>. 
-                          <foreign xml:lang="cvz">Huazeá</foreign>,
-                          <lb/><foreign xml:lang="cvz">cati</foreign>, 
+                          <foreign xml:lang="cvz">Huazeá<pc type="hyphen">-</pc><lb break="no"/>cati</foreign>, 
                           <choice><orig>eſte</orig><reg type="spanish">este</reg></choice> <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> forma del <choice><orig>preſente</orig><reg type="spanish">presente</reg></choice> de <choice><orig>indicatiuo</orig><reg type="spanish">indicativo</reg></choice>,
                           <lb/>antepu<choice><orig>eſto</orig><reg type="spanish">esto</reg></choice>, 
                           <foreign xml:lang="cvz">huazé</foreign>. 
@@ -20584,12 +20600,9 @@
                              <head type="cordova"><choice><orig>preſente</orig><reg type="spanish">presente</reg></choice>.</head>
                              <p><lb/><pc>¶</pc><foreign xml:lang="cvz">Tánaya</foreign>. 
                                 <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>. 
-                                <foreign xml:lang="cvz">tánnaya</foreign>, 
-                                yo cauo, 
-                                <foreign xml:lang="cvz">tánalo</foreign>, 
-                                <foreign xml:lang="cvz">tu</foreign>, 
-                                <foreign xml:lang="cvz">tánani</foreign>, 
-                                aq̃̃̃l
+                                <foreign xml:lang="cvz">tánnaya</foreign>, yo <choice><orig>cauo</orig><reg type="spanish">cavo</reg></choice>, 
+                                <foreign xml:lang="cvz">tánalo</foreign>, <choice><orig>tu</orig><reg type="spanish">tú</reg></choice>, 
+                                <foreign xml:lang="cvz">tánani</foreign>, <choice><orig>aq̃̃̃l</orig><reg type="spanish">aquel</reg></choice>
                                 <lb/><foreign xml:lang="cvz">tiéenano</foreign>, 
                                 <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>. 
                                 <foreign xml:lang="cvz">teyánano</foreign>, 
@@ -20712,8 +20725,9 @@
                                 <foreign xml:lang="cvz">huayánacalatonó</foreign>, nos, 
                                 <foreign xml:lang="cvz">có<pc type="hyphen">-</pc>
                                 <lb break="no"/>nacalató</foreign>. &amp;c. vos. 
-                                <foreign xml:lang="cvz">cónacalaní</foreign>. &amp;c. aq̃̃̃llos. La forma
-                                <lb/><foreign xml:lang="cvz">ciõ</foreign> es, la primera <choice>
+                                <foreign xml:lang="cvz">cónacalaní</foreign>. &amp;c. aq̃̃̃llos. La
+                                <choice><orig>forma<lb break="no"/>ciõ</orig><reg type="spanish">forma<lb break="no"/>ción</reg></choice> 
+                                es, la primera <choice>
                                    <orig>bozes</orig>
                                    <reg type="spanish">voces</reg>
                                 </choice> la del preterito <choice><orig>interpueſto</orig><reg type="spanish">interpuesto</reg></choice>
@@ -20824,14 +20838,21 @@
                           <div xml:id="arte2.14.3.1.3.1">
                              <head type="outline">2.14.3.1.3.1 Presente</head>
                              <head type="cordova"><choice><orig>O P T A T I V O   P R E S E N T E.</orig><reg type="spacing">OPTATIVO PRESENTE.</reg></choice></head>
-                             <p><lb/><foreign xml:lang="cvz">HAnicánaya</foreign>.<foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>.<foreign xml:lang="cvz">hánicánalayá</foreign>, <foreign xml:lang="cvz">hánicánacícala<pc type="hyphen">-</pc>
-                                <lb break="no"/>yá</foreign>.<foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>.<foreign xml:lang="cvz">hácooba</foreign>.<foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>.<foreign xml:lang="cvz">coopa nicánalayá</foreign>.<foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>.<foreign xml:lang="cvz">hátebéla<pc type="hyphen">-</pc>
-                                <lb break="no"/>nicánacicalayá</foreign>, o <choice>
+                             <p><lb/><foreign xml:lang="cvz">HAnicánaya</foreign>.
+                             <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>.
+                             <foreign xml:lang="cvz">hánicánalayá</foreign>, 
+                             <foreign xml:lang="cvz">hánicánacícala<pc type="hyphen">-</pc><lb break="no"/>yá</foreign>.
+                             <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>.
+                             <foreign xml:lang="cvz">hácooba</foreign>.
+                             <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>.
+                             <foreign xml:lang="cvz">coopa nicánalayá</foreign>.
+                             <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>.
+                             <foreign xml:lang="cvz">hátebéla<pc type="hyphen">-</pc><lb break="no"/>nicánacicalayá</foreign>, o <choice>
                         <orig>ſi</orig>
                         <reg type="spanish">si</reg>
                      </choice> yo cauaſſe. Todas <choice><orig>eſtas</orig><reg type="spanish">estas</reg></choice> bo
                                 <lb break="no"/>zes ſufre todo el <choice><orig>optatiuo</orig><reg type="spanish">optativo</reg></choice>, 
-                                <foreign xml:lang="cvz">hán?ánalo</foreign>, o <choice>
+                                <foreign xml:lang="cvz">hán#ánalo</foreign>, o <choice>
                         <orig>ſi</orig>
                         <reg type="spanish">si</reg>
                      </choice> tu, 
@@ -21378,11 +21399,10 @@
                                 <foreign xml:lang="cvz">pebijtónatónani</foreign>, 
                                 boluioſſe llorando.
                                 <lb/><foreign xml:lang="lat" ana="ytem">Ytem</foreign>, 
-                                <foreign xml:lang="cvz">cozáateláceláchini, tollóbayóho cótini</foreign>, 
-                                par
-                                <lb break="no"/>tioſe triſte, murio 
-                                <choice><orig>eſtando</orig>
-                                   <reg type="spanish">estando</reg></choice> 
+                                <foreign xml:lang="cvz">cozáateláceláchini</foreign>, 
+                                <foreign xml:lang="cvz">tollóbayóho cótini</foreign>, 
+                                par<lb break="no"/>tioſe triſte, murio 
+                                <choice><orig>eſtando</orig><reg type="spanish">estando</reg></choice> 
                                 barriendo. Para el futuro
                                 <lb/>Cauando te moriras. 
                                 <foreign xml:lang="cvz">Huatánatiló cátilo</foreign>, 
@@ -21391,9 +21411,7 @@
                                 <choice><orig>quando</orig>
                                    <reg type="spanish">cuando</reg></choice> 
                                 tu vẽgas, 
-                                <foreign xml:lang="cvz">tánatiániqueyétalo</foreign>, 
-                                <foreign xml:lang="cvz">cánitá
-                                <lb break="no"/>go chápílo quíepaa</foreign>? 
+                                <foreign xml:lang="cvz">tánatiániqueyétalo, cánitá<lb break="no"/>go chápílo quíepaa?</foreign> 
                                 pues comiendo has de 
                                 <choice><orig>yr</orig>
                                    <reg type="spanish">ir</reg></choice> 
@@ -21588,7 +21606,7 @@
                        </div>                        
                     </div>
                     <div xml:id="arte2.14.3.2">
-                       <head type="outline">2.14.3.2 Otro verbo de <foreign xml:lang="cvz">ta</foreign>, irregular [tagoa]</head>
+                       <head type="outline">2.14.3.2 Otro verbo de <foreign xml:lang="cvz">ta</foreign>, irregular [<foreign xml:lang="cvz">tagoa</foreign>]</head>
                        <head type="cordova"><choice><orig>S I G V E S E   O T R O   V E R B O</orig><reg type="spacing">SIGVESE OTRO VERBO</reg><reg type="spanish">SIGUESE OTRO VERBO</reg></choice></head>
                        <div xml:id="arte2.14.2.2.1">
                           <head type="outline">2.14.2.2.1 Indicativo modo</head>
