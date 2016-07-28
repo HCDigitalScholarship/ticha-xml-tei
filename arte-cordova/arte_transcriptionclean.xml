@@ -21816,10 +21816,10 @@
                              <p><lb/><foreign xml:lang="cvz"><hi rend="bold">H A</hi> nicágoa</foreign>. 
                                 <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>. 
                                 <foreign xml:lang="cvz">hánicágolayá</foreign>, 
-                                <foreign xml:lang="cvz">hánicágocícalayá
-                                <lb/>hácóopanicágocícalayá</foreign>, 
-                                <foreign xml:lang="cvz">hátebélanicágocíca
-                                <lb break="no"/>layá</foreign>, o <choice><orig>ſi</orig><reg type="spanish">si</reg></choice> yo comieſſe, todas las 
+                                <foreign xml:lang="cvz">hánicágocícalayá</foreign>
+                                <lb/><foreign xml:lang="cvz">hácóopanicágocícalayá</foreign>, 
+                                <foreign xml:lang="cvz">hátebélanicágocíca<lb break="no"/>layá</foreign>, 
+                                o <choice><orig>ſi</orig><reg type="spanish">si</reg></choice> yo comieſſe, todas las 
                                 <choice><orig>bozes</orig>
                                    <reg type="spanish">voces</reg></choice> 
                                 dichas
@@ -21850,8 +21850,7 @@
                                 <lb break="no"/>pueſtas, y 
                                 <choice><orig>poſtpueſtas</orig><reg type="spanish">pospuestas</reg></choice> las particulas dichas.
                                 <foreign xml:lang="lat" ana="scilicet"><choice><abbr>ſ</abbr><expan>scilicet</expan></choice></foreign>. 
-                                <foreign xml:lang="cvz">Háni</foreign>,
-                                <lb/>la. 
+                                <foreign xml:lang="cvz">Háni<pc type="hyphen">-</pc><lb break="no"/>la</foreign>. 
                                 <foreign xml:lang="cvz">cíca</foreign>, 
                                 <foreign xml:lang="cvz">cóopa</foreign>, 
                                 <foreign xml:lang="cvz">tebéla</foreign>. Y el plural es el plural de alli
@@ -21861,8 +21860,7 @@
                           <div xml:id="arte2.14.3.2.3.2">
                              <head type="outline">2.14.3.2.3.2 Preterito imperfecto</head>
                              <head type="cordova">P R E T E R I T O   I M P E R F E C T O.</head>
-                             <p><lb/><hi rend="bold">H A</hi>, 
-                                <foreign xml:lang="cvz">niyágolayániáca</foreign>, 
+                             <p><lb/><foreign xml:lang="cvz"><hi rend="bold">H A</hi>, niyágolayániáca</foreign>, 
                                 oſi yo comiera comeria y
                                 <lb/>comieſſe. &amp;c. Con las particulas arriba 
                                 <choice><orig>pueſtas</orig><reg type="spanish">puestas</reg></choice>
@@ -22227,14 +22225,14 @@
                        <div xml:id="arte2.14.3.2.6">
                           <head type="outline">2.14.3.2.6 Gerundios</head>
                           <head type="cordova">G E R V N D I O S,</head>
-                          <div xml:id="arte2.14.2.2.6.1">
-                             <head type="outline">2.14.2.2.6.1 El de genetivo</head>
+                          <div xml:id="arte2.14.3.2.6.1">
+                             <head type="outline">2.14.3.2.6.1 El de genetivo</head>
                              <head type="cordova">el de genitiuo.</head>
                              <p><lb/><pc>¶</pc>El gerundio de genitiuo. Dize tiempo es de co
                                 <lb break="no"/>mer, y hazeſe <choice><orig>aſsi</orig><reg type="spanish">así</reg></choice>. 
-                                <foreign xml:lang="cvz">Huayálapéa huazazácapéa</foreign>, 
-                                <foreign xml:lang="cvz">hua<pc type="hyphen">-</pc>
-                                <lb break="no"/>zeácapéa cágoni</foreign>. 
+                                <foreign xml:lang="cvz">Huayálapéa</foreign> 
+                                <foreign xml:lang="cvz">huazazácapéa</foreign>, 
+                                <foreign xml:lang="cvz">hua<pc type="hyphen">-</pc><lb break="no"/>zeácapéa cágoni</foreign>. 
                                 <choice><orig>Eſte</orig><reg type="spanish">Este</reg></choice> es el verbo o <choice><orig>adjectiuo</orig><reg type="spanish">adjetivo</reg></choice>, 
                                 <foreign xml:lang="cvz">zéza<pc type="hyphen">-</pc>
                                 <lb break="no"/>ca</foreign>. 
@@ -22527,7 +22525,8 @@
                                 comiẽ
                                 <lb break="no"/>çan en, 
                                 <foreign xml:lang="cvz">pi</foreign>, y todos <choice><orig>ſon</orig><reg type="spanish">son</reg></choice> d elos verbos de, 
-                                <foreign xml:lang="cvz">ti</foreign>. <foreign xml:lang="cvz">V. g.</foreign> 
+                                <foreign xml:lang="cvz">ti</foreign>. 
+                                <foreign xml:lang="lat" ana="vg"><choice><abbr>V. g.</abbr><expan>Verbi gratia</expan></choice></foreign> 
                                 <foreign xml:lang="cvz">Ni<pc type="hyphen">-</pc>
                                 <lb break="no"/>piágo</foreign>, lo que fue comido, 
                                 <foreign xml:lang="cvz">nipitíba</foreign>, lo coſido, 
@@ -22788,10 +22787,10 @@
                     </div>
                     <div xml:id="arte2.14.4.3">
                        <head type="outline">2.14.4.3 Optativo modo</head>
-                       <div xml:id="arte2.14.3.3.1">
-                          <head type="outline">2.14.3.3.1 Presente</head>
+                       <div xml:id="arte2.14.4.3.1">
+                          <head type="outline">2.14.4.3.1 Presente</head>
                           <head type="cordova">O P T A T I V O   M O D O <choice><orig>preſente</orig><reg type="spanish">presente</reg></choice>.</head>
-                          <p><lb/><foreign xml:lang="cvz"><hi rend="bold">HA</hi></foreign>, <foreign xml:lang="cvz">niquechélalayá</foreign>, o 
+                          <p><lb/><foreign xml:lang="cvz"><hi rend="bold">HA</hi>, niquechélalayá</foreign>, o 
                              <choice><orig>ſi</orig><reg type="spanish">si</reg></choice> yo hallaſe, plural. 
                              <foreign xml:lang="cvz">háni
                              <lb break="no"/>quechélalatonó</foreign>, nos, 
@@ -22803,13 +22802,12 @@
                           </p>
                        </div>
                        <div xml:id="arte2.14.4.3.2">
-                          <head type="outline">2.14.3.2 Preterito imperfecto</head>
+                          <head type="outline">2.14.4.3.2 Preterito imperfecto</head>
                           <head type="cordova">P R E T E R I T O   I M P E R F E C T O.</head>
                           <p><lb/><pc>¶</pc><foreign xml:lang="cvz">Hániechélayaniáca</foreign>, o <choice><orig>ſi</orig><reg type="spanish">si</reg></choice> yo hallara, hallaria y ha
                              <lb break="no"/>llaſe. <foreign xml:lang="lat" ana="none">vide ſupra</foreign> lo que queda apuntado en <choice><orig>eſte</orig><reg type="spanish">este</reg></choice> tiem
                              <lb break="no"/>po en el verbo <foreign xml:lang="cvz">tánaya</foreign>. plural. 
-                             <foreign xml:lang="cvz">hániéchélalatonóniá
-                             <lb break="no"/>co</foreign>, o 
+                             <foreign xml:lang="cvz">hániéchélalatonóniá<lb break="no"/>ca</foreign>, o 
                              <choice><orig>ſi</orig><reg type="spanish">si</reg></choice> <choice><orig>noſotros</orig><reg type="spanish">nosotros</reg></choice>, &amp;c. 
                              <foreign xml:lang="cvz">Hániéchélalatóniáca</foreign>, vos. &amp;c.
                              <lb/><choice><orig>Eſte</orig><reg type="spanish">Este</reg></choice> <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> forma del futuro imperfecto de indicatiuo
@@ -22910,7 +22908,7 @@
                        <div xml:id="arte2.14.4.3.5">
                           <head type="outline">2.14.4.3.5 Futuro</head>
                           <head type="cordova">F V T V R O.</head>
-                          <p><lb/><foreign xml:lang="cvz"><hi rend="bold">HA</hi></foreign>, <foreign xml:lang="cvz">niquechélalayá</foreign>. <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>. <foreign xml:lang="cvz">hániquechélacícalayá</foreign>,
+                          <p><lb/><foreign xml:lang="cvz"><hi rend="bold">HA</hi>, niquechélalayá</foreign>. <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>. <foreign xml:lang="cvz">hániquechélacícalayá</foreign>,
                              <lb/>o <choice><orig>ſi</orig><reg type="spanish">si</reg></choice> yo halle, plural. <foreign xml:lang="cvz">Há niquechélacícalatonó</foreign>
                              <lb/><choice><orig>noſotros</orig><reg type="spanish">nosotros</reg></choice>, <foreign xml:lang="cvz">há niquechélacícalató</foreign>, <choice><orig>voſotros</orig><reg type="spanish">vosotros</reg></choice>. &amp;c.
                              <lb/><choice><orig>Eſte</orig><reg type="spanish">Este</reg></choice> es el futuro imperfecto de indicatiuo, antepue
@@ -23026,7 +23024,7 @@
                           </p>
                        </div>
                        <div xml:id="arte2.14.4.4.5">
-                          <head type="outline">Futuro</head>
+                          <head type="outline">2.14.4.4.5 Futuro</head>
                           <head type="cordova">F V T V R O.</head>
                           <p><lb/><pc>¶</pc><choice><orig>Eſte</orig><reg type="spanish">Este</reg></choice> futuro comunmente 
                              <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> habla por el futuro
@@ -23044,7 +23042,7 @@
                        <head type="outline">2.14.4.5 Infinitivo modo</head>
                        <head type="cordova">I N F I N I T I V O   M O D O</head>
                        <div xml:id="arte2.14.3.5.1">
-                          <head type="outline">Presente</head>
+                          <head type="outline">2.14.3.5.1 Presente</head>
                           <head type="cordova"><choice><orig>preſente</orig><reg type="spanish">presente</reg></choice>.</head>
                           <p><lb/><pc>¶</pc><foreign xml:lang="cvz">Techéla</foreign>. 
                              <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign> 
@@ -23097,7 +23095,7 @@
                           <hi rend="bold"><choice><orig>A R T E</orig><reg type="spacing">ARTE</reg></choice></hi>
                        </fw>
                        <div xml:id="arte2.14.4.5.2">
-                          <head type="outline">Pluscuam perfecto</head>
+                          <head type="outline">2.14.4.5.2 Pluscuam perfecto</head>
                           <head type="cordova">P L V S Q V A M   P E R F E C T O.</head>
                           <p><lb/><hi rend="bold"><g ref="#swirls-a">A</g> V E R</hi>  hallado. 
                              <choice><orig>Eſte</orig><reg type="spanish">Este</reg></choice> tiene dos ſentidos y
@@ -23132,7 +23130,7 @@
                           </p>
                        </div>
                        <div xml:id="arte2.14.4.5.3">
-                          <head type="outline">Futuro</head>
+                          <head type="outline">2.14.4.5.3 Futuro</head>
                           <head type="cordova">F V T V R O.</head>
                           <p><lb/><pc>¶</pc>El futuro es auer de hallar. 
                              <choice><orig>Eſte</orig><reg type="spanish">Este</reg></choice> <choice>
@@ -23591,10 +23589,11 @@
                           <div xml:id="arte2.14.5.1.1.4">
                              <head type="outline">2.14.5.1.1.4 Pluscuam perfecto</head>
                              <head type="cordova">P L V S Q V A M   P E R F E C T O.</head>
-                             <p><lb/><foreign xml:lang="cvz">HVaquíbicayá</foreign>. 
+                             <p><lb/><foreign xml:lang="cvz"><choice><orig>HVaquíbicayá</orig><reg type="cvz">HUaquíbicayá</reg></choice></foreign>. 
                                 <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>. 
-                                <foreign xml:lang="cvz">ciquíbicayá  cotíbicayá</foreign>, yo a<pc type="hyphen">-</pc>
-                                <lb break="no"/>uia lauado. Plural. 
+                                <foreign xml:lang="cvz">ciquíbicayá</foreign> 
+                                <foreign xml:lang="cvz">cotíbicayá</foreign>, 
+                                yo a<pc type="hyphen">-</pc><lb break="no"/>uia lauado. Plural. 
                                 <foreign xml:lang="cvz">Huá</foreign>. 
                                 <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>. 
                                 <foreign xml:lang="cvz">huétíbicatonó</foreign>, noſo
@@ -24449,8 +24448,8 @@
                                 </choice> <choice><orig>ſon</orig><reg type="spanish">son</reg></choice> para  dos roman<pc type="hyphen">-</pc>
                                 <lb break="no"/>ces que 
                                 <choice><orig>eſte</orig><reg type="spanish">este</reg></choice> tiempo tiene para cada <choice><orig>vno</orig><reg type="spanish">uno</reg></choice> la ſuya, 
-                                <foreign xml:lang="cvz">vi<pc type="hyphen">-</pc>
-                                <lb break="no"/>de ſupra</foreign> los pluſquam perfectos  de los verbos paſ<pc type="hyphen">-</pc>
+                                <foreign xml:lang="lat">vi<pc type="hyphen">-</pc><lb break="no"/>de ſupra</foreign> 
+                                los pluſquam perfectos  de los verbos paſ<pc type="hyphen">-</pc>
                                 <lb break="no"/>ſados. &amp;c.
                              </p>
                           </div>
@@ -24566,7 +24565,8 @@
                                 <foreign xml:lang="cvz">tónatiágaya</foreign>, 
                                 yo oygo, plural, 
                                 <foreign xml:lang="cvz">tíñano</foreign>.
-                                <lb/><foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>. <foreign xml:lang="cvz">tĩñatonó</foreign>, nos, 
+                                <lb/><foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>. 
+                                <foreign xml:lang="cvz">tíñatonó</foreign>, nos, 
                                 <foreign xml:lang="cvz">tónato</foreign>, vos. &amp;c. El plural 
                                 <choice><orig>deſte</orig>
                   <reg type="spanish">de este</reg></choice>
@@ -24614,9 +24614,7 @@
                              <head type="cordova"><choice><orig>P R E T E R I T O  perfecto.</orig><reg type="spacing">PRETERITO perfecto.</reg><reg type="spanish">PRETÉRITO perfecto.</reg></choice></head>
                              <p><lb/><pc>¶</pc><foreign xml:lang="cvz">Píñaya</foreign>, 
                                 <foreign xml:lang="cvz">ciónaya</foreign>, 
-                                <foreign xml:lang="cvz">hueyónaya</foreign>, yo oy, 
-                                <foreign xml:lang="cvz">he</foreign> y 
-                                <foreign xml:lang="cvz">oue</foreign>
+                                <foreign xml:lang="cvz">hueyónaya</foreign>, yo oy, he y oue
                                 <lb/>oydo. Con 
                                 <choice><orig>eſtas</orig>
                                    <reg type="spanish">estas</reg></choice> tres <choice>
@@ -25206,11 +25204,11 @@
                         <reg type="spanish">sin</reg>
                      </choice> el pronombre. Y para las de mas <choice><orig>perſonas</orig><reg type="spanish">personas</reg></choice> <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> ſir<pc type="hyphen">-</pc>
                              <lb break="no"/>ue del futuro imperfecto de indicatiuo, 
-                             <foreign xml:lang="cvz">láquecéte<pc type="hyphen">-</pc><lb break="no"/>no. 
+                             <foreign xml:lang="cvz">láquecéte<pc type="hyphen">-</pc><lb break="no"/>no</foreign>. 
                                 <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>. 
                                 <foreign xml:lang="cvz">cólaquecéteno</foreign>. nos, 
                                 <foreign xml:lang="cvz">cólacocéte</foreign> vos, las dos bo
-                             <lb break="no"/>zes</foreign> 
+                             <lb break="no"/>zes 
                              <choice><orig>ſon</orig><reg type="spanish">son</reg></choice> el plural del futuro ya dicho 
                              <choice><orig>antepueſto</orig><reg type="spanish">antepuesto</reg></choice> la.
                              <lb/>y, 
@@ -25238,11 +25236,9 @@
                              <fw type="head" place="top-center">
                                 <hi rend="bold"><choice><orig>Z A P O T E C A.			99</orig><reg type="spacing">ZAPOTECA. 99</reg></choice></hi>
                              </fw>
-                             <p><lb/><foreign xml:lang="cvz"><hi rend="bold">HA</hi></foreign>, 
-                                <foreign xml:lang="cvz">nicocétea</foreign>. o 
+                             <p><lb/><foreign xml:lang="cvz"><hi rend="bold">HA</hi>, nicocétea</foreign>. o 
                                 <choice><orig>ſi</orig><reg type="spanish">si</reg></choice> yo me enſeñaſſe. <choice><abbr>plur</abbr><expan>plural</expan></choice>. 
-                                <foreign xml:lang="cvz">hániq̃
-                                <lb/>céteno</foreign>, o 
+                                <foreign xml:lang="cvz">háni<choice><abbr>q̃</abbr><reg type="cvz">que</reg></choice><lb/>céteno</foreign>, o 
                                 <choice><orig>ſi</orig><reg type="spanish">si</reg></choice> <choice><orig>noſotros</orig><reg type="spanish">nosotros</reg></choice>, 
                                 <foreign xml:lang="cvz">hánicocéteto</foreign>. vos. &amp;c.
                                 <lb/>La primera 
@@ -25660,8 +25656,8 @@
                           <foreign xml:lang="cvz">pi</foreign>, 
                           <foreign xml:lang="cvz">qui</foreign>. 
                           <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>. 
-                          <foreign xml:lang="cvz">pe
-                          <lb/>que</foreign>.
+                          <foreign xml:lang="cvz">pe</foreign>
+                          <lb/><foreign xml:lang="cvz">que</foreign>.
                        </p>
          <fw type="catchword" place="bottom-right">
             <hi rend="bold">SIGVE<pc type="hyphen">-</pc></hi> 
