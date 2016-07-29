@@ -27488,7 +27488,8 @@
                      <foreign xml:lang="cvz">Cochínobitópa yza</foreign>, 
                      <foreign xml:lang="cvz">co<pc type="hyphen">-</pc><lb/>chínobicáto yza</foreign>. 18</p>
                   <p><lb/><pc>¶</pc><choice><orig>Agora diez y ocho</orig><reg type="spanish">Ahora dieciocho</reg></choice> años. 
-                     <foreign xml:lang="cvz">Cochínobichóna yza<lb/>cochínobicáyo yza</foreign>. 19</p>
+                     <foreign xml:lang="cvz">Cochínobichóna yza</foreign><lb/>
+                     <foreign xml:lang="cvz">cochínobicáyo yza</foreign>. 19</p>
                   <p><lb/><pc>¶</pc><choice><orig>Agora diez y nueue</orig><reg type="spanish">Ahora diecinueve</reg></choice> años. 
                      <foreign xml:lang="cvz">Cochínobitápa yza</foreign>, 
                      <foreign xml:lang="cvz">cé<lb/>tóbicál le yza</foreign>. 20</p>
@@ -27540,8 +27541,7 @@
                      <lb/><foreign xml:lang="cvz">láo yza yánná</foreign>.
                   </p>
                   <p><lb/><pc>¶</pc>De <choice><orig>aqui a vn</orig><reg type="spanish">aquí a un</reg></choice> año. 
-                     <foreign xml:lang="cvz">Huéta</foreign>, 
-                     <foreign xml:lang="cvz">céchagá yza</foreign>, 
+                     <foreign xml:lang="cvz">Huéta, céchagá yza</foreign>, 
                      <foreign xml:lang="cvz">cétóbiyza
                      <fw type="catchword" place="bottom-right">
                         <hi rend="bold">O 3		<foreign xml:lang="cvz">cécháa</foreign><pc type="hyphen">-</pc></hi> 
@@ -27701,7 +27701,8 @@
                      <reg type="spanish">indios cuentan</reg></choice> por<lb/>Lunas. 
                   <foreign xml:lang="lat"><choice><abbr>ſ</abbr><expan>scilicet</expan></choice></foreign>. 
                   <choice><orig>vna</orig><reg type="spanish">una</reg></choice> luna, dos lunas, 
-                  <foreign xml:lang="cvz">tóbi péo tópa péo</foreign>. &amp;c.
+                  <foreign xml:lang="cvz">tóbi péo</foreign> 
+                  <foreign xml:lang="cvz">tópa péo</foreign>. &amp;c.
                   <lb/>Y de <choice><orig>aqui</orig><reg type="spanish">aquí</reg></choice> han venido a llamar a el mes 
                   <choice><orig>nr̃o</orig><reg type="spanish">nuestro</reg></choice>, 
                   <foreign xml:lang="cvz">péo</foreign>.
@@ -27728,8 +27729,7 @@
                      <foreign xml:lang="lat"><choice><abbr>V.g.</abbr><expan>verbi gratia</expan></choice></foreign>
                      <lb/><foreign xml:lang="cvz">Tóbichij</foreign>, 
                      <foreign xml:lang="cvz">tópa chij</foreign>, 
-                     <foreign xml:lang="cvz">chóna</foreign>, 
-                     <foreign xml:lang="cvz">chij</foreign>. 
+                     <foreign xml:lang="cvz">chóna, chij</foreign>. 
                      <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>. 
                      <foreign xml:lang="cvz">chée</foreign>,
                      <foreign xml:lang="cvz">tóbicopij<lb break="no"/>cha</foreign>,
@@ -28439,7 +28439,8 @@
                      <choice><orig>coſas</orig><reg type="spanish">cosas</reg></choice>. &amp;c. 
                      <foreign xml:lang="cvz">Tóbiláo</foreign>, 
                      <foreign xml:lang="cvz">tó<pc type="hyphen">-</pc><lb break="no"/>paláo</foreign>, 
-                     <foreign xml:lang="cvz">tóbicuée tópa cuée</foreign>, 
+                     <foreign xml:lang="cvz">tóbicuée</foreign> 
+                     <foreign xml:lang="cvz">tópa cuée</foreign>, 
                      <foreign xml:lang="cvz">tóbixipáa</foreign>, 
                      <foreign xml:lang="cvz">tópaxípaa</foreign>.
                   </p>
@@ -28448,8 +28449,7 @@
                      de dos en dos. &amp;c. 
                      <foreign xml:lang="cvz">Tóbi<lb/>tóbi</foreign>, 
                      <foreign xml:lang="cvz">tóbi tóbigaa</foreign>, 
-                     <foreign xml:lang="cvz">tóbigaa</foreign>, 
-                     <foreign xml:lang="cvz">tóbigaa</foreign>. 
+                     <foreign xml:lang="cvz">tóbigaa, tóbigaa</foreign>. 
                      <foreign xml:lang="cvz">Quirópa quiró<pc type="hyphen">-</pc><lb break="no"/>pa</foreign>, 
                      <foreign xml:lang="cvz">quirópagaa quirópagaa quirópa quirópagaa</foreign>.
                   </p>
@@ -28503,8 +28503,7 @@
                      De <choice><orig>preſen<lb break="no"/>te dizen</orig><reg type="spanish">presen<lb break="no"/>te dicen</reg></choice>. 
                      <foreign xml:lang="cvz">Tiyóna yánna</foreign>, 
                      <foreign xml:lang="cvz">titápa yánná</foreign>, 
-                     <foreign xml:lang="cvz">tiyaayo</foreign>,
-                     <lb/><foreign xml:lang="cvz">yánná</foreign>. &amp;c. 
+                     <foreign xml:lang="cvz">tiyaayo<pc type="hyphen">-</pc><lb break="no"/>yánná</foreign>. &amp;c. 
                      Y de preterito, <foreign xml:lang="cvz">cótotij</foreign>, 
                      <foreign xml:lang="cvz">coyónatij yán<lb break="no"/>ná</foreign>, 
                      <foreign xml:lang="cvz">cotápatij yánná</foreign>. &amp;c. O 
@@ -28555,11 +28554,9 @@
                         <orig>dizen</orig>
                         <reg type="spanish">dicen</reg>
                      </choice>.
-                     <lb/><foreign xml:lang="cvz">Cochij copijchalácipéo</foreign> 
-                     <choice>
-                        <orig>Agoſto diez delmes de<lb/>Agoſto</orig>
-                        <reg type="spanish">agosto diez del mes de<lb/>agosto</reg>
-                     </choice>. &amp;c.
+                     <lb/><foreign xml:lang="cvz">Cochij copijchalácipéo <choice><orig>Agoſto</orig><reg type="cvz">agosto</reg></choice></foreign> 
+                     diez <choice><orig>delmes</orig><reg type="spanish">del mes</reg></choice> de <lb/>
+                     <choice><orig>Agoſto</orig><reg type="spanish">agosto</reg></choice>. &amp;c.
                   </p>
                </div>
                   <div xml:id="arte3.5.11">
@@ -31553,7 +31550,7 @@
                         <orig>quãdo</orig>
                         <reg type="spanish">cuando</reg>
                      </choice> 
-                   <foreign xml:lang="cvz">cãta</foreign> 
+                   <choice><orig>cãta</orig><reg type="spanish">canta</reg></choice> 
                    dizq̃
                    <lb/>dize 
                    <foreign xml:lang="cvz">huija huija</foreign>, y es aguero de los caminantes.
