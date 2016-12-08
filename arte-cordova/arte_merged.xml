@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="TEISchema_current.rnc" type="application/relax-ng-compact-syntax"?>
+﻿<?xml version="1.0" encoding="UTF-8"?><?xml-model href="TEISchema_current.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve">
    <teiHeader type="text">
       <fileDesc>
@@ -26476,7 +26476,7 @@
                   <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>. 
                   <foreign xml:lang="cvz">cé<pc type="hyphen">-</pc><lb break="no"/>caayo cáca</foreign>, 
                   <foreign xml:lang="cvz">quizáha</foreign>, 
-                  <foreign xml:lang="cvz">cháaxópalál le</foreign>. 115</p>
+                  <foreign xml:lang="cvz">cháaxópalálle</foreign>. 115</p>
                   <fw type="catchword" place="bottom-right">
                      <hi rend="bold">Ciento</hi> 
                   </fw>
@@ -26487,74 +26487,74 @@
                   </fw>
                   <p><lb/><pc>¶</pc>Ciento <choice><orig>y diez y ſeys</orig><reg type="spanish">dieciséis</reg></choice>. 
                   <foreign xml:lang="cvz">Cécaa</foreign>, 
-                  <foreign xml:lang="cvz">cégaayo xópalál le<lb/>bitóbi</foreign>. 
+                  <foreign xml:lang="cvz">cégaayo xópalálle<lb/>bitóbi</foreign>. 
                   <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>. 
                   <foreign xml:lang="cvz">cétápacáca</foreign>, 
                   <foreign xml:lang="cvz">quizáha</foreign>, 
-                  <foreign xml:lang="cvz">cháa xópalál le</foreign>.116</p>
+                  <foreign xml:lang="cvz">cháa xópalálle</foreign>.116</p>
                   <p><lb/><pc>¶</pc><choice><orig>Ciẽto y diez y ſiete</orig><reg type="spanish">Ciento diecisiete</reg></choice>. 
                   <foreign xml:lang="cvz">Cécaa</foreign>, 
-                  <foreign xml:lang="cvz">cégaayo xópalál lebi<lb/>tópa</foreign>. 
+                  <foreign xml:lang="cvz">cégaayo xópalállebi<lb/>tópa</foreign>. 
                   <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>, 
                   <foreign xml:lang="cvz">céchóna quezáha</foreign>, 
                   <foreign xml:lang="cvz">cháa</foreign>, 
                   <foreign xml:lang="cvz">cáca xópalálle</foreign>.117</p>
                   <p><lb/><pc>¶</pc><choice><orig>Ciẽto ydiez y ocho</orig><reg type="spanish">Ciento dieciocho</reg></choice>. 
                   <foreign xml:lang="cvz">Cécaa</foreign>, 
-                  <foreign xml:lang="cvz">cégaayo xópalál lebi<lb/>chóna</foreign>. 
+                  <foreign xml:lang="cvz">cégaayo xópalállebi<lb/>chóna</foreign>. 
                   <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>. 
                   <foreign xml:lang="cvz">cétópa cáca</foreign>,<foreign xml:lang="cvz">quizáha</foreign>, 
                   <foreign xml:lang="cvz">cháa xópalálle</foreign>. 118</p>
                   <p><lb/><pc>¶</pc>Ciento <choice><orig>y diez y nueue</orig><reg type="spanish">diecinueve</reg></choice>. 
                   <foreign xml:lang="cvz">Cécaa</foreign>, 
-                  <foreign xml:lang="cvz">cégaayo xópalál le<lb/>bitápa</foreign>. 
+                  <foreign xml:lang="cvz">cégaayo xópalálle<lb/>bitápa</foreign>. 
                   <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>. 
-                  <foreign xml:lang="cvz">cétóbi xópalál le</foreign>. 
+                  <foreign xml:lang="cvz">cétóbi xópalálle</foreign>. 
                   <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>. 
                   <foreign xml:lang="cvz">cétóbicáca,quizá<pc type="hyphen">-</pc><lb break="no"/>ha</foreign>, 
-                  <lb/><foreign xml:lang="cvz">cháa xópalál le</foreign>. 119</p>
+                  <lb/><foreign xml:lang="cvz">cháa xópalálle</foreign>. 119</p>
                   <p><lb/><pc>¶</pc>Ciento <choice><orig>y vente</orig><reg type="spanish">veinte</reg></choice>. 
-                  <foreign xml:lang="cvz">Xópalál le</foreign>. 120</p>
+                  <foreign xml:lang="cvz">Xópalálle</foreign>. 120</p>
                   <p><lb/><pc>¶</pc>Ciento <choice><orig>y veynte y vno</orig><reg type="spanish">veintiuno</reg></choice>. 
-                  <foreign xml:lang="cvz">Xópalál le bitóbi</foreign>. 121</p>
+                  <foreign xml:lang="cvz">Xópalálle bitóbi</foreign>. 121</p>
                   <p><lb/><pc>¶</pc>Ciento <choice><orig>y veynte y dos</orig><reg type="spanish">veintidós</reg></choice>. 
-                  <foreign xml:lang="cvz">Xópalál le bitópa</foreign>. 122</p>
+                  <foreign xml:lang="cvz">Xópalálle bitópa</foreign>. 122</p>
                   <p><lb/><pc>¶</pc>Ciento <choice><orig>y veynte y tres</orig><reg type="spanish">veintitrés</reg></choice>. 
-                  <foreign xml:lang="cvz">Xópalál lebichóna</foreign>. 
+                  <foreign xml:lang="cvz">Xópalállebichóna</foreign>. 
                   <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>. &amp;c
                   <lb/><foreign xml:lang="lat">vt<choice><orig>ſupra</orig><reg type="lat">supra</reg></choice></foreign>, 
                   <choice><orig>haſta</orig><reg type="spanish">hasta</reg></choice> ciento y <choice><orig>treynta</orig><reg type="spanish">treinta</reg></choice>. 123</p>
                   <p><lb/><pc>¶</pc>Ciento <choice><orig>y treynta</orig><reg type="spanish">treinta</reg></choice>. 
-                  <foreign xml:lang="cvz">Xópalál lebichij</foreign>. 130</p>
+                  <foreign xml:lang="cvz">Xópalállebichij</foreign>. 130</p>
                   <p><lb/><pc>¶</pc><choice><orig>Ciẽto y treynta y vno</orig><reg type="spanish">Ciento treinta y uno</reg></choice>. 
                   <foreign xml:lang="cvz">Xópalál lebichijbitóbi</foreign>.131</p>
                   <p><lb/><pc>¶</pc><choice><orig>Ciẽto ytreynta</orig><reg type="spanish">Ciento treinta</reg></choice> y dos. 
-                  <foreign xml:lang="cvz">Xópalál lebichijbitópa</foreign>. 132</p>
+                  <foreign xml:lang="cvz">Xópalállebichijbitópa</foreign>. 132</p>
                   <p><lb/><pc>¶</pc>Ciento <choice><orig>y treynta</orig><reg type="spanish">treinta</reg></choice> y tres. 
-                  <foreign xml:lang="cvz">Xópalál lebichijbichóna</foreign>
+                  <foreign xml:lang="cvz">Xópalállebichijbichóna</foreign>
                   <lb/><foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>, 
-                  <foreign xml:lang="cvz">xópalál lebichijño</foreign>. 133</p>
+                  <foreign xml:lang="cvz">xópalállebichijño</foreign>. 133</p>
                   <p><lb/><pc>¶</pc>Ciento <choice><orig>y treynta</orig><reg type="spanish">treinta</reg></choice> y <choice><orig>quatro</orig><reg type="spanish">cuatro</reg></choice>. 
-                  <foreign xml:lang="cvz">Xópalál lebichijbitá<lb/>pa</foreign>. 
+                  <foreign xml:lang="cvz">Xópalállebichijbitá<lb/>pa</foreign>. 
                   <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>. 
-                  <foreign xml:lang="cvz">xópalál lebichijtáa</foreign>. 134</p>
+                  <foreign xml:lang="cvz">xópalállebichijtáa</foreign>. 134</p>
                   <p><lb/><pc>¶</pc><choice><orig>Ciẽto ytreynta ycĩco</orig><reg type="spanish">Ciento treinta y cinco</reg></choice>. 
                   <foreign xml:lang="cvz">Cégaayo</foreign>, 
                   <foreign xml:lang="cvz">cécáa caachelál<lb/>le</foreign>. 
                   <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>. 
                   <foreign xml:lang="cvz">cécaayo cáca</foreign>, 
                   <foreign xml:lang="cvz">quizáha</foreign>, 
-                  <foreign xml:lang="cvz">cháa cáachelál le</foreign>. 135</p>
+                  <foreign xml:lang="cvz">cháa cáachelálle</foreign>. 135</p>
                   <p><lb/><pc>¶</pc><choice><orig>Ciẽto y treĩta yſeys</orig><reg type="spanish">ciento treinta y seis</reg></choice>.
                   <foreign xml:lang="cvz">Cécaa</foreign>, 
-                  <foreign xml:lang="cvz">cécayo caachelál le<lb/>bitóbi</foreign>. 
+                  <foreign xml:lang="cvz">cécayo caachelálle<lb/>bitóbi</foreign>. 
                   <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>. 
                   <foreign xml:lang="cvz">cétápacáca</foreign>, 
                   <foreign xml:lang="cvz">q̃záha</foreign>, 
-                  <foreign xml:lang="cvz">háacaachelál le.</foreign> 136</p>
+                  <foreign xml:lang="cvz">háacaachelálle.</foreign> 136</p>
                   <p><lb/><pc>¶</pc>Ciento <choice><orig>y treynta y ſiete</orig><reg type="spanish">treinta y siete</reg></choice>. 
                   <foreign xml:lang="cvz">Cégaayo</foreign>, 
-                  <foreign xml:lang="cvz">cécaa caache<lb/>chelál lebitópa</foreign>. 
+                  <foreign xml:lang="cvz">cécaa caache<lb/>chelállebitópa</foreign>. 
                   <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>. 
                   <foreign xml:lang="cvz">céchóna cáca</foreign>,<foreign xml:lang="cvz">quizáha caache<lb/>lál le</foreign>. 137</p>
                   <fw type="catchword" place="bottom-right">
@@ -26574,39 +26574,39 @@
                   <foreign xml:lang="cvz">chäacaachelälle</foreign>. 138</p>
                   <p><lb/><pc>¶</pc><choice><orig>Ciẽto y treynta y nueue</orig><reg type="spanish">Ciento treinta y nueve</reg></choice>. 
                   <foreign xml:lang="cvz">Cégaayo</foreign>, 
-                  <foreign xml:lang="cvz">cécaa caache<lb/>lál lebitäpa</foreign>. 
+                  <foreign xml:lang="cvz">cécaa caache<lb/>lállebitäpa</foreign>. 
                   <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>. 
-                  <foreign xml:lang="cvz">cétóbi caacheläl le</foreign>. 
+                  <foreign xml:lang="cvz">cétóbi caachelälle</foreign>. 
                   <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>. 
                   <foreign xml:lang="cvz">cétóbi cáca</foreign>,<lb/><foreign xml:lang="cvz">chäa</foreign>,
                   <foreign xml:lang="cvz">quizäha</foreign>, 
                   <foreign xml:lang="cvz">caacheläle</foreign>. 139</p>
                   <p><lb/><pc>¶</pc>Ciento <choice><orig>y quarenta</orig><reg type="spanish">cuarenta</reg></choice>. 
-                  <foreign xml:lang="cvz">Caachelál le</foreign>. 140</p>
+                  <foreign xml:lang="cvz">Caachelálle</foreign>. 140</p>
                   <p><lb/><pc>¶</pc>Ciento <choice><orig>y quarẽta y vno</orig><reg type="spanish">cuarenta y uno</reg></choice>. 
-                  <foreign xml:lang="cvz">Caacheläl lebitöbi</foreign>. 141</p>
+                  <foreign xml:lang="cvz">Caachelällebitöbi</foreign>. 141</p>
                   <p><lb/><pc>¶</pc><choice><orig>Ciénto y quarenta</orig><reg type="spanish">Ciento cuarenta</reg></choice> y dos. 
-                  <foreign xml:lang="cvz">Caachelál lebitöpa</foreign>. 142</p>
+                  <foreign xml:lang="cvz">Caachelállebitöpa</foreign>. 142</p>
                   <p><lb/><pc>¶</pc><choice><orig>Ciéto y quarẽta</orig><reg type="spanish">Ciento cuarenta</reg></choice> y tres. 
-                  <foreign xml:lang="cvz">Caacheläl lebichóna</foreign>. 
+                  <foreign xml:lang="cvz">Caachelällebichóna</foreign>. 
                   <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>. 
-                  <foreign xml:lang="cvz">caa<lb/>chelál lebicáyo</foreign>, &amp;c. 
+                  <foreign xml:lang="cvz">caa<lb/>chelállebicáyo</foreign>, &amp;c. 
                   <foreign xml:lang="lat">vtſu</foreign>. 
                   <choice><orig>haſta ciẽto y cĩquẽta</orig><reg type="spanish">hasta ciento cincuenta</reg></choice>. 143</p>
                   <p><lb/><pc>¶</pc>Ciento <choice><orig>y cinquenta</orig><reg type="spanish">cincuenta</reg></choice>. 
-                  <foreign xml:lang="cvz">Caacheläl lebichij</foreign>. 150</p>
+                  <foreign xml:lang="cvz">Caachelällebichij</foreign>. 150</p>
                   <p><lb/><pc>¶</pc>Ciento <choice><orig>y cinquenta y vno</orig><reg type="spanish">cincuenta y uno</reg></choice>. 
-                  <foreign xml:lang="cvz">Caacheläl lebichijbi<lb/>tóbi</foreign>. 151</p>
+                  <foreign xml:lang="cvz">Caachelällebichijbi<lb/>tóbi</foreign>. 151</p>
                   <p><lb/><pc>¶</pc>Ciento <choice><orig>y cinquenta</orig><reg type="spanish">cincuenta</reg></choice> y dos. 
-                  <foreign xml:lang="cvz">Caacheläl lebichijbi<lb/>tópa</foreign>. 152</p>
+                  <foreign xml:lang="cvz">Caachelällebichijbi<lb/>tópa</foreign>. 152</p>
                   <p><lb/><pc>¶</pc>Ciento <choice><orig>y cinquenta</orig><reg type="spanish">cincuenta</reg></choice> y tres. 
-                  <foreign xml:lang="cvz">Caacheläl lebichijbi<lb/>chóna</foreign>. 
+                  <foreign xml:lang="cvz">Caachelällebichijbi<lb/>chóna</foreign>. 
                   <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>. 
-                  <foreign xml:lang="cvz">caachelál le bichijño</foreign>. 153</p>
+                  <foreign xml:lang="cvz">caachelálle bichijño</foreign>. 153</p>
                   <p><lb/><pc>¶</pc>Ciento <choice><orig>y cinquenta y quatro</orig><reg type="spanish">cincuenta y cuatro</reg></choice>. 
                   <foreign xml:lang="cvz">Cächelälle bichij<lb/>bitäpa</foreign>. 
                   <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>. 
-                  <foreign xml:lang="cvz">cächeläl lebichijtäa</foreign>. 154</p>
+                  <foreign xml:lang="cvz">cächelällebichijtäa</foreign>. 154</p>
                   <p><lb/><pc>¶</pc><choice><orig>Ciẽto ycinquéta y</orig><reg type="spanish">Ciento cincuenta y </reg></choice>cinco. 
                   <foreign xml:lang="cvz">Cécaa</foreign>, 
                   <foreign xml:lang="cvz">cégaayo xónolál<lb break="no"/>le</foreign>. 
@@ -26614,10 +26614,10 @@
                   <foreign xml:lang="cvz">cécaayo cáca</foreign>, 
                   <foreign xml:lang="cvz">quizäha</foreign>, 
                   <foreign xml:lang="cvz">chäa</foreign>, 
-                  <foreign xml:lang="cvz">xónoläl le</foreign>. 155</p>
+                  <foreign xml:lang="cvz">xónolälle</foreign>. 155</p>
                   <p><lb/><pc>¶</pc><choice><orig>Ciẽto ycinquéta y ſeys</orig><reg type="spanish">Ciento cincuenta y seis</reg></choice>. 
                   <foreign xml:lang="cvz">Cégaayo</foreign>, 
-                  <foreign xml:lang="cvz">cécaaxoonoläl<lb/>lebitóbi</foreign>. 
+                  <foreign xml:lang="cvz">cécaaxoonoläl<lb break="no"/>lebitóbi</foreign>. 
                   <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>. 
                   <foreign xml:lang="cvz">cétápacáca</foreign>, 
                   <foreign xml:lang="cvz">q̃zäha</foreign>, 
@@ -26632,16 +26632,16 @@
                   <foreign xml:lang="cvz">qzahaxóonolälle</foreign>. 157</p>
                   <p><lb/><pc>¶</pc><choice><orig>Ciẽtoycĩquẽ.yocho</orig><reg type="spanish">Ciento cincuenta y ocho</reg></choice>. 
                   <foreign xml:lang="cvz">Cécaa</foreign>, 
-                  <foreign xml:lang="cvz">cégaayoxónolál lebi<lb/>chóna</foreign>. 
+                  <foreign xml:lang="cvz">cégaayoxónolállebi<lb/>chóna</foreign>. 
                   <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>. 
                   <foreign xml:lang="cvz">cétópa</foreign>, 
                   <foreign xml:lang="cvz">cäca</foreign>, 
-                  <foreign xml:lang="cvz">cháa qzáhaxóonoläl le</foreign>. 158</p>
+                  <foreign xml:lang="cvz">cháa qzáhaxóonolälle</foreign>. 158</p>
                   <p><lb/><pc>¶</pc>Ciento <choice><orig>y cinquẽta y nueue</orig><reg type="spanish">cincuenta y nueve</reg></choice>. 
                   <foreign xml:lang="cvz">Cécaa</foreign>, 
                   <foreign xml:lang="cvz">cégaayo xóno</foreign>
                      <fw type="catchword" place="bottom-right">
-                        <hi rend="bold"><foreign xml:lang="cvz">lál le</foreign></hi> 
+                        <hi rend="bold"><foreign xml:lang="cvz">lálle</foreign></hi> 
                      </fw>
                      <pb break="yes" type="arte" n="102v"/>
                      <pb break="yes" type="pdf" facs="http://archive.org/stream/arteenlenguazapo00juan#page/n221/mode/1up"/>
@@ -26650,42 +26650,42 @@
                      </fw>
                   <lb/><foreign xml:lang="cvz">lál lebitápa</foreign>. 
                   <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>. 
-                  <foreign xml:lang="cvz">cétóbixónolál le</foreign>. 
+                  <foreign xml:lang="cvz">cétóbixónolál e</foreign>. 
                   <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>. 
                   <foreign xml:lang="cvz">cétóbicáca</foreign>, 
                   <foreign xml:lang="cvz">qui<lb break="no"/>záha</foreign>, 
-                  <foreign xml:lang="cvz">cháaxónolál le</foreign>. 159</p>
+                  <foreign xml:lang="cvz">cháaxónolálle</foreign>. 159</p>
                   <p><lb/><pc>¶</pc>Ciento <choice><orig>y ſeſſenta</orig><reg type="spanish">sesenta</reg></choice>. 
-                  <foreign xml:lang="cvz">Xóonolál le</foreign>. 160</p> 
+                  <foreign xml:lang="cvz">Xóonolálle</foreign>. 160</p> 
                   <p><lb/><pc>¶</pc>Ciento <choice><orig>y ſeſſenta y vno</orig><reg type="spanish">sesenta y uno</reg></choice>. 
-                  <foreign xml:lang="cvz">Xóonolál lebitóbi</foreign>.161</p>
+                  <foreign xml:lang="cvz">Xóonolállebitóbi</foreign>.161</p>
                   <p><lb/><pc>¶</pc>Ciento <choice><orig>y ſeſſenta</orig><reg type="spanish">sesenta</reg></choice> y dos. 
-                  <foreign xml:lang="cvz">Xóonolál lebitópa</foreign>.162</p>
+                  <foreign xml:lang="cvz">Xóonolállebitópa</foreign>.162</p>
                   <p><lb/><pc>¶</pc><choice><orig>Ciẽto y ſeſſenta</orig><reg type="spanish">Ciento sesenta</reg></choice> y tres. 
                   <foreign xml:lang="cvz">Xóonolállebichóna</foreign>. &amp;c.
                   <lb/><foreign xml:lang="lat">Vt <choice><orig>ſupra</orig><reg type="lat">supra</reg></choice></foreign> 
                   <choice><orig>haſta ciento y ſetenta</orig><reg type="spanish">hasta ciento setenta</reg></choice>. 163</p>
                   <p><lb/><pc>¶</pc>Ciento <choice><orig>y ſetenta</orig><reg type="spanish">setenta</reg></choice>. 
-                  <foreign xml:lang="cvz">Xóonolál lebichij</foreign>. 170</p>
+                  <foreign xml:lang="cvz">Xóonolállebichij</foreign>. 170</p>
                   <p><lb/><pc>¶</pc><choice><orig>Ciẽto y ſetẽta</orig><reg type="spanish">Ciento setenta</reg></choice>. 
-                  <foreign xml:lang="cvz">Xónolál lebichijbitóbi</foreign>. 171</p>
+                  <foreign xml:lang="cvz">Xónolállebichijbitóbi</foreign>. 171</p>
                   <p><lb/><pc>¶</pc>Ciento <choice><orig>y ſetenta</orig><reg type="spanish">setenta</reg></choice> y dos. 
-                  <foreign xml:lang="cvz">Xónolál lebichijbitó<pc type="hyphen">-</pc><lb break="no"/>pa</foreign>. 172</p>
+                  <foreign xml:lang="cvz">Xónolállebichijbitó<pc type="hyphen">-</pc><lb break="no"/>pa</foreign>. 172</p>
                   <p><lb/><pc>¶</pc>Ciento <choice><orig>y ſetenta</orig><reg type="spanish">setenta</reg></choice> y tres. 
-                  <foreign xml:lang="cvz">Xónolál lebichijbichó<pc type="hyphen">-</pc><lb break="no"/>na</foreign>. 
+                  <foreign xml:lang="cvz">Xónolállebichijbichó<pc type="hyphen">-</pc><lb break="no"/>na</foreign>. 
                   <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>. 
-                  <foreign xml:lang="cvz">xónolál lebichijño</foreign>. 
+                  <foreign xml:lang="cvz">xónolállebichijño</foreign>. 
                   <foreign xml:lang="lat">Vt <choice><orig>ſupra</orig><reg type="lat">supra</reg></choice></foreign>. 173</p>
                   <p><lb/><pc>¶</pc>Ciento <choice><orig>y ſetenta y quatro</orig><reg type="spanish">setenta y cuatro</reg></choice>. 
-                  <foreign xml:lang="cvz">Xónolál lebichijbitá<lb break="no"/>pa</foreign>. 
+                  <foreign xml:lang="cvz">Xónolállebichijbitá<lb break="no"/>pa</foreign>. 
                   <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>. 
-                  <foreign xml:lang="cvz">xónolál lebichijtáa</foreign>. 174</p>
+                  <foreign xml:lang="cvz">xónolállebichijtáa</foreign>. 174</p>
                   <p><lb/><pc>¶</pc>Ciento <choice><orig>y ſetenta</orig><reg type="spanish">setenta</reg></choice> y cinco. 
                   <foreign xml:lang="cvz">Cécaa,cégaayocaalál<pc type="hyphen">-</pc><lb break="no"/>le</foreign>. 
                   <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>. 
                   <foreign xml:lang="cvz">cécaayo cáca</foreign>, 
                   <foreign xml:lang="cvz">quiáha</foreign>, 
-                  <foreign xml:lang="cvz">cháacaalál le</foreign>. 175</p>
+                  <foreign xml:lang="cvz">cháacaalálle</foreign>. 175</p>
                   <p><lb/><pc>¶</pc>Ciento <choice><orig>y ſetenta y ſeys</orig><reg type="spanish">setenta y seis</reg></choice>. 
                   <foreign xml:lang="cvz">Cécaa</foreign>, 
                   <foreign xml:lang="cvz">cégaayocaalál<pc type="hyphen">-</pc><lb break="no"/>lebitóbi</foreign>. 
@@ -26695,12 +26695,12 @@
                   <foreign xml:lang="cvz">cháacaalál le</foreign>. 176</p>
                   <p><lb/><pc>¶</pc>Ciento <choice><orig>y ſetenta y ſiete</orig><reg type="spanish">setenta y siete</reg></choice>. 
                   <foreign xml:lang="cvz">Cégaayo</foreign>, 
-                  <foreign xml:lang="cvz">cécaa caalál<lb/>lebitópa</foreign>. 
+                  <foreign xml:lang="cvz">cécaa caalál<lb break="no"/>lebitópa</foreign>. 
                   <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>. 
                   <foreign xml:lang="cvz">céchóna</foreign>, 
                   <foreign xml:lang="cvz">cáca</foreign>, 
                   <foreign xml:lang="cvz">quizáha</foreign>, 
-                  <foreign xml:lang="cvz">caalál le</foreign>. 177</p>
+                  <foreign xml:lang="cvz">caalálle</foreign>. 177</p>
                   <p><lb/><pc>¶</pc>Ciento <choice><orig>y ſetenta</orig><reg type="spanish">setenta</reg></choice> y ocho. 
                   <foreign xml:lang="cvz">Cégaayo</foreign>, 
                   <foreign xml:lang="cvz">cécaa caalál<lb/>lebichóna</foreign>. 
@@ -26716,7 +26716,7 @@
                   <foreign xml:lang="cvz">quezáha</foreign>, 
                   <foreign xml:lang="cvz">cháacáa<pc type="hyphen">-</pc><lb break="no"/>lál le</foreign>. 179</p>
                   <p><lb/><pc>¶</pc>Ciento <choice><orig>y </orig><reg type="spanish"/></choice>ochenta. 
-                  <foreign xml:lang="cvz">Caalál le</foreign>. 180</p>
+                  <foreign xml:lang="cvz">Caalálle</foreign>. 180</p>
                   <fw type="catchword" place="bottom-right">
                      <hi rend="bold">Ciento</hi> 
                   </fw>
@@ -26726,11 +26726,11 @@
                      <hi rend="bold">DE CONTAR. 103</hi>
                   </fw>
                   <p><lb/><pc>¶</pc>Ciento <choice><orig>y ochenta y vno</orig><reg type="spanish">ochenta y uno</reg></choice>. 
-                  <foreign xml:lang="cvz">Cáalál lebitóbi</foreign>. 181</p>
+                  <foreign xml:lang="cvz">Cáalállebitóbi</foreign>. 181</p>
                   <p><lb/><pc>¶</pc>Ciento <choice><orig>y ochenta</orig><reg type="spanish">ochenta</reg></choice> y dos. 
-                  <foreign xml:lang="cvz">Caalál le bitópa</foreign>. 182</p>
+                  <foreign xml:lang="cvz">Caalálle bitópa</foreign>. 182</p>
                   <p><lb/><pc>¶</pc>Ciento <choice><orig>y ochenta</orig><reg type="spanish">ochenta</reg></choice> y tres. 
-                  <foreign xml:lang="cvz">Caalál lebichóna</foreign>. 
+                  <foreign xml:lang="cvz">Caalállebichóna</foreign>. 
                   <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>. &amp;c.
                   <lb/><foreign xml:lang="lat">vt <choice><orig>ſupra</orig><reg type="lat">supra</reg></choice></foreign>, 
                   <choice><orig>haſta ciento y nouenta</orig><reg type="spanish">hasta ciento noventa</reg></choice>. 183</p>
@@ -26743,11 +26743,11 @@
                   <p><lb/><pc>¶</pc>Ciento <choice><orig>y nouenta</orig><reg type="spanish">noventa</reg></choice> y tres. 
                   <foreign xml:lang="cvz">Caalálle bichijbichó<pc type="hyphen">-</pc><lb break="no"/>na</foreign>. 
                   <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>. 
-                  <foreign xml:lang="cvz">caalál le bichijño</foreign>. 193</p>
+                  <foreign xml:lang="cvz">caalálle bichijño</foreign>. 193</p>
                   <p><lb/><pc>¶</pc>Ciento <choice><orig>y nouenta y quatro</orig><reg type="spanish">noventa y cuatro</reg></choice>. 
-                  <foreign xml:lang="cvz">Caalál le bichijbitá<pc type="hyphen">-</pc><lb break="no"/>pa</foreign>. 
+                  <foreign xml:lang="cvz">Caalálle bichijbitá<pc type="hyphen">-</pc><lb break="no"/>pa</foreign>. 
                   <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>. 
-                  <foreign xml:lang="cvz">caalál le bichijtáa</foreign>. 194</p>
+                  <foreign xml:lang="cvz">caalálle bichijtáa</foreign>. 194</p>
                   <p><lb/><pc>¶</pc>Ciento <choice><orig>y nouenta</orig><reg type="spanish">noventa</reg></choice> y cinco. 
                   <foreign xml:lang="cvz">Cécaa</foreign>, 
                   <foreign xml:lang="cvz">cécaayo chija</foreign>.
@@ -26813,11 +26813,11 @@
                   <foreign xml:lang="cvz">chija<lb/>bichijtaa</foreign>. 214</p>
                   <p><lb/><pc>¶</pc><choice><orig>Dozientos y quinze</orig><reg type="spanish">Doscientos quince</reg></choice>. 
                   <foreign xml:lang="cvz">Cécaa</foreign>, 
-                  <foreign xml:lang="cvz">cégaayo chijacál le</foreign>
+                  <foreign xml:lang="cvz">cégaayo chijacálle</foreign>
                   <lb/><foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>. 
                   <foreign xml:lang="cvz">cécaayo cáca</foreign>, 
                   <foreign xml:lang="cvz">quizáha</foreign>, 
-                  <foreign xml:lang="cvz">cháa chija cál le</foreign>. 215</p>
+                  <foreign xml:lang="cvz">cháa chija cálle</foreign>. 215</p>
                   <p><lb/><pc>¶</pc><choice><orig>Doziẽtos y diez y ſeys</orig><reg type="spanish">Doscientos dieciséis</reg></choice>. 
                   <foreign xml:lang="cvz">Cécaa</foreign>, 
                   <foreign xml:lang="cvz">cégaayo chija cál<lb/>lebitóbi</foreign>. 
@@ -26825,7 +26825,7 @@
                   <foreign xml:lang="cvz">cétápa</foreign>. 
                   <foreign xml:lang="cvz">cáca</foreign>, 
                   <foreign xml:lang="cvz">qzáha</foreign>, 
-                  <foreign xml:lang="cvz">cháachijacál le</foreign>. 216</p>
+                  <foreign xml:lang="cvz">cháachijacálle</foreign>. 216</p>
                   <p><lb/><pc>¶</pc><choice><orig>Doziẽtosydiezyſiete</orig><reg type="spanish">Doscientos diecisiete</reg></choice>. 
                   <foreign xml:lang="cvz">Cécaa</foreign>, 
                   <foreign xml:lang="cvz">cécaayochijacálle<lb/>bitópa</foreign>. 
@@ -26835,7 +26835,7 @@
                   <foreign xml:lang="cvz">cháachijacálle</foreign>. 217</p>
                   <p><lb/><pc>¶</pc><choice><orig>Doziẽt.ydiezyocho</orig><reg type="spanish">Doscientos dieciocho</reg></choice>. 
                   <foreign xml:lang="cvz">Cécaa</foreign>, 
-                  <foreign xml:lang="cvz">cégaayo chijacál le<lb/>bichóna</foreign>. 
+                  <foreign xml:lang="cvz">cégaayo chijacálle<lb/>bichóna</foreign>. 
                   <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>. 
                   <foreign xml:lang="cvz">cétópa cáca</foreign>, 
                   <foreign xml:lang="cvz">q̃záha</foreign>, 
@@ -26848,13 +26848,13 @@
                   <foreign xml:lang="cvz">cétóbicáca</foreign>,<foreign xml:lang="cvz">quizáha</foreign>, 
                   <foreign xml:lang="cvz">cháachijacálle</foreign>. 219</p>
                   <p><lb/><pc>¶</pc><choice><orig>Dozientos y veynte</orig><reg type="spanish">Doscientos veinte</reg></choice>. 
-                  <foreign xml:lang="cvz">Chija cál le</foreign>. 220</p>
+                  <foreign xml:lang="cvz">Chija cálle</foreign>. 220</p>
                   <p><lb/><pc>¶</pc><choice><orig>Doziẽtos y veynte y vno</orig><reg type="spanish">Doscientos veintiuno</reg></choice>. 
-                  <foreign xml:lang="cvz">Chija cál lebitóbi</foreign>. &amp;c.
+                  <foreign xml:lang="cvz">Chija cállebitóbi</foreign>. &amp;c.
                   <lb/><foreign xml:lang="lat">vt <choice><orig>ſupra</orig><reg type="lat">supra</reg></choice></foreign>, 
                   <choice><orig>haſta dozientos y treynta</orig><reg type="spanish">hasta doscientos treinta</reg></choice>. 221</p>
                   <p><lb/><pc>¶</pc><choice><orig>Doziẽtos y treĩta</orig><reg type="spanish">Doscientos treinta</reg></choice>. 
-                  <foreign xml:lang="cvz">Chijacál lebichij</foreign>. &amp;c. 
+                  <foreign xml:lang="cvz">Chijacállebichij</foreign>. &amp;c. 
                   <foreign xml:lang="lat">vt<choice><abbr><choice><orig>ſu</orig><reg type="lat">su</reg></choice></abbr>
                   <expan><choice><orig>ſupra</orig><reg type="lat">supra</reg></choice></expan></choice></foreign>. 230</p>
                   <p><lb/><pc>¶</pc><choice><orig>Dozientos y treynta</orig><reg type="spanish">Doscientos treinta</reg></choice> y cinco. 
@@ -26964,7 +26964,7 @@
                   <expan><choice><orig>ſupra</orig><reg type="lat">supra</reg></choice></expan></choice></foreign>. 
                   <choice><orig>haſta trezientos y veynte</orig><reg type="spanish">hasta trescientos veinte</reg></choice>. 315</p>
                   <p><lb/><pc>¶</pc><choice><orig>Trezientos y veynte</orig><reg type="spanish">Trescientos veinte</reg></choice>. 
-                  <foreign xml:lang="cvz">Chinóua cál le</foreign>. 320</p>
+                  <foreign xml:lang="cvz">Chinóua cálle</foreign>. 320</p>
                   <fw type="catchword" place="bottom-right">
                      <hi rend="bold">¶<choice><orig>Trezien</orig><reg type="spanish">Trecien</reg></choice></hi> 
                   </fw>
@@ -26974,12 +26974,12 @@
                      <hi rend="bold">MODOS</hi>
                   </fw>  
                   <p><lb/><pc>¶</pc><choice><orig>Trezientos y veynte y vno</orig><reg type="spanish">Trescientos veintiuno</reg></choice>. 
-                  <foreign xml:lang="cvz">Chinóuacál lebitó<pc type="hyphen">-</pc><lb break="no"/>bi</foreign>. &amp;c, 
+                  <foreign xml:lang="cvz">Chinóuacállebitó<pc type="hyphen">-</pc><lb break="no"/>bi</foreign>. &amp;c, 
                   <foreign xml:lang="lat">vt<choice><abbr><choice><orig>ſup</orig><reg type="lat">sup</reg></choice></abbr>
                   <expan><choice><orig>ſupra</orig><reg type="lat">supra</reg></choice></expan></choice></foreign>. 
                   <choice><orig>haſta trezientos y treynta</orig><reg type="spanish">hasta trescientos treinta</reg></choice>. 321</p>
                   <p><lb/><pc>¶</pc><choice><orig>Trezientos y treynta</orig><reg type="spanish">Trescientos treinta</reg></choice>. 
-                  <foreign xml:lang="cvz">Chinóua cál lebichij</foreign>. 330</p>
+                  <foreign xml:lang="cvz">Chinóua cállebichij</foreign>. 330</p>
                   <p><lb/><pc>¶</pc><choice><orig>Trezientos y treynta</orig><reg type="spanish">Trescientos treinta</reg></choice> y cinco. 
                   <foreign xml:lang="cvz">Cégaayo</foreign>, 
                   <foreign xml:lang="cvz">cécaa<lb/>chinóuatóua</foreign>. 
