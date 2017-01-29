@@ -12684,100 +12684,166 @@
                   </div>
                   <div xml:id="arte2.6.23"  part="N" org="uniform" sample="complete">
                      <head type="outline">2.6.23 Diphtongos y letras duplicadas</head>
-                     <head type="cordova"><choice><orig>D I P H T O N G O S   Y
-                        <lb/>lerras duplicadas.</orig><reg type="spacing">DIPHTONGOS Y lerras duplicadas.</reg><reg type="spanish">DIPHTONGOS y letras duplicadas</reg></choice></head>
-                        <p>
-                        <lb/><choice><orig>T R atado</orig><reg type="spacing">TRatado</reg></choice> ya 
-                           <choice><orig>delas</orig><reg type="spanish">de las</reg></choice> mudanças de letras y <choice><orig>ſillabas</orig><reg type="spanish">sílabas</reg></choice>
-                        <lb/>que <choice><orig>ay</orig><reg type="spanish">hay</reg></choice> en los verbos, ſigueſe <choice><orig>agora</orig><reg type="spanish">ahora</reg></choice> la materia
-                        <lb/>de los Diphtongos y duplicacion de letras que
-                        <lb/>ay en 
-                           <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice> lengua, y quanto a los Diphtongos <choice>
-                        <orig>eſtos</orig>
-                        <reg type="spanish">estos</reg>
-                     </choice>
-                        <lb/><choice><orig>yndios</orig><reg type="spanish">indios</reg></choice> tienen muchos, <choice><orig>aſsi</orig><reg type="spanish">así</reg></choice> porque la dictiõ lo pide
-                        <lb/>como 
-                           <choice><orig>porq̃̃̃</orig><reg type="spanish">porque</reg></choice> ellos en 
-                           <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> hablar blandean 
-                           <choice><orig>cõ</orig><reg type="spanish">con</reg></choice> la lẽgua
+                     <head type="cordova">
+                        <choice>
+                            <orig>D I P H T O N G O S   Y<lb/>lerras duplicadas.</orig>
+                            <reg type="spacing">DIPHTONGOS Y lerras duplicadas.</reg>
+                            <reg type="spanish">DIPTONGOS y letras duplicadas</reg>
+                        </choice>
+                    </head>
+                    <p>
+                        <choice><orig>T R atado</orig><reg type="spacing">TRatado</reg></choice> ya 
+                        <choice><orig>delas</orig><reg type="spanish">de las</reg></choice> 
+                        <choice><orig>mudanças</orig><reg type="spanish">mudanzas</reg></choice> de letras y 
+                        <choice><orig>ſillabas</orig><reg type="spanish">sílabas</reg></choice>
+                        <lb/>que <choice><orig>ay</orig><reg type="spanish">hay</reg></choice> en los verbos, 
+                        <choice><orig>ſigueſe</orig><reg type="spanish">se sigue</reg></choice> 
+                        <choice><orig>agora</orig><reg type="spanish">ahora</reg></choice> la materia
+                        <lb/>de los <choice><orig>Diphtongos</orig><reg type="spanish">diptongos</reg></choice> 
+                        y <choice><orig>duplicacion</orig><reg type="spanish">duplicación</reg></choice> de letras que
+                        <lb/><choice><orig>ay</orig><reg type="spanish">hay</reg></choice> en 
+                        <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice> lengua, y 
+                        <choice><orig>quanto</orig><reg type="spanish">cuanto</reg></choice> a los 
+                        <choice><orig>Diphtongos</orig><reg type="spanish">diptongos</reg></choice> 
+                        <choice><orig>eſtos</orig><reg type="spanish">estos</reg></choice>
+                        <lb/><choice><orig>yndios</orig><reg type="spanish">indios</reg></choice> tienen muchos, 
+                        <choice><orig>aſsi</orig><reg type="spanish">así</reg></choice> porque la 
+                        <choice><orig>dictiõ</orig><reg type="spanish">dicción</reg></choice> lo pide
+                        <lb/>como <choice><orig>porq̃̃̃</orig><reg type="spanish">porque</reg></choice> ellos en 
+                        <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> hablar blandean 
+                        <choice><orig>cõ</orig><reg type="spanish">con</reg></choice> la 
+                        <choice><orig>lẽgua</orig><reg type="spanish">lengua</reg></choice>
                         <fw type="catchword" place="bottom-right">
                            <hi rend="bold">y algo</hi>
                         </fw>
                         <pb break="yes" type="arte" n="40v"/>
                         <pb break="yes" type="pdf" facs="http://archive.org/stream/arteenlenguazapo00juan#page/n97/mode/1up"/> 
                         <fw type="head" place="top-center">
-                        <hi rend="bold"><orig>A R T E.</orig><reg type="spacing">ARTE.</reg></hi>
-                     </fw>
+                            <hi rend="bold"><choice><orig>A R T E.</orig><reg type="spacing">ARTE.</reg></choice></hi>
+                        </fw>
                         <lb/>y algunas <choice><orig>vezes</orig>
-                     <reg type="spanish">veces</reg></choice> pronuncian como en la garganta,
-                        <lb/>deſuerte que liquidando las letras, las hazan pare<pc type="hyphen">-</pc>
-                        <lb break="no"/>cer <choice><orig>vnas</orig><reg type="spanish">unas</reg></choice> a otras, de donde prouiene el percebir los
-                        <lb/>oyentes <choice><orig>vnas</orig><reg type="spanish">unas</reg></choice> letras por otras, de lo qual luego dire<pc type="hyphen">-</pc>
-                        <lb break="no"/>mos.                         
-                        </p>
-                     <p><pc>¶</pc>Los diphtongos que tienen, <choice><orig>ſon</orig><reg type="spanish">son</reg></choice>. <foreign xml:lang="cvz">ae</foreign>. <foreign xml:lang="cvz">ao</foreign>. <foreign xml:lang="cvz">ey</foreign>.
-                        <lb/><foreign xml:lang="cvz">ye</foreign>. <foreign xml:lang="cvz">ou</foreign>, <choice><abbr>V.g.</abbr><expan>verbi gratia</expan></choice> <foreign xml:lang="cvz">Ae</foreign>. <foreign xml:lang="lat">vt</foreign> <foreign xml:lang="cvz">huíchae</foreign> paſado mañana. <foreign xml:lang="cvz">Tiguí<pc type="hyphen">-</pc>
-                        <lb break="no"/>ñaea</foreign>, dar o caſtigar. 
+                        <reg type="spanish">veces</reg></choice> pronuncian como en la garganta,
+                        <lb/><choice><orig>deſuerte</orig><reg type="spanish">de suerte</reg></choice> que liquidando las letras, las 
+                        <choice><orig>hazan</orig><reg type="spanish">hacen</reg></choice> 
+                        pare<pc type="hyphen">-</pc><lb break="no"/>cer 
+                        <choice><orig>vnas</orig><reg type="spanish">unas</reg></choice> a otras, de donde 
+                        <choice><orig>prouiene</orig><reg type="spanish">proviene</reg></choice> el 
+                        <choice><orig>percebir</orig><reg type="spanish">percibir</reg></choice> los
+                        <lb/>oyentes <choice><orig>vnas</orig><reg type="spanish">unas</reg></choice> letras por otras, de lo 
+                        <choice><orig>qual</orig><reg type="spanish">cual</reg></choice> luego 
+                        dire<pc type="hyphen">-</pc><lb break="no"/>mos.
+                    </p>
+                    <p newline="no">
+                        <pc>¶</pc>Los <choice><orig>diphtongos</orig><reg type="spanish">diptongos</reg></choice> que tienen, 
+                        <choice><orig>ſon</orig><reg type="spanish">son</reg></choice>. 
+                        <foreign xml:lang="cvz">ae</foreign>. 
+                        <foreign xml:lang="cvz">ao</foreign>. 
+                        <foreign xml:lang="cvz">ey</foreign>.
+                        <lb/><foreign xml:lang="cvz">ye</foreign>. 
+                        <foreign xml:lang="cvz">ou</foreign>, 
+                        <choice><abbr>V.g.</abbr><expan>verbi gratia</expan></choice> 
+                        <foreign xml:lang="cvz">Ae</foreign>. 
+                        <foreign xml:lang="lat"><choice><orig>vt</orig><reg type="lat">ut</reg></choice></foreign> 
+                        <foreign xml:lang="cvz">huíchae</foreign> 
+                        <choice><orig>paſado</orig><reg type="spanish">pasado</reg></choice> mañana. 
+                        <foreign xml:lang="cvz">Tiguí<pc type="hyphen">-</pc><lb break="no"/>ñaea</foreign>, dar o 
+                        <choice><orig>caſtigar</orig><reg type="spanish">castigar</reg></choice>. 
                      </p>
-                     <p><pc>¶</pc>De, <foreign xml:lang="cvz">áo</foreign>, <foreign xml:lang="cvz">láo</foreign>, <foreign xml:lang="cvz">citáo</foreign>. 
+                     <p newline="no">
+                        <pc>¶</pc>De, <foreign xml:lang="cvz">áo</foreign>, 
+                        <foreign xml:lang="cvz">láo</foreign>, 
+                        <foreign xml:lang="cvz">citáo</foreign>. 
                      </p>
-                     <p><pc>¶</pc>De, <foreign xml:lang="cvz">ei</foreign>,
+                     <p newline="no">
+                        <pc>¶</pc>De, <foreign xml:lang="cvz">ei</foreign>,
                         <lb/><foreign xml:lang="cvz">hue cheguéi</foreign>, de 
-                        <choice><orig>oy</orig><reg type="spanish">hoy</reg></choice> en ocho <choice><orig>dias</orig><reg type="spanish">días</reg></choice>. 
-                        <foreign xml:lang="cvz">Hueiñano</foreign>, el plu<pc type="hyphen">-</pc>
-                        <lb break="no"/>ral de, 
-                        <foreign xml:lang="cvz">tóonaya</foreign>, y <foreign xml:lang="cvz">tónaya</foreign>, por llorar, y oyr.
+                        <choice><orig>oy</orig><reg type="spanish">hoy</reg></choice> en ocho 
+                        <choice><orig>dias</orig><reg type="spanish">días</reg></choice>. 
+                        <foreign xml:lang="cvz">Hueiñano</foreign>, el 
+                        plu<pc type="hyphen">-</pc><lb break="no"/>ral de, 
+                        <foreign xml:lang="cvz">tóonaya</foreign>, y <foreign xml:lang="cvz">tónaya</foreign>, por llorar, y 
+                        <choice><orig>oyr</orig><reg type="spanish">oir</reg></choice>.
                      </p>
-                     <p><pc>¶</pc><foreign xml:lang="cvz">Ye</foreign>, <foreign xml:lang="lat">vt</foreign>
-                        <lb/><foreign xml:lang="cvz">Ticiguíea</foreign>, engañar, <foreign xml:lang="cvz">huichije</foreign>, <foreign xml:lang="cvz">huichijea</foreign>, <foreign xml:lang="cvz">nácahui<pc type="hyphen">-</pc>
-                        <lb break="no"/>chijea</foreign>. 
+                     <p newline="no">
+                        <pc>¶</pc><foreign xml:lang="cvz">Ye</foreign>, 
+                        <foreign xml:lang="lat">vt</foreign>
+                        <lb/><foreign xml:lang="cvz">Ticiguíea</foreign>, engañar, 
+                        <foreign xml:lang="cvz">huichije</foreign>, <foreign xml:lang="cvz">huichijea</foreign>, 
+                        <foreign xml:lang="cvz">nácahui<pc type="hyphen">-</pc><lb break="no"/>chijea</foreign>. 
                      </p>
-                     <p><pc>¶</pc>
-                      <foreign xml:lang="cvz">Ou</foreign>. 
-                      <foreign xml:lang="lat">vt</foreign> 
-                      <foreign xml:lang="cvz">tóua</foreign>, boca. 
+                     <p newline="no">
+                        <pc>¶</pc><foreign xml:lang="cvz">Ou</foreign>. 
+                        <foreign xml:lang="lat"><choice><orig>vt</orig><reg type="lat">ut</reg></choice></foreign> 
+                        <foreign xml:lang="cvz">tóua</foreign>, boca. 
                         <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>. 
-                        <foreign xml:lang="cvz">tóhua</foreign>, porque algu<pc type="hyphen">-</pc>
-                        <lb break="no"/>nos pienſan que es 
+                        <foreign xml:lang="cvz">tóhua</foreign>, porque 
+                        algu<pc type="hyphen">-</pc><lb break="no"/>nos 
+                        <choice><orig>pienſan</orig><reg type="spanish">piensan</reg></choice> que es 
                         <foreign xml:lang="cvz">tûa</foreign>. 
                      </p>
-                     <p><pc>¶</pc>Otros diphtongos pare<pc type="hyphen">-</pc>
-                        <lb break="no"/>ce que <choice><orig>ay</orig><reg type="spanish">hay</reg></choice> de dos, 
+                     <p newline="no">
+                        <pc>¶</pc>Otros <choice><orig>diphtongos</orig><reg type="spanish">diptongos</reg></choice> 
+                        pare<pc type="hyphen">-</pc><lb break="no"/>ce que 
+                        <choice><orig>ay</orig><reg type="spanish">hay</reg></choice> de dos, 
                         <foreign xml:lang="cvz">ee</foreign>, y de dos, <foreign xml:lang="cvz">yy</foreign>, pero a numerarlos
                         <lb/>hemos entre las letras duplicados.
-                     </p>                     
+                     </p>
                   </div>
                   <div xml:id="arte2.6.24"  part="N" org="uniform" sample="complete">
                      <head type="outline">2.6.24 Letras que se semejan</head>
-                     <head type="cordova"><choice><orig>L E T R A S   Q V E   S E   S E M E I A N</orig><reg type="spacing">LETRAS QUE SE SEMEIAN</reg><reg type="spanish">LETRAS QUE SE SEMEJAN</reg></choice></head>
-                     <p><g ref="#swirls-a">A</g> C E R C A del <choice><orig>hazer</orig><reg type="spanish">hacer</reg></choice> ſimbolizar <choice><orig>vnas</orig><reg type="spanish">unas</reg></choice> le<pc type="hyphen">-</pc>
-                        <lb break="no"/>tras con otras, por razon de la blanda pro
-                        <lb break="no"/>nunciacion ya dicha, es de notar que las
-                        <lb/>letras que <choice>
-                        <orig>hazen</orig>
-                        <reg type="spanish">hacen</reg>
-                     </choice> parecer <choice><orig>vnas</orig><reg type="spanish">unas</reg></choice> otras <choice><orig>ſon</orig><reg type="spanish">son</reg></choice>.
+                     <head type="cordova">
+                        <choice>
+                            <orig>L E T R A S   Q V E   S E   S E M E I A N</orig>
+                            <reg type="spacing">LETRAS QUE SE SEMEIAN</reg>
+                            <reg type="spanish">LETRAS QUE SE SEMEJAN</reg>
+                        </choice>
+                    </head>
+                     <p>
+                        <g ref="#swirls-a">A</g> 
+                        <choice><orig>C E R C A</orig><reg type="spacing">CERCA</reg></choice> del 
+                        <choice><orig>hazer</orig><reg type="spanish">hacer</reg></choice> 
+                        <choice><orig>ſimbolizar</orig><reg type="spanish">simbolizar</reg></choice> 
+                        <choice><orig>vnas</orig><reg type="spanish">unas</reg></choice> 
+                        le<pc type="hyphen">-</pc><lb break="no"/>tras con otras, por 
+                        <choice><orig>razon</orig><reg type="spanish">razón</reg></choice> de la blanda 
+                        <choice><orig>pro<lb break="no"/>nunciacion</orig><reg type="spanish">pro<lb break="no"/>nunciación</reg></choice> 
+                        ya dicha, es de notar que las
+                        <lb/>letras que <choice><orig>hazen</orig><reg type="spanish">hacen</reg></choice> parecer 
+                        <choice><orig>vnas</orig><reg type="spanish">unas</reg></choice> otras 
+                        <choice><orig>ſon</orig><reg type="spanish">son</reg></choice>.
                         <lb/><choice><abbr>V.g.</abbr><expan>verbi gratia</expan></choice>. La. 
                         <foreign xml:lang="cvz">a</foreign>. con la. <foreign xml:lang="cvz">o</foreign>. 
-                        <foreign xml:lang="lat">vt</foreign> 
+                        <foreign xml:lang="lat"><choice><orig>vt</orig><reg type="lat">ut</reg></choice></foreign> 
                         <foreign xml:lang="cvz">lóo</foreign>, 
-                        <foreign xml:lang="cvz">citóo</foreign>, ya de <choice><orig>ſer</orig><reg type="spanish">ser</reg></choice>, 
+                        <foreign xml:lang="cvz">citóo</foreign>, ya de 
+                        <choice><orig>ſer</orig><reg type="spanish">ser</reg></choice>, 
                         <foreign xml:lang="cvz">láo</foreign>, 
                         <foreign xml:lang="cvz">citáo</foreign>
-                        <lb/><foreign xml:lang="lat"><choice><abbr>ſ</abbr><expan>scilicet</expan></choice></foreign>. Diphtongo. La. <foreign xml:lang="cvz">b</foreign>. a la. <foreign xml:lang="cvz">p</foreign>. <foreign xml:lang="lat">vt</foreign> <foreign xml:lang="cvz">totóbaníça</foreign>, por, <foreign xml:lang="cvz">totó<pc type="hyphen">-</pc>
-                        <lb break="no"/>paníça</foreign>. <foreign xml:lang="cvz">Tibéea</foreign>, por, <foreign xml:lang="cvz">tipéea</foreign>, <foreign xml:lang="cvz">quiebaa</foreign>, por, <foreign xml:lang="cvz">quiepaa</foreign>.                        
+                        <lb/><foreign xml:lang="lat">
+                            <choice>
+                                <abbr><choice><orig>ſ.</orig><reg type="lat">s.</reg></choice></abbr>
+                                <expan>scilicet</expan>
+                            </choice>
+                        </foreign> 
+                        <choice><orig>Diphtongo</orig><reg type="spanish">Diptongo</reg></choice>. La. 
+                        <foreign xml:lang="cvz">b</foreign>. a la. <foreign xml:lang="cvz">p</foreign>. 
+                        <foreign xml:lang="lat"><choice><orig>vt</orig><reg type="lat">ut</reg></choice></foreign> 
+                        <foreign xml:lang="cvz">totóbaníça</foreign>, por, 
+                        <foreign xml:lang="cvz">totó<pc type="hyphen">-</pc><lb break="no"/>paníça</foreign>. 
+                        <foreign xml:lang="cvz">Tibéea</foreign>, por, <foreign xml:lang="cvz">tipéea</foreign>, 
+                        <foreign xml:lang="cvz">quiebaa</foreign>, por, <foreign xml:lang="cvz">quiepaa</foreign>.
                      </p>
-                     <p><pc>¶</pc>La. 
-                        <foreign xml:lang="cvz">c</foreign>. ſimbolizan, con la. 
+                     <p newline="no">
+                        <lb/><pc>¶</pc>La. 
+                        <foreign xml:lang="cvz">c</foreign>. 
+                        <choice><orig>ſimbolizan</orig><reg type="spanish">simbolizan</reg></choice>, con la. 
                         <foreign xml:lang="cvz">g</foreign>. 
-                        <foreign xml:lang="lat">vt</foreign> 
+                        <foreign xml:lang="lat"><choice><orig>vt</orig><reg type="lat">ut</reg></choice></foreign> 
                         <foreign xml:lang="cvz">tigóoya</foreign>, pro, 
-                        <foreign xml:lang="cvz">ticóo<pc type="hyphen">-</pc>
-                        <lb break="no"/>ya</foreign>. 
+                        <foreign xml:lang="cvz">ticóo<pc type="hyphen">-</pc><lb break="no"/>ya</foreign>. 
                         <foreign xml:lang="lat" ana="ytem">Ytem</foreign> con la. 
                         <foreign xml:lang="cvz">z</foreign>, 
-                        <foreign xml:lang="lat">vt</foreign> 
+                        <foreign xml:lang="lat"><choice><orig>vt</orig><reg type="lat">ut</reg></choice></foreign> 
                         <foreign xml:lang="cvz">tozóbaya</foreign>, pro, 
                         <foreign xml:lang="cvz">toçóbaya</foreign> 
                         <foreign xml:lang="cvz">Ti<pc type="hyphen">-</pc><lb break="no"/>cija</foreign>,pro,
@@ -12785,16 +12851,26 @@
                         <foreign xml:lang="cvz">Tozáaya</foreign>, pro, 
                         <foreign xml:lang="cvz">toçáaya</foreign>. 
                      </p>
-                     <p><pc>¶</pc>La. <foreign xml:lang="cvz">d</foreign>. to<pc type="hyphen">-</pc>
-                        <lb break="no"/>man por .<foreign xml:lang="cvz">t</foreign>.<foreign xml:lang="lat">vt</foreign> Doledo, pro Toledo.
+                     <p newline="no">
+                        <pc>¶</pc>La. <foreign xml:lang="cvz">d</foreign>. 
+                        to<pc type="hyphen">-</pc><lb break="no"/>man por .
+                        <foreign xml:lang="cvz">t</foreign>.
+                        <foreign xml:lang="lat"><choice><orig>vt</orig><reg type="lat">ut</reg></choice></foreign> 
+                        Doledo, pro Toledo.
                      </p>
-                     <p><pc>¶</pc>La.<foreign xml:lang="cvz">e</foreign>.toman
-                        <lb/>por.<foreign xml:lang="cvz">y</foreign>.<foreign xml:lang="lat">vt</foreign> <foreign xml:lang="cvz">tilóſea</foreign>,pro <foreign xml:lang="cvz">tilóſia</foreign>.
+                     <p newline="no"><pc>¶</pc>La.<foreign xml:lang="cvz">e</foreign>.toman
+                        <lb/>por.<foreign xml:lang="cvz">y</foreign>.
+                        <foreign xml:lang="lat"><choice><orig>vt</orig><reg type="lat">ut</reg></choice></foreign> 
+                        <foreign xml:lang="cvz">tilóſea</foreign>,pro <foreign xml:lang="cvz">tilóſia</foreign>.
                      </p>
-                     <p><pc>¶</pc>La.<foreign xml:lang="cvz">g</foreign>. hablan como
-                        <lb/><foreign xml:lang="cvz">q</foreign>.<foreign xml:lang="lat">vt</foreign> <foreign xml:lang="cvz">tiguítea</foreign>,pro <foreign xml:lang="cvz">tiquítea</foreign>. <foreign xml:lang="cvz">Guíebaa</foreign> , pro <foreign xml:lang="cvz">quíepaa</foreign>.
+                     <p>
+                        <pc>¶</pc>La.<foreign xml:lang="cvz">g</foreign>. hablan como
+                        <lb/><foreign xml:lang="cvz">q</foreign>.
+                        <foreign xml:lang="lat"><choice><orig>vt</orig><reg type="lat">ut</reg></choice></foreign> 
+                        <foreign xml:lang="cvz">tiguítea</foreign>,pro <foreign xml:lang="cvz">tiquítea</foreign>. 
+                        <foreign xml:lang="cvz">Guíebaa</foreign> , pro <foreign xml:lang="cvz">quíepaa</foreign>.
                         <fw type="catchword" place="bottom-right">
-                          <hi rend="bold">La.h.</hi>
+                            <hi rend="bold">La.<foreign xml:lang="cvz">h</foreign>.</hi>
                         </fw>
                         <pb break="yes" type="arte" n="41r"/>
                         <pb break="yes" type="pdf" facs="http://archive.org/stream/arteenlenguazapo00juan#page/n98/mode/1up"/> 
@@ -12806,14 +12882,10 @@
                            .</hi>
                         </fw>
                         <fw type="pageNum" place="top-right">41</fw>
-                        <lb/>La. 
-                        <foreign xml:lang="cvz">h</foreign>. 
-                        <choice>
-                        <orig>hazen</orig>
-                        <reg type="spanish">hacen</reg>
-                     </choice> 
+                        <lb/>La. <foreign xml:lang="cvz">h</foreign>. 
+                        <choice><orig>hazen</orig><reg type="spanish">hacen</reg></choice> 
                         <foreign xml:lang="cvz">v</foreign>. 
-                        <foreign xml:lang="lat">vt</foreign> 
+                        <foreign xml:lang="lat"><choice><orig>vt</orig><reg type="lat">ut</reg></choice></foreign> 
                         <foreign xml:lang="cvz">vué</foreign>, 
                         <foreign xml:lang="cvz">vuí</foreign>, pro <foreign xml:lang="cvz">hué</foreign>, 
                         <foreign xml:lang="cvz">huí</foreign>. 
@@ -12821,16 +12893,19 @@
                         <foreign xml:lang="cvz">o</foreign>.
                         <lb/>por 
                         <foreign xml:lang="cvz">hu</foreign>, 
-                        <foreign xml:lang="lat">vt</foreign> 
+                        <foreign xml:lang="lat"><choice><orig>vt</orig><reg type="lat">ut</reg></choice></foreign> 
                         <foreign xml:lang="cvz">oá</foreign>. pro 
                         <foreign xml:lang="cvz">huá</foreign>. La 
-                        <foreign xml:lang="cvz">y</foreign>. ſemejan a la, <foreign xml:lang="cvz">e</foreign>, 
-                        <foreign xml:lang="lat">vt</foreign>
+                        <foreign xml:lang="cvz">y</foreign>. 
+                        <choice><orig>ſemejan</orig><reg type="spanish">semejan</reg></choice> a la, 
+                        <foreign xml:lang="cvz">e</foreign>, 
+                        <foreign xml:lang="lat"><choice><orig>vt</orig><reg type="lat">ut</reg></choice></foreign>
                         <lb/><foreign xml:lang="cvz">ticiguéeya</foreign>, pro 
                         <foreign xml:lang="cvz">ticiguija</foreign>. La. 
-                        <foreign xml:lang="cvz">o</foreign>. pronunciã como. 
+                        <foreign xml:lang="cvz">o</foreign>. 
+                        <choice><orig>pronunciã</orig><reg type="spanish">pronuncian</reg></choice> como. 
                         <foreign xml:lang="cvz">u</foreign>.
-                        <lb/><foreign xml:lang="lat">vt</foreign> 
+                        <lb/><foreign xml:lang="lat"><choice><orig>vt</orig><reg type="lat">ut</reg></choice></foreign> 
                         <foreign xml:lang="cvz">tua</foreign>, pro 
                         <foreign xml:lang="cvz">tóa</foreign>. 
                         <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>. 
@@ -12838,65 +12913,92 @@
                         <foreign xml:lang="cvz">tóhua</foreign>, 
                         <foreign xml:lang="cvz">pejuána</foreign>, pro <foreign xml:lang="cvz">pexoána</foreign>.
                         <lb/>La. 
-                        <foreign xml:lang="cvz">p</foreign>. hazẽ. 
-                        <foreign xml:lang="lat">vt</foreign>. 
-                        <foreign xml:lang="cvz">quiebaa</foreign>, pro <foreign xml:lang="cvz">quiepaa</foreign>. Porla. 
-                        <foreign xml:lang="cvz">q</foreign>. tomã
+                        <foreign xml:lang="cvz">p</foreign>. 
+                        <choice><orig>hazẽ</orig><reg type="spanish">hacen</reg></choice>. 
+                        <foreign xml:lang="lat"><choice><orig>vt</orig><reg type="lat">ut</reg></choice></foreign>. 
+                        <foreign xml:lang="cvz">quiebaa</foreign>, pro <foreign xml:lang="cvz">quiepaa</foreign>. 
+                        <choice><orig>Porla</orig><reg type="spanish">Por la</reg></choice>. 
+                        <foreign xml:lang="cvz">q</foreign>. 
+                        <choice><orig>tomã</orig><reg type="spanish">toman</reg></choice>
                         <lb/><foreign xml:lang="cvz">g</foreign>. 
-                        <foreign xml:lang="lat">vt</foreign><foreign xml:lang="cvz">tiguíbaya</foreign>, pro 
-                        <foreign xml:lang="cvz">tiquíbaya</foreign>. Ala. 
-                        <foreign xml:lang="cvz">r</foreign>. <choice>
-                        <orig>hazen</orig>
-                        <reg type="spanish">hacen</reg>
-                     </choice> que ſirua
-                        <lb/>de. 
-                        <foreign xml:lang="cvz">t</foreign>. 
-                        <foreign xml:lang="lat">vt</foreign> 
+                        <foreign xml:lang="lat"><choice><orig>vt</orig><reg type="lat">ut</reg></choice></foreign> 
+                        <foreign xml:lang="cvz">tiguíbaya</foreign>, pro 
+                        <foreign xml:lang="cvz">tiquíbaya</foreign>. 
+                        <choice><orig>Ala</orig><reg type="spanish">A la</reg></choice>. 
+                        <foreign xml:lang="cvz">r</foreign>. 
+                        <choice><orig>hazen</orig><reg type="spanish">hacen</reg></choice> que 
+                        <choice><orig>ſirua</orig><reg type="spanish">sirva</reg></choice>
+                        <lb/>de. <foreign xml:lang="cvz">t</foreign>. 
+                        <foreign xml:lang="lat"><choice><orig>vt</orig><reg type="lat">ut</reg></choice></foreign> 
                         <foreign xml:lang="cvz">toróbaya</foreign>, pro <foreign xml:lang="cvz">totóbaya</foreign>. 
                         <foreign xml:lang="cvz">Ciróo</foreign>, pro <foreign xml:lang="cvz">citáo</foreign>,
                         <lb/>A la. 
-                        <foreign xml:lang="cvz">s</foreign>. bueluen en. 
-                        <foreign xml:lang="lat">vt</foreign> 
+                        <foreign xml:lang="cvz">s</foreign>. 
+                        <choice><orig>bueluen</orig><reg type="spanish">vuelven</reg></choice> en. 
+                        <foreign xml:lang="lat"><choice><orig>vt</orig><reg type="lat">ut</reg></choice></foreign> 
                         <foreign xml:lang="cvz">tilóxia</foreign>, pro 
                         <foreign xml:lang="cvz">tolóſia</foreign>. Aunque
-                        <lb/><choice>
-                       <orig>tambien</orig>
-                       <reg type="spanish">también</reg>
-                    </choice> vale, 
+                        <lb/><choice><orig>tambien</orig><reg type="spanish">también</reg></choice> vale, 
                         <foreign xml:lang="cvz">tilóxe</foreign>. 
                         <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>. 
-                        <foreign xml:lang="cvz">tilóxi</foreign>, por la razon dicha. En
+                        <foreign xml:lang="cvz">tilóxi</foreign>, por la 
+                        <choice><orig>razon</orig><reg type="spanish">razón</reg></choice> dicha. En
                         <lb/><choice><orig>eſtas</orig><reg type="spanish">estas</reg></choice> faltas caemos mucho mas 
                         <choice><orig>noſotros</orig><reg type="spanish">nosotros</reg></choice> 
                         <choice><orig>enlas</orig><reg type="spanish">en las</reg></choice> mas
-                        <lb/><choice><orig>della</orig>
-                           <reg type="spanish">de ella</reg></choice> <choice><orig>qne</orig>
-                   <reg type="spanish">que</reg></choice> no los 
-                        <choice><orig>yndios</orig>
-                           <reg type="spanish">indios</reg></choice>, porque las aprehendemos
-                        <lb/><choice><orig>aſsi</orig><reg type="spanish">así</reg></choice> al reues.
+                        <lb/><choice><orig>della</orig><reg type="spanish">de ella</reg></choice> 
+                        <choice><orig>qne</orig><reg type="spanish">que</reg></choice> no los 
+                        <choice><orig>yndios</orig><reg type="spanish">indios</reg></choice>, porque las 
+                        <choice><orig>aprehendemos</orig><reg type="spanish">aprendemos</reg></choice>
+                        <lb/><choice><orig>aſsi</orig><reg type="spanish">así</reg></choice> al 
+                        <choice><orig>reues</orig><reg type="spanish">revés</reg></choice>.
                      </p>
                   </div>
                  <div xml:id="arte2.6.25"  part="N" org="uniform" sample="complete">
-                     <head type="outline">2.6.25 Duplicacion de letras</head>
-                     <head type="cordova"><choice><orig>D V P L I C A C I O N   D E   L E T R A S</orig><reg type="spacing">DVPLICACION DE LETRAS</reg><reg type="spanish">DUPLICACIÓN DE LETRAS</reg></choice></head>
-                     <p><g ref="#leaves-t">T</g> A M B I E N <choice><orig>ay</orig><reg type="spanish">hay</reg></choice> en <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice> lengua como arri
-                        <lb break="no"/>ba diximos duplicacion de letras, <choice><orig>aſsi</orig><reg type="spanish">así</reg></choice> vo<pc type="hyphen">-</pc>
-                        <lb break="no"/>cales como conſonantes. Y <choice><orig>vnas</orig><reg type="spanish">unas</reg></choice> <choice><orig>ſon</orig><reg type="spanish">son</reg></choice> para
-                        <lb/>abiuar el ſonido de las <choice><orig>ſillaba</orig><reg type="spanish">sílaba</reg></choice> o diction, y
-                        <lb/>otras para protraherle blandamente, y otras para
+                     <head type="outline">2.6.25 Duplicación de letras</head>
+                     <head type="cordova">
+                        <choice>
+                            <orig>D V P L I C A C I O N   D E   L E T R A S</orig>
+                            <reg type="spacing">DVPLICACION DE LETRAS</reg>
+                            <reg type="spanish">DUPLICACIÓN DE LETRAS</reg>
+                        </choice>
+                    </head>
+                     <p>
+                        <choice>
+                            <orig><g ref="#leaves-t">T</g> A M B I E N</orig>
+                            <reg type="spacing"><g ref="#leaves-t">T</g>AMBIEN</reg>
+                            <reg type="spanish"><g ref="#leaves-t">T</g>AMBIÉN</reg>
+                        </choice> 
+                        <choice><orig>ay</orig><reg type="spanish">hay</reg></choice> en 
+                        <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice> lengua como 
+                        arri<lb break="no"/>ba 
+                        <choice><orig>diximos</orig><reg type="spanish">dijimos</reg></choice> 
+                        <choice><orig>duplicacion</orig><reg type="spanish">duplicación</reg></choice> de letras, 
+                        <choice><orig>aſsi</orig><reg type="spanish">así</reg></choice> 
+                        vo<pc type="hyphen">-</pc><lb break="no"/>cales como 
+                        <choice><orig>conſonantes</orig><reg type="spanish">consonantes</reg></choice>. Y 
+                        <choice><orig>vnas</orig><reg type="spanish">unas</reg></choice> 
+                        <choice><orig>ſon</orig><reg type="spanish">son</reg></choice> para
+                        <lb/><choice><orig>abiuar</orig><reg type="spanish">avivar</reg></choice> el 
+                        <choice><orig>ſonido</orig><reg type="spanish">sonido</reg></choice> de las 
+                        <choice><orig>ſillaba</orig><reg type="spanish">sílaba</reg></choice> o 
+                        <choice><orig>diction</orig><reg type="spanish">dicción</reg></choice>, y
+                        <lb/>otras para <choice><orig>protraherle</orig><reg type="spanish">protraer</reg></choice> 
+                        blandamente, y otras para
                         <lb/>dar el acento en cada 
                         <choice><orig>vna</orig><reg type="spanish">una</reg></choice> 
                         <choice><orig>dellas</orig><reg type="spanish">de ellas</reg></choice>. Y 
-                        <choice>
-                       <orig>tambien</orig>
-                       <reg type="spanish">también</reg>
-                    </choice> entre al
-                        <lb break="no"/>gunas de ellas 
-                        <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> les entremete <choice><orig>vna</orig><reg type="spanish">una</reg></choice>. 
-                        <foreign xml:lang="cvz">h</foreign>. por aſpiraciõ
-                        <lb/>para les fortificar el ſonido. Las letras que <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> dupli
-                        <lb break="no"/>can <choice><orig>ſon</orig><reg type="spanish">son</reg></choice> las ſiguientes. Primeramente dos.aa.Dos
+                        <choice><orig>tambien</orig><reg type="spanish">también</reg></choice> entre 
+                        al<lb break="no"/>gunas de ellas 
+                        <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> les entremete 
+                        <choice><orig>vna</orig><reg type="spanish">una</reg></choice>. 
+                        <foreign xml:lang="cvz">h</foreign>. por 
+                        <choice><orig>aſpiraciõ</orig><reg type="spanish">aspiración</reg></choice>
+                        <lb/>para les fortificar el <choice><orig>ſonido</orig><reg type="spanish">sonido</reg></choice>. 
+                        Las letras que <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> 
+                        dupli<lb break="no"/>can <choice><orig>ſon</orig><reg type="spanish">son</reg></choice> las 
+                        <choice><orig>ſiguientes</orig><reg type="spanish">siguientes</reg></choice>. Primeramente dos.
+                        <foreign xml:lang="cvz">aa</foreign>.Dos
                         <lb/><foreign xml:lang="cvz">cc</foreign>. Dos. 
                         <foreign xml:lang="cvz">ee</foreign>.Dos. 
                         <foreign xml:lang="cvz">yy</foreign>. Y dos. 
@@ -12905,27 +13007,32 @@
                         <foreign xml:lang="cvz">nn</foreign>. Dos
                         <lb/><foreign xml:lang="cvz">oo</foreign>. Dos. 
                         <foreign xml:lang="cvz">pp</foreign>. Dos. 
-                        <foreign xml:lang="cvz">tt</foreign>..                         
+                        <foreign xml:lang="cvz">tt</foreign>.
                      </p>
-                     <p><pc>¶</pc>Pornemos 
-                        <choice><orig>exemplos</orig>
-                        <reg type="spanish">ejemplos</reg></choice> 
+                     <p newline="no">
+                        <pc>¶</pc><choice><orig>Pornemos</orig><reg type="spanish">Ponemos</reg></choice> 
+                        <choice><orig>exemplos</orig><reg type="spanish">ejemplos</reg></choice> 
                         <choice><orig>dellas</orig><reg type="spanish">de ellas</reg></choice>
                         <lb/>y los acentos 
-                        <choice><orig>ſobre</orig><reg type="spanish">sobre</reg></choice> las que los ouieren de tener.
+                        <choice><orig>ſobre</orig><reg type="spanish">sobre</reg></choice> las que los 
+                        <choice><orig>ouieren</orig><reg type="spanish">hubieron</reg></choice> de tener.
                         <lb/><foreign xml:lang="lat"><choice><abbr>V.g.</abbr><expan>Verbi gratia</expan></choice></foreign> De dos. 
                         <foreign xml:lang="cvz">aa</foreign>. 
                         <foreign xml:lang="cvz">Toçáaya</foreign>, 
                         <choice><orig>hazer</orig><reg type="spanish">hacer</reg></choice> andar. 
-                        <foreign xml:lang="cvz">Laalani</foreign>, blan
-                        <lb break="no"/>damente pronũciado, 
-                        <foreign xml:lang="cvz">tolaaya</foreign>, floxar. Interpoſita,
+                        <foreign xml:lang="cvz">Laalani</foreign>, 
+                        blan<lb break="no"/>damente 
+                        <choice><orig>pronũciado</orig><reg type="spanish">pronunciado</reg></choice>, 
+                        <foreign xml:lang="cvz">tolaaya</foreign>, 
+                        <choice><orig>floxar</orig><reg type="spanish">flojar</reg></choice>. 
+                        <choice><orig>Interpoſita</orig><reg type="spanish">Interposita</reg></choice>,
                         <lb/>h. 
-                        <foreign xml:lang="cvz">tigáhaya</foreign>, preſo 
+                        <foreign xml:lang="cvz">tigáhaya</foreign>, 
+                        <choice><orig>preſo</orig><reg type="spanish">preso</reg></choice> 
                         <choice><orig>eſtar</orig><reg type="spanish">estar</reg></choice>. 
                         <foreign xml:lang="cvz">Ticáhaya</foreign>, prender o lle<pc type="hyphen">-</pc>
                         <fw type="catchword" place="bottom-right">
-                          <hi rend="bold">F   uar.</hi>
+                          <hi rend="bold">F   <choice><orig>uar</orig><reg type="spanish">var</reg></choice>.</hi>
                         </fw>
                         <pb break="yes" type="arte" n="41v"/>
                         <pb break="yes" type="pdf" facs="http://archive.org/stream/arteenlenguazapo00juan#page/n99/mode/1up"/> 
@@ -18547,7 +18654,7 @@
                        <choice><orig>vezes</orig><reg type="spanish">veces</reg></choice> a 
                        <choice><orig>eſte</orig><reg type="spanish">este</reg></choice>, 
                        <foreign xml:lang="cvz">zó</foreign>, le 
-                       <choice><orig>ayũtan</orig><reg type="spanish">ayuntan</reg>
+                       <choice><orig>ayũtan</orig><reg type="spanish">ayuntan</reg></choice>
                        <fw type="catchword" place="bottom-right">
                           <hi rend="bold">y <choice><orig>poſtpo</orig><reg type="spanish">pospo</reg></choice><pc type="hyphen">-</pc></hi>
                        </fw>
