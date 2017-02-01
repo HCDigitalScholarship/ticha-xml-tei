@@ -13239,47 +13239,51 @@
                </div>
                <div xml:id="arte2.7.2">
                   <head type="outline">2.7.2 Participios de presente</head>
-                  <head type="cordova"><choice><orig>P A R T I C I P I O S   D E   P R E S E N T E</orig><reg type="spacing">PARTICIPIOS DE PRESENTE</reg></choice></head>
-                  <p>PRimeramente es de notar para <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice> materia de
-                     <lb/>los participios, que 
-                     <choice><orig>eſtos</orig>
-                        <reg type="spanish">estos</reg></choice> 
-                     <choice><orig>ſalen</orig>
-                        <reg type="spanish">salen</reg></choice> de verbos acti<pc type="hyphen">-</pc><lb break="no"/>vos o que 
-                     <choice>
-                        <orig>ſignifican</orig>
-                        <reg type="spanish">significan</reg>
-                     </choice> action alguna. 
-                     <foreign xml:lang="lat" ana="ytem">Ytem</foreign> es de
-                     <lb/>notar que 
-                     <choice><orig>ay</orig>
-                        <reg type="spanish">hay</reg></choice> 
-                     <choice><orig>ſimples</orig><reg type="spanish">simples</reg></choice> y 
-                     <choice><orig>compueſtos</orig>
-                  <reg type="spanish">compuestos</reg></choice>, 
-                     y por no 
-                     prolõ<pc type="hyphen">-</pc><lb break="no"/>gar 
-                     la materia me parece que es mejor declararlos
-                     <lb/>por 
-                     <choice><orig>exemplos</orig>
-                        <reg type="spanish">ejemplos</reg></choice>, 
-                     y 
-                     <choice><orig>yr</orig>
-                        <reg type="spanish">ir</reg></choice> 
-                     diſcurriẽdo porlosverbos de. 
-                     <foreign xml:lang="cvz">ta</foreign>.
-                     <lb/><foreign xml:lang="cvz">te</foreign>. 
-                     &amp;c. como hemos hecho 
-                     <choice><orig>haſta</orig>
-                        <reg type="spanish">hasta</reg></choice> 
-                     aqui de las demas
-                     <lb/>materias.                     
+                  <head type="cordova">
+                      <choice>
+                          <orig>P A R T I C I P I O S   D E   P R E S E N T E</orig>
+                          <reg type="spacing">PARTICIPIOS DE PRESENTE</reg>
+                      </choice>
+                  </head>
+                  <p>
+                      PRimeramente es de notar para <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice> materia de
+                      <lb/>los participios, que 
+                      <choice><orig>eſtos</orig><reg type="spanish">estos</reg></choice> 
+                      <choice><orig>ſalen</orig><reg type="spanish">salen</reg></choice> de verbos 
+                      acti<pc type="hyphen">-</pc><lb break="no"/>vos o que 
+                      <choice><orig>ſignifican</orig><reg type="spanish">significan</reg></choice> 
+                      <choice><orig>action</orig><reg type="spanish">acción</reg></choice> alguna. 
+                      <foreign xml:lang="lat" ana="ytem">Ytem</foreign> es de
+                      <lb/>notar que 
+                      <choice><orig>ay</orig><reg type="spanish">hay</reg></choice> 
+                      <choice><orig>ſimples</orig><reg type="spanish">simples</reg></choice> y 
+                      <choice><orig>compueſtos</orig><reg type="spanish">compuestos</reg></choice>, 
+                      y por no 
+                      <choice>
+                          <orig>prolõ<pc type="hyphen">-</pc><lb break="no"/>gar</orig>
+                          <reg type="spanish">prolon<pc type="hyphen">-</pc><lb break="no"/>gar</reg>
+                      </choice> 
+                      la materia me parece que es mejor declararlos
+                      <lb/>por 
+                      <choice><orig>exemplos</orig><reg type="spanish">ejemplos</reg></choice>, y 
+                      <choice><orig>yr</orig><reg type="spanish">ir</reg></choice> 
+                      <choice><orig>diſcurriẽdo</orig><reg type="spanish">discurriendo</reg></choice> 
+                      <choice><orig>porlosverbos</orig><reg type="spanish">por los verbos</reg></choice> de. 
+                      <foreign xml:lang="cvz">ta</foreign>.
+                      <lb/><foreign xml:lang="cvz">te</foreign>. 
+                      &amp;c. como hemos hecho 
+                      <choice><orig>haſta</orig><reg type="spanish">hasta</reg></choice> 
+                      <choice><orig>aqui</orig><reg type="spanish">aquí</reg></choice> de las 
+                      <choice><orig>demas</orig><reg type="spanish">demás</reg></choice>
+                      <lb/>materias.
                   </p>
                   <p><pc>¶</pc>Los participios 
                      <choice><orig>ſimples</orig><reg type="spanish">simples</reg></choice> 
-                     <choice><orig>ſon</orig><reg type="spanish">son</reg></choice>, la primera <choice><orig>perſona</orig><reg type="spanish">persona</reg></choice>
+                     <choice><orig>ſon</orig><reg type="spanish">son</reg></choice>, la primera 
+                     <choice><orig>perſona</orig><reg type="spanish">persona</reg></choice>
                      <lb/>del 
-                     <choice><orig>preſente</orig><reg type="spanish">presente</reg></choice> de <choice><orig>indicatiuo</orig><reg type="spanish">indicativo</reg></choice>, quitado el pronombre
+                     <choice><orig>preſente</orig><reg type="spanish">presente</reg></choice> de 
+                     <choice><orig>indicatiuo</orig><reg type="spanish">indicativo</reg></choice>, quitado el pronombre
                      <lb/>y 
                      <choice><orig>antepueſto</orig><reg type="spanish">antepuesto</reg></choice> 
                      <choice><orig>vn</orig><reg type="spanish">un</reg></choice>, 
@@ -13287,11 +13291,16 @@
                      <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> pone el nombre
                      <lb/>proprio, y otras <choice><orig>vezes</orig>
                      <reg type="spanish">veces</reg></choice> 
-                     <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> poſtpone vn. <foreign xml:lang="cvz">ti</foreign>. 
-                     <choice><abbr>V.g.</abbr><expan>verbi gratia</expan></choice>. En los
-                     <lb/>ve bos de. 
+                     <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> 
+                     <choice><orig>poſtpone</orig><reg type="spanish">pospone</reg></choice> 
+                     <choice><orig>vn</orig><reg type="spanish">un</reg></choice>. 
+                     <foreign xml:lang="cvz">ti</foreign>. 
+                     <foreign xml:lang="lat"><choice><abbr>V.g.</abbr><expan>verbi gratia</expan></choice></foreign>. En los
+                     <lb/><choice><orig>ve bos</orig><reg type="spanish">verbos</reg></choice> de. 
                      <foreign xml:lang="cvz">ta</foreign>. 
-                     <foreign xml:lang="cvz">pénitágo</foreign>, el que come. <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>. <foreign xml:lang="cvz">nitágoni</foreign>. 
+                     <foreign xml:lang="cvz">pénitágo</foreign>, el que come. 
+                     <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>. 
+                     <foreign xml:lang="cvz">nitágoni</foreign>. 
                      <foreign xml:lang="cvz">Pé<pc type="hyphen">-</pc><lb break="no"/>nitácini</foreign>, el 
                      <choice><orig>q̃</orig><reg type="spanish">que</reg></choice> duerme. 
                      <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>. 
@@ -13301,145 +13310,199 @@
                      <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>. 
                      <foreign xml:lang="cvz">tána
                      <lb/>ti</foreign>, 
-                     <foreign xml:lang="cvz">nitána</foreign>, el que caua, 
-                     <foreign xml:lang="cvz">nitánati</foreign>. el que <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice> actualmẽ<pc type="hyphen">-</pc><lb break="no"/>te cauando. 
-                  </p>
-                  <p><pc>¶</pc><choice>
-                       <orig>Tambien</orig>
-                       <reg type="spanish">También</reg>
-                    </choice> algunas <choice><orig>vezes</orig>
-                     <reg type="spanish">veces</reg></choice> 
-                     <choice><orig>ſon</orig><reg type="spanish">son</reg></choice> los ad<pc type="hyphen">-</pc><lb break="no"/>iectiuos <choice>
-                        <orig>delos</orig>
-                        <reg type="spanish">de los</reg>
-                     </choice> verbos <choice><orig>actiuos</orig><reg type="spanish">activos</reg></choice> que ſignificã alguna a<lb break="no"/>ctiõ. 
-                     <foreign xml:lang="lat">vt</foreign> <foreign xml:lang="cvz">péninácoxábani</foreign>, el 
-                     <choice><orig>q̃</orig><reg type="spanish">que</reg></choice> tiene cubierta la man<pc type="hyphen">-</pc><lb break="no"/>ta, 
-                     <foreign xml:lang="cvz">péninaça</foreign>, el que ſalta, 
-                     <foreign xml:lang="cvz">ná#epiága</foreign>, 
-                     el que tie<pc type="hyphen">-</pc><lb break="no"/>ne veſtida la camiſa. 
+                     <foreign xml:lang="cvz">nitána</foreign>, el que 
+                     <choice><orig>caua</orig><reg type="spanish">cava</reg></choice>, 
+                     <foreign xml:lang="cvz">nitánati</foreign>. el que 
+                     <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice> 
                      <choice>
-                       <orig>Tambien</orig>
-                       <reg type="spanish">También</reg>
-                    </choice> 
-                    <choice><orig>dizen</orig><reg type="spanish">dicen</reg></choice>, 
-                    <foreign xml:lang="cvz">nitácati</foreign>,
-                     <fw type="catchword" place="bottom-right">
-                        <hi rend="bold">F2    lo que</hi>
-                     </fw>
-                     <pb break="yes" type="arte" n="42v"/>
-                     <pb break="yes" type="pdf" facs="http://archive.org/stream/arteenlenguazapo00juan#page/n101/mode/1up"/>
-                     <fw type="head" place="top-center">
-                       <hi rend="bold"><choice><orig>A R T E</orig><reg type="spacing">ARTE</reg></choice></hi>
-                     </fw> 
-                     <lb/>lo que 
-                     <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice> <choice>
-                        <orig>haziendo</orig>
-                        <reg type="spanish">haciendo</reg>
-                     </choice>, 
-                     <foreign xml:lang="cvz">ninácati</foreign>, lo que es 
-                     actualmẽ<lb break="no"/>te. De todos 
-                     <choice><orig>vſan</orig>
-                        <reg type="spanish">usan</reg></choice> 
-                     indiferentemente. Para los parti<lb break="no"/>cipios <choice><orig>compueſtos</orig>
-                  <reg type="spanish">compuestos</reg></choice> de. 
-                     <foreign xml:lang="cvz">ta</foreign>, 
-                     componenſe con adjecti<lb break="no"/>uos de <choice><orig>yr</orig><reg type="spanish">ir</reg></choice> o venir, o 
-                     <choice><orig>eſtar</orig>
-                        <reg type="spanish">estar</reg></choice>, 
-                     ſentado, o en pie, o echa<pc type="hyphen">-</pc><lb break="no"/>do o 
-                     <choice>
-                        <orig>haziendo</orig>
-                        <reg type="spanish">haciendo</reg>
-                     </choice>, o 
-                     <choice>
-                        <orig>diziendo</orig>
-                        <reg type="spanish">diciendo</reg>
-                     </choice>. &amp;c. 
-                     <choice><abbr>V.g.</abbr><expan>verbi gratia</expan></choice>. 
-                     <foreign xml:lang="cvz">Péninóoyágo</foreign>.
-                     <lb/>El que <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice> comiendo, 
-                     <foreign xml:lang="cvz">nóoyána</foreign>, el que eſta cauan<pc type="hyphen">-</pc><lb break="no"/>do. <foreign xml:lang="cvz">Náayácini</foreign>, el que duerme echado,<foreign xml:lang="cvz">nacáayágo<pc type="hyphen">-</pc><lb break="no"/>ni</foreign>, <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice> pegado a la comida comiendo. <choice>
-                       <orig>Tambien</orig>
-                       <reg type="spanish">También</reg>
-                    </choice> ſe
-                     <lb/><choice>
-                        <orig>hazen</orig>
-                        <reg type="spanish">hacen</reg>
-                     </choice> negatiuamente. 
-                     <foreign xml:lang="lat">Vt</foreign> <foreign xml:lang="cvz">yácanánati</foreign>, el que no ſa<pc type="hyphen">-</pc><lb break="no"/>be, 
-                     <foreign xml:lang="cvz">yácanánnáatia</foreign>, 
-                     <choice><orig>lomeſmo</orig><reg type="spanish">lo mismo</reg></choice>. Otros muchosvã por
-                     <lb/>aqui 
-                     <choice><orig>aſsi</orig><reg type="spanish">así</reg></choice> affirmatiuos como <choice>
-                        <orig>negatiuos</orig>
-                        <reg type="spanish">negativos</reg>
-                     </choice>.
-                  </p>
-                  <p><pc>¶</pc>
-                     <choice>
-                        <orig>Delos</orig>
-                        <reg type="spanish">De los</reg>
-                     </choice> ver<lb break="no"/>bos de, 
-                     <foreign xml:lang="cvz">te</foreign>, ſ imples <choice><orig>tãbien</orig><reg type="spanish">también</reg></choice> 
-                     <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> toma el <choice><orig>preſente</orig><reg type="spanish">presente</reg></choice> al mo<lb break="no"/>do ya dicho. 
-                     <foreign xml:lang="lat">Vt.</foreign><foreign xml:lang="lat"><choice><abbr>V.g.</abbr><expan>Verbi gratia</expan></choice></foreign> <foreign xml:lang="cvz">Nitezáacaláchi</foreign>, el que <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice> cõ<lb break="no"/>tento o alegre. 
-                     <foreign xml:lang="cvz">Nitezáalachi</foreign> el <choice><orig>q̃</orig><reg type="spanish">que</reg></choice> haze 
-                     <choice><orig>biẽ</orig>
-                        <reg type="spanish">bien</reg></choice> a otros.
-                  </p>
-                  <p><pc>¶</pc>Los 
-                     <choice><orig>compueſtos</orig>
-                  <reg type="spanish">compuestos</reg></choice> 
-                     <choice>
-                        <orig>deſtos</orig>
-                        <reg type="spanish">de estos</reg>
+                        <orig>actualmẽ<pc type="hyphen">-</pc><lb break="no"/>te</orig>
+                        <reg type="spanish">actualmen<pc type="hyphen">-</pc><lb break="no"/>te</reg>
                      </choice> 
-                     <choice><orig>ſon</orig>
-                        <reg type="spanish">son</reg></choice> de otra manera, por
-                     <lb/>que toman con el adjectiuo la primera <choice><orig>perſona</orig><reg type="spanish">persona</reg></choice> del
-                     <lb/>plural del futuro imperfecto de <choice><orig>indicatiuo</orig><reg type="spanish">indicativo</reg></choice>. 
-                     <foreign xml:lang="lat"><foreign xml:lang="lat"><choice><abbr>V.g.</abbr><expan>verbi gratia</expan></choice></foreign></foreign>. 
+                     <choice><orig>cauando</orig><reg type="spanish">cavando</reg></choice>. 
+                  </p>
+                  <p newline="no"><pc>¶</pc>
+                      <choice><orig>Tambien</orig><reg type="spanish">También</reg></choice> algunas 
+                      <choice><orig>vezes</orig><reg type="spanish">veces</reg></choice> 
+                      <choice><orig>ſon</orig><reg type="spanish">son</reg></choice> los 
+                      <choice>
+                          <orig>ad<pc type="hyphen">-</pc><lb break="no"/>iectiuos</orig>
+                          <reg type="spanish">ad<pc type="hyphen">-</pc><lb break="no"/>jetivos</reg>
+                      </choice> 
+                      <choice><orig>delos</orig><reg type="spanish">de los</reg></choice> verbos 
+                      <choice><orig>actiuos</orig><reg type="spanish">activos</reg></choice> que 
+                      <choice><orig>ſignificã</orig><reg type="spanish">significan</reg></choice> alguna 
+                      <choice>
+                          <orig>a<lb break="no"/>ctiõ</orig>
+                          <reg type="spanish">a<lb break="no"/>cción</reg>
+                      </choice>. 
+                      <foreign xml:lang="lat">vt</foreign> 
+                      <foreign xml:lang="cvz">péninácoxábani</foreign>, el 
+                      <choice><orig>q̃</orig><reg type="spanish">que</reg></choice> tiene cubierta la 
+                      man<pc type="hyphen">-</pc><lb break="no"/>ta, 
+                      <foreign xml:lang="cvz">péninaça</foreign>, el que falta, 
+                      <foreign xml:lang="cvz">ná#epiága</foreign>, 
+                      el que tie<pc type="hyphen">-</pc><lb break="no"/>ne 
+                      <choice><orig>veſtida</orig><reg type="spanish">vestida</reg></choice> la 
+                      <choice><orig>camiſa</orig><reg type="spanish">camisa</reg></choice>. 
+                      <choice><orig>Tambien</orig><reg type="spanish">También</reg></choice> 
+                      <choice><orig>dizen</orig><reg type="spanish">dicen</reg></choice>, 
+                      <foreign xml:lang="cvz">nitácati</foreign>,
+                      <fw type="catchword" place="bottom-right">
+                          <hi rend="bold">F2    lo que</hi>
+                      </fw>
+                      <pb break="yes" type="arte" n="42v"/>
+                      <pb break="yes" type="pdf" facs="http://archive.org/stream/arteenlenguazapo00juan#page/n101/mode/1up"/>
+                      <fw type="head" place="top-center">
+                          <hi rend="bold"><choice><orig>A R T E</orig><reg type="spacing">ARTE</reg></choice></hi>
+                      </fw> 
+                     <lb/>lo que 
+                     <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> 
+                     <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice> 
+                     <choice><orig>haziendo</orig><reg type="spanish">haciendo</reg></choice>, 
+                     <foreign xml:lang="cvz">ninácati</foreign>, lo que es 
+                     <choice>
+                        <orig>actualmẽ<lb break="no"/>te</orig>
+                        <reg type="spanish">actualmen<lb break="no"/>te</reg>
+                      </choice>. De todos 
+                      <choice><orig>vſan</orig><reg type="spanish">usan</reg></choice> 
+                      indiferentemente. Para los parti<lb break="no"/>cipios 
+                      <choice><orig>compueſtos</orig><reg type="spanish">compuestos</reg></choice> de. 
+                      <foreign xml:lang="cvz">ta</foreign>, 
+                      <choice><orig>componenſe</orig><reg  type="spanish">componense</reg></choice> con 
+                      <choice>
+                          <orig>adjecti<lb break="no"/>uos</orig>
+                          <reg type="spanish">adjeti<lb break="no"/>vos</reg>
+                      </choice> 
+                      de <choice><orig>yr</orig><reg type="spanish">ir</reg></choice> o venir, o 
+                      <choice><orig>eſtar</orig><reg type="spanish">estar</reg></choice>, 
+                      <choice><orig>ſentado</orig><reg type="spanish">sentado</reg></choice>, o en pie, o 
+                      echa<pc type="hyphen">-</pc><lb break="no"/>do o 
+                      <choice><orig>haziendo</orig><reg type="spanish">haciendo</reg></choice>, o 
+                      <choice><orig>diziendo</orig><reg type="spanish">diciendo</reg></choice>. &amp;c. 
+                      <choice><abbr>V.g.</abbr><expan>verbi gratia</expan></choice>. 
+                      <foreign xml:lang="cvz">Péninóoyágo</foreign>.
+                      <lb/>El que <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice> comiendo, 
+                      <foreign xml:lang="cvz">nóoyána</foreign>, el que 
+                      <choice><orig>eſta</orig><reg type="spanish">está</reg></choice> 
+                      <choice>
+                          <orig>cauan<pc type="hyphen">-</pc><lb break="no"/>do</orig>
+                          <reg type="spanish">cavan<pc type="hyphen">-</pc><lb break="no"/>do</reg>
+                      </choice>. 
+                      <foreign xml:lang="cvz">Náayácini</foreign>, 
+                      <choice><orig>el</orig><reg type="spanish">él</reg></choice> que duerme echado,
+                      <foreign xml:lang="cvz">nacáayágo<pc type="hyphen">-</pc><lb break="no"/>ni</foreign>, 
+                      <choice><orig>eſta</orig><reg type="spanish">está</reg></choice> pegado a la comida comiendo. 
+                      <choice><orig>Tambien</orig><reg type="spanish">También</reg></choice> 
+                      <choice><orig>ſe</orig><reg type="spanish">se</reg></choice>
+                      <lb/><choice><orig>hazen</orig><reg type="spanish">hacen</reg></choice> 
+                      <choice><orig>negatiuamente</orig><reg type="spanish">negativamente</reg></choice>. 
+                      <foreign xml:lang="lat"><choice><orig>Vt</orig><reg type="lat">Ut</reg></choice></foreign> 
+                      <foreign xml:lang="cvz">yácanánati</foreign>, el que no 
+                      <choice>
+                          <orig>ſa<pc type="hyphen">-</pc><lb break="no"/>be</orig>
+                          <reg type="spanish">sa<pc type="hyphen">-</pc><lb break="no"/>be</reg>
+                      </choice>, 
+                      <foreign xml:lang="cvz">yácanánnáatia</foreign>, 
+                      <choice><orig>lomeſmo</orig><reg type="spanish">lo mismo</reg></choice>. Otros 
+                      <choice><orig>muchosvã</orig><reg type="spanish">muchos van</reg></choice> por
+                      <lb/><choice><orig>aqui</orig><reg type="spanish">aquí</reg></choice> 
+                      <choice><orig>aſsi</orig><reg type="spanish">así</reg></choice> 
+                      <choice><orig>affirmatiuos</orig><reg type="spanish">afirmativos</reg></choice> como 
+                      <choice><orig>negatiuos</orig><reg type="spanish">negativos</reg></choice>.
+                  </p>
+                  <p newline="no"><pc>¶</pc>
+                     <choice><orig>Delos</orig><reg type="spanish">De los</reg></choice> 
+                     ver<lb break="no"/>bos de, 
+                     <foreign xml:lang="cvz">te</foreign>, 
+                     <choice><orig>ſ imples</orig><reg type="spanish">simples</reg></choice> 
+                     <choice><orig>tãbien</orig><reg type="spanish">también</reg></choice> 
+                     <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> toma el 
+                     <choice><orig>preſente</orig><reg type="spanish">presente</reg></choice> al mo<lb break="no"/>do ya dicho. 
+                     <foreign xml:lang="lat"><choice><orig>Vt</orig><reg type="lat">Ut</reg></choice></foreign>.
+                     <foreign xml:lang="lat"><choice><abbr>V.g.</abbr><expan>Verbi gratia</expan></choice></foreign> 
+                     <foreign xml:lang="cvz">Nitezáacaláchi</foreign>, 
+                     el que <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice> 
+                     <choice><orig>cõ<lb break="no"/>tento</orig><reg type="spanish">con<lb break="no"/>tento</reg></choice> o alegre. 
+                     <foreign xml:lang="cvz">Nitezáalachi</foreign> el 
+                     <choice><orig>q̃</orig><reg type="spanish">que</reg></choice> 
+                     <choice><orig>haze</orig><reg type="spanish">hace</reg></choice> 
+                     <choice><orig>biẽ</orig><reg type="spanish">bien</reg></choice> a otros.
+                  </p>
+                  <p newline="no"><pc>¶</pc>Los 
+                     <choice><orig>compueſtos</orig><reg type="spanish">compuestos</reg></choice> 
+                     <choice><orig>deſtos</orig><reg type="spanish">de estos</reg></choice> 
+                     <choice><orig>ſon</orig><reg type="spanish">son</reg></choice> 
+                     de otra manera, por
+                     <lb/>que toman con el 
+                     <choice><orig>adjectiuo</orig><reg type="spanish">adjetivo</reg></choice> la primera 
+                     <choice><orig>perſona</orig><reg type="spanish">persona</reg></choice> del
+                     <lb/>plural del futuro imperfecto de 
+                     <choice><orig>indicatiuo</orig><reg type="spanish">indicativo</reg></choice>. 
+                     <foreign xml:lang="lat"><choice><abbr>V.g.</abbr><expan>verbi gratia</expan></choice></foreign>. 
                      <foreign xml:lang="cvz">Ni<lb break="no"/>zóbaqueláceláchi</foreign>, el que 
-                     <choice><orig>eſta</orig>
-                        <reg type="spanish">esta</reg></choice> entriſtecido. 
-                     <choice><orig>Tambiẽ</orig>
-                        <reg type="spanish">También</reg></choice>
-                     <lb/>ſe 
+                     <choice><orig>eſta</orig><reg type="spanish">está</reg></choice> 
+                     <choice><orig>entriſtecido</orig><reg type="spanish">entristecido</reg></choice>. 
+                     <choice><orig>Tambiẽ</orig><reg type="spanish">También</reg></choice>
+                     <lb/><choice><orig>ſe</orig><reg type="spanish">se</reg></choice> 
                      <choice><orig>ſiruen</orig><reg type="spanish">sirven</reg></choice> del 
-                     <choice><orig>adiectiuo</orig>
-                        <reg type="spanish">adjetivo</reg></choice>, 
-                     <foreign xml:lang="lat">vt</foreign> 
-                     <foreign xml:lang="cvz">ninezáa zaguita</foreign>, elque vie<lb break="no"/>ne de 
-                     <choice><orig>Mexico</orig>
-                        <reg type="spanish">México</reg></choice>, 
-                     <choice><orig>deſtos</orig>
-                        <reg type="spanish">de estos</reg></choice> de, 
-                     <foreign xml:lang="cvz">te</foreign>, pocos <choice><orig>ay</orig><reg type="spanish">hay</reg></choice> porque no ay
-                     <lb/><choice><orig>actiuos</orig><reg type="spanish">activos</reg></choice> en ellos. De los verbos de <foreign xml:lang="cvz">ti</foreign>, para los ſim<pc type="hyphen">-</pc><lb break="no"/>ples toman <choice>
-                       <orig>tambien</orig>
-                       <reg type="spanish">también</reg>
-                    </choice> el <choice><orig>preſente</orig><reg type="spanish">presente</reg></choice> <choice><orig>deindicatiuo</orig><reg type="spanish">de indicativo</reg></choice>. <foreign xml:lang="lat"><choice><abbr>V.g.</abbr><expan>verbi gratia</expan></choice></foreign>.
+                     <choice><orig>adiectiuo</orig><reg type="spanish">adjetivo</reg></choice>, 
+                     <foreign xml:lang="lat"><choice><orig>vt</orig><reg type="lat">ut</reg></choice></foreign> 
+                     <foreign xml:lang="cvz">ninezáa zaguita</foreign>, 
+                     <choice><orig>elque</orig><reg type="spanish">él que</reg></choice> 
+                     vie<lb break="no"/>ne de 
+                     <choice><orig>Mexico</orig><reg type="spanish">México</reg></choice>, 
+                     <choice><orig>deſtos</orig><reg type="spanish">de estos</reg></choice> de, 
+                     <foreign xml:lang="cvz">te</foreign>, pocos 
+                     <choice><orig>ay</orig><reg type="spanish">hay</reg></choice> porque no 
+                     <choice><orig>ay</orig><reg type="spanish">hay</reg></choice>
+                     <lb/><choice><orig>actiuos</orig><reg type="spanish">activos</reg></choice> en ellos. De los verbos de 
+                     <foreign xml:lang="cvz">ti</foreign>, para los 
+                     <choice>
+                        <orig>ſim<pc type="hyphen">-</pc><lb break="no"/>ples</orig>
+                        <reg type="spanish">sim<pc type="hyphen">-</pc><lb break="no"/>ples</reg>
+                     </choice> 
+                     toman <choice><orig>tambien</orig><reg type="spanish">también</reg></choice> el 
+                     <choice><orig>preſente</orig><reg type="spanish">presente</reg></choice> 
+                     <choice><orig>deindicatiuo</orig><reg type="spanish">de indicativo</reg></choice>. 
+                     <foreign xml:lang="lat"><choice><abbr>V.g.</abbr><expan>verbi gratia</expan></choice></foreign>.
                      <lb/><foreign xml:lang="cvz">Tiquiba</foreign>, 
                      <foreign xml:lang="cvz">nitiquíba</foreign>, 
-                     <foreign xml:lang="cvz">nitiquíbati</foreign>, el que coſe, <foreign xml:lang="cvz">nitibá<pc type="hyphen">-</pc><lb break="no"/>go</foreign>, el que pica o labra piedra.  <choice>
-                          <orig>Tãbien</orig>
-                          <reg type="spanish">También</reg>
-                       </choice> 
-                     <choice><orig>ſirue</orig><reg type="spanish">sirve</reg></choice> el adie<lb break="no"/>ctiuo ſolo, 
-                     <foreign xml:lang="lat">vt</foreign> 
-                     <foreign xml:lang="cvz">péninabáqui</foreign>, el q̃pone, 
-                     <foreign xml:lang="cvz">natógo</foreign>, elq̃cor<lb break="no"/>ta, 
+                     <foreign xml:lang="cvz">nitiquíbati</foreign>, el que 
+                     <choice><orig>coſe</orig><reg type="spanish">cose</reg></choice>, 
+                     <foreign xml:lang="cvz">nitibá<pc type="hyphen">-</pc><lb break="no"/>go</foreign>, 
+                     <choice><orig>el</orig><reg type="spanish">él</reg></choice> que pica o labra piedra.  
+                     <choice><orig>Tãbien</orig><reg type="spanish">También</reg></choice> 
+                     <choice><orig>ſirue</orig><reg type="spanish">sirve</reg></choice> el 
+                     <choice>
+                        <orig>adie<lb break="no"/>ctiuo</orig>
+                        <reg type="spanish">adje<lb break="no"/>tivo</reg>
+                     </choice> 
+                     <choice><orig>ſolo</orig><reg type="spanish">solo</reg></choice>, 
+                     <foreign xml:lang="lat"><choice><orig>vt</orig><reg type="lat">ut</reg></choice></foreign> 
+                     <foreign xml:lang="cvz">péninabáqui</foreign>, 
+                     <choice><orig>el</orig><reg type="spanish">él</reg></choice> 
+                     <choice><orig>q̃pone</orig><reg type="spanish">que pone</reg></choice>, 
+                     <foreign xml:lang="cvz">natógo</foreign>, 
+                     <choice>
+                        <orig>elq̃cor<lb break="no"/>ta</orig>
+                        <reg type="spanish">el que cor<lb break="no"/>ta</reg>
+                     </choice>, 
                      <foreign xml:lang="cvz">nagápa</foreign>, el 
-                     <choice><orig>q̃</orig><reg type="spanish">que</reg></choice> da palmada, finalmẽtetodoslos ad<lb break="no"/>iectiuos <choice>
-                        <orig>delos</orig>
-                        <reg type="spanish">de los</reg>
-                     </choice> verbos 
+                     <choice><orig>q̃</orig><reg type="spanish">que</reg></choice> da palmada, 
+                     <choice><orig>finalmẽtetodoslos</orig><reg type="spanish">finalente todos los</reg></choice> 
+                     <choice>
+                        <orig>ad<lb break="no"/>iectiuos</orig>
+                        <reg type="spanish">ad<lb break="no"/>jetivos</reg>
+                     </choice> 
+                     <choice><orig>delos</orig><reg type="spanish">de los</reg></choice> verbos 
                      <choice><orig>actiuos</orig><reg type="spanish">activos</reg></choice> 
                      <choice><orig>ſiruen</orig><reg type="spanish">sirven</reg></choice> de participios.
                   </p>
-                  <p><pc>¶</pc>Compueſtos de. <foreign xml:lang="cvz">ti</foreign>. <foreign xml:lang="cvz">Nóobágo</foreign>, 
-                     <foreign xml:lang="cvz">nóoquíteni</foreign>, el que
+                  <p><pc>¶</pc>
+                      <choice><orig>Compueſtos</orig><reg type="spanish">Compuestos</reg></choice> de. 
+                      <foreign xml:lang="cvz">ti</foreign>. 
+                      <foreign xml:lang="cvz">Nóobágo</foreign>, 
+                      <foreign xml:lang="cvz">nóoquíteni</foreign>, el que
                      <fw type="catchword" place="bottom-right">
                         <hi rend="bold">labra</hi>
                      </fw>
