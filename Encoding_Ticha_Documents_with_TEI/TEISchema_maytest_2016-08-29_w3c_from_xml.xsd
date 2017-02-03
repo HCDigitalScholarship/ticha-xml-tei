@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" targetNamespace="http://www.tei-c.org/ns/1.0" xmlns:ns1="http://www.tei-c.org/ns/1.0">
+  <xs:import namespace="http://www.w3.org/XML/1998/namespace" schemaLocation="xml.xsd"/>
+  <xs:element name="TEI">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ns1:teiHeader"/>
+        <xs:element ref="ns1:text"/>
+      </xs:sequence>
+      <xs:attribute ref="xml:space" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="teiHeader">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ns1:fileDesc"/>
+        <xs:element ref="ns1:profileDesc"/>
+        <xs:element ref="ns1:encodingDesc"/>
+      </xs:sequence>
+      <xs:attribute name="type" use="required" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="fileDesc">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ns1:titleStmt"/>
+        <xs:element ref="ns1:publicationStmt"/>
+        <xs:element ref="ns1:sourceDesc"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="titleStmt">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ns1:title"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="title" type="xs:NCName"/>
+  <xs:element name="publicationStmt">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ns1:p"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="sourceDesc">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ns1:p"/>
+      </xs:sequence>
+      <xs:attribute name="default" use="required" type="xs:boolean"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="profileDesc">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ns1:langUsage"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="langUsage">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="ns1:language"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="language">
+    <xs:complexType mixed="true">
+      <xs:attribute name="ident" use="required" type="xs:NCName"/>
+      <xs:attribute name="usage" use="required" type="xs:integer"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="encodingDesc">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ns1:projectDesc"/>
+        <xs:element ref="ns1:editorialDecl"/>
+        <xs:element maxOccurs="unbounded" ref="ns1:refsDecl"/>
+        <xs:element ref="ns1:charDecl"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="projectDesc">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ns1:p"/>
+      </xs:sequence>
+      <xs:attribute name="default" use="required" type="xs:boolean"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="editorialDecl">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ns1:correction"/>
+        <xs:element ref="ns1:normalization"/>
+        <xs:element ref="ns1:hyphenation"/>
+        <xs:element ref="ns1:segmentation"/>
+        <xs:element ref="ns1:interpretation"/>
+      </xs:sequence>
+      <xs:attribute name="default" use="required" type="xs:boolean"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="correction">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ns1:p"/>
+      </xs:sequence>
+      <xs:attribute name="default" use="required" type="xs:boolean"/>
+      <xs:attribute name="method" use="required" type="xs:NCName"/>
+      <xs:attribute name="status" use="required" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="normalization">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ns1:p"/>
+      </xs:sequence>
+      <xs:attribute name="default" use="required" type="xs:boolean"/>
+      <xs:attribute name="method" use="required" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="hyphenation">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ns1:p"/>
+      </xs:sequence>
+      <xs:attribute name="default" use="required" type="xs:boolean"/>
+      <xs:attribute name="eol" use="required" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="segmentation">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ns1:p"/>
+      </xs:sequence>
+      <xs:attribute name="default" use="required" type="xs:boolean"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="interpretation">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ns1:p"/>
+      </xs:sequence>
+      <xs:attribute name="default" use="required" type="xs:boolean"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="refsDecl">
+    <xs:complexType>
+      <xs:choice>
+        <xs:element ref="ns1:p"/>
+        <xs:element ref="ns1:cRefPattern"/>
+      </xs:choice>
+      <xs:attribute name="default" use="required" type="xs:boolean"/>
+      <xs:attribute ref="xml:id"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="cRefPattern">
+    <xs:complexType>
+      <xs:attribute name="matchPattern" use="required"/>
+      <xs:attribute name="replacementPattern" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="charDecl">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="ns1:glyph"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="glyph">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ns1:glyphName"/>
+        <xs:element ref="ns1:figure"/>
+      </xs:sequence>
+      <xs:attribute ref="xml:id" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="glyphName" type="xs:string"/>
+  <xs:element name="figure">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ns1:graphic"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="graphic">
+    <xs:complexType>
+      <xs:attribute name="url" use="required" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="text">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ns1:front"/>
+        <xs:element ref="ns1:body"/>
+        <xs:element ref="ns1:back"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="front">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ns1:div"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="body">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="ns1:div"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="back">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ns1:div"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="p">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="ns1:choice"/>
+        <xs:element ref="ns1:foreign"/>
+        <xs:element ref="ns1:fw"/>
+        <xs:element ref="ns1:g"/>
+        <xs:element ref="ns1:hi"/>
+        <xs:element ref="ns1:lb"/>
+        <xs:element ref="ns1:pb"/>
+        <xs:element ref="ns1:pc"/>
+        <xs:element ref="ns1:add"/>
+        <xs:element ref="ns1:c"/>
+        <xs:element ref="ns1:del"/>
+        <xs:element ref="ns1:ptr"/>
+        <xs:element ref="ns1:ref"/>
+      </xs:choice>
+      <xs:attribute name="part" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="add">
+    <xs:complexType mixed="true">
+      <xs:attribute name="type" use="required" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="c">
+    <xs:complexType>
+      <xs:simpleContent>
+        <xs:extension base="xs:NCName">
+          <xs:attribute name="rend" use="required" type="xs:NCName"/>
+        </xs:extension>
+      </xs:simpleContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="del">
+    <xs:complexType mixed="true">
+      <xs:attribute name="type" use="required" type="xs:NCName"/>
+      <xs:attribute ref="xml:id" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ptr">
+    <xs:complexType>
+      <xs:attribute name="target" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ref">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="ns1:abbr"/>
+        <xs:element ref="ns1:choice"/>
+        <xs:element ref="ns1:foreign"/>
+        <xs:element ref="ns1:lb"/>
+        <xs:element ref="ns1:pc"/>
+      </xs:choice>
+      <xs:attribute name="target" use="required"/>
+      <xs:attribute name="type" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="div">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="ns1:cb"/>
+        <xs:element ref="ns1:div"/>
+        <xs:element ref="ns1:fw"/>
+        <xs:element ref="ns1:p"/>
+        <xs:element ref="ns1:pb"/>
+        <xs:element ref="ns1:head"/>
+      </xs:choice>
+      <xs:attribute name="org" type="xs:NCName"/>
+      <xs:attribute name="part" type="xs:NCName"/>
+      <xs:attribute name="sample" type="xs:NCName"/>
+      <xs:attribute ref="xml:id" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="head">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="ns1:choice"/>
+        <xs:element ref="ns1:foreign"/>
+        <xs:element ref="ns1:g"/>
+        <xs:element ref="ns1:hi"/>
+        <xs:element ref="ns1:lb"/>
+        <xs:element ref="ns1:pc"/>
+      </xs:choice>
+      <xs:attribute name="type" use="required" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="hi">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="ns1:choice"/>
+        <xs:element ref="ns1:foreign"/>
+        <xs:element ref="ns1:g"/>
+        <xs:element ref="ns1:lb"/>
+        <xs:element ref="ns1:orig"/>
+        <xs:element ref="ns1:pc"/>
+        <xs:element ref="ns1:reg"/>
+      </xs:choice>
+      <xs:attribute name="rend" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="g">
+    <xs:complexType>
+      <xs:simpleContent>
+        <xs:extension base="xs:NCName">
+          <xs:attribute name="ref" use="required"/>
+        </xs:extension>
+      </xs:simpleContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="choice">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="ns1:abbr"/>
+        <xs:element ref="ns1:expan"/>
+        <xs:element ref="ns1:orig"/>
+        <xs:element ref="ns1:reg"/>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="fw">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="ns1:choice"/>
+        <xs:element ref="ns1:fw"/>
+        <xs:element ref="ns1:hi"/>
+        <xs:element ref="ns1:pc"/>
+      </xs:choice>
+      <xs:attribute name="place"/>
+      <xs:attribute name="rend" type="xs:NCName"/>
+      <xs:attribute name="type" use="required" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="lb">
+    <xs:complexType>
+      <xs:attribute name="break" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="foreign">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="ns1:abbr"/>
+        <xs:element ref="ns1:cb"/>
+        <xs:element ref="ns1:choice"/>
+        <xs:element ref="ns1:expan"/>
+        <xs:element ref="ns1:foreign"/>
+        <xs:element ref="ns1:fw"/>
+        <xs:element ref="ns1:hi"/>
+        <xs:element ref="ns1:lb"/>
+        <xs:element ref="ns1:orig"/>
+        <xs:element ref="ns1:pb"/>
+        <xs:element ref="ns1:pc"/>
+        <xs:element ref="ns1:reg"/>
+      </xs:choice>
+      <xs:attribute name="ana" type="xs:NCName"/>
+      <xs:attribute ref="xml:id"/>
+      <xs:attribute ref="xml:lang"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="abbr">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="ns1:choice"/>
+        <xs:element ref="ns1:orig"/>
+        <xs:element ref="ns1:reg"/>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="pc">
+    <xs:complexType mixed="true">
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="ns1:choice"/>
+      </xs:sequence>
+      <xs:attribute name="type" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="pb">
+    <xs:complexType>
+      <xs:attribute name="break" use="required" type="xs:NCName"/>
+      <xs:attribute name="facs" type="xs:anyURI"/>
+      <xs:attribute name="n" type="xs:NMTOKEN"/>
+      <xs:attribute name="type" use="required" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="cb">
+    <xs:complexType>
+      <xs:attribute name="n" use="required" type="xs:integer"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="orig">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="ns1:choice"/>
+        <xs:element ref="ns1:foreign"/>
+        <xs:element ref="ns1:fw"/>
+        <xs:element ref="ns1:g"/>
+        <xs:element ref="ns1:hi"/>
+        <xs:element ref="ns1:lb"/>
+        <xs:element ref="ns1:pb"/>
+        <xs:element ref="ns1:pc"/>
+        <xs:element ref="ns1:reg"/>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="reg">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="ns1:choice"/>
+        <xs:element ref="ns1:foreign"/>
+        <xs:element ref="ns1:fw"/>
+        <xs:element ref="ns1:g"/>
+        <xs:element ref="ns1:lb"/>
+        <xs:element ref="ns1:pb"/>
+        <xs:element ref="ns1:pc"/>
+      </xs:choice>
+      <xs:attribute name="type" use="required" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="expan">
+    <xs:complexType mixed="true">
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="ns1:choice"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
