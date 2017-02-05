@@ -362,6 +362,8 @@ Additionally, we can indicate the language used within a heading with the \hyper
 {http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-p.html}
 Each paragraph of text is surrounded by a \texttt{<p>} tag.  This automatically assumes a new line.  The \hyperref[att-sec:part]{\texttt{part}} attribute indicates whether the parent element (in this case a paragraph) is fragmented.  Additionally, we can indicate the language used within a paragraph with the \hyperref[att-sec:xml:lang]{\texttt{xml:lang}} attribute.
 
+The default assumption is that each paragraph begins a new line (no \hyperref[tag-sec:lb]{\texttt{<lb/>}} tag is required).  In cases where the paragraph does \emph{not} begin a new line, we use the \hyperref[att-sec:newline]{\texttt{newline}} attribute with value \texttt{"no"}.
+
 \subsubsection{\texttt{<pb/>}} \label{tag-sec:pb}
 
 \taglinks{
@@ -379,7 +381,7 @@ The \texttt{<pb/>} tag is a self-closing tag to indicate the begining of a new p
 \hyperref[att-sec:break]{\texttt{break}}, ... }
 {http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-lb.html}
 %
-The \texttt{<lb/>} tag is a self-closing tag to indicate the begining of a new line.  The \hyperref[att-sec:break]{\texttt{break}} attribute indicates whether a word is broken across the line.
+The \texttt{<lb/>} tag is a self-closing tag to indicate the begining of a new line.  When a word is broken by the line (hyphenation), this tag takes the \hyperref[att-sec:break]{\texttt{break}} attribute with the value \texttt{"no"}.
 
 \subsubsection{\texttt{<fw>}} \label{tag-sec:fw}
 \taglinks{
@@ -487,6 +489,10 @@ del, div, foreign, glyph, refsDecl
 \subsection{\texttt{xml:lang}} \label{att-sec:xml:lang}
 foreign
 
+The \texttt{xml:lang} attribute takes a value of some pre-set language code to indicate the language used in that section of text.  It can be placed on any tag, for example on a \hyperref[tag-sec:div]{\texttt{<div>}} tag to indicate the language of the section.  In Ticha we also use it on the \hyperref[tag-sec:foreign]{\texttt{<foreign/>}} tag, which sets off texts that is is in a separate language from the rest of the paragraph or section.
+
+LIST OF VALUES
+
 \subsection{\texttt{xml:space}} \label{att-sec:xml:space}
 TEI
 
@@ -508,8 +514,13 @@ lb, pb
 \subsection{\texttt{n}} \label{att-sec:n}
 cb, pb
 
+The \texttt{n} attribute is used to number divisions of the text, for example pages, columns, or list items.  The attribute is usually a numeral, but might include other characters (e.g.\ \texttt{"27r"}).
+
 \subsection{\texttt{facs}} \label{att-sec:facs}
 pb
+
+The \texttt{facs} attributes points to an image that corresponds to the given element.  For example in Ticha, we use this attribute in \hyperref[tag-sec:pb]{\texttt{<pb/>}} tags to link page transcriptions with the scans of originals.
+
 
 \subsection{\texttt{ref}} \label{att-sec:ref}
 g

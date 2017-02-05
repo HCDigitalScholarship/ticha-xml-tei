@@ -40,18 +40,18 @@
 \contentsline {subsubsection}{\numberline {2.2.5}\texttt {<pb/>}}{8}{subsubsection.2.2.5}
 \contentsline {subsubsection}{\numberline {2.2.6}\texttt {<lb/>}}{8}{subsubsection.2.2.6}
 \contentsline {subsubsection}{\numberline {2.2.7}\texttt {<fw>}}{8}{subsubsection.2.2.7}
-\contentsline {subsubsection}{\numberline {2.2.8}\texttt {<pc>}}{8}{subsubsection.2.2.8}
+\contentsline {subsubsection}{\numberline {2.2.8}\texttt {<pc>}}{9}{subsubsection.2.2.8}
 \contentsline {subsubsection}{\numberline {2.2.9}\texttt {<cb>}}{9}{subsubsection.2.2.9}
 \contentsline {subsection}{\numberline {2.3}Formatting Tags}{9}{subsection.2.3}
 \contentsline {subsubsection}{\numberline {2.3.1}\texttt {<hi>}}{9}{subsubsection.2.3.1}
 \contentsline {subsection}{\numberline {2.4}Content Tags}{9}{subsection.2.4}
 \contentsline {subsubsection}{\numberline {2.4.1}\texttt {<choice>}}{9}{subsubsection.2.4.1}
-\contentsline {subsubsection}{\numberline {2.4.2}\texttt {<orig>}}{9}{subsubsection.2.4.2}
+\contentsline {subsubsection}{\numberline {2.4.2}\texttt {<orig>}}{10}{subsubsection.2.4.2}
 \contentsline {subsubsection}{\numberline {2.4.3}\texttt {<reg>}}{10}{subsubsection.2.4.3}
 \contentsline {subsubsection}{\numberline {2.4.4}\texttt {<abbr>}}{10}{subsubsection.2.4.4}
 \contentsline {subsubsection}{\numberline {2.4.5}\texttt {<expan>}}{10}{subsubsection.2.4.5}
 \contentsline {subsubsection}{\numberline {2.4.6}\texttt {<foreign>}}{10}{subsubsection.2.4.6}
-\contentsline {subsubsection}{\numberline {2.4.7}\texttt {<gap>}}{10}{subsubsection.2.4.7}
+\contentsline {subsubsection}{\numberline {2.4.7}\texttt {<gap>}}{11}{subsubsection.2.4.7}
 \contentsline {section}{\numberline {3}Attributes}{11}{section.3}
 \contentsline {subsection}{\numberline {3.1}\texttt {xml:id}}{11}{subsection.3.1}
 \contentsline {subsection}{\numberline {3.2}\texttt {xml:lang}}{11}{subsection.3.2}
@@ -60,9 +60,9 @@
 \contentsline {subsection}{\numberline {3.5}\texttt {org}}{11}{subsection.3.5}
 \contentsline {subsection}{\numberline {3.6}\texttt {sample}}{11}{subsection.3.6}
 \contentsline {subsection}{\numberline {3.7}\texttt {type}}{11}{subsection.3.7}
-\contentsline {subsection}{\numberline {3.8}\texttt {break}}{11}{subsection.3.8}
-\contentsline {subsection}{\numberline {3.9}\texttt {n}}{11}{subsection.3.9}
-\contentsline {subsection}{\numberline {3.10}\texttt {facs}}{11}{subsection.3.10}
+\contentsline {subsection}{\numberline {3.8}\texttt {break}}{12}{subsection.3.8}
+\contentsline {subsection}{\numberline {3.9}\texttt {n}}{12}{subsection.3.9}
+\contentsline {subsection}{\numberline {3.10}\texttt {facs}}{12}{subsection.3.10}
 \contentsline {subsection}{\numberline {3.11}\texttt {ref}}{12}{subsection.3.11}
 \contentsline {subsection}{\numberline {3.12}\texttt {rend}}{12}{subsection.3.12}
 \contentsline {subsection}{\numberline {3.13}\texttt {place}}{12}{subsection.3.13}
@@ -71,16 +71,16 @@
 \contentsline {subsection}{\numberline {3.16}\texttt {default}}{12}{subsection.3.16}
 \contentsline {subsection}{\numberline {3.17}\texttt {ident}}{12}{subsection.3.17}
 \contentsline {subsection}{\numberline {3.18}\texttt {usage}}{12}{subsection.3.18}
-\contentsline {subsection}{\numberline {3.19}\texttt {method}}{12}{subsection.3.19}
-\contentsline {subsection}{\numberline {3.20}\texttt {status}}{12}{subsection.3.20}
-\contentsline {subsection}{\numberline {3.21}\texttt {eol}}{12}{subsection.3.21}
-\contentsline {subsection}{\numberline {3.22}\texttt {matchPattern}}{12}{subsection.3.22}
+\contentsline {subsection}{\numberline {3.19}\texttt {method}}{13}{subsection.3.19}
+\contentsline {subsection}{\numberline {3.20}\texttt {status}}{13}{subsection.3.20}
+\contentsline {subsection}{\numberline {3.21}\texttt {eol}}{13}{subsection.3.21}
+\contentsline {subsection}{\numberline {3.22}\texttt {matchPattern}}{13}{subsection.3.22}
 \contentsline {subsection}{\numberline {3.23}\texttt {replacementPattern}}{13}{subsection.3.23}
 \contentsline {subsection}{\numberline {3.24}\texttt {url}}{13}{subsection.3.24}
 \contentsline {subsection}{\numberline {3.25}\texttt {reason}}{13}{subsection.3.25}
 \contentsline {subsection}{\numberline {3.26}\texttt {agent}}{13}{subsection.3.26}
 \contentsline {section}{\numberline {4}Examples}{13}{section.4}
 \contentsline {subsection}{\numberline {4.1}Front Matter of Levanto's \emph {Catecismo}}{13}{subsection.4.1}
-\contentsline {subsection}{\numberline {4.2}Body Text of Levanto's \emph {Catecismo}}{16}{subsection.4.2}
-\contentsline {subsection}{\numberline {4.3}Ellipsis in Cordova's \emph {Arte}}{19}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.2}Body Text of Levanto's \emph {Catecismo}}{17}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Ellipsis in Cordova's \emph {Arte}}{20}{subsection.4.3}
 \contentsline {subsection}{\numberline {4.4}Parallel Text in Levanto's \emph {Catecismo}}{20}{subsection.4.4}
