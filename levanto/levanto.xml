@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="TEISchema_current.rnc" type="application/relax-ng-compact-syntax"?>
-
+<TEI>
+<text>
 <!-- frontmatter -->
 <pb n="6"/>
 <p>
@@ -656,4 +657,5 @@ C(?) 3.Co <pc type="hyphen">-</pc>
 
 <!-- Tristan Pepin's section -->
 
-</xml>
+</text>
+</TEI>
