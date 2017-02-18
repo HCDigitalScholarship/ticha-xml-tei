@@ -52,7 +52,7 @@
   vino Superior: <foreign xml:lang="lat">Que vidiſti ſeribe</foreign>, y que es lo que vio S. Juan?<lb/>
   Un grande milagro: <foreign xml:lang="lat">Signum magnum, magnum miraculum</foreign>, cotas<lb/>
   nuevas, y prodigioſas: <foreign xml:lang="lat">Ecca nova</foreign>, mas oyo, y ạun vio admi<pc type="hyphen">-</pc><lb/>
-  rables, y myſterioſas voces: <foreign xml:lang="lat">Et audivi vocem magnam, & conver<pc type="hyphen">-</pc><lb/>
+  rables, y myſterioſas voces: <foreign xml:lang="lat">Et audivi vocem magnam, &amp; conver<pc type="hyphen">-</pc><lb/>
   ſus ſum, ut viderem vocem</foreign>, declara, expreſta por eſcrito las pro<pc type="hyphen">-</pc><lb/>
   priedades de eſtas voces, que has oido.<lb/>
 </p>
@@ -137,11 +137,11 @@ Igleſia, quiraalii benni Chri-<lb/>
 queni<lb/>
 <cols n="1"/>
 <lb/>
-<foreign xml:lang="esp">CATHECISMO DE<lb/>
+<head xml:lang="esp" >CATHECISMO DE<lb/>
 LA DOCTRINA CHRISTIANA, EN LENGUA<lb/>
-Zapoteca de el Valle.<lb/>
+Zapoteca de el Valle.</head><lb/>
 <lb/>
-Todo Fiel Chriſtiano, &amp;c.</foreign><lb/>
+<head xml:lang="esp" ><hi rend="italic">Todo Fiel Chriſtiano, &amp;c.</hi></head><lb/>
 <lb/>
 TOobixeeneppe huazoopelao quiraali Benni Chriſtia-<lb/>
 no: gapan quellarizinaachi loo Sancta Cruz xtenni<lb/>
@@ -159,19 +159,19 @@ yaquinnii xihuina: coyona <foreign xml:lang="esp">Cruz</foreign> rua lachitoo xt
 teni Bejuannana <foreign xml:lang="esp">Dios</foreign> cuenni xilachitoona quellahuenni na-<lb/>
 xihui, chiiña naxihui. Quinniiona ciicarii.<lb/>
 <lb/>
-<foreign xml:lang="esp">POR LA SEñAL DE LA SANTA<lb/>
-Cruz, &amp;c.</foreign><lb/>
+<head xml:lang="esp">POR LA SEñAL DE LA SANTA<lb/>
+Cruz, &amp;c.</head><lb/>
 <lb/>
 NIiaxtenni bennabi <foreign xml:lang="esp">Cruz</foreign>: Peciilla -✠ ciicatonoo: Chan-<lb/>
 naa ✠ <foreign xml:lang="esp">Dios</foreign> he! niiaxtenni quelayee ✠ tennina: Ron-<lb/>
-nia laaya looya: Laa Bixooce, chela ✠ Xinni, chela <foreign xml:lang="esp">Eſpiritu<lb/>
+nia laaya looya: <hi rend="italic">Laa</hi> Bixooce, chela ✠ Xinni, chela <foreign xml:lang="esp">Eſpiritu<lb/>
 Sancto</foreign>. Gaca ciiga ciica. <foreign xml:lang="esp">Jeſus</foreign>.<lb/>
 <lb/>
-<foreign xml:lang="esp">PADRE NUESTRO, QUE ESTAS EN<lb/>
-los cielos, &amp;c.<lb/></foreign>
+<head xml:lang="esp">PADRE NUESTRO, QUE ESTAS EN<lb/>
+los cielos, &amp;c.<lb/></head>
 <lb/>
 BYxoocetonoohe! Quiiebaa nachibalo: Naciroo ciica-<lb/>
-ni Laalo: Quellacooquii xtennilo quira ciica ruarij:<lb/>
+ni <hi rend="italic">Laalo</hi>: Quellacooquii xtennilo quira ciica ruarij:<lb/>
 Niriziigueelalo ciica raca quiaa quiieba, laaniciica<lb/>
 gaca ruarii layoo; Xicónina quixee quixee penèche ciica annaà:<lb/>
 Chela coniitiloociicalo, ni rexihuina: Ciicatonoo reñiitiloo-<lb/>
@@ -180,8 +180,8 @@ niiani 	yà quexihùina: Peziilla ciìca tonoo niiaxtenni, quiraa<lb/>
 quella huechiie. Gaca ciiga ciica.<lb/>
 <foreign xml:lang="esp">Jeſus</foreign>.<lb/>
 <lb/>
-<foreign xml:lang="esp">DIOS TE SALVE MARIA LLENA<lb/>
-eres de gracia, &amp;c.</foreign><lb/>
+<head xml:lang="esp">DIOS TE SALVE MARIA LLENA<lb/>
+eres de gracia, &amp;c.</head><lb/>
 <lb/>
 Annaa
 
@@ -195,8 +195,8 @@ lo Bitoo niiaxtenni tonoo benihuexihui annaà, chela chii ga-<lb/>
 llabea quellagooti xtennitonoo. Gaca ciiga ciica.<lb/>
 <foreign xml:lang="esp">Jeſus</foreign>.<lb/>
 <lb/>
-<foreign xml:lang="esp">DIOS TE SALVE REYNA, Y MADRE<lb/>
-de miſsericordia, &amp;c.</foreign><lb/>
+<head xml:lang="esp">DIOS TE SALVE REYNA, Y MADRE<lb/>
+de miſsericordia, &amp;c.</head><lb/>
 <lb/>
 ANnaa Channa, Xonaaxi, Cooqui quiiehaa he! Xiñaa<lb/>
 quellahuezaalachihe! Quellanabaani he! Annaa Chan-<lb/>
@@ -212,8 +212,8 @@ ozniciica lachi Xinnilo Biitoo: niiani quixoohuina quellahne-<lb/>
 zaacalachi zelli lanni quiiebaa. Gaca ciiga<lb/>
 ciica. <foreign xml:lang="esp">Jeſus</foreign>.<lb/>
 <lb/>
-<foreign xml:lang="esp">CREO EN DIOS PADRE TODOPODE-<lb/>
-roſo, &amp;c.</foreign><lb/>
+<head xml:lang="esp">CREO EN DIOS PADRE TODOPODE-<lb/>
+roſo, &amp;c.</head><lb/>
 <lb/>
 HUariieliiláchia <foreign xml:lang="esp">Dios</foreign>, Bixooce, ni quizaalagoca, ni pe-<lb/>
 zaaní quiiebaa, ni pezaani layoo. Laaniciica huari-<lb/>
@@ -234,15 +234,15 @@ llahuexihui . Huariieliilachia Quellaquebaan gazaaca quiraalii<lb/>
 Benniati. Chela huariieliilachia Quellanabanni zellii. Gaga<lb/>
 Ciiga ciica <foreign xml:lang="esp">Jefus</foreign>.<lb/>
 <lb/>
-<foreign xml:lang="esp">LOS ARTICULOS DE LA FEE, SON<lb/>
-catorze, &amp;c.</foreign><lb/>
-Alaari: ni cheeliilachini quiraalii benniaati (ni laa <foreign xml:lang="esp">Ar-<lb/>
-ticulos de Fee</foreign>) cani chitaa Xibaa. Caache Xibaa<lb/>
+<head xml:lang="esp">LOS ARTICULOS DE LA FEE, SON<lb/>
+catorze, &amp;c.</head><lb/>
+Alaari: ni cheeliilachini quiraalii benniaati (ni laa <foreign xml:lang="esp"><hi rend="italic">Ar-<lb/>
+ticulos de Fee</hi></foreign>) cani chitaa Xibaa. Caache Xibaa<lb/>
 ztenni <foreign xml:lang="esp">Dios</foreign> ni xQuellabitooni: zeecaache Xibaa<lb/>
 xtenni <foreign xml:lang="esp">Dios</foreign> ni xQuellaniguiioni.<lb/>
 <lb/>
-<foreign xml:lang="esp">LOS QUE PERTENECAN A LA DIVI-<lb/>
-nidad , son estos</foreign><lb/>
+<head xml:lang="esp"><hi rend="italic">LOS QUE PERTENECAN A LA DIVI-<lb/>
+nidad , son estos</hi></head><lb/>
 Alaarii: Caache Xibaa xtenni <foreign xml:lang="esp">Dios</foreign> xtenni Quellabi-<lb/>
 tooni<lb/>
 1. Cotobbi Xibaa: huariieliilàchia canitoobi ciica <foreign xml:lang="esp">Dios</foreign><lb/>
@@ -367,7 +367,7 @@ ALaarij: Ni rennabea Xiñaana <foreign xml:lang="esp">Santa Igleſia</foreign>, 
 	fa, chii <foreign xml:lang="esp">Domingo</foreign>, chiilani roo.<lb/>
 2.	Coroopa Xiibaa nirii: Coxoobaxtollalo quiraa, ni pe-<lb/>
 	zihuilo, loo Bixooce Coopa Bitoo, Chaaga chaaga<lb/>
-	iiza, chaaga liaaza, chii <foreign xml:lang="esp">Quareʃma</foreign> coxoobaxtollalo, chií<lb/>
+	iiza, chaaga liaaza, chii <foreign xml:lang="esp">Quareſma</foreign> coxoobaxtollalo, chií<lb/>
 	huazeene racalo: chela chii racalachi ziilo <foreign xml:lang="esp">Santiſsimo<lb/>
 	Sacramento</foreign>.<lb/>
 3.	Coyoona Xibaa nirii: Ziiliiolachilo Xpellaalaati Bejuan-<lb/>
@@ -488,7 +488,7 @@ ni, laa <foreign xml:lang="esp">Avaricia</foreign>.<lb/>
  chi, niiaxtènni laa nayaa, laa nazooba chahuilezaani,<lb/>
  la  <foreign xml:lang="esp">Embidia</foreign>.<lb/>
  B Coo-<lb/>
-	
+
 <!-- James Faville's section -->
 <pb n="25"/>
 
@@ -501,16 +501,16 @@ nariitillani loo quellahuexìhui narroba, niròttini anima,<lb/>
 	ni laa <foreign xml:lang="esp">pecados mortales</foreign>.
 
 1. Cotoobi loo: Quellanazaca naca Quellanatoolachi, niri <pc type="hyphen">-</pc>
-	Tillaneeni quellariyaalàchi, laa <foreign xml:lang="esp">Humildad contra ʃobervia</foreign>.<lb/>
+	Tillaneeni quellariyaalàchi, laa <foreign xml:lang="esp">Humildad contra ſobervia</foreign>.<lb/>
 
 2. Coroopa loo: Quellanazaaca naca Quella huezaalachi,<lb/>
 laa quellahuexillaa lezaani xitiila ziquichani, niritiliañeeni<lb/>
 	Quellanabeeco: laa <foreign xml:lang="esp">Largueza, contra Avaricia</foreign>.
 3. Coyoona loo: Quellanazaaca naca Quellacopachàhui<lb/>
-pellalaatini, ni ritillañeeni quella cobeexe, laa <foreign xml:lang="esp">Caʃtidad,
+pellalaatini, ni ritillañeeni quella cobeexe, laa <foreign xml:lang="esp">Caſtidad,
 	contra Lujuria</foreign>.<lb/>
 4. Cotaapa loo: Quellanazaaca naca Quellagooche, que <pc type="hyphen">-</pc><lb/>
-	llachiiloo, quellachiilàchi: laa <foreign xml:lang="esp">Manʃedumbre, contra ira</foreign>.
+	llachiiloo, quellachiilàchi: laa <foreign xml:lang="esp">Manſedumbre, contra ira</foreign>.
 5. Coyoo loo Queiianazaaca naca Quellaraagohuaxiia,<lb/>
 Quallacohuehuaxiia, niritillañeeni quellaraagoxaata, laa<lb/>
 	<foreign xml:lang="esp">Templanza contra Gula</foreign>.<lb/>
@@ -550,7 +550,7 @@ chîgaliini tonoo loo Bejuannana Dios Zeetaapa Quella <pc type="hyphen">-</pc><l
 benniaati ruarii guechelayoo.<lb/>
 
 <foreign xml:lang="esp">LAS VIRTUDES THEOLOGALES, SON<lb/>
-	tres, &c.</foreign><lb/>
+	tres, &amp;c.</foreign><lb/>
 
 ALaarii: Chonaloo Quellanazaaca, <foreign xml:lang="esp">laa Virtudes Theo <pc type="hyphen">-</pc><lb/>
 	logales</foreign>.<lb/>
@@ -558,7 +558,7 @@ ALaarii: Chonaloo Quellanazaaca, <foreign xml:lang="esp">laa Virtudes Theo <pc t
 1. Cotoobi loo: Quellanazaaca naca Quellariieliilàchi Dios,<lb/>
 	laa <foreign xml:lang="esp">Fee</foreign>.<lb/>
 2. Coroopa loo: Quellanaazaca náca Quellacobeeza, laa<lb/>
-	<foreign xml:lang="esp">Eʃperanza</foreign>.<lb/>
+	<foreign xml:lang="esp">Eſperanza</foreign>.<lb/>
 3. Coyoona loo: Quellanazaaca nàca Quellaconnachii Dios,<lb/>
 	laa <foreign xml:lang="esp">Charidad</foreign>.<lb/>
 
@@ -579,7 +579,7 @@ quizaa
 <pb n="27"/>
 
 quizaa loo, chela quellahueneeche, queyareyoohuitoo<lb/>
-	toobigaa lezaani, ni naca xtenni yoobini, la <foreign xml:lang="esp">Juʃlicia</foreign><lb/>
+	toobigaa lezaani, ni naca xtenni yoobini, la <foreign xml:lang="esp">Juſlicia</foreign><lb/>
 3. Coyoona loo: Quellanazaaca naca Quellanaguiio, que <pc type="hyphen">-</pc><lb/>
 	llatipalachi, laa <foreign xml:lang="esp">Fortaleza</foreign><lb/>
 4. Cotaapa loo: Quellanazaaca naca Quellarizii hualahuitii(?)<lb/>
@@ -604,7 +604,7 @@ niloo.<lb/>
 1. Cotoobi loo: Quellaconna pizaaloo, laa <foreign xml:lang="esp">Veer</foreign>.<lb/>
 2. Coroopa loo: Quellahuiiñatiiaaga, laa <foreign xml:lang="esp">Oir</foreign>.<lb/>
 3. Coyoona loo: Quellahueniipi, laa <foreign xml:lang="esp">Oler</foreign>.<lb/>
-4. Cotaapa loo: Quellahueniixi, laa <foreign xml:lang="esp">Guʃtar</foreign>.<lb/>
+4. Cotaapa loo: Quellahueniixi, laa <foreign xml:lang="esp">Guſtar</foreign>.<lb/>
 	5. Cooyo loo: Quellacoganañaa, laa <foreign xml:lang="esp">Palpar</foreign>.<lb/>
 
 <foreign xml:lang="esp">LOS DONES DE EL ESPIRITU SANTO<lb/>
@@ -641,7 +641,7 @@ quezaabiñaatcnoo loo ni, quetiiñana quitoobi láchina<lb/>
 goneeche ciicani tonoo Xilla nirii.<lb/>
 
 LAS BIENAVENTURANZAS SON<lb/>
-Ocho, &c.<lb/>
+Ocho, &amp;c.<lb/>
 
 ALaarii Xoono cue Quellabaa, nirizii, ni rizaacabaa ben <pc type="hyphen">-</pc><lb/>
 niaati nazaaca lanni quehuibaa.<lb/>
@@ -835,7 +835,7 @@ Huanacaya niiaxtenni que<pc type="hyphen">-</pc><lb/>
 <!-- James Truitt's section -->
 <pb n="36"/>
 <cb n="1"/>
-<foreign xml:lang="esp">dre, y del Hijo.<lb/>
+<foreign xml:lang="esp"><hi rend="italic">dre, y del Hijo.<lb/>
 <lb/>
 P. El miſmo Dios tiene cabe-<lb/>
 za, pies, manos, y cuerpo en-<lb/>
@@ -868,8 +868,8 @@ po; mas en quanto hombre<lb/>
 tiene ſu cuerpo todo entero,<lb/>
 Como un hombre mancebo<lb/>
 de treinta, y tres años, co-<lb/>
-mo tenia quando raurio.<lb/>
-E<foreign/><lb/>
+mo tenia quando raurio.</hi><lb/>
+E</foreign><lb/>
 <cb n="2"/>
 loo Dios Bixooce, huañee<lb/>
 loo Dios Xinni.<lb/>
@@ -905,62 +905,63 @@ nini huarapani quitoobi-<lb/>
 zoo xpellalaatini, cii--<lb/>
 ca pigaana pinni, ni ra-<lb/>
 pani callebiichii bichoo-<lb/>
-El<lb/>
+<hi rend="italic">El</hi><lb/>
 <!-- Avery's section -->
 <pb n="37"/>
 <cb n="1"/>
-<i><foreign xml:lang="esp">P. El Eʃpiritu Santo es por <lb/>  
+<hi rend="italic"><foreign xml:lang="esp">
+<lb/>
+<lb/>
+P. El Eſpiritu Santo es por <lb/>
 ventura paloma?<lb/>
 R. No: tampoco tiene cuerpo;<lb/>
-porque ʃolamente es Dios<lb/>
-Eʃpiritu puro.<lb/>
-P. Porqué pintan ʃu imagen,<lb/>    
+porque ſolamente es Dios<lb/>
+Eſpiritu puro.<lb/>
+P. Porqué pintan ſu imagen,<lb/>
 como una paloma?<lb/>
-R. Para declarar ʃu limpie-<lb/>    
+R. Para declarar ſu limpie-<lb/>
 za, y pureza, que no tiene<lb/>
-mezcla; la qual pureza infu-<lb/>  
+mezcla; la qual pureza infu-<lb/>
 de en el alma, donde mora.<lb/>
-P. Qual de las Perʃonas de la<lb/>
-Santiʃsima Trinidad ʃe hi-<lb/>
+<lb/>
+P. Qual de las Perſonas de la<lb/>
+Santiſsima Trinidad ſe hi-<lb/>
 zo hombre?<lb/>
-R. La ʃegunda Perʃona, que<lb/>
+R. La ſegunda Perſona, que<lb/>
 es el Hijo.<lb/>
-P. Como ʃe llama eʃta ʃegunda<lb/>
-Perʃona, que ʃe hizo hombre?<lb/>
-      
-R. Se llama Jeʃu-Chriʃto.<lb/>
+P. Como ſe llama eſta ſegunda<lb/>
+Perſona, que ſe hizo hombre?<lb/>
+<lb/>
+R. Se llama Jeſu-Chriſto.<lb/>
 P. Como es Dios, y juntamen-<lb/>
 te hombre?<lb/>
-R. Eʃta miʃma ʃegunda Per-<lb/>
-ʃona de la Santiʃsima Tri-<lb/>
-nidad, verdadero Dios, ʃe<lb/>
+R. Eſta miſma ſegunda Per-<lb/>
+ſona de la Santiſsima Tri-<lb/>
+nidad, verdadero Dios, ſe<lb/>
 unto a la humana natura-<lb/>
-leza, que conʃta de cuerpo,<lb/>
-y alma, como noʃotros: por<lb/>
+leza, que conſta de cuerpo,<lb/>
+y alma, como noſotros: por<lb/>
 tanto decimos, que es Dios,<lb/>
-y juntamente hombre.<lb/></foreign></i>
+y juntamente hombre.<lb/></foreign></hi>
 
 
-
-
-<!-- James Faville's section -->
 <!-- Claire Benham's section -->
 <pb n="38"/>
 <cb n="1"/>
 
 <foreign xml:lang="esp">P. Chriſto es uno, ô dos?<lb/>
-
+<lb/>
 R. Es uno ſolo; porque aunque<lb/>
 tiene dos naturalezas, divi<pc type="hyphen">-</pc><lb/>
 na, y humana; mas la Per<pc type="hyphen">-</pc><lb/>
 ſona no es mas que una.<lb/>
-
+<lb/>
 P. Donde ſe hizo hombre?<lb/>
 R. En el vientre puriſsimo de<lb/>
 la Virgen Santa Maria.<lb/>
-
+<lb/>
 P. Como ſe hizo hombre?<lb/>
-
+<lb/>
 R. Hizoſe hombre por obra de<lb/>
 el Eſpiritu Santo.<lb/>
 P. Quantas obras hizo enton<pc type="hyphen">-</pc><lb/>
@@ -977,10 +978,10 @@ concedio a la Virgen Santa<lb/>
 Maria gracia para poder<lb/>
 parir ſin perder ſu pureza<lb/>
 Virginal.<lb/>
-
+<lb/>
 P. Para qué ſe hizo hombre<lb/>
 el Hijo de Dios?<lb/>
-
+<lb/>
 R. Para poder morir por los</foreign><lb/>
 
 <cb n="2"/>
@@ -1024,6 +1025,82 @@ Niiani zoaaca gatini nii<pc type="hyphen">-</pc><lb/>
   <foreign xml:lang="esp">hom<pc type="hyphen">-</pc></foreign>
 </fw>
 
+<!-- Tristan Pepin's section -->
+
+<!-- James Truitt's section -->
+<pb n="40"/>
+<cb n="1"/>
+<lb/>
+<foreign xml:lang="esp"><hi rend="italic">
+te por propria virtud, y po-<lb/>
+der reſucitò. <lb/>
+P: Quando ſubiò â los Cielos?<lb/>
+<lb/>
+R: Quando paſſaron quarenta<lb/>
+dias, entonces ſubio â los<lb/>
+Cielos. <lb/>
+P: Quando volverá â bajar <lb/>
+aqui a la tierra?<lb/>
+R: Quando ſea el fin del mun-<lb/>
+do, entonces volverà otra <lb/>
+vez; para que ſean juz ga-<lb/>
+dos los vivos, y los muertos.<lb/>
+<lb/>
+P: Que premio darà á los bue-<lb/>
+Nos?<lb/>
+R: Les dará la gloria en el <lb/>
+Cielo, porque murieron bien <lb/>
+en ſu gracia. <lb/>
+<lb/>
+P: Que retribucion hará â los <lb/>
+Malos?<lb/>
+R: les dará un caſtigo grãde en <lb/>
+El infierno; dode arderã para <lb/>
+ſiẽpre por toda la eternidad<lb/>
+P: Quien diſpuſo, y ordeno los <lb/>
+ſiete ſacramentos?<lb/>
+<lb/>
+R: Jeſu Chriſto Nueſtro Señor.<lb/>
+</hi></foreign>
+<cb n="2"/>
+bennigooti.<lb/>
+Tu gocañeeni Bejuanna-
+na <foreign xml:lang="esp">Jesu-Christo</foreign>: chii peba-<lb/>
+ari lahui bennigooti?<lb/>
+Acà toobiti gocañeeni: ca-<lb/>
+ni loo quallazoaaca xten-<lb/>
+nini pebaanini.<lb/>
+Cocaxá peaapini quiie-<lb/>
+baa?<lb/>
+Chìi pizaha tiua chii: chiiquee<lb/>
+peaapini lanni quiiebaa. <lb/>
+Cocaxà quieetezaacani <lb/>
+ruarii layoo?<lb/>
+Chii quetoobi gueechela-<lb/>
+yoo: chiiquee quieete ga-<lb/>
+zaacani: niiaxtenni gaca<lb/>
+quellabuetoogoticha ben-<lb/>
+ni nabaanilà, benni goo-<lb/>
+tilà. <lb/>
+Xii quezaalachini loo ben-<lb/>
+ni nazaaca?<lb/>
+Quezaalachini quella glo-<lb/>
+ria lanni quiiebaa: niiax-<lb/>
+tenni gootichahuini loo. <lb/>
+quella gracia xtenni Dios<lb/>
+Xii quezaalachini loo<lb/>
+benni huexihui?<lb/>
+Quezaalachini, quellazii- <lb/>
+roo loo gabiilla, rua chaa-<lb/>
+quini zellii, cachii catiia.<lb/>
+Tu pazaani, tu pennicha-<lb/>
+huini caache <foreign xml:lang="esp"><hi rend="italic">Santos Sacra-<lb/>
+mentos</hi></foreign>.<lb/>
+Bejuannana <foreign xml:lang="esp">Jeſu-Chriſto</foreign>.<lb/>
+<foreign xml:lang="esp"><hi rend="italic">Que</hi></foreign><lb/>
+<!-- Avery Aghazarian's section -->
+<!-- James Faville's section -->
+<!-- Claire Benham's section -->
 <!-- Tristan Pepin's section -->
 </text>
 </TEI>
