@@ -135,6 +135,7 @@ xbea tichaa Xiñaana Sancta<lb/>
 Igleſia, quiraalii benni Chri-<lb/>
 ſtianos gezeeteni, cooqui-<lb/>
 queni<lb/>
+<cb n=""/>
 <cols n="1"/>
 <lb/>
 <head xml:lang="esp" >CATHECISMO DE<lb/>
@@ -264,9 +265,8 @@ zaalahuezaa.<lb/>
 	hueziilla, ni rinniitilooni, ni rexihuina.<lb/>
 7.	Cooche Xibaa: huariielii-làchia yoobi Dios nàca xihue-<lb/>
 	neche xiquicharoo (ni laa Gloria) lanni quiieba.<lb/>
-</foreign>
 
-<foreign xml:lang="esp"> LOS QUE PERTENECEN A LA SAN:<lb/>
+LOS QUE PERTENECEN A LA SAN:<lb/>
 ta Humanidad, &amp;c.<lb/>
 
 
@@ -526,7 +526,7 @@ naqueenelachi, ni ritillañeeni quellacobeete, quellalea,<lb/>
 	tres, &amp;c.</foreign><lb/>
 
 ALaarii: Choonaloo ni rizooba quelayeeni, ni rigooxihui <pc type="hyphen">-</pc><lb/>
-ni zellii tonoo benni <pc type="hyphen">-</pc>aati, ni ràbini xquelayee <foreign xml:lang="lat">Anima.<lb/>
+ni zellii tonoo benni <pc type="hyphen">-</pc>aati, ni ràbini xquelayee <foreign xml:lang="lat">Anima.</foreign><lb/>
 
 <fw type="catchword" place="bottom-right">
 1 Co <pc type="hyphen">-</pc>
@@ -562,8 +562,8 @@ ALaarii: Chonaloo Quellanazaaca, <foreign xml:lang="esp">laa Virtudes Theo <pc t
 3. Coyoona loo: Quellanazaaca nàca Quellaconnachii Dios,<lb/>
 	laa <foreign xml:lang="esp">Charidad</foreign>.<lb/>
 
-<foreign xml:lang="esp">LAS VIRTUDES CARDINALES, SON<lb/>
-quatro, &amp;c.<foreign xml:lang="esp"><lb/>
+LAS VIRTUDES CARDINALES, SON<lb/>
+quatro, &amp;c.<lb/>
 
 	ZEetaapa Quellanazaaca naciilla <foreign xml:lang="esp">Cardinales</foreign>: quellaniron <pc type="hyphen">-</pc><lb/>
 nini nazaaca rogozoochahuini benniáti lezaani.<lb/>
@@ -619,7 +619,7 @@ rezaa <pc type="hyphen">-</pc>
 <pb n="28"/>
 rezaaláchi, rozèeche Xillaani toono benniaatio huéche <pc type="hyphen">-</pc><lb/>
 layoo.<lb/>
-1.Cotoobi loo: Quellanonal xticha Dios, la <foreign xml:lang="esp">Sabiduria.<lb/>
+1.Cotoobi loo: Quellanonal xticha Dios, la <foreign xml:lang="esp">Sabiduria.</foreign><lb/>
 2.Coroopa loo: Quellariiennilii, laa <foreign xml:lang="esp">Entendimiento</foreign>.<lb/>
 3.Coyoona loo: Quellahuexiiaticha, la <foreign xml:lang="esp">Conſejo</foreign>.<lb/>
 4.Cotaapa loo:Quellanguiio , quellanatiipaláchie, la <foreign xml:lang="esp">For <pc type="hyphen">-</pc><lb/>
@@ -768,7 +768,7 @@ niiaxtenni naa.<lb/>
 
 <foreign xml:lang="esp">ACTO DE CONTRICION.</foreign><lb/>
 
-Hà Channa <foreign xml:lang="esp">Jeſu-Chriſto</foreign> he! huallii Biitoo, huallii Benni<pc type="hyphen"><lb/>
+Hà Channa <foreign xml:lang="esp">Jeſu-Chriſto</foreign> he! huallii Biitoo, huallii Benni<pc type="hyphen">-</pc><lb/>
 aati: ni pezaalo naa, ni peziillaalo na niaxtenni na<pc type="hyphen">-</pc><lb/>
 ca yoobilo, ni nazaacateete, yacà nagaabanix quella<pc type="hyphen">-</pc><lb/>
 
@@ -796,7 +796,7 @@ CHRISTIANA</foreign><lb/>
 
 <cb n="1"/>
 
-<foreign xml:lang="esp">Aqui comienze la Doctri<pc type="hyphen">-</pc><lb/>
+Aqui comienze la Doctri<pc type="hyphen">-</pc><lb/>
 na de nueſtra Fee, que<lb/>
 llamamos Doctrina Chriſ<pc type="hyphen">-</pc><lb/>
 tiana: Preguntas, y Reſ<pc type="hyphen">-</pc><lb/>
@@ -823,6 +823,7 @@ Channa, laaya <foreign xml:lang="esp">Pedro</foreign>, Lecc.<lb/>
 laa Juan.<lb/>
 Huanacalo <foreign xml:lang="esp">Chriſtiano</foreign>? 2.<lb/>
 Huanacaya niiaxtenni que<pc type="hyphen">-</pc><lb/>
+<cb n=""/>
 
 <fw type="catchword" place="bottom-right">
   tro
@@ -906,6 +907,7 @@ zoo xpellalaatini, cii--<lb/>
 ca pigaana pinni, ni ra-<lb/>
 pani callebiichii bichoo-<lb/>
 <hi rend="italic">El</hi><lb/>
+<cb n=""/>
 <!-- Avery's section -->
 <pb n="37"/>
 <cb n="1"/>
@@ -943,6 +945,7 @@ leza, que conſta de cuerpo,<lb/>
 y alma, como noſotros: por<lb/>
 tanto decimos, que es Dios,<lb/>
 y juntamente hombre.<lb/></foreign></hi>
+<cb n=""/>
 
 
 <!-- Claire Benham's section -->
@@ -1024,6 +1027,7 @@ Niiani zoaaca gatini nii<pc type="hyphen">-</pc><lb/>
 <fw type="catchword" place="bottom-right">
   <foreign xml:lang="esp">hom<pc type="hyphen">-</pc></foreign>
 </fw>
+<cb n=""/>
 
 <!-- Tristan Pepin's section -->
 
@@ -1102,5 +1106,6 @@ Bejuannana <foreign xml:lang="esp">Jeſu-Chriſto</foreign>.<lb/>
 <!-- James Faville's section -->
 <!-- Claire Benham's section -->
 <!-- Tristan Pepin's section -->
+<cb n=""/>
 </text>
 </TEI>
