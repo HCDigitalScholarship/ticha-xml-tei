@@ -135,7 +135,6 @@ xbea tichaa Xiñaana Sancta<lb/>
 Igleſia, quiraalii benni Chri-<lb/>
 ſtianos gezeeteni, cooqui-<lb/>
 queni<lb/>
-<cb n=""/>
 <cols n="1"/>
 <lb/>
 <head xml:lang="esp" >CATHECISMO DE<lb/>
@@ -197,7 +196,7 @@ llabea quellagooti xtennitonoo. Gaca ciiga ciica.<lb/>
 <foreign xml:lang="esp">Jeſus</foreign>.<lb/>
 <lb/>
 <head xml:lang="esp">DIOS TE SALVE REYNA, Y MADRE<lb/>
-de miſsericordia, &amp;c.</head><lb/>
+de miſericordia, &amp;c.</head><lb/>
 <lb/>
 ANnaa Channa, Xonaaxi, Cooqui quiiehaa he! Xiñaa<lb/>
 quellahuezaalachihe! Quellanabaani he! Annaa Chan-<lb/>
@@ -256,6 +255,7 @@ Xinni.<lb/>
 <foreign xml:lang="esp">Espiritu Santo. Espi-</foreign><lb/>
 
 <!-- Avery Aghazarian's section -->
+
 <pb n="20"/>
 
 5.	Cooyo Xiibaa: huariieliilachia yoobi Dios nàca niqui-<lb/>
@@ -264,8 +264,9 @@ zaalahuezaa.<lb/>
 	hueziilla, ni rinniitilooni, ni rexihuina.<lb/>
 7.	Cooche Xibaa: huariielii-làchia yoobi Dios nàca xihue-<lb/>
 	neche xiquicharoo (ni laa Gloria) lanni quiieba.<lb/>
+</foreign>
 
-LOS QUE PERTENECEN A LA SAN:<lb/>
+<foreign xml:lang="esp"> LOS QUE PERTENECEN A LA SAN:<lb/>
 ta Humanidad, &amp;c.<lb/>
 
 
@@ -493,8 +494,8 @@ ni, laa <foreign xml:lang="esp">Avaricia</foreign>.<lb/>
 
 	7. Cooche loo: Quellacobeete, quellaleaa, laa <foreign xml:lang="esp">Pereza</foreign>.<lb/>
 
-<head xml:lang="esp">CONTRA ESTOS SIETE VICIOS AY:<lb/>
-	Siete Virtudes, &amp;c.</head><lb/>
+<foreign xml:lang="esp">CONTRA ESTOS SIETE VICIOS AY:<lb/>
+	Siete Virtudes, &amp;c.</foreign><lb/>
 ALaarii: Zeecaacheloo quellanazacca, nilaa Virtudes, ni<lb/>
 nariitillani loo quellahuexìhui narroba, niròttini anima,<lb/>
 	ni laa <foreign xml:lang="esp">pecados mortales</foreign>.
@@ -521,11 +522,11 @@ laa nayaa, laà nazoobàcháhui lezaani, laa Chasidad, ô<lb/>
 naqueenelachi, ni ritillañeeni quellacobeete, quellalea,<lb/>
 	laa <foreign xml:lang="esp">Diligencia, contra Pereza</foreign>.
 
-<head xml:lang="esp">LOS ENEMIGOS DE EL ALMA, SON<lb/>
-	tres, &amp;c.</head><lb/>
+<foreign xml:lang="esp">LOS ENEMIGOS DE EL ALMA, SON<lb/>
+	tres, &amp;c.</foreign><lb/>
 
 ALaarii: Choonaloo ni rizooba quelayeeni, ni rigooxihui <pc type="hyphen">-</pc><lb/>
-ni zellii tonoo benni <pc type="hyphen">-</pc>aati, ni ràbini xquelayee <foreign xml:lang="lat">Anima.</foreign><lb/>
+ni zellii tonoo benni <pc type="hyphen">-</pc>aati, ni ràbini xquelayee <foreign xml:lang="lat">Anima.<lb/>
 
 <fw type="catchword" place="bottom-right">
 1 Co <pc type="hyphen">-</pc>
@@ -538,8 +539,8 @@ ni zellii tonoo benni <pc type="hyphen">-</pc>aati, ni ràbini xquelayee <foreig
 	2. Coroopa loo: bezeello, laa <foreign xml:lang="esp">Demonio</foreign>.<lb/>
 	3. Coyoona loo: pellalaati, laa <foreign xml:lang="esp">Carne</foreign>.<lb/>
 
-<head xml:lang="esp">LAS VIRTUDES, QUE HEMOS DE TENER,<lb/>
-	ſon ſiete, &amp;c.</head><lb/>
+<foreign xml:lang="esp">LAS VIRTUDES, QUE HEMOS DE TENER,<lb/>
+	ſon ſiete, &amp;c.</foreign><lb/>
 
 ALaarii: Caache Quellanazaaca, ni ronnini nazaacalàchi<lb/>
 	benniaati laa <foreign xml:lang="esp">Virtudes Theologales</foreign> la, <foreign xml:lang="esp">Cardinales</foreign> lá:<lb/>
@@ -548,8 +549,8 @@ chîgaliini tonoo loo Bejuannana Dios Zeetaapa Quella <pc type="hyphen">-</pc><l
 	nazaaca, laa <foreign xml:lang="esp">Cardinales</foreign>, rogozoochahuini tonoo loo<lb/>
 benniaati ruarii guechelayoo.<lb/>
 
-<head xml:lang="esp">LAS VIRTUDES THEOLOGALES, SON<lb/>
-	tres, &amp;c.</head><lb/>
+<foreign xml:lang="esp">LAS VIRTUDES THEOLOGALES, SON<lb/>
+	tres, &amp;c.</foreign><lb/>
 
 ALaarii: Chonaloo Quellanazaaca, <foreign xml:lang="esp">laa Virtudes Theo <pc type="hyphen">-</pc><lb/>
 	logales</foreign>.<lb/>
@@ -561,18 +562,8 @@ ALaarii: Chonaloo Quellanazaaca, <foreign xml:lang="esp">laa Virtudes Theo <pc t
 3. Coyoona loo: Quellanazaaca nàca Quellaconnachii Dios,<lb/>
 	laa <foreign xml:lang="esp">Charidad</foreign>.<lb/>
 
-<<<<<<< Updated upstream
-LAS VIRTUDES CARDINALES, SON<lb/>
-quatro, &amp;c.<lb/>
-=======
-<<<<<<< HEAD
-<head xml:lang="esp">LAS VIRTUDES CARDINALES, SON<lb/>
-	quatro, &amp;c.</head><lb/>
-=======
-LAS VIRTUDES CARDINALES, SON<lb/>
-quatro, &amp;c.<lb/>
->>>>>>> 4323c700ec411e7d241a6bfd88dbd0ae3279cbdf
->>>>>>> Stashed changes
+<foreign xml:lang="esp">LAS VIRTUDES CARDINALES, SON<lb/>
+quatro, &amp;c.<foreign xml:lang="esp"><lb/>
 
 	ZEetaapa Quellanazaaca naciilla <foreign xml:lang="esp">Cardinales</foreign>: quellaniron <pc type="hyphen">-</pc><lb/>
 nini nazaaca rogozoochahuini benniáti lezaani.<lb/>
@@ -596,8 +587,8 @@ quiraalii loo, ni naqiiña xiténni yoobi bènni: ciica na <pc type="hyphen">-</
 ca quellahuaagohuaxiia quellacóhuéhuaxiia, quellaco <pc type="hyphen">-</pc><lb/>
 	tagaacihuaxiia, quellacoguiitehuaxiia, laa <foreign xml:lang="esp">Templanza</foreign>.<lb/>
 
-<head xml:lang="esp">AS POTENCIAS DEL ALMA SON<lb/>
-	tres, &amp;c.</head><lb/>
+<foreign xml:lang="esp">LAS POTENCIAS DEL ALMA SON<lb/>
+	tres, &amp;c.</foreign><lb/>
 
 ALaarii: Chona.loo quellanaguiichi xtenni Anima, laa <foreign xml:lang="esp">Po <pc type="hyphen">-</pc><lb/>
 	tencias del Alma</foreign>.<lb/>
@@ -605,8 +596,8 @@ ALaarii: Chona.loo quellanaguiichi xtenni Anima, laa <foreign xml:lang="esp">Po 
 	2. Coroopa loo: Quellariienni, la <foreign xml:lang="esp">Entendimiento</foreign>.<lb/>
 	3. Coyoona loo: QUellaracalachi, laa <foreign xml:lang="esp">Voluntad</foreign>.<lb/>
 
-<head xml:lang="esp">LOS SENTIDOS CORPORALES SON<lb/>
-	cinco, &amp;c.</head><lb/>
+<foreign xml:lang="esp">LOS SENTIDOS CORPORALES SON<lb/>
+	cinco, &amp;c.</foreign><lb/>
 
 ALaarii: Gaayo loo quellanaguiichi xtenni pellalati, ni nien <pc type="hyphen">-</pc><lb/>
 niloo.<lb/>
@@ -615,9 +606,9 @@ niloo.<lb/>
 3. Coyoona loo: Quellahueniipi, laa <foreign xml:lang="esp">Oler</foreign>.<lb/>
 4. Cotaapa loo: Quellahueniixi, laa <foreign xml:lang="esp">Guſtar</foreign>.<lb/>
 	5. Cooyo loo: Quellacoganañaa, laa <foreign xml:lang="esp">Palpar</foreign>.<lb/>
-	
-<head xml:lang="esp">LOS DONES DE EL ESPIRITU SANTO<lb/>
-ſon ſiete, &amp;c.</head><lb/>
+
+<foreign xml:lang="esp">LOS DONES DE EL ESPIRITU SANTO<lb/>
+ſon ſiete, &amp;c.</foreign><lb/>
 
 Alaari: Caacheloo Xillaatoo xtènni Efpiritu Santo, ni<lb/>
 
@@ -628,7 +619,7 @@ rezaa <pc type="hyphen">-</pc>
 <pb n="28"/>
 rezaaláchi, rozèeche Xillaani toono benniaatio huéche <pc type="hyphen">-</pc><lb/>
 layoo.<lb/>
-1.Cotoobi loo: Quellanonal xticha Dios, la <foreign xml:lang="esp">Sabiduria.</foreign><lb/>
+1.Cotoobi loo: Quellanonal xticha Dios, la <foreign xml:lang="esp">Sabiduria.<lb/>
 2.Coroopa loo: Quellariiennilii, laa <foreign xml:lang="esp">Entendimiento</foreign>.<lb/>
 3.Coyoona loo: Quellahuexiiaticha, la <foreign xml:lang="esp">Conſejo</foreign>.<lb/>
 4.Cotaapa loo:Quellanguiio , quellanatiipaláchie, la <foreign xml:lang="esp">For <pc type="hyphen">-</pc><lb/>
@@ -640,7 +631,7 @@ nnizii lezaani, laa <foreign xml:lang="esp">Piedad</foreign>.<lb/>
 7.Coocge loo: Quellanachiibi Bejuanna Dios, laa <foreign xml:lang="esp">Te <pc type="hyphen">-</pc><lb/>
 	mor de Dios</foreign><lb/>
 
-	<head xml:lang="esp">EXPLICACION.</head><lb/>
+EXPLICACION.<lb/>
 
 QUiaache loo nirii ribeexilla loo nirii ribeexilaa Dios Efpiritu Santo, róhuini<lb/>
 benniaati, niiani gaca naguiio, gaca naguiichilachini, co <pc type="hyphen">-</pc><lb/>
@@ -649,8 +640,8 @@ pea quellabenn(?)iaati: niácani naguiñe quezaabiquique,<lb/>
 quezaabiñaatcnoo loo ni, quetiiñana quitoobi láchina<lb/>
 goneeche ciicani tonoo Xilla nirii.<lb/>
 
-<head xml:lang="esp">LAS BIENAVENTURANZAS SON<lb/>
-	Ocho, &amp;c.</head><lb/>
+LAS BIENAVENTURANZAS SON<lb/>
+Ocho, &amp;c.<lb/>
 
 ALaarii Xoono cue Quellabaa, nirizii, ni rizaacabaa ben <pc type="hyphen">-</pc><lb/>
 niaati nazaaca lanni quehuibaa.<lb/>
@@ -777,7 +768,7 @@ niiaxtenni naa.<lb/>
 
 <foreign xml:lang="esp">ACTO DE CONTRICION.</foreign><lb/>
 
-Hà Channa <foreign xml:lang="esp">Jeſu-Chriſto</foreign> he! huallii Biitoo, huallii Benni<pc type="hyphen">-</pc><lb/>
+Hà Channa <foreign xml:lang="esp">Jeſu-Chriſto</foreign> he! huallii Biitoo, huallii Benni<pc type="hyphen"><lb/>
 aati: ni pezaalo naa, ni peziillaalo na niaxtenni na<pc type="hyphen">-</pc><lb/>
 ca yoobilo, ni nazaacateete, yacà nagaabanix quella<pc type="hyphen">-</pc><lb/>
 
@@ -805,7 +796,7 @@ CHRISTIANA</foreign><lb/>
 
 <cb n="1"/>
 
-Aqui comienze la Doctri<pc type="hyphen">-</pc><lb/>
+<foreign xml:lang="esp">Aqui comienze la Doctri<pc type="hyphen">-</pc><lb/>
 na de nueſtra Fee, que<lb/>
 llamamos Doctrina Chriſ<pc type="hyphen">-</pc><lb/>
 tiana: Preguntas, y Reſ<pc type="hyphen">-</pc><lb/>
@@ -832,7 +823,6 @@ Channa, laaya <foreign xml:lang="esp">Pedro</foreign>, Lecc.<lb/>
 laa Juan.<lb/>
 Huanacalo <foreign xml:lang="esp">Chriſtiano</foreign>? 2.<lb/>
 Huanacaya niiaxtenni que<pc type="hyphen">-</pc><lb/>
-<cb n=""/>
 
 <fw type="catchword" place="bottom-right">
   tro
@@ -916,7 +906,6 @@ zoo xpellalaatini, cii--<lb/>
 ca pigaana pinni, ni ra-<lb/>
 pani callebiichii bichoo-<lb/>
 <hi rend="italic">El</hi><lb/>
-<cb n=""/>
 <!-- Avery's section -->
 <pb n="37"/>
 <cb n="1"/>
@@ -954,7 +943,6 @@ leza, que conſta de cuerpo,<lb/>
 y alma, como noſotros: por<lb/>
 tanto decimos, que es Dios,<lb/>
 y juntamente hombre.<lb/></foreign></hi>
-<cb n=""/>
 
 
 <!-- Claire Benham's section -->
@@ -1036,7 +1024,6 @@ Niiani zoaaca gatini nii<pc type="hyphen">-</pc><lb/>
 <fw type="catchword" place="bottom-right">
   <foreign xml:lang="esp">hom<pc type="hyphen">-</pc></foreign>
 </fw>
-<cb n=""/>
 
 <!-- Tristan Pepin's section -->
 
@@ -1112,157 +1099,8 @@ mentos</hi></foreign>.<lb/>
 Bejuannana <foreign xml:lang="esp">Jeſu-Chriſto</foreign>.<lb/>
 <foreign xml:lang="esp"><hi rend="italic">Que</hi></foreign><lb/>
 <!-- Avery Aghazarian's section -->
-	<pb n="41">
-<foreign xml:lang="esp">
-<cb n="2" />
-Que virtud tienen los ʃiete Să-<lb/>	
-tos Sacramentos?<lb/>
-R. Cauʃan remiʃsion de los pe-<lb/>
-cados de los hõbres, y junta-<lb/>
-mente comunica a las almas<lb/>
-de los hobres la divina gracia<lb/>
-P. Quien eʃta en el Santiʃsimo<lb/>
-Sacramento del altar?<lb/>
-R. Jeʃu-Christo Nueʃtro Señor<lb/> 
-Con todo ʃu alma, con todo<lb/>
-ʃu sagrado cuerpos, aʃsi co-<lb/>
-mo está en el cielos, aʃsi tam-<lb/>
-bien eʃtà en el Santiʃsimo<lb/>
-Sacramento del altar.<lb/>
-P. Quando baja â la Hoʃtia<lb/>
-Nrò. Sr. Jeʃu Chriʃto?<lb/>
-R. Baja quando ʃe acaban de<lb/> 
-decir las santas palabras de<lb/>
-la Conca gracion.<lb/>
-P. Queda el pan en la hoʃtia , ô<lb/>
-el vino en el Caliz, deʃpues<lb/>
-de decir el Sacerdote, las pa-<lb/>
-labras ʃagradas, que liemos<lb/>
-llamado Conʃagracion?<lb/>
-R. Ni el pan, ni el vino quedòs<lb/>
-porque por virtud de las pa-<lb/>
-labras de la Conʃagacion el <lb/>
-pan ʃe converte en el cuerpo<lb/>
-de Nrò. Sr. Jesu-Chriʃto, <lb/>
-Y el vino converte en el<lb/>
-Sangre preciosa. <lb/>
-</foreign>
-<cb n="2" />
-Xii quellanazaaca rapani:<lb/>
-caache Santos Sacramentos.<lb/><lb/>
-Ronnitiilooni quella hue-<lb/><lb/>
-xihui benniaati, chelan̄ee re-<lb/>
-zaalachini loo animas xte-<lb/>
-ni benniiati quellagracia.<lb/>
-Tu rebeezani lanni Sa- <lb/>
-ntiſsimo Sacramento xten- <lb/>
-ni becoogo?<lb/>
-Bejuannana Jeſu-Chriſto:<lb/>
-quitoobi anima, quitoobi <lb/>
-zoo xpellalaati yoonani<lb/>
-ciica noo lanni quiebaa, <lb/>
-ciicaquee noo lanni Sancti-<lb/>
-ſimo Sacramento xtenni be-<lb/>
-coogo. <lb/>
-Cocaxa riccteni Bejuanna-<lb/>
-na Jeſu-Chriſto lanni hoʃtia?<lb/>
-Riccteni chii hulooxe ti- <lb/>
-cha nayoona xtenni Conʃa-<lb/>
-gracion?<lb/>
-Peaana gueectalá lanni<lb/> 
-hoʃtia, cheſa peaana vinolà<lb/>
-lanni xiiga Caliz, hualoo-<lb/>
-xe rinnii Bixooce Copa Bii-<lb/>
-too ticha nayona, ni pin-<lb/>
-niiona Conʃagracion. <lb/>
-Acà peaana guettala, acà<lb/>
-peeana vinola: niiaxten-<lb/>
-ni loo quellanazaacà xiti-<lb/>
-cha Conʃagracion, ribrixi,<lb/>
-reacani gueeta xpellala-<lb/>
-ati  Bejuannana Jeſu-Chriſ-<lb/>
-to: vino ribiixi, reacani<lb/>
-Quan-<lb/>
 <!-- James Faville's section -->
-<pb n="42" />
-<cb n="1" />
-	<foreign xml:lang="esp"><hi rend="italic">
-P. Quando ʃe divide, ò parte<lb/>
-La hoʃtia, ʃe parte, ò divide<lb/>
-el Cuerpo de Nueʃtro Señor<lb/>
-Jeʃu<pc type="hyphen">-</pc>Chrìʃto?<lb/>
-R. o ʃe parte, no ʃe divide<lb/>
-el Cuerpo de Nueʃtro Señor<lb/>
-Jeʃu<pc type="hyphen">-</pc>Chriʃto: en cada parte<lb/>
-de aquella hoʃtia confagra<pc type="hyphen">-</pc><lb/>
-da eʃtà, y ʃe contiene todo<lb/>
-entero Jeʃu<pc type="hyphen">-</pc>Chriʃto Nueʃtro<lb/>
-Señor, aʃsi somo eʃtà, y ʃe<lb/>
-contiene en el Palacio del<lb/>
-Cielo<lb/>
-P. uien hizo el Cielo, la Tier<pc type="hyphen">-</pc><lb/>
-ra, el Infierno, y todas las<lb/>
-coʃas que eʃtàn en todo lu<pc type="hyphen">-</pc><lb/>
-gar, y en la redondez de la<lb/>
-tierra?<lb/>
-R. olamente Dios Nrò. eñor.<lb/>
-P. uien crio à los Angeles, y<lb/>
-à los hombres?<lb/>
-R. l miʃmo Dios Nrò. eñor.<lb/>
-P. ara que Nro Señor Dios<lb/>
-criò à todos los hombres?<lb/>
-<lb/>
-R. ara amar, y ʃervir à Dios<lb/>
-Nueʃtro Señor en eʃta vida,<lb/>
-y deʃpues veerle en el Cielo.<lb/>
-<lb/>
-<lb/>
-<lb/>
-P. uien criò à todos los De<pc type="hyphen">-</pc><lb/>
-monios?<lb/>
-		</hi></foreign>
-<cb n="2" />
-xi Rinni nayoona xtennini.<lb/>
-	Chii riochui, huerillaha <foreign xml:lang="esp"><hi rend="italic">hoʃtia</hi></foreign>;<lb/>
-huarioohui, huerillaha xpe<pc type="hyphen">-</pc><lb/>
-llalati Bejuannana <foreign xml:lang="esp">Jeſu<pc type="hyphen">-</pc><lb/>
-	Chriſto?</foreign><lb/>
-Acà rioohui, acà rillaha<lb/>
-xpellalaati Bejuannana <foreign xml:lang="esp">Je<pc type="hyphen">-</pc><lb/>
-	ſu<pc type="hyphen">-</pc>Chriſto</foreign>: loo toobi to<pc type="hyphen">-</pc><lb/>
-	obigaa cuee <foreign xml:lang="esp"><hi rend="italic">hoʃtia</hi></foreign> nayo<pc type="hyphen">-</pc><lb/>
-ona huanoo, huariibeeza<pc type="hyphen">-</pc><lb/>
-ni quitoobizoo Bejuanna<pc type="hyphen">-</pc><lb/>
-	na <foreign xml:lang="esp">Jeſu<pc type="hyphen">-</pc>Chriſto</foreign>: ciica noo,<lb/>
-ciica riibeezani lanni que<pc type="hyphen">-</pc><lb/>
-hui quiibaa.<lb/>
-Tuxa pezea quiiebaalà<lb/>
-layoolá, gabiillalà: chela<lb/>
-quizaaloo, ni narii quito<pc type="hyphen">-</pc><lb/>
-obilaate, quitoobi cabii la<pc type="hyphen">-</pc><lb/>
-yoo, gacanna layoo?<lb/>
-Citoobizi Bejuannana Dios.<lb/>
-Tuxa pezaa Angeleslà,<lb/>
-benniaatilá?<lb/>
-Yoobi Bejuannana Dios.<lb/>
-Xii niia Bejuannana Dios<lb/>
-Pezaani quiraalii benni<pc type="hyphen">-</pc><lb/>
-aati?<lb/>
-Niiani gannachiini quito<pc type="hyphen">-</pc><lb/>
-obi lachini Bejuannana Di<pc type="hyphen">-</pc><lb/>
-os, gonnini chiiña xtenni<pc type="hyphen">-</pc><lb/>
-ni loo gueechelayoo: che<pc type="hyphen">-</pc><lb/>
-la hualooxe, gannani yo<pc type="hyphen">-</pc><lb/>
-obini lanni quiiebaa.<lb/>
-Tuxa pezaa quiraalii be<pc type="hyphen">-</pc><lb/>
-zeelloo?
-	
-<fw type="catchword" place="bottom-right">
-  <foreign xml:lang="esp">El</foreign>
-</fw>
-	
 <!-- Claire Benham's section -->
 <!-- Tristan Pepin's section -->
-<cb n=""/>
 </text>
 </TEI>
