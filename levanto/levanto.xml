@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="TEISchema_current.rnc" type="application/relax-ng-compact-syntax"?>
+	<?xml version="1.0" encoding="UTF-8"?><?xml-model href="TEISchema_current.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI>
 <text>
 <!-- frontmatter -->
@@ -1337,6 +1337,39 @@ DOCTRINA CHRISTIANA.</foreign></head>
 
 <!-- James Faville's section -->
 <pb n="47"/>
+Coxiigueella Chaapa yoona,<lb />
+Zooba xiticha Biitoo:<lb />
+Chiiquee lannini cuyoo<lb />
+Coroopa liica Perſona.<lb />
+<lb />
+<head xml:lang="esp">MYSTERIO SEGUNDO.<lb />
+De la Viſitacion.<lb /></head>
+<lb />
+COroopa ticha rozeea:<lb />
+Huecaa ciica Biitoolii<lb />
+Lanni Xonaaxi nachii.<lb />
+Cuyeeni tanni Judea.<lb />
+Iſabel pechaagolooni,<lb />
+Ticharoo pechaagayahani<lb />
+Juan Xinnini coxiibaani<lb />
+Quella gracia xiBiitooni.<lb />
+<lb />
+<lb />
+<head xml:lang="esp">MYSTERIO TERCERO.<lb />
+Del Nacimiento del Hijo de Dios.<lb /></head>
+<lb />
+HUanaacoli pellalaati<lb />
+Pieenniloo quellanaxeene,<lb />
+Peacazii Biitoo reixeene,<lb />
+Lachi huiiña benniaati.<lb />
+Bitoo Xinni, xiBiitoona,<lb />
+Reaaca benni hualaachi,<lb />
+Ralleni roobi pillaachi,<lb />
+Laatè rago manni gonna.
+	
+<fw type="catchword" place="bottom-right">
+  <foreign xml:lang="esp"><hi>Mys<pc type="hyphen">-</pc></hi></foreign>
+</fw>
 
 <!-- Claire Benham's section -->
 <pb n="48"/>
