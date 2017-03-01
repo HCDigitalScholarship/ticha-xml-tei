@@ -1,17 +1,19 @@
-	<?xml version="1.0" encoding="UTF-8"?><?xml-model href="TEISchema_current.rnc" type="application/relax-ng-compact-syntax"?>
+﻿<?xml version="1.0" encoding="UTF-8"?><?xml-model href="TEISchema_current.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI>
 <text>
-<!-- frontmatter -->
+<div xml:lang="esp"> <!-- frontmatter -->
+<div> <!-- first frontmatter -->
 <pb n="6"/>
-<p>
-  PARECER<lb/>
-  DEL R. PADRE PREDICADOR FRA
+<head>PARECER<lb/>
+  <i>DEL R. PADRE PREDICADOR FRA
   Migue Pantaleon, Maeſtro de Novictos, y<lb/>
   Compañero del M. R. P. M. Fr. Leonardo<lb/>
   Levanto, digniſsimo Prior Provincil de eſta<lb/>
   Provincia de San Miguel, y Santos Angeles de<lb/>
   La Puebla de los Angeles de Sagrado Orden de<lb/>
-  Predicadores.<lb/>
+  Predicadores.</i>
+</head>
+<p rend="centered">
   Excelentiſsimo Señor.
 </p>
 <p>
@@ -25,7 +27,7 @@
 <p>
   Entre mis felices dichas, la mayor al preſente es, que<lb/>
   ſea Yo Cenſor de Catheciſmo de la Doctrina Chriſtiana, que<lb/>
-  en la lengua Zaapoteca, ha diſpueſto N. M. R. P. M. Fr. Leo<pc type="hyphen">-</pc><lb/>
+  en la lengua Zaapoteca, ha diſpueſto N. M. R. P. M. Fr. Leo<pc type="hyphen">-</pc><lb break="no"/>
   nardo Levanto, actual Prior Provincial de eſta Provincia de S.<lb/>
   Miguel, y Santos Angeles de la Pueblas; mas porque puede cau-<lb/>
   ſar novedad â algunos, que ſea yo Cenſor de eſta primoroſa<lb/>
@@ -36,7 +38,7 @@
   profeſſan, y hablan dicha lengua: con eſta verdad tan publica,<lb/>
   no ſe neceſsita de mas prueba para la obra preſente. Ya con<lb/>
   eſto me contentara, Excelentiſsimo Señor, ſuponiendo, que por<lb/>
-  averla leido, y oido engrandecer, eſtaba aprobada. Mas advier<pc type="hyphen">-</pc><lb/>
+  averla leido, y oido engrandecer, eſtaba aprobada. Mas advier<pc type="hyphen">-</pc><lb break="no"/>
   to, que me manda V. Exc. que dè Yo mi parecer, ô que
   <fw type="catchword" place="bottom-right">
     <hi>cer<pc type="hyphen">-</pc></hi>
@@ -51,24 +53,24 @@
   Eſcribe lo que has viſto, le manda al Evangeliſta el Di-<lb/>
   vino Superior: <foreign xml:lang="lat">Que vidiſti ſeribe</foreign>, y que es lo que vio S. Juan?<lb/>
   Un grande milagro: <foreign xml:lang="lat">Signum magnum, magnum miraculum</foreign>, cotas<lb/>
-  nuevas, y prodigioſas: <foreign xml:lang="lat">Ecca nova</foreign>, mas oyo, y ạun vio admi<pc type="hyphen">-</pc><lb/>
-  rables, y myſterioſas voces: <foreign xml:lang="lat">Et audivi vocem magnam, &amp; conver<pc type="hyphen">-</pc><lb/>
-  ſus ſum, ut viderem vocem</foreign>, declara, expreſta por eſcrito las pro<pc type="hyphen">-</pc><lb/>
+  nuevas, y prodigioſas: <foreign xml:lang="lat">Ecca nova</foreign>, mas oyo, y ạun vio admi<pc type="hyphen">-</pc><lb break="no"/>
+  rables, y myſterioſas voces: <foreign xml:lang="lat">Et audivi vocem magnam, &amp; conver<pc type="hyphen">-</pc><lb break="no"/>
+  ſus ſum, ut viderem vocem</foreign>, declara, expreſta por eſcrito las pro<pc type="hyphen">-</pc><lb break="no"/>
   priedades de eſtas voces, que has oido.<lb/>
 </p>
 <p>
-  Hablo pues en el ſentido, que debo, y confieſſo la lon<pc type="hyphen">-</pc><lb/>
+  Hablo pues en el ſentido, que debo, y confieſſo la lon<pc type="hyphen">-</pc><lb break="no"/>
   gitud de un caſo à otro. Pero me hace fuerza, que â quien<lb/>
-  puede dar razones individuales de las obras heroyca de ſo<pc type="hyphen">-</pc><lb/>
-  bredicho Autor, ne ſe le pregunten; y que el mandato ſupe<pc type="hyphen">-</pc><lb/>
+  puede dar razones individuales de las obras heroyca de ſo<pc type="hyphen">-</pc><lb break="no"/>
+  bredicho Autor, ne ſe le pregunten; y que el mandato ſupe<pc type="hyphen">-</pc><lb break="no"/>
   rior me obligue â mi â que dé mi parecer, o certificacion!<lb/>
   Todos ſaben mejor que Yo, lo publico de las buenas obras,<lb/>
   que ſu Autor executa; pero no quiere ſu Excelencia, que otro<lb/>
   hable; parece que â todos ſe les prohibe, como ſe hizo con S<lb/>
-  an Pablo, aviendo viſto prodigios, y ſe le puſo como pre<pc type="hyphen">-</pc><lb/>
+  an Pablo, aviendo viſto prodigios, y ſe le puſo como pre<pc type="hyphen">-</pc><lb break="no"/>
   cepto, para no decirlos: <foreign xml:lang="lat">Que non licer homini loqui</foreign>. Ea, dice ſu<lb/>
   Excelencia, no todos al preſente tienen miniſterio de certificar,<lb/>
-  uſa de tu honra, no te encojas, que en eſſo eſtà tu dicha ma<pc type="hyphen">-</pc><lb/>
+  uſa de tu honra, no te encojas, que en eſſo eſtà tu dicha ma<pc type="hyphen">-</pc><lb break="no"/>
   yor: eſcribe lo que has viſto, dá tu parecer, que tu no tienes<lb/>
   precepto, como ni el Sagrado Evangeliſta, antes ſe le manda<lb/>
   eſcribir: <foreign xml:lang="lat">Scribe ad informattomen</foreign>.<lb/>
@@ -78,31 +80,106 @@
   Autor es una marabilla, averlo viſto ſiempre en exercicios, y<lb/>
   Prelacias tan continuas, y en eſtudios de las ſagradas letras tan<lb/>
   ocupado toda ſu vida, que me admira (y â todos ſucede lo<lb/>
-  miſmo) <u>como, o quando eſte Autor eſtudio lengua tan bar<pc type="hyphen">-</pc><lb/>
+  miſmo) <u>como, o quando eſte Autor eſtudio lengua tan bar<pc type="hyphen">-</pc><lb break="no"/>
   bara?</u> Como, o quando la deſentraño con tanta perfeccion, la-<lb/>
-  cando todas las dudas con tanta elegancia, que tiene abyſma<pc type="hyphen">-</pc><lb/>
+  cando todas las dudas con tanta elegancia, que tiene abyſma<pc type="hyphen">-</pc><lb break="no"/>
   dos a los Profeſtores de eſte Idioma, eſeñando no ſolo con<lb/>
   rimor entenderla, ſino tambien eſcribirla con tanta pɹopriedad<lb/>
   en todo, y en ſus ethymologias, que aſombre â todos, eſto es<lb/>
-  lo prodigioſo que miro en eſte Autor, y en eſta obra preſen<pc type="hyphen">-</pc><lb/>
-  te veo coſas nuevas, que me admiran; pues veo oy el verda<pc type="hyphen">-</pc><lb/>
+  lo prodigioſo que miro en eſte Autor, y en eſta obra preſen<pc type="hyphen">-</pc><lb break="no"/>
+  te veo coſas nuevas, que me admiran; pues veo oy el verda<pc type="hyphen">-</pc><lb break="no"/>
   dero modo de hablar en eſta lengua Zaapoteca, que con tanto<lb/>
   deſvelo, y leyenda de <u>libros, y papeles antiguos,</u> pudo el vivo,<lb/>
   <fw type="catchword" place="bottom-right">
     <hi>y</hi>
   </fw>
-<!-- paragraph ending not transcribed -->
-</p>
-<!-- contents of frontmatter pages not entered in this document -->
-<pb n="8"/>
+  <!-- contents of frontmatter pages not entered in this document -->
+  <pb n="8"/>
+  y charitativo zelo de eſte Autor aver pueſto la Doctrina Chriſ<pc type="hyphen">-</pc><lb break="no"/>
+  tiana al modo que oy ſe habla, y entiende la lengua, para<lb/>
+  que todos ſus Miniſtros la <gap reason="illegible">ha</gap>gan, y todos ſus Feligreſes ſe apro<pc type="hyphen">-</pc><lb break="no"/>
+  vechen prendiendola de un miſmo modo, con tanta claridad,<lb/>
+  que no podran tropezar en aprender lo neceſſario, y ſeguro<lb/>
+  para ſu ſalvacion. Mas oí, y ví al dicho Autor, que viſitando<lb/>
+  como Provincial un Pueblo, en donde Yo me hallaba de Cu<pc type="hyphen">-</pc><lb break="no"/>
+  ra Miniſtro, que al tiempo que eſtaban los Feligreſes rezando<lb/>
+  la Doctrina Chriſtiana, eſtaba preſente, y ſalieron de ſus labios<lb/>
+  eſtas admirables voces. <i>O, y quien pudiera hacer, que la Doctrina<lb/>
+  Zaapoteca ſe dixera de un miſmo modo,y con los tominos que oy ſe uſan<lb/>
+  en todas las adminiſtraciones, y Pueblos donde ſe habla</i>!  Entonces,<lb/>
+  admirado de ſus deſeos, y voces, buelto Yo acia el Autor, lo<lb/>
+  vi, y le dixe: ojala, y tal coſa ſe contiga; y Dios Nueſtro Se<pc type="hyphen">-</pc><lb break="no"/>
+  ñor ſe lo ha concedido, y à mi de lograr tal fortuna como<lb/>
+  aver leido de nuevo eſta Doctrina Chriſtiana en dicho Idioma,<lb/>
+  con tan igual proporcion, y propriedad de oces, que ninguna<lb/>
+  deſdice, ni ſe opone â nueſtra Santa Fee, antes eſtà ſacado con<lb/>
+  admiracion, y mucha legalidad en todo, y guſtaràn todos los<lb/>
+  que de ello entienden, que clamaràn al Autor, que nos ſaque<lb/>
+  de mas dudas, ſacando â luz muchas obras, que ſu admi<pc type="hyphen">-</pc><lb break="no"/>
+  rable viveza de ingenio puede, &amp;c. Aſsi lo declaro, y expreſſo<lb/>
+  por eſcrito: <i><foreign xml:lang="lat">ſalvo meliori</foreign></i>. Convento de N. P. Santo Domingo<lb/>
+  de la Puebla, y Octubre 12 de 1732 años.
+  </p>
+  <!-- handwritten note here, not transcribed yet -->
+  <p rend="centered">
+    Excmô Señor:
+  </p>
+  <p rend="centered">
+    B. L. M. de V. Exciâ ſu inſimo<lb/>
+    Servidor, y Capellan.
+  </p>
+  <p rend="centered">
+    <i>Fr. Miguel Pantaleon.</i>  
+  </p>
+  <fw type="catchword" place="bottom-right">SEN<pc type="hyphen">-</pc></fw>
+</div> <!-- first frontmatter -->
+<div> <!-- second frontmatter -->
 <pb n="9"/>
+  <head>
+    SENTIR<lb/>
+    <i>DEL R. P. PREDICADOR GENERAL,<lb/>
+    y Procurador Fr. Nicolas de Caſca, del Orden<lb/>
+    de Predicadores de San Hipolyto Martyr<lb/>
+    de Oaxaca.</i>
+  </head>
+  <p rend="centered">Señor Proviſor:</p>
+  <p>
+    Bien pudiera mi ignorancia valerſe de la eſcuſa del Santo Pro<pc type="hyphen">-</pc><lb break="no"/>
+    feta Jeremias, ara eximirme del precepto, en que V. S.<lb/>
+    me manda vea el Catheciſmo, que en la lengua Zaapoteca ha<lb/>
+    diſpueſto el M. R. P. M. Fr. Leonardo Levanto, Provincial que<lb/>
+    fue de eſta Provincia de Predicadores de Oaxaca, y lo es actual de<lb/>
+    la de los Santos Angeles; pues aunque por algunos años he cur<pc type="hyphen">-</pc><lb break="no"/>
+    ſado eſta lengua para adminiſtrarla; pero à viſta de tan gran<lb/>
+    Maevtro, puedo decir, que como niño, y tan pequeño, aun no he<lb/>
+    pasſſado de la primera letra de ſu Alphabeta, <foreign xml:lang="lat"><i>A, à, â, Domine neſ<pc type="hyphen">-</pc><lb break="no"/>
+    cio loqui quia puer ego ſum.</i></foreign> (Jerem. Cap. 1.) Mas ſiendo tan ſupe<pc type="hyphen">-</pc><lb break="no"/>
+    rior el mandato, y aviendoſe diſpueſto eſte Catheciſmo para que<lb/>
+    aprendan en èl los myſterios de nueſtra Santa Fee los niños, y<lb/>
+    los que por ſu corta capacidad aun no han ſalido de la pue<pc type="hyphen">-</pc><lb break="no"/>
+    rilidad; ya que por ignorante no pueda Yo hablar, aplicano<pc type="hyphen">-</pc><lb break="no"/>
+    me â eſtudiar en èl, ſin ſalir de la eſphera de niño, para cum<pc type="hyphen">-</pc><lb break="no"/>
+    plir con el mandato de mi aplicacion que no ſolo no con<pc type="hyphen">-</pc><lb break="no"/>
+    tiene coſa alguna contra nueſtra Santa Fee; ſino que es muy<lb/>
+    util, y neceſſario para que eſta Nacion Zaapoteca aprenda lo<lb/>
+    que es neceſſario ſaber; eſte es mi parecer: <foreign xml:lang="lat"><i>salvo meliori</i></foreign>. Oaxa<pc type="hyphen">-</pc><lb break="no"/>
+    ca, y Septiembre 1 de 1732.
+  </p>
+  <p rend="centered">
+    B. L. M. de V. S. ſu menor ſervidor, y Capellan.
+  </p>
+  <p rend="centered">
+    <i>Fr. Nicolas de Casca.</i>
+  </p>
+  <fw type="catchword" place="bottom-right">APRO.</fw>
+</div><!-- second frontmatter -->
 <pb n="10"/>
 <pb n="11"/>
 <pb n="12"/>
 <pb n="13"/>
 <pb n="14"/>
 <pb n="15"/>
-
+</div> <!-- frontmatter -->
 <!-- James Truitt's section -->
 <pb n="16"/>
 <cb n="1"/>
@@ -1047,7 +1124,7 @@ Niiani zoaaca gatini nii<pc type="hyphen">-</pc><lb/>
 </fw>
 
 <!-- Tristan Pepin's section -->
-<pb n="39">
+<pb n="39"/>
 
 <!-- James Truitt's section -->
 <pb n="40"/>
@@ -1288,7 +1365,7 @@ zeelloo?
 <cb n="1"/>
 <lb/>
 <lb/>
-<foreign foreign xml:lang="esp"><hi rend="italic">R. Le es neceſſario, que ſe ar<pc type="hyphen">-</pc><lb break="no"/>
+<foreign xml:lang="esp"><hi rend="italic">R. Le es neceſſario, que ſe ar<pc type="hyphen">-</pc><lb break="no"/>
 repienta mucho; que llore<lb/>
 que tenga dolor de aver pe<pc type="hyphen">-</pc><lb break="no"/>
 cado; y que confieſſe todas<lb/>
@@ -1306,7 +1383,7 @@ pecar, ô volver a las culpas.</hi></foreign><lb/>
 <lb/>
 <lb/>
 
-<cb n="2">
+<cb n="2"/>
 os: niiani niitillo xtolla<pc type="hyphen">-</pc><lb break="no"/>
 ni?<lb/>
 Naquiiña xtenni<pc type="hyphen">-</pc><lb break="no"/>
@@ -1331,7 +1408,7 @@ zeeonnini tolla.
 
 	<!-- Floral decoration -->
 
-<head><foreign foreign xml:lang="esp">FIN<lb/>
+<head><foreign xml:lang="esp">FIN<lb/>
 DE LA EXPLICACION DE LA<lb/>
 DOCTRINA CHRISTIANA.</foreign></head>
 
