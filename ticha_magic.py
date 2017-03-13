@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """Convert TEI-encoded XML into human-readable HTML.
 
    <TEI>
@@ -21,7 +22,8 @@ What kind of transformations need to be done?
   breaks
 - Preserving <div> tags
 """
-import html
+import sys
+import os.path
 import xml.etree.ElementTree as ET
 import io
 
@@ -37,12 +39,13 @@ SPELLCHOICES = ('orig', 'reg')
 ABBRCHOICES = ('abbr', 'expan')
 
 class TEItoHTMLTarget:
+    stylesheets = ('levanto_style.css',)
+
     def __init__(self, spellchoice='orig', abbrchoice='abbr'):
         # choice of original (<orig>) or regularized (<reg>) spelling
         self.spellchoice = spellchoice
         # choice of abbreviation (<abbr>) or expansion (<expan>)
         self.abbrchoice = abbrchoice
-        self.pages = []
         # the stack of open tags (each tag is stored as a name-attrib pair)
         self.tags = []
         self.trb = ET.TreeBuilder()
@@ -52,6 +55,18 @@ class TEItoHTMLTarget:
         self.max_col_lines = 0
         self.in_column = False
         self.in_header = True
+        self.initial_html()
+
+    def initial_html(self):
+        self.trb.start('html')
+        self.trb.start('head')
+        self.trb.start('meta', {'charset':'utf-8'})
+        self.trb.end('meta')
+        for stylesheet in self.stylesheets:
+            self.trb.start('link', {'rel':'stylesheet', 'href':stylesheet})
+            self.trb.end('link')
+        self.trb.end('head')
+        self.trb.start('body')
 
     def start(self, tag, attrib):
         if self.waiting_for:
@@ -60,7 +75,7 @@ class TEItoHTMLTarget:
             if tag not in HEADER_TAGS:
                 self.in_header = False
                 #self.open_tag('div', {'class':'col-xs-10'})
-                self.open_tag('div')
+                self.open_tag('div', {'class':'printed_text_page'})
             else:
                 return
         # dispatch to the proper tag_ function
@@ -159,21 +174,18 @@ class TEItoHTMLTarget:
             raise SyntaxError('got </{0}> before <{0}>'.format(name))
 
     def new_page(self):
-        self.close()
+        self.close_all_tags()
+        self.lines = 0
         self.reopen_all_tags()
 
     def close(self):
         self.close_all_tags()
         out = self.trb.close()
         if out is not None:
-            page_str = ET.tostring(out, encoding='unicode')
-            #line_no_str = line_number_div(self.lines)
-            #self.pages.append(page_str + '\n' + line_no_str)
-            self.pages.append(page_str)
+            self.as_str = ET.tostring(out, encoding='unicode')
         else:
-            self.pages.append('')
+            self.as_str = ''
         self.trb = ET.TreeBuilder()
-        self.lines = 0
 
     def close_all_tags(self):
         # close all open tags
@@ -186,7 +198,9 @@ class TEItoHTMLTarget:
             self.trb.start(tag, attribs)
 
     def __str__(self):
-        return ''.join(self.pages)
+        if not hasattr(self, 'as_str'):
+            self.close()
+        return '<!DOCTYPE html>' + self.as_str
 
 def line_number_div(lines):
     line_nos = '\n'.join('{}<br/>'.format(i + 1) for i in range(lines))
@@ -208,7 +222,16 @@ def xml_to_html(data, spellchoice='orig', abbrchoice='abbr'):
     return str(xml_to_html_target(data, spellchoice, abbrchoice))
 
 if __name__ == '__main__':
-    with open('xml2html/levanto.xml', 'r', encoding='utf-8') as ifsock:
-        data = ifsock.read()
-    with open('xml2html/levanto.html', 'w', encoding='utf-8') as ofsock:
-        ofsock.write(xml_to_html(data))
+    if 2 <= len(sys.argv) <= 3:
+        in_path = sys.argv[1]
+        if len(sys.argv) == 2:
+            name, ext = os.path.splitext(in_path)
+            out_path = name + '.html'
+        else:
+            out_path = sys.argv[2]
+        with open(in_path, 'r', encoding='utf-8') as ifsock:
+            data = ifsock.read()
+        with open(out_path, 'w', encoding='utf-8') as ofsock:
+            ofsock.write(xml_to_html(data))
+    else:
+        print('Usage: ticha_magic <XML filepath> <optional HTML output path>')
