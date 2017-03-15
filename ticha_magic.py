@@ -110,7 +110,7 @@ class TEItoHTMLTarget:
         if attrib.get('type') == 'catch' or attrib.get('type') == 'catchword':
             self.open_tag('div', {'class':'catch'})
         elif attrib.get('type') == 'sig':
-            self.open_tag('div'), {'class':'sig'}
+            self.open_tag('div', {'class':'sig'})
         else:
             self.open_tag('div')
 
@@ -123,21 +123,21 @@ class TEItoHTMLTarget:
         n_val = attrib.get('n')
         if n_val == '1':
             # value of '1' indicates start of column section
-            self.open_tag('div', {'class':'col'})
-            self.open_tag('p')
+            self.open_tag('div')
+            self.open_tag('div', {'class':'col-xs-6'})
         elif n_val == '':
             # empty value indicates end of column section
             self.in_column = False
             self.lines += self.max_col_lines
             self.max_col_lines = 0
-            self.close_tag('p')
+            self.close_tag('div')
             self.close_tag('div')
         else:
             self.max_col_lines = max(self.max_col_lines, 
                                      self.this_col_lines)
             self.this_col_lines = 0
-            self.close_tag('p')
-            self.open_tag('p')
+            self.close_tag('div')
+            self.open_tag(''div', {'class':'col-xs-6'})
 
     def end(self, tag):
         if self.waiting_for and tag == self.waiting_for[-1]:
