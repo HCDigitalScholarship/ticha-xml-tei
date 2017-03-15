@@ -13,7 +13,7 @@
   La Puebla de los Angeles de Sagrado Orden de<lb/>
   Predicadores.</i>
 </head>
-<p rend="centered">
+<p rend="center">
   Excelentiſsimo Señor.
 </p>
 <p>
@@ -121,14 +121,14 @@
   de la Puebla, y Octubre 12 de 1732 años.
   </p>
   <!-- handwritten note here, not transcribed yet -->
-  <p rend="centered">
+  <p rend="center">
     Excmô Señor:
   </p>
-  <p rend="centered">
+  <p rend="center">
     B. L. M. de V. Exciâ ſu inſimo<lb/>
     Servidor, y Capellan.
   </p>
-  <p rend="centered">
+  <p rend="center">
     <i>Fr. Miguel Pantaleon.</i>  
   </p>
   <fw type="catchword" place="bottom-right">SEN<pc type="hyphen">-</pc></fw>
@@ -142,7 +142,7 @@
     de Predicadores de San Hipolyto Martyr<lb/>
     de Oaxaca.</i>
   </head>
-  <p rend="centered">Señor Proviſor:</p>
+  <p rend="center">Señor Proviſor:</p>
   <p>
     Bien pudiera mi ignorancia valerſe de la eſcuſa del Santo Pro<pc type="hyphen">-</pc><lb break="no"/>
     feta Jeremias, ara eximirme del precepto, en que V. S.<lb/>
@@ -165,15 +165,50 @@
     que es neceſſario ſaber; eſte es mi parecer: <foreign xml:lang="lat"><i>salvo meliori</i></foreign>. Oaxa<pc type="hyphen">-</pc><lb break="no"/>
     ca, y Septiembre 1 de 1732.<lb/>
   </p>
-  <p rend="centered">
+  <p rend="center">
     B. L. M. de V. S. ſu menor ſervidor, y Capellan.
   </p>
-  <p rend="centered">
+  <p rend="center">
     <i>Fr. Nicolas de Casca.</i>
   </p>
   <fw type="catchword" place="bottom-right">APRO.</fw>
 </div><!-- second frontmatter -->
 <pb n="10"/>
+<head>APROBACION<lb/>
+  <i>DEL R. P. PREDICADOR GENERAL FRAY<lb/>
+  Manuel de Laſcari, Cura, y Preſidente de San Andres<lb/>
+  Zautla, del Orden de Predicadores de la Provincia<lb/>
+  de Oaxaca.</i>
+</head>
+<p rend="center">
+  M. R. P. N. M. Provincial.
+</p>
+<p>
+  CON gran guſto, y regocijo mio he obedecido el mandato<lb/>
+  de V. P. M. R. y con el miſmo he leido el Catheciſmo,que<lb/>
+  en el Idioma Zaapoteco del Valle compuſo N. M. R. P. M.<lb/>
+  Fr. Leonardo Levanto, Provincial que fue de eſta Provincia de<lb/>
+  Predicadores de Oaxaca, y Prior tres veces de ſu Convento prin<pc type="hyphen">-</pc><lb break="no"/>
+  cipal, y actual Provincial de la de los Santos Angeles de la Puebla:<lb/>
+  y confieſſo, que ſiendo Yo el menor de los Miniſtros Zaapotecos,<lb/>
+  he tenido mucho que admirar, y que aprender: en èl hallaràn to<pc type="hyphen">-</pc><lb break="no"/>
+  dos los Predicadores Miniſtros zeloſos de eſta Nacion, lo que de<pc type="hyphen">-</pc><lb break="no"/>
+  ſean, y lo que nos dice N. Angelico Dr. y Mrô Santo Thomas:<lb/>
+  <foreign xml:lang="lat" rend="italics">Predicatores debent illuminare incredendis, dirigere en operandis, &amp; vi<pc type="hyphen">-</pc><lb break="no"/>
+  tanda manifeſtare.</foreign> Eſtos es lo que contiene eſte Catheciſmo, y eſte<lb/>
+  el intento piadoſo, y deſeo fervoroſo del Autor, el que los miſe<pc type="hyphen">-</pc><lb break="no"/>
+  rables Indios ſean iluſrados en los Myſterios de nueſtra Santa Fee,<lb/>
+  encaminados â obrar chriſtiana, y charitativamente, para librarſe<lb/>
+  de muchas culpas: y por todo lo qual de uvticia ſe debe dar â la<lb/>
+  Imprente, pues en eſta obra no ay coſa contraria â Nrâ Sta Fee, y<lb/>
+  buenas coſtumbres, antes sí lo mas acryſolado de nuesſtra Santa<lb/>
+  Ley. Eſte es mi parecer: <foreign xml:lang="lat" rend="italics">salvo meliori</foreign>. Caſa de S. Andres Zautla, y<lb/>
+  Junio 26 de 1732 años.
+</p>
+<p rend="center">M. R. P. N. M. Provincial,</p>
+<p rend="center">B. L. M. de V. P. M. R. ſu mas rendido, y afecto ſubdito,</p>
+<p rend="center">Fr. Manuel de Laſcari.</p>
+<fw type="catchword" place="bottom-right">SEN</fw>
 <pb n="11"/>
 <pb n="12"/>
 <pb n="13"/>
@@ -239,7 +274,7 @@ ona <foreign xml:lang="esp">Cruz</foreign>: cotoobi loocuaa xtenninạ: nija xte
 na <foreign xml:lang="esp">Dios</foreign> cuenni loo quellariienni xtennina quellarizaa xihui:<lb/>
 Coroopa <foreign xml:lang="esp">Cruz</foreign> loo ruana: niiaxtenni Bejuanua <foreign xml:lang="esp">Dios</foreign> cueeni<lb/>
 yaquinnii xihuina: coyona <foreign xml:lang="esp">Cruz</foreign> rua lachitoo xtennina: nijax<pc type="hyphen">-</pc><lb break="no"/>
-teni Bejuannana <foreign xml:lang="esp">Dios</foreign> cuenni xilachitoona quellahuenni na<pc type="hyphen">-</pc><lb break="no" rend="centered"/>
+teni Bejuannana <foreign xml:lang="esp">Dios</foreign> cuenni xilachitoona quellahuenni na<pc type="hyphen">-</pc><lb break="no" rend="center"/>
 xihui, chiiña naxihui. Quinniiona ciicarii.<lb/>
 <lb/>
 
@@ -248,7 +283,7 @@ Cruz, &amp;c.</foreign></head><lb/>
 
 NIiaxtenni bennabi <foreign xml:lang="esp">Cruz</foreign>: Peciilla -✠ ciicatonoo: Chan<pc type="hyphen">-</pc><lb break="no"/>
 naa ✠ <foreign xml:lang="esp">Dios</foreign> he! niiaxtenni quelayee ✠ tennina: Ron<pc type="hyphen">-</pc><lb break="no"/>
-nia laaya looya: <hi rend="italic">Laa</hi> Bixooce, chela ✠ Xinni, chela <foreign xml:lang="esp">Eſpiritu<lb rend="centered"/>
+nia laaya looya: <hi rend="italic">Laa</hi> Bixooce, chela ✠ Xinni, chela <foreign xml:lang="esp">Eſpiritu<lb rend="center"/>
 Sancto</foreign>. Gaca ciiga ciica. <foreign xml:lang="esp">Jeſus</foreign>.<lb/>
 <lb/>
 
@@ -261,8 +296,8 @@ Niriziigueelalo ciica raca quiaa quiieba, laaniciica<lb/>
 gaca ruarii layoo; Xicónina quixee quixee penèche ciica annaà:<lb/>
 Chela coniitiloociicalo, ni rexihuina: Ciicatonoo reñiitiloo<pc type="hyphen">-</pc><lb break="no"/>
 Na, ni pexihui lezaana: Chela â cozaanañaaciicalo tonoo,<lb/>
-niiani 	yà quexihùina: Peziilla ciìca tonoo niiaxtenni, quiraa<lb rend="centered"/>
-quella huechiie. Gaca ciiga ciica.<lb rend="centered"/>
+niiani 	yà quexihùina: Peziilla ciìca tonoo niiaxtenni, quiraa<lb rend="center"/>
+quella huechiie. Gaca ciiga ciica.<lb rend="center"/>
 <foreign xml:lang="esp">Jeſus</foreign>.<lb/>
 <lb/>
 
@@ -277,8 +312,8 @@ Bejuannana nariiñeelo: Riteetelo quiraali Benni gon<pc type="hyphen">-</pc><lb 
 naa: Chela quellanaxi, ni coxaanalo, Bejuannana<lb/>
 <foreign xml:lang="esp">Jeſu Chriſto</foreign> riteeteni quiraalli benniniguiio: Ha Channa<lb/>
 <foreign xml:lang="esp">Santa Maria</foreign> he! Xiñaa <foreign xml:lang="esp">Dios</foreign> he: peyoonniciica laachi Xinni<pc type="hyphen">-</pc><lb break="no"/>
-lo Bitoo niiaxtenni tonoo benihuexihui annaà, chela chii ga<pc type="hyphen">-</pc><lb break="no" rend="centered"/>
-llabea quellagooti xtennitonoo. Gaca ciiga ciica.<lb rend="centered"/>
+lo Bitoo niiaxtenni tonoo benihuexihui annaà, chela chii ga<pc type="hyphen">-</pc><lb break="no" rend="center"/>
+llabea quellagooti xtennitonoo. Gaca ciiga ciica.<lb rend="center"/>
 <foreign xml:lang="esp">Jeſus</foreign>.<lb/>
 <lb/>
 
@@ -295,8 +330,8 @@ Quellanaaxi, ni coxaanalo Bejuannana <foreign xml:lang="esp">Jeſu Chriſto</for
 huiciicalo tonoo, chii quetoonena ruarii gueeche layoo gue<pc type="hyphen">-</pc><lb break="no"/>
 che benniaati. Ha huezaalachilo he! Ha huellaalo bennizihe!<lb/>
 Ha zellii Cocooni, naaxi, <foreign xml:lang="esp">Maria</foreign> he! Xiñaa <foreign xml:lang="esp">Dios</foreign> he! Peyo<pc type="hyphen">-</pc><lb break="no"/>
-ozniciica lachi Xinnilo Biitoo: niiani quixoohuina quellahne<pc type="hyphen">-</pc><lb break="no" rend="centered"/>
-zaacalachi zelli lanni quiiebaa. Gaca ciiga<lb rend="centered"/>
+ozniciica lachi Xinnilo Biitoo: niiani quixoohuina quellahne<pc type="hyphen">-</pc><lb break="no" rend="center"/>
+zaacalachi zelli lanni quiiebaa. Gaca ciiga<lb rend="center"/>
 ciica. <foreign xml:lang="esp">Jeſus</foreign>.<lb/>
 
 <head><foreign xml:lang="esp">CREO EN DIOS PADRE TODOPODE<pc type="hyphen">-</pc><lb break="no"/>
@@ -318,8 +353,8 @@ ca : ruácani quíta guetoogotichani benni nabaanilá , benni<pc type="hyphen">-
 gootilá . Huariieliiláchia <foreign xml:lang="esp">Dios</foreign> <foreign xml:lang="esp">Efpiritu Santo</foreign> . Huariieliilachiaá<lb/>
 Xiñaaliina <foreign xml:lang="esp">Sancta Igleſia</foreign> , Huariieliiachia Quellaguentiiilo que<pc type="hyphen">-</pc><lb break="no"/>
 llahuexihui . Huariieliilachia Quellaquebaan gazaaca quiraalii<lb/>
-Benniati. Chela huariieliilachia Quellanabanni zellii. Gaga<lb rend="centered"/>
-Ciiga ciica <foreign xml:lang="esp">Jefus</foreign>.<lb rend="centered"/>
+Benniati. Chela huariieliilachia Quellanabanni zellii. Gaga<lb rend="center"/>
+Ciiga ciica <foreign xml:lang="esp">Jefus</foreign>.<lb rend="center"/>
 
 <head><foreign xml:lang="esp">LOS ARTICULOS DE LA FEE, SON<lb/>
 catorze, &amp;c.</foreign></head><lb/>
