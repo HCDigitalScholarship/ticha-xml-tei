@@ -29,3 +29,7 @@ div {
  .sig { 
 	text-align: center;
 }
+
+p {
+	text-indent: 30px;
+}
