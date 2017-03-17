@@ -95,7 +95,7 @@ class TEItoHTMLTarget:
             self.this_col_lines += 1
         else:
             self.lines += 1
-            self.open_and_close_tag('br')
+        self.open_and_close_tag('br')
 
     def tag_head(self, attrib):
         self.open_tag('h4')
@@ -137,7 +137,7 @@ class TEItoHTMLTarget:
                                      self.this_col_lines)
             self.this_col_lines = 0
             self.close_tag('div')
-            self.open_tag(''div', {'class':'col-xs-6'})
+            self.open_tag('div', {'class':'col-xs-6'})
 
     def end(self, tag):
         if self.waiting_for and tag == self.waiting_for[-1]:
