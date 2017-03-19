@@ -1,12 +1,12 @@
-﻿<?xml version="1.0" encoding="UTF-8"?><?xml-model href="TEISchema_current.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="TEISchema_current.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI>
 <text>
 <div xml:lang="esp"> <!-- frontmatter -->
 <div> <!-- first frontmatter -->
 <pb n="6"/>
 <head>PARECER<lb/>
-  <i>DEL R. PADRE PREDICADOR FRA
-  Migue Pantaleon, Maeſtro de Novictos, y<lb/>
+  <i>DEL R. PADRE PREDICADOR FRAY<lb/>
+  Miguel Pantaleon, Maeſtro de Novictos, y<lb/>
   Compañero del M. R. P. M. Fr. Leonardo<lb/>
   Levanto, digniſsimo Prior Provincil de eſta<lb/>
   Provincia de San Miguel, y Santos Angeles de<lb/>
@@ -129,7 +129,7 @@
     Servidor, y Capellan.
   </p>
   <p rend="center">
-    <i>Fr. Miguel Pantaleon.</i>  
+    <i>Fr. Miguel Pantaleon.</i>
   </p>
   <fw type="catchword" place="bottom-right">SEN<pc type="hyphen">-</pc></fw>
 </div> <!-- first frontmatter -->
@@ -1481,7 +1481,7 @@ Bitoo Xinni, xiBiitoona,<lb />
 Reaaca benni hualaachi,<lb />
 Ralleni roobi pillaachi,<lb />
 Laatè rago manni gonna.
-	
+
 <fw type="catchword" place="bottom-right">
   <foreign xml:lang="esp"><hi>Mys<pc type="hyphen">-</pc></hi></foreign>
 </fw>
@@ -1525,6 +1525,60 @@ Laatè rago manni gonna.
 
 <!-- Tristan Pepin's section -->
 <pb n="49"/>
+
+<!-- James Truitt's section -->
+<pb n="50"/>
+<div rend="center">
+	<head><foreign xml:lang="esp"><hi rend="italics">
+		DEPRECACION<lb/>
+		A LA SANTISSIMA VIRGEN.
+	</hi></foreign></head>
+	CHanna Xonnaxi quiieba,<lb/>
+	Cogochilo lachitooya<lb/>
+	Quizii niça huiińa looya<lb/>
+	Loo calooxe quellanaha,<lb/>
+	Ni coxaaca xiBiitooya.<lb/>
+</div>
+<div rend="center">
+	<head><foreign xml:lang="esp"><hi rend="italics">
+		MYSTERIO PRIMERO.<lb/>
+		La Oracion del Huerto.
+	</hi></foreign></head>
+	COlooxe cotaago xchiini,<lb/>
+	Cuyoo Jesvs loo guiińaa,<lb/>
+	Xooxiibi, pezaabińaa<lb/>
+	Loo Dios Bixooce nachiini.<lb/>
+	Cuyeexaca lachitooni,<lb/>
+	Chiiquee loo xguere piniini<lb/>
+	Xi Rinni Jeſus pixiini,<lb/>
+	Ciica niça loona looni.<lb/>
+</div>
+
+<div rend="center">
+	<head><foreign xml:lang="esp"><hi rend="italics">
+		MYSTERIO SEGUNDO.<lb/>
+		De los Azotes â la Columna
+	<head><foreign xml:lang="esp"><hi rend="italics">
+	COroopa ticha rizaa,<lb/>
+	Ni ragaaliibi Biitoo,<lb/>
+	Tiipa teete riennitoo<lb/>
+	Loo xquellanaxihuina.<lb/>
+	Huatuhui, huaziee rizaaca<lb/>
+	Cooqui, rohuini xillaa,<lb/>
+</div>
+<fw type="catchword" place="bottom-right">Ni</fw>
+
+<!-- Avery Aghazarian's section -->
+<pb n="51"/>
+
+<!-- James Faville's section -->
+<pb n="52"/>
+
+<!-- Claire Benham's section -->
+<pb n="53"/>
+
+<!-- Tristan Pepin's section -->
+<pb n="54"/>
 
 </text>
 </TEI>
