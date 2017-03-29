@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="TEISchema_current.rnc" type="application/relax-ng-compact-syntax"?>
+﻿<?xml version="1.0" encoding="UTF-8"?><?xml-model href="TEISchema_current.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI>
 <text>
 <div xml:lang="esp"> <!-- frontmatter -->
@@ -210,6 +210,30 @@
 <p rend="center">Fr. Manuel de Laſcari.</p>
 <fw type="catchword" place="bottom-right">SEN</fw>
 <pb n="11"/>
+<head>CENSURA<lb/>
+  <i>DEL R. P. PREDICADOR GENERAL<lb/>
+  Fray Antonio de Medina, Cura, y Preſidente<lb/>
+  del Curato de Ayuqueſco, de la Provincia de<lb/>
+  San Hipolyto Martyr del Sagrado Oren de Pre<pc type="hyphen">-</pc><lb break="no"/>
+  dicadores de la Ciudad de Oaxaca.</i>
+</head>
+<p rend="center">
+  M. R. P. N. M. Provincial.
+</p>
+<p>
+  POR mandado de V. P. Muy Reverenda he leido (con to<pc type="hyphen">-</pc><lb break="no"/>
+  do guſto, y provecho mio) el Catheciſmo de la Doctri<pc type="hyphen">-</pc><lb break="no"/>
+  na Chriſtiana, que en el Idioma Zaapoteco el Valle: diſputo<lb/>
+  el fervoroſo zelo de Nuevtro Muy Reverendo Padre Maeſtro<lb/>
+  Fray Leonardo Levanto, Provincial que fue de eſta Santa Pro<pc type="hyphen">-</pc><lb break="no"/>
+  vincia de Oaxaca, varias vecces Prior del Convento grande, y<lb/>
+  actual Provincial de la Provincia de los Santos Angeles de la<lb/>
+  Puebla; y doy las gracias a V. P. Muy Reverenda de averme<lb/>
+  dado el motivo de tanto regocijo de ver cumplidos mis de<pc type="hyphen">-</pc><lb break="no"/>
+  ſeos en que ſe imprima tal Obra, pues en ella tienen todos<lb/>
+  los que profeſſan eſte Idioma, mucho que admirar, y el alivio<lb/>
+  de enſeñarla a ſus Feligreſes.
+</p>
 <pb n="12"/>
 <pb n="13"/>
 <pb n="14"/>
