@@ -118,11 +118,13 @@ class TEItoHTMLTarget:
         if attrib.get('type') != 'pdf':
             self.new_page()
 
-    def tag_p(self, attrib):
+    def tag_div(self, attrib):
         if attrib.get('rend') == 'center':
-            self.open_tag('p', {'class':'center'})
+            self.open_tag('div', {'class':'center'})
         else:
-            self.open_tag('p')
+            self.open_tag('div')
+
+
 
     def tag_cb(self, attrib):
         self.in_column = True
@@ -154,8 +156,8 @@ class TEItoHTMLTarget:
             self.close_tag('span')
         elif tag == 'fw':
             self.close_tag('div')
-        elif tag == 'p':
-            self.close_tag('p')
+        elif tag == 'div':
+            self.close_tag('div')
 
     def data(self, data):
         if not self.waiting_for and not self.in_header:
