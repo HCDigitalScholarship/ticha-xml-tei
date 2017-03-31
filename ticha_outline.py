@@ -45,11 +45,47 @@ def sections_to_outline(sections):
 # class to represent Sections
 Section = namedtuple('Section', ['number', 'title', 'page'])
 
+class ExtractSectionsTarget:
+    def __init__(self, first_page=0):
+        self.page = first_page
+        self.section_in_progress = None
+        self.sections = []
+        self.get_title = False
+
+    def start(self, tag, attrs):
+        if tag == 'pb' and attrs.get('type') != 'pdf':
+            self.page += 1
+        elif tag == 'div':
+            for key, value in attrs.items():
+                if key.endswith('id') and value.startswith('levanto'):
+                    number = value[7:]
+                    self.in_progress = Section(number, '', str(self.page))
+                    break
+        elif tag == 'head' and attrs.get('type') == 'outline':
+            self.get_title = True
+
+    def end(self, tag):
+        pass
+
+    def data(self, data):
+        if self.get_title:
+            if self.in_progress:
+                complete = self.in_progress._replace(title=data)
+                self.sections.append(complete)
+            self.get_title = False
+
+    def close(self):
+        pass
+
 def extract_sections(data):
     """Given XML data as a string, return a list of Section objects."""
     # this needs to be filled in to actually extract the sections
-    return [Section('1', 'Front matter', '0'), Section('1.1', 'Cover of book', '0'),
-            Section('2', 'Contents', '3')]
+    target = ExtractSectionsTarget(first_page=5)
+    parser = ET.XMLParser(target=target)
+    parser.feed(data)
+    return target.sections
+    #return [Section('1', 'Front matter', '0'), Section('1.1', 'Cover of book', '0'),
+    #        Section('2', 'Contents', '3')]
 
 if __name__ == '__main__':
     if 2 <= len(sys.argv) <= 3:
