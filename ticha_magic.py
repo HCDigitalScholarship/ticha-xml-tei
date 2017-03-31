@@ -124,6 +124,12 @@ class TEItoHTMLTarget:
         else:
             self.open_tag('div')
 
+    def tag_p(self, attrib):
+        if attrib.get('rend') == 'center':
+            self.open_tag('p', {'class':'center'})
+        else:
+            self.open_tag('p')
+
 
 
     def tag_cb(self, attrib):
@@ -158,6 +164,8 @@ class TEItoHTMLTarget:
             self.close_tag('div')
         elif tag == 'div':
             self.close_tag('div')
+        elif tag == 'p':
+            self.close_tag('p')
 
     def data(self, data):
         if not self.waiting_for and not self.in_header:
