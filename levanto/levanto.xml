@@ -1,7 +1,32 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="TEISchema_current.rnc" type="application/relax-ng-compact-syntax"?>
+﻿<?xml version="1.0" encoding="UTF-8"?><?xml-model href="TEISchema_current.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI>
 <text>
 <div xml:lang="esp"> <!-- frontmatter -->
+<pb n="1"/>
+<!-- cover -->
+<pb n="2"/>
+<!-- blank -->
+<pb n="3"/>
+<!-- blank -->
+<pb n="4"/>
+<head rend="center">
+  C A T H E C I S M O<lb/>
+  D E L A L E N G U A<lb/>
+  ZAAPOTECA.<lb/>
+  DISPUESTO
+</head>
+<p rend="center">
+  <i>Por el M. R. P. Maeſtro Fray Leonard Levanto.<lb/>
+  Prior Provincial de la Provincia de San Miguel,<lb/>
+  y Santos Angeles de la Puebla, del Orden de Predicadores.</i>
+</p>
+<!-- woodcut -->
+<p rend="center">
+  Reimpreſſo en la Imprenta del Colegio Real de San<lb/>
+  Ignacio de la Puebla de los Angeles. Año de 1766.
+</p>
+<pb n="5"/>
+<!-- blank -->
 <div> <!-- first frontmatter -->
 <pb n="6"/>
 <head>PARECER<lb/>
@@ -1590,26 +1615,37 @@ DOCTRINA CHRISTIANA.</foreign></head>
 
 <!-- Avery Aghazarian's section -->
 <pb n="46"/>
-
-<foreign xml:lang="esp">Jesus, Maria, Y Joseph.
-Mysterios
-Del Santissimo 
-Rosario. 
-Mysterios Gososoz
-<hi rend ="italic">Deprecacion.</hi></foreign>
-
-Nljaxtenni collaabaliia
-Mysterios huezaacalachi,
-Xinaa, ruaya quicaachi
+<!-- decoration -->
+<p rend="center">JESUS, MARIA, Y JOSEPH.</p>
+<!-- decoration -->
+<head xml:lang="esp" rend="center">
+MYSTERIOS<lb/>
+DEL SANTISSIMO<lb/>
+ROSARIO.<lb/>
+</head>
+<!-- decoration -->
+<head xml:lang="esp" rend="center">
+  MYSTERIOS GOZOSOS.
+</head>
+<head xml:lang="esp" rend="center">
+  <hi rend ="italic">DEPRECACION.</hi>
+</head>
+<p>
+NIjaxtenni collaabaliia<lb/>
+Mysterios huezaacalachi,<lb/>
+Xinaa, ruaya quicaachi<lb/>
 Loo becoogo, xi Coquiia. 
-
-<foreign xml:lang="esp"><hi rend="italic">Mysterio Primero. 
-De la Encarnacion.</hi></foreign>
-
-Cochiina xquehui Quiiebaa
-Pelloohuichani Xonaaxi:
-Gaca Xinaa Quellanaaxi
+</p>
+<head xml:lang="esp" rend="center">
+  <hi rend="italic">MYSTERIO PRIMERO.<lb/>
+  De la Encarnacion.</hi>
+</head>
+<p>
+Cochiina xquehui Quiiebaa<lb/>
+Pelloohuichani Xonaaxi:<lb/>
+Gaca Xinaa Quellanaaxi<lb/>
 Zooloo quellahueziillaa;
+</p>
 
 <fw type="catchword" place="bottom-right">
 Coxi<pc type="hyphen">-</pc>
