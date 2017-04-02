@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?><?xml-model href="TEISchema_current.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="TEISchema_current.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI>
 <text>
 <div xml:lang="esp"> <!-- frontmatter -->
@@ -718,13 +718,13 @@ ni, laa <foreign xml:lang="esp">Avaricia</foreign>.<lb/>
 
 	7. Cooche loo: Quellacobeete, quellaleaa, laa <foreign xml:lang="esp">Pereza</foreign>.<lb/>
 
-<foreign xml:lang="esp">CONTRA ESTOS SIETE VICIOS AY:<lb/>
-	Siete Virtudes, &amp;c.</foreign><lb/>
+<head><foreign xml:lang="esp">CONTRA ESTOS SIETE VICIOS AY:<lb/>
+	Siete Virtudes, &amp;c.</foreign><lb/></head>
 ALaarii: Zeecaacheloo quellanazacca, nilaa Virtudes, ni<lb/>
 nariitillani loo quellahuexìhui narroba, niròttini anima,<lb/>
 	ni laa <foreign xml:lang="esp">pecados mortales</foreign>.<lb/>
 
-1. Cotoobi loo: Quellanazaca naca Quellanatoolachi, niri <pc type="hyphen">-</pc>
+1. Cotoobi loo: Quellanazaca naca Quellanatoolachi, niri <pc type="hyphen">-</pc><lb />
 	Tillaneeni quellariyaalàchi, laa <foreign xml:lang="esp">Humildad contra ſobervia</foreign>.<lb/>
 
 2. Coroopa loo: Quellanazaaca naca Quella huezaalachi,<lb/>
@@ -746,8 +746,8 @@ laa nayaa, laà nazoobàcháhui lezaani, laa Chasidad, ô<lb/>
 naqueenelachi, ni ritillañeeni quellacobeete, quellalea,<lb/>
 	laa <foreign xml:lang="esp">Diligencia, contra Pereza</foreign>.
 
-<foreign xml:lang="esp">LOS ENEMIGOS DE EL ALMA, SON<lb/>
-	tres, &amp;c.</foreign><lb/>
+<head><foreign xml:lang="esp">LOS ENEMIGOS DE EL ALMA, SON<lb/>
+	tres, &amp;c.</foreign></head><lb/>
 
 ALaarii: Choonaloo ni rizooba quelayeeni, ni rigooxihui <pc type="hyphen">-</pc><lb/>
 ni zellii tonoo benni <pc type="hyphen">-</pc>aati, ni ràbini xquelayee <foreign xml:lang="lat">Anima</foreign>.<lb/>
@@ -763,8 +763,8 @@ ni zellii tonoo benni <pc type="hyphen">-</pc>aati, ni ràbini xquelayee <foreig
 	2. Coroopa loo: bezeello, laa <foreign xml:lang="esp">Demonio</foreign>.<lb/>
 	3. Coyoona loo: pellalaati, laa <foreign xml:lang="esp">Carne</foreign>.<lb/>
 
-<foreign xml:lang="esp">LAS VIRTUDES, QUE HEMOS DE TENER,<lb/>
-	ſon ſiete, &amp;c.</foreign><lb/>
+<head><foreign xml:lang="esp">LAS VIRTUDES, QUE HEMOS DE TENER,<lb/>
+	ſon ſiete, &amp;c.</foreign></head><lb/>
 
 ALaarii: Caache Quellanazaaca, ni ronnini nazaacalàchi<lb/>
 	benniaati laa <foreign xml:lang="esp">Virtudes Theologales</foreign> la, <foreign xml:lang="esp">Cardinales</foreign> lá:<lb/>
@@ -773,8 +773,8 @@ chîgaliini tonoo loo Bejuannana Dios Zeetaapa Quella <pc type="hyphen">-</pc><l
 	nazaaca, laa <foreign xml:lang="esp">Cardinales</foreign>, rogozoochahuini tonoo loo<lb/>
 benniaati ruarii guechelayoo.<lb/>
 
-<foreign xml:lang="esp">LAS VIRTUDES THEOLOGALES, SON<lb/>
-	tres, &amp;c.</foreign><lb/>
+<head><foreign xml:lang="esp">LAS VIRTUDES THEOLOGALES, SON<lb/>
+	tres, &amp;c.</foreign></head><lb/>
 
 ALaarii: Chonaloo Quellanazaaca, <foreign xml:lang="esp">laa Virtudes Theo <pc type="hyphen">-</pc><lb/>
 	logales</foreign>.<lb/>
@@ -786,8 +786,8 @@ ALaarii: Chonaloo Quellanazaaca, <foreign xml:lang="esp">laa Virtudes Theo <pc t
 3. Coyoona loo: Quellanazaaca nàca Quellaconnachii Dios,<lb/>
 	laa <foreign xml:lang="esp">Charidad</foreign>.<lb/>
 
-<foreign xml:lang="esp">LAS VIRTUDES CARDINALES, SON<lb/>
-quatro, &amp;c.</foreign><lb/>
+<head><foreign xml:lang="esp">LAS VIRTUDES CARDINALES, SON<lb/>
+quatro, &amp;c.</foreign></head><lb/>
 
 	ZEetaapa Quellanazaaca naciilla <foreign xml:lang="esp">Cardinales</foreign>: quellaniron <pc type="hyphen">-</pc><lb/>
 nini nazaaca rogozoochahuini benniáti lezaani.<lb/>
@@ -811,8 +811,8 @@ quiraalii loo, ni naqiiña xiténni yoobi bènni: ciica na <pc type="hyphen">-</
 ca quellahuaagohuaxiia quellacóhuéhuaxiia, quellaco <pc type="hyphen">-</pc><lb/>
 	tagaacihuaxiia, quellacoguiitehuaxiia, laa <foreign xml:lang="esp">Templanza</foreign>.<lb/>
 
-<foreign xml:lang="esp">LAS POTENCIAS DEL ALMA SON<lb/>
-	tres, &amp;c.</foreign><lb/>
+<head><foreign xml:lang="esp">LAS POTENCIAS DEL ALMA SON<lb/>
+	tres, &amp;c.</foreign></head><lb/>
 
 ALaarii: Chona.loo quellanaguiichi xtenni Anima, laa <foreign xml:lang="esp">Po <pc type="hyphen">-</pc><lb/>
 	tencias del Alma</foreign>.<lb/>
@@ -820,8 +820,8 @@ ALaarii: Chona.loo quellanaguiichi xtenni Anima, laa <foreign xml:lang="esp">Po 
 	2. Coroopa loo: Quellariienni, la <foreign xml:lang="esp">Entendimiento</foreign>.<lb/>
 	3. Coyoona loo: QUellaracalachi, laa <foreign xml:lang="esp">Voluntad</foreign>.<lb/>
 
-<foreign xml:lang="esp">LOS SENTIDOS CORPORALES SON<lb/>
-	cinco, &amp;c.</foreign><lb/>
+<head><foreign xml:lang="esp">LOS SENTIDOS CORPORALES SON<lb/>
+	cinco, &amp;c.</foreign></head><lb/>
 
 ALaarii: Gaayo loo quellanaguiichi xtenni pellalati, ni nien <pc type="hyphen">-</pc><lb/>
 niloo.<lb/>
@@ -831,8 +831,8 @@ niloo.<lb/>
 4. Cotaapa loo: Quellahueniixi, laa <foreign xml:lang="esp">Guſtar</foreign>.<lb/>
 	5. Cooyo loo: Quellacoganañaa, laa <foreign xml:lang="esp">Palpar</foreign>.<lb/>
 
-<foreign xml:lang="esp">LOS DONES DE EL ESPIRITU SANTO<lb/>
-ſon ſiete, &amp;c.</foreign><lb/>
+<head><foreign xml:lang="esp">LOS DONES DE EL ESPIRITU SANTO<lb/>
+ſon ſiete, &amp;c.</foreign></head><lb/>
 
 Alaari: Caacheloo Xillaatoo xtènni Efpiritu Santo, ni<lb/>
 
@@ -855,7 +855,7 @@ nnizii lezaani, laa <foreign xml:lang="esp">Piedad</foreign>.<lb/>
 7.Coocge loo: Quellanachiibi Bejuanna Dios, laa <foreign xml:lang="esp">Te <pc type="hyphen">-</pc><lb/>
 	mor de Dios</foreign><lb/>
 
-EXPLICACION.<lb/>
+<head><foreign xml:lang="esp">EXPLICACION.</foreign></head><lb/>
 
 QUiaache loo nirii ribeexilla loo nirii ribeexilaa Dios Efpiritu Santo, róhuini<lb/>
 benniaati, niiani gaca naguiio, gaca naguiichilachini, co <pc type="hyphen">-</pc><lb/>
@@ -864,8 +864,8 @@ pea quellabenn(?)iaati: niácani naguiñe quezaabiquique,<lb/>
 quezaabiñaatcnoo loo ni, quetiiñana quitoobi láchina<lb/>
 goneeche ciicani tonoo Xilla nirii.<lb/>
 
-LAS BIENAVENTURANZAS SON<lb/>
-Ocho, &amp;c.<lb/>
+<head><foreign xml:lang="esp">LAS BIENAVENTURANZAS SON<lb/>
+Ocho, &amp;c.</foreign></head><lb/>
 
 ALaarii Xoono cue Quellabaa, nirizii, ni rizaacabaa ben <pc type="hyphen">-</pc><lb/>
 niaati nazaaca lanni quehuibaa.<lb/>
@@ -1584,7 +1584,7 @@ zeeonnini tolla.<lb/>
 
 	<!-- Floral decoration -->
 
-<head><foreign xml:lang="esp">FIN<lb/>
+<lb /><head><foreign xml:lang="esp">FIN<lb/>
 DE LA EXPLICACION DE LA<lb/>
 DOCTRINA CHRISTIANA.</foreign></head>
 
