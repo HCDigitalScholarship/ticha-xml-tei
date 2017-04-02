@@ -27,7 +27,7 @@
 </p>
 <pb n="5"/>
 <!-- blank -->
-<div> <!-- first frontmatter -->
+<div> <!-- first frontmatter letter -->
 <pb n="6"/>
 <head>PARECER<lb/>
   <i>DEL R. PADRE PREDICADOR FRAY<lb/>
@@ -157,8 +157,8 @@
     <i>Fr. Miguel Pantaleon.</i>
   </p>
   <fw type="catchword" place="bottom-right">SEN<pc type="hyphen">-</pc></fw>
-</div> <!-- first frontmatter -->
-<div> <!-- second frontmatter -->
+</div> <!-- first frontmatter letter -->
+<div> <!-- second frontmatter letter -->
 <pb n="9"/>
   <head>
     SENTIR<lb/>
@@ -197,7 +197,8 @@
     <i>Fr. Nicolas de Casca.</i>
   </p>
   <fw type="catchword" place="bottom-right">APRO.</fw>
-</div><!-- second frontmatter -->
+</div> <!-- second frontmatter letter -->
+<div> <!-- third frontmatter letter -->
 <pb n="10"/>
 <head>APROBACION<lb/>
   <i>DEL R. P. PREDICADOR GENERAL FRAY<lb/>
@@ -234,6 +235,8 @@
 <p rend="center">B. L. M. de V. P. M. R. ſu mas rendido, y afecto ſubdito,</p>
 <p rend="center">Fr. Manuel de Laſcari.</p>
 <fw type="catchword" place="bottom-right">SEN</fw>
+<!-- third frontmatter letter -->
+<!-- fourth frontmatter letter -->
 <pb n="11"/>
 <head>CENSURA<lb/>
   <i>DEL R. P. PREDICADOR GENERAL<lb/>
@@ -290,6 +293,8 @@
 <p rend="center">B. L. M. de V. P. M. R. ſu menor <lb/> Subdito,</p>
 <p rend="center"><i>Fray Antonio de Medina,<lb/>Pred. Gen. y Cura.</i></p>
 <fw type="catchword" place="bottom-right"><i>SUMA</i></fw>
+</div> <!-- fourth frontmatter letter -->
+<div> <!-- suma de las licensias -->
 <pb n="13"/>
 <head><i>SUMA DE LAS LICENCIAS.</i></head>
 <!-- body of this page is in smaller text -->
@@ -333,11 +338,59 @@
 <p rend="center">Por mandado de N. M. R. P. Mrô Provincial.</p>
 <p rend="center"><i>Fr. Joſeph de Acoſta,<lb/>Lector de Viſperas, y compañero.</i></p>
 <fw type="catchword" place="bottom-right"><i>AL</i></fw>
+</div> <!-- suma de las licencias -->
+<div> <!-- al que leyere -->
 <pb n="14"/>
-<!-- to transcribe -->
+<head rend="center">AL QUE LEYERE</head>
+<p>
+  ESTE CATHECISMO, QUE CON<pc type="hyphen">-</pc><lb break="no"/>
+  tiene las Oraciones, y preguntas bre<pc type="hyphen">-</pc><lb break="no"/>
+  ves de la Doctrina Chriſtiana en len<pc type="hyphen">-</pc><lb break="no"/>
+  gua Zaapoteca de el Valle, ſe ha re<pc type="hyphen">-</pc><lb break="no"/>
+  cogido quanto â ſus partes, de la Car<pc type="hyphen">-</pc><lb break="no"/>
+  tilla, que imprimio el Señor Obiſpo<lb/>
+  Feria, Miniſtro de eſte Idioma, y de los manuſcriptos<lb/>
+  de los Religioſos Miniſtros antiguos, eſpecialmente del<lb/>
+  Reverendo Padre Preſentado Fray Jacinto Vilches,<lb/>
+  cuyas ſon las Conſideraciones de los Myſterios del<lb/>
+  Santiſssimo Roſario, que ordinariamente ſe cantan en<lb/>
+  las Igleſias de eſta Nacion, y van al fin de eſta. Haſe<lb/>
+  recopilado â inſtancias de Miniſtros de Eſcuela tenga por<lb/>
+  donde enſeñarla, eſcuſandoles el grave trabaxo de eſ<pc type="hyphen">-</pc><lb break="no"/>
+  cribirla, no ſin peligro de muchas erratas de los Ama<pc type="hyphen">-</pc><lb break="no"/>
+  nuenſes. El Idioma es el que ſe habla en Zaachiilla,<lb/>
+  Cabezera, y Corte, que fue de eſta Nacion, y que<lb/>
+  entienden todos los Indios Zaapotecos de el Valle;<lb/>
+  aunque en ſus Pueblos aya la variedad, que ſaben los<lb/>
+  Miniſtros. Haſe procurado, que vaya eſcrito con la<lb/>
+  mejor ortografia con que ſe puede eſcribir eſta len<pc type="hyphen">-</pc><lb break="no"/>
+  gua.  Quiera Dios ceda en gloria ſuya, y en utilidad<lb/>
+  eſpiritual de eſtos Naturales. Advierto, que no todos<lb/>
+  vocablos, que eſtan eſcritos con dos <i>ll</i>, ſe pro<pc type="hyphen">-</pc><lb break="no"/>
+</p>
+<fw type="catchword" place="bottom-right">nun<pc type="hyphen">-</pc></fw>
 <pb n="15"/>
-<!-- to transcribe -->
-</div> <!-- end frontmatter -->
+<p>
+  nuncian como <i>elles</i> en romance; ſino ſolo algunos:
+  los mas ſe pronuncian ſeparadas las <i>eles</i>, cargando la
+  vocal antecedente ſobra la primera <i>ele</i>; y la ſegunda
+  <i>ele</i> cargando ſobre la coval ſiguiente: V. g. <foreign xml:lang="zap" rend="italics">Rol-la</foreign>.
+  Y en tierra caliente la primera <i>ele</i>, la pronuncian co-
+  mo <i>n</i>. y la ſegunda como <i>d</i>. V. g. <foreign xml:lang="zap" rend="italics">Quella</foreign>, dicen <i>Quenda</i>:
+  y aſsi los demàs vocablos, que tienen dos <i>ll</i>. ſeparadas:
+  Iten en tierra Caliente la letra <i>e</i>. ordinariamente, la pro-
+  nuncian como <i>i</i>. V. g. <foreign xml:lang="zap" rend="italics">Rete</foreign>, dicen <i>Riti</i>. Quando el voca-
+  blo de mas de dos ſilabas, tiene en la penultima dos con-
+  ſonantes, ò dos vocales, ſe ha de pronunciar largo:
+  quando no tuviere mas que una, ſe ha de pronun-
+  ciar breve. V. g. <foreign xml:lang="zap" rend="italics">Naquiñe</foreign>, y <foreign xml:lang="zap" rend="italics">Bejuana</foreign>, ſe dicen, y pro-
+  nuncian largos. <foreign xml:lang="zap" rend="italics">Riteetelo: huariieliilachia</foreign>, breves. VA-
+  LE.
+</p>
+<p rend="center"><i>Fray Leonardo Levanto.</i></p>
+</div> <!-- all que leyere -->
+</div> <!-- end of frontmatter -->
+
 <!-- James Truitt's section -->
 <pb n="16"/>
 <cb n="1"/>
@@ -377,7 +430,7 @@ queni<lb/>
 
 <head><foreign xml:lang="esp">CATHECISMO DE<lb/>
 LA DOCTRINA CHRISTIANA, EN LENGUA<lb/>
-Zapoteca de el Valle.</foreign></head>
+Zaapoteca de el Valle.</foreign></head>
 
 <head><foreign xml:lang="esp"><hi rend="italic">Todo Fiel Chriſtiano, &amp;c.</hi></foreign></head><lb/>
 
@@ -388,7 +441,6 @@ ni loo yoobi Sancta Cruz gocappelachi gatini : xitenni cocii<pc type="hyphen">-<
 llaani tonoo loo quellatolla ñeegaa loo xquellaritille 	naxi<pc type="hyphen">-</pc><lb/>
 
 <fw type="sig" place="bottom-center">A</fw>
-
 <fw type="catchword" place="bottom-right">hui</fw>
 
 <pb n="17" break="no"/>
