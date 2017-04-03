@@ -106,6 +106,13 @@ class TEItoHTMLTarget:
         else:
             self.open_tag('span')
 
+    def tag_foreign(self, attrib):
+        # note that it is rend="italics", with an 's'
+        if attrib.get('rend') == 'italics':
+            self.open_tag('span', {'class':'italic'})
+        else:
+            self.open_tag('span')
+
     def tag_fw(self, attrib):
         if attrib.get('type') == 'catch' or attrib.get('type') == 'catchword':
             self.open_tag('div', {'class':'catch'})
@@ -166,6 +173,8 @@ class TEItoHTMLTarget:
             self.close_tag('div')
         elif tag == 'p':
             self.close_tag('p')
+        elif tag == 'foreign':
+            self.close_tag('span')
 
     def data(self, data):
         if not self.waiting_for and not self.in_header:
