@@ -6,7 +6,7 @@ import xml.etree.ElementTree as ET
 from ticha_magic import xml_to_html
 
 class TichaMagicTests(unittest.TestCase):
-    directories = ('magic_tests',)
+    directories = ('tests',)
 
     def test_directory(self):
         for directory in self.directories:

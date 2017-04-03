@@ -39,10 +39,6 @@ SPELLCHOICES = ('orig', 'reg')
 ABBRCHOICES = ('abbr', 'expan')
 
 class TEItoHTMLTarget:
-    stylesheets = ('https://ticha.haverford.edu/static/zapotexts/css/page_detail_style.css',
-                   'https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css',)
-    scripts = ('https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js',)
-
     def __init__(self, spellchoice='orig', abbrchoice='abbr'):
         # choice of original (<orig>) or regularized (<reg>) spelling
         self.spellchoice = spellchoice
@@ -57,30 +53,7 @@ class TEItoHTMLTarget:
         self.max_col_lines = 0
         self.in_column = False
         self.in_header = True
-        self.initial_html()
-
-    def initial_html(self):
-        self.trb.start('html')
-        self.trb.start('head')
-        self.trb.start('meta', {'charset':'utf-8'})
-        self.trb.end('meta')
-        for stylesheet in self.stylesheets:
-            self.trb.start('link', {'rel':'stylesheet', 'href':stylesheet})
-            self.trb.end('link')
-        for script in self.scripts:
-            self.trb.start('script', {'type':'text/javascript', 'src':script})
-            # this makes sure that the <script> tag is not self-closing
-            self.trb.data(' ')
-            self.trb.end('script')
-        self.trb.end('head')
-        self.trb.start('body')
-        # this HTML makes the document look the way it does on the website
-        self.trb.start('div', {'class':'container'})
-        self.trb.start('div', {'class':'row text center'})
-        self.trb.start('div', {'class':'col-lg-6 col-md-6 col-sm-6 col-xs-12'})
-        self.trb.data(' ')
-        self.trb.end('div')
-        self.trb.start('div', {'class':'col-lg-6 col-md-6 col-sm-6 col-xs-12'})
+        self.trb.start('div')
 
     def start(self, tag, attrib):
         if self.waiting_for:
@@ -241,7 +214,7 @@ class TEItoHTMLTarget:
     def __str__(self):
         if not hasattr(self, 'as_str'):
             self.close()
-        return '<!DOCTYPE html>' + self.as_str
+        return self.as_str
 
 def line_number_div(lines):
     line_nos = '\n'.join('{}<br/>'.format(i + 1) for i in range(lines))
