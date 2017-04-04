@@ -680,8 +680,10 @@ ALaarij: Ni rennabea Xiñaana <foreign xml:lang="esp">Santa Igleſia</foreign>, 
 	cias</foreign> lo Yohotoo lichi Bejuannana <foreign xml:lang="esp">Dios</foreign>, chii rennabea<lb/>
 		Xiñaana <foreign xml:lang="esp">Santa Igleſia</foreign>. Gàaca ciiga ciica. <foreign xml:lang="esp">Jesſus</foreign>.<lb/>
 
-<foreign xml:lang="esp"><head><p rend="center">LOS SACRAMENTOS DE LA SANTA MA<pc type="hyphen">-</pc><lb/>
-dre Iglesſia</foreign>, &amp;c.</p></head><lb/><lb/>
+<head>
+  <foreign xml:lang="esp">LOS SACRAMENTOS DE LA SANTA MA<pc type="hyphen">-</pc><lb/>
+  dre Iglesſia</foreign>, &amp;c.
+</head><lb/><lb/>
 
 ALaarij: Quellahuennitiiloo quellahuexcihui, ni laa <foreign xml:lang="esp">Sacra-<lb/>
 mentos</foreign>: càni cache Xiibaa.<lb/>
@@ -761,8 +763,8 @@ lanazij.<lb/>
 laà Quellarinniilaaya loo Bejuannana <foreign xml:lang="esp">Dios</foreign>, niiaxtenni<lb/>
 benni nabaanilà, benni gootilá. Gaca ciiga ciica. <foreign xml:lang="esp">Jeſus</foreign>.<lb/><lb/>
 
-<head><pc rend="center"><foreign xml:lang="esp">LOS PECADOS MORTALES SON<lb/>
-ſiete, &amp;c</foreign>.</head></pc><lb/><lb/>
+<head><foreign xml:lang="esp">LOS PECADOS MORTALES SON<lb/>
+ſiete, &amp;c</foreign>.</head><lb/><lb/>
 
 A Laarii: Quellahuechiie, tolla roo, tolla rotilla caache loo<lb/>
 nacanni.<lb/>
@@ -1014,8 +1016,10 @@ llahuexihuini.<lb/>
 Quigaa loo nirii lezaaca quniniitiloo tollahuiini, ni laa <foreign xml:lang="esp">Peca</foreign><pc type="hyphen">-</pc><lb/>
 <foreign xml:lang="esp">do venial</foreign>.<lb/>
 
-<head><foreign xml:lang="esp">YO PECADOR ME CONFIESSO A DIOS</foreign>,<lb/>
-<foreign xml:lang="esp"><hi rend="italic">&amp;c. ex Miſſal Romano</foreign>.</hi></head><lb/>
+<head xml:lang="esp">
+  YO PECADOR ME CONFIESSO A DIOS,<lb/>
+  &amp;c.<foreign xml:lang="lat" rend="italic">ex Miſſal Romano.</foreign>
+</head><lb/>
 
 Naa huexihui roxoobaxtollaya loo Bejuanna Dios, ni<lb/>
 quizaalagóca, loo <foreign xml:lang="esp">Santa Maria</foreign> zellii Cocooni yoona:<lb/>
@@ -1041,8 +1045,10 @@ Copa Biitoo: niiani yoobini queyooni ciicani, chela luy<lb/>
 queyoonniciicalo, lachi Bejuannana Dios, niiaxtenni naa.<lb/>
 Gaca ciiga ciica. <foreign xml:lang="esp">Jeſus.</foreign><lb/>
 
-<head><foreign xml:lang="esp"><hi rend="italic">CONFITEOR DEO, &amp;c. DEL ORDEN</foreign><lb/>
-<foreign xml:lang="esp">de Predicadores.</hi></foreign></head><lb/>
+<head rend="italic">
+  <foreign xml:lang="esp">CONFITEOR DEO, &amp;c. DEL ORDEN<lb/>
+  de Predicadores.</foreign>
+</head><lb/>
 
 Naa huexihui rexoobaxtollaya loo Bejuannana Dios, ni<pc type="hyphen">-</pc><lb/>
 guixaalagoca: loo <foreign xml:lang="esp">Santa Maria</foreign>, zellii Cocooni yoona:<lb/>
@@ -1119,6 +1125,9 @@ Huanacalo <foreign xml:lang="esp">Chriſtiano</foreign>? 2.<lb/>
 Huanacaya niiaxtenni que<pc type="hyphen">-</pc><lb/>
 <cb n=""/>
 
+<fw type="sig" place="bottom-center">
+  D
+</fw>
 <fw type="catchword" place="bottom-right">
   tro
 </fw>
@@ -1789,7 +1798,7 @@ Laatè rago manni gonna.
 Ni zoochabui quiaà quiiebaa,<lb/>
 Ni zoochahui layoo zaaca.<lb/>
 <lb/>
-<div rend="center">
+
 <head><foreign xml:lang="esp"><hi rend="italics">MYSTERIO TERCERO<lb/>
 De la Coronacion de Eſpinas.</hi></foreign></head><lb/><lb/>
 Laapa quiiechiichi, quiie caachi,<lb/>
@@ -1811,9 +1820,13 @@ Nareezagaa lachitooni,<lb/>
 Xinnini rochaagalooni,<lb/>
 Huazii, huachiibaa riñaani,<lb/>
 <lb/>
-<head><foreign xml:lang="esp"><hi rend="italics">MYSTERIO QUINTO.<lb/>
-De la Crucifixion del Señor.</hi></foreign><lb/></head>
-<fw type="catchword" place="bottom-right">Ni</fw>Can</text><pc type="hyphen">-</pc><lb/>
+<head>
+  <foreign xml:lang="esp"><hi rend="italics">MYSTERIO QUINTO.<lb/>
+  De la Crucifixion del Señor.</hi></foreign>
+</head>
+<fw type="catchword" place="bottom-right">
+  Can<pc type="hyphen">-</pc>
+</fw>
 
 
 <!-- James Faville's section -->
