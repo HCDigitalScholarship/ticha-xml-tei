@@ -284,8 +284,8 @@
   da uno quiſiera tener un Catheciſmo. En que no hallo coſa,<lb/>
   que deſdiga de nueſtra Santa Fè Catholica, antes muy fervo<pc type="hyphen">-</pc><lb break="no"/>
   roſos afectos para abraſarla, por lo qual la juzgo digna de im<pc type="hyphen">-</pc><lb break="no"/>
-  primirla. Eſte es mi parecer, 
-  <foreign xml:lang="lat" rend="italics">ſalvo meliori</foreign>. 
+  primirla. Eſte es mi parecer,
+  <foreign xml:lang="lat" rend="italics">ſalvo meliori</foreign>.
   Curato de Ayuqueſ<pc type="hyphen">-</pc><lb break="no"/>
   co, y Julio 10 de 1732 años.
 </p>
@@ -659,8 +659,10 @@ itoo quitoobí láchilo.<lb/>
 Coroopa Xiibaa nirii: Gannachilo lezaa benniaatilo,<lb/>
 ciica nachiiyoobilo. Gaca ciiga ciica. <foreign xml:lang="esp">Jeſus</foreign>.<lb/>
 
-<head><p rend="center"><foreign xml:lang="esp">LOS MANDAMIENTOS DE LA SANTA<lb/>
-Madre Iglefia</foreign>, &amp;c.</p></head><lb/>
+<head rend="center" xml:lang="esp">
+  LOS MANDAMIENTOS DE LA SANTA<lb/>
+  Madre Iglefia, &amp;c.
+</head>
 
 ALaarij: Ni rennabea Xiñaana <foreign xml:lang="esp">Santa Igleſia</foreign>, ni quènnina<lb/>
 	ruarii guechelayoo, càni gaayo Xiibaa.<lb/>
@@ -672,21 +674,23 @@ ALaarij: Ni rennabea Xiñaana <foreign xml:lang="esp">Santa Igleſia</foreign>, 
 	huazeene racalo: chela chii racalachi ziilo <foreign xml:lang="esp">Santiſsimo<lb/>
 	Sacramento</foreign>.<lb/>
 3.	Coyoona Xibaa nirii: Ziiliiolachilo Xpellaalaati Bejuan-<lb/>
-	Nana <foreign xml:lang="esp">Jeſu Chriſto</foreign> chaaga chaga iiza, chaaga liaza chii
+	nana <foreign xml:lang="esp">Jeſu Chriſto</foreign> chaaga chaga iiza, chaaga liaza chii
 	<foreign xml:lang="esp">Paſcua</foreign> quiie.<lb/>
 4.	Cotaapa Xiibaa nirii: Cocuanalo Guetta, cocuanalo pel-<lb/>
-	La, chi rennabea Xiñaana <foreign xml:lang="esp">Santa Igleſia</foreign>.<lb/>
+	la, chi rennabea Xiñaana <foreign xml:lang="esp">Santa Igleſia</foreign>.<lb/>
 5.	Cooyo Xiibaa nirii: Quegoolo goona <foreign xml:lang="esp">Diezmos Primi-<lb/>
 	cias</foreign> lo Yohotoo lichi Bejuannana <foreign xml:lang="esp">Dios</foreign>, chii rennabea<lb/>
 		Xiñaana <foreign xml:lang="esp">Santa Igleſia</foreign>. Gàaca ciiga ciica. <foreign xml:lang="esp">Jesſus</foreign>.<lb/>
 
-<foreign xml:lang="esp"><head><p rend="center">LOS SACRAMENTOS DE LA SANTA MA<pc type="hyphen">-</pc><lb/>
-dre Iglesſia</foreign>, &amp;c.</p></head><lb/><lb/>
+<head xml:lang="esp" rend="center">
+  LOS SACRAMENTOS DE LA SANTA MA<pc type="hyphen">-</pc><lb/>
+  dre Iglesſia, &amp;c.
+</head>
 
 ALaarij: Quellahuennitiiloo quellahuexcihui, ni laa <foreign xml:lang="esp">Sacra-<lb/>
 mentos</foreign>: càni cache Xiibaa.<lb/>
 1.	Cotoobi Xiibaa niiri: Quellariroobaniza quique patoo,<lb/>
-Nilaa <foreign xml:lang="esp">bautiſmo</foreign>.<lb/>
+nilaa <foreign xml:lang="esp">bautiſmo</foreign>.<lb/>
 <fw type="catchword" place="bottom-right">2. Co</fw><pc type="hyphen">-</pc><lb/>
 
 <pb n="23"/>
@@ -971,51 +975,58 @@ Biitoo bennicanii.<lb/>
 rizaaca nachiibaani, niiaxtenni quellanazaaca, chela ni<pc type="hyphen">-</pc><lb/>
 iaxtenni quella nalli <foreign xml:lang="esp">Juſticia</foreign>: quèllani bènni canii caa<pc type="hyphen">-</pc><lb/>
 texillaani, gàca xtènni yoobini. Quella cooquii quiiebaa.<lb/>
-Gaca ciiga ciica. <foreign xml:lang="esp">Jeſus</foreign>.<lb/><lb/>
+Gaca ciiga ciica. <foreign xml:lang="esp">Jeſus</foreign>.<lb/>
 
-<head><foreign xml:lang="esp">LOS NOVISSIMOS DE EL HOMBRE</foreign><lb/>
-<foreign xml:lang="esp">ſon quatro, &amp;c</foreign>.</head><lb/>
+<head type="levanto" rend="center">
+  <foreign xml:lang="esp">LOS NOVISSIMOS DE EL HOMBRE<lb/>
+  ſon quatro, &amp;c</foreign>.<lb/>
+</head>
 
 Alaarii: Taapa loo, ni huanàpani benniaáti zellii loo<lb/>
 xquellariieguenna lachi: nianni azoochii, azaabigueela<lb/>
-coxihuini: nazii, laa <foreign xml:lang="esp">Noviſsimos</foreign>.<lb/>
-1. Cotoobi loo: nàca quellagooti xtenni benni: laa <foreign xml:lang="esp">Muerte</foreign>.<lb/>
+coxihuini: nazii, laa <foreign xml:lang="esp" rend="italic">Noviſsimos</foreign>.<lb/>
+1. Cotoobi loo: nàca quellagooti xtenni benni: laa <foreign xml:lang="esp" rend="italics">Muerte</foreign>.<lb/>
 2. Coroopa loo: náca quellahuetoogo xticha Bejuannana<lb/>
-Dios, ni gònnìni loo quiralii benni: laa <foreign xml:lang="esp">Juicio</foreign>.<lb/>
+Dios, ni gònnìni loo quiralii benni: laa <foreign xml:lang="esp" rend="italics">Juicio</foreign>.<lb/>
 3. Coyoona loo: náca quellanazii: quellanchiibaa roo loo<lb/>
-guii natooxo gabiilla laa <foreign xml:lang="esp">Infierno</foreign>.<lb/>
+guii natooxo gabiilla laa <foreign xml:lang="esp" rend="italics">Infierno</foreign>.<lb/>
 4. Cotaapa loo: nàca queliaxoolabaato, quellanabaani<lb/>
-zellii: laa <foreign xml:lang="esp">Gloría</foreign>.<lb/>
+zellii: laa <foreign xml:lang="esp" rend="italics">Gloría</foreign>.<lb/>
 
 <fw type="catchword" place="bottom-right">
   <foreign xml:lang="esp">NUE</foreign><pc type="hyphen">-</pc>
 </fw>
+
 <pb n="30"/>
 
-<head><foreign xml:lang="esp">NUEVE REMEDIOS, PARA QUITAR LOS</foreign><lb/>
-<foreign xml:lang="esp">Pecados veniales</foreign>.</head><lb/>
+<head type="levanto" rend="center">
+  <foreign xml:lang="esp">NUEVE REMEDIOS, PARA QUITAR LOS<lb/>
+  Pecados veniales</foreign>.<lb/>
+</head>
 
 Alaari: ricaayee ruarii gaa loo, ni naquiña quinitiloo tee,<lb/>
-tolla huiini, laa <foreign xml:lang="esp">Pecado venial</foreign>.<lb/>
-1. Cotoobi loo: chii ranna, ronna cháhui bènni <foreign xml:lang="esp">Miſſa</foreign>.<lb/>
+tolla huiini, laa <foreign xml:lang="esp" rend="italics">Pecado venial</foreign>.<lb/>
+1. Cotoobi loo: chii ranna, ronna cháhui bènni <foreign xml:lang="esp" rend="italics">Miſſa</foreign>.<lb/>
 2. Coroopa loo: chii ribiigalii bénni riziilii quitoobi lachi<pc type="hyphen">-</pc><lb/>
 ni Xpellalaati Bejuánnana <foreign xml:lang="esp">Jeſu-Chriſto</foreign>.<lb/>
 3. Coyoona loo: chii ronnatiiaaga bénni libaana xticha<lb/>
 Dios.<lb/>
 4. Cotaapa loo: chii ronnilaaya Cooqui <foreign xml:lang="esp">Obiſpo</foreign> loo bènni<lb/>
 <foreign xml:lang="esp">Chriſtiano</foreign>.<lb/>
-5. Cooyo loo: chii rinni bènni: laaya Bixoocetonoo he.<lb/>
-6. Coxoopa loo: chii rinnii bènni: Nahuexihui roxoobax<pc type="hyphen">-</pc><lb/>
-tollaya.<lb/>
+5. Cooyo loo: chii rinni bènni: laaya <emph rend="italics">Bixoocetonoo he,</emph>.<lb/>
+6. Coxoopa loo: chii rinnii bènni: <emph rend="italics">Nahuexihui roxoobax<pc type="hyphen">-</pc><lb/>
+tollaya</emph>.<lb/>
 7. Cooche loo: chii rirooba niza laaya benni.<lb/>
 8. Coxoono loo: chii raago bénni gueetta laaya.<lb/>
 9. Cogaa loo: chii ribiibi lachitooni bénni, niiaxtenni xque<pc type="hyphen">-</pc><lb/>
 llahuexihuini.<lb/>
-Quigaa loo nirii lezaaca quniniitiloo tollahuiini, ni laa <foreign xml:lang="esp">Peca</foreign><pc type="hyphen">-</pc><lb/>
-<foreign xml:lang="esp">do venial</foreign>.<lb/>
+Quigaa loo nirii lezaaca quniniitiloo tollahuiini, ni laa <foreign xml:lang="esp" rend="italics">Peca<pc type="hyphen">-</pc><lb/>
+do venial</foreign>.<lb/>
 
-<head><foreign xml:lang="esp">YO PECADOR ME CONFIESSO A DIOS</foreign>,<lb/>
-<foreign xml:lang="esp"><hi rend="italic">&amp;c. ex Miſſal Romano</foreign>.</hi></head><lb/>
+<head type="levanto" rend="center">
+  <foreign xml:lang="esp">YO PECADOR ME CONFIESSO A DIOS,<lb/>
+  &amp;c. <emph rend="italics">ex Miſſal Romano</emph></foreign>.<lb/>
+</head>
 
 Naa huexihui roxoobaxtollaya loo Bejuanna Dios, ni<lb/>
 quizaalagóca, loo <foreign xml:lang="esp">Santa Maria</foreign> zellii Cocooni yoona:<lb/>
@@ -1041,8 +1052,10 @@ Copa Biitoo: niiani yoobini queyooni ciicani, chela luy<lb/>
 queyoonniciicalo, lachi Bejuannana Dios, niiaxtenni naa.<lb/>
 Gaca ciiga ciica. <foreign xml:lang="esp">Jeſus.</foreign><lb/>
 
-<head><foreign xml:lang="esp"><hi rend="italic">CONFITEOR DEO, &amp;c. DEL ORDEN</foreign><lb/>
-<foreign xml:lang="esp">de Predicadores.</hi></foreign></head><lb/>
+<head type="levanto" rend="center">
+  <foreign xml:lang="esp" rend="italics">CONFITEOR DEO, &amp;c. DEL ORDEN<lb/>
+  de Predicadores.</foreign><lb/>
+</head>
 
 Naa huexihui rexoobaxtollaya loo Bejuannana Dios, ni<pc type="hyphen">-</pc><lb/>
 guixaalagoca: loo <foreign xml:lang="esp">Santa Maria</foreign>, zellii Cocooni yoona:<lb/>
@@ -1053,16 +1066,18 @@ huechiie: connia quellahuechiie: pénnia quellahue<pc type="hyphen">-</pc><lb/>
 chiie, chela, yacà pennia chiiña nazaaca, ciicato nozaa<pc type="hyphen">-</pc><lb/>
 bia gonnia, niiaxtenni xtollaya. (Reyoonnia lachilo<lb/>
 yoobilo, Channa, Rete, Copa Bitoo: niiani queyoo<pc type="hyphen">-</pc><lb/>
-nnilo ciica lachi Bejuannana Dios, niiaxtenni naa) <foreign xml:lang="esp">Si la</foreign><lb/>
-<foreign xml:lang="esp">dixere ſolo, ſe quitaran los dos (n) parenteſis; y añadi</foreign><pc type="hyphen">-</pc><lb/>
-<foreign xml:lang="esp">ra</foreign>: Reyoonniaciica lachi <foreign xml:lang="esp">Santa Maria</foreign>, zellii Cocooni<lb/>
+nnilo ciica lachi Bejuannana Dios, niiaxtenni naa) <foreign xml:lang="esp" rend="italics">Si la<lb/>
+dixere ſolo, ſe quitaran los dos (n) parenteſis; y añadi<pc type="hyphen">-</pc><lb/>
+ra</foreign>: Reyoonniaciica lachi <foreign xml:lang="esp">Santa Maria</foreign>, zellii Cocooni<lb/>
 yoona, <foreign xml:lang="esp">Santo Domingo</foreign>, Bixooce tonoo, chelañee qui<pc type="hyphen">-</pc><lb/>
 ralii <foreign xml:lang="esp">Santos</foreign>: niiani queyooniciicani lachi Bejuannana Dios<lb/>
 niiaxtenni naa.<lb/>
 
-<head><hi rend="italic"><foreign xml:lang="esp">ACTO DE CONTRICION.</foreign></hi></head><lb/>
+<head type="levanto" rend="center">
+  <foreign xml:lang="esp" rend="italics">ACTO DE CONTRICION.</foreign><lb/>
+</head>
 
-Hà Channa <foreign xml:lang="esp">Jeſu-Chriſto</foreign> he! huallii Biitoo, huallii Benni<pc type="hyphen">-</pc><lb/>
+Hà Channa <foreign xml:lang="esp">Jeſu-Chriſto</foreign> he! huallii Biitoo, huallii Benni<pc type="hyphen"><lb/>
 aati: ni pezaalo naa, ni peziillaalo na niaxtenni na<pc type="hyphen">-</pc><lb/>
 ca yoobilo, ni nazaacateete, yacà nagaabanix quella<pc type="hyphen">-</pc><lb/>
 
@@ -1080,17 +1095,19 @@ zaacalo, quinnitiloolo naa, niiaxtennix Rinni na<pc type="hyphen">-</pc><lb/>
 choonolo. Rochigaya loolo quellaazanaca, ni gonnia,<lb/>
 niaxtenni quiraa tolla, ni pennia. Ronnilooya, que<pc type="hyphen">-</pc><lb/>
 zaalachilo naa quella <foreign xml:lang="esp">gracia</foreign>: niiani azootichii gonnia<lb/>
-tolla loolo: Channa Dios he!<lb/>
+tolla loolo: Channa Dios he!<lb rend="center"/>
 
-<p rend="center"><foreign xml:lang="esp">FIN DE LAS ORACIONES,</foreign></p><lb/>
+<foreign xml:lang="esp">FIN DE LAS ORACIONES,</foreign><lb/>
 
-<head><foreign xml:lang="esp">EXPLICACION<lb/>
-DE LA DOCTRINA<lb/>
-CHRISTIANA</foreign></head><lb/>
+<head type="levanto" rend="center">
+  <foreign xml:lang="esp">EXPLICACION<lb/>
+  DE LA DOCTRINA<lb/>
+  CHRISTIANA</foreign><lb/>
+</head>
 
 <cb n="1"/>
 
-<foreign xml:lang="esp">Aqui comienze la Doctri<pc type="hyphen">-</pc><lb/>
+<foreign xml:lang="esp" rend="italics">Aqui comienze la Doctri<pc type="hyphen">-</pc><lb/>
 na de nueſtra Fee, que<lb/>
 llamamos Doctrina Chriſ<pc type="hyphen">-</pc><lb/>
 tiana: Preguntas, y Reſ<pc type="hyphen">-</pc><lb/>
@@ -1107,17 +1124,22 @@ R. Si por la gracia de Nueſ<pc type="hyphen">-</pc></foreign><lb/>
 
 Ruarij rizoolo ticha<lb/>
 quellariieliilachi tonoo<lb/>
-ni rinnioona <foreign xml:lang="esp">Doctrina Chriſ<pc type="hyphen">-</pc><lb/>
+ni rinnioona <foreign xml:lang="esp" rend="italics">Doctrina Chriſ<pc type="hyphen">-</pc><lb/>
 tiana</foreign>. Ticha lennaaba, Ti<pc type="hyphen">-</pc><lb/>
 cha leccaabi, loo ticha zaa,<lb/>
-loo ticha <foreign xml:lang="esp">Caſtilla</foreign>.<lb/>
+loo ticha <foreign xml:lang="esp" rend="italics">Caſtilla</foreign>.<lb/>
 Connii, Pinni huiini, 1. Lenn.<lb/>
 tulaalo?<lb/>
 Channa, laaya <foreign xml:lang="esp">Pedro</foreign>, Lecc.<lb/>
 laa Juan.<lb/>
 Huanacalo <foreign xml:lang="esp">Chriſtiano</foreign>? 2.<lb/>
 Huanacaya niiaxtenni que<pc type="hyphen">-</pc><lb/>
+
 <cb n=""/>
+
+<fw type="sig" place="bottom-center">
+  D
+</fw>
 
 <fw type="catchword" place="bottom-right">
   tro
@@ -1125,8 +1147,231 @@ Huanacaya niiaxtenni que<pc type="hyphen">-</pc><lb/>
 
 <!-- Tristan Pepin's section -->
 <pb n="33"/>
+
+<cb n="1"/>
+
+<foreign xml:lang="esp" rend="italics">tro Señor Jeſu-Chriſto.<lb/>
+P. Que quicre decir Chriſ<pc type="hyphen">-</pc><lb/>
+tiano?<lb/>
+R. Hombre, que tiene la Fee<lb/>
+de Nueſtro Señor Jeſu<pc type="hyphen">-</pc><lb/>
+Chriſto, que profeſſo, y con<pc type="hyphen">-</pc><lb/>
+feſſo, quando recibio el San<pc type="hyphen">-</pc><lb/>
+to Bautiſmo.<lb/>
+P. Quien es Chriſto?<lb/>
+R. Es Dios, y Hombre ver<pc type="hyphen">-</pc><lb/>
+dadero.<lb/>
+P. Como es Dios?<lb/>
+R. Porque es Hijo natural de<lb/>
+Dios vivo.<lb/>
+P. Como es hombre Nueſtro<lb/>
+Señor Jeſu-Chriſto?<lb/>
+R. Porque tambien es hijo de<lb/>
+la Virgen Santa Maria.<lb/>
+P. Porquè ſe llama Chriſto?<lb/>
+R. Por la grande abundancia,<lb/>
+y plenitud de gracia, que tiene ſobre todos.<lb/>
+P. Eſte Chriſto es el verdade<pc type="hyphen">-</pc><lb/>
+ro Redemptor?<lb/>
+R. Si: es el verdadero Redẽp<pc type="hyphen">-</pc><lb/>
+tor de todos los hombres.<lb/>
+P. Que oficios executò en eſte<lb/>
+mundo?<lb/>
+R. Hizo oficio de Redemp<pc type="hyphen">-</pc><lb/>
+tor, y juntamente el oficio<lb/>
+de Maeſtro de la verdad.</foreign><lb/>
+
+<cb n="2"/>
+
+lla gracia xtenni Bejuanna<pc type="hyphen">-</pc><lb/>
+na <foreign xml:lang="esp">Jeſu-Chriſto</foreign>.<lb/>
+Xii zeeloo ticha quella<pc type="hyphen">-</pc><lb/>
+chriſtiano?<lb/>
+Benniaati, ni rapani quella<pc type="hyphen">-</pc><lb/>
+riieliilachi xtenni Bejuanna<pc type="hyphen">-</pc><lb/>
+na <foreign xml:lang="esp">Jeſu-Chriſto</foreign>, ni colla<pc type="hyphen">-</pc><lb/>
+pilii, ni cocaabiniani, chii<lb/>
+coccaa quellahueroobani<pc type="hyphen">-</pc><lb/>
+zaquiqueni.<lb/>
+Tuxa naca <foreign xml:lang="esp">Chriſto</foreign>?<lb/>
+Huanacani Biitoo, huañee<lb/>
+Benniati nallii.<lb/>
+Xanacaxá naca Bitoo?<lb/>
+Niíaxtenni naca Xinni Pio<pc type="hyphen">-</pc><lb/>
+obi yoobi Biitoo nabaani.<lb/>
+Xanacaxà naca Benniaati<lb/>
+Bejuannana <foreign xml:lang="esp">Jeſu-Chriſto</foreign>?<lb/>
+Niiaxtenni huañee naca Xi<pc type="hyphen">-</pc><lb/>
+ni gaana xtenni <foreign xml:lang="esp">Santa Ma<pc type="hyphen">-</pc><lb/>
+ria</foreign> Cocooni yoona.<lb/>
+Xii niia laani <foreign xml:lang="esp">Chriſto</foreign>?<lb/>
+Laani loo quella ciroo, ci<pc type="hyphen">-</pc><lb/>
+xeenne <foreign xml:lang="esp">gracia</foreign>, ni rapaniloo<lb/>
+quiraaliicaxeeni.<lb/>
+<foreign xml:lang="esp">Chriſto</foreign> nirii huanaca hue<pc type="hyphen">-</pc><lb/>
+ziillaa nallii?<lb/>
+Huanaca hueziillaa nallii<lb/>
+xtenni quiraalii benniati.<lb/>
+Connaxa chijña, ni pennini<lb/>
+ruarii guechelayoo?<lb/>
+Pennini chiiña quellahue<pc type="hyphen">-</pc><lb/>
+ziillaa, huañee quellahue<pc type="hyphen">-</pc><lb/>
+llee nallii.<lb/>
+
+<fw type="catchword" place="bottom-right">
+  <foreign xml:lang="esp" rend="italics">Que</foreign>
+</fw>
+
 <pb n="34"/>
+
+<cb n="1"/>
+
+<foreign xml:lang="esp" rend="italics">P. Que Doctrina enſeñò á los<lb/>
+hombres?<lb/>
+R. La Doctrina, que llama<pc type="hyphen">-</pc><lb/>
+mos Chriſtiana.<lb/>
+P. Quantas partes contiene la<lb/>
+Doctrina Chriſtiana?<lb/>
+R. Contiene quatro partes.<lb/>
+P. Quales ſon?<lb/>
+R. Credo, Mandamientos,<lb/>
+Oraciones, y Sacramentos.<lb/>
+P. Qual es la ſeñal del Chriſ<pc type="hyphen">-</pc><lb/>
+tiano?<lb/>
+R. La Santa Cruz.<lb/>
+P. Porqué?<lb/>
+R. Porque en el Arbol de la<lb/>
+Cruz muriò Nueſtro Señor<lb/>
+Jeſu-Chriſto, y en ella redi<pc type="hyphen">-</pc><lb/>
+miò â los hombres.<lb/>
+P. Qui nes Dios?<lb/>
+R. La Santiſsima Trinidad.<lb/>
+P. Quien es la Smâ. Trinidad?<lb/>
+R. Dios Padre, Dios Hijo, Dios<lb/>
+Eſspiritu Santo: tres Perſo<pc type="hyphen">-</pc><lb/>
+nas diſtintas, y un ſolo Dios<lb/>
+verdadero.<lb/>
+P. La primera Perſona, que es</foreign><lb/>
+
+<cb n="2"/>
+
+Xii ticha pegozeeteni loo.<lb/>
+benniaati?<lb/>
+Ticha, ni rinniiona <foreign xml:lang="esp">Doctri<pc type="hyphen">-</pc><lb/>
+na Chriſtiana</foreign>.<lb/>
+Palla cuee rapani <foreign xml:lang="esp">Doctrina<lb/>
+Chriſtiana?<lb/>
+Taapa cuee rapani?<lb/>
+Connaxà nacani?<lb/>
+Cotoobi naca, <emph rend="italics">Huariieliila<pc type="hyphen">-</pc><lb/>
+chia Dios Bixooce</emph>: coroopa<lb/>
+naca ticha pea xiibaa <foreign xml:lang="esp" rend="italics">Man<pc type="hyphen">-</pc><lb/>
+damientos</foreign>: coyoona naca, <emph rend="italics">Bi<pc type="hyphen">-</pc><lb/>
+xooce tonoo he! Annaa Chan<pc type="hyphen">-</pc><lb/>
+na, <foreign xml:lang="esp">Maria</foreign> he! Annaa Chan<pc type="hyphen">-</pc><lb/>
+na, Xonaaxi, Cooquii quiíe<pc type="hyphen">-</pc><lb/>
+baa he</emph>! cotaapa naca quella<pc type="hyphen">-</pc><lb/>
+coniitiloo quellahuexihui, ni<lb/>
+laa <foreign xml:lang="esp" rend="italics">Sacramentos</foreign>.<lb/>
+Connaxá bennaabi xtenni<lb/>
+benni <foreign xml:lang="esp">Chriſtiano?<lb/>
+Santa Cruz</foreign>.<lb/>
+Xii niia?<lb/>
+Niiaxtenni loo yaga <foreign xml:lang="esp">Cruz</foreign><lb/>
+gootini Bejuannana <foreign xml:lang="esp">Jeſu<pc type="hyphen">-</pc><lb/>
+Chriſto</foreign>, laaca loo <foreign xml:lang="esp">Cruz</foreign> pe<pc type="hyphen">-</pc><lb/>
+ziillaani benniati.<lb/>
+Tuxa naca Bitoo?<lb/>
+<foreign xml:lang="esp">Santiſsima Trinidad</foreign>.<lb/>
+Tuxa naca <foreign xml:lang="esp"> Smâ. Trinidad</foreign>.<lb/>
+Dios, Bixooce, Dios Xinni<lb/>
+Dios <foreign xml:lang="esp">Eſpiritu Santo</foreign>: chonna<lb/>
+<foreign xml:lang="esp">Perſona</foreign>, cani toobi ciica<lb/>
+Dios.<lb/>
+Cotoobi <foreign xml:lang="esp">Perſona</foreign>, ni naca<lb/>
+
+<fw type="catchword" place="bottom-right">
+  <foreign xml:lang="esp" rend="italics">el</foreign>
+</fw>
+
 <pb n="35"/>
+
+<cb n="1"/>
+
+<foreign xml:lang="esp" rend="italics">el Padre, es Dios?<lb/>
+R. Dios es.<lb/>
+P. Le ſegunda Perſona, que<lb/>
+es el Hijo, es Dios?<lb/>
+R. Dios es.<lb/>
+P. La tercera Perſona, que es<lb/>
+el Eſpiritu Santo, es Dios?<lb/>
+R. Dios es.<lb/>
+P. Son trs Dioſes?<lb/>
+R. No ſon tres, ſino un ſolo<lb/>
+Dios, Todo poderoſo, Cria<pc type="hyphen">-</pc><lb/>
+dor de todo.<lb/>
+P. Porqué la primera Perſona<lb/>
+ſe llama Padre?<lb/>
+R. Porque tiene Hijo.<lb/>
+P. El Hijo que tiene, lo en<pc type="hyphen">-</pc><lb/>
+gendro como engendran hi<pc type="hyphen">-</pc><lb/>
+jos los hombres?<lb/>
+R. No: ſolamente lo engendrò<lb/>
+en ſu ſagrado, y puro enten<pc type="hyphen">-</pc><lb/>
+dimiento.<lb/>
+P. Porqué la ſegunda Perſona<lb/>
+de la Santiſsima Trinidad<lb/>
+ſe llama Hijo?<lb/>
+R. Porque tiene Padre, que es<lb/>
+la primera Perſona, que lo<lb/>
+engendro en ſu limpio, y ſa<pc type="hyphen">-</pc><lb/>
+grado entendimiento.<lb/>
+P. Porqué la tercera Perſona,<lb/>
+ſe llama Eſpiritu Santo?<lb/>
+R. Porque es un amor ver<pc type="hyphen">-</pc><lb/>
+dadero, que procede del Pa<pc type="hyphen">-</pc><lb/>
+
+<cb n="2"/>
+
+Bixooce, huanaca Dios?<lb/>
+Huanaca Dios.<lb/>
+Coroopa <foreign xml:lang="esp">Perſona</foreign>, ni naca<lb/>
+Xinni, huanaca Dios?<lb/>
+Huanaca Dios.<lb/>
+Coyoona <foreign xml:lang="esp">Perſona</foreign> ni naca<lb/>
+<foreign xml:lang="esp">Eſpiritu Sãto</foreign> huanaca Dios?<lb/>
+Huanaca Dios.<lb/>
+Huanaca choona Dios?<lb/>
+Acà naca choona canitoo<pc type="hyphen">-</pc><lb/>
+bi ciica Dios, niquizaala<pc type="hyphen">-</pc><lb/>
+goca, niquizaala huezaa.<lb/>
+Xiixaniia naziilaa Bixooce<lb/>
+cotoobi <foreign xml:lang="esp">Perſona</foreign> canii?<lb/>
+Niiaxtenni noo Xinnini.<lb/>
+Huanoo Xinnini, ni coxa<pc type="hyphen">-</pc><lb/>
+anani, ciica rizaana Xinni<lb/>
+benniaati?<lb/>
+Acati: cani loo xquellari<pc type="hyphen">-</pc><lb/>
+ienni nataa, nayóonani,<lb/>
+coxaanani.<lb/>
+Xiixaniia, naziilaa Xinni,<lb/>
+Coropa <foreign xml:lang="esp">Perſona</foreign> xtenni <foreign xml:lang="esp">San<pc type="hyphen">-</pc><lb/>
+tiſsima Trinidad</foreign>?<lb/>
+Niiaxtenni noo Bixooce,<lb/>
+ni naca cotoobi <foreign xml:lang="esp">Perſona</foreign> ni<pc type="hyphen">-</pc><lb/>
+coxaanaliini yoobini xque<pc type="hyphen">-</pc><lb/>
+lla riienni nataa, nayoo<pc type="hyphen">-</pc><lb/>
+nani.<lb/>
+Xiixaniia naziilaa <foreign xml:lang="esp">Eſpiri<pc type="hyphen">-</pc><lb/>
+tu Santo</foreign> coyoona <foreign xml:lang="esp">Perſona</foreign><lb/>
+canii?<lb/>
+Niiaxtenni nacani Quella<pc type="hyphen">-</pc><lb/>
+connachii lii, ni ritaaleni<lb/>
+
+<fw type="catchword" place="bottom-right">
+  <foreign xml:lang="esp" rend="italics">dre</foreign>
+</fw>
+
 <!-- James Truitt's section -->
 <pb n="36"/>
 <cb n="1"/>
@@ -1285,21 +1530,22 @@ huañee benniati.<lb/>
 
 <!-- Claire Benham's section -->
 <pb n="38"/>
+
 <cb n="1"/>
 
-<foreign xml:lang="esp">P. Chriſto es uno, ô dos?<lb/>
-<lb/>
+<foreign xml:lang="esp" rend="italics">P. Chriſto es uno, ô dos?<lb/>
+
 R. Es uno ſolo; porque aunque<lb/>
 tiene dos naturalezas, divi<pc type="hyphen">-</pc><lb/>
 na, y humana; mas la Per<pc type="hyphen">-</pc><lb/>
 ſona no es mas que una.<lb/>
-<lb/>
+
 P. Donde ſe hizo hombre?<lb/>
 R. En el vientre puriſsimo de<lb/>
 la Virgen Santa Maria.<lb/>
-<lb/>
+
 P. Como ſe hizo hombre?<lb/>
-<lb/>
+
 R. Hizoſe hombre por obra de<lb/>
 el Eſpiritu Santo.<lb/>
 P. Quantas obras hizo enton<pc type="hyphen">-</pc><lb/>
@@ -1316,10 +1562,10 @@ concedio a la Virgen Santa<lb/>
 Maria gracia para poder<lb/>
 parir ſin perder ſu pureza<lb/>
 Virginal.<lb/>
-<lb/>
+
 P. Para qué ſe hizo hombre<lb/>
 el Hijo de Dios?<lb/>
-<lb/>
+
 R. Para poder morir por los</foreign><lb/>
 
 <cb n="2"/>
@@ -1358,10 +1604,11 @@ Xiixa niia gocani bennia<pc type="hyphen">-</pc> 38.<lb/>
 ati, gocani benniniguiio<lb/>
 Xinni xtenni Biitoo?<lb/>
 Niiani zoaaca gatini nii<pc type="hyphen">-</pc><lb/>
+
 <cb n=""/>
 
 <fw type="catchword" place="bottom-right">
-  <foreign xml:lang="esp">hom<pc type="hyphen">-</pc></foreign>
+  <foreign xml:lang="esp"rend="italics">hom<pc type="hyphen">-</pc></foreign>
 </fw>
 
 <!-- Tristan Pepin's section -->
@@ -1603,6 +1850,86 @@ zeelloo?
 <!-- Claire Benham's section -->
 <pb n="43"/>
 
+<cb n="1"/>
+
+<foreign xml:lang="esp" rend="italics">R. El miſmo Dios Nrò.Señor.<lb/>
+P. Que coſa eran los Demonios<lb/>
+antes, quando los crio Dios?<lb/>
+R. Fueron Angeles, que eſta<pc type="hyphen">-</pc><lb/>
+ban en el Cielo.<lb/>
+P. Porque cauſa ſe hicieŕon<lb/>
+los Angeles Demonios?<lb/>
+R. Porque pecaron en el Cielo.<lb/>
+
+P. A qué lugar arrojò Dios los<lb/>
+Demonios, quando pecaron<lb/>
+en el Cielo?<lb/>
+R. Al fuego del Infierno.<lb/>
+P. Donde eſtá Dios?<lb/>
+
+R. En el Palacio del Cielo eſtá,<lb/>
+y tambien en todo lugar, en<lb/>
+el Cielo, en la Tierra, y en<lb/>
+el Infierno.<lb/>
+P. Donde eſtá Jeſu-Chriſto?<lb/>
+
+R. En quanto Dios eſtâ en to<pc type="hyphen">-</pc><lb/>
+do lugar, como verdadero<lb/>
+Dios; pero en quanto hom<pc type="hyphen">-</pc><lb/>
+bre eſtá en el Cielo ſentado<lb/>
+â la dieſtra de Dios Padre,<lb/>
+y en el Santiſsimo Sacra<pc type="hyphen">-</pc><lb/>
+mento del altar.<lb/>
+
+P. Quien es Santa Maria?<lb/>
+R. Una Santa muger, juſtiſsi<pc type="hyphen">-</pc><lb/>
+ma, Virgen ſiempre caſtiſsi<pc type="hyphen">-</pc><lb/>
+ma; que fue Madre de Nrô.<lb/>
+Señor Jeſu-Chriſto Hijo de</foreign><lb/>
+
+<cb n="2"/>
+
+Yoobi Bejuannana Dios.<lb/>
+Xiixa naca niiró beze<pc type="hyphen">-</pc> 58.<lb/>
+elloo, chii pezaani Dios?<lb/>
+Gocani Angeles, cochiiba<pc type="hyphen">-</pc><lb/>
+ni lanni quiieba.<lb/>
+Conaxa niia peaaca <foreign xml:lang="esp">An<pc type="hyphen">-</pc> 59.<lb/>
+geles</foreign> bezelelloo?<lb/>
+Quellani pexihuini lanni<lb/>
+quiiebaa.<lb/>
+Caalaate pezaabi Bejuan<pc type="hyphen">-</pc><lb/>
+nana Dios bezeelloo, chii<lb/>
+pexihuini lanni quiiebaa?<lb/>
+Loo guii gabiilla.<lb/>
+Caalaate noo ribeezani 61.<lb/>
+Bejuannana Dios?<lb/>
+Lanni quehui quiiebaa<lb/>
+chiibani: chela quitoobi la<pc type="hyphen">-</pc><lb/>
+ate, quiiebaalà, layoolá,<lb/>
+gabiillalá.<lb/>
+Caalaate noo ribeezani 62.<lb/>
+<foreign xml:lang="esp">Jeſu-Chriſto</foreign>?<lb/>
+Loo quellabiitoo ribeeza<pc type="hyphen">-</pc><lb/>
+ni quitoobi laate, ciica Bii<pc type="hyphen">-</pc><lb/>
+too nallii: cani loo quella<lb/>
+benniaati chiibani lanni<lb/>
+quiiebaa loo ñaabee Dios<lb/>
+Bixooce: chelañee lanni<lb/>
+<foreign xml:lang="esp" rend="italics">Santiſsimo Sacramento</foreign> Xtẽ<pc type="hyphen">-</pc><lb/>
+ni becoogo.<lb/>
+Tuxanaca <foreign xml:lang="esp">Santa Maria</foreign>? 63.<lb/>
+Toobi benni gonnaa naza<pc type="hyphen">-</pc><lb/>
+aza, naalli teete, Cocooni<lb/>
+nayoona zelliippe, nigoca<lb/>
+Xiñaa xtenni Bejuannana<lb/>
+
+<cb n=""/>
+
+<fw type="catchword" place="bottom-right">
+  <foreign xml:lang="esp" rend="italics">Dios</foreign>
+</fw>
+
 <!-- Tristan Pepin's section -->
 <pb n="44"/>
 
@@ -1663,167 +1990,339 @@ DOCTRINA CHRISTIANA.</foreign></head>
 <!-- decoration -->
 <p rend="center">JESUS, MARIA, Y JOSEPH.</p>
 <!-- decoration -->
-<head xml:lang="esp" rend="center">
-MYSTERIOS<lb/>
-DEL SANTISSIMO<lb/>
-ROSARIO.<lb/>
-</head>
+<div xml:id="levanto4">
+  <head type="outline" xml:lang="esp" rend="center">
+    MYSTERIOS<lb/>
+    DEL SANTISSIMO<lb/>
+    ROSARIO.<lb/>
+  </head>
 <!-- decoration -->
-<head xml:lang="esp" rend="center">
-  MYSTERIOS GOZOSOS.
-</head>
-<head xml:lang="esp" rend="center">
-  <hi rend ="italic">DEPRECACION.</hi>
-</head>
-<p>
-NIjaxtenni collaabaliia<lb/>
-Mysterios huezaacalachi,<lb/>
-Xinaa, ruaya quicaachi<lb/>
-Loo becoogo, xi Coquiia. 
-</p>
-<head xml:lang="esp" rend="center">
-  <hi rend="italic">MYSTERIO PRIMERO.<lb/>
-  De la Encarnacion.</hi>
-</head>
-<p>
-Cochiina xquehui Quiiebaa<lb/>
-Pelloohuichani Xonaaxi:<lb/>
-Gaca Xinaa Quellanaaxi<lb/>
-Zooloo quellahueziillaa;
-</p>
+<div xml:id="levanto4.1">
+  <head type="outline" xml:lang="esp" rend="center">
+    MYSTERIOS GOZOSOS
+  </head>
+  <div xml:id="levanto4.1.1">
+    <head type="outline" xml:lang="esp" rend="center" rend="italics">
+      DEPRECACION.
+    </head>
+    NIjaxtenni collaabaliia<lb/>
+    Mysterios huezaacalachi,<lb/>
+    Xinaa, ruaya quicaachi<lb/>
+    Loo becoogo, xi Coquiia.
+  </div>
+  <div xml:id="levanto4.1.2">
+    <head type="outline" xml:lang="esp" rend="center" rend="italics">
+      MYSTERIO PRIMERO<lb/>
+      De la Encarnacion.
+    </head>
+    Cochiina xquehui Quiiebaa<lb/>
+    Pelloohuichani Xonaaxi:<lb/>
+    Gaca Xinaa Quellanaaxi<lb/>
+    Zooloo quellahueziillaa;
 
 <fw type="catchword" place="bottom-right">
-Coxi<pc type="hyphen">-</pc>
+  Coxi<pc type="hyphen">-</pc>
 </fw>
 
 <!-- James Faville's section -->
 <pb n="47"/>
-Coxiigueella Chaapa yoona,<lb />
-Zooba xiticha Biitoo:<lb />
-Chiiquee lannini cuyoo<lb />
-Coroopa liica Perſona.<lb />
-<lb />
-<head xml:lang="esp">MYSTERIO SEGUNDO.<lb />
-De la Viſitacion.<lb /></head>
-<lb />
-COroopa ticha rozeea:<lb />
-Huecaa ciica Biitoolii<lb />
-Lanni Xonaaxi nachii.<lb />
-Cuyeeni tanni Judea.<lb />
-Iſabel pechaagolooni,<lb />
-Ticharoo pechaagayahani<lb />
-Juan Xinnini coxiibaani<lb />
-Quella gracia xiBiitooni.<lb />
-<lb />
-<lb />
-<head xml:lang="esp">MYSTERIO TERCERO.<lb />
-Del Nacimiento del Hijo de Dios.<lb /></head>
-<lb />
-HUanaacoli pellalaati<lb />
-Pieenniloo quellanaxeene,<lb />
-Peacazii Biitoo reixeene,<lb />
-Lachi huiiña benniaati.<lb />
-Bitoo Xinni, xiBiitoona,<lb />
-Reaaca benni hualaachi,<lb />
-Ralleni roobi pillaachi,<lb />
-Laatè rago manni gonna.
+
+    Coxiigueella Chaapa yoona,<lb/>
+    Zooba xiticha Biitoo:<lb/>
+    Chiiquee lannini cuyoo<lb/>
+    Coroopa liica Perſona.<lb/>
+  </div>
+  <div xml:id="levanto4.1.3">
+    <head type="outline" xml:lang="esp" rend="center" rend="italics">
+      MYSTERIO SEGUNDO<lb/>
+      De la Viſitacion.<lb/>
+    </head>
+    COroopa ticha rozeea:<lb/>
+    Huecaa ciica Biitoolii<lb/>
+    Lanni Xonaaxi nachii.<lb/>
+    Cuyeeni tanni Judea.<lb/>
+    Iſabel pechaagolooni,<lb/>
+    Ticharoo pechaagayahani<lb/>
+    Juan Xinnini coxiibaani<lb/>
+    Quella gracia xiBiitooni.<lb/>
+  </div>
+  <div xml:id="levanto4.1.4">
+    <head type="outline" xml:lang="esp" rend="center" rend="italics">
+      MYSTERIO TERCERO<lb/>
+      Del Nacimiento del Hijo de Dios.<lb/>
+    </head>
+    HUanaacoli pellalaati<lb/>
+    Pieenniloo quellanaxeene,<lb/>
+    Peacazii Biitoo reixeene,<lb/>
+    Lachi huiiña benniaati.<lb/>
+    Bitoo Xinni, xiBiitoona,<lb/>
+    Reaaca benni hualaachi,<lb/>
+    Ralleni roobi pillaachi,<lb/>
+    Laatè rago manni gonna.<lb/>
+  </div>
 
 <fw type="catchword" place="bottom-right">
-  <foreign xml:lang="esp"><hi>Mys<pc type="hyphen">-</pc></hi></foreign>
-</fw>
-
-<fw type="catchword" place="bottom-right">
-  <foreign xml:lang="esp"><hi>Mys<pc type="hyphen">-</pc></hi></foreign>
+  <foreign xml:lang="esp" rend="italics">MYS<pc type="hyphen">-</pc></foreign>
 </fw>
 
 <!-- Claire Benham's section -->
 <pb n="48"/>
 
+  <div xml:id="levanto4.1.5">
+    <head type="outline" xml:lang="esp" rend="center" rend="italics">
+      MYSTERIO QUARTO<lb/>
+      De la Preſentacion en el Templo.<lb/>
+    </head>
+    Huateete corua chii,<lb/>
+    Nicolle chichi Patoo,<lb/>
+    Cuyoo goona loo Yobotoo,<lb/>
+    Pechiiga Xiñaa nachii.<lb/>
+    Huexobaticha Maria,<lb/>
+    Cuyeeni quellariaati,<lb/>
+    Zaá yacà xiiti cocaati<lb/>
+    Loo coxaana xquellaquiia.<lb/>
+  </div>
+  <div xml:id="levanto4.1.6">
+    <head type="outline" xml:lang="esp" rend="center" rend="italics">
+      MYSTERIO QUINTO.<lb/>
+      Del Niño Perdido, y Hallado.<lb/>
+    </head>
+    Cooyo <foreign xml:lang="esp">Myſterio</foreign> rennaani:<lb/>
+    Ciica pecaachi Cubiicha,<lb/>
+    Yacà quieennitii, cahuiicha<lb/>
+    <foreign xml:lang="esp">Jesvs</foreign> riquiille Xiñaani.<lb/>
+    Pezaacalachi Xonaaxi,<lb/>
+    Xinnini Biitoo picheela,<lb/>
+    Loo xchiña, ni nonnagueella<lb/>
+    Rozeeteni ticha naaxi.<lb/>
+  </div>
+  <div xml:id="levanto4.1.7">
+    <head type="outline" xml:lang="esp" rend="center" rend="italics">
+      DEPRECACION<lb/>
+      A LA SANTISSIMA VIRGEN.<lb/>
+    </head>
+    Coo <foriegn xml:lang="esp">Myſterios</foreign> pieelee<lb/>
+    Loo quellahuilla tonoo,<lb/>
+
+<fw type="sig" place="bottom-center">
+  P
+</fw>
+
+<fw type="catchword" place="bottom-right">
+  Zaa<pc type="hyphen">-</pc>
+</fw>
+
 <!-- Tristan Pepin's section -->
 <pb n="49"/>
 
+    ...<lb/>
+    <div xml:id="levanto4.1.7.1">
+      <head type="outline" xml:lang="esp" rend="center" rend="italics">
+        Ave Filia Dei Patris, &amp;c.<lb/>
+      </head>
+      ...<lb/>
+    </div>
+    <div xml:id="levanto4.1.7.2">
+      <head type="outline" xml:lang="esp" rend="center" rend="italics">
+        Maria Mater gratiæ, &amp;c.<lb/>
+      </head>
+      ...<lb/>
+    </div>
+  </div>
+</div>
+<div xml:id="levanto4.2">
+  <head type="outline" xml:lang="esp" rend="center" rend="italics">
+    MYSTERIOS<lb/>
+    DOLOROSOS.<lb/>
+
 <!-- James Truitt's section -->
 <pb n="50"/>
-<div rend="center">
-	<head><foreign xml:lang="esp"><hi rend="italics">
-		DEPRECACION<lb/>
-		A LA SANTISSIMA VIRGEN.
-	</hi></foreign></head>
+
+    DEPRECACION<lb/>
+    A LA SANTISSIMA VIRGEN.<lb/>
+  </head>
 	CHanna Xonnaxi quiieba,<lb/>
 	Cogochilo lachitooya<lb/>
 	Quizii niça huiińa looya<lb/>
 	Loo calooxe quellanaha,<lb/>
 	Ni coxaaca xiBiitooya.<lb/>
-</div>
-<div rend="center">
-	<head><foreign xml:lang="esp"><hi rend="italics">
-		MYSTERIO PRIMERO.<lb/>
-		La Oracion del Huerto.
-	</hi></foreign></head>
-	COlooxe cotaago xchiini,<lb/>
-	Cuyoo Jesvs loo guiińaa,<lb/>
-	Xooxiibi, pezaabińaa<lb/>
-	Loo Dios Bixooce nachiini.<lb/>
-	Cuyeexaca lachitooni,<lb/>
-	Chiiquee loo xguere piniini<lb/>
-	Xi Rinni Jeſus pixiini,<lb/>
-	Ciica niça loona looni.<lb/>
-</div>
+  <div xml:id="levanto4.2.1">
+    <head type="outline" xml:lang="esp" rend="center" rend="italics">
+      MYSTERIO PRIMERO.<lb/>
+      La Oracion del Huerto.<lb/>
+    </head>
+    COlooxe cotaago xchiini,<lb/>
+  	Cuyoo Jesvs loo guiińaa,<lb/>
+  	Xooxiibi, pezaabińaa<lb/>
+  	Loo Dios Bixooce nachiini.<lb/>
+  	Cuyeexaca lachitooni,<lb/>
+  	Chiiquee loo xguere piniini<lb/>
+  	Xi Rinni Jeſus pixiini,<lb/>
+  	Ciica niça loona looni.<lb/>
+  </div>
+  <div xml:id="levanto4.2.2">
+    <head type="outline" xml:lang="esp" rend="center" rend="italics">
+      MYSTERIO SEGUNDO.<lb/>
+      De los Azotes â la Columna.<lb/>
+    </head>
+    COroopa ticha rizaa,<lb/>
+  	Ni ragaaliibi Biitoo,<lb/>
+  	Tiipa teete riennitoo<lb/>
+  	Loo xquellanaxihuina.<lb/>
+  	Huatuhui, huaziee rizaaca<lb/>
+  	Cooqui, rohuini xillaa,<lb/>
 
-<div rend="center">
-	<head><foreign xml:lang="esp"><hi rend="italics">
-		MYSTERIO SEGUNDO.<lb/>
-		De los Azotes â la Columna
-	</hi></foreign></head>
-	COroopa ticha rizaa,<lb/>
-	Ni ragaaliibi Biitoo,<lb/>
-	Tiipa teete riennitoo<lb/>
-	Loo xquellanaxihuina.<lb/>
-	Huatuhui, huaziee rizaaca<lb/>
-	Cooqui, rohuini xillaa,<lb/>
-</div>
-<fw type="catchword" place="bottom-right">Ni</fw>
+<fw type="catchword" place="bottom-right">
+  Ni
+</fw>
 
 <!-- Avery Aghazarian's section -->
 <pb n="51"/>
-Ni zoochabui quiaà quiiebaa,<lb/>
-Ni zoochahui layoo zaaca.<lb/>
-<lb/>
-<div rend="center">
-<head><foreign xml:lang="esp"><hi rend="italics">MYSTERIO TERCERO<lb/>
-De la Coronacion de Eſpinas.</hi></foreign></head><lb/><lb/>
-Laapa quiiechiichi, quiie caachi,<lb/>
-Zooba quique <foreign xml:lang="esp">Dios</foreign> quiaà,<lb/>
-Hueche tooxo peaaca annaa<lb/>
-Loo xtolla tonoo hualaachi.<lb/>
-Lezaaca quella cooquii<lb/>
-Benni xihui lachi huiiña<lb/>
-Caña Ñaa <foreign xml:lang="esp">Dios</foreign> tobi coba quii.<lb/>
-<lb/>
-<head><foreign xml:lang="esp"><hi rend="italics">MYSTERIO QUARTO.<lb/>
-De la Cruz ácueſtas.</hi></foreign></head><lb/>
-Alaarii: zeeta loo neeza<lb/>
-Noocha xi Rinni Jesus<lb/>
-Naxooba xiiqueni Cruz,<lb/>
-Ni nahateete, ni nagueza.<lb/>
-Zeezeetani zaabi Xonaaxi,<lb/>
-Nareezagaa lachitooni,<lb/>
-Xinnini rochaagalooni,<lb/>
-Huazii, huachiibaa riñaani,<lb/>
-<lb/>
-<head><foreign xml:lang="esp"><hi rend="italics">MYSTERIO QUINTO.<lb/>
-De la Crucifixion del Señor.</hi></foreign><lb/></head>
+
+    Ni zoochabui quiaà quiiebaa,<lb/>
+    Ni zoochahui layoo zaaca.<lb/>
+  </div>
+  <div xml:id="levanto4.2.3">
+    <head type="outline" xml:lang="esp" rend="center" rend="italics">
+      MYSTERIO TERCERO.<lb/>
+      De la Coronacion de Eſpinas.<lb/>
+    </head>
+    Laapa quiiechiichi, quiie caachi,<lb/>
+    Zooba quique <foreign xml:lang="esp">Dios</foreign> quiaà,<lb/>
+    Hueche tooxo peaaca annaa<lb/>
+    Loo xtolla tonoo hualaachi.<lb/>
+    Lezaaca quella cooquii<lb/>
+    Benni xihui lachi huiiña<lb/>
+    Caña Ñaa <foreign xml:lang="esp">Dios</foreign> tobi coba quii.<lb/>
+  </div>
+  <div xml:id="levanto4.2.4">
+    <head type="outline" xml:lang="esp" rend="center" rend="italics">
+      MYSTERIO QUARTO.<lb/>
+      De la Cruz ácueſtas.<lb/>
+    </head>
+    Alaarii: zeeta loo neeza<lb/>
+    Noocha xi Rinni Jesus<lb/>
+    Naxooba xiiqueni Cruz,<lb/>
+    Ni nahateete, ni nagueza.<lb/>
+    Zeezeetani zaabi Xonaaxi,<lb/>
+    Nareezagaa lachitooni,<lb/>
+    Xinnini rochaagalooni,<lb/>
+    Huazii, huachiibaa riñaani,<lb/>
+  </div>
+  <div xml:id="levanto4.2.5">
+    <head type="outline" xml:lang="esp" rend="center" rend="italics">
+      MYSTERIO QUINTO.<lb/>
+      De la Crucifixion del Señor.<lb/>
+    </head>
+
 <fw type="catchword" place="bottom-right">Ni</fw>Can</text><pc type="hyphen">-</pc><lb/>
 
 
 <!-- James Faville's section -->
 <pb n="52"/>
 
+    ...<lb/>
+  </div>
+  <div xml:id="levanto4.2.6">
+    <head type="outline" xml:lang="esp" rend="center" rend="italics">
+      Deprecacion â la Virgen Nueſtra Señora.<lb/>
+    </head>
+    ...<lb/>
+  </div>
+</div>
+<div xml:id="levanto4.3">
+  <head type="outline" xml:lang="esp" rend="center">
+    MYSTERIOS GLORIOSOS.<lb/>
+  </head>
+  <div xml:id="levanto4.3.1">
+    <head type="outline" xml:lang="esp" rend="center" rend="italics">
+      Deprecacion â la Santiſsima Virgen.<lb/>
+    </head>
+    ...<lb/>
+  </div>
+  <div xml:id="levanto4.3.2">
+    <head type="outline" xml:lang="esp" rend="center" rend="italics">
+      MYSTERIO PRIMERO.<lb/>
+      De la Reſurreccion de Chriſto.<lb/>
+    </head>
+
 <!-- Claire Benham's section -->
 <pb n="53"/>
 
+    Gueella xiińe huabizoo,<lb/>
+    Chii huazaagaa peaayochii<lb/>
+    Pebaani liica Cooquii<lb/>
+    Loo xtippa quellabiitoo.<lb/>
+    Peagaa ciica coxaaca<lb/>
+    Loo quellaxii Xinnitooni,<lb/>
+    Pebaa ciica lachitooni,<lb/>
+    Xiñaalii quellanazaaca.<lb/>
+  </div>
+  <div xml:id="levanto4.3.3">
+    <head type="outline" xml:lang="esp" rend="center" rend="italics">
+      MYSTERIO SEGUNDO.<lb/>
+      De la Aſcenſion de Chriſto à los Cielos.<lb/>
+    </head>
+    Huayaca quellahuellaa,<lb/>
+    Hualooxe xchińa Biitoo,<lb/>
+    Peoonnichahuini layoo,<lb/>
+    Pebii xcoogoni quiiebaa.<lb/>
+    Loo Xiñaani coniixeela<lb/>
+    <foreign xml:lang="esp">Apoſtoles</foreign> zoobańeeni,<lb/>
+    Chiiquee <foreign xml:lang="esp">Jesvs</foreign> peapińeeni<lb/>
+    Bennibaatoo ciilla eela.<lb/>
+  </div>
+  <div xml:id="levanto4.3.4">
+    <head type="outline" xml:lang="esp" rend="center" rend="italics">
+      MYSTERIO TERCERO.<lb/>
+      De la Venida del Eſpiritu Santo.<lb/>
+    </head>
+    Huayaapigaa xi Bitoona,<lb/>
+    Ni pita chiińa nallaabi,<lb/>
+    Lohuaa guii pieetezaabi<lb/>
+    <foreign xml:lang="esp">Santo Eſpiritu</foreign> nayoona.<lb/>
+
+<fw type="catchword" place="bottom-right">
+  Hua<pc type="hyphen">-</pc>
+</fw>
+
 <!-- Tristan Pepin's section -->
 <pb n="54"/>
+
+    ...<lb/>
+  </div>
+  <div xml:id="levanto4.3.5">
+    <head type="outline" xml:lang="esp" rend="center" rend="italics">
+      MYSTERIO QUARTO.<lb/>
+      De la Aſſumpcion de Nueſtra Señora.<lb/>
+    </head>
+    ...<lb/>
+  </div>
+    <div xml:id="levanto4.3.6">
+      <head type="outline" xml:lang="esp" rend="center" rend="italics">
+        MYSTERIO QUINTO.<lb/>
+        De la Coronacion de Nueſtra Señora.<lb/>
+      </head>
+      ...<lb/>
+    </div>
+
+<pb n="55"/>
+
+<div xml:id="levanto4.3.7">
+  <head type="outline" xml:lang="esp" rend="center" rend="italics">
+    DEPRECACION<lb/>
+    A la Virgen Nueſtra Señora.<lb/>
+  </head>
+  LOo xcoogo rillahanaaxi<lb/>
+  Quiie rii rigooya ñaalo,<lb/>
+  Niiaxtenni quezii; quellaalo<lb/>
+  Coſrade Xi hue zaniilo Xonaaxi.<lb/>
+  Gaca ciiga ciica <foreign xml:lang="esp">Amen.<lb/>
+  Jesvs, Maria, y Joſeph</foreign>.<lb/>
+</div>
+</div>
+</div>
+
 
 </text>
 </TEI>
