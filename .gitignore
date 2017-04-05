@@ -1,2 +1,3 @@
 *.DS_Store
+levanto/*.html
 __pycache__/
