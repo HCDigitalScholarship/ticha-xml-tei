@@ -1,33 +1,43 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?><?xml-model href="TEISchema_current.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI>
 <text>
-<div xml:lang="esp"> <!-- frontmatter -->
+<div xml:lang="esp" xml:id="levanto1"> <!-- frontmatter -->
+<div xml:id="levanto1.1">
 <pb n="1"/>
 <!-- cover -->
 <pb n="2"/>
 <!-- blank -->
 <pb n="3"/>
 <!-- blank -->
+</div>
+<div xml:id="levanto1.2">
 <pb n="4"/>
+<div xml:id="levanto1.2.1">
 <head rend="center">
   C A T H E C I S M O<lb/>
   D E L A L E N G U A<lb/>
   ZAAPOTECA.<lb/>
   DISPUESTO
 </head>
+</div>
+<div xml:id="levanto1.2.2">
 <p rend="center">
   <i>Por el M. R. P. Maeſtro Fray Leonard Levanto.<lb/>
   Prior Provincial de la Provincia de San Miguel,<lb/>
   y Santos Angeles de la Puebla, del Orden de Predicadores.</i>
 </p>
+</div>
 <!-- woodcut -->
+<div xml:id="levanto1.2.3">
 <p rend="center">
   Reimpreſſo en la Imprenta del Colegio Real de San<lb/>
   Ignacio de la Puebla de los Angeles. Año de 1766.
 </p>
+</div>
+</div> <!-- levanto1.2 -->
 <pb n="5"/>
 <!-- blank -->
-<div> <!-- first frontmatter letter -->
+<div xml:id="levanto1.3">
 <pb n="6"/>
 <head>PARECER<lb/>
   <i>DEL R. PADRE PREDICADOR FRAY<lb/>
@@ -118,7 +128,6 @@
   <fw type="catchword" place="bottom-right">
     <hi>y</hi>
   </fw>
-  <!-- contents of frontmatter pages not entered in this document -->
   <pb n="8"/>
   y charitativo zelo de eſte Autor aver pueſto la Doctrina Chriſ<pc type="hyphen">-</pc><lb break="no"/>
   tiana al modo que oy ſe habla, y entiende la lengua, para<lb/>
@@ -157,8 +166,8 @@
     <i>Fr. Miguel Pantaleon.</i>
   </p>
   <fw type="catchword" place="bottom-right">SEN<pc type="hyphen">-</pc></fw>
-</div> <!-- first frontmatter letter -->
-<div> <!-- second frontmatter letter -->
+</div> <!-- levanto 1.3 -->
+<div xml:id="levanto1.4"> <!-- second frontmatter letter -->
 <pb n="9"/>
   <head>
     SENTIR<lb/>
@@ -197,8 +206,8 @@
     <i>Fr. Nicolas de Casca.</i>
   </p>
   <fw type="catchword" place="bottom-right">APRO.</fw>
-</div> <!-- second frontmatter letter -->
-<div> <!-- third frontmatter letter -->
+</div> <!-- levanto1.4 -->
+<div xml:id="levanto1.5"> 
 <pb n="10"/>
 <head>APROBACION<lb/>
   <i>DEL R. P. PREDICADOR GENERAL FRAY<lb/>
@@ -235,8 +244,8 @@
 <p rend="center">B. L. M. de V. P. M. R. ſu mas rendido, y afecto ſubdito,</p>
 <p rend="center">Fr. Manuel de Laſcari.</p>
 <fw type="catchword" place="bottom-right">SEN</fw>
-<!-- third frontmatter letter -->
-<!-- fourth frontmatter letter -->
+</div> <!-- levanto1.5 -->
+<div xml:id="levanto1.6">
 <pb n="11"/>
 <head>CENSURA<lb/>
   <i>DEL R. P. PREDICADOR GENERAL<lb/>
@@ -293,11 +302,12 @@
 <p rend="center">B. L. M. de V. P. M. R. ſu menor <lb/> Subdito,</p>
 <p rend="center"><i>Fray Antonio de Medina,<lb/>Pred. Gen. y Cura.</i></p>
 <fw type="catchword" place="bottom-right"><i>SUMA</i></fw>
-</div> <!-- fourth frontmatter letter -->
-<div> <!-- suma de las licensias -->
+</div> <!-- levanto1.6 -->
+<div xml:id="levanto1.7">
 <pb n="13"/>
 <head><i>SUMA DE LAS LICENCIAS.</i></head>
 <!-- body of this page is in smaller text -->
+<div xml:id="levanto1.7.1">
 <p>
   EL Excmô Señor D. Juan de Acuña Marques de Caſa Fuerte, Cavalle<pc type="hyphen">-</pc><lb break="no"/>
   ro del Orden de Santiago, Comendador de Adelpha, del Conſejo de<lb/>
@@ -308,7 +318,9 @@
   xaca</i>, viſto el Parecer del <i>R. P. Fr. Miguel Pantaleon</i>, como conſta por ſu<lb/>
   Decreto de 30 de Octubre de 1732. años.
 </p>
+</div>
 <!-- ruled line -->
+<div xml:id="levanto1.7.2">
 <p>
   EL Lic. D. Geronymo de Morales Sigala, Canonigo Lectoral de la San<pc type="hyphen">-</pc><lb break="no"/>
   ta Igleſia Cathedral de Oaxaca, Comiſſario del Santo Oficio de la<lb/>
@@ -321,7 +333,9 @@
   Fr. Nicolas de Gaſca, del ORden de Predicadores, como conſta por ſu au<pc type="hyphen">-</pc><lb break="no"/>
   to de 2 de Septiembre de 1732.
 </p>
+</div>
 <!-- ruled line -->
+<div xml:id="levanto1.7.3">
 <p>
   EL Mrô Fr. Dionyſio Levanto, Prior Provincial de la Provincia de S.<lb/>
   Hipolyto Martyr de Oaxaca, del Orden de Predicadores: Por quan<pc type="hyphen">-</pc><lb break="no"/>
@@ -338,8 +352,9 @@
 <p rend="center">Por mandado de N. M. R. P. Mrô Provincial.</p>
 <p rend="center"><i>Fr. Joſeph de Acoſta,<lb/>Lector de Viſperas, y compañero.</i></p>
 <fw type="catchword" place="bottom-right"><i>AL</i></fw>
-</div> <!-- suma de las licencias -->
-<div> <!-- al que leyere -->
+</div>
+</div> <!-- levanto1.7 -->
+<div xml:id="levanto1.8"> 
 <pb n="14"/>
 <head rend="center">AL QUE LEYERE</head>
 <p>
@@ -388,9 +403,8 @@
   LE.
 </p>
 <p rend="center"><i>Fray Leonardo Levanto.</i></p>
-</div> <!-- all que leyere -->
-</div> <!-- end of frontmatter -->
-
+</div> <!-- levanto1.8 -->
+<div xml:id="levanto1.9">
 <!-- James Truitt's section -->
 <pb n="16"/>
 <cb n="1"/>
@@ -423,10 +437,12 @@ Dios: chela ticharii, ni naca<lb/>
 xbea tichaa Xiñaana Sancta<lb/>
 Igleſia, quiraalii benni Chri<pc type="hyphen">-</pc><lb break="no"/>
 ſtianos gezeeteni, cooqui<pc type="hyphen">-</pc><lb break="no"/>
-queni<lb/>
+queni.<lb/>
 
 <lb/></p>
 <cb n=""/>
+</div> <!-- levanto1.9 -->
+</div> <!-- levanto1 -->
 
 <head><foreign xml:lang="esp">CATHECISMO DE<lb/>
 LA DOCTRINA CHRISTIANA, EN LENGUA<lb/>
