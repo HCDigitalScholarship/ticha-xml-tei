@@ -1,33 +1,43 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?><?xml-model href="TEISchema_current.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI>
 <text>
-<div xml:lang="esp"> <!-- frontmatter -->
+<div xml:lang="esp" xml:id="levanto1"> <!-- frontmatter -->
+<div xml:id="levanto1.1">
 <pb n="1"/>
 <!-- cover -->
 <pb n="2"/>
 <!-- blank -->
 <pb n="3"/>
 <!-- blank -->
+</div>
+<div xml:id="levanto1.2">
 <pb n="4"/>
+<div xml:id="levanto1.2.1">
 <head rend="center">
   C A T H E C I S M O<lb/>
   D E L A L E N G U A<lb/>
   ZAAPOTECA.<lb/>
   DISPUESTO
 </head>
+</div>
+<div xml:id="levanto1.2.2">
 <p rend="center">
   <i>Por el M. R. P. Maeſtro Fray Leonard Levanto.<lb/>
   Prior Provincial de la Provincia de San Miguel,<lb/>
   y Santos Angeles de la Puebla, del Orden de Predicadores.</i>
 </p>
+</div>
 <!-- woodcut -->
+<div xml:id="levanto1.2.3">
 <p rend="center">
   Reimpreſſo en la Imprenta del Colegio Real de San<lb/>
   Ignacio de la Puebla de los Angeles. Año de 1766.
 </p>
+</div>
+</div> <!-- levanto1.2 -->
 <pb n="5"/>
 <!-- blank -->
-<div> <!-- first frontmatter letter -->
+<div xml:id="levanto1.3">
 <pb n="6"/>
 <head>PARECER<lb/>
   <i>DEL R. PADRE PREDICADOR FRAY<lb/>
@@ -118,7 +128,6 @@
   <fw type="catchword" place="bottom-right">
     <hi>y</hi>
   </fw>
-  <!-- contents of frontmatter pages not entered in this document -->
   <pb n="8"/>
   y charitativo zelo de eſte Autor aver pueſto la Doctrina Chriſ<pc type="hyphen">-</pc><lb break="no"/>
   tiana al modo que oy ſe habla, y entiende la lengua, para<lb/>
@@ -157,8 +166,8 @@
     <i>Fr. Miguel Pantaleon.</i>
   </p>
   <fw type="catchword" place="bottom-right">SEN<pc type="hyphen">-</pc></fw>
-</div> <!-- first frontmatter letter -->
-<div> <!-- second frontmatter letter -->
+</div> <!-- levanto 1.3 -->
+<div xml:id="levanto1.4"> <!-- second frontmatter letter -->
 <pb n="9"/>
   <head>
     SENTIR<lb/>
@@ -197,8 +206,8 @@
     <i>Fr. Nicolas de Casca.</i>
   </p>
   <fw type="catchword" place="bottom-right">APRO.</fw>
-</div> <!-- second frontmatter letter -->
-<div> <!-- third frontmatter letter -->
+</div> <!-- levanto1.4 -->
+<div xml:id="levanto1.5">
 <pb n="10"/>
 <head>APROBACION<lb/>
   <i>DEL R. P. PREDICADOR GENERAL FRAY<lb/>
@@ -220,7 +229,7 @@
   he tenido mucho que admirar, y que aprender: en èl hallaràn to<pc type="hyphen">-</pc><lb break="no"/>
   dos los Predicadores Miniſtros zeloſos de eſta Nacion, lo que de<pc type="hyphen">-</pc><lb break="no"/>
   ſean, y lo que nos dice N. Angelico Dr. y Mrô Santo Thomas:<lb/>
-  <foreign xml:lang="lat" rend="italics">Predicatores debent illuminare incredendis, dirigere en operandis, &amp; vi<pc type="hyphen">-</pc><lb break="no"/>
+  <foreign xml:lang="lat" rend="italic">Predicatores debent illuminare incredendis, dirigere en operandis, &amp; vi<pc type="hyphen">-</pc><lb break="no"/>
   tanda manifeſtare.</foreign> Eſtos es lo que contiene eſte Catheciſmo, y eſte<lb/>
   el intento piadoſo, y deſeo fervoroſo del Autor, el que los miſe<pc type="hyphen">-</pc><lb break="no"/>
   rables Indios ſean iluſrados en los Myſterios de nueſtra Santa Fee,<lb/>
@@ -228,15 +237,15 @@
   de muchas culpas: y por todo lo qual de uvticia ſe debe dar â la<lb/>
   Imprente, pues en eſta obra no ay coſa contraria â Nrâ Sta Fee, y<lb/>
   buenas coſtumbres, antes sí lo mas acryſolado de nuesſtra Santa<lb/>
-  Ley. Eſte es mi parecer: <foreign xml:lang="lat" rend="italics">salvo meliori</foreign>. Caſa de S. Andres Zautla, y<lb/>
+  Ley. Eſte es mi parecer: <foreign xml:lang="lat" rend="italic">salvo meliori</foreign>. Caſa de S. Andres Zautla, y<lb/>
   Junio 26 de 1732 años.
 </p>
 <p rend="center">M. R. P. N. M. Provincial,</p>
 <p rend="center">B. L. M. de V. P. M. R. ſu mas rendido, y afecto ſubdito,</p>
 <p rend="center">Fr. Manuel de Laſcari.</p>
 <fw type="catchword" place="bottom-right">SEN</fw>
-<!-- third frontmatter letter -->
-<!-- fourth frontmatter letter -->
+</div> <!-- levanto1.5 -->
+<div xml:id="levanto1.6">
 <pb n="11"/>
 <head>CENSURA<lb/>
   <i>DEL R. P. PREDICADOR GENERAL<lb/>
@@ -265,7 +274,7 @@
 <p>
   Dos coſas tiene la explicacion, y enſeñanza de la Doc<pc type="hyphen">-</pc><lb break="no"/>
   trina Chriſtiana, que es alumbrar, y dar entenimiento a los<lb/>
-  pequeños. Dixolo aſsi el Real Propheta David: <foreign xml:lang="lat" rend="italics">Declario ſer<pc type="hyphen">-</pc><lb break="no"/>
+  pequeños. Dixolo aſsi el Real Propheta David: <foreign xml:lang="lat" rend="italic">Declario ſer<pc type="hyphen">-</pc><lb break="no"/>
   monum tuorum illuminat; &amp; intellectum dat parvulis</foreign>, â los peritos,<lb/>
   â los que ya entienden, alumbra; y â los pequeños, y parvu<pc type="hyphen">-</pc><lb break="no"/>
   los dà entendimiento, en eſta explicacion hallo ſe verifica lo<lb/>
@@ -293,11 +302,12 @@
 <p rend="center">B. L. M. de V. P. M. R. ſu menor <lb/> Subdito,</p>
 <p rend="center"><i>Fray Antonio de Medina,<lb/>Pred. Gen. y Cura.</i></p>
 <fw type="catchword" place="bottom-right"><i>SUMA</i></fw>
-</div> <!-- fourth frontmatter letter -->
-<div> <!-- suma de las licensias -->
+</div> <!-- levanto1.6 -->
+<div xml:id="levanto1.7">
 <pb n="13"/>
 <head><i>SUMA DE LAS LICENCIAS.</i></head>
 <!-- body of this page is in smaller text -->
+<div xml:id="levanto1.7.1">
 <p>
   EL Excmô Señor D. Juan de Acuña Marques de Caſa Fuerte, Cavalle<pc type="hyphen">-</pc><lb break="no"/>
   ro del Orden de Santiago, Comendador de Adelpha, del Conſejo de<lb/>
@@ -308,7 +318,9 @@
   xaca</i>, viſto el Parecer del <i>R. P. Fr. Miguel Pantaleon</i>, como conſta por ſu<lb/>
   Decreto de 30 de Octubre de 1732. años.
 </p>
+</div>
 <!-- ruled line -->
+<div xml:id="levanto1.7.2">
 <p>
   EL Lic. D. Geronymo de Morales Sigala, Canonigo Lectoral de la San<pc type="hyphen">-</pc><lb break="no"/>
   ta Igleſia Cathedral de Oaxaca, Comiſſario del Santo Oficio de la<lb/>
@@ -321,7 +333,9 @@
   Fr. Nicolas de Gaſca, del ORden de Predicadores, como conſta por ſu au<pc type="hyphen">-</pc><lb break="no"/>
   to de 2 de Septiembre de 1732.
 </p>
+</div>
 <!-- ruled line -->
+<div xml:id="levanto1.7.3">
 <p>
   EL Mrô Fr. Dionyſio Levanto, Prior Provincial de la Provincia de S.<lb/>
   Hipolyto Martyr de Oaxaca, del Orden de Predicadores: Por quan<pc type="hyphen">-</pc><lb break="no"/>
@@ -331,15 +345,16 @@
   qual eſta aprobado por los RR. PP. Predicadores Generales, y Curas Fr.<lb/>
   Antonio de Medina, y Fr. Manuel de Laſeari: por la preſente, y por la<lb/>
   autoridad de nueſtro Oficio, doy licencia, para que ſe pueda imprimir di<pc type="hyphen">-</pc><lb break="no"/>
-  cho Catheciſmo, <foreign xml:lang="lat" rend="italics">ſervando jure ſervandis</foreign>. Dada en nueſtra Caſa de Zachila<lb/>
+  cho Catheciſmo, <foreign xml:lang="lat" rend="italic">ſervando jure ſervandis</foreign>. Dada en nueſtra Caſa de Zachila<lb/>
   en 13 de Julio de 1732 años.
 </p>
 <p rend="center"><i>Fr. Dionyſio Levanto,<lb/>Mrô Proâl.</i></p>
 <p rend="center">Por mandado de N. M. R. P. Mrô Provincial.</p>
 <p rend="center"><i>Fr. Joſeph de Acoſta,<lb/>Lector de Viſperas, y compañero.</i></p>
 <fw type="catchword" place="bottom-right"><i>AL</i></fw>
-</div> <!-- suma de las licencias -->
-<div> <!-- al que leyere -->
+</div>
+</div> <!-- levanto1.7 -->
+<div xml:id="levanto1.8">
 <pb n="14"/>
 <head rend="center">AL QUE LEYERE</head>
 <p>
@@ -371,26 +386,25 @@
 <fw type="catchword" place="bottom-right">nun<pc type="hyphen">-</pc></fw>
 <pb n="15"/>
 <p>
-  nuncian como <i>elles</i> en romance; ſino ſolo algunos:
-  los mas ſe pronuncian ſeparadas las <i>eles</i>, cargando la
-  vocal antecedente ſobra la primera <i>ele</i>; y la ſegunda
-  <i>ele</i> cargando ſobre la coval ſiguiente: V. g. <foreign xml:lang="zap" rend="italics">Rol-la</foreign>.
-  Y en tierra caliente la primera <i>ele</i>, la pronuncian co-
-  mo <i>n</i>. y la ſegunda como <i>d</i>. V. g. <foreign xml:lang="zap" rend="italics">Quella</foreign>, dicen <i>Quenda</i>:
-  y aſsi los demàs vocablos, que tienen dos <i>ll</i>. ſeparadas:
-  Iten en tierra Caliente la letra <i>e</i>. ordinariamente, la pro-
-  nuncian como <i>i</i>. V. g. <foreign xml:lang="zap" rend="italics">Rete</foreign>, dicen <i>Riti</i>. Quando el voca-
-  blo de mas de dos ſilabas, tiene en la penultima dos con-
-  ſonantes, ò dos vocales, ſe ha de pronunciar largo:
-  quando no tuviere mas que una, ſe ha de pronun-
-  ciar breve. V. g. <foreign xml:lang="zap" rend="italics">Naquiñe</foreign>, y <foreign xml:lang="zap" rend="italics">Bejuana</foreign>, ſe dicen, y pro-
-  nuncian largos. <foreign xml:lang="zap" rend="italics">Riteetelo: huariieliilachia</foreign>, breves. VA-
+  nuncian como <i>elles</i> en romance; ſino ſolo algunos:<lb/>
+  los mas ſe pronuncian ſeparadas las <i>eles</i>, cargando la<lb/>
+  vocal antecedente ſobra la primera <i>ele</i>; y la ſegunda<lb/>
+  <i>ele</i> cargando ſobre la coval ſiguiente: V. g. <foreign xml:lang="zap" rend="italic">Rol-la</foreign>.<lb/>
+  Y en tierra caliente la primera <i>ele</i>, la pronuncian co<pc type="hyphen">-</pc><lb break="no"/>
+  mo <i>n</i>. y la ſegunda como <i>d</i>. V. g. <foreign xml:lang="zap" rend="italic">Quella</foreign>, dicen <i>Quenda</i>:<lb/>
+  y aſsi los demàs vocablos, que tienen dos <i>ll</i>. ſeparadas:<lb/>
+  Iten en tierra Caliente la letra <i>e</i>. ordinariamente, la pro<pc type="hyphen">-</pc><lb break="no"/>
+  nuncian como <i>i</i>. V. g. <foreign xml:lang="zap" rend="italic">Rete</foreign>, dicen <i>Riti</i>. Quando el voca<pc type="hyphen">-</pc><lb break="no"/>
+  blo de mas de dos ſilabas, tiene en la penultima dos con<pc type="hyphen">-</pc><lb break="no"/>
+  ſonantes, ò dos vocales, ſe ha de pronunciar largo:<lb/>
+  quando no tuviere mas que una, ſe ha de pronun<pc type="hyphen">-</pc><lb break="no"/>
+  ciar breve. V. g. <foreign xml:lang="zap" rend="italic">Naquiñe</foreign>, y <foreign xml:lang="zap" rend="italic">Bejuana</foreign>, ſe dicen, y pro<pc type="hyphen">-</pc><lb break="no"/>
+  nuncian largos. <foreign xml:lang="zap" rend="italic">Riteetelo: huariieliilachia</foreign>, breves. VA<pc type="hyphen">-</pc><lb break="no"/>
   LE.
 </p>
 <p rend="center"><i>Fray Leonardo Levanto.</i></p>
-</div> <!-- all que leyere -->
-</div> <!-- end of frontmatter -->
-
+</div> <!-- levanto1.8 -->
+<div xml:id="levanto1.9">
 <!-- James Truitt's section -->
 <pb n="16"/>
 <cb n="1"/>
@@ -423,10 +437,12 @@ Dios: chela ticharii, ni naca<lb/>
 xbea tichaa Xiñaana Sancta<lb/>
 Igleſia, quiraalii benni Chri<pc type="hyphen">-</pc><lb break="no"/>
 ſtianos gezeeteni, cooqui<pc type="hyphen">-</pc><lb break="no"/>
-queni<lb/>
+queni.<lb/>
 
 <lb/></p>
 <cb n=""/>
+</div> <!-- levanto1.9 -->
+</div> <!-- levanto1 -->
 
 <head><foreign xml:lang="esp">CATHECISMO DE<lb/>
 LA DOCTRINA CHRISTIANA, EN LENGUA<lb/>
@@ -564,11 +580,11 @@ zaalahuezaa.<lb/>
 6.	Coxoopa Xiibaa: huariieliilachia yoobi Dios nàca ni-<lb/>
 	hueziilla, ni rinniitilooni, ni rexihuina.<lb/>
 7.	Cooche Xibaa: huariielii-làchia yoobi Dios nàca xihue-<lb/>
-	neche xiquicharoo (ni laa Gloria) lanni quiieba.<lb/>
+	neche xiquicharoo (ni laa <foreign xml:lang="esp" rend="italic">Gloria</foreign>) lanni quiieba.<lb/>
 
 
 <head><foreign xml:lang="esp"> LOS QUE PERTENECEN A LA SAN:<lb/>
-ta Humanidad, &amp;c</foreign>.</head>
+<i>ta Humanidad, &amp;c.</i></foreign></head>
 
 
 A Laari: Zeecaache Xiiba xtenni Bejuannana <foreign xml:lang="esp">Jeſu Chriſto</foreign><lb/>
@@ -625,7 +641,7 @@ huaniirô  riquiiñe, niiani quixoóhuina chiiña Bejuannana.<lb/>
 2. Coroopa Xiibaa nirii: Yácozeetexihuilo, yà cozaacaxi-<lb/>
     huilo Laa nachoono Bejuannana <foreign xml:lang="esp">Dios</foreign>.<lb/>
 
-3. Coyoona Xiibaa nirii: Chii <foreign xml:lang="esp">Domingo</foreign> chii laani roo, chii<lb/>
+3. Coyoona Xiibaa nirii: Chii <foreign xml:lang="esp"><hi rend="italic">Domingo</hi></foreign> chii laani roo, chii<lb/>
    lanii xi Biitoolo <foreign xml:lang="esp">Dios</foreign>, chèla <foreign xml:lang="esp">Santos</foreign> ni peaàca xilaniini,<lb/>
    gapachahilo, zinaachilo.<lb/>
 
@@ -652,6 +668,7 @@ huaniirô  riquiiñe, niiani quixoóhuina chiiña Bejuannana.<lb/>
 
 <fw type="catchword" place="bottom-right">Qui</fw><pc type="hyphen">-</pc><lb/>
 <pb n="22"/>
+<fw type="pageNum" place="top-right">7</fw>
 
 Quichii Xiibaa nirii cánni caato cuee nacani: Cotoobi<lb/>
 Xiibaa nirii Gannachiilo Bejuannana <foreign xml:lang="esp">Dios</foreign> hualiica Bi-<lb/>
@@ -667,18 +684,18 @@ ciica nachiiyoobilo. Gaca ciiga ciica. <foreign xml:lang="esp">Jeſus</foreign>.
 ALaarij: Ni rennabea Xiñaana <foreign xml:lang="esp">Santa Igleſia</foreign>, ni quènnina<lb/>
 	ruarii guechelayoo, càni gaayo Xiibaa.<lb/>
 1.	Cotoobi Xiibaa nirii: Cànnalo, cónnalo, quitoobi Miſ-<lb/>
-	fa, chii <foreign xml:lang="esp">Domingo</foreign>, chiilani roo.<lb/>
+	fa, chii <foreign xml:lang="esp"><hi rend="italic">Domingo</hi></foreign>, chiilani roo.<lb/>
 2.	Coroopa Xiibaa nirii: Coxoobaxtollalo quiraa, ni pe-<lb/>
 	zihuilo, loo Bixooce Coopa Bitoo, Chaaga chaaga<lb/>
-	iiza, chaaga liaaza, chii <foreign xml:lang="esp">Quareſma</foreign> coxoobaxtollalo, chií<lb/>
-	huazeene racalo: chela chii racalachi ziilo <foreign xml:lang="esp">Santiſsimo<lb/>
-	Sacramento</foreign>.<lb/>
+	iiza, chaaga liaaza, chii <foreign xml:lang="esp"><hi rend="italic">Quareſma</hi></foreign> coxoobaxtollalo, chií<lb/>
+	huazeene racalo: chela chii racalachi ziilo <foreign xml:lang="esp"><hi rend="italic">Santiſsimo<lb/>
+	Sacramento</hi></foreign>.<lb/>
 3.	Coyoona Xibaa nirii: Ziiliiolachilo Xpellaalaati Bejuan-<lb/>
 	nana <foreign xml:lang="esp">Jeſu Chriſto</foreign> chaaga chaga iiza, chaaga liaza chii
-	<foreign xml:lang="esp">Paſcua</foreign> quiie.<lb/>
+	<foreign xml:lang="esp" rend="italics">Paſcua</foreign> quiie.<lb/>
 4.	Cotaapa Xiibaa nirii: Cocuanalo Guetta, cocuanalo pel-<lb/>
 	la, chi rennabea Xiñaana <foreign xml:lang="esp">Santa Igleſia</foreign>.<lb/>
-5.	Cooyo Xiibaa nirii: Quegoolo goona <foreign xml:lang="esp">Diezmos Primi-<lb/>
+5.	Cooyo Xiibaa nirii: Quegoolo goona <foreign xml:lang="esp" rend="italics">Diezmos Primi-<lb/>
 	cias</foreign> lo Yohotoo lichi Bejuannana <foreign xml:lang="esp">Dios</foreign>, chii rennabea<lb/>
 		Xiñaana <foreign xml:lang="esp">Santa Igleſia</foreign>. Gàaca ciiga ciica. <foreign xml:lang="esp">Jesſus</foreign>.<lb/>
 
@@ -687,10 +704,11 @@ ALaarij: Ni rennabea Xiñaana <foreign xml:lang="esp">Santa Igleſia</foreign>, 
   dre Iglesſia, &amp;c.
 </head>
 
-ALaarij: Quellahuennitiiloo quellahuexcihui, ni laa <foreign xml:lang="esp">Sacra-<lb/>
-mentos</foreign>: càni cache Xiibaa.<lb/>
+ALaarij: Quellahuennitiiloo quellahuexcihui, ni laa <foreign xml:lang="esp"><hi rend="italic">Sacra-<lb/>
+mentos</hi></foreign>: càni cache Xiibaa.<lb/>
 1.	Cotoobi Xiibaa niiri: Quellariroobaniza quique patoo,<lb/>
-nilaa <foreign xml:lang="esp">bautiſmo</foreign>.<lb/>
+nilaa <foreign xml:lang="esp" rend="italics">bautiſmo</foreign>.<lb/>
+
 <fw type="catchword" place="bottom-right">2. Co</fw><pc type="hyphen">-</pc><lb/>
 
 <pb n="23"/>
@@ -765,8 +783,8 @@ lanazij.<lb/>
 laà Quellarinniilaaya loo Bejuannana <foreign xml:lang="esp">Dios</foreign>, niiaxtenni<lb/>
 benni nabaanilà, benni gootilá. Gaca ciiga ciica. <foreign xml:lang="esp">Jeſus</foreign>.<lb/><lb/>
 
-<head><pc rend="center"><foreign xml:lang="esp">LOS PECADOS MORTALES SON<lb/>
-ſiete, &amp;c</foreign>.</head></pc><lb/><lb/>
+<head><foreign xml:lang="esp">LOS PECADOS MORTALES SON<lb/>
+ſiete, &amp;c</foreign>.</head><lb/><lb/>
 
 A Laarii: Quellahuechiie, tolla roo, tolla rotilla caache loo<lb/>
 nacanni.<lb/>
@@ -798,7 +816,7 @@ ALaarii: Zeecaacheloo quellanazacca, nilaa Virtudes, ni<lb/>
 nariitillani loo quellahuexìhui narroba, niròttini anima,<lb/>
 	ni laa <foreign xml:lang="esp">pecados mortales</foreign>.<lb/>
 
-1. Cotoobi loo: Quellanazaca naca Quellanatoolachi, niri <pc type="hyphen">-</pc><lb />
+1. Cotoobi loo: Quellanazaca naca Quellanatoolachi, niri<pc type="hyphen">-</pc><lb />
 	Tillaneeni quellariyaalàchi, laa <foreign xml:lang="esp">Humildad contra ſobervia</foreign>.<lb/>
 
 2. Coroopa loo: Quellanazaaca naca Quella huezaalachi,<lb/>
@@ -807,27 +825,27 @@ laa quellahuexillaa lezaani xitiila ziquichani, niritiliañeeni<lb/>
 3. Coyoona loo: Quellanazaaca naca Quellacopachàhui<lb/>
 pellalaatini, ni ritillañeeni quella cobeexe, laa <foreign xml:lang="esp">Caſtidad,
 	contra Lujuria</foreign>.<lb/>
-4. Cotaapa loo: Quellanazaaca naca Quellagooche, que <pc type="hyphen">-</pc><lb/>
+4. Cotaapa loo: Quellanazaaca naca Quellagooche, que<pc type="hyphen">-</pc><lb/>
 	llachiiloo, quellachiilàchi: laa <foreign xml:lang="esp">Manſedumbre, contra ira</foreign>.<lb/>
 5. Coyoo loo Queiianazaaca naca Quellaraagohuaxiia,<lb/>
 Quallacohuehuaxiia, niritillañeeni quellaraagoxaata, laa<lb/>
 	<foreign xml:lang="esp">Templanza contra Gula</foreign>.<lb/>
-6. Coxoopa loo: Quellanazaaca naca Quellaconnachii le <pc type="hyphen">-</pc><lb/>
+6. Coxoopa loo: Quellanazaaca naca Quellaconnachii le<pc type="hyphen">-</pc><lb/>
 zaani, ni ritillañeni quellahuelacelàchi niiaxtenni rixeenni<lb/>
 laa nayaa, laà nazoobàcháhui lezaani, laa Chasidad, ô<lb/>
 	<foreign xml:lang="esp">Amor, contra Embidia</foreign>.<lb/>
-7. Cooche loo: Quellanazaaca nàca Quellanaciiña, quella <pc type="hyphen">-</pc><lb/>
+7. Cooche loo: Quellanazaaca nàca Quellanaciiña, quella<pc type="hyphen">-</pc><lb/>
 naqueenelachi, ni ritillañeeni quellacobeete, quellalea,<lb/>
 	laa <foreign xml:lang="esp">Diligencia, contra Pereza</foreign>.
 
 <head><foreign xml:lang="esp">LOS ENEMIGOS DE EL ALMA, SON<lb/>
 	tres, &amp;c.</foreign></head><lb/>
 
-ALaarii: Choonaloo ni rizooba quelayeeni, ni rigooxihui <pc type="hyphen">-</pc><lb/>
-ni zellii tonoo benni <pc type="hyphen">-</pc>aati, ni ràbini xquelayee <foreign xml:lang="lat">Anima</foreign>.<lb/>
+ALaarii: Choonaloo ni rizooba quelayeeni, ni rigooxihui<pc type="hyphen">-</pc><lb/>
+ni zellii tonoo benniaati, ni ràbini xquelayee <foreign xml:lang="lat">Anima</foreign>.<lb/>
 
 <fw type="catchword" place="bottom-right">
-1 Co <pc type="hyphen">-</pc>
+1 Co<pc type="hyphen">-</pc>
 </fw>
 
 
@@ -842,15 +860,15 @@ ni zellii tonoo benni <pc type="hyphen">-</pc>aati, ni ràbini xquelayee <foreig
 
 ALaarii: Caache Quellanazaaca, ni ronnini nazaacalàchi<lb/>
 	benniaati laa <foreign xml:lang="esp">Virtudes Theologales</foreign> la, <foreign xml:lang="esp">Cardinales</foreign> lá:<lb/>
-	Choona Quellanazaaca, laa <foreign xml:lang="esp">Virtudes Theologales</foreign>, rogo <pc type="hyphen">-</pc><lb/>
-chîgaliini tonoo loo Bejuannana Dios Zeetaapa Quella <pc type="hyphen">-</pc><lb/>
+	Choona Quellanazaaca, laa <foreign xml:lang="esp">Virtudes Theologales</foreign>, rogo<pc type="hyphen">-</pc><lb/>
+chîgaliini tonoo loo Bejuannana Dios Zeetaapa Quella<pc type="hyphen">-</pc><lb/>
 	nazaaca, laa <foreign xml:lang="esp">Cardinales</foreign>, rogozoochahuini tonoo loo<lb/>
 benniaati ruarii guechelayoo.<lb/>
 
 <head><foreign xml:lang="esp">LAS VIRTUDES THEOLOGALES, SON<lb/>
 	tres, &amp;c.</foreign></head><lb/>
 
-ALaarii: Chonaloo Quellanazaaca, <foreign xml:lang="esp">laa Virtudes Theo <pc type="hyphen">-</pc><lb/>
+ALaarii: Chonaloo Quellanazaaca, <foreign xml:lang="esp">laa Virtudes Theo<pc type="hyphen">-</pc><lb/>
 	logales</foreign>.<lb/>
 
 1. Cotoobi loo: Quellanazaaca naca Quellariieliilàchi Dios,<lb/>
@@ -863,7 +881,7 @@ ALaarii: Chonaloo Quellanazaaca, <foreign xml:lang="esp">laa Virtudes Theo <pc t
 <head><foreign xml:lang="esp">LAS VIRTUDES CARDINALES, SON<lb/>
 quatro, &amp;c.</foreign></head><lb/>
 
-	ZEetaapa Quellanazaaca naciilla <foreign xml:lang="esp">Cardinales</foreign>: quellaniron <pc type="hyphen">-</pc><lb/>
+	ZEetaapa Quellanazaaca naciilla <foreign xml:lang="esp">Cardinales</foreign>: quellaniron<pc type="hyphen">-</pc><lb/>
 nini nazaaca rogozoochahuini benniáti lezaani.<lb/>
 1. Cotoobi loo: Quellanazaaca naca Quellarecheelachàhui<lb/>
 	Pèanallii, quellariiennilii quiraalii loo, laa <foreign xml:lang="esp">Prudencia</foreign>.<lb/>
@@ -878,17 +896,17 @@ quizaa
 
 quizaa loo, chela quellahueneeche, queyareyoohuitoo<lb/>
 	toobigaa lezaani, ni naca xtenni yoobini, la <foreign xml:lang="esp">Juſlicia</foreign><lb/>
-3. Coyoona loo: Quellanazaaca naca Quellanaguiio, que <pc type="hyphen">-</pc><lb/>
+3. Coyoona loo: Quellanazaaca naca Quellanaguiio, que<pc type="hyphen">-</pc><lb/>
 	llatipalachi, laa <foreign xml:lang="esp">Fortaleza</foreign><lb/>
 4. Cotaapa loo: Quellanazaaca naca Quellarizii hualahuitii(?)<lb/>
-quiraalii loo, ni naqiiña xiténni yoobi bènni: ciica na <pc type="hyphen">-</pc><lb/>
-ca quellahuaagohuaxiia quellacóhuéhuaxiia, quellaco <pc type="hyphen">-</pc><lb/>
+quiraalii loo, ni naqiiña xiténni yoobi bènni: ciica na<pc type="hyphen">-</pc><lb/>
+ca quellahuaagohuaxiia quellacóhuéhuaxiia, quellaco<pc type="hyphen">-</pc><lb/>
 	tagaacihuaxiia, quellacoguiitehuaxiia, laa <foreign xml:lang="esp">Templanza</foreign>.<lb/>
 
 <head><foreign xml:lang="esp">LAS POTENCIAS DEL ALMA SON<lb/>
 	tres, &amp;c.</foreign></head><lb/>
 
-ALaarii: Chona.loo quellanaguiichi xtenni Anima, laa <foreign xml:lang="esp">Po <pc type="hyphen">-</pc><lb/>
+ALaarii: Chona.loo quellanaguiichi xtenni Anima, laa <foreign xml:lang="esp">Po<pc type="hyphen">-</pc><lb/>
 	tencias del Alma</foreign>.<lb/>
 	1. Cotoobi loo: Quellariieguennaláchi, laa <foreign xml:lang="esp">Memoria</foreign>.<lb/>
 	2. Coroopa loo: Quellariienni, la <foreign xml:lang="esp">Entendimiento</foreign>.<lb/>
@@ -897,7 +915,7 @@ ALaarii: Chona.loo quellanaguiichi xtenni Anima, laa <foreign xml:lang="esp">Po 
 <head><foreign xml:lang="esp">LOS SENTIDOS CORPORALES SON<lb/>
 	cinco, &amp;c.</foreign></head><lb/>
 
-ALaarii: Gaayo loo quellanaguiichi xtenni pellalati, ni nien <pc type="hyphen">-</pc><lb/>
+ALaarii: Gaayo loo quellanaguiichi xtenni pellalati, ni nien<pc type="hyphen">-</pc><lb/>
 niloo.<lb/>
 1. Cotoobi loo: Quellaconna pizaaloo, laa <foreign xml:lang="esp">Veer</foreign>.<lb/>
 2. Coroopa loo: Quellahuiiñatiiaaga, laa <foreign xml:lang="esp">Oir</foreign>.<lb/>
@@ -911,47 +929,47 @@ niloo.<lb/>
 Alaari: Caacheloo Xillaatoo xtènni Efpiritu Santo, ni<lb/>
 
 <fw type="catchword" place="bottom-right">
-rezaa <pc type="hyphen">-</pc>
+rezaa<pc type="hyphen">-</pc>
 </fw>
 
 <pb n="28"/>
-rezaaláchi, rozèeche Xillaani toono benniaatio huéche <pc type="hyphen">-</pc><lb/>
+rezaaláchi, rozèeche Xillaani toono benniaatio huéche<pc type="hyphen">-</pc><lb/>
 layoo.<lb/>
 1.Cotoobi loo: Quellanonal xticha Dios, la <foreign xml:lang="esp">Sabiduria</foreign>.<lb/>
 2.Coroopa loo: Quellariiennilii, laa <foreign xml:lang="esp">Entendimiento</foreign>.<lb/>
 3.Coyoona loo: Quellahuexiiaticha, la <foreign xml:lang="esp">Conſejo</foreign>.<lb/>
-4.Cotaapa loo:Quellanguiio , quellanatiipaláchie, la <foreign xml:lang="esp">For <pc type="hyphen">-</pc><lb/>
+4.Cotaapa loo:Quellanguiio , quellanatiipaláchie, la <foreign xml:lang="esp">For<pc type="hyphen">-</pc><lb/>
 taleza</foreign>.<lb/>
-5.Cooyo loo:Quellannaloo, quellariiennilii xtichaguee <pc type="hyphen">-</pc><lb/>
+5.Cooyo loo:Quellannaloo, quellariiennilii xtichaguee<pc type="hyphen">-</pc><lb/>
 che layoo, laa <foreign xml:lang="esp">Ciencia</foreign>.<lb/>
-6.Cocoopa loo: Quellaconnazii , quellaconnachibaa, bé <pc type="hyphen">-</pc><lb/>
+6.Cocoopa loo: Quellaconnazii , quellaconnachibaa, bé<pc type="hyphen">-</pc><lb/>
 nnizii lezaani, laa <foreign xml:lang="esp">Piedad</foreign>.<lb/>
-7.Coocge loo: Quellanachiibi Bejuanna Dios, laa <foreign xml:lang="esp">Te <pc type="hyphen">-</pc><lb/>
-	mor de Dios</foreign><lb/>
+7.Coocge loo: Quellanachiibi Bejuanna Dios, laa <foreign xml:lang="esp">Te<pc type="hyphen">-</pc><lb/>
+	mor de Dios</foreign>
 
-<head><foreign xml:lang="esp">EXPLICACION.</foreign></head><lb/>
+<head><foreign xml:lang="esp">EXPLICACION.</foreign></head>
 
-QUiaache loo nirii ribeexilla loo nirii ribeexilaa Dios Efpiritu Santo, róhuini<lb/>
-benniaati, niiani gaca naguiio, gaca naguiichilachini, co <pc type="hyphen">-</pc><lb/>
+QUiaache loo nirii ribeexilla Dios Efpiritu Santo, róhuini<lb/>
+benniaati, niiani gaca naguiio, gaca naguiichilachini, co<pc type="hyphen">-</pc><lb/>
 zacnini, gónnini quellanazaaca ciroo, ni reteeteni loo<lb/>
 pea quellabenn(?)iaati: niácani naguiñe quezaabiquique,<lb/>
 quezaabiñaatcnoo loo ni, quetiiñana quitoobi láchina<lb/>
-goneeche ciicani tonoo Xilla nirii.<lb/>
+goneeche ciicani tonoo Xilla nirii.
 
 <head><foreign xml:lang="esp">LAS BIENAVENTURANZAS SON<lb/>
-Ocho, &amp;c.</foreign></head><lb/>
+Ocho, &amp;c.</foreign></head>
 
-ALaarii Xoono cue Quellabaa, nirizii, ni rizaacabaa ben <pc type="hyphen">-</pc><lb/>
+ALaarii Xoono cue Quellabaa, nirizii, ni rizaacabaa ben<pc type="hyphen">-</pc><lb/>
 niaati nazaaca lanni quehuibaa.<lb/>
-1.Cootoobi cuee: Baalanna naca benni zii, peazii no la <pc type="hyphen">-</pc><lb/>
-chi yoobini: quellani Xquellacooquii quiiebaa naca xten <pc type="hyphen">-</pc><lb/>
+1.Cootoobi cuee: Baalanna naca benni zii, peazii no la<pc type="hyphen">-</pc><lb/>
+chi yoobini: quellani Xquellacooquii quiiebaa naca xten<pc type="hyphen">-</pc><lb/>
 ni benni canii.<lb/>
 2. Coroopa Cue Baalanna naca benni chiiloo, chiilachi ,<lb/>
 Nallapalachini : quellani zaziixillaani xilayoo bbenni na<lb/>
 zaaca quee.<lb/>
 
 <fw type="catchword" place="bottom-right">
-C(?) 3.Co <pc type="hyphen">-</pc>
+C(?) 3.Co<pc type="hyphen">-</pc>
 </fw>
 
 <!-- Claire Benham's section -->
@@ -1086,7 +1104,7 @@ ca yoobilo, ni nazaacateete, yacà nagaabanix quella<pc type="hyphen">-</pc><lb/
 </fw>
 
 <pb n="32"/>
-
+<fw type="pageNum" place="top-right">17</fw>
 nazaacalo: Relaceteetelàchia niiaxtenni quiraa, ni pe<pc type="hyphen">-</pc><lb/>
 xihuia loolo. Ricaabilachia loo quella <foreign xml:lang="esp">gracia</foreign> xtènnilo,<lb/>
 azootichìi queoxihuia, chela ricaabilachia quexoobax<pc type="hyphen">-</pc><lb/>
@@ -1997,6 +2015,7 @@ DOCTRINA CHRISTIANA.</foreign></head>
     ROSARIO.<lb/>
   </head>
 <!-- decoration -->
+
 <div xml:id="levanto4.1">
   <head type="outline" xml:lang="esp" rend="center">
     MYSTERIOS GOZOSOS
@@ -2147,7 +2166,7 @@ DOCTRINA CHRISTIANA.</foreign></head>
 	Loo calooxe quellanaha,<lb/>
 	Ni coxaaca xiBiitooya.<lb/>
   <div xml:id="levanto4.2.1">
-    <head type="outline" xml:lang="esp" rend="center" rend="italics">
+    <head type="outline" xml:lang="esp" rend="center italics">
       MYSTERIO PRIMERO.<lb/>
       La Oracion del Huerto.<lb/>
     </head>
@@ -2161,7 +2180,7 @@ DOCTRINA CHRISTIANA.</foreign></head>
   	Ciica niça loona looni.<lb/>
   </div>
   <div xml:id="levanto4.2.2">
-    <head type="outline" xml:lang="esp" rend="center" rend="italics">
+    <head type="outline" xml:lang="esp" rend="center italics">
       MYSTERIO SEGUNDO.<lb/>
       De los Azotes â la Columna.<lb/>
     </head>
@@ -2216,7 +2235,6 @@ DOCTRINA CHRISTIANA.</foreign></head>
     </head>
 
 <fw type="catchword" place="bottom-right">Ni</fw>Can</text><pc type="hyphen">-</pc><lb/>
-
 
 <!-- James Faville's section -->
 <pb n="52"/>

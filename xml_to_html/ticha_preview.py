@@ -4,7 +4,7 @@
 """
 import sys
 import os
-from ticha_magic import xml_to_html
+from xslt_magic import xml_to_html
 
 TEMPLATE = """\
 <!DOCTYPE html>
@@ -37,7 +37,7 @@ if __name__ == '__main__':
         in_path = sys.argv[1]
         if len(sys.argv) == 2:
             name, ext = os.path.splitext(in_path)
-            out_path = name + '.html'
+            out_path = name + '_preview.html'
         else:
             out_path = sys.argv[2]
         with open(in_path, 'r', encoding='utf-8') as ifsock:
