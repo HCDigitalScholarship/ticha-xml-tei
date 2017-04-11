@@ -4,7 +4,7 @@
 """
 import sys
 import os
-from ticha_magic import xml_to_html
+from xslt_magic import xml_to_html
 
 TEMPLATE = """\
 <!DOCTYPE html>
