@@ -7,85 +7,81 @@ from collections import namedtuple
 
 def xml_to_outline(data):
     """Given XML data as a string, return an HTML outline."""
-    return sections_to_outline(extract_sections(data))
-
-def sections_to_outline(sections):
-    """Given a list of Section objects (i.e., the output of extract_sections), return an HTML 
-       outline.
-
-       Look at the HTML source of https://ticha.haverford.edu/en/outline starting around line 123
-       to see what HTML structure this function should output, except for now the dropbown buttons
-       are not included.
-    """
-    builder = ET.TreeBuilder()
-    builder.start('div', {'class':'index'})
-    builder.start('ul')
-    current_number = '1'
-    for section in sections:
-        # note that after each iteration of the loop, there is an unclosed <li> tag
-        if len(section.number) > len(current_number):
-            # opening a new subsection
-            builder.start('ul', {'id':'section' + current_number})
-        elif len(section.number) < len(current_number):
-            # closing a subsection
-            builder.end('ul')
-        builder.start('li')
-        builder.start('a', {'href':'/en/texts/levanto/{}/original'.format(section.page)})
-        # i.e., 1.3.1 Licencia
-        builder.data(section.number + ' ' + section.title)
-        builder.end('a')
-        builder.end('li')
-        current_number = section.number
-    builder.end('ul')
-    builder.end('div')
-    el = builder.close()
-    return ET.tostring(el, encoding='unicode')
-
+    target = OutlineBuilder(first_page=5)
+    parser = ET.XMLParser(target=target)
+    parser.feed(data)
+    root = target.close()
+    return ET.tostring(root, encoding='unicode')
 
 # class to represent Sections
 Section = namedtuple('Section', ['number', 'title', 'page'])
 
-class ExtractSectionsTarget:
-    def __init__(self, first_page=0):
+class OutlineBuilder(ET.TreeBuilder):
+    url = '/en/texts/{0.text}/{0.in_progress.page}/original'
+
+    def __init__(self, *args, text='levanto', first_page=0, **kwargs):
+        super().__init__(*args, **kwargs)
+        self.text = text
         self.page = first_page
-        self.section_in_progress = None
-        self.sections = []
+        self.in_progress = None
         self.get_title = False
+        # self.number is always a list of strings, e.g. ['1', '2', '7'] for section 1.2.7
+        self.number = ['1']
+        super().start('div', {'class':'index'})
+        super().start('ul')
 
     def start(self, tag, attrs):
         if tag == 'pb' and attrs.get('type') != 'pdf':
             self.page += 1
         elif tag == 'div':
             for key, value in attrs.items():
-                if key.endswith('id') and value.startswith('levanto'):
-                    number = value[7:]
+                if key.endswith('id') and value.startswith(self.text):
+                    number = value[len(self.text):].split('.')
+                    # write the previous section
+                    self.write_section()
                     self.in_progress = Section(number, '', str(self.page))
                     break
         elif tag == 'head' and attrs.get('type') == 'outline':
             self.get_title = True
 
     def end(self, tag):
-        pass
+        if tag == 'head':
+            self.get_title = False
 
     def data(self, data):
         if self.get_title:
             if self.in_progress:
-                complete = self.in_progress._replace(title=data)
-                self.sections.append(complete)
-            self.get_title = False
+                new_title = self.in_progress.title + data
+                self.in_progress = self.in_progress._replace(title=new_title)
 
     def close(self):
-        pass
+        self.write_section()
+        super().end('ul')
+        super().end('div')
+        return super().close()
 
-def extract_sections(data):
-    """Given XML data as a string, return a list of Section objects."""
-    # this needs to be filled in to actually extract the sections
-    target = ExtractSectionsTarget(first_page=5)
-    parser = ET.XMLParser(target=target)
-    parser.feed(data)
-    return target.sections
-    #return [Section('1', 'Front matter', '0'), Section('1.1', 'Cover of book', '0'),
-    #        Section('2', 'Contents', '3')]
+    def write_section(self):
+        if self.in_progress is not None:
+            # check if any nested lists need to be opened/closed based on the section number
+            how_many_to_close = len(self.number) - len(self.in_progress.number)
+            if how_many_to_close > 0: 
+                for i in range(how_many_to_close):
+                    super().end('ul')
+            elif how_many_to_close < 0:
+                how_many_to_open = -how_many_to_close
+                for i in range(len(self.number), len(self.number) + how_many_to_open - 1):
+                    super().start('ul')
+                    super().start('li')
+                    super().data('.'.join(self.in_progress.number[i:]))
+                    super().end('li')
+                super().start('ul', {'id':'section' + '.'.join(self.number)})
+            super().start('li')
+            super().start('a', {'href':self.url.format(self)})
+            # i.e., 1.3.1 Licencia
+            super().data('.'.join(self.in_progress.number) + ' ' + self.in_progress.title)
+            super().end('a')
+            super().end('li')
+            self.number = self.in_progress.number
 
 if __name__ == '__main__':
     if 2 <= len(sys.argv) <= 3:
