@@ -59,11 +59,11 @@
 						<lb/>
   Compañero del M. R. P. M. Fr. Leonardo
 						<lb/>
-  Levanto, digniſsimo Prior Provincil de eſta
+  Levanto, digniſsimo Prior Provincial de eſta
 						<lb/>
   Provincia de San Miguel, y Santos Angeles de
 						<lb/>
-  La Puebla de los Angeles de Sagrado Orden de
+  La Puebla de los Angeles del Sagrado Orden de
 						<lb/>
   Predicadores.
 					</i>
@@ -95,19 +95,19 @@
 					<lb break="no"/>
   nardo Levanto, actual Prior Provincial de eſta Provincia de S.
 					<lb/>
-  Miguel, y Santos Angeles de la Pueblas; mas porque puede cau-
+  Miguel, y Santos Angeles de la Puebla; mas porque puede cau-
 					<lb/>
   ſar novedad â algunos, que ſea yo Cenſor de eſta primoroſa
 					<lb/>
-  obra, pido ſe me permita antes de exerciar mi obediencia,
+  obra, pido ſe me permita antes de exercitar mi obediencia,
 					<lb/>
   decir la verdad, que ſe me pide, y eſta conſiſte en tener ya 
 					<lb/>
-  leida muy bien la dicha obra, diſpueſta por tan rande Autor
+  leida muy bien la dicha obra, diſpueſta por tan grande Autor
 					<lb/>
   mucho tiempo há, y averla oido alabar de los Maeſtros, que
 					<lb/>
-  profeſſan, y hablan dicha lengua: con eſta verdad tan publica,
+  profeſſan, y hablan dicha lengua: con eſta verded tan publica,
 					<lb/>
   no ſe neceſsita de mas prueba para la obra preſente. Ya con
 					<lb/>
@@ -828,11 +828,10 @@
 				<p rend="center">
 					<i>Fray Leonardo Levanto.</i>
 				</p>
-			</div>
-			<!-- levanto1.8 -->
-			<div xml:id="levanto1.9">
 				<!-- James Truitt's section -->
 				<pb n="16"/>
+				</div> <!-- levanto1.8 -->
+				<div xml:id="levanto1.9">
 				<cb n="1"/>
 				<p>
 					<foreign xml:lang="esp">
@@ -911,6 +910,7 @@ queni.
 			<!-- levanto1.9 -->
 		</div>
 		<!-- levanto1 -->
+		<div xml:id="levanto2">
 		<head>
 			<foreign xml:lang="esp">CATHECISMO DE
 				<lb/>
@@ -919,6 +919,7 @@ LA DOCTRINA CHRISTIANA, EN LENGUA
 Zaapoteca de el Valle.
 			</foreign>
 		</head>
+		<div xml:id="levanto2.1">
 		<head>
 			<foreign xml:lang="esp">
 				<hi rend="italic">Todo Fiel Chriſtiano, &amp;c.</hi>
@@ -968,6 +969,8 @@ teni Bejuannana
 xihui, chiiña naxihui. Quinniiona ciicarii.
 		<lb/>
 		<lb/>
+		</div> <!-- levanto2.1 -->
+		<div xml:id="levanto2.2">
 		<head>
 			<foreign xml:lang="esp">POR LA SEñAL DE LA SANTA
 				<lb/>
@@ -993,6 +996,8 @@ Sancto
 		<foreign xml:lang="esp">Jeſus</foreign>.
 		<lb/>
 		<lb/>
+		</div> <!-- levanto2.2 -->
+		<div xml:id="levanto2.3">
 		<head>
 			<foreign xml:lang="esp">PADRE NUESTRO, QUE ESTAS EN
 				<lb/>
@@ -1022,6 +1027,8 @@ quella huechiie. Gaca ciiga ciica.
 		<foreign xml:lang="esp">Jeſus</foreign>.
 		<lb/>
 		<lb/>
+		</div> <!-- levanto2.3 -->
+		<div xml:id="levanto2.4">
 		<head>
 			<foreign xml:lang="esp">DIOS TE SALVE MARIA LLENA
 				<lb/>
@@ -1053,6 +1060,8 @@ llabea quellagooti xtennitonoo. Gaca ciiga ciica.
 		<foreign xml:lang="esp">Jeſus</foreign>.
 		<lb/>
 		<lb/>
+		</div> <!-- levanto2.4 -->
+		<div xml:id="levanto2.5">
 		<head>
 			<foreign xml:lang="esp">DIOS TE SALVE REYNA, Y MADRE
 				<lb/>
@@ -1099,6 +1108,8 @@ zaacalachi zelli lanni quiiebaa. Gaca ciiga
 ciica. 
 		<foreign xml:lang="esp">Jeſus</foreign>.
 		<lb/>
+		</div> <!-- levanto2.5 -->
+		<div xml:id="levanto2.6">
 		<head>
 			<foreign xml:lang="esp">CREO EN DIOS PADRE TODOPODE
 				<pc type="hyphen">-</pc>
@@ -1164,6 +1175,8 @@ Benniati. Chela huariieliilachia Quellanabanni zellii. Gaga
 Ciiga ciica 
 		<foreign xml:lang="esp">Jefus</foreign>.
 		<lb rend="center"/>
+		</div> <!-- levanto2.6 -->
+		<div xml:id="levanto2.7">
 		<head>
 			<foreign xml:lang="esp">LOS ARTICULOS DE LA FEE, SON
 				<lb/>
@@ -1187,6 +1200,7 @@ ztenni
 xtenni 
 		<foreign xml:lang="esp">Dios</foreign> ni xQuellaniguiioni.
 		<lb/>
+		<div xml:id="levanto2.7.1">
 		<head>
 			<foreign xml:lang="esp">
 				<hi rend="italic">LOS QUE PERTENECAN A LA DIVI
@@ -1244,6 +1258,8 @@ zaalahuezaa.
 	neche xiquicharoo (ni laa 
 		<foreign xml:lang="esp" rend="italic">Gloria</foreign>) lanni quiieba.
 		<lb/>
+		</div> <!-- levanto2.7.1 -->
+		<div xml:id="levanto2.7.2">
 		<head>
 			<foreign xml:lang="esp"> LOS QUE PERTENECEN A LA SAN:
 				<lb/>
@@ -1341,14 +1357,17 @@ Xiiba
 			<lb/>
 guii natooxo gabilla. Gaca ciiga ciiga 
 			<foreign xml:lang="esp">Jeſus</foreign>. 
+			</p>
 			<lb/>
-			<head>
+			</div> <!-- levanto2.7.2 -->
+			</div> <!-- levanto2.7 -->
+			<div xml:id="levanto2.8">
+			<head rend="center">
 				<foreign xml:lang="esp">LOS MANDAMIENTOS DE LA LEY DE
 					<lb/>
 Dios  ſon diez
 				</foreign>.
 			</head>
-		</p>
 		<lb/>
 
 A Laari: ni	rennabea Bejuannana 
@@ -1439,6 +1458,8 @@ Coroopa Xiibaa nirii: Gannachilo lezaa benniaatilo,
 ciica nachiiyoobilo. Gaca ciiga ciica. 
 		<foreign xml:lang="esp">Jeſus</foreign>.
 		<lb/>
+		</div> <!-- levanto2.8 -->
+		<div xml:id="levanto2.9">
 		<head rend="center" xml:lang="esp">
   LOS MANDAMIENTOS DE LA SANTA
 			<lb/>
@@ -1498,6 +1519,8 @@ ALaarij: Ni rennabea Xiñaana
 		<foreign xml:lang="esp">Santa Igleſia</foreign>. Gàaca ciiga ciica. 
 		<foreign xml:lang="esp">Jesſus</foreign>.
 		<lb/>
+		</div> <!-- levanto2.9 -->
+		<div xml:id="levanto2.10">
 		<head xml:lang="esp" rend="center">
   LOS SACRAMENTOS DE LA SANTA MA
 			<pc type="hyphen">-</pc>
@@ -1560,6 +1583,8 @@ monio
 		</foreign>. Gaca ciiga ciiga 
 		<foreign xml:lang="esp">Jeſus</foreign>. 
 		<lb/>
+		</div> <!-- levanto2.10 -->
+		<div xml:id="levanto2.11">
 		<head>
 			<pc rend="center">
 				<foreign xml:lang="esp">LAS OBRAS DE MISERICORDIA SON
@@ -1676,6 +1701,8 @@ benni nabaanilà, benni gootilá. Gaca ciiga ciica.
 		<foreign xml:lang="esp">Jeſus</foreign>.
 		<lb/>
 		<lb/>
+		</div> <!-- levanto2.11 -->
+		<div xml:id="levanto2.12">
 		<head>
 			<foreign xml:lang="esp">LOS PECADOS MORTALES SON
 				<lb/>
@@ -1731,6 +1758,8 @@ ni, laa
 	7. Cooche loo: Quellacobeete, quellaleaa, laa 
 		<foreign xml:lang="esp">Pereza</foreign>.
 		<lb/>
+		</div> <!-- levanto2.12 -->
+		<div xml:id="levanto2.13">
 		<head>
 			<foreign xml:lang="esp">CONTRA ESTOS SIETE VICIOS AY:
 				<lb/>
@@ -1795,7 +1824,8 @@ naqueenelachi, ni ritillañeeni quellacobeete, quellalea,
 	laa 
 		<foreign xml:lang="esp">Diligencia, contra Pereza</foreign>.
 
-
+</div> <!-- levanto2.13 -->
+<div xml:id="levanto2.14">
 		<head>
 			<foreign xml:lang="esp">LOS ENEMIGOS DE EL ALMA, SON
 				<lb/>
@@ -1825,6 +1855,8 @@ ni zellii tonoo benniaati, ni ràbini xquelayee
 	3. Coyoona loo: pellalaati, laa 
 		<foreign xml:lang="esp">Carne</foreign>.
 		<lb/>
+		</div> <!-- levanto2.14 -->
+		<div xml:id="levanto2.15">
 		<head>
 			<foreign xml:lang="esp">LAS VIRTUDES, QUE HEMOS DE TENER,
 				<lb/>
@@ -1851,6 +1883,7 @@ chîgaliini tonoo loo Bejuannana Dios Zeetaapa Quella
 		<lb/>
 benniaati ruarii guechelayoo.
 		<lb/>
+		<div xml:id="levanto2.15.1">
 		<head>
 			<foreign xml:lang="esp">LAS VIRTUDES THEOLOGALES, SON
 				<lb/>
@@ -1881,6 +1914,8 @@ ALaarii: Chonaloo Quellanazaaca,
 	laa 
 		<foreign xml:lang="esp">Charidad</foreign>.
 		<lb/>
+		</div> <!-- levanto2.15.1 -->
+		<div xml:id="levanto2.15.2">
 		<head>
 			<foreign xml:lang="esp">LAS VIRTUDES CARDINALES, SON
 				<lb/>
@@ -1929,6 +1964,9 @@ ca quellahuaagohuaxiia quellacóhuéhuaxiia, quellaco
 	tagaacihuaxiia, quellacoguiitehuaxiia, laa 
 		<foreign xml:lang="esp" rend="italic">Templanza</foreign>.
 		<lb/>
+		</div> <!-- levanto2.15.2 -->
+		</div> <!-- levanto2.15 -->
+		<div xml:id="levanto2.16">
 		<head>
 			<foreign xml:lang="esp">LAS POTENCIAS DEL ALMA SON
 				<lb/>
@@ -1953,6 +1991,8 @@ ALaarii: Chonaaloo quellanaguiichi xtenni Anima, laa
 	3. Coyoona loo: QUellaracalachi, laa 
 		<foreign xml:lang="esp" rend="italic">Voluntad</foreign>.
 		<lb/>
+		</div> <!-- levanto2.16 -->
+		<div xml:id="levanto2.17">
 		<head>
 			<foreign xml:lang="esp">LOS SENTIDOS CORPORALES SON
 				<lb/>
@@ -1981,6 +2021,8 @@ niloo.
 	5. Cooyo loo: Quellacoganañaa, laa 
 		<foreign xml:lang="esp" rend="italic">Palpar</foreign>.
 		<lb/>
+		</div> <!-- levanto2.17 -->
+		<div xml:id="levanto2.17">
 		<head>
 			<foreign xml:lang="esp">LOS DONES DE EL ESPIRITU SANTO
 				<lb/>
@@ -2035,6 +2077,7 @@ nnizii lezaani, laa
 			<lb/>
 	mor de Dios.
 		</foreign>
+		<div xml:id="levanto2.18.1">
 		<head>
 			<foreign xml:lang="esp">EXPLICACION.</foreign>
 		</head>
@@ -2051,8 +2094,9 @@ pea quellabenniaati: niácani naguiñe quezaabiquique,
 quezaabiñaatcnoo loo ni, quetiiñana quitoobi láchina
 		<lb/>
 goneeche ciicani tonoo Xilla nirii.
-
-
+</div> <!-- levanto2.18.1 -->
+</div> <!-- levanto2.18 -->
+<div xml:id="levanto2.19">
 		<head>
 			<foreign xml:lang="esp">LAS BIENAVENTURANZAS SON
 				<lb/>
@@ -2134,6 +2178,8 @@ texillaani, gàca xtènni yoobini. Quella cooquii quiiebaa.
 Gaca ciiga ciica. 
 		<foreign xml:lang="esp">Jeſus</foreign>.
 		<lb/>
+		</div> <!-- levanto2.19 -->
+		<div xml:id="levanto2.20">
 		<head type="levanto" rend="center">
 			<foreign xml:lang="esp">LOS NOVISSIMOS DE EL HOMBRE
 				<lb/>
@@ -2172,6 +2218,8 @@ zellii: laa
 			<pc type="hyphen">-</pc>
 		</fw>
 		<pb n="30"/>
+		</div> <!-- levanto2.20 -->
+		<div xml:id="levanto2.21">
 		<head type="levanto" rend="center">
 			<foreign xml:lang="esp">NUEVE REMEDIOS, PARA QUITAR LOS
 				<lb/>
@@ -2229,6 +2277,8 @@ Quigaa loo nirii lezaaca quniniitiloo tollahuiini, ni laa
 do venial
 		</foreign>.
 		<lb/>
+		</div> <!-- levanto2.21 -->
+		<div xml:id="levanto2.22">
 		<head type="levanto" rend="center">
 			<foreign xml:lang="esp">YO PECADOR ME CONFIESSO A DIOS,
 				<lb/>
@@ -2290,6 +2340,8 @@ queyoonniciicalo, lachi Bejuannana Dios, niiaxtenni naa.
 Gaca ciiga ciica. 
 		<foreign xml:lang="esp">Jeſus.</foreign>
 		<lb/>
+		</div> <!-- levanto2.22 -->
+		<div xml:id="levanto2.23">
 		<head type="levanto" rend="center">
 			<foreign xml:lang="esp" rend="italics">CONFITEOR DEO, &amp;c. DEL ORDEN
 				<lb/>
@@ -2342,6 +2394,8 @@ ralii
 		<lb/>
 niiaxtenni naa.
 		<lb/>
+		</div> <!-- levanto2.23 -->
+		<div xml:id="levanto2.24">
 		<head type="levanto" rend="center">
 			<foreign xml:lang="esp" rend="italics">ACTO DE CONTRICION.</foreign>
 			<lb/>
@@ -2389,6 +2443,8 @@ tolla loolo: Channa Dios he!
 		<lb rend="center"/>
 		<foreign xml:lang="esp">FIN DE LAS ORACIONES,</foreign>
 		<lb/>
+		</div> <!-- levanto2.24 -->
+		</div> <!-- levanto2 -->
 		<head type="levanto" rend="center">
 			<foreign xml:lang="esp">EXPLICACION
 				<lb/>
