@@ -7,7 +7,7 @@ from collections import namedtuple
 
 def xml_to_outline(data):
     """Given XML data as a string, return an HTML outline."""
-    target = OutlineBuilder(first_page=5)
+    target = OutlineBuilder()
     parser = ET.XMLParser(target=target)
     parser.feed(data)
     root = target.close()

@@ -15,6 +15,15 @@
     </h4>
   </xsl:template>
 
+  <!-- transform (preserve) <div> -->
+  <xsl:template match="div">
+    <!-- courtesy of stackoverflow.com/questions/26999058/ -->
+    <xsl:copy>
+      <xsl:copy-of select="@*"/>
+      <xsl:apply-templates/>
+    </xsl:copy>
+  </xsl:template>
+
   <!-- transform <p> -->
   <xsl:template match="p">
     <p>

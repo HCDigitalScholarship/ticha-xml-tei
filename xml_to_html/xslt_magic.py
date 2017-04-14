@@ -13,23 +13,40 @@ class TEIPager(sax.ElementTreeContentHandler):
         if qname == 'text':
             self.in_text = True
             super().startElementNS(ns_name, qname, attributes)
-            # this line never actually produces a <div class="printed_text_page"> element in the
-            # output
             self.startElementNS((None, 'div'), 'div', {(None, 'class'):'printed_text_page'})
         elif qname == 'pb':
-            self.closeAllTags()
-            self.reopenAllTags()
+            self.handlePageBreak()
+        elif qname == 'cb':
+            n = attributes.get((None, 'n'))
+            self.handleColumnBreak(n)
         else:
             if self.in_text:
                 self.tag_stack.append( (ns_name, qname, attributes) )
             super().startElementNS(ns_name, qname, attributes)
+
+    def handlePageBreak(self):
+        self.closeAllTags()
+        self.reopenAllTags()
+
+    def handleColumnBreak(self, n):
+        if n == '1':
+            # value of '1' indicates start of column section
+            self.startElementNS((None, 'div'), 'div')
+            self.startElementNS((None, 'div'), 'div', {(None, 'class'):'col-xs-6'})
+        elif n == '':
+            # empty value indicates end of column section
+            self.endElementNS((None, 'div'), 'div')
+            self.endElementNS((None, 'div'), 'div')
+        else:
+            self.endElementNS((None, 'div'), 'div')
+            self.startElementNS((None, 'div'), 'div', {(None, 'class'):'col-xs-6'})
 
     def endElementNS(self, ns_name, qname):
         if qname == 'text':
             self.in_text = False
             super().endElementNS((None, 'div'), 'div')
             super().endElementNS(ns_name, qname)
-        elif qname != 'pb':
+        elif qname != 'pb' and qname != 'cb':
             if self.in_text:
                 self.tag_stack.pop()
             super().endElementNS(ns_name, qname)
@@ -47,7 +64,8 @@ def xml_to_html(xml_data):
     return etree.tostring(html_root, method='html', encoding='unicode')
 
 def xml_to_html_root(xml_data):
-    xml_root = etree.XML(xml_data)
+    # I do not understand why it is necessary to cast to bytes here
+    xml_root = etree.XML(bytes(xml_data, encoding='utf-8'))
     handler = TEIPager()
     sax.saxify(xml_root, handler)
     xslt_root = etree.parse('transform.xslt').getroot()
