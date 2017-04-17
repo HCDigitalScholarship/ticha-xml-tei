@@ -1,10 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="TEISchema_current.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI>
 	<text>
 		<div xml:lang="esp" xml:id="levanto1">
+		<head type="outline">[Front matter]</head>
 			<!-- frontmatter -->
 			<div xml:id="levanto1.1">
+			  <head type="outline">[Cover of book and preliminary pages]</head>
 				<pb n="1"/>
 				<!-- cover -->
 				<pb n="2"/>
@@ -13,8 +15,10 @@
 				<!-- blank -->
 			</div>
 			<div xml:id="levanto1.2">
+			  <head type="outline">[Title page]</head>
 				<pb n="4"/>
 				<div xml:id="levanto1.2.1">
+				  <head type="outline">[Title]</head>
 					<head rend="center">
   C A T H E C I S M O
 						
@@ -31,6 +35,7 @@
 					</head>
 				</div>
 				<div xml:id="levanto1.2.2">
+				  <head type="outline">[Author]</head>
 					<p rend="center">
 						<i>Por el M. R. P. Maeſtro Fray Leonard Levanto.
 							
@@ -45,6 +50,7 @@
 				</div>
 				<!-- woodcut -->
 				<div xml:id="levanto1.2.3">
+				  <head type="outline">[Printing information]</head>
 					<p rend="center">
   Reimpreſſo en la Imprenta del Colegio Real de San
 						
@@ -60,7 +66,7 @@
 			<!-- blank -->
 			<div xml:id="levanto1.3">
 				<pb n="6"/>
-				<head>PARECER
+				<head type="outline">PARECER
 					
 					<lb/>
 					<i>DEL R. PADRE PREDICADOR FRAY
@@ -437,7 +443,7 @@
 			<div xml:id="levanto1.4">
 				<!-- second frontmatter letter -->
 				<pb n="9"/>
-				<head>
+				<head type="outline">
     SENTIR
 					
 					<lb/>
@@ -547,20 +553,12 @@
 			<!-- levanto1.4 -->
 			<div xml:id="levanto1.5">
 				<pb n="10"/>
-				<head>APROBACION
-					
-					<lb/>
-					<i>DEL R. P. PREDICADOR GENERAL FRAY
-						
-						<lb/>
-  Manuel de Laſcari, Cura, y Preſidente de San Andres
-						
-						<lb/>
-  Zautla, del Orden de Predicadores de la Provincia
-						
-						<lb/>
-  de Oaxaca.
-					
+				<head type="outline">
+				  APROBACION<lb/>
+					<i>DEL R. P. PREDICADOR GENERAL FRAY<lb/>
+					Manuel de Laſcari, Cura, y Preſidente de San Andres<lb/>
+					Zautla, del Orden de Predicadores de la Provincia<lb/>
+					de Oaxaca.
 					</i>
 				</head>
 				<p rend="center">
@@ -645,7 +643,7 @@
 			<!-- levanto1.5 -->
 			<div xml:id="levanto1.6">
 				<pb n="11"/>
-				<head>CENSURA
+				<head type="outline">CENSURA
 					
 					<lb/>
 					<i>DEL R. P. PREDICADOR GENERAL
@@ -815,20 +813,15 @@
 			<!-- levanto1.6 -->
 			<div xml:id="levanto1.7">
 				<pb n="13"/>
-				<head>
+				<head type="outline">
 					<i>SUMA DE LAS LICENCIAS.</i>
 				</head>
 				<!-- body of this page is in smaller text -->
 				<div xml:id="levanto1.7.1">
-					<p>
-  EL Excmô Señor D. Juan de Acuña Marques de Caſa Fuerte, Cavalle
-						
-						<pc type="hyphen">-</pc>
-						<lb break="no"/>
-  ro del Orden de Santiago, Comendador de Adelpha, del Conſejo de
-						
-						<lb/>
-  ſu Mageſtad en el Real, y Rupremo de Guerra, General de ſus Reales
+				<head type="outline">[El Excimô Señor D. Juan de Acuña...]</head>
+					<p>EL Excmô Señor D. Juan de Acuña Marques de Caſa Fuerte, Cavalle<pc type="hyphen">-</pc><lb break="no"/>
+					ro del Orden de Santiago, Comendador de Adelpha, del Conſejo de<lb/>
+					ſu Mageſtad en el Real, y Rupremo de Guerra, General de ſus Reales
 						
 						<lb/>
   Exercitos, Vi-Rey, Gobernador, y Capitan General de eſta Nueva-Eſpaña,
@@ -858,6 +851,7 @@
 				</div>
 				<!-- ruled line -->
 				<div xml:id="levanto1.7.2">
+				<head type="outline">[El Lic. D. Geronymo de Morales Sigala...]</head>
 					<p>
   EL Lic. D. Geronymo de Morales Sigala, Canonigo Lectoral de la San
 						
@@ -901,6 +895,7 @@
 				</div>
 				<!-- ruled line -->
 				<div xml:id="levanto1.7.3">
+				<head type="outline">[El Mrô Fr. Dionysio Levanto...]</head>
 					<p>
   EL Mrô Fr. Dionyſio Levanto, Prior Provincial de la Provincia de S.
 						
@@ -962,7 +957,7 @@
 			<!-- levanto1.7 -->
 			<div xml:id="levanto1.8">
 				<pb n="14"/>
-				<head rend="center">AL QUE LEYERE</head>
+				<head type="outline" rend="center">AL QUE LEYERE</head>
 				<p>
   ESTE CATHECISMO, QUE CON
 					
@@ -1149,6 +1144,7 @@
 			</div>
 			<!-- levanto1.8 -->
 			<div xml:id="levanto1.9">
+			<head type="outline">[Introduction]</head>
 				<cb n="1"/>
 				<p>
 					<foreign xml:lang="esp">
