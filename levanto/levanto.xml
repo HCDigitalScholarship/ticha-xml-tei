@@ -13,10 +13,10 @@
 				<!-- blank -->
 				<pb n="3"/>
 				<!-- blank -->
-			</div>
+				<pb n="4"/>
+				</div> <!-- levanto1.1 -->
 			<div xml:id="levanto1.2">
 			  <head type="outline">[Title page]</head>
-				<pb n="4"/>
 				<div xml:id="levanto1.2.1">
 				  <head type="outline">[Title]</head>
 					<head rend="center">
@@ -60,13 +60,14 @@
 					
 					</p>
 				</div>
-			</div>
-			<!-- levanto1.2 -->
-			<pb n="5"/>
-			<!-- blank -->
-			<div xml:id="levanto1.3">
+			  <pb n="5"/>
+			  <!-- blank -->
+			
 				<pb n="6"/>
-				<head type="outline">PARECER
+				</div><!-- levanto1.2 -->
+			<div xml:id="levanto1.3">
+				<head type="outline">Parecer del R. Padre Predicador Fray Miguel Pantaleon...</head>
+				<head type="levanto">PARECER
 					
 					<lb/>
 					<i>DEL R. PADRE PREDICADOR FRAY
@@ -438,12 +439,13 @@
 					
 					<pc type="hyphen">-</pc>
 				</fw>
-			</div>
-			<!-- levanto 1.3 -->
+			
+				<pb n="9"/>
+				</div><!-- levanto 1.3 -->
 			<div xml:id="levanto1.4">
 				<!-- second frontmatter letter -->
-				<pb n="9"/>
-				<head type="outline">
+				<head type="outline">Sentir del R. P. Predicador General, y Procurador Fr. Nicolas de Gasca...</head>
+				<head type="levanto">
     SENTIR
 					
 					<lb/>
@@ -549,11 +551,12 @@
 					<i>Fr. Nicolas de Casca.</i>
 				</p>
 				<fw type="catchword" place="bottom-right">APRO.</fw>
-			</div>
-			<!-- levanto1.4 -->
-			<div xml:id="levanto1.5">
+			
 				<pb n="10"/>
-				<head type="outline">
+				</div><!-- levanto1.4 -->
+			<div xml:id="levanto1.5">
+				<head type="outline">Aprobacion del R. P. Predicador General Fray Manuel de Lascari...</head>
+				<head type="levanto">
 				  APROBACION<lb/>
 					<i>DEL R. P. PREDICADOR GENERAL FRAY<lb/>
 					Manuel de Laſcari, Cura, y Preſidente de San Andres<lb/>
@@ -639,11 +642,12 @@
 				<p rend="center">B. L. M. de V. P. M. R. ſu mas rendido, y afecto ſubdito,</p>
 				<p rend="center">Fr. Manuel de Laſcari.</p>
 				<fw type="catchword" place="bottom-right">SEN</fw>
-			</div>
-			<!-- levanto1.5 -->
-			<div xml:id="levanto1.6">
+			
 				<pb n="11"/>
-				<head type="outline">CENSURA
+				</div><!-- levanto1.5 -->
+			<div xml:id="levanto1.6">
+        <head type="outline">Censura del R. P. Predicador General Fray Antonio de Medina...</head>
+				<head type="levanto">CENSURA
 					
 					<lb/>
 					<i>DEL R. P. PREDICADOR GENERAL
@@ -809,16 +813,17 @@
 				<fw type="catchword" place="bottom-right">
 					<i>SUMA</i>
 				</fw>
-			</div>
-			<!-- levanto1.6 -->
-			<div xml:id="levanto1.7">
+			
 				<pb n="13"/>
-				<head type="outline">
+				</div><!-- levanto1.6 -->
+			<div xml:id="levanto1.7">
+				<head type="outline">Suma de las Licencias</head>
+				<head type="levanto">
 					<i>SUMA DE LAS LICENCIAS.</i>
 				</head>
 				<!-- body of this page is in smaller text -->
 				<div xml:id="levanto1.7.1">
-				<head type="outline">[El Excimô Señor D. Juan de Acuña...]</head>
+				<head type="outline">El Excimô Señor D. Juan de Acuña...</head>
 					<p>EL Excmô Señor D. Juan de Acuña Marques de Caſa Fuerte, Cavalle<pc type="hyphen">-</pc><lb break="no"/>
 					ro del Orden de Santiago, Comendador de Adelpha, del Conſejo de<lb/>
 					ſu Mageſtad en el Real, y Rupremo de Guerra, General de ſus Reales
@@ -851,7 +856,7 @@
 				</div>
 				<!-- ruled line -->
 				<div xml:id="levanto1.7.2">
-				<head type="outline">[El Lic. D. Geronymo de Morales Sigala...]</head>
+				<head type="outline">El Lic. D. Geronymo de Morales Sigala...</head>
 					<p>
   EL Lic. D. Geronymo de Morales Sigala, Canonigo Lectoral de la San
 						
@@ -895,7 +900,7 @@
 				</div>
 				<!-- ruled line -->
 				<div xml:id="levanto1.7.3">
-				<head type="outline">[El Mrô Fr. Dionysio Levanto...]</head>
+				<head type="outline">El Mrô Fr. Dionysio Levanto...</head>
 					<p>
   EL Mrô Fr. Dionyſio Levanto, Prior Provincial de la Provincia de S.
 						
@@ -953,11 +958,12 @@
 						<i>AL</i>
 					</fw>
 				</div>
-			</div>
-			<!-- levanto1.7 -->
-			<div xml:id="levanto1.8">
+			
 				<pb n="14"/>
-				<head type="outline" rend="center">AL QUE LEYERE</head>
+				</div><!-- levanto1.7 -->
+			<div xml:id="levanto1.8">
+			  <head type="outline">Al que Leyere</head>
+				<head type="levanto" rend="center">AL QUE LEYERE</head>
 				<p>
   ESTE CATHECISMO, QUE CON
 					
@@ -1251,23 +1257,14 @@ queni.
 		</div>
 		<!-- levanto1 -->
 		<div xml:id="levanto2">
-			<head>
-				<foreign xml:lang="esp">CATHECISMO DE
-				
-					<lb/>
-LA DOCTRINA CHRISTIANA, EN LENGUA
-				
-					<lb/>
-Zaapoteca de el Valle.
-			
-				</foreign>
+		  <head type="outline">Cathecismo de la Doctrina Christiana, en lengua Zapoteca de el Valle</head>
+			<head type="levanto" xml:lang="esp">CATHECISMO DE<lb/>
+			LA DOCTRINA CHRISTIANA, EN LENGUA<lb/>
+			Zaapoteca de el Valle.
 			</head>
 			<div xml:id="levanto2.1">
-				<head>
-					<foreign xml:lang="esp">
-						<hi rend="italic">Todo Fiel Chriſtiano, &amp;c.</hi>
-					</foreign>
-				</head>
+			  <head type="outline">Todo Fiel Christiano &amp;c.</head>
+				<head type="levanto" xml:lang="esp" rend="italic">Todo Fiel Chriſtiano, &amp;c.</head>
 				<lb/>
 
 TOobixeeneppe huazoopelao quiraali Benni Chriſtia
@@ -6122,7 +6119,8 @@ DOCTRINA CHRISTIANA.
 		<p rend="center">JESUS, MARIA, Y JOSEPH.</p>
 		<!-- decoration -->
 		<div xml:id="levanto4">
-			<head type="outline" xml:lang="esp" rend="center">
+		  <head type="outline">Mysterios del santissimo Rosario.</head>
+			<head type="levanto" xml:lang="esp" rend="center">
     MYSTERIOS
 				
 				<lb/>
@@ -6135,11 +6133,13 @@ DOCTRINA CHRISTIANA.
 			</head>
 			<!-- decoration -->
 			<div xml:id="levanto4.1">
-				<head type="outline" xml:lang="esp" rend="center">
+			  <head type="outline">Mysterios gozosos.</head>
+				<head type="levanto" xml:lang="esp" rend="center">
     MYSTERIOS GOZOSOS
   </head>
 				<div xml:id="levanto4.1.1">
-					<head type="outline" xml:lang="esp" rend="center italics">
+				  <head type="outline">Deprecacion.</head>
+					<head type="levanto" xml:lang="esp" rend="center italics">
       DEPRECACION.
     </head>
     NIjaxtenni collaabaliia
@@ -6156,7 +6156,8 @@ DOCTRINA CHRISTIANA.
 				
 				</div>
 				<div xml:id="levanto4.1.2">
-					<head type="outline" xml:lang="esp" rend="center italics">
+				  <head type="outline">Mysterio Primero. De la encarnacion.</head>
+					<head type="levanto" xml:lang="esp" rend="center italics">
       MYSTERIO PRIMERO
 						
 						<lb/>
@@ -6199,7 +6200,8 @@ DOCTRINA CHRISTIANA.
 					<lb/>
 				</div>
 				<div xml:id="levanto4.1.3">
-					<head type="outline" xml:lang="esp" rend="center italics">
+				  <head type="outline">Mysterio Segundo. De la Visitacion.</head>
+					<head type="levanto" xml:lang="esp" rend="center italics">
       MYSTERIO SEGUNDO
 						
 						<lb/>
@@ -6233,7 +6235,8 @@ DOCTRINA CHRISTIANA.
 					<lb/>
 				</div>
 				<div xml:id="levanto4.1.4">
-					<head type="outline" xml:lang="esp" rend="center italics">
+				  <head type="outline">Mysterio Tercero. Del Nacimiento del Hijo de Dios.</head>
+					<head type="levanto" xml:lang="esp" rend="center italics">
       MYSTERIO TERCERO
 						
 						<lb/>
@@ -6275,7 +6278,8 @@ DOCTRINA CHRISTIANA.
 				<!-- Claire Benham's section -->
 				<pb n="48"/>
 				<div xml:id="levanto4.1.5">
-					<head type="outline" xml:lang="esp" rend="center italics">
+				  <head type="outline">Mysterio Quarto. De la Presentacion en el Templo.</head>
+					<head type="levanto" xml:lang="esp" rend="center italics">
       MYSTERIO QUARTO
 						
 						<lb/>
@@ -6309,7 +6313,8 @@ DOCTRINA CHRISTIANA.
 					<lb/>
 				</div>
 				<div xml:id="levanto4.1.6">
-					<head type="outline" xml:lang="esp" rend="center italics">
+				  <head type="outline">Mysterio Quinto. Del Niño Perdido, y Hallado.</head>
+					<head type="levanto" xml:lang="esp" rend="center italics">
       MYSTERIO QUINTO.
 						
 						<lb/>
@@ -6345,7 +6350,8 @@ DOCTRINA CHRISTIANA.
 					<lb/>
 				</div>
 				<div xml:id="levanto4.1.7">
-					<head type="outline" xml:lang="esp" rend="center italics">
+				  <head type="outline">Deprecacion a la Santissma Virgen.</head>
+					<head type="levanto" xml:lang="esp" rend="center italics">
       DEPRECACION
 						
 						<lb/>
@@ -6376,7 +6382,8 @@ DOCTRINA CHRISTIANA.
 					
 					<lb/>
 					<div xml:id="levanto4.1.7.1">
-						<head type="outline" xml:lang="esp" rend="center italics">
+					  <head type="outline">Ave Filia Dei Patris, &amp;c.</head>
+						<head type="levanto" xml:lang="esp" rend="center italics">
         Ave Filia Dei Patris, &amp;c.
 							
 							<lb/>
@@ -6386,7 +6393,8 @@ DOCTRINA CHRISTIANA.
 						<lb/>
 					</div>
 					<div xml:id="levanto4.1.7.2">
-						<head type="outline" xml:lang="esp" rend="center italics">
+					  <head type="outline">Maria Mater gratiæ, &amp;c.</head>
+						<head type="levanto" xml:lang="esp" rend="center italics">
         Maria Mater gratiæ, &amp;c.
 							
 							<lb/>
@@ -6398,23 +6406,20 @@ DOCTRINA CHRISTIANA.
 				</div>
 			</div>
 			<div xml:id="levanto4.2">
-				<head type="outline" xml:lang="esp" rend="center italics">
-    MYSTERIOS
-					
-					<lb/>
-    DOLOROSOS.
-					
-					<lb/>
-					<!-- James Truitt's section -->
-					<pb n="50"/>
-
-    DEPRECACION
-					
-					<lb/>
-    A LA SANTISSIMA VIRGEN.
-					
-					<lb/>
-				</head>
+			  <head type="outline">Mysterios Dolorosos.</head>
+				<head type="levanto" xml:lang="esp" rend="center italics">
+				  MYSTERIOS<lb/>
+				  DOLOROSOS.
+        </head>
+        <lb/>
+        <!-- James Truitt's section -->
+        <pb n="50"/>
+        <div xml:id="levanto4.2.1">
+				  <head type="outline">Deprecacion a la Santissima Virgen.</head>
+					<head type="levanto" xml:lang="esp" rend="center italics">
+					DEPRECACION<lb/>
+					A LA SANTISSIMA VIRGEN.<lb/>
+					</head>
 	CHanna Xonnaxi quiieba,
 				
 				<lb/>
@@ -6430,14 +6435,11 @@ DOCTRINA CHRISTIANA.
 	Ni coxaaca xiBiitooya.
 				
 				<lb/>
-				<div xml:id="levanto4.2.1">
-					<head type="outline" xml:lang="esp" rend="center italics">
-      MYSTERIO PRIMERO.
-						
-						<lb/>
-      La Oracion del Huerto.
-						
-						<lb/>
+				</div> <!-- levanto4.2.1 -->
+				<div xml:id="levanto4.2.2">
+				  <head type="outline">Mysterio Primero. La Oracion del Huerto.</head>
+					<head type="levanto" xml:lang="esp" rend="center italics">
+					La Oracion del Huerto.<lb/>
 					</head>
     COlooxe cotaago xchiini,
 					
@@ -6464,8 +6466,9 @@ DOCTRINA CHRISTIANA.
 					
 					<lb/>
 				</div>
-				<div xml:id="levanto4.2.2">
-					<head type="outline" xml:lang="esp" rend="center italics">
+				<div xml:id="levanto4.2.3">
+				  <head type="outline">Mysterio Segundo. De los Azotes ȃ la Columna.</head>
+					<head type="levanto" xml:lang="esp" rend="center italics">
       MYSTERIO SEGUNDO.
 						
 						<lb/>
@@ -6504,8 +6507,9 @@ DOCTRINA CHRISTIANA.
 					
 					<lb/>
 				</div>
-				<div xml:id="levanto4.2.3">
-					<head type="outline" xml:lang="esp" rend="center italics">
+				<div xml:id="levanto4.2.4">
+				  <head type="outline">Mysterio Tercero. De la Coronacion de Espinas.</head>
+					<head type="levanto" xml:lang="esp" rend="center italics">
       MYSTERIO TERCERO.
 						
 						<lb/>
@@ -6542,8 +6546,9 @@ DOCTRINA CHRISTIANA.
 					
 					<lb/>
 				</div>
-				<div xml:id="levanto4.2.4">
-					<head type="outline" xml:lang="esp" rend="center italics">
+				<div xml:id="levanto4.2.5">
+				  <head type="outline">Mysterio Quarto. De la Cruz ácuetas.</head>
+					<head type="levanto" xml:lang="esp" rend="center italics">
       MYSTERIO QUARTO.
 						
 						<lb/>
@@ -6576,8 +6581,9 @@ DOCTRINA CHRISTIANA.
 					
 					<lb/>
 				</div>
-				<div xml:id="levanto4.2.5">
-					<head type="outline" xml:lang="esp" rend="center italics">
+				<div xml:id="levanto4.2.6">
+				  <head type="outline">Mysterio Quinto. De la Crucifixion del Señor.</head>
+					<head type="levanto" xml:lang="esp" rend="center italics">
       MYSTERIO QUINTO.
 						
 						<lb/>
@@ -6596,25 +6602,20 @@ DOCTRINA CHRISTIANA.
 					
 					<lb/>
 				</div>
-				<div xml:id="levanto4.2.6">
-					<head type="outline" xml:lang="esp" rend="center italics">
-      Deprecacion â la Virgen Nueſtra Señora.
-						
-						<lb/>
-					</head>
-    ...
-					
-					<lb/>
+				<div xml:id="levanto4.2.7">
+				  <head type="outline">Deprecacion a la Virgen Nuestra Señora.</head>
+					<head type="levanto" xml:lang="esp" rend="center italics">Deprecacion â la Virgen Nueſtra Señora.<lb/></head>
+					...<lb/>
 				</div>
-			</div>
+			</div> <!-- levanto4.2 -->
 			<div xml:id="levanto4.3">
-				<head type="outline" xml:lang="esp" rend="center">
-    MYSTERIOS GLORIOSOS.
-					
-					<lb/>
+			  <head type="outline">Mysterios Gloriosos.</head>
+				<head type="levanto" xml:lang="esp" rend="center">
+				  MYSTERIOS GLORIOSOS.<lb/>
 				</head>
 				<div xml:id="levanto4.3.1">
-					<head type="outline" xml:lang="esp" rend="center italics">
+				  <head type="outline">Deprecacion ȃ la Santissima Virgen.</head>
+					<head type="levanto" xml:lang="esp" rend="center italics">
       Deprecacion â la Santiſsima Virgen.
 						
 						<lb/>
@@ -6624,7 +6625,8 @@ DOCTRINA CHRISTIANA.
 					<lb/>
 				</div>
 				<div xml:id="levanto4.3.2">
-					<head type="outline" xml:lang="esp" rend="center italics">
+				  <head type="outline">Mysterio Primero. Del la Resurreccion de Christo.</head>
+					<head type="levanto" xml:lang="esp" rend="center italics">
       MYSTERIO PRIMERO.
 						
 						<lb/>
@@ -6661,7 +6663,8 @@ DOCTRINA CHRISTIANA.
 					<lb/>
 				</div>
 				<div xml:id="levanto4.3.3">
-					<head type="outline" xml:lang="esp" rend="center italics">
+				  <head type="outline">Mysterio Segundo. De la Ascension de Christo á los Cielos.</head>
+					<head type="levanto" xml:lang="esp" rend="center italics">
       MYSTERIO SEGUNDO.
 						
 						<lb/>
@@ -6697,7 +6700,8 @@ DOCTRINA CHRISTIANA.
 					<lb/>
 				</div>
 				<div xml:id="levanto4.3.4">
-					<head type="outline" xml:lang="esp" rend="center italics">
+				  <head type="outline">Mysterio Tercero. De las Venida del Espiritu Santo.</head>
+					<head type="levanto" xml:lang="esp" rend="center italics">
       MYSTERIO TERCERO.
 						
 						<lb/>
@@ -6730,7 +6734,8 @@ DOCTRINA CHRISTIANA.
 					<lb/>
 				</div>
 				<div xml:id="levanto4.3.5">
-					<head type="outline" xml:lang="esp" rend="center italics">
+				  <head type="outline">Mysterio Quarto. De la Assumpcion de Nuestra Señora.</head>
+					<head type="levanto" xml:lang="esp" rend="center italics">
       MYSTERIO QUARTO.
 						
 						<lb/>
@@ -6743,7 +6748,8 @@ DOCTRINA CHRISTIANA.
 					<lb/>
 				</div>
 				<div xml:id="levanto4.3.6">
-					<head type="outline" xml:lang="esp" rend="center italics">
+				  <head type="outline">Mysterio Quinto. De la Coronacion de Nuestra Señora.</head>
+					<head type="levanto" xml:lang="esp" rend="center italics">
         MYSTERIO QUINTO.
 						
 						<lb/>
@@ -6757,7 +6763,8 @@ DOCTRINA CHRISTIANA.
 				</div>
 				<pb n="55"/>
 				<div xml:id="levanto4.3.7">
-					<head type="outline" xml:lang="esp" rend="center italics">
+				  <head type="outline">Deprecacion. A la Virgen Nuestra Señora.</head>
+					<head type="levanto" xml:lang="esp" rend="center italics">
     DEPRECACION
 						
 						<lb/>
