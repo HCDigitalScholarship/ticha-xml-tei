@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """Convert TEI-encoded XML into human-readable HTML.
 
    <TEI>
@@ -234,18 +233,3 @@ def xml_to_html_target(data, spellchoice='orig', abbrchoice='abbr'):
 def xml_to_html(data, spellchoice='orig', abbrchoice='abbr'):
     """Converts the XML string to a corresponding HTML string."""
     return str(xml_to_html_target(data, spellchoice, abbrchoice))
-
-if __name__ == '__main__':
-    if 2 <= len(sys.argv) <= 3:
-        in_path = sys.argv[1]
-        if len(sys.argv) == 2:
-            name, ext = os.path.splitext(in_path)
-            out_path = name + '.html'
-        else:
-            out_path = sys.argv[2]
-        with open(in_path, 'r', encoding='utf-8') as ifsock:
-            data = ifsock.read()
-        with open(out_path, 'w', encoding='utf-8') as ofsock:
-            ofsock.write(xml_to_html(data))
-    else:
-        print('Usage: ticha_magic <XML filepath> <optional HTML output path>')

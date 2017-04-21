@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """Generate an HTML outline from a TEI-encoded XML document."""
 import xml.etree.ElementTree as ET
 import sys
@@ -82,18 +81,3 @@ class OutlineBuilder(ET.TreeBuilder):
             super().end('a')
             super().end('li')
             self.number = self.in_progress.number
-
-if __name__ == '__main__':
-    if 2 <= len(sys.argv) <= 3:
-        in_path = sys.argv[1]
-        if len(sys.argv) == 2:
-            name, ext = os.path.splitext(in_path)
-            out_path = name + '_outline.html'
-        else:
-            out_path = sys.argv[2]
-        with open(in_path, 'r', encoding='utf-8') as ifsock:
-            data = ifsock.read()
-        with open(out_path, 'w', encoding='utf-8') as ofsock:
-            ofsock.write(xml_to_outline(data))
-    else:
-        print('Usage: ticha_outline <XML filepath> <optional HTML output path>')
