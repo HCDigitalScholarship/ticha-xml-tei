@@ -7,12 +7,14 @@ class TEIPager(sax.ElementTreeContentHandler):
         super().__init__(*args, **kwargs)
         self.in_text = False
         self.tag_stack = []
+        self.page = 0
 
     def startElementNS(self, ns_name, qname, attributes=None):
         if qname == 'text':
             self.in_text = True
             super().startElementNS(ns_name, qname, attributes)
-            self.startElementNS((None, 'div'), 'div', {(None, 'class'):'printed_text_page'})
+            super().startElementNS((None, 'div'), 'div', {(None, 'class'):'printed_text_page',
+                                                          (None, 'n'):str(self.page),})
         elif qname == 'pb':
             self.handlePageBreak()
         elif qname == 'cb':
@@ -24,7 +26,11 @@ class TEIPager(sax.ElementTreeContentHandler):
             super().startElementNS(ns_name, qname, attributes)
 
     def handlePageBreak(self):
+        self.page += 1
         self.closeAllTags()
+        super().endElementNS((None, 'div'), 'div')
+        super().startElementNS((None, 'div'), 'div', {(None, 'class'):'printed_text_page',
+                                                      (None, 'n'):str(self.page),})
         self.reopenAllTags()
 
     def handleColumnBreak(self, n):
@@ -61,7 +67,7 @@ class TEIPager(sax.ElementTreeContentHandler):
 def xml_to_html(xml_data):
     """Convert the XML data as a string to HTML as a string."""
     html_root = xml_to_html_root(xml_data)
-    return etree.tostring(html_root, method='html', encoding='unicode')
+    return etree.tostring(html_root, method='xml', encoding='unicode')
 
 def xml_to_html_root(xml_data):
     """Convert the XML data as a string to HTML as an lxml Element."""

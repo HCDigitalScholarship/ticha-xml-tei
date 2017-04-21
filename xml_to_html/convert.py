@@ -35,7 +35,7 @@ def preview(data):
 
 def preprocess_xml_to_string(xml_data):
     html_root = xslt_magic.preprocess_xml(xml_data)
-    return etree.tostring(html_root, method='html', encoding='unicode')
+    return etree.tostring(html_root, method='xml', encoding='unicode')
 
 if __name__ == '__main__':
     choice_dispatch = {

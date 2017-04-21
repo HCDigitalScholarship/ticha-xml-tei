@@ -1,5 +1,5 @@
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-  <xsl:output method="html"/>
+  <xsl:output method="xhtml"/>
 
   <!-- only transform inside the <text> node -->
   <xsl:template match="text">
@@ -14,6 +14,8 @@
       <xsl:apply-templates/>
     </h4>
   </xsl:template>
+  <!-- don't transform <head type='outline'> -->
+  <xsl:template match="head[@type='outline']"></xsl:template>
 
   <!-- transform (preserve) <div> -->
   <xsl:template match="div">
