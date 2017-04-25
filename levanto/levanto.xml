@@ -5291,7 +5291,7 @@ bien eſtà en el Santiſsimo
 				
 				<lb/>
 Sacramento del altar.
-				
+				<lb/>
 				<lb/>
 P. Quando baja â la Hoſtia
 				
@@ -5324,6 +5324,7 @@ labras ſagradas, que liemos
 llamado Conſagracion?
 				
 				<lb/>
+        <lb/>
 R. Ni el pan, ni el vino quedòs
 				
 				<lb/>
@@ -5350,16 +5351,12 @@ Sangre preciosa.
 		</foreign>
 		<cb n="2"/>
 Xii quellanazaaca rapani:
-		
 		<lb/>
 caache Santos Sacramentos.
-		
-		<lb/>
 		<lb/>
 Ronnitiilooni quella hue
 		
 		<pc type="hyphen">-</pc>
-		<lb/>
 		<lb/>
 xihui benniaati, chelan̄ee re
 		
@@ -5406,14 +5403,14 @@ ciicaquee noo lanni Sancti
 coogo. 
 		
 		<lb/>
-Cocaxa riccteni Bejuanna
+Cocaxa rieeteni Bejuanna
 		
 		<pc type="hyphen">-</pc>
 		<lb/>
 na Jeſu-Chriſto lanni hoſtia?
 		
 		<lb/>
-Riccteni chii hulooxe ti
+Rieeteni chii hulooxe ti
 		
 		<pc type="hyphen">-</pc>
 		<lb/>
@@ -6377,18 +6374,20 @@ DOCTRINA CHRISTIANA.
 					</fw>
 					<!-- Tristan Pepin's section -->
 					<pb n="49"/>
-
-    ...
-					
 					<lb/>
 					<div xml:id="levanto4.1.7.1">
 					  <head type="outline">Ave Filia Dei Patris, &amp;c.</head>
 						<head type="levanto" xml:lang="esp" rend="center italics">
         Ave Filia Dei Patris, &amp;c.
-							
+
 							<lb/>
 						</head>
-      ...
+Annaa Channa Maria he!
+Xinni Chaapa Dios Bixooce!
+Annaa Chaana Maria he!
+Xinaalii Dios Xinni:
+Annaa Channa Maria he!
+Xicoogo Quionii Baalii
 						
 						<lb/>
 					</div>
@@ -6399,8 +6398,17 @@ DOCTRINA CHRISTIANA.
 							
 							<lb/>
 						</head>
-      ...
-						
+Maria quellagracia lii xiñaa:
+Xiñaa lii quellahuezii, 
+Loo huentilla Huellaa, 
+Gonnillo yà gaatizii, 
+Xicco, xinnilo chibaa:
+Cohuilachilo zellii, 
+Chii toobi nabaani na, 
+Chaapina Quiiebaa Cachii: 
+Gaca ciiga ciica: <foreign xml:lang="esp">Amen</foreign>. 
+<foreign xml:lang="esp">Jesus, Maria, y Joſeph</foreign>
+
 						<lb/>
 					</div>
 				</div>
@@ -6411,6 +6419,9 @@ DOCTRINA CHRISTIANA.
 				  MYSTERIOS<lb/>
 				  DOLOROSOS.
         </head>
+        <fw type="catchword" place="bottom-right">
+  <hi rend="italics"><foreign xml:lang="esp">DE</foreign></hi>
+</fw>
         <lb/>
         <!-- James Truitt's section -->
         <pb n="50"/>
