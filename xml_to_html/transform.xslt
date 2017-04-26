@@ -9,7 +9,7 @@
   </xsl:template>
 
   <!-- transform <head> -->
-  <xsl:template match="head[@type='levanto']">
+  <xsl:template match="head">
     <h4>
       <xsl:apply-templates/>
     </h4>
@@ -18,7 +18,7 @@
   <xsl:template match="head[@type='outline']"></xsl:template>
 
   <!-- transform (preserve) <div> -->
-  <xsl:template match="div">
+  <xsl:template match="div[not(@xml:id)]">
     <!-- courtesy of stackoverflow.com/questions/26999058/, copies the div attributes -->
     <xsl:copy>
       <xsl:copy-of select="@*"/>

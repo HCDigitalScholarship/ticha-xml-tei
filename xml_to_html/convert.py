@@ -40,7 +40,7 @@ def preprocess_xml_to_string(xml_data):
 if __name__ == '__main__':
     choice_dispatch = {
         'html':(xslt_magic.xml_to_html, '.html'),
-        'outline':(ticha_outline.xml_to_outline, '._outline.html'),
+        'outline':(ticha_outline.xml_to_outline, '_outline.html'),
         'preview':(preview, '_preview.html'),
         'magic':(ticha_magic.xml_to_html, '.html'),
         'preprocessed':(preprocess_xml_to_string, '_preprocessed.xml'),
