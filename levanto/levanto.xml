@@ -1712,9 +1712,7 @@ Xinni.
 					<lb/>
 					<foreign xml:lang="esp">Espiritu Santo.</foreign>
 					<lb/>
-					<fw type="catchword" place="bottom-right">
-						<foreign xml:lang="esp">Eſpi</foreign>
-					</fw>
+					<fw type="catchword" place="bottom-right"><foreign xml:lang="esp">Eſpi</foreign></fw>
 					<!-- Avery Aghazarian's section -->
 					<pb n="20"/>
 
@@ -1870,9 +1868,7 @@ Xinni Dios ni Quellaniguiicni.
 					<foreign xml:lang="esp">Dios</foreign>, ni copachahuini Xiibaa Mandamientos, cohui
 
 					<lb/>
-	ni
-
-					<lb/>
+					<fw type="catchword" place="bottom-right">ni</fw>
 					<pb n="21"/>
 					<p rend="center">ni quicharoo ni la
 
@@ -3599,7 +3595,7 @@ tolla loolo: Channa Dios he!
 
 					<pc type="hyphen">-</pc>
 				</foreign>
-				<cb n="2">
+				<cb n="2"/>
 				<lb/>
 		Huanacaya niiaxtenni que
 
@@ -6144,9 +6140,7 @@ tolla loolo: Channa Dios he!
 
 					</foreign>
 				</head>
-				</div>
-		</div>
-		<!-- Levanto 3 -->
+		</div> <!-- Levanto 3 -->
 		<div xml:id="levanto4">
 		<!-- Avery Aghazarian's section -->
 		<pb n="46"/>
@@ -6414,11 +6408,7 @@ tolla loolo: Channa Dios he!
 					<lb/>
 					<div xml:id="levanto4.1.7.1">
 					  <head type="outline">Ave Filia Dei Patris, &amp;c.</head>
-						<head type="levanto" xml:lang="esp" rend="center italics">
-        Ave Filia Dei Patris, &amp;c.
-
-							<lb/>
-						</head>
+						<head type="levanto" xml:lang="esp" rend="center italics">Ave Filia Dei Patris, &amp;c.</head>
 Annaa Channa Maria he!
 Xinni Chaapa Dios Bixooce!
 Annaa Chaana Maria he!
@@ -6639,21 +6629,28 @@ Gaca ciiga ciica: <foreign xml:lang="esp">Amen</foreign>.
 
 						<lb/>
 					</head>
-					<fw type="catchword" place="bottom-right">Ni</fw>Can
-
-					<pc type="hyphen">-</pc>
+					<fw type="catchword" place="bottom-right">Can<pc type="hyphen">-</pc></fw>
 					<lb/>
 					<!-- James Faville's section -->
 					<pb n="52"/>
-
-    ...
-
-					<lb/>
+					CAnnato huechaagayaha<lb/>
+					Benniaati guechelayoo:<lb/>
+					Loo xtolla noo raati Biitoo<lb/>
+					Lanni Cruz nachiilla ñaa.<lb/>
+					Loo hueziillaa catiñeena<lb/>
+					Qui xohuina xibenaabi,<lb/>
+					Quennina chiña nallabi<lb/>
+					Loo Jesvs quebaaniñeena.<lb/>
 				</div>
 				<div xml:id="levanto4.2.7">
 				  <head type="outline">Deprecacion a la Virgen Nuestra Señora.</head>
 					<head type="levanto" xml:lang="esp" rend="center italics">Deprecacion â la Virgen Nueſtra Señora.<lb/></head>
-					...<lb/>
+					COoyo Myſterios nabaana<lb/>
+					Piillatonoo loo Maria,<lb/>
+					Cohuini tonoo baalaana<lb/>
+					Quellanabaani catiia.<lb/>
+					Gaca ciiga ciica Amen:<lb/>
+					Jesvs, Maria, y Joſeph.<lb/>
 				</div>
 			</div> <!-- levanto4.2 -->
 			<div xml:id="levanto4.3">
@@ -6665,29 +6662,25 @@ Gaca ciiga ciica: <foreign xml:lang="esp">Amen</foreign>.
 				  <head type="outline">Deprecacion ȃ la Santissima Virgen.</head>
 					<head type="levanto" xml:lang="esp" rend="center italics">
       Deprecacion â la Santiſsima Virgen.
-
-						<lb/>
-					</head>
-    ...
-
+      </head>
+      XIñaalii quellanayaanii,<lb/>
+      Pecuaani annaa quellahuiilla<lb/>
+      Quebaalachina reciilla<lb/>
+      Lezaacagaa ni pebaani<lb/>
+      Xinnilo Biitoo xeecilla.<lb/>
 					<lb/>
 				</div>
 				<div xml:id="levanto4.3.2">
 				  <head type="outline">Mysterio Primero. Del la Resurreccion de Christo.</head>
 					<head type="levanto" xml:lang="esp" rend="center italics">
-      MYSTERIO PRIMERO.
-
-						<lb/>
+      MYSTERIO PRIMERO.<lb/>
       De la Reſurreccion de Chriſto.
-
-						<lb/>
 					</head>
+        <fw type="catchword" place="bottom-right">Guee<pc type="hyphen">-</pc></fw>
 					<!-- Claire Benham's section -->
 					<pb n="53"/>
 
-    Gueella xiińe huabizoo,
-
-					<lb/>
+    Gueella xiińe huabizoo,<lb/>
     Chii huazaagaa peaayochii
 
 					<lb/>
@@ -6776,10 +6769,10 @@ Gaca ciiga ciica: <foreign xml:lang="esp">Amen</foreign>.
 					</fw>
 					<!-- Tristan Pepin's section -->
 					<pb n="54"/>
-
-    ...
-
-					<lb/>
+					Huazoobeeza xinachiini<lb/>
+					Ne Xonaaxi racalooni,<lb/>
+					Biitoo pechaalachitooni<lb/>
+					Quiaache xillaa xianiini:<lb/>
 				</div>
 				<div xml:id="levanto4.3.5">
 				  <head type="outline">Mysterio Quarto. De la Assumpcion de Nuestra Señora.</head>
@@ -6791,9 +6784,14 @@ Gaca ciiga ciica: <foreign xml:lang="esp">Amen</foreign>.
 
 						<lb/>
 					</head>
-    ...
-
-					<lb/>
+					HUazaa yyza, ni corii<lb/>
+					Xonaaxi huarii layoo,<lb/>
+					Collopea cachiiloo<lb/>
+					Xquellagooti nachii.<lb/>
+					Petoobi xquellanabaani<lb/>
+					Gocalii huechaagayaha,<lb/>
+					Annaà riaapini quiiebaa,<lb/>
+					Nateete ciroo quiraani.<lb/>
 				</div>
 				<div xml:id="levanto4.3.6">
 				  <head type="outline">Mysterio Quinto. De la Coronacion de Nuestra Señora.</head>
@@ -6805,10 +6803,16 @@ Gaca ciiga ciica: <foreign xml:lang="esp">Amen</foreign>.
 
 						<lb/>
 					</head>
-      ...
-
-					<lb/>
+					ANaà rilaapa Maria<lb/>
+					Lachiñaa Quioona Balii,<lb/>
+					Rohuini quellacooquii<lb/>
+					Xonaaxi cachii catiia.<lb/>
+					Ronnagueellani ciroo<lb/>
+					Gaca looni quiaà quiiebaa,<lb/>
+					Gacazaacani Xiñaa<lb/>
+					Quituubi gueeche layoo.<lb/>
 				</div>
+				<fw type="catchword" place="bottom-right">DE</fw>
 				<pb n="55"/>
 				<div xml:id="levanto4.3.7">
 				  <head type="outline">Deprecacion. A la Virgen Nuestra Señora.</head>
@@ -6840,7 +6844,8 @@ Gaca ciiga ciica: <foreign xml:lang="esp">Amen</foreign>.
   Jesvs, Maria, y Joſeph
 
 					</foreign>.
-
+					
+					<foreign xml:lang="esp" rend="italic">FIN<lb/>DE LOS MYSTERIOS.</foreign>
 					<lb/>
 				</div>
 			</div>
