@@ -8,6 +8,7 @@ class TEIPager(sax.ElementTreeContentHandler):
         self.in_text = False
         self.tag_stack = []
         self.page = 0
+        self.line = 1
 
     def startElementNS(self, ns_name, qname, attributes=None):
         if qname == 'text':
@@ -21,11 +22,14 @@ class TEIPager(sax.ElementTreeContentHandler):
             n = attributes.get((None, 'n'))
             self.handleColumnBreak(n)
         else:
+            if qname == 'lb':
+                self.line += 1
             if self.in_text:
                 self.tag_stack.append( (ns_name, qname, attributes) )
             super().startElementNS(ns_name, qname, attributes)
 
     def handlePageBreak(self):
+        self.line = 1
         self.page += 1
         self.closeAllTags()
         super().endElementNS((None, 'div'), 'div')
@@ -54,7 +58,11 @@ class TEIPager(sax.ElementTreeContentHandler):
         elif qname != 'pb' and qname != 'cb':
             if self.in_text:
                 self.tag_stack.pop()
-            super().endElementNS(ns_name, qname)
+            try:
+                super().endElementNS(ns_name, qname)
+            except sax.SaxError as e:
+                print('Error on page {0.page}, line {0.line}'.format(self))
+                raise e
 
     def closeAllTags(self):
         for ns_name, qname, _ in reversed(self.tag_stack):
