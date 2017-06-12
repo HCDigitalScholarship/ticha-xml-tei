@@ -1330,6 +1330,7 @@ xihui, chiiña naxihui. Quinniiona ciicarii.
 			</div>
 			<!-- levanto2.1 -->
 			<div xml:id="levanto2.2">
+			  <head type="outline">Por la Señal de la Santa Cruz, &amp;c.</head>
 				<head>
 					<foreign xml:lang="esp">POR LA SEñAL DE LA SANTA
 
@@ -1370,6 +1371,7 @@ Sancto
 			</div>
 			<!-- levanto2.2 -->
 			<div xml:id="levanto2.3">
+			  <head type="outline">Padre Nuestro, que estas en los Cielos, &amp;c</head>
 				<head>
 					<foreign xml:lang="esp">PADRE NUESTRO, QUE ESTAS EN
 
@@ -1414,6 +1416,7 @@ quella huechiie. Gaca ciiga ciica.
 			</div>
 			<!-- levanto2.3 -->
 			<div xml:id="levanto2.4">
+			  <head type="outline">Dios Te Salve Maria Llena eres de gracia, &amp;c.</head>
 				<head>
 					<foreign xml:lang="esp">DIOS TE SALVE MARIA LLENA
 
@@ -1460,6 +1463,7 @@ llabea quellagooti xtennitonoo. Gaca ciiga ciica.
 			</div>
 			<!-- levanto2.4 -->
 			<div xml:id="levanto2.5">
+			  <head type="outline">Dios Te Salve Reyna, y Madre de Miſericordia, &amp;c.</head>
 				<head>
 					<foreign xml:lang="esp">DIOS TE SALVE REYNA, Y MADRE
 
@@ -1528,6 +1532,7 @@ ciica.
 			</div>
 			<!-- levanto2.5 -->
 			<div xml:id="levanto2.6">
+			  <head type="outline">Creo en Dios Padre Todopode Roſo, &amp;c.</head>
 				<head>
 					<foreign xml:lang="esp">CREO EN DIOS PADRE TODOPODE
 
@@ -1625,6 +1630,7 @@ Ciiga ciica
 			</div>
 			<!-- levanto2.6 -->
 			<div xml:id="levanto2.7">
+			  <head type="outline">Los Articulos de la Fee, Son Catorze, &amp;c.</head>
 				<head>
 					<foreign xml:lang="esp">LOS ARTICULOS DE LA FEE, SON
 
@@ -1659,6 +1665,7 @@ xtenni
 
 				<lb/>
 				<div xml:id="levanto2.7.1">
+				  <head type="outline">Los Que Pertenecan a la Divinidad, ſon eſtos</head>
 					<head>
 						<foreign xml:lang="esp">
 							<hi rend="italic">LOS QUE PERTENECAN A LA DIVI
@@ -1739,6 +1746,7 @@ zaalahuezaa.
 				</div>
 				<!-- levanto2.7.1 -->
 				<div xml:id="levanto2.7.2">
+				  <head type="outline">Los Que Pertenecen a la San: Ta Humanidad, &amp;c.</head>
 					<head>
 						<foreign xml:lang="esp"> LOS QUE PERTENECEN A LA SAN:
 
@@ -1894,6 +1902,7 @@ guii natooxo gabilla. Gaca ciiga ciiga
 			</div>
 			<!-- levanto2.7 -->
 			<div xml:id="levanto2.8">
+			  <head type="outline">Los Mandamientos de la Ley de Dios ſon Diez</head>
 				<head rend="center">
 					<foreign xml:lang="esp">LOS MANDAMIENTOS DE LA LEY DE
 
@@ -2035,6 +2044,7 @@ ciica nachiiyoobilo. Gaca ciiga ciica.
 			</div>
 			<!-- levanto2.8 -->
 			<div xml:id="levanto2.9">
+			  <head type="outline">Los Mandamientos de la Santa Madre Iglefia, &amp;c.</head>
 				<head rend="center" xml:lang="esp">
   LOS MANDAMIENTOS DE LA SANTA
 
@@ -2128,6 +2138,7 @@ ALaarij: Ni rennabea Xiñaana
 			</div>
 			<!-- levanto2.9 -->
 			<div xml:id="levanto2.10">
+			  <head type="outline">Los Sacramentos de la Santa Madre Iglesſia, &amp;c.</head>
 				<head xml:lang="esp" rend="center">
   LOS SACRAMENTOS DE LA SANTA MA
 
@@ -2220,6 +2231,7 @@ monio
 			</div>
 			<!-- levanto2.10 -->
 			<div xml:id="levanto2.11">
+			  <head type="outline">Las Obras de Misericordia Son Catorze, &amp;c.</head>
 				<head>
 					<pc rend="center">
 						<foreign xml:lang="esp">LAS OBRAS DE MISERICORDIA SON
@@ -2385,6 +2397,7 @@ benni nabaanilà, benni gootilá. Gaca ciiga ciica.
 			</div>
 			<!-- levanto2.11 -->
 			<div xml:id="levanto2.12">
+			  <head type="outline">Los Pecados Mortales Son ſiete, &amp;c</head>
 				<head>
 					<foreign xml:lang="esp">LOS PECADOS MORTALES SON
 
@@ -2467,6 +2480,7 @@ ni, laa
 			</div>
 			<!-- levanto2.12 -->
 			<div xml:id="levanto2.13">
+			  <head type="outline">Contra Estos Siete Vicios Ay: Siete Virtudes, &amp;c.</head>
 				<head>
 					<foreign xml:lang="esp">CONTRA ESTOS SIETE VICIOS AY:
 
@@ -2564,6 +2578,7 @@ naqueenelachi, ni ritillañeeni quellacobeete, quellalea,
 			</div>
 			<!-- levanto2.13 -->
 			<div xml:id="levanto2.14">
+			  <head type="outline">Los Enemigos de el Alma, Son Tres, &amp;c.</head>
 				<head>
 					<foreign xml:lang="esp">LOS ENEMIGOS DE EL ALMA, SON
 
@@ -2608,6 +2623,7 @@ ni zellii tonoo benniaati, ni ràbini xquelayee
 			</div>
 			<!-- levanto2.14 -->
 			<div xml:id="levanto2.15">
+			  <head type="outline">Las Virtudes, que Hemos de Tener, ſon ſiete, &amp;c.</head>
 				<head>
 					<foreign xml:lang="esp">LAS VIRTUDES, QUE HEMOS DE TENER,
 
@@ -2647,6 +2663,7 @@ benniaati ruarii guechelayoo.
 
 				<lb/>
 				<div xml:id="levanto2.15.1">
+				  <head type="outline">Las Virtudes Theologales, Son Tres, &amp;c.</head>
 					<head>
 						<foreign xml:lang="esp">LAS VIRTUDES THEOLOGALES, SON
 
@@ -2694,6 +2711,7 @@ ALaarii: Chonaloo Quellanazaaca,
 				</div>
 				<!-- levanto2.15.1 -->
 				<div xml:id="levanto2.15.2">
+				  <head type="outline">Las Virtudes Cardinales, Son Quatro, &amp;c.</head>
 					<head>
 						<foreign xml:lang="esp">LAS VIRTUDES CARDINALES, SON
 
@@ -2765,6 +2783,7 @@ ca quellahuaagohuaxiia quellacóhuéhuaxiia, quellaco
 			</div>
 			<!-- levanto2.15 -->
 			<div xml:id="levanto2.16">
+			  <head type="outline">Las Potencias del Alma Son Tres, &amp;c.</head>
 				<head>
 					<foreign xml:lang="esp">LAS POTENCIAS DEL ALMA SON
 
@@ -2804,6 +2823,7 @@ ALaarii: Chonaaloo quellanaguiichi xtenni Anima, laa
 			</div>
 			<!-- levanto2.16 -->
 			<div xml:id="levanto2.17">
+			  <head type="outline">Los Sentidos Corporales Son Cinco, &amp;c.</head>
 				<head>
 					<foreign xml:lang="esp">LOS SENTIDOS CORPORALES SON
 
@@ -2849,6 +2869,7 @@ niloo.
 			</div>
 			<!-- levanto2.17 -->
 			<div xml:id="levanto2.18">
+			  <head type="outline">Los Dones de el Espiritu Santo ſon ſiete, &amp;c.</head>
 				<head>
 					<foreign xml:lang="esp">LOS DONES DE EL ESPIRITU SANTO
 
@@ -2929,6 +2950,7 @@ nnizii lezaani, laa
 
 				</foreign>
 				<div xml:id="levanto2.18.1">
+				  <head type="outline">Explicacion</head>
 					<head>
 						<foreign xml:lang="esp">EXPLICACION.</foreign>
 					</head>
@@ -2956,6 +2978,7 @@ goneeche ciicani tonoo Xilla nirii.
 			</div>
 			<!-- levanto2.18 -->
 			<div xml:id="levanto2.19">
+			  <head type="outline">Las Bienaventuranzas Son Ocho, &amp;c.</head>
 				<head>
 					<foreign xml:lang="esp">LAS BIENAVENTURANZAS SON
 
@@ -3073,6 +3096,7 @@ Gaca ciiga ciica.
 			</div>
 			<!-- levanto2.19 -->
 			<div xml:id="levanto2.20">
+			    <head type="outline">Los Novissimos De El Hombre</head>
 				<head type="levanto" rend="center">
 					<foreign xml:lang="esp">LOS NOVISSIMOS DE EL HOMBRE
 
@@ -3132,6 +3156,7 @@ zellii: laa
 			</div>
 			<!-- levanto2.20 -->
 			<div xml:id="levanto2.21">
+			  <head type="outline">Nueve Remedios, para Quitar los Pecados Veniales</head>
 				<head type="levanto" rend="center">
 					<foreign xml:lang="esp">NUEVE REMEDIOS, PARA QUITAR LOS
 
@@ -3222,6 +3247,7 @@ do venial
 			</div>
 			<!-- levanto2.21 -->
 			<div xml:id="levanto2.22">
+			  <head type="outline">Yo Pecador Me Confiesso a Dios</head>
 				<head type="levanto" rend="center">
 					<foreign xml:lang="esp">YO PECADOR ME CONFIESSO A DIOS,
 
@@ -3315,6 +3341,7 @@ Gaca ciiga ciica.
 			</div>
 			<!-- levanto2.22 -->
 			<div xml:id="levanto2.23">
+			  <head type="outline">Confiteor Deo, &amp;c. del Orden de Predicadores.</head>
 				<head type="levanto" rend="center">
 					<foreign xml:lang="esp" rend="italics">CONFITEOR DEO, &amp;c. DEL ORDEN
 
@@ -3394,6 +3421,7 @@ niiaxtenni naa.
 			</div>
 			<!-- levanto2.23 -->
 			<div xml:id="levanto2.24">
+			  <head type="outline">Acto de Contricion</head>
 				<head type="levanto" rend="center">
 					<foreign xml:lang="esp" rend="italics">ACTO DE CONTRICION.</foreign>
 					<lb/>
@@ -3462,6 +3490,7 @@ tolla loolo: Channa Dios he!
 		</div>
 		<!-- levanto2 -->
 		<div xml:id="levanto3">
+		  <head type="outline">Explicacion de la Doctrina Christiana</head>
 			<head type="levanto" rend="center">
 			<foreign xml:lang="esp">EXPLICACION
 
