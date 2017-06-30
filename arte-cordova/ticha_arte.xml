@@ -29132,9 +29132,10 @@
                <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>.
                <foreign xml:lang="cvz">córe</foreign>.</p>
             <p><lb/><pc>¶</pc>La tabla del muslo. 
-               <foreign xml:lang="cvz">Xi
-               <cb n="2"/><lb break="no"/>tóbacóte</foreign>.
+              <foreign xml:lang="cvz">Xi</foreign>
             </p>
+            <cb n="2"/>
+            <p><foreign xml:lang="cvz">tóbacóte</foreign>.</p>
             <p><lb/><pc>¶</pc>Rodilla. 
                <foreign xml:lang="cvz">Xíbi</foreign>.
             </p>
