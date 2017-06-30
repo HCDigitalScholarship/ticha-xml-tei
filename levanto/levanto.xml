@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="TEISchema_current.rnc" type="application/relax-ng-compact-syntax"?>
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <text>
     <div xml:lang="esp" xml:id="levanto1">
       <head type="outline">[Front matter]</head>
