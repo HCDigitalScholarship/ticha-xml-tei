@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="TEISchema_current.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <text>
@@ -104,6 +104,38 @@ otro adjetivo uno y otro son indeclinable?, sin caros?
     <pb n="95"/>
     <pb n="96"/>
     <pb n="97"/>
+
+Quienta en Zaapoteco:
+1- - - - - - Toobi - - -        27- - - Callebigaache- - -
+2- - - - - Tioopa, choopa       28- - Callebixoono- - -
+3 - - - -  Cooiona - - - -      29- - Callebigaa - - -
+4 - - - - Taapa - - -           30 - - Callebichij - - -
+5 - - - - Gaayo - - -           31 - - Callebichij toobi - - - -
+6 - - - - Xoopa - - -           32 Callebichij tioopa - - -
+7 - - - - Gaache - - -          33 Callebichij Choona
+8 - - - - Xoono - - -           34 - Callebichij taapa - - -
+9 - - - - Gaa - - - -           35 Callebichij gaayo - - -
+10 - - - - Chij - - - - - -         36 Callebichij xoopa - -
+11 - - - - Chijbi toobi - -     37 Callebichij gaache - - -
+12 - --- Chijbi tioopa Choopa  38 Callebichij xoono - - -
+13 - - - - Chijño - - - -       39 Callebichij gaa - - - - -
+14 - - - - Chijta - - -         40 - Tua - Tihua - Chua 
+15 - - - - Chijno - - - -       41 Tua bitoobi 
+                                50. Tua bichij
+16 - - - Chijnoo bitoobi 
+                                51. Tua bichij toobi - - - - - -
+17 - - - Chijnoo bitioopa
+                                60. Caayoona- - - - - -
+18 - - - Chijnobichoona         61 Caayoona bitoobi
+19 - - - Chijnobitaapa - -      70 Caayoona bichij
+20 - - - - Calle - - - - - -    71 Caayoona bichijtoobi
+21- - - Calle bitoobi - - -     80 - - - Taa
+22 - - - - Calle bixoopa - - -  81 - - Taa bitoobi
+23 - - - Calle bichoona - - -   90 - - Taabichij
+24 - - - Calle bitaapa - - -    91 - - - Taabichijtoobi
+25 - - Calle bigaayo - - -      100 - - Cayooa - - - -
+26 - - Calle bixoopa - - -      200 - - Chija - - - - -
+
     <pb n="98"/>
     <pb n="99"/>
     Xopa, vel quisoopa quisoop ayaa. Para decir una
