@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="TEISchema_current.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <text>
@@ -104,9 +104,98 @@ otro adjetivo uno y otro son indeclinable?, sin caros?
     <pb n="95"/>
     <pb n="96"/>
     <pb n="97"/>
+
+<head type="outline">[Quienta en Zaapoteco:]</head>
+<lb/>
+1- - - - - - Toobi - - -        27- - - Callebigaache- - -
+<lb/>
+2- - - - - Tioopa, choopa       28- - Callebixoono- - -
+<lb/>
+3 - - - -  Cooiona - - - -      29- - Callebigaa - - -
+<lb/>
+4 - - - - Taapa - - -           30 - - Callebichij - - -
+<lb/>
+5 - - - - Gaayo - - -           31 - - Callebichij toobi - - - -
+<lb/>
+6 - - - - Xoopa - - -           32 Callebichij tioopa - - -
+<lb/>
+7 - - - - Gaache - - -          33 Callebichij Choona
+<lb/>
+8 - - - - Xoono - - -           34 - Callebichij taapa - - -
+<lb/>
+9 - - - - Gaa - - - -           35 Callebichij gaayo - - -
+<lb/>
+10 - - - - Chij - - - - - -         36 Callebichij xoopa - -
+<lb/>
+11 - - - - Chijbi toobi - -     37 Callebichij gaache - - -
+<lb/>
+12 - --- Chijbi tioopa Choopa  38 Callebichij xoono - - -
+<lb/>
+13 - - - - Chijño - - - -       39 Callebichij gaa - - - - -
+<lb/>
+14 - - - - Chijta - - -         40 - Tua - Tihua - Chua 
+<lb/>
+15 - - - - Chijno - - - -       41 Tua bitoobi 
+                                50. Tua bichij
+16 - - - Chijnoo bitoobi 
+                                51. Tua bichij toobi - - - - - -
+17 - - - Chijnoo bitioopa
+                                60. Caayoona- - - - - -
+18 - - - Chijnobichoona         61 Caayoona bitoobi
+19 - - - Chijnobitaapa - -      70 Caayoona bichij
+20 - - - - Calle - - - - - -    71 Caayoona bichijtoobi
+21- - - Calle bitoobi - - -     80 - - - Taa
+22 - - - - Calle bixoopa - - -  81 - - Taa bitoobi
+23 - - - Calle bichoona - - -   90 - - Taabichij
+24 - - - Calle bitaapa - - -    91 - - - Taabichijtoobi
+25 - - Calle bigaayo - - -      100 - - Cayooa - - - -
+26 - - Calle bixoopa - - -      200 - - Chija - - - - -
+
     <pb n="98"/>
+300-- Chijnova- - -      		4000- - - Chijeela- - -
+400- - - Toobieela- - - 		5000- Chijbi?oopaeela--
+500- -Toobieelacayooa- 	Chija-- - - - - -
+600- - -ToobiieelaChija 〜	6000 - -Chijñooeela -----
+700- -ChaagaeelaChijnoo 	7000.
+800- - - Tioopaeela- ----- 	8000. : Calle eela--------
+900- - -Tioopaeela Cayooa -
+1000 - - Caatoeela. Chija
+2000 - Cayooeela- - - 
+3000-Cacheeela Chija --------------------------------
+Hasta aqui es toda la quenta de los Indies, y de aqui arri
+ba van contando de ocho en ocho mil. Yoelo dicho se
+laca y no semuda la quenta comun, y nolien nombres
+parriculares, sino elpar 10 = y despues 20 en 20: V. g.
+Calle -- 40 tuo -- 60 = caayoona -80 taa - 100 Cayooa
+-200 - Chija = 300 - Chijnooa - 400- toobieela ??
+El mayor numero q.e tienen son 8000 q:e sondo 20vezeD
+400. La quenta de pueronã es como esta dicho = 1 toobi 2- 
+
     <pb n="99"/>
+    Xopa, vel quisoopa quisoop ayaa. Para decir una
+	cosa, dos cosas, dicen roobeloo o roopalo,velsoow iexiee?
+	bioop a cuee,? Vel siiki xibaa, soopaxebaa, uno y me-
+	Gio. doi y medio soobichijba? Medio soopa chijba me-
+	Gio. Cadara cada mel. Cada año-Chaga. ChaahaChij
+	Chaaga-Chaagabeo, Chaaya  Chaagaira - vetoobi-
+	Boobichy: Liandovon? Con pas lar cosas rg P?re hablas
+	Ruexbe j^.e hanas aes ex dor preainamente para warcee? Ellos
+	N.G Ceriales, boros Zapatos. Vedoce soohinwzaN.J. una
+	Lwnfa s Bueyer - G oloinerzag inna -- un parece zapa (tilde over a)
+	Dos - roobieceza quelageuiG-o zapatos, ara cacleslla
+	Man queeiaguen, y alri tambien a los zapatos.
     <pb n="100"/>
+Para administrar los Santos.
+Sacramentos.
+_______Bautismo._______
+C Quien eres?
+Z Tuxa nacalo?
+C Que quieres?
+Z Xijxacalachilo?
+C Traigo ã este Niño para q[u].e lo bautizes
+Z Zeelañeca Bato^onij nijani corobnizalo niquee
+C Aviso ã el sacriston(?) y este ã la puerta
+
     <pb n="101"/>
 Para la Sagrada Eucristiao Viatico.
 Hijo ya se confesarlos.2 tienes algunos pecados de q.e
@@ -128,31 +217,32 @@ Dios verdadero, Criador del cielo y de la tierra?
 
     <pb n="102"/>
     <pb n="103"/>
-Crees q.e N.tro Sr Jesu Christo murio en el arbol de la
-Cruz para redimir a todos nosotros pecadores?
+<<<<<<< HEAD
+Crees q.<sup>e</sup> N.<sup>tro</sup> S.<sup>r</sup> Jesu Christo murio en el arbol de la
+Cruz para redimir &#227; todos nosotros pecadores?
 Huarieelijlachilo, ni Bejuannana Jesu Christo
 cotiniloo yaaga Cruz niaxtenni cozijllaani quinaa]lijtonoo 
 benni tiuexijhui?
-Crees q.e N.tro Sr Jesu Christo fue sepultado y q.e 
-su anima N.a junta con la Divinidad bajo a los
-infiernos, y vaco a las almas de los S.tos Padres q.e es]peraban 
-su s.to advenimiento? 
+Crees q.<sup>e</sup> N.<sup>tro</sup> S.<sup>r</sup> Jesu Christo fue sepultado y q.e 
+su anima N.a junta con la Divinidad bajo &#227; los
+infiernos, y vaco &#227; las almas de los S.tos Padres q.e es-
+peraban su s.to advenimiento? 
 Huarieelijlachilo, ni Bejuannana Jesu Christo pi]cachini 
 chela anima nyoona xtennini hua&#241;ee
 quella bitoo pieteni gavijilla chela Coloni animas 
-xtenni S.tos ni coleezani quella pitao yoonasten-
+xtenni S.<sub>tos</sub> ni coleezani quella pitao yoonasten-
 nini?
-Crees q.e N.to S.r Jesu Christo a^ el tercero dia
+Crees q.<sup>e</sup> N.<sup>to</sup> S.<sup>r</sup> Jesu Christo &#227; el tercero dia
 Resucito de entre los muertos y pasados guarentadias 
-subio alos Cielos y se sento a^la diestra de Dios Padre
+subio alos Cielos y se sento &#227; la diestra de Dios Padre
 todo poderoso?
 Huarieelijlachialo, ni Bejuannana Jesu Christo
 peeayocheijgaa pebaanini lahui bennicoti chela
 coteete coruuachij peeapinni quicebaa ch?elaCo-
 chijbani &#241;iaabee xtonni Dios Dixooze niquizaa
 lacoca?
-Crees q.e el dio del Juicio vendra a- juzgar a^ los bue]nos, 
-y a^ los malos, para dar a^ los buonos la gloria y a^
+Crees q.<sup>e</sup> el dio del Juicio vendra a- juzgar &#227; los bue-
+nos, y &#227; los malos, para dar &#227; los buonos la gloria y &#227;
 los malos pena para siempre?
 Huarieelijlachilo ni chij quella hueto? gotichaqui
 tu? cosogotichani’ loo benninazaaca chelaCoo-
@@ -161,6 +251,8 @@ Quella baa quella gloria chela loo benni aguijzaa-
 ca quella zij, quella chijbaa Zelijpe?
 Besala Cruz ---- Pechagaroa? Cruz
 
+=======
+>>>>>>> afbd58c4931fe456309c43cf793ce9229859d743
     <pb n="104"/>
     <pb n="105"/>
     <pb n="106"/>
