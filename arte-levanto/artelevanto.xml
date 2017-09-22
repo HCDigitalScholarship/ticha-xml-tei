@@ -2,14 +2,36 @@
 <?xml-model href="TEISchema_current.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <text>
+    <pb n="cover"/>
     <pb n="1"/>
     <pb n="2"/>
     <pb n="3"/>
-(De las Partes de la Oracion.)
-Las partes de la oracion son ocho Nombre Prõ
-nombre &amp;ra. el Nombre uno? es substantivo y
-otro adjetivo uno y otro son indeclinable?, sin caros?
-
+    (De las Partes de la Oracion.)
+    Las partes de la oracion son ocho Nombre Prõ
+    nombre &ra. el Nombre uno? es substantivo y -
+    otro adjetivo uno y otro son indeclinable, sin casos
+    ni numeros, de suerte q.e de por si no tienen dife-
+    rencia de el singular y plural; pero se distiwñ-
+     guen con estos dos adjetivos q.e, se llaman collec- c
+     tivos: Ciianni q.^e significa mucho. Huaxijag?
+    significa po cop NJ? Muchos muchachos, Ajan(tilde under and above the n)
+    ni Pinni = Huaxija? Pinni, pocos muchachos
+    El Nombre Bixooze q.e significa el Padre tie-
+    ne alguna declinacion, porq.e el Nominativo se
+     dice Bixoocea en el Vocativo Bixooze tam-
+     bien Besuana o’Bejuana tiene el vocativo Chā
+     ana: V.g. Capa Dios Chaana. Dios aguaader. ?
+     solo los dos referidos nombres son excepcion dela?
+     Regla general i? Aunq.eel M.tusde? enta lenguadis-
+     ce q.e esde? nombre Chaana no es uscatius? de Beruā-
+     ma, sino q.e es ō sincopa de Pechana o’es como
+     se pronuncia Chaama; pues ambos de dos nombres
+     se hallan separados en el Vocabulario, y signifi-
+     can el e?ox. Cus nombre Rex o Ria parece q. tam-
+     poco e vocativo de Birooze, pues t?s bien se han
+    lia en el Vocabulario vigze?caa, do cee possible
+    Padres. Dice el Vocabulario Padre mio, mi Pe Ri
+    ria, por el tanto el M.tro de esta lengua el M. Rs.
     <pb n="4"/>
     <pb n="5"/>
     <pb n="6"/>
@@ -104,73 +126,70 @@ otro adjetivo uno y otro son indeclinable?, sin caros?
     <pb n="95"/>
     <pb n="96"/>
     <pb n="97"/>
-
-<head type="outline">[Quienta en Zaapoteco:]</head>
-<lb/>
-1- - - - - - Toobi - - -        27- - - Callebigaache- - -
-<lb/>
-2- - - - - Tioopa, choopa       28- - Callebixoono- - -
-<lb/>
-3 - - - -  Cooiona - - - -      29- - Callebigaa - - -
-<lb/>
-4 - - - - Taapa - - -           30 - - Callebichij - - -
-<lb/>
-5 - - - - Gaayo - - -           31 - - Callebichij toobi - - - -
-<lb/>
-6 - - - - Xoopa - - -           32 Callebichij tioopa - - -
-<lb/>
-7 - - - - Gaache - - -          33 Callebichij Choona
-<lb/>
-8 - - - - Xoono - - -           34 - Callebichij taapa - - -
-<lb/>
-9 - - - - Gaa - - - -           35 Callebichij gaayo - - -
-<lb/>
-10 - - - - Chij - - - - - -         36 Callebichij xoopa - -
-<lb/>
-11 - - - - Chijbi toobi - -     37 Callebichij gaache - - -
-<lb/>
-12 - --- Chijbi tioopa Choopa  38 Callebichij xoono - - -
-<lb/>
-13 - - - - Chijño - - - -       39 Callebichij gaa - - - - -
-<lb/>
-14 - - - - Chijta - - -         40 - Tua - Tihua - Chua 
-<lb/>
-15 - - - - Chijno - - - -       41 Tua bitoobi 
-                                50. Tua bichij
-16 - - - Chijnoo bitoobi 
-                                51. Tua bichij toobi - - - - - -
-17 - - - Chijnoo bitioopa
-                                60. Caayoona- - - - - -
-18 - - - Chijnobichoona         61 Caayoona bitoobi
-19 - - - Chijnobitaapa - -      70 Caayoona bichij
-20 - - - - Calle - - - - - -    71 Caayoona bichijtoobi
-21- - - Calle bitoobi - - -     80 - - - Taa
-22 - - - - Calle bixoopa - - -  81 - - Taa bitoobi
-23 - - - Calle bichoona - - -   90 - - Taabichij
-24 - - - Calle bitaapa - - -    91 - - - Taabichijtoobi
-25 - - Calle bigaayo - - -      100 - - Cayooa - - - -
-26 - - Calle bixoopa - - -      200 - - Chija - - - - -
-
+    <head type="outline">[Quienta en Zaapoteco:]</head>
+    <lb/>
+    1- - - - - - Toobi - - -        27- - - Callebigaache- - -
+    <lb/>
+    2- - - - - Tioopa, choopa       28- - Callebixoono- - -
+    <lb/>
+    3 - - - -  Cooiona - - - -      29- - Callebigaa - - -
+    <lb/>
+    4 - - - - Taapa - - -           30 - - Callebichij - - -
+    <lb/>
+    5 - - - - Gaayo - - -           31 - - Callebichij toobi - - - -
+    <lb/>
+    6 - - - - Xoopa - - -           32 Callebichij tioopa - - -
+    <lb/>
+    7 - - - - Gaache - - -          33 Callebichij Choona
+    <lb/>
+    8 - - - - Xoono - - -           34 - Callebichij taapa - - -
+    <lb/>
+    9 - - - - Gaa - - - -           35 Callebichij gaayo - - -
+    <lb/>
+    10 - - - - Chij - - - - - -         36 Callebichij xoopa - -
+    <lb/>
+    11 - - - - Chijbi toobi - -     37 Callebichij gaache - - -
+    <lb/>
+    12 - --- Chijbi tioopa Choopa  38 Callebichij xoono - - -
+    <lb/>
+    13 - - - - Chijño - - - -       39 Callebichij gaa - - - - -
+    <lb/>
+    14 - - - - Chijta - - -         40 - Tua - Tihua - Chua 
+    <lb/>
+    15 - - - - Chijno - - - -       41 Tua bitoobi 
+                                    50. Tua bichij
+    16 - - - Chijnoo bitoobi 
+                                    51. Tua bichij toobi - - - - - -
+    17 - - - Chijnoo bitioopa
+                                    60. Caayoona- - - - - -
+    18 - - - Chijnobichoona         61 Caayoona bitoobi
+    19 - - - Chijnobitaapa - -      70 Caayoona bichij
+    20 - - - - Calle - - - - - -    71 Caayoona bichijtoobi
+    21- - - Calle bitoobi - - -     80 - - - Taa
+    22 - - - - Calle bixoopa - - -  81 - - Taa bitoobi
+    23 - - - Calle bichoona - - -   90 - - Taabichij
+    24 - - - Calle bitaapa - - -    91 - - - Taabichijtoobi
+    25 - - Calle bigaayo - - -      100 - - Cayooa - - - -
+    26 - - Calle bixoopa - - -      200 - - Chija - - - - -
     <pb n="98"/>
-300-- Chijnova- - -      		4000- - - Chijeela- - -
-400- - - Toobieela- - - 		5000- Chijbi?oopaeela--
-500- -Toobieelacayooa- 	Chija-- - - - - -
-600- - -ToobiieelaChija 〜	6000 - -Chijñooeela -----
-700- -ChaagaeelaChijnoo 	7000.
-800- - - Tioopaeela- ----- 	8000. : Calle eela--------
-900- - -Tioopaeela Cayooa -
-1000 - - Caatoeela. Chija
-2000 - Cayooeela- - - 
-3000-Cacheeela Chija --------------------------------
-Hasta aqui es toda la quenta de los Indies, y de aqui arri
-ba van contando de ocho en ocho mil. Yoelo dicho se
-laca y no semuda la quenta comun, y nolien nombres
-parriculares, sino elpar 10 = y despues 20 en 20: V. g.
-Calle -- 40 tuo -- 60 = caayoona -80 taa - 100 Cayooa
--200 - Chija = 300 - Chijnooa - 400- toobieela ??
-El mayor numero q.e tienen son 8000 q:e sondo 20vezeD
-400. La quenta de pueronã es como esta dicho = 1 toobi 2- 
-
+    300-- Chijnova- - -      		4000- - - Chijeela- - -
+    400- - - Toobieela- - - 		5000- Chijbi?oopaeela--
+    500- -Toobieelacayooa- 	Chija-- - - - - -
+    600- - -ToobiieelaChija 〜	6000 - -Chijñooeela -----
+    700- -ChaagaeelaChijnoo 	7000.
+    800- - - Tioopaeela- ----- 	8000. : Calle eela--------
+    900- - -Tioopaeela Cayooa -
+    1000 - - Caatoeela. Chija
+    2000 - Cayooeela- - - 
+    3000-Cacheeela Chija --------------------------------
+    Hasta aqui es toda la quenta de los Indies, y de aqui arri
+    ba van contando de ocho en ocho mil. Yoelo dicho se
+    laca y no semuda la quenta comun, y nolien nombres
+    parriculares, sino elpar 10 = y despues 20 en 20: V. g.
+    Calle -- 40 tuo -- 60 = caayoona -80 taa - 100 Cayooa
+    -200 - Chija = 300 - Chijnooa - 400- toobieela ??
+    El mayor numero q.e tienen son 8000 q:e sondo 20vezeD
+    400. La quenta de pueronã es como esta dicho = 1 toobi 2- 
     <pb n="99"/>
     Xopa, vel quisoopa quisoop ayaa. Para decir una
 	cosa, dos cosas, dicen roobeloo o roopalo,velsoow iexiee?
@@ -185,70 +204,101 @@ El mayor numero q.e tienen son 8000 q:e sondo 20vezeD
 	Dos - roobieceza quelageuiG-o zapatos, ara cacleslla
 	Man queeiaguen, y alri tambien a los zapatos.
     <pb n="100"/>
-Para administrar los Santos.
-Sacramentos.
-_______Bautismo._______
-C Quien eres?
-Z Tuxa nacalo?
-C Que quieres?
-Z Xijxacalachilo?
-C Traigo ã este Niño para q[u].e lo bautizes
-Z Zeelañeca Bato^onij nijani corobnizalo niquee
-C Aviso ã el sacriston(?) y este ã la puerta
-
+    Para administrar los Santos.
+    Sacramentos.
+    _______Bautismo._______
+    C Quien eres?
+    Z Tuxa nacalo?
+    C Que quieres?
+    Z Xijxacalachilo?
+    C Traigo ã este Niño para q[u].e lo bautizes
+    Z Zeelañeca Bato^onij nijani corobnizalo niquee
+    C Aviso ã el sacriston(?) y este ã la puerta de la iglesia
+    ...me esperas alli
     <pb n="101"/>
-Para la Sagrada Eucristiao Viatico.
-Hijo ya se confesarlos.2 tienes algunos pecados de q.e
-reconciliante?
-Xinni; baa pezoaba stollalo? Huazapalo xijtilato
-olla, ni huanozaabi cozooba xtolla zaacalo?
-Salios fuera, para q.e reconfiere este enfermo
-Colachee xyche, nijani coxooba oxtollani bemni quicherÿ.
-Hijo todo Christiano esta muy obligado a^ conferarla é
-de Dios q.e necisio en el Bautismo, quando llegue la ho-
-ra de su muerte.
-Xinni quiraalÿveni Christiano hua nozaabiseete cu
-va pilijlachini, guella ricelijlachini xdenni Dios co
-xijini loo gucilo xino Laniza, Chij callapea guella co
-bi xtennini.
-Por tanto crees en el misterio de la SS.a Trinidad
-q.e es Dios Padre, DS Hijo, y DS epirtus Sbo yun(?)as _
-Dios verdadero, Criador del cielo y de la tierra?
-
+    Destapa el pecho del Niño.
+    Coraale latilachi?too rtennibatoo.
+    Volteá boca abajo ã el Niño.
+    Perexilalo batoo.
+    Cabrelo.
+    Pezeego xaaba niquee.
+    Vamos ã la Pila Bautismal
+    Choono nichaa niza laaya.
+    Advierte Hijo q.e porq.e fuiste Padrino (Madrina) te has
+    Hecho pariente Cipiritual, o tiene parentesco Cipiri-
+    tual, en primer lugar con el Niño y en segundo lugar
+    con el Padre, y Madre del Niño. Juntamente tienes --
+    obligacion de enseñarla Doctrina Christiana ã este
+    Niño, sino se la enseñaren sur Padres.
+    Conna rinni, ni niartenni cocalo Bixooze (Xiñaa) 
+    yohoto quella rirabaniza, cocalo rtijalaaya, laa
+    huarapalo quella rijalaaya, loo cotoobe rtijan?-eee --
+    batoo. Chela lo coroopa rtijañee rtaata, ñee rnaana
+    rlenni batoo huañee hua rozaabi cocozeetelo tichalaa
+    ya baboonij sebeela acati cocozebeni rtaata rnaana
+    rlennini.
+    Yreis ã mi celda eseri?er yo el Bautismo.
+    ColaChee, loo rlichia, nijani cocayeeaquellariaobanaa.
+    Como se llama el Niño?
+    tulaani Batoo?
+    Como se llama el P.e del ???ño, como se llama la Madre
+    tulaani rtaata rzemni batoo=tulaani rnaana rzen_
+    ni batoo.
+    De q.e Pueblo son --- Caazooba guecheni
+    Como te llamas, de donde eres.
+    tulaalo Cazaalo.
+    Yaseacabo, vebe (ios)_Baa Coloosi, cuyee (Colachee) -
     <pb n="102"/>
+    Para la Sagrada Eucristiao Viatico.
+    Hijo ya se confesarlos.2 tienes algunos pecados de q.e
+    reconciliante?
+    Xinni; baa pezoaba stollalo? Huazapalo xijtilato
+    olla, ni huanozaabi cozooba xtolla zaacalo?
+    Salios fuera, para q.e reconfiere este enfermo
+    Colachee xyche, nijani coxooba oxtollani bemni quicherÿ.
+    Hijo todo Christiano esta muy obligado a^ conferarla é
+    de Dios q.e necisio en el Bautismo, quando llegue la ho-
+    ra de su muerte.
+    Xinni quiraalÿveni Christiano hua nozaabiseete cu
+    va pilijlachini, guella ricelijlachini xdenni Dios co
+    xijini loo gucilo xino Laniza, Chij callapea guella co
+    bi xtennini.
+    Por tanto crees en el misterio de la SS.a Trinidad
+    q.e es Dios Padre, DS Hijo, y DS epirtus Sbo yun(?)as _
+    Dios verdadero, Criador del cielo y de la tierra?
     <pb n="103"/>
-Crees q.e N.tro S.r  Jesu Christo murio en el arbol de la
-Cruz para redimir a todos nosotros pecadores?
-Huarieelijlachilo, ni Bejuannana Jesu Christo
-cotiniloo yaaga Cruz niaxtenni cozijllaani quinaa-
-lijtonoo benni tiuexijhui?
-Crees q.e N.tro S.r Jesu Christo fue sepultado y q.e 
-su anima N.a junta con la Divinidad bajo a los
-infiernos, y vaco a las almas de los S.tos Padres q.e es-
-peraban su s.to advenimiento? 
-Huarieelijlachilo, ni Bejuannana Jesu Christo pi-
-cachini chela anima nyoona xtennini huañee
-quella bitoo pieteni gavijilla chela Coloni animas 
-xtenni S.tos ni coleezani quella pitao yoonasten-
-nini?
-Crees q.e N.to S.r  Jesu Christo ã el tercero dia
-resucito de entre los muertos y pasados guarentadias 
-subio ã los Cielos y se sento ã la diestra de Dios Padre
-todo poderoso?
-Huarieelijlachialo, ni Bejuannana Jesu Christo
-peeayocheijgaa pebaanini lahui bennicoti chela
-coteete? coruuachij? peeapinni quicebaa ch?elaCo-
-chijbani ñiaabee xtonni Dios Dixooze niquizaa
-lacoca?
-Crees q.e el dio del Juicio vendra ā juzgar ã los bue]nos, 
-y ã los malos, para dar ã los buonos la gloria y ã
-los malos pena para siempre?
-Huarieelijlachilo ni chij quella hueto? gotichaqui
-tu? cosogotichani’ loo benninazaaca chelaCoo-
-Benni aguijzaca nijani cohuini loo bennizaaca
-Quella baa quella gloria chela loo benni aguijzaa-
-ca quella zij, quella chijbaa Zelijpe?
-Besala Cruz ---- Pechagaroa? Cruz
+    Crees q.e N.tro S.r  Jesu Christo murio en el arbol de la
+    Cruz para redimir a todos nosotros pecadores?
+    Huarieelijlachilo, ni Bejuannana Jesu Christo
+    cotiniloo yaaga Cruz niaxtenni cozijllaani quinaa-
+    lijtonoo benni tiuexijhui?
+    Crees q.e N.tro S.r Jesu Christo fue sepultado y q.e 
+    su anima N.a junta con la Divinidad bajo a los
+    infiernos, y vaco a las almas de los S.tos Padres q.e es-
+    peraban su s.to advenimiento? 
+    Huarieelijlachilo, ni Bejuannana Jesu Christo pi-
+    cachini chela anima nyoona xtennini huañee
+    quella bitoo pieteni gavijilla chela Coloni animas 
+    xtenni S.tos ni coleezani quella pitao yoonasten-
+    nini?
+    Crees q.e N.to S.r  Jesu Christo ã el tercero dia
+    resucito de entre los muertos y pasados guarentadias 
+    subio ã los Cielos y se sento ã la diestra de Dios Padre
+    todo poderoso?
+    Huarieelijlachialo, ni Bejuannana Jesu Christo
+    peeayocheijgaa pebaanini lahui bennicoti chela
+    coteete? coruuachij? peeapinni quicebaa ch?elaCo-
+    chijbani ñiaabee xtonni Dios Dixooze niquizaa
+    lacoca?
+    Crees q.e el dio del Juicio vendra ā juzgar ã los bue]nos, 
+    y ã los malos, para dar ã los buonos la gloria y ã
+    los malos pena para siempre?
+    Huarieelijlachilo ni chij quella hueto? gotichaqui
+    tu? cosogotichani’ loo benninazaaca chelaCoo-
+    Benni aguijzaca nijani cohuini loo bennizaaca
+    Quella baa quella gloria chela loo benni aguijzaa-
+    ca quella zij, quella chijbaa Zelijpe?
+    Besala Cruz ---- Pechagaroa? Cruz
     <pb n="104"/>
     <pb n="105"/>
     <pb n="106"/>
