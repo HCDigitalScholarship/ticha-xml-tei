@@ -151,66 +151,67 @@
     <pb n="95"/>
     <pb n="96"/>
     <pb n="97"/>
-    <head type="outline">[Quienta en Zaapoteco:]</head>
+
+    <head> Quienta en Zaapoteco: </head>
     <lb/>
-    1- - - - - - Toobi - - -        27- - - Callebigaache- - -
+    1- - - - - - <foreign xml:lang="zap"> Toobi </foreign> - - -        27- - - <foreign xml:lang="zap">Callebiga^ache </foreign> - - -
     <lb/>
-    2- - - - - Tioopa, choopa       28- - Callebixoono- - -
+    2- - - - - <foreign xml:lang="zap"> Tioopa, choopa </foreign>      28- - <foreign xml:lang="zap"> Callebixoono </foreign> - - -
     <lb/>
-    3 - - - -  Cooiona - - - -      29- - Callebigaa - - -
+    3 - - - -  <foreign xml:lang="zap"> C^hoona </foreign> - - - -      29- - <foreign xml:lang="zap"> Callebigaa </foreign>- - -
     <lb/>
-    4 - - - - Taapa - - -           30 - - Callebichij - - -
+    4 - - - - <foreign xml:lang="zap"> Taapa </foreign> - - -           30 - - <foreign xml:lang="zap"> Callebichij </foreign> - - -
     <lb/>
-    5 - - - - Gaayo - - -           31 - - Callebichij toobi - - - -
+    5 - - - - <foreign xml:lang="zap"> Gaayo </foreign> - - -           31 - - <foreign xml:lang="zap"> Callebichij toobi </foreign> - - - -
     <lb/>
-    6 - - - - Xoopa - - -           32 Callebichij tioopa - - -
+    6 - - - - <foreign xml:lang="zap"> Xoopa </foreign>  - - -           32 <foreign xml:lang="zap"> Callebichij tioopa </foreign> - - -
     <lb/>
-    7 - - - - Gaache - - -          33 Callebichij Choona
+    7 - - - - <foreign xml:lang="zap"> Gaache </foreign> - - -          33 <foreign xml:lang="zap"> Callebichij Choona </foreign>
     <lb/>
-    8 - - - - Xoono - - -           34 - Callebichij taapa - - -
+    8 - - - - <foreign xml:lang="zap"> Xoono </foreign> - - -           34 - <foreign xml:lang="zap"> Callebichij taapa </foreign> - - -
     <lb/>
-    9 - - - - Gaa - - - -           35 Callebichij gaayo - - -
+    9 - - - - <foreign xml:lang="zap"> Gaa </foreign> - - - -           35 <foreign xml:lang="zap"> Callebichij gaayo <foreign xml:lang="zap" rend="italic"> - - -
     <lb/>
-    10 - - - - Chij - - - - - -         36 Callebichij xoopa - -
+    10 - - - - <foreign xml:lang="zap"> Chij </foreign> - - - - - -         36 <foreign xml:lang="zap"> Callebichij xoopa </foreign> - -
     <lb/>
-    11 - - - - Chijbi toobi - -     37 Callebichij gaache - - -
+    11 - - - - <foreign xml:lang="zap"> Chijbi toobi </foreign> - -     37 <foreign xml:lang="zap"> Callebichij gaache </foreign> - - -
     <lb/>
-    12 - --- Chijbi tioopa Choopa  38 Callebichij xoono - - -
+    12 - --- <foreign xml:lang="zap"> Chijbi tioopa Choopa </foreign>  38 <foreign xml:lang="zap"> Callebichij xoono </foreign> - - -
     <lb/>
-    13 - - - - Chijño - - - -       39 Callebichij gaa - - - - -
+    13 - - - - <foreign xml:lang="zap"> Chijño </foreign> - - - -       39 <foreign xml:lang="zap"> Callebichij gaa </foreign> - - - - -
     <lb/>
-    14 - - - - Chijta - - -         40 - Tua - Tihua - Chua 
+    14 - - - - <foreign xml:lang="zap"> Chijtaa </foreign> - - -         40 - <foreign xml:lang="zap"> Tua - Tihua - Chua </foreign>
     <lb/>
-    15 - - - - Chijno - - - -       41 Tua bitoobi 
+    15 - - - - <foreign xml:lang="zap"> Chijno </foreign> - - - -       41 <foreign xml:lang="zap"> Tua bitoobi </foreign>
+                                    50. <foreign xml:lang="zap"> Tua bichij </foreign>
     <lb/>
-                                    50. Tua bichij
+    16 - - - <foreign xml:lang="zap"> Chijnoo bitoobi </foreign> 
     <lb/>
-    16 - - - Chijnoo bitoobi 
+                                    51. <foreign xml:lang="zap"> Tua bichij toobi </foreign> - - - - - -
     <lb/>
-                                    51. Tua bichij toobi - - - - - -
+    17 - - - <foreign xml:lang="zap"> Chijnoo bitioopa </foreign>
     <lb/>
-    17 - - - Chijnoo bitioopa
+                                    60. <foreign xml:lang="zap"> Caayoona </foreign> - - - - - -
     <lb/>
-                                    60. Caayoona- - - - - -
+    18 - - - <foreign xml:lang="zap"> Chijnobichoona </foreign>         61 <foreign xml:lang="zap"> Caayoona bitoobi </foreign>
     <lb/>
-    18 - - - Chijnobichoona         61 Caayoona bitoobi
+    19 - - - <foreign xml:lang="zap">Chijnobitaapa </foreign>- -      70 <foreign xml:lang="zap"> Caayoona bichij </foreign>
     <lb/>
-    19 - - - Chijnobitaapa - -      70 Caayoona bichij
+    20 - - - - <foreign xml:lang="zap"> Calle </foreign> - - - - - -    71 <foreign xml:lang="zap"> Caayoona bichijtoobi </foreign>
     <lb/>
-    20 - - - - Calle - - - - - -    71 Caayoona bichijtoobi
+    21- - - <foreign xml:lang="zap"> Calle bitoobi </foreign> - - -     80 - - - <foreign xml:lang="zap"> Taa </foreign>
     <lb/>
-    21- - - Calle bitoobi - - -     80 - - - Taa
+    22 - - - - <foreign xml:lang="zap"> Calle bixoopa </foreign> - - -  81 - - <foreign xml:lang="zap"> Taa bitoobi </foreign>
     <lb/>
-    22 - - - - Calle bixoopa - - -  81 - - Taa bitoobi
+    23 - - - <foreign xml:lang="zap"> Calle bichoona </foreign> - - -   90 - - <foreign xml:lang="zap"> Taabichij </foreign>
     <lb/>
-    23 - - - Calle bichoona - - -   90 - - Taabichij
+    24 - - - <foreign xml:lang="zap"> Calle bitaapa </foreign> - - -    91 - - - <foreign xml:lang="zap"> Taabichijtoobi </foreign>
     <lb/>
-    24 - - - Calle bitaapa - - -    91 - - - Taabichijtoobi
+    25 - - <foreign xml:lang="zap"> Calle bigaayo </foreign> - - -      100 - - <foreign xml:lang="zap"> Cayooa </foreign> - - - -
     <lb/>
-    25 - - Calle bigaayo - - -      100 - - Cayooa - - - -
+    26 - - <foreign xml:lang="zap"> Calle bixoopa </foreign> - - -      200 - - <foreign xml:lang="zap"> Chija </foreign> - - - - -
     <lb/>
-    26 - - Calle bixoopa - - -      200 - - Chija - - - - -
-    <lb/>
+    
     <pb n="98"/>
     300-- Chijnova- - -      		4000- - - Chijeela- - -
     <lb/>
@@ -240,27 +241,42 @@
     <lb/>
     parriculares, sino elpar 10 = y despues 20 en 20: V. g.
     <lb/>
-    Calle -- 40 tuo -- 60 = caayoona -80 taa - 100 Cayooa
+    <foreign xml: lang = "zap">Calle </foreign>-- 40 <foreign xml: lang= "zap"> tuo </foreign> -- 60 = <foreign xml: lang= "zap"> caayoona </foreign>-80  <foreign xml: lang= "zap"> taa </foreign> - 100 <foreign xml: lang= "zap"> Cayooa </foreign>
     <lb/>
     -200 - Chija = 300 - Chijnooa - 400- toobieela ??
     <lb/>
     El mayor numero q.e tienen son 8000 q:e sondo 20vezeD
     <lb/>
     400. La quenta de pueronã es como esta dicho = 1 toobi 2- 
-Tioopa _ 3_ Choona. Para la quenta ? preberito se ana 
-deā la de priente esta particula Co: V.g Co toobi, y danã
-enden ? ? e. conla ul?ma unidad, son ya tantos: V.g. he 
-dado cinco, y despues do otro, g. ehacen seis y dieen Co- 
-xoopayannas seilieet con este son seis. Para lagueos- 
-tave future, seanade a la presente una  de estas dos par 
-ticulas, Zee vel Hue: V.g. Zeetoobi vel huetoobi.
-Cs de notar g. en donde dicen toobi, tioopa Choona taapa: 
-De puede deein Chaaga, Cato, Cayo, taai Parapreteri –
-pondor dieen Coxoopa para tres Coyoona para cinco-
-Cooyo, par siete, Cooche par  Cohui.
-Para decir de uno n uno de dos en dos de ciento en cien-
-To, dicen toobi, toobi, elto bitoobiyaa, quixoopa qui-
-						xoo_
+    <lb/>
+	Tioopa _ 3_ Choona. Para la quenta ? preberito se ana 
+	<lb/>
+	deā la de priente esta particula Co: V.g Co toobi, y danã
+	<lb/>
+	enden ? ? e. conla ul?ma unidad, son ya tantos: V.g. he 
+	<lb/>
+	dado cinco, y despues do otro, g. ehacen seis y dieen Co- 
+	<lb/>
+	xoopayannas seilieet con este son seis. Para lagueos- 
+	<lb/>
+	tave future, seanade a la presente una  de estas dos par 
+	<lb/>
+	ticulas, Zee vel Hue: V.g. Zeetoobi vel huetoobi.
+	<lb/>
+	Cs de notar g. en donde dicen toobi, tioopa Choona taapa: 
+	<lb/>
+	De puede deein Chaaga, Cato, Cayo, taai Parapreteri –
+	<lb/>
+	pondor dieen Coxoopa para tres Coyoona para cinco-
+	<lb/>
+	Cooyo, par siete, Cooche par  Cohui.
+	<lb/>
+	Para decir de uno n uno de dos en dos de ciento en cien-
+	<lb/>
+	To, dicen toobi, toobi, elto bitoobiyaa, quixoopa qui-
+	<lb/>
+													xoo_
+	<lb/>
 
     <pb n="99"/>
      Xopa, vel quisoopa quisoop ayaa. Para decir una
@@ -367,19 +383,19 @@ To, dicen toobi, toobi, elto bitoobiyaa, quixoopa qui-
     <pb n="101"/>
     Destapa el pecho del Niño.
     <lb/>
-    Coraale latilachi?too rtennibatoo.
+    <foreign xml:lang="zap">Coraale latilachi?too rtennibatoo.</foreign>
     <lb/>
     Volteá boca abajo ã el Niño.
     <lb/>
-    Perexilalo batoo.
+    <foreign xml:lang="zap">Perexilalo batoo.</foreign>
     <lb/>
     Cabrelo.
     <lb/>
-    Pezeego xaaba niquee.
+    <foreign xml:lang="zap">Pezeego xaaba niquee.</foreign>
     <lb/>
     Vamos ã la Pila Bautismal
     <lb/>
-    Choono nichaa niza laaya.
+    <foreign xml:lang="zap">Choono nichaa niza laaya.</foreign>
     <lb/>
     Advierte Hijo q.e porq.e fuiste Padrino (Madrina) te has
     <lb/>
@@ -393,7 +409,7 @@ To, dicen toobi, toobi, elto bitoobiyaa, quixoopa qui-
     <lb/>
     Niño, sino se la enseñaren sur Padres.
     <lb/>
-    Conna rinni, ni niartenni cocalo Bixooze (Xiñaa) 
+    <foreign xml:lang="zap">Conna rinni, ni niartenni cocalo Bixooze (Xiñaa) 
     <lb/>
     yohoto quella rirabaniza, cocalo rtijalaaya, laa
     <lb/>
@@ -405,43 +421,47 @@ To, dicen toobi, toobi, elto bitoobiyaa, quixoopa qui-
     <lb/>
     ya baboonij sebeela acati cocozebeni rtaata rnaana
     <lb/>
-    rlennini.
+    rlennini.</foreign>
     <lb/>
     Yreis ã mi celda eseri?er yo el Bautismo.
     <lb/>
-    ColaChee, loo rlichia, nijani cocayeeaquellariaobanaa.
+    <foreign xml:lang="zap">ColaChee, loo rlichia, nijani cocayeeaquellariaobanaa.</foreign>
     <lb/>
     Como se llama el Niño?
     <lb/>
-    tulaani Batoo?
+    <foreign xml:lang="zap">tulaani Batoo?</foreign>
     <lb/>
     Como se llama el P.e del ???ño, como se llama la Madre
     <lb/>
-    tulaani rtaata rzemni batoo=tulaani rnaana rzen_
+    <foreign xml:lang="zap">tulaani rtaata rzemni batoo=tulaani rnaana rzen_
     <lb/>
-    ni batoo.
+    ni batoo.</foreign>
     <lb/>
-    De q.e Pueblo son --- Caazooba guecheni
+    De q.e Pueblo son --- <foreign xml:lang="zap">Caazooba guecheni</foreign>
     <lb/>
     Como te llamas, de donde eres.
     <lb/>
-    tulaalo Cazaalo.
+    <foreign xml:lang="zap">tulaalo Cazaalo.
     <lb/>
-    Yaseacabo, vebe (ios)_Baa Coloosi, cuyee (Colachee) -
+    Yaseacabo, vebe (ios)_Baa Coloosi, cuyee (Colachee) -</foreign>
     <pb n="102"/>
-    Para la Sagrada Eucristiao Viatico.
+    <head>Para la Sagrada Eucristiao Viatico.</head>
     <lb/>
     Hijo ya se confesarlos.2 tienes algunos pecados de q.e
     <lb/>
     reconciliante?
     <lb/>
+    <foreign xml:lang=”zap”>
     Xinni; baa pezoaba stollalo? Huazapalo xijtilato
     <lb/>
     olla, ni huanozaabi cozooba xtolla zaacalo?
+    </foreign>
     <lb/>
     Salios fuera, para q.e reconfiere este enfermo
     <lb/>
+    <foreign xml:lang=”zap”>
     Colachee xyche, nijani coxooba oxtollani bemni quicherÿ.
+    </foreign>
     <lb/>
     Hijo todo Christiano esta muy obligado a^ conferarla é
     <lb/>
@@ -449,6 +469,7 @@ To, dicen toobi, toobi, elto bitoobiyaa, quixoopa qui-
     <lb/>
     ra de su muerte.
     <lb/>
+    <foreign xml:lang=”zap”>
     Xinni quiraalÿveni Christiano hua nozaabiseete cu
     <lb/>
     va pilijlachini, guella ricelijlachini xdenni Dios co
@@ -457,12 +478,14 @@ To, dicen toobi, toobi, elto bitoobiyaa, quixoopa qui-
     <lb/>
     bi xtennini.
     <lb/>
+    </foreign>
     Por tanto crees en el misterio de la SS.a Trinidad
     <lb/>
     q.e es Dios Padre, DS Hijo, y DS epirtus Sbo yun(?)as _
     <lb/>
     Dios verdadero, Criador del cielo y de la tierra?
     <lb/>
+    <foreign xml:lang=”zap”>
     Faaniaacani Huaxieelijlachilo, lo misterio xtenni
     <lb/>
     SSa Trinidad, ni naca Dios Bixooce, Dios Xinni_
@@ -473,6 +496,7 @@ To, dicen toobi, toobi, elto bitoobiyaa, quixoopa qui-
     <lb/>
     laijoo?
     <lb/>
+    </foreign>
     Crees q.e N.to Sr Jesu Christo se hizo hombre por
     <lb/>
     abra del Spiritu S.to en el vientre SS.o del N.tNo Señora 
@@ -481,6 +505,7 @@ To, dicen toobi, toobi, elto bitoobiyaa, quixoopa qui-
     <lb/>
     antes del parto en el parto, y despues del parto?
     <lb/>
+    <foreign xml:lang=”zap”>
     Huanicalij’lachilo, ni Bejuaannana JesuCristo
     <lb/>
     cocani benni nigrigo, lo xtichani Dios Spiritu Santo
@@ -494,6 +519,7 @@ To, dicen toobi, toobi, elto bitoobiyaa, quixoopa qui-
     Hua      , quella xizaana, loo quella xizaana, echelo
     <lb/>
     Hualoxi quella xizaana.          x Creer(?)
+    </foreign>
     <pb n="103"/>
     Crees q.e N.tro S.r  Jesu Christo murio en el arbol de la
     <lb/>
