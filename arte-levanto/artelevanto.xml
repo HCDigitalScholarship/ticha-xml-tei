@@ -1,8 +1,4 @@
-﻿<<<<<<< HEAD
-﻿ml version="1.0" encoding="UTF-8"?>
-=======
-﻿<?xml version="1.0" encoding="UTF-8"?>
->>>>>>> 68f6b9111e8ce930a24f92a4645ab218c676294f
+﻿﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="TEISchema_current.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <text>
@@ -252,35 +248,53 @@
     <lb/>
     400. La quenta de pueronã es como esta dicho = 1 toobi 2- 
     <pb n="99"/>
-<<<<<<< HEAD
- Xopa, vel quisoopa quisoop ayaa. Para decir una
-cosa, dos cosas, dicen roobeloo o roopalo,velsoow iexiee?
-bioop a cuee,? Vel siiki xibaa, soopaxebaa, uno y me-
-Gio. doi y medio soobichijba? Medio soopa chijba me-
-Gio. Cadara cada mel. Cada año-Chaga. ChaahaChij
-Chaaga-Chaagabeo, Chaaya  Chaagaira - vetoobi-
-Boobichy: Liandovon? Con pas lar cosas rg P?re hablas
-Ruexbe j^.e hanas aes ex dor preainamente para warcee? Ellos
-N.G Ceriales, boros Zapatos. Vedoce soohinwzaN.J. una
-Lwnfa s Bueyer - G oloinerzag inna -- un parece zapa (tilde over a)
-Dos - roobieceza quelageuiG-o zapatos, ara cacleslla
-Man queeiaguen, y alri tambien a los zapatos.
-Para decir la dos manos, los dos pies las dos orejas repone
-Choo q.^e es una or? Dos cosas q^e.  Hancee rex juntas?: N.G Las dos
-Manos~ quixoojopa Choonqani una mano -soichoo
-Nanni. Los dos pies. Quinoop a choo nijani; unpiezoo
-Bichoonijani; las dos orejas. Quixoopa choo raagani
-Una oreja. Soob ichoo raagani_ Gaexar una piesuna
-[unknown symbol] carne ero, dicen quitan ^symol Z sooloichoo coxe Xijla
-Tambien guando redice uno [?] cosas q.^e [symbol] pons ivon
-Pax, reponela pasrr? Ceela Choo. como ?eve enlos exam
-[symbol] los ya puertos axxiba y tambien Zeponen Laaga.
-N.g. con Buey [SYMBOL] murio_ roobi laagag onna gurini.
-Fin de la guenta Zapoteca.
-
-=======
-   
->>>>>>> 68f6b9111e8ce930a24f92a4645ab218c676294f
+     Xopa, vel quisoopa quisoop ayaa. Para decir una
+    <lb/>
+    cosa, dos cosas, dicen roobeloo o roopalo,velsoow iexiee?
+    <lb/>
+    bioop a cuee,? Vel siiki xibaa, soopaxebaa, uno y me-
+    <lb/>
+    Gio. doi y medio soobichijba? Medio soopa chijba me-
+    <lb/>
+    Gio. Cadara cada mel. Cada año-Chaga. ChaahaChij
+    <lb/>
+    Chaaga-Chaagabeo, Chaaya  Chaagaira - vetoobi-
+    <lb/>
+    Boobichy: Liandovon? Con pas lar cosas rg P?re hablas
+    <lb/>
+    Ruexbe j^.e hanas aes ex dor preainamente para warcee? Ellos
+    <lb/>
+    N.G Ceriales, boros Zapatos. Vedoce soohinwzaN.J. una
+    <lb/>
+    Lwnfa s Bueyer - G oloinerzag inna -- un parece zapa (tilde over a)
+    <lb/>
+    Dos - roobieceza quelageuiG-o zapatos, ara cacleslla
+    <lb/>
+    Man queeiaguen, y alri tambien a los zapatos.
+    <lb/>
+    Para decir la dos manos, los dos pies las dos orejas repone
+    <lb/>
+    Choo q.^e es una or? Dos cosas q^e.  Hancee rex juntas?: N.G Las dos
+    <lb/>
+    Manos~ quixoojopa Choonqani una mano -soichoo
+    <lb/>
+    Nanni. Los dos pies. Quinoop a choo nijani; unpiezoo
+    <lb/>
+    Bichoonijani; las dos orejas. Quixoopa choo raagani
+    <lb/>
+    Una oreja. Soob ichoo raagani_ Gaexar una piesuna
+    <lb/>
+    [unknown symbol] carne ero, dicen quitan ^symol Z sooloichoo coxe Xijla
+    <lb/>
+    Tambien guando redice uno [?] cosas q.^e [symbol] pons ivon
+    <lb/>
+    Pax, reponela pasrr? Ceela Choo. como ?eve enlos exam
+    <lb/>
+    [symbol] los ya puertos axxiba y tambien Zeponen Laaga.
+    <lb/>
+    N.g. con Buey [SYMBOL] murio_ roobi laagag onna gurini.
+    <lb/>
+    Fin de la guenta Zapoteca.
     <pb n="100"/>
     Para administrar los Santos.
     <lb/>
@@ -296,28 +310,45 @@ Fin de la guenta Zapoteca.
     <lb/>
     Z Xijxacalachilo?
     <lb/>
-    C Traigo ã este Niño para q[u].e lo bautizes
+    C Traigo ã este Niño para q.e lo bautizes
     <lb/>
-    Z Zeelañeca Bato^onij nijani corobnizalo niquee
+    Z Zeelañeca Batoonij nijani corobnizalo niquee
     <lb/>
     C Aviso ã el sacriston(?) y vete ã la puerta de la Igle-
-sia y me esperas alli
-Z Peconnadicaloo coopa quichaa yohoto chela
-Cuyee xoa yohoto chela cueezalo naaxoacani
-C Quando nacio este Niño?
-Z Co caxa golleni batoxij?
-Es hombre o’ muger?
-Hua naca benniniguio laa besmigonna?
-Como guieres q.e se llame?
-Ci ca xacalachilo ni quilaani?
-Pon a el Niño a el otro lado
-Colaquilo aloo loo zetoobi cuee.
-Entra dentro de la Iglesia.
-Coyoo lanni Yohoto.
-Y n(?) caós(?) rezadad(?) el Credo y Padre Nuestro
-Colla gozeoxijbi colla colla Huaxicelijlachia-
-Dios Bixooze chela Bixoozetonoo he.
-					Des=
+    <lb/>
+    sia y me esperas alli
+    <lb/>
+    Z Peconnadicaloo coopa quichaa yohoto chela
+    <lb/>
+    Cuyee xoa yohoto chela cueezalo naaxoacani
+    <lb/>
+    C Quando nacio este Niño?
+    <lb/>
+    Z Co caxa golleni batoxij?
+    <lb/>
+    Es hombre o’ muger?
+    <lb/>
+    Hua naca benniniguio laa besmigonna?
+    <lb/>
+    Como guieres q.e se llame?
+    <lb/>
+    Ci ca xacalachilo ni quilaani?
+    <lb/>
+    Pon a el Niño a el otro lado
+    <lb/>
+    Colaquilo aloo loo zetoobi cuee.
+    <lb/>
+    Entra dentro de la Iglesia.
+    <lb/>
+    Coyoo lanni Yohoto.
+    <lb/>
+    Y n(?) caós(?) rezadad(?) el Credo y Padre Nuestro
+    <lb/>
+    Colla gozeoxijbi colla colla Huaxicelijlachia-
+    <lb/>
+    Dios Bixooze chela Bixoozetonoo he.
+    <lb/>
+    					Des=
     <pb n="101"/>
     Destapa el pecho del Niño.
     <lb/>
@@ -416,71 +447,102 @@ Dios Bixooze chela Bixoozetonoo he.
     q.e es Dios Padre, DS Hijo, y DS epirtus Sbo yun(?)as _
     <lb/>
     Dios verdadero, Criador del cielo y de la tierra?
+    <lb/>
+    Faaniaacani Huaxieelijlachilo, lo misterio xtenni
+    <lb/>
+    SSa Trinidad, ni naca Dios Bixooce, Dios Xinni_
+    <lb/>
+    chela Dios Espiritu S.tt , Choona persona, cani toobicy
+    <lb/>
+    Dios Hualijca Bitoo, ni pezzaani Quiceba, ni pezaani
+    <lb/>
+    laijoo?
+    <lb/>
+    Crees q.e N.to Sr Jesu Christo se hizo hombre por
+    <lb/>
+    abra del Spiritu S.to en el vientre SS.o del N.tNo Señora 
+    <lb/>
+    la Virgen Maria, y nacio de ella, siendo ella Virgen
+    <lb/>
+    antes del parto en el parto, y despues del parto?
+    <lb/>
+    Huanicalij’lachilo, ni Bejuaannana JesuCristo
+    <lb/>
+    cocani benni nigrigo, lo xtichani Dios Spiritu Santo
+    <lb/>
+    lioo lanni nataateete xtenni xoon naaxitoo Chaapa
+    <lb/>
+    coconi yoona S.ta Maria, Chela gollenixtenni S.ta
+    <lb/>
+    Maria huanaca yoohini Caap a cocooni yoona en
+    <lb/>
+    Hua      , quella xizaana, loo quella xizaana, echelo
+    <lb/>
+    Hualoxi quella xizaana.          x Creer(?)
     <pb n="103"/>
-Crees q.e N.tro S.r  Jesu Christo murio en el arbol de la
-Cruz para redimir a todos nosotros pecadores?
-Huarieelijlachilo, ni Bejuannana Jesu Christo
-Hua-ri-eelijlachi=lo ni    Bejuannana Jesu   Christo
-?-hab-believe=2s     that  Mister?    Jesus  Christ
-cotini loo yaaga Cruz niaxtenni cozijllaani qui[t?]aa]lijtonoo
-co-ti=ni    loo    yaaga Cruz   ni-a-xtenni co-zijllaa-ni qu[t?]iaa]lij=tonoo
-pfv-die=3s  face   tree  cross  ?-?-of      pfv-?=3s      all=1pl
-benni huexijhui?
-benni  hue-xij-hui?
-person prf-sin?-ag?
-Crees q.e N.tro S.r Jesu Christo fue sepultado y q.e 
-su anima N.a junta con la Divinidad bajo a los
-infiernos, y vaco a las almas de los S.tos Padres q.e es]peraban
-su s.to advenimiento? 
-Huarieelijlachilo, ni Bejuannana Jesu Christo pi]cachini
-Hua-ri-eelijlachi=lo ni   Bejuannana Jesu  Christo pi-cachi=ni
-?-hab-believe=2s     that Mister?    Jesus Christ  prf-be.buried=3s
-chela anima nayoona xtennini huañee
-chela anima nayoona  xtenni=ni huañee
-and   soul  earthly? of=3s     with
-quella bitoo pieteni gazijlla chela coloni animas 
-quella=bi-too pi-ete=ni ga-zijlla chela co-lo=ni   animas
-nom=divine?   pfv-?=3s  pfv?-?    and   pfv-?=3.S  souls
-xtenni S.tos  ni coleezani quella pitao yoona sten]nini?
-xtenni santos ni   co-leeza=ni      quella=pi-tao yoona  stenni=ni
-of     saints that pfv-hope.for=3.S nom=divine?   earth? of=3s
-Crees q.e N.to S.r Jesu Christo ã el tercero dia
-resucito de entre los muertos y pasados quarenta dias 
-subio ã los Cielos y se sento ã la diestra de Dios Padre
-todo poderoso?
-Huarieelijlachialo, ni Bejuannana Jesu Christo
-Hua-ri-eelijlachi=lo ni   Bejuannana Jesu   Christo
-?-hab-believe=2s     that Mister?    Jesus  Christ
-peeayochijgaa pebaanini lahui bennicoti chela
-Peeayo chij gaa pe-banni=ni  lahui benni  co-ti   chela
-third? day  ?   pfv-awake=3s amid  person pfv-die and
-coteete? coruuachij peeapinni quieebaa chela co]chijbani
-coteete coruua chij pee-api=nni    quieebaa chela co-chijba=ni
-?       ?      day  pfv-ascend?=3s heaven   and   pfv-sit?=3s
-ñiaabee xtonni Dios Bixooze niquizaa
-ñiaa-bee   xtonni Dios Bixooze ni-qui-zaa
-hand-right of     god  father  ?
-lacoca?
-?
-Crees q.e el dio del Juicio vendra ā juzgar ã los bue]nos, 
-y ã los malos, para dar ã los buonos la gloria y ã
-los malos pena para siempre?
-Huarieelijlachilo, ni chij quella hueto gotichaqui]ta?
-Hua-ri-eelijlachi=lo ni   chij quella=hue-togo-ticha qui-ta?
-?-hab-believe=2s     that day  nom=prf?-?-word       irr?-?
-cotogotichani’ loo benni nazaaca chelaCoo-
-co-togo-ticha-ni loo  benni  nazaaca chela 
-irr?-?-word-3s   face person good    and
-benni aguijzaca nijani cohuini loo benninazaaca
-benni  aguijzaca nijani co-hui-ni     loo  benni  nazaaca
-person bad       ?      irr?-give?-3s face person good
-quella baa quella gloria chela loo benni aguijzaa]ca
-quella=baa quella=gloria chela loo  benni  aguijzaaca
-nom=?      nom?=glory    and   face person bad
-quella zij, quella chijbaa Zelijpe?
-quella=zij  quella=chijbaa zelijpe
-nom=uhappy? nom=wretched?  forever?
-Besala Cruz ---- Pechagaroa? Cruz
+    Crees q.e N.tro S.r  Jesu Christo murio en el arbol de la
+    <lb/>
+    Cruz para redimir a todos nosotros pecadores?
+    <lb/>
+    Huarieelijlachilo, ni Bejuannana Jesu Christo
+    <lb/>
+    cotini loo yaaga Cruz niaxtenni cozijllaani qui[t?]aa]lijtonoo
+    <lb/>
+    benni huexijhui?
+    <lb/>
+    Crees q.e N.tro S.r Jesu Christo fue sepultado y q.e 
+    <lb/>
+    su anima N.a junta con la Divinidad bajo a los
+    <lb/>
+    infiernos, y vaco a las almas de los S.tos Padres q.e es]peraban
+    <lb/>
+    su s.to advenimiento? 
+    <lb/>
+    Huarieelijlachilo, ni Bejuannana Jesu Christo pi]cachini
+    <lb/>
+    chela anima nayoona xtennini huañee
+    <lb/>
+    quella bitoo pieteni gazijlla chela coloni animas 
+    <lb/>
+    xtenni S.tos  ni coleezani quella pitao yoona sten]nini?
+    <lb/>
+    Crees q.e N.to S.r Jesu Christo ã el tercero dia
+    <lb/>
+    resucito de entre los muertos y pasados quarenta dias 
+    <lb/>
+    subio ã los Cielos y se sento ã la diestra de Dios Padre
+    <lb/>
+    todo poderoso?
+    <lb/>
+    Huarieelijlachialo, ni Bejuannana Jesu Christo
+    <lb/>
+    peeayochijgaa pebaanini lahui bennicoti chela
+    <lb/>
+    coteete? coruuachij peeapinni quieebaa chela co]chijbani
+    <lb/>
+    ñiaabee xtonni Dios Bixooze niquizaa
+    <lb/>
+    lacoca?
+    <lb/>
+    ?
+    <lb/>
+    Crees q.e el dio del Juicio vendra ā juzgar ã los bue]nos, 
+    <lb/>
+    y ã los malos, para dar ã los buonos la gloria y ã
+    <lb/>
+    los malos pena para siempre?
+    <lb/>
+    Huarieelijlachilo, ni chij quella hueto gotichaqui]ta?
+    <lb/>
+    cotogotichani’ loo benni nazaaca chelaCoo-
+    <lb/>
+    benni aguijzaca nijani cohuini loo benninazaaca
+    <lb/>
+    quella baa quella gloria chela loo benni aguijzaa]ca
+    <lb/>
+    quella zij, quella chijbaa Zelijpe?
+    <lb/>
+    Besala Cruz ---- Pechagaroa? Cruz
     <pb n="104"/>
     <pb n="105"/>
     <pb n="106"/>
