@@ -1,4 +1,4 @@
-﻿﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="TEISchema_current.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <text>
@@ -68,21 +68,21 @@
     <lb/>
 	Es Jaun. Huazaacanaca Pedro; Huazaacana (line over a)
 	<lb/>
-	Ca Juan. Grande es erze Pueblo, mayor es el otro <foeeign xml:lang="cixoo" rend="italic">Rol-la</foeeign> (line under second ‘o’)
+	Ca Juan. Grande es erze Pueblo, mayor es el otro <foreign xml:lang="cixoo" rend="italic">Rol-la</foreign> (line under second ‘o’)
 	<lb/>
-	<foreign xml:lang="Naca guechexy; cirooxoonaca zeetobi." rend="italic">Rol-la<foreign> Tambien
+	<foreign xml:lang="Naca guechexy; cirooxoonaca zeetobi." rend="italic">Rol-la</foreign> Tambien
 	<lb/>
 	Ve por ponen esta particula Roo para preguntas y 
 	<lb/>
-	Responder N.g. hay mas pecados. <foreign xml:lang="Hoo xootoolla?" rend="italic">Rol-la<foreign> Mas
+	Responder N.g. hay mas pecados. <foreign xml:lang="Hoo xootoolla?" rend="italic">Rol-la</foreign> Mas
 	<lb/>
 	<head>De los Superlativos</head>
 	<lb/>
 	Los Superlativos son tambien los mevmos portivio por
 	<lb/>
-	Puesta la particula teete vechaze veyorlivo <foeeign xml:lang="cixoo" rend="italic">Rol-la</foeeign> (line under second ‘o’)
+	Puesta la particula teete vechaze veyorlivo <foreign xml:lang="cixoo" rend="italic">Rol-la</foreign> (line under second ‘o’)
 	<lb/>
-	tes^ete:Ciroo significa cora grande y <foeeign xml:lang="ciroo" rend="italic">Rol-la</foeeign> zeese co 
+	tes^ete:Ciroo significa cora grande y <foreign xml:lang="ciroo" rend="italic">Rol-la</foreign> zeese co 
 	<lb/>
 	Va mas grande. Tambien ve pospone a (line over) los verbos
 	<lb/>
@@ -94,7 +94,7 @@
 	<lb/>
 	Todos los Verbos comienzan los presenter [symbol] indicati
 	<lb/>
-	Vo en na [symbol] estas convon antes to’x <foeeign xml:lang="yariduxata" rend="italic">Rol-la</foeeign>
+	Vo en na [symbol] estas convon antes to’x <foreign xml:lang="yariduxata" rend="italic">Rol-la</foreign>
 	<lb/>
 	Ze?, ojito,. Advientiendo. q^e aunq. ^e estos guantro preventer
 	<lb/>
@@ -135,7 +135,7 @@
 	<lb/>
 	indicativo de esde verbo <foreign xml:lang='zap'> Racoya, Cotoya, Cacoya </foreign>, q.^e sig-
 	<lb/>
-	nifica vestirse. <foreign xml:lang='zap'> Benni Raci <foreign xml:lang='zap'>, el dormilon, este es la tercera
+	nifica vestirse. <foreign xml:lang='zap'> Benni Raci </foreign>, el dormilon, este es la tercera
 	<lb/>
 	persona sin pronombre del presente de indicativo, del
 	<lb/>
@@ -153,7 +153,7 @@
 	la el embiador, <foreign xml:lang='zap'> Benni Rolooba </foreign> el barredor.
 	<lb/>
 
-	<head> Segunda Especie de Verbales <head>
+	<head> Segunda Especie de Verbales </head>
 	Los nombres verbales de esta segunda especie, son los
 	<lb/>
 	q.^e corresponders enla lengua latina à los verbales en
@@ -404,7 +404,7 @@ sonas del plural, se forman del preterito e <foreign xml:lang="zap">Cuovello(?)<
     <lb/>
     8 - - - - <foreign xml:lang="zap"> Xoono </foreign> - - -           34 - <foreign xml:lang="zap"> Callebichij taapa </foreign> - - -
     <lb/>
-    9 - - - - <foreign xml:lang="zap"> Gaa </foreign> - - - -           35 <foreign xml:lang="zap"> Callebichij gaayo <foreign xml:lang="zap" rend="italic"> - - -
+    9 - - - - <foreign xml:lang="zap"> Gaa </foreign> - - - -           35 <foreign xml:lang="zap"> Callebichij gaayo </foreign> - - -
     <lb/>
     10 - - - - <foreign xml:lang="zap"> Chij </foreign> - - - - - -         36 <foreign xml:lang="zap"> Callebichij xoopa </foreign> - -
     <lb/>
@@ -475,7 +475,7 @@ sonas del plural, se forman del preterito e <foreign xml:lang="zap">Cuovello(?)<
     <lb/>
     parriculares, sino elpar 10 = y despues 20 en 20: V. g.
     <lb/>
-    <foreign xml: lang = "zap">Calle </foreign>-- 40 <foreign xml: lang= "zap"> tuo </foreign> -- 60 = <foreign xml: lang= "zap"> caayoona </foreign>-80  <foreign xml: lang= "zap"> taa </foreign> - 100 <foreign xml: lang= "zap"> Cayooa </foreign>
+    <foreign xml:lang = "zap">Calle </foreign>-- 40 <foreign xml:lang= "zap"> tuo </foreign> -- 60 = <foreign xml:lang= "zap"> caayoona </foreign>-80  <foreign xml:lang= "zap"> taa </foreign> - 100 <foreign xml:lang= "zap"> Cayooa </foreign>
     <lb/>
     -200 - <foreign xml:lang= 'zap'> Chija </foreign> = 300 - <foreign xml:lang = 'zap'> Chijnooa </foreign> - 400- <foreign xml:lang = 'zap'> toobieela ?? </foreign>
     <lb/>
@@ -686,7 +686,7 @@ sonas del plural, se forman del preterito e <foreign xml:lang="zap">Cuovello(?)<
     <lb/>
     reconciliante?
     <lb/>
-    <foreign xml:lang=”zap”>
+    <foreign xml:lang="zap">
     Xinni; baa pezoaba stollalo? Huazapalo xijtilato
     <lb/>
     olla, ni huanozaabi cozooba xtolla zaacalo?
@@ -694,7 +694,7 @@ sonas del plural, se forman del preterito e <foreign xml:lang="zap">Cuovello(?)<
     <lb/>
     Salios fuera, para q.e reconfiere este enfermo
     <lb/>
-    <foreign xml:lang=”zap”>
+    <foreign xml:lang="zap">
     Colachee xyche, nijani coxooba oxtollani bemni quicherÿ.
     </foreign>
     <lb/>
@@ -704,7 +704,7 @@ sonas del plural, se forman del preterito e <foreign xml:lang="zap">Cuovello(?)<
     <lb/>
     ra de su muerte.
     <lb/>
-    <foreign xml:lang=”zap”>
+    <foreign xml:lang="zap">
     Xinni quiraalÿveni Christiano hua nozaabiseete cu
     <lb/>
     va pilijlachini, guella ricelijlachini xdenni Dios co
@@ -720,7 +720,7 @@ sonas del plural, se forman del preterito e <foreign xml:lang="zap">Cuovello(?)<
     <lb/>
     Dios verdadero, Criador del cielo y de la tierra?
     <lb/>
-    <foreign xml:lang=”zap”>
+    <foreign xml:lang="zap">
     Faaniaacani Huaxieelijlachilo, lo misterio xtenni
     <lb/>
     SSa Trinidad, ni naca Dios Bixooce, Dios Xinni_
@@ -740,7 +740,7 @@ sonas del plural, se forman del preterito e <foreign xml:lang="zap">Cuovello(?)<
     <lb/>
     antes del parto en el parto, y despues del parto?
     <lb/>
-    <foreign xml:lang=”zap”>
+    <foreign xml:lang="zap">
     Huanicalij’lachilo, ni Bejuaannana JesuCristo
     <lb/>
     cocani benni nigrigo, lo xtichani Dios Spiritu Santo
