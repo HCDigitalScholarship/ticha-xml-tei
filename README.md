@@ -30,21 +30,21 @@ Here are a few TEI encodings you should know how to use:
 
 ## Line breaks
 
-`lengua para muchas cosas, y se junta ã muchas diccio
+`lengua para muchas cosas, y se junta ã muchas diccio`
 
-<lb/>
+`<lb/>`
 
-nes, y assi significa de muchas maneros: V.S. con los nom`
+`nes, y assi significa de muchas maneros: V.S. con los nom`
 
 Line breaks cannot be encoded by simply hitting enter in your text editor, and have to be encoded with the line break tag `<lb/>`. Unlike most XML tags we'll use, the line break tag typically appears not as an opener and closer but as a single tag, with a slash at the end. Technically, any XML tag can be "self-closing" like this, implying that the tag has no content. Since line breaks can never have words inside them (what would that look like?) they're always written as self-closing, but this can be thought of as an abbreviation for `<lb></lb>`.
 
 ## Headings
 
-`<head>2.a Conjugacion</head>
+`<head>2.a Conjugacion</head>`
 
-<lb/>
+`<lb/>`
 
-La 2.a  Conjugacion solo tiene tres verbos irregulares`
+`La 2.a  Conjugacion solo tiene tres verbos irregulares`
 
 Headings can be marked with the <head> tag. In general, headings should not appear on the same line as non-heading text.
 
@@ -66,32 +66,32 @@ In XML, you can have tags inside other tags, but only if the opening and closing
 
 and 
 
-`<foreign xml:lang="zap">Conna rinni, ni niartenni cocalo Bixooze (Xiñaa) 
+`<foreign xml:lang="zap">Conna rinni, ni niartenni cocalo Bixooze (Xiñaa)`
 
-<lb/>
+`<lb/>`
 
-yohoto quella rirabaniza, cocalo rtijalaaya, laa</foreign>`
+`yohoto quella rirabaniza, cocalo rtijalaaya, laa</foreign>`
 
 are both fine, but never 
 
-`<head>La Particula <foreign xml:lang="zap">Ca</head>
+`<head>La Particula <foreign xml:lang="zap">Ca</head>`
 
-<lb/>
+`<lb/>`
 
-Conna rinni, ni niartenni cocalo Bixooze (Xiñaa) 
+`Conna rinni, ni niartenni cocalo Bixooze (Xiñaa)`
 
-<lb/>
+`<lb/>`
 
-yohoto quella rirabaniza, cocalo rtijalaaya, laa</foreign>`
+`yohoto quella rirabaniza, cocalo rtijalaaya, laa</foreign>`
 
 since the head and foreign tags overlap. To repair that, you'd have to do something like
 
-`<head>La Particula <foreign xml:lang="zap">Ca</foreign></head>
+`<head>La Particula <foreign xml:lang="zap">Ca</foreign></head>`
 
-<lb/>
+`<lb/>`
 
-<foreign xml:lang="zap">Conna rinni, ni niartenni cocalo Bixooze (Xiñaa) 
+`<foreign xml:lang="zap">Conna rinni, ni niartenni cocalo Bixooze (Xiñaa)`
 
-<lb/>
+`<lb/>`
 
-yohoto quella rirabaniza, cocalo rtijalaaya, laa</foreign>`
+`yohoto quella rirabaniza, cocalo rtijalaaya, laa</foreign>`
