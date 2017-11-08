@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿ml version="1.0" encoding="UTF-8"?>
 <?xml-model href="TEISchema_current.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <text>
@@ -1370,6 +1370,62 @@ Pilani velPetani . . Aquelvino</foreign>
     <lb/>
     Bitoo Dios niaxtenni cicarij huanozaabiteetelo </foreign>
     <pb n="107"/>
+    <foreign xml:lang="zap">Laniaacani cheelijlachilo quitoobi lachilo</foreign> los elli?
+    <lb/>
+    Serio? Senni VS. Trinidad <foreign xml:lang="zap">ninaca Dios Bixooze</foreign>
+    <lb/> 
+    Dios <foreign xml:lang="zap">xinni Dios piaibi. Coonna persona canizoo 
+    <lb/>
+    Biey Dios hualijca Bizoo Huañee cheelijlachilo que-
+    <lb/>
+    Naac Mizexios xenni quella xieely lachi Bizoo</foreign> Dios
+    <lb/>
+    <foreign xml:lang="zap">Cueezalachilo loo</foreign> Dios <foreign xml:lang="zap">ni conmiy coni looy quixaa
+    <lb/>
+    Xtollalo quella yoou? Dios naca Bixooze xemilo?
+    <lb/>
+    Chela nomioylooni? Sollaloo quixaa bemiata? ni qui
+    <lb/>
+    Toobi lachini ximnaaba quella huennij tiloo yaoui</foreign>
+    <lb/>
+    Mi Dios <foreign xml:lang="zap">Canaachij quitoobi lachi quitoobi anioma?
+    <lb/>
+    Xremilo lo Beruamana</foreign> Dios <foreign xml:lang="zap">nipezani looynij
+    <lb/>
+     Ani comichij nalo xeminiloo guechelayoo, Chela
+    <lb/>
+     Hualoxi cammalo yoo bini lanni guiebaa Chela xoa
+    <lb/>
+     Cani gumijciroolo? Zoobini</foreign> Dios <foreign xml:lang="zap">ñee V.
+    <lb/>
+    Zalijpe.</foreign>
+    <lb/>
+    Presentacion para contraesilla?
+    <lb/>
+    Trimonio.
+    <lb/>
+     Llamaalos que quieren casas?
+    <lb/>
+     <foreign xml:lang="zap">Coxijche ni xacalachi cochaagaañani.</foreign>
+    <lb/>
+    Levantate___<foreign xml:lang="zap">Coxolly
+    <lb/>
+    Reza _____Pella
+    <lb/>
+    Huazannelo Turamenzo quieaabi richalo?quell
+    <lb/> 
+     Nalijloo quixaa iquinnaalo aya lichalooy.</foreign>
+     <lb/>
+     Como se llamas.____<foreign xml:lang="zap">Telaalo?
+     <lb/>
+     Guaansos años gener. Palla ijiza huaxapalo?
+     <lb/>
+     C...  o vzzido?
+     <lb/>
+     Bennicij zoobi nacalo, laabemi bizaabi?</foreign>
+     <lb/>
+     De que Pueblo eres? <foreign xml:lang="zap">Caazooba gueechelo?</foreign>  Como
+
     <pb n="108"/>
     <pb n="109"/>
     <pb n="110"/>
