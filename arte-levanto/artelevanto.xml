@@ -4,8 +4,16 @@
   <text>
     <pb n="cover"/>
     <pb n="1"/>
+    	<div xml:id="levanto-arte Title"> 
+    		<head type= "outline"> Arte de Lengua Zapoteca </head>
+
+    	
     <pb n="2"/>
     <pb n="3"/>
+    	</div>
+    	<!--levanto-arte Title-->
+    	<div xml:id= "levanto-arte 1">
+    			<head type= "outline"> De las Partes de la Oracion </head>
     (De las Partes de la Oracion.)
     <lb/>
     Las partes de la oracion son ocho Nombre Prõ
@@ -59,11 +67,63 @@
     ria, por el tanto el M.tro de esta lengua el M. Rs.
 
     <pb n="4"/>
+    </div> 
+	<!-- arte-levanto 1-->
+    <div xml:id= "levanto-arte 1.1">
+    <head type="outline"> De el Pronombre </head>
+   
     <pb n="5"/>
+     </div>
+     <!--levanto-arte 1.1-->
+    <div xml:id= "levanto-arte 1.1.1">
+    <head type= "outline"> Nombre Adjectivos </head>
+    </div>
+    <!--levanto-arte 1.1.1-->
+    <div xml:id= "levanto-arte 1.1.2">
+    <head type= "outline"> Pronombre Reciprocos </head>
+    
     <pb n="6"/>
+    </div>
+    <!--levanto-arte 1.1.2-->
+    <div xml:id= "levanto-arte 1.1.3">
+    <head type= "outline"> Verbo </head>
     <pb n="7"/>
-    <pb n="8"/>
+	</div>
+	<!--levanto-arte 1.1.3-->
+	<div xml:id= "levanto-arte 1.1.4">
+	<head type= "outline"> Pronombres Deribativos </head>
+	<div xml:id= "levanto-arte 1.1.4.1">
+		<head type= "outline"> [Primera Especial] </head>
+	</div>
+	<!--levanto-arte 1.1.4.1-->
+	<div xml:id= "levanto-arte 1.1.4.2"> 
+	<head type= "outline"> Segunda Especia de Pronombres Adjetivos, q.e se llaman
+	Demostrativos </head>
+
+	<pb n="8"/>
+	</div>
+	<!--levanto-arte 1.1.4.2-->
+	<div xml:id= "levanto-arte 1.1.4.3">
+	<head type="outline"> Tercera Especia de Pronombres Derivativos, llamados
+	Reciprocos </head>
+	</div>
+	<!--levanto-arte 1.1.4.3-->
+	</div>
+	<!--levanto-arte 1.1.4-->
+	<div xml:id= "levanto-arte 1.1.5">
+		<head type="outline"> De los Relativos </head>
     <pb n="9"/>
+	</div>
+	<!-- levanto-arte 1.1.5-->
+	<div xml:id= "levanto-arte 1.1.6"> 
+		<head type= "outline"> De los Interrogativos </head>
+	</div>
+	<!--levanto-arte 1.1.6-->
+	<div xml:id= "levanto-arte 1.2">
+		<head type= "outline"> De los Absolutos </head>
+	</div>
+	<!--levanto-arte 1.2-->
+	
     <pb n="10"/>
     Particula <foreign xml:lang="zap">Roo</foreign>, porpuesta. N.g. ieno er Pedro, mcjon
     <lb/>
