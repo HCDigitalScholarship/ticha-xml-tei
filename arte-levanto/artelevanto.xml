@@ -1732,7 +1732,7 @@ También cuando se dice uno de cosas que de por sí son
     </foreign>
 
     <pb n="103"/>
-   <choice><orig>Crees q.e N.tro S.r  Jesu Christo murio en el arbol de la</orig><reg type="spanish">Crees que Nosotros  Jesus Christo murio en el arbol de la</reg>
+  choice><orig>Crees q.e N.tro S.r  Jesu Christo murio en el arbol de la</orig><reg type="spanish">Crees que Nosotros  Jesus Christo murió en el arbol de la</reg></choice>
     <lb/>
     <choice><orig>Cruz para redimir a todos nosotros pecadores?</orig><reg type="spanish">Cruz para redimir a todos nosotros pecadores?</reg>
  </choice>
@@ -1740,41 +1740,50 @@ También cuando se dice uno de cosas que de por sí son
     <foreign xml:lang="zap">Huarieelijlachilo, ni Bejuannana Jesu Christo
     <lb/>
     cotini loo yaaga  <choice>
-<orig>Cruz</orig> niaxtenni cozijllaani quiraa <reg type="spanish">Cruz</reg>
- </choice>
+    Cruz niaxtenni cozijllaani quiraa 
     <lb/>
     lijtonoo benni huexijhui</foreign>
     <lb/>
     <choice>
-<orig>Crees q.e N.tro S.r Jesu Christo fue sepultado y q.e </orig><reg type="spanish">Crees que Nosotros Jesus Christo fue sepultado y que</reg>
+<orig>Crees q.e N.tro S.r Jesu Christo fue sepultado y q.e </orig><reg type="spanish">Crees que Nuestros Señor Jesus Christo fue sepultado y que</reg>
  </choice>
     <lb/>
     <choice>
-<orig>su anima SS.a junta con la Divinidad bajo a los</orig><reg type="spanish">su anima SS.a junta con la Divinidad bajo a los</reg>
+<orig>su anima SS.a junta con la Divinidad bajo a los</orig><reg type="spanish">su anima Santissima junta con la Divinidad bajó a los</reg>
  </choice>
     <lb/> <choice>
-<orig>infiernos, y vaco a las almas de los S.tos Padres q.e es</orig><reg type="spanish">infiernos, y vaco a las almas de los estos Padres que es</reg>
+<orig>infiernos, y vaco a las almas de los S.tos Padres q.e es</orig><reg type="spanish">infiernos, y vacó a las almas de los estos Padres que es</reg>
  </choice>
     <lb/>
     <choice>
-<orig>peraban su s.to advenimiento? </orig><reg type="spanish">peraban su s.to advenimiento?</reg>
+<orig>peraban su s.to advenimiento? </orig><reg type="spanish">peraban su santo advenimiento?</reg>
  </choice>
     <lb/>
-    <foreign xml:lang="zap">Huarieelijlachilo, ni Bejuannana Jesu Christo pi]cachini
+    <foreign xml:lang="zap">Huarieelijlachilo, ni Bejuannana Jesu Christo pi 
     <lb/>
-    chela anima nayoona xtennini huañee
+    cachini chela anima nayoona xtennini huañee
     <lb/>
     quella bitoo pieteni gavijlla chela coloni animas 
     <lb/>
     xtenni S.tos  ni coleezani quella pitao yoona sten
     <lb/>
-    nini</foreign> Crees q.e N.to S.r Jesu Christo ã el tercero dia
+    nini</foreign> 
+    <choice> <orig>Crees q.e N.to S.r Jesu Christo ã el tercero dia
     <lb/>
     resucito de entre los muertos y pasados quarenta dias 
     <lb/>
     subio ã los Cielos y se sento ã la diestra de Dios Padre
     <lb/>
+    todo poderoso?<orig>
+    <reg type="spanish">Crees qe Neustro Señor Jesus Christo a el tercero día
+    <lb/>
+    resucito de entre los muertos y pasados cuarenta días 
+    <lb/>
+    subió a los Cielos y se sintió a la diestra de Dios Padre
+    <lb/>
     todo poderoso?
+    </reg>
+    </choice>
     <lb/>
     <foreign xml:lang="zap">Huarieelijlachialo, ni Bejuannana Jesu Christo
     <lb/>
@@ -1787,10 +1796,10 @@ También cuando se dice uno de cosas que de por sí son
     lacoca?</foreign>
     <lb/>
     <choice>
-<orig>Crees q.e el dio del Juicio vendra ā juzgar ã los bue</orig><reg type="spanish">Crees que el dio del Juicio vendra ā juzgar ã los bue</reg>
+<orig>Crees q.e el dia del Juicio vendra ā juzgar ã los bue</orig><reg type="spanish">Crees que el día del Juicio vendra a juzgar a los bue</reg>
  </choice> 
     <lb/> <choice>
-<orig>nos, y ã los malos, para dar ã los buonos la gloria y ã</orig><reg type="spanish">nos, y ã los malos, para dar ã los buonos la gloria y ã</reg>
+<orig>nos, y ã los malos, para dar ã los buonos la gloria y ã</orig><reg type="spanish">nos, y a los malos, para dar a los buonos la gloria y a</reg>
  </choice>
     
     <lb/> <choice>
@@ -1808,7 +1817,7 @@ También cuando se dice uno de cosas que de por sí son
     <lb/>
     ca quella zij, quella chijbaa Zelijpe?</foreign>
     <lb/>
-    Besala Cruz ---- <foreign xml:lang="zap">Pechagaroa Cruz</foreign>
+    Bes a la Cruz ---- <foreign xml:lang="zap">Pechagaroa Cruz</foreign>
 
     <pb n="104"/>
     Crees ?xmemente con todo tu corazon q.e en esta S.ta
