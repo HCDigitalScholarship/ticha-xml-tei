@@ -1971,6 +1971,8 @@ Sing.r <foreign xml:lang='zap'>Coloobaya</foreign>----------Yo barreré
     <!-- levanto-arte 6 -->
 
     <pb n="115"/>
+    <div xml:id="levanto-arte7">
+    <head type="outline">Confesonario Zaapoteco</head>
     <head> Confesonario Zaapoteco ----------- </head>
     <lb/>
     Hincate de rrodillas—<foreign xml:lang="zap"> Pezooxijbi </foreign>
@@ -2040,6 +2042,12 @@ Sing.r <foreign xml:lang='zap'>Coloobaya</foreign>----------Yo barreré
     <pb n="117"/>
     <pb n="118"/>
     <pb n="119"/>
+    </div>
+    <!-- levanto-arte 7 -->
+    <div xml:id="levanto-arte8">
+    <head type="outline">[Los Mandamientos]</head>
+    <div xml:id="levanto-arte8.1">
+    <head type="outline">Primer Mandamiento</head>
     <head>Primer Mandamiento:</head>
     <lb/>
     Has amado a Dios N.tro S.r? con todo tu corazon
@@ -2172,31 +2180,85 @@ Sing.r <foreign xml:lang='zap'>Coloobaya</foreign>----------Yo barreré
 
     <pb n="121"/>
     <pb n="122"/>
+    </div>
+    <!-- levanto-arte 8.1 -->
+    <div xml:id="levanto-arte8.2">
+    <head type="outline">Segundo Mandamiento</head>
     <pb n="123"/>
     <pb n="124"/>
     <pb n="125"/>
+    </div>
+    <!-- levanto-arte 8.2 -->
+    <div xml:id="levanto-arte8.3">
+    <head type="outline">Tercer Mandamiento</head>
     <pb n="126"/>
+    </div>
+    <!-- levanto-arte 8.3 -->
+    <div xml:id="levanto-arte8.4">
+    <head type="outline">Quarto Mandamiento</head>
     <pb n="127"/>
     <pb n="128"/>
+    </div>
+    <!-- levanto-arte 8.4 -->
+    <div xml:id="levanto-arte8.5">
+    <head type="outline">Quinto Mandamiento</head>
     <pb n="129"/>
+    </div>
+    <!-- levanto-arte 8.5 -->
+    <div xml:id="levanto-arte8.6">
+    <head type="outline">Sexto Mandamiento</head>
     <pb n="130"/>
     <pb n="131"/>
     <pb n="132"/>
     <pb n="133"/>
     <pb n="134"/>
+    <div xml:id="levanto-arte8.6.1">
+    <head type="outline">Hombres</head>
+    </div>
+    <!-- levanto-arte 8.6.1 -->
+    <div xml:id="levanto-arte8.6.2">
+    <head type="outline">Mugeres</head>
     <pb n="135"/>
+    </div>
+    <!-- levanto-arte 8.6.2 -->
+    </div>
+    <!-- levanto-arte 8.6 -->
+    <div xml:id="levanto-arte8.7">
+    <head type="outline">Septimo Mandamiento</head>
     <pb n="136"/>
     <pb n="137"/>
     <pb n="138"/>
+    <div xml:id="levanto-arte8.7.1">
+    <head type="outline">Para Mercaderes y Tratantes</head>
     <pb n="139"/>
+    </div>
+    <!-- levanto-arte 8.7.1 -->
+    <div xml:id="levanto-arte8.7.2">
+    <head type="outline">Para los Oficiales de Republica</head>
     <pb n="140"/>
     <pb n="141"/>
+    </div>
+    <!-- levanto-arte 8.7.1 -->
+    </div>
+    <!-- levanto-arte 8.7 -->
+    <div xml:id="levanto-arte8.8">
+    <head type="outline">Octava Mandamiento</head>
     <pb n="142"/>
+    </div>
+    <!-- levanto-arte 8.8 -->
+    </div>
+    <!-- levanto-arte 8 -->
+    <div xml:id="levanto-arte9">
+    <head type="outline">Otras preguntas comunes</head>
     <pb n="143"/>
     <pb n="144"/>
     <pb n="145"/>
     <pb n="146"/>
     <pb n="147"/>
+    </div>
+    <!-- levanto-arte 9 -->
+    <div xml:id="levanto-arte10">
+    <head type="outline">Algunas Platicas y Conversaciones comunes en lengua Zapoteca</head>
     <pb n="148"/>
     <pb n="149"/>
     <pb n="150"/>
@@ -2231,6 +2293,10 @@ Sing.r <foreign xml:lang='zap'>Coloobaya</foreign>----------Yo barreré
     <pb n="179"/>
     <pb n="180"/>
     <pb n="181"/>
+    </div>
+    <!-- levanto-arte 10 -->
+    <div xml:id="levanto-arte11">
+    <head type="outline">Verbos del Ydioma Zaapoteco segun se usan en Thecoantepec</head>
     <cb n="1"/>
     <cb n="2"/>
     <cb n=""/>
@@ -2402,6 +2468,10 @@ Sing.r <foreign xml:lang='zap'>Coloobaya</foreign>----------Yo barreré
     <cb n="2"/>
     <cb n=""/>
     <pb n="192"/>
+    </div>
+    <!-- levanto-arte 11 -->
+    <div xml:id="levanto-arte12">
+    <head type="outline">Nombres Pronombres Advervios y Particulos en dicho Ydioma</head>
     <cb n="1"/>
     <cb n="2"/>
     <cb n=""/>
@@ -2430,8 +2500,14 @@ Sing.r <foreign xml:lang='zap'>Coloobaya</foreign>----------Yo barreré
     <pb n="200"/>
     <pb n="201"/>
     <pb n="202"/>
+    </div>
+    <!-- levanto-arte 12 -->
+    <div xml:id="levanto-arte13">
+    <head type="outline">Sapoteco ticha Zoõ</head>
     <pb n="203"/>
     <pb n="204"/>
     <pb n="205"/>
+    </div>
+    <!-- levanto-arte 13 -->
   </text>
 </TEI>
