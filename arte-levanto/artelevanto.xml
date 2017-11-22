@@ -1186,7 +1186,11 @@ Sing.r <foreign xml:lang='zap'>Coloobaya</foreign>----------Yo barreré
     <pb n="97"/>
     <div xml:id="levanto-arte2">
     <head type="outline">Quenta en Zaapoteco</head>
-    <head> Quenta en Zaapoteco: </head>
+    <head> 
+    <choice><orig>quenta</orig><reg type="spanish">contando</reg></choice> en  <choice>
+    <orig>Zaapoteco</orig><reg type="spanish">Zapoteco</reg></choice>: 
+    </head>
+    
     <lb/>
     <cb n="1"/>
     1- - - - - - <foreign xml:lang="zap"> Toobi </foreign> - - - 
@@ -1492,7 +1496,7 @@ Sing.r <foreign xml:lang='zap'>Coloobaya</foreign>----------Yo barreré
     <lb/>
     <foreign xml:lang="zap">Coraale latilachi?too rtennibatoo.</foreign>
     <lb/>
-    Volteá boca abajo ã el Niño.
+    Volteá boca abajo <choice><orig>ã</orig><reg type="spanish">á</reg></choice> el Niño.
     <lb/>
     <foreign xml:lang="zap">Perexilalo batoo.</foreign>
     <lb/>
@@ -1500,11 +1504,11 @@ Sing.r <foreign xml:lang='zap'>Coloobaya</foreign>----------Yo barreré
     <lb/>
     <foreign xml:lang="zap">Pezeego xaaba niquee.</foreign>
     <lb/>
-    Vamos ã la Pila Bautismal
+    Vamos <choice><orig>ã</orig><reg type="spanish">á</reg></choice> la Pila Bautismal
     <lb/>
     <foreign xml:lang="zap">Choono nichaa niza laaya.</foreign>
     <lb/>
-    Advierte Hijo q.e porq.e fuiste Padrino (Madrina) te has
+    Advierte Hijo <choice><orig>q.e porq.e</orig><reg type="spanish">que porque</reg></choice> fuiste Padrino (Madrina) te has
     <lb/>
     Hecho pariente Espiritual, o tiene parentesco Espiri-
     <lb/>
@@ -1530,7 +1534,7 @@ Sing.r <foreign xml:lang='zap'>Coloobaya</foreign>----------Yo barreré
     <lb/>
     xlennini.</foreign>
     <lb/>
-    Yreis ã mi celda escrivir yo el Bautismo.
+    <choice><orig>Yreis</orig><reg type="spanish">Irás</reg></choice> <choice><orig>ã</orig><reg type="spanish">á</reg></choice> mi celda escrivir yo el Bautismo.
     <lb/>
     <foreign xml:lang="zap">Colachee, loo xlichia, nijani cocayeeaquellariaobaniza.</foreign>
     <lb/>
@@ -1538,13 +1542,13 @@ Sing.r <foreign xml:lang='zap'>Coloobaya</foreign>----------Yo barreré
     <lb/>
     <foreign xml:lang="zap">tulaani Batoo?</foreign>
     <lb/>
-    Como se llama el P.e del ???ño, como se llama la Madre
+    Como se llama el <choice><orig>P.e</orig><reg type="spanish">Padre</reg></choice> del Niño, como se llama la Madre
     <lb/>
     <foreign xml:lang="zap">tulaani xtaata xtenni batoo=tulaani xnaana xten-
     <lb/>
     ni batoo.</foreign>
     <lb/>
-    De q.e Pueblo son --- <foreign xml:lang="zap">Caazooba guecheni</foreign>
+    De <choice><orig>q.e</orig><reg type="spanish">que</reg></choice> Pueblo son --- <foreign xml:lang="zap">Caazooba guecheni</foreign>
     <lb/>
     Como te llamas, de donde eres.
     <lb/>
@@ -1559,7 +1563,7 @@ Sing.r <foreign xml:lang='zap'>Coloobaya</foreign>----------Yo barreré
     <head type="outline">Para la Sagrada Eucristiao Viatico</head>
     <head>Para la Sagrada Eucristiao Viatico.</head>
     <lb/>
-    Hijo ya se confesarlos.2 tienes algunos pecados de q.e
+    Hijo ya se confesarlos.2 tienes algunos pecados de <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
     <lb/>
     reconciliante?
     <lb/>
@@ -1569,7 +1573,7 @@ Sing.r <foreign xml:lang='zap'>Coloobaya</foreign>----------Yo barreré
     olla, ni huanozaabi cozooba xtolla zaacalo?
     </foreign>
     <lb/>
-    Salios fuera, para q.e reconfiere este enfermo
+    Salios fuera, para <choice><orig>q.e</orig><reg type="spanish">que</reg></choice> reconfiere este enfermo
     <lb/>
     <foreign xml:lang="zap">
     Colachee xyche, nijani coxooba oxtollani bemni quicherÿ.
@@ -1577,7 +1581,7 @@ Sing.r <foreign xml:lang='zap'>Coloobaya</foreign>----------Yo barreré
     <lb/>
     Hijo todo Christiano esta muy obligado a^ conferarla é
     <lb/>
-    de Dios q.e necisio en el Bautismo, quando llegue la ho-
+    de Dios <choice><orig>q.e</orig><reg type="spanish">que</reg></choice> necisio en el Bautismo, quando llegue la ho-
     <lb/>
     ra de su muerte.
     <lb/>
@@ -1591,27 +1595,27 @@ Sing.r <foreign xml:lang='zap'>Coloobaya</foreign>----------Yo barreré
     bi xtennini.
     <lb/>
     </foreign>
-    Por tanto crees en el misterio de la SS.a Trinidad
+    Por tanto crees en el misterio de la <choice><orig>SS.a</orig><reg type="spanish">Santisima</reg></choice> Trinidad
     <lb/>
-    q.e es Dios Padre, DS Hijo, y DS epirtus Sbo yun(?)as _
+    q.e es Dios Padre, <choice><orig>DS</orig><reg type="spanish">Dios</reg></choice> Hijo, y <choice><orig>DS</orig><reg type="spanish">Dios</reg></choice> epirtus <choice><orig>S.to</orig><reg type="spanish">Santo</reg></choice> yun(?)as _
     <lb/>
     Dios verdadero, Criador del cielo y de la tierra?
     <lb/>
     <foreign xml:lang="zap">
     Faaniaacani Huaxieelijlachilo, lo misterio xtenni
     <lb/>
-    SSa Trinidad, ni naca Dios Bixooce, Dios Xinni_
+    <choice><orig>SS.a</orig><reg type="spanish">Santisima</reg></choice> Trinidad, ni naca Dios Bixooce, Dios Xinni_
     <lb/>
-    chela Dios Espiritu S.tt , Choona persona, cani toobicy
+    chela Dios Espiritu <choice><orig>S.to</orig><reg type="spanish">Santo</reg></choice> , Choona persona, cani toobicy
     <lb/>
     Dios Hualijca Bitoo, ni pezzaani Quiceba, ni pezaani
     <lb/>
     laijoo?
     <lb/>
     </foreign>
-    Crees q.e N.to Sr Jesu Christo se hizo hombre por
+    Crees <choice><orig>q.e</orig><reg type="spanish">que</reg></choice> <choice><orig>N.to Sr</orig><reg type="spanish">Nuestra Senor</reg></choice>  Jesu Christo se hizo hombre por
     <lb/>
-    abra del Spiritu S.to en el vientre SS.o del N.tNo Señora 
+    abra del Spiritu <choice><orig>S.to</orig><reg type="spanish">Santo</reg></choice> en el vientre <choice><orig>S.so</orig><reg type="spanish">Santisimo</reg></choice> del <choice><orig>N.tNo</orig><reg type="spanish">Nuestro</reg></choice> Señora 
     <lb/>
     la Virgen Maria, y nacio de ella, siendo ella Virgen
     <lb/>
