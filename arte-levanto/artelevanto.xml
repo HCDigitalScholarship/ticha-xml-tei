@@ -1381,53 +1381,147 @@ Sing.r <foreign xml:lang='zap'>Coloobaya</foreign>----------Yo barreré
     <lb/>
     
     <pb n="99"/>
-    <foreign xml:lang = "zap">Xopa, <foreign xml:lang = 'lat'> vel </foreign> quisoopa quisoop ayaa.</foreign> Para decir una
+    <foreign xml:lang = "zap">ropa</foreign>,
+ <choice> <orig>vel</orig> <reg type="spanish">vel</reg> </choice>
+<foreign xml:lang = "zap">quiroopa quiroopagaa.</foreign> 
+<choice> <orig> Para decir una
     <lb/>
-    cosa, dos cosas, dicen <foreign xml:lang = "zap">roobeloo o roopalo,velsoow iexiee?</foreign>
+    cosa, dos cosas, dicen,</orig><reg type="spanish">Para decir una cosa, dos cosas, dicen</reg> </choice> 
+<foreign xml:lang = "zap">toobiloo tioopaloo</foreign>
+<choice> <orig>vel</orig> <reg type="spanish">vel</reg> </choice>
+<foreign xml:lang = "zap">toobi cuee</foreign>
     <lb/>
-    <foreign xml:lang = "zap">bioop a cuee,? Vel siiki xibaa, soopaxebaa,</foreign> uno y me-
+    <foreign xml:lang = "zap">tioopa cuee</foreign>,
+<choice> <orig>vel</orig> <reg type="spanish">vel</reg> </choice> 
+<foreign xml:lang = "zap">toobi xibaa, tioopa xibaa</foreign> <choice> <orig>uno y me-
     <lb/>
-    <foreign xml:lang = "zap">Gio. doi</foreign> y medio <foreign xml:lang = "zap">soobichijba? Medio soopa chijba me-</foreign>
+    dio, dos y medio,</orig> <reg type="spanish">uno y me <lb/> dio, dos y medio</reg> </choice>
+<foreign xml:lang = "zap">toobichijba medio tioopachijba me-</foreign>
     <lb/>
-    <foreign xml:lang = "zap">Gio. Cadara cada mel. Cada año-Chaga. ChaahaChij
+    <foreign xml:lang = "zap">dio.</foreign>
+ <choice> <orig>Cada dia, cada mes, Cada año</orig><reg type="spanish">Cada día, cada mes, Cada año</reg></choice>
+<foreign xml:lang = "zap">-Chaaga-Chaaga Chij
     <lb/>
-    Chaaga-Chaagabeo, Chaaya  Chaagaira - vetoobi-
+    Chaaga-Chaaga beo, Chaaga-Chaaga iza</foreign> - 
+<choice> <orig>vel</orig> <reg type="spanish">vel</reg> </choice>
+<foreign xml:lang = "zap">toobi-
     <lb/>
-    Boobichy: Liandovon?</foreign> Con pas lar cosas rg P?re hablas
+    toobichij</foreign>: 
+<choice> <orig>Quando son un par las cosas de q.e hablas de
     <lb/>
-    <foreign xml:lang = "zap">Ruexbe j^.e hanas aes ex dor</foreign> preainamente para warcee? Ellos
+    suerte q.e han de ser dos precisamente para usar de ellas</orig>
+<reg type="spanish">Cuando son un par las cosas de que hablas de
     <lb/>
-    <foreign xml:lang = "zap">N.G Ceriales,</foreign> boros Zapatos. Vedoce <foreign xml:lang = "zap">soohinwzaN.J. una
+    suerte que han de ser dos precisamente para usar de ellas</reg>
+</choice>
     <lb/>
-    Lwnfa s Bueyer - G oloinerzag inna</foreign> -- un parece zapa (tilde over a)
+<foreign xml:lang = "lat">V.g</foreign>
+<choice><orig>Criales toros Zapatos. Se dice</orig> <reg type="spanish">Críales toros Zapatos. Se dice</reg></choice>
+ <foreign xml:lang = "zap">toobi neza</foreign>
+<foreign xml:lang = "lat">V.g</foreign>
+<choice><orig>una
     <lb/>
-    Dos - <foreign xml:lang = "zap">roobieceza quelageuiG-o zapatos, ara cacleslla
+    junta de Bueyes<orig>
+<reg type="spanish">una
     <lb/>
-    Man queeiaguen, y alri</foreign> tambien a los zapatos.
+    yunta de Bueyes
+<reg>
+</choice> 
+- <foreign xml:lang = "zap">toobi neza gonna</foreign> - 
+<choice> <orig>un par de zapa
     <lb/>
-    Para decir la dos manos, los dos pies las dos orejas repone
+    tos</orig>
+<reg type="spanish">
+un par de zapa
     <lb/>
-    Choo q.^e es una or? Dos cosas q^e.  <foreign xml:lang = "zap">Hancee rex</foreign> juntas?: N.G Las dos
+    tos</reg>
+</choice>
+ - <foreign xml:lang = "zap">toobineza queelaguiti</foreign>-
+<choice>
+<orig>o zapatos, a sus cacles lla-
     <lb/>
-    Manos~ <foreign xml:lang = "zap">quixoojopa Choonqani una mano -soichoo
+    man</orig> 
+<reg type="spanish">
+o zapatos, a sus cacles lla-
     <lb/>
-    Nanni.</foreign> Los dos pies. <foreign xml:lang = "zap">Quinoop a choo nijani; unpiezoo
+    man
+</reg>
+</choice>
+<foreign xml:lang = "zap">queelaguiti</foreign>, 
+<choice><orig>y assi tambien ã los zapatos.
     <lb/>
-    Bichoonijani; las dos orejas. Quixoopa choo raagani</foreign>
+    Para decir la dos manos, los dos pies las dos orejas sepone</orig>
+<reg type="spanish">
+y assi tambien a los zapatos.
     <lb/>
-    Una oreja. <foreign xml:lang = "zap">Soob ichoo raagani_ Gaexar una piesuna</foreign>
+    Para decir la dos manos, los dos pies las dos orejas se pone
+</reg>
+</choice>
     <lb/>
-    [unknown symbol] carne ero, dicen quitan ^symol <foreign xml:lang = "zap">Z sooloichoo coxe Xijla</foreign>
+    <foreign xml:lang = "zap">Choo</foreign>
+<choice><orig>q.e es una de dos cosas q.e  han de ser juntas:<orig>
+<reg type="spanish">q.e es una de dos cosas qe  han de ser juntas:</reg>
+</choice> 
+<foreign xml:lang = "lat">V.g.</foreign>
+<choice><orig>las dos
     <lb/>
-    Tambien guando redice uno [?] cosas q.^e [symbol] pons ivon
+    manos~<orig>
+<reg type="spanish">las dos
     <lb/>
-    Pax, reponela pasrr? <foreign xml:lang = "zap">Ceela Choo. como ?eve enlos</foreign> exam
+    manos~</reg>
+</choice>
+ <foreign xml:lang = "zap">quiroopa Chooñaani</foreign>
+<choice><orig>una mano</orig><reg type="spanish">una mano</reg></choice>
+ -<foreign xml:lang = "zap">toobi Choo
     <lb/>
-    [symbol] los ya puertos axxiba y tambien Zeponen Laaga.
+    ñanni.</foreign> 
+<choice><orig>Los dos pies.</orig> <reg type="spanish">Los dos pies.</reg></choice>
+<foreign xml:lang = "zap">quiroopa choo nijani<foreign>; 
+<choice><orig>un pie - </orig> <reg type="spanish">un pie - </reg></choice>
+<foreign xml:lang = "zap">too
     <lb/>
-    N.g. con Buey [SYMBOL] murio_ <foreign xml:lang = "zap">roobi laagag onna gurini.</foreign>
+    bichoo nijani;</foreign> 
+<choice><orig>las dos orejas</orig> <reg type="spanish">las dos orejas</reg></choice>
+<foreign xml:lang = "zap">quiroopa choo tiaagani</foreign>
     <lb/>
-    Fin de la quenta Zapoteca.
+<choice><orig>una oreja</orig> <reg type="spanish">una oreja</reg></choice>
+<foreign xml:lang = "zap">Toobi choo tiaagani</foreign>_ 
+<choice>
+<orig>traeras una pierna
+    <lb/>
+    de carnero, dicen</orig>
+<reg type="spanish">traerás una pierna
+    <lb/>
+    de carnero, dicen</reg>
+</choice>
+<foreign xml:lang = "zap">quitañeelo toobi choo cooxe xijla</foreign>
+    <lb/>
+<choice>
+<orig>Tambien quando se dice uno de cosas q.e de por si son
+    <lb/>
+    par, se pone la particula</orig>
+<reg type="spanish">
+También cuando se dice uno de cosas que de por sí son
+    <lb/>
+    par, se pone la partícula</reg>
+</choice>
+<foreign xml:lang = "zap">Choo</foreign>. 
+<choice>
+<orig>como se ve en los exem
+    <lb/>
+    plos ya puestos arriba y tambien le ponen</orig>
+<reg type="spanish">como se ve en los ejem
+    <lb/>
+    plos ya puestos arriba y también le ponen
+</reg>
+</choice>
+<foreign xml:lang = "zap">Laaga</foreign>.
+    <lb/>
+<foreign xml:lang = "lat">V.g.</foreign>
+<choice><orig>un Buey de murio</orig><reg type="spanish">un Buey de murio</reg></choice>
+<foreign xml:lang = "zap">toobi laaga gonna gutini</foreign>.
+    <lb/>
+<choice><orig>Fin de la Quenta Zaapoteca</orig><reg type="spanish">Fin de la Cuenta Zapoteca</reg></choice>
     </div>
     <!-- levanto-arte 2 -->
 
