@@ -67,8 +67,6 @@
     ria, por el tanto el M.tro de esta lengua el M. Rs.
 
     <pb n="4"/>
-    </div> 
-	<!-- arte-levanto 1-->
     <div xml:id= "levanto-arte1.1">
     <head type="outline"> De el Pronombre </head>
    
@@ -119,12 +117,15 @@
 		<head type= "outline"> De los Interrogativos </head>
 	</div>
 	<!--levanto-arte 1.1.6-->
+	</div> 
+	<!-- arte-levanto 1.1-->
+
 	<div xml:id= "levanto-arte1.2">
 		<head type= "outline"> De los Absolutos </head>
-	</div>
-	<!--levanto-arte 1.2-->
-	
+	 <div xml:id= "levanto-arte1.2.1">
+    		<head type='outline'> De los Comparativos</head>
     <pb n="10"/>
+   
     Particula <foreign xml:lang="zap">Roo</foreign>, porpuesta. N.g. ieno er Pedro, mcjon
     <lb/>
     Es Jaun. <foreign xml:lang="zap">Huazaacanaca</foreign> Pedro; <foreign xml:lang="zap">Huazaacana</foreign> (line over a)
@@ -137,6 +138,10 @@
     <lb/>
     Responder N.g. hay mas pecados. <foreign xml:lang="zap">Hoo xootoolla</foreign>? Ma
     <lb/>
+    </div>
+   <!--levanto-arte 1.2.1-->
+   <div xml:id= "levanto-arte1.2.2">
+   	<head type='outline'> De los Superlativos </head>
     <head>De los Superlativos</head>
     <lb/>
     Los Superlativos son tambien los mevmos portivio por
@@ -151,6 +156,12 @@
     <lb/>
     Dicimamente.
     <lb/>
+</div>
+<!--levanto-arte 1.2.2-->
+</div>
+<!--levanto-arte 1.2-->
+<div xml:id= 'levanto-arte1.3'>
+	<head type= 'outline'> De el Verbo </head>
     <head>De el Verbo.</head>
     <lb/>
     Todos los Verbos comienzan los presenter [symbol] indicati
@@ -201,6 +212,8 @@
     <lb/>
     este verbo activo <foreign xml:lang='zap'>Raacañeea</foreign>
     <lb/>
+    <div xml:id='levanto-arte1.3.1'>
+    	<head type='outline'> Primera Conjugacion</head>
     <head> Primera Conjugacion. </head>
     <lb/>
     Esta verbo <foreign xml:lang='zap'>Raacañeea</foreign> es compuesto del verbo Raa
@@ -262,6 +275,8 @@
     <lb/>
     ras del plural, <foreign xml:lang="zap">Colacaacañeetonoo</foreign>, ayudemos nosotros.
     <lb/>
+    <div xml:id='levanto-arte 1.3.1.1'>
+    	<head type='outline'> Modo Subjunctivo Presente</head>
     <head>Modo Subjuntivo y obtativo Presente.</head>
     <lb/>
     <foreign xml:lang="zap">Caacañeeca</foreign>= yo ayude------- <foreign xml:lang="zap">Caacaneeetonoo</foreign> - nosotros ayudemos
@@ -270,6 +285,8 @@
     <lb/>
     <foreign xml:lang="zap">Caacañeeni</foreign>--aquelayude__<foreign xml:lang="zap">Caacañeeni</foreign>-aquellos ayuden===
     <lb/>
+
+	<head type='outline'> Oblativo </head>
     <head>Obtativo</head>
     <lb/>
     <foreign xml:lang="zap">Hani cacaneea</foreign>__ O si yo ayude__ <foreign xml:lang="zap">Hate bela cacañeea</foreign> __ O si yo
@@ -278,6 +295,10 @@
     <lb/>
     anteponiendole una de estas dos particulas <foreign xml:lang="zap">hani hatibela</foreign>.
     <lb/>
+    </div>
+<!--levanto-arte 1.3.1.1_-->
+<div xml:id= 'levanto-arte 1.3.1.2'>
+	<head type='outline'> Preterito imperfecto de subjunctivo </head>
     <head>Preterito imperfecto de subjuntivo</head>
     <lb/>
     <foreign xml:lang="zap">Niaacañeeca</foreign> yo ayudara o ayudaria. Este tiempo, en to-
@@ -286,10 +307,52 @@
     <lb/>
     quitando a la primera persona la t? Ox? Y poniendole la par-
     <pb n="13"/>
+</div>
+<!--levanto-arte 1.3.1.2-->
+<div xml:id='levanto-arte 1.3.1.3'>
+	<head type='outline'> Preterito imperfecto de Oblativo </head>
+</div>
+<!--levanto-arte 1.3.1.3-->
+<div xml:id='levanto-arte 1.3.1.4'>
+	<head type='outline'> Modo Ynfinitivo Presente</head>
+</div>
+<!--levanto-arte 1.3.1.4-->
+<div xml:id='levanto-arte 1.3.1.5'>
+	<head type='outline'> Preterito Plusquam Perfecto </head>
+
     <pb n="14"/>
+    </div>
+<!--levanto-arte 1.3.1.5-->
+<div xml:id='levanto-arte 1.3.1.6'>
+	<head type='outline'> Gerundios </head>
+	<div xml:id='levanto-arte 1.3.1.6.1'>
+		<head type='outline'> Gerundio de Genetivo </head>
+	</div>
+	<!--levanto-arte 1.3.1.6.1-->
+<div xml:id='levanto-arte 1.3.1.6.2'>
+	<head type='outline'> Genrundios de Acusativo </head>
     <pb n="15"/>
+</div>
+<!--levanto-arte 1.3.1.6.2-->
+<div xml:id='levanto-arte 1.3.1.6.3'>
+	<head type='outline'> Gerundio de Ablativo </head>
+	<div xml:id='levanto-arte 1.3.1.6.3.1'> 
+		<head type= 'outline'> Verbos de Asistencia </head>
     <pb n="16"/>
+</div>
+<!--levanto-arte 1.3.1.6.3.1-->
+<div xml:id='levanto-arte 1.3.1.6.3.2'>
+	<head type= 'outline'> Verbos de Movimiento</head>
+
     <pb n="17"/>
+</div>
+<!--levanto-arte 1.3.1.6.3.2-->
+</div>
+<!--levanto-arte 1.3.1.6.3-->
+</div>
+<!--levanto-arte 1.3.1.6-->
+<div xml:id='levanto-arte 1.3.1.7'>
+	<head type= 'outline'> Participios </head>
     <pb n="18"/>
     <pb n="19"/>
     
