@@ -1803,11 +1803,11 @@ Sing.r <foreign xml:lang='zap'>Coloobaya</foreign>----------Yo barreré
     <!-- levanto-arte 3.2 -->
     <div xml:id="levanto-arte3.3">
     <head type="outline">Para la Extrema Uncion</head>
-    <head>Para la Extrema Uncion</head>
+    <head>Para la <foreign xml:lang="lat"> Extrema Uncion</foreign></head>
     <lb/>
     Hijo otro sacramente te falta q.e recivir q.e es la
     <lb/>
-    Extrama uncion; este Sacramento perdona qual-
+    <foreign xml:lang="lat">Extrema Uncion</foreign>; este Sacramento perdona qual-
     <lb/>
     quiera pecado q.e haya quedado en el alma, des-
     <lb/>
@@ -1817,17 +1817,17 @@ Sing.r <foreign xml:lang='zap'>Coloobaya</foreign>----------Yo barreré
     <lb/>
 
     <foreign xml:lang="zap">
-    Xinni zeetoobi S.to Sacramento (xinity?) looyni-
+    Xinni zeetoobi S.to Sacramento rinity looyni-
     <lb/>
     zijlo, ninaca xtenni quella rocaabeea Bixooze
     <lb/>
-    Coolaaya, nilaa Extrema uncion, S.to Sacra-
+    Coolaaya, nilaa </foreign> <foreign xml:lang="lat">Extrema Uncion</foreign>, S.to Sacra-
     <lb/>
-    mento nij Ronnijtilooni xijtilatoolla nipeaa
+    mento <foreign xml:lang="zap"> nij Ronnijtilooni xijtilatoolla nipeaa
     <lb/>
     nani laanni anima hualooxi nipezoobax-
     <lb/>
-    tollachahuini. huañee noneechini quella cooa-
+    tollachahuini. huañee roneechini quella cooa-
     <lb/>
     coxaacaloo pellaabaati, tebela nacani (?)
     <lb/>
@@ -1835,7 +1835,7 @@ Sing.r <foreign xml:lang='zap'>Coloobaya</foreign>----------Yo barreré
     <lb/>
     </foreign>
 
-    O'Hijos mios: oxad, llannado Dios N.tro S.r para q.e ayu-
+    O'Hijos mios: orad, llamado Dios N.tro S.r para q.e ayu-
     <lb/>
     de, y tenga misericordia de este enfermo, leperdone
     <lb/>
@@ -1843,11 +1843,11 @@ Sing.r <foreign xml:lang='zap'>Coloobaya</foreign>----------Yo barreré
     <lb/>
 
     <foreign xml:lang="zap">
-    Ha! Xinni xtennia colacolla, colazeeniloo Berua-
+    Ha! Xinni xtennia colacolla, colazeeniloo Besua-
     <lb/>
     nnana Dios nijani cacañeeni, quezaalachini xten-
     <lb/>
-    ni Benni quicjaaij Connijtilooniniquee xtolla xten-
+    ni Benni quicharij Connijtilooniniquee xtolla xten-
     <lb/>
     nini, chela cohuini quellagloria.
     </foreign>
