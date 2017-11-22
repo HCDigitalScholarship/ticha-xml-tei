@@ -1571,23 +1571,33 @@ Sing.r <foreign xml:lang='zap'>Coloobaya</foreign>----------Yo barreré
     </foreign>
 
     <pb n="103"/>
-    Crees q.e N.tro S.r  Jesu Christo murio en el arbol de la
+   <choice><orig>Crees q.e N.tro S.r  Jesu Christo murio en el arbol de la</orig><reg type="spanish">Crees q.e N.tro S.r  Jesu Christo murio en el arbol de la</reg>
     <lb/>
-    Cruz para redimir a todos nosotros pecadores?
+    <choice><orig>Cruz para redimir a todos nosotros pecadores?</orig><reg type="spanish">Cruz para redimir a todos nosotros pecadores?</reg>
+ </choice>
     <lb/>
     <foreign xml:lang="zap">Huarieelijlachilo, ni Bejuannana Jesu Christo
     <lb/>
-    cotini loo yaaga Cruz niaxtenni cozijllaani quiraa 
+    cotini loo yaaga  <choice>
+<orig>Cruz</orig> niaxtenni cozijllaani quiraa <reg type="spanish">Cruz</reg>
+ </choice>
     <lb/>
     lijtonoo benni huexijhui</foreign>
     <lb/>
-    Crees q.e N.tro S.r Jesu Christo fue sepultado y q.e 
+    <choice>
+<orig>Crees q.e N.tro S.r Jesu Christo fue sepultado y q.e </orig><reg type="spanish">Crees q.e N.tro S.r Jesus Christo fue sepultado y q.e</reg>
+ </choice>
     <lb/>
-    su anima SS.a junta con la Divinidad bajo a los
+    <choice>
+<orig>su anima SS.a junta con la Divinidad bajo a los</orig><reg type="spanish">su anima SS.a junta con la Divinidad bajo a los</reg>
+ </choice>
+    <lb/> <choice>
+<orig>infiernos, y vaco a las almas de los S.tos Padres q.e es</orig><reg type="spanish">infiernos, y vaco a las almas de los S.tos Padres q.e es</reg>
+ </choice>
     <lb/>
-    infiernos, y vaco a las almas de los S.tos Padres q.e es
-    <lb/>
-    peraban su s.to advenimiento? 
+    <choice>
+<orig>peraban su s.to advenimiento? </orig><reg type="spanish">peraban su s.to advenimiento?</reg>
+ </choice>
     <lb/>
     <foreign xml:lang="zap">Huarieelijlachilo, ni Bejuannana Jesu Christo pi]cachini
     <lb/>
@@ -1615,11 +1625,17 @@ Sing.r <foreign xml:lang='zap'>Coloobaya</foreign>----------Yo barreré
     <lb/>
     lacoca?</foreign>
     <lb/>
-    Crees q.e el dio del Juicio vendra ā juzgar ã los bue 
-    <lb/>
-    nos, y ã los malos, para dar ã los buonos la gloria y ã
-    <lb/>
-    los malos pena para siempre?
+    <choice>
+<orig>Crees q.e el dio del Juicio vendra ā juzgar ã los bue</orig><reg type="spanish">Crees q.e el dio del Juicio vendra ā juzgar ã los bue</reg>
+ </choice> 
+    <lb/> <choice>
+<orig>nos, y ã los malos, para dar ã los buonos la gloria y ã</orig><reg type="spanish">nos, y ã los malos, para dar ã los buonos la gloria y ã</reg>
+ </choice>
+    
+    <lb/> <choice>
+<orig>los malos pena para siempre?</orig><reg type="spanish">los malos pena para siempre?</reg>
+ </choice>
+    
     <lb/>
     <foreign xml:lang="zap">Huarieelijlachilo, ni chij quella hueto gotichaqui 
     <lb/>
