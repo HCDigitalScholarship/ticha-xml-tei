@@ -5,7 +5,7 @@
     <pb n="cover"/>
     <pb n="1"/>
     <div xml:id="levanto-arteTitle"> 
-    <head type= "outline"> Arte de Lengua Zapoteca </head>    	
+    <head type= "outline"> Arte de Lengua Zapoteca </head>    
     <pb n="2"/>
     <pb n="3"/>
     </div>
@@ -82,43 +82,43 @@
     <div xml:id= "levanto-arte1.1.3">
     <head type= "outline"> Verbo </head>
     <pb n="7"/>
-	</div>
-	<!--levanto-arte 1.1.3-->
-	<div xml:id= "levanto-arte1.1.4">
-	<head type= "outline"> Pronombres Deribativos </head>
-	<div xml:id= "levanto-arte1.1.4.1">
-		<head type= "outline"> [Primera Especial] </head>
-	</div>
-	<!--levanto-arte 1.1.4.1-->
-	<div xml:id= "levanto-arte1.1.4.2"> 
-	<head type= "outline"> Segunda Especia de Pronombres Adjetivos, q.e se llaman
-	Demostrativos </head>
+    </div>
+    <!--levanto-arte 1.1.3-->
+    <div xml:id= "levanto-arte1.1.4">
+    <head type= "outline"> Pronombres Deribativos </head>
+    <div xml:id= "levanto-arte1.1.4.1">
+    <head type= "outline"> [Primera Especial] </head>
+    </div>
+    <!--levanto-arte 1.1.4.1-->
+    <div xml:id= "levanto-arte1.1.4.2"> 
+    <head type= "outline"> Segunda Especia de Pronombres Adjetivos, q.e se llaman
+    Demostrativos </head>
 
-	<pb n="8"/>
-	</div>
-	<!--levanto-arte 1.1.4.2-->
-	<div xml:id= "levanto-arte1.1.4.3">
-	<head type="outline"> Tercera Especia de Pronombres Derivativos, llamados
-	Reciprocos </head>
-	</div>
-	<!--levanto-arte 1.1.4.3-->
-	</div>
-	<!--levanto-arte 1.1.4-->
-	<div xml:id= "levanto-arte1.1.5">
-	<head type="outline"> De los Relativos </head>
+    <pb n="8"/>
+    </div>
+    <!--levanto-arte 1.1.4.2-->
+    <div xml:id= "levanto-arte1.1.4.3">
+    <head type="outline"> Tercera Especia de Pronombres Derivativos, llamados
+    Reciprocos </head>
+    </div>
+    <!--levanto-arte 1.1.4.3-->
+    </div>
+    <!--levanto-arte 1.1.4-->
+    <div xml:id= "levanto-arte1.1.5">
+    <head type="outline"> De los Relativos </head>
     <pb n="9"/>
-	</div>
-	<!-- levanto-arte 1.1.5-->
-	<div xml:id= "levanto-arte1.1.6"> 
-	<head type= "outline"> De los Interrogativos </head>
-	</div>
-	<!--levanto-arte 1.1.6-->
-	</div> 
-	<!-- arte-levanto 1.1-->
+    </div>
+    <!-- levanto-arte 1.1.5-->
+    <div xml:id= "levanto-arte1.1.6"> 
+    <head type= "outline"> De los Interrogativos </head>
+    </div>
+    <!--levanto-arte 1.1.6-->
+    </div> 
+    <!-- arte-levanto 1.1-->
 
-	<div xml:id= "levanto-arte1.2">
-	<head type= "outline"> De los Absolutos </head>
-	<div xml:id= "levanto-arte1.2.1">
+    <div xml:id= "levanto-arte1.2">
+    <head type= "outline"> De los Absolutos </head>
+    <div xml:id= "levanto-arte1.2.1">
     <head type='outline'> De los Comparativos</head>
     <pb n="10"/>
    
@@ -137,7 +137,7 @@
     </div>
    <!--levanto-arte 1.2.1-->
    <div xml:id= "levanto-arte1.2.2">
-   	<head type='outline'> De los Superlativos </head>
+       <head type='outline'> De los Superlativos </head>
     <head>De los Superlativos</head>
     <lb/>
     Los Superlativos son tambien los mevmos portivio por
@@ -157,7 +157,7 @@
     </div>
     <!--levanto-arte 1.2-->
     <div xml:id= 'levanto-arte1.3'>
-	<head type= 'outline'> De el Verbo </head>
+    <head type= 'outline'> De el Verbo </head>
     <head>De el Verbo.</head>
     <lb/>
     Todos los Verbos comienzan los presenter [symbol] indicati
@@ -282,7 +282,7 @@
     <foreign xml:lang="zap">Caacañeeni</foreign>--aquelayude__<foreign xml:lang="zap">Caacañeeni</foreign>-aquellos ayuden===
     <lb/>
 
-	<head type='outline'> Oblativo </head>
+    <head type='outline'> Oblativo </head>
     <head>Obtativo</head>
     <lb/>
     <foreign xml:lang="zap">Hani cacaneea</foreign>__ O si yo ayude__ <foreign xml:lang="zap">Hate bela cacañeea</foreign> __ O si yo
@@ -294,7 +294,7 @@
     </div>
     <!--levanto-arte 1.3.1.1_-->
     <div xml:id= 'levanto-arte1.3.1.2'>
-	<head type='outline'> Preterito imperfecto de subjunctivo </head>
+    <head type='outline'> Preterito imperfecto de subjunctivo </head>
     <head>Preterito imperfecto de subjuntivo</head>
     <lb/>
     <foreign xml:lang="zap">Niaacañeeca</foreign> yo ayudara o ayudaria. Este tiempo, en to-
@@ -306,39 +306,39 @@
     </div>
     <!--levanto-arte 1.3.1.2-->
     <div xml:id='levanto-arte1.3.1.3'>
-	<head type='outline'> Preterito imperfecto de Oblativo </head>
+    <head type='outline'> Preterito imperfecto de Oblativo </head>
     </div>
     <!--levanto-arte 1.3.1.3-->
     <div xml:id='levanto-arte1.3.1.4'>
-	<head type='outline'> Modo Ynfinitivo Presente</head>
+    <head type='outline'> Modo Ynfinitivo Presente</head>
     </div>
     <!--levanto-arte 1.3.1.4-->
     <div xml:id='levanto-arte1.3.1.5'>
-	<head type='outline'> Preterito Plusquam Perfecto </head>
+    <head type='outline'> Preterito Plusquam Perfecto </head>
 
     <pb n="14"/>
     </div>
     <!--levanto-arte 1.3.1.5-->
     <div xml:id='levanto-arte1.3.1.6'>
-	<head type='outline'> Gerundios </head>
-	<div xml:id='levanto-arte1.3.1.6.1'>
-		<head type='outline'> Gerundio de Genetivo </head>
-	</div>
-	<!--levanto-arte 1.3.1.6.1-->
+    <head type='outline'> Gerundios </head>
+    <div xml:id='levanto-arte1.3.1.6.1'>
+    <head type='outline'> Gerundio de Genetivo </head>
+    </div>
+    <!--levanto-arte 1.3.1.6.1-->
     <div xml:id='levanto-arte1.3.1.6.2'>
-	<head type='outline'> Genrundios de Acusativo </head>
+    <head type='outline'> Genrundios de Acusativo </head>
     <pb n="15"/>
     </div>
     <!--levanto-arte 1.3.1.6.2-->
     <div xml:id='levanto-arte1.3.1.6.3'>
-	<head type='outline'> Gerundio de Ablativo </head>
-	<div xml:id='levanto-arte1.3.1.6.3.1'> 
-		<head type= 'outline'> Verbos de Asistencia </head>
+    <head type='outline'> Gerundio de Ablativo </head>
+    <div xml:id='levanto-arte1.3.1.6.3.1'> 
+    <head type= 'outline'> Verbos de Asistencia </head>
     <pb n="16"/>
     </div>
     <!--levanto-arte 1.3.1.6.3.1-->
     <div xml:id='levanto-arte1.3.1.6.3.2'>
-	<head type= 'outline'> Verbos de Movimiento</head>
+    <head type= 'outline'> Verbos de Movimiento</head>
 
     <pb n="17"/>
     </div>
@@ -348,30 +348,30 @@
     </div>
     <!--levanto-arte 1.3.1.6-->
     <div xml:id='levanto-arte1.3.1.7'>
-	<head type= 'outline'> Participios </head>
-	<div xml:id='levanto-arte1.3.1.7.1'>
-		<head type= 'outline'> Participio de Presente </head>
-	</div>
-	<!--levanto-arte 1.3.1.7.1-->
-	<div xml:id='levanto-arte1.3.1.7.2'>
-		<head type= 'outline'> Participio de Preterito</head>
-	</div>
-	<!--levanto-arte 1.3.1.7.2-->
-	<div xml:id='levanto-arte1.3.1.7.3'>
-		<head type= 'outline'> Participio de Futuro en Rus </head>
-	</div>
-	<!--levanto-arte 1.3.1.7.3-->
-	<div xml:id='levanto-arte1.3.1.7.4'>
-	<head type= 'outline'> Participio de Futuro en Dus </head>
+    <head type= 'outline'> Participios </head>
+    <div xml:id='levanto-arte1.3.1.7.1'>
+    <head type= 'outline'> Participio de Presente </head>
+    </div>
+    <!--levanto-arte 1.3.1.7.1-->
+    <div xml:id='levanto-arte1.3.1.7.2'>
+    <head type= 'outline'> Participio de Preterito</head>
+    </div>
+    <!--levanto-arte 1.3.1.7.2-->
+    <div xml:id='levanto-arte1.3.1.7.3'>
+    <head type= 'outline'> Participio de Futuro en Rus </head>
+    </div>
+    <!--levanto-arte 1.3.1.7.3-->
+    <div xml:id='levanto-arte1.3.1.7.4'>
+    <head type= 'outline'> Participio de Futuro en Dus </head>
     <pb n="18"/>
     </div>
     <!--levanto-arte 1.3.1.7.4-->
     </div>
     <!--levanto-arte 1.3.1.7-->
     <div xml:id='levanto-arte1.3.1.8'>
-	<head type= 'outline'> Nombres Verbales </head>
-	<div xml:id='levanto-arte1.3.1.8.1'>
-	<head type= 'outline'> Primera Especie de Verbales </head>
+    <head type= 'outline'> Nombres Verbales </head>
+    <div xml:id='levanto-arte1.3.1.8.1'>
+    <head type= 'outline'> Primera Especie de Verbales </head>
     <pb n="19"/>
     
     el embiador Sacanse de estas dos reglas, estos dos nombres
@@ -406,7 +406,7 @@
     </div>
     <!--levanto-arte 1.3.1.8.1-->
     <div xml:id='levanto-arte1.3.1.8.2'>
-	<head type= 'outline'> Segunda Especie de Verbales </head>
+    <head type= 'outline'> Segunda Especie de Verbales </head>
     <head> Segunda Especie de Verbales </head>
     Los nombres verbales de esta segunda especie, son los
     <lb/>
@@ -467,7 +467,7 @@
     </div>
     <!--levanto-arte 1.3.1.8.2-->
     <div xml:id='levanto-arte1.3.1.8.3'>
-	<head type= 'outline'> Tercera Especie de Verbales </head>
+    <head type= 'outline'> Tercera Especie de Verbales </head>
     <head> Tercera Especie de Verbales </head> 
     <lb/>
     Los nombres verbales de esta tercera especie, son
@@ -497,7 +497,7 @@
     </div>
     <!--levanto-arte 1.3.1.8-->
     <div xml:id='levanto-arte1.3.1.9'>
-	<head type= 'outline'> Nombres Adjectivos </head>
+    <head type= 'outline'> Nombres Adjectivos </head>
     <head> Nombres Adjetivos. </head> 
     <lb/>
     Formanse estos nombres verbales adjetivos en esta
@@ -510,34 +510,34 @@
 
     <pb n="21"/>
     <div xml:id='levanto-arte1.3.1.9.1'>
-	<head type= 'outline'> Primera Especie </head>
+    <head type= 'outline'> Primera Especie </head>
     </div>
     <!--levanto-arte 1.3.1.9.1-->
     <div xml:id='levanto-arte1.3.1.9.2'>
-	<head type= 'outline'> Segunda Especie </head>
+    <head type= 'outline'> Segunda Especie </head>
     </div>
     <!--levanto-arte 1.3.1.9.2-->
     <div xml:id='levanto-arte1.3.1.9.3'>
-	<head type= 'outline'> Tercera Especie </head>
+    <head type= 'outline'> Tercera Especie </head>
     <pb n="22"/>
     </div>
     <!--levanto-arte 1.3.1.9.3-->
     <div xml:id='levanto-arte1.3.1.9.4'>
-	<head type= 'outline'> Nombres Adjectivos de todas 4 Conj. es </head>
-	<div xml:id='levanto-arte1.3.1.9.4.1'>
-	<head type= 'outline'> Primera Conjugacion </head>
+    <head type= 'outline'> Nombres Adjectivos de todas 4 Conj. es </head>
+    <div xml:id='levanto-arte1.3.1.9.4.1'>
+    <head type= 'outline'> Primera Conjugacion </head>
     </div>
     <!--levanto-arte 1.3.1.9.4.1-->
     <div xml:id='levanto-arte1.3.1.9.4.2'>
-	<head type= 'outline'> Segunda Conjugacion </head>
+    <head type= 'outline'> Segunda Conjugacion </head>
     </div>
     <!--levanto-arte 1.3.1.9.4.2-->
     <div xml:id='levanto-arte1.3.1.9.4.3'>
-	<head type= 'outline'> Tercera Conjugacion </head>
+    <head type= 'outline'> Tercera Conjugacion </head>
     </div>
     <!--levanto-arte 1.3.1.9.4.3-->
     <div xml:id='levanto-arte1.3.1.9.4.4'>
-	<head type= 'outline'> Quarta Conjugacion </head>
+    <head type= 'outline'> Quarta Conjugacion </head>
     </div>
     <!--levanto-arte 1.3.1.9.4.4-->
     </div>
@@ -545,40 +545,40 @@
     </div>
     <!--levanto-arte 1.3.1.9 -->
     <div xml:id='levanto-arte1.3.1.10'>
-	<head type= 'outline'> Verbos Yrregulares de primera Conjuga </head>
-	<div xml:id='levanto-arte1.3.1.10.1'>
-	<head type= 'outline'> Primera Clase </head>
+    <head type= 'outline'> Verbos Yrregulares de primera Conjuga </head>
+    <div xml:id='levanto-arte1.3.1.10.1'>
+    <head type= 'outline'> Primera Clase </head>
 
     <pb n="23"/>
     </div>
     <!--levanto-arte 1.3.1.10.1-->
     <div xml:id='levanto-arte1.3.1.10.2'>
-	<head type= 'outline'> Segunda Clase </head>
+    <head type= 'outline'> Segunda Clase </head>
     <pb n="24"/>
     </div>
     <!--levanto-arte 1.3.1.10.2-->
     <div xml:id='levanto-arte1.3.1.10.3'>
-	<head type= 'outline'> Tercera Clase </head>
+    <head type= 'outline'> Tercera Clase </head>
     </div>
     <!--levanto-arte 1.3.1.10.3-->
     <div xml:id='levanto-arte1.3.1.10.4'>
-	<head type= 'outline'> Quarta Conjugacion </head>
+    <head type= 'outline'> Quarta Conjugacion </head>
     <pb n="25"/>
     </div>
     <!--levanto-arte 1.3.1.10.4-->
     <div xml:id='levanto-arte1.3.1.10.5'>
-	<head type= 'outline'> Quinta Clase </head>
+    <head type= 'outline'> Quinta Clase </head>
     </div>
     <!--levanto-arte 1.3.1.10.5-->
     </div>
     <!--levanto-arte 1.3.1.10-->
     <div xml:id='levanto-arte1.3.1.11'>
-	<head type= 'outline'> Verbos Pasivos de la primera Conju </head>
+    <head type= 'outline'> Verbos Pasivos de la primera Conju </head>
     <pb n="26"/>
     </div>
     <!--levanto-arte 1.3.1.11-->
     <div xml:id='levanto-arte1.3.1.12'>
-	<head type= 'outline'> Verbos Reyterativos y Compulsivos </head>
+    <head type= 'outline'> Verbos Reyterativos y Compulsivos </head>
     <pb n="27"/>
     otra vez <foreign xml:lang='zap'>Cagozaacaya</foreign>: come tu <foreign xml:lang='zap'>Cotaago</foreign>-come tu otra vez
     <lb/>
@@ -635,7 +635,7 @@
     </div>
     <!--levanto-arte 1.3.1-->
     <div xml:id='levanto-arte1.3.2'>
-	<head type= 'outline'> Segunda Conjugacion </head>
+    <head type= 'outline'> Segunda Conjugacion </head>
     <head> Segunda Conjugacion </head>
     <lb/>
     Todos los verbos de esta segunda conjugacion hacen
@@ -663,10 +663,10 @@
     <foreign xml:lang='zap'>Reechelani</foreign>----------Aquellos hallan
     <lb/>
     <div xml:id='levanto-arte1.3.2.1'>
-	<head type= 'outline'> Preterito Perfecto de Yndicativo </head>
+    <head type= 'outline'> Preterito Perfecto de Yndicativo </head>
     <head> Preterito Perfecto de Yndicativo </head>
     <div xml:id='levanto-arte1.3.2.1.1'>
-	<head type= 'outline'> [Primer Preterito] </head>
+    <head type= 'outline'> [Primer Preterito] </head>
     <lb/>
     Singu.l <foreign xml:lang='zap'>Pechelaya</foreign>----------Yo hallé
     <lb/>
@@ -683,7 +683,7 @@
     </div>
     <!--levanto-arte 1.3.2.1.1-->
     <div xml:id='levanto-arte1.3.2.1.2'>
-	<head type= 'outline'> Segunda Preterito [sic] </head>
+    <head type= 'outline'> Segunda Preterito [sic] </head>
     <head>Segundo P[r]eteriro</head>
     <lb/>
     <foreign xml:lang='zap'>Cijechelaya</foreign>----------Yo é hallado
@@ -691,7 +691,7 @@
     </div>
     <!--levanto-arte 1.3.2.1.2-->
     <div xml:id='levanto-arte1.3.2.1.3'>
-	<head type= 'outline'> Tercer Preterito </head>
+    <head type= 'outline'> Tercer Preterito </head>
     <head>Tercer Preterito </head>
     <lb/>
     <foreign xml:lang='zap'>Huechelaya</foreign>----------Yo huve hallado
@@ -711,7 +711,7 @@
     </div>
     <!--levanto-arte 1.3.2.1-->
     <div xml:id='levanto-arte1.3.2.2'>
-	<head type= 'outline'> Futuro Ymperfecto </head>
+    <head type= 'outline'> Futuro Ymperfecto </head>
     <head> Futuro Ymperfecto </head>
     <lb/>
     <foreign xml:lang='zap'>Quechelaya</foreign>----------Yo hallaré
@@ -719,9 +719,9 @@
     </div>
     <!--levanto-arte 1.3.2.2-->
     <div xml:id='levanto-arte1.3.2.3'>
-	<head type= 'outline'> [Ymperativo] </head>
-	<div xml:id='levanto-arte1.3.2.3.1'>
-	<head type= 'outline'> Ymperativo de Singular </head>
+    <head type= 'outline'> [Ymperativo] </head>
+    <div xml:id='levanto-arte1.3.2.3.1'>
+    <head type= 'outline'> Ymperativo de Singular </head>
     <head> Ymperativeo de Singular </head>
     <lb/>
     <foreign xml:lang='zap'>Pechela</foreign>----------halla tu
@@ -729,7 +729,7 @@
     </div>
     <!--levanto-arte 1.3.2.3.1-->
     <div xml:id='levanto-arte1.3.2.3.2'>
-	<head type= 'outline'> Ymperativo del Plural </head>
+    <head type= 'outline'> Ymperativo del Plural </head>
     <head> Ymperativeo del Plural </head>
     <lb/>
     <foreign xml:lang='zap'>Colaquechela-Laquechela</foreign> hallad vosotros
@@ -741,52 +741,52 @@
     </div>
     <!--levanto-arte 1.3.2.3-->
     <div xml:id='levanto-arte1.3.2.4'>
-	<head type= 'outline'> [Presente] </head>
-	<div xml:id='levanto-arte1.3.2.4.1'>
-	<head type= 'outline'> Presente de Subjunctivo </head>
+    <head type= 'outline'> [Presente] </head>
+    <div xml:id='levanto-arte1.3.2.4.1'>
+    <head type= 'outline'> Presente de Subjunctivo </head>
     </div>
     <!--levanto-arte 1.3.2.4.1-->
     <div xml:id='levanto-arte1.3.2.4.2'>
-    	<head type= 'outline'> Presente de Oblativo </head>
+    <head type= 'outline'> Presente de Oblativo </head>
     </div>
     <!--levanto-arte 1.3.2.4.2-->
     </div>
     <!--levanto-arte 1.3.2.4-->
     <div xml:id='levanto-arte1.3.2.5'>
-	<head type= 'outline'> [Preterito imperfecto] </head>
-	<div xml:id='levanto-arte1.3.2.5.1'>
-	<head type= 'outline'> Preterito imperfecto de Subjuntivo </head>
+    <head type= 'outline'> [Preterito imperfecto] </head>
+    <div xml:id='levanto-arte1.3.2.5.1'>
+    <head type= 'outline'> Preterito imperfecto de Subjuntivo </head>
     </div>
     <!--levanto-arte 1.3.2.5.1-->
     <div xml:id='levanto-arte1.3.2.5.2'>
-	<head type= 'outline'> Preterito imperfecto de Obtativo </head>
+    <head type= 'outline'> Preterito imperfecto de Obtativo </head>
     </div>
     <!-- levanto-arte 1.3.2.5.2-->
     </div>
     <!--levanto-arte 1.3.2.5-->
     <div xml:id='levanto-arte1.3.2.6'>
-	<head type= 'outline'> Ynfinitivo </head>
+    <head type= 'outline'> Ynfinitivo </head>
     </div>
     <!--levanto-arte 1.3.2.6-->
     <div xml:id='levanto-arte1.3.2.7'>
-	<head type= 'outline'> [Gerundios] </head>
-	<div xml:id='levanto-arte1.3.2.7.1'>
-		<head type= 'outline'> Gerundio de Genetivo </head>
-	</div>
-	<!--levanto-arte 1.3.2.7.1-->
+    <head type= 'outline'> [Gerundios] </head>
+    <div xml:id='levanto-arte1.3.2.7.1'>
+    <head type= 'outline'> Gerundio de Genetivo </head>
+    </div>
+    <!--levanto-arte 1.3.2.7.1-->
     <div xml:id='levanto-arte1.3.2.7.2'>
-	<head type= 'outline'> Gerundio de Acusativo </head>
+    <head type= 'outline'> Gerundio de Acusativo </head>
     </div>
     <!--leavanto-arte 1.3.2.7.2-->
     <div xml:id='levanto-arte1.3.2.7.3'>
-	<head type= 'outline'> Gerundio de Ablativo] </head>
+    <head type= 'outline'> Gerundio de Ablativo] </head>
     <pb n="30"/>
     </div>
     <!--levanto-arte 1.3.2.7.3-->
     </div>
     <!--levanto-arte 1.3.2.7-->
     <div xml:id='levanto-arte1.3.2.8'>
-	<head type= 'outline'>[Participios]</head>
+    <head type= 'outline'>[Participios]</head>
     <div xml:id='levanto-arte1.3.2.8.1'>
     <head type= 'outline'>Participio de Presente</head>
     </div>
@@ -819,78 +819,78 @@
     <pb n="31"/>
     Ritaro. . . . . Noro venir-Ritani __________
     <lb/>
-	Ritani . . . . Aquellos Vienen ___________
-	<lb/>
+    Ritani . . . . Aquellos Vienen ___________
+    <lb/>
     </div>
     <!--levanto-arte 1.3.2.11-->
     <div xml:id='levanto-arte1.3.2.12'>
     <head type= 'outline'>Preterito Perfecto</head>
-	<head>Preterito Perfecto.</head>
-	<lb/>
-	<foreign xml:lang="zap">Ving? </foreign> Peleea . . . . Yo vine habitualmente
-	<lb/> 
-	<foreign xml:lang="zap">Pitalo</foreign> . . . . . Tu veniste
-	<lb/>
-	<foreign xml:lang="zap">Pitani</foreign> . . . . Aquel vino
-	<lb/>
-	Plural <foreign xml:lang="zap">Peopetonoo</foreign> . . .Nosotros venimos____
-	<lb/>
-	<foreign xml:lang="zap">Pitato</foreign> Nosotros. . . <foreign xml:lang="zap">veniszes
-	<lb/>
-	Pitani</foreign>  . . . Aquellos vinieron
-	<lb/>
+    <head>Preterito Perfecto.</head>
+    <lb/>
+    <foreign xml:lang="zap">Ving? </foreign> Peleea . . . . Yo vine habitualmente
+    <lb/> 
+    <foreign xml:lang="zap">Pitalo</foreign> . . . . . Tu veniste
+    <lb/>
+    <foreign xml:lang="zap">Pitani</foreign> . . . . Aquel vino
+    <lb/>
+    Plural <foreign xml:lang="zap">Peopetonoo</foreign> . . .Nosotros venimos____
+    <lb/>
+    <foreign xml:lang="zap">Pitato</foreign> Nosotros. . . <foreign xml:lang="zap">veniszes
+    <lb/>
+    Pitani</foreign>  . . . Aquellos vinieron
+    <lb/>
     </div>
     <!--levanto-arte 1.3.2.12-->
     <div xml:id='levanto-arte1.3.2.13'>
     <head type= 'outline'>Futuro Ymperfecto</head>
-	<head>Futuro Ymperfecto</head>
-	<lb/>
-	<foreign xml:lang="zap">Sing.l Quela</foreign> .. Yo vendré habitualmente 
-	<lb/>
-	<foreign xml:lang="zap">Quitals</foreign> . . . Tu vendral 
-	<lb/>
-	<foreign xml:lang="zap">Quitani</foreign> . . . Aquel vendrá
-	<lb/>
-	Plural <foreign xml:lang="zap">queopenoo</foreign> . . .Nosotros vendremos 
-	<lb/>
-	<foreign xml:lang="zap">quitato</foreign> . . . .  Nosotros vendreis 
-	<lb/>
-	<foreign xml:lang="zap">Quitani</foreign> . . . . Aquellos vendran 
-	<lb/>
-	<foreign xml:lang="zap">Zeleea^e</foreign> por venir actualmente
-	<lb/>
+    <head>Futuro Ymperfecto</head>
+    <lb/>
+    <foreign xml:lang="zap">Sing.l Quela</foreign> .. Yo vendré habitualmente 
+    <lb/>
+    <foreign xml:lang="zap">Quitals</foreign> . . . Tu vendral 
+    <lb/>
+    <foreign xml:lang="zap">Quitani</foreign> . . . Aquel vendrá
+    <lb/>
+    Plural <foreign xml:lang="zap">queopenoo</foreign> . . .Nosotros vendremos 
+    <lb/>
+    <foreign xml:lang="zap">quitato</foreign> . . . .  Nosotros vendreis 
+    <lb/>
+    <foreign xml:lang="zap">Quitani</foreign> . . . . Aquellos vendran 
+    <lb/>
+    <foreign xml:lang="zap">Zeleea^e</foreign> por venir actualmente
+    <lb/>
     </div>
     <!--levanto-arte 1.3.2.13-->
     <div xml:id='levanto-arte1.3.2.14'>
     <head type= 'outline'>Presente de Yndicativo</head>
-	<head>Presente de Yndicativo.</head>
-	<lb/>
-	<foreign xml:lang="zap">Sing.r Zeleeae</foreign> . . . . Yo vengo actualmente 
-	<lb/>
-	<foreign xml:lang="zap">Zeetalo</foreign> . . . .Tu vener 
-	<lb/>
-	<foreign xml:lang="zap">Zeetani</foreign> . . . Aquel viene
-	<lb/>
-	Plural <foreign xml:lang="zap">Ze^eoponoo</foreign> . . nosotros venimos 
-	<lb/>
-	<foreign xml:lang="zap">Zetato</foreign> . . . Nosotros venis 
-	<lb/>
-	<foreign xml:lang="zap">Zeetatr?i</foreign>. . . ___Aquellos vienen asialmente?_____
-	<lb/>
+    <head>Presente de Yndicativo.</head>
+    <lb/>
+    <foreign xml:lang="zap">Sing.r Zeleeae</foreign> . . . . Yo vengo actualmente 
+    <lb/>
+    <foreign xml:lang="zap">Zeetalo</foreign> . . . .Tu vener 
+    <lb/>
+    <foreign xml:lang="zap">Zeetani</foreign> . . . Aquel viene
+    <lb/>
+    Plural <foreign xml:lang="zap">Ze^eoponoo</foreign> . . nosotros venimos 
+    <lb/>
+    <foreign xml:lang="zap">Zetato</foreign> . . . Nosotros venis 
+    <lb/>
+    <foreign xml:lang="zap">Zeetatr?i</foreign>. . . ___Aquellos vienen asialmente?_____
+    <lb/>
     </div>
     <!--levanto-arte 1.3.2.14-->
     <div xml:id='levanto-arte1.3.2.15'>
     <head type= 'outline'>Preterito Perfecto</head>
-	____Preterito Perfecto____
-	<lb/>
-	<foreign xml:lang="zap">Sing^x Peelea</foreign> . . . Yo vine actualmente 
-	<lb/>
-	<foreign xml:lang="zap">Pe^etalo vel Pitalo___Tuvenivze.
-	<lb/>
-	Pilani vel Pitalo___ Tuvenivze.
-	<lb/>
-	Pilani velPetani . . Aquelvino</foreign>
-	<lb/>
+    ____Preterito Perfecto____
+    <lb/>
+    <foreign xml:lang="zap">Sing^x Peelea</foreign> . . . Yo vine actualmente 
+    <lb/>
+    <foreign xml:lang="zap">Pe^etalo vel Pitalo___Tuvenivze.
+    <lb/>
+    Pilani vel Pitalo___ Tuvenivze.
+    <lb/>
+    Pilani velPetani . . Aquelvino</foreign>
+    <lb/>
 
 
     <pb n="32"/>
@@ -902,27 +902,27 @@
     <head type= 'outline'>Segundo Preterito</head>
     <head> ---------------- Segundo Preterito ------------- </head>
     <lb/>
-                <foreign xml:lang= 'zap'> Cieelea </foreign>---- Yo he venido --------------
+    <foreign xml:lang= 'zap'> Cieelea </foreign>---- Yo he venido --------------
     <lb/>
     </div>
     <!--levanto-arte 1.3.2.16-->
     <div xml:id='levanto-arte1.3.2.17'>
     <head type= 'outline'>Tercer Preterito</head>
-                <head> -----------------Tercer Preterito ---------------- </head>
+    <head> -----------------Tercer Preterito ---------------- </head>
     <lb/>
-                <foreign xml:lang= 'zap'> Hua yeela </foreign>-----------  Yo huve venido ------------
+    <foreign xml:lang= 'zap'> Hua yeela </foreign>-----------  Yo huve venido ------------
     <lb/>
     </div>
     <!--levanto-arte 1.3.2.17-->
     <div xml:id='levanto-arte1.3.2.18'>
     <head type= 'outline'>Futuro Ymperfecto</head>
-                <head> ---------------- Futuro Ymperfecto ---------------- </head>
+    <head> ---------------- Futuro Ymperfecto ---------------- </head>
     <lb/>
     Sing.r      <foreign xml:lang= 'zap'> Queelea</foreign> --------- Yo vendré -----------------
     <lb/>
-                <foreign xml:lang= 'zap'> Quitalo </foreign> <foreign xml:lang= 'lat'> vel </foreign> <foreign xml:lang= 'zap'> Quetalo </foreign> - - Tu vendras ----------
+    <foreign xml:lang= 'zap'> Quitalo </foreign> <foreign xml:lang= 'lat'> vel </foreign> <foreign xml:lang= 'zap'> Quetalo </foreign> - - Tu vendras ----------
     <lb/>
-                <foreign xml:lang= 'zap'> Quitani </foreign> <foreign xml:lang= 'lat'> vel </foreign> <foreign xml:lang= 'zap'> Quetani </foreign> - - Aquel vendra -------
+    <foreign xml:lang= 'zap'> Quitani </foreign> <foreign xml:lang= 'lat'> vel </foreign> <foreign xml:lang= 'zap'> Quetani </foreign> - - Aquel vendra -------
     <lb/>
     Plural  <foreign xml:lang= 'zap'> Queeopenoo </foreign> ---------- Nostros vendremos ----
     <lb/>
@@ -930,43 +930,43 @@
     <!--levanto-arte 1.3.2.18-->
     <div xml:id='levanto-arte1.3.2.19'>
     <head type= 'outline'>Ymperativo</head>
-                <head> ---------------- Ymperativo ------------- </head>
+    <head> ---------------- Ymperativo ------------- </head>
     <lb/>
     Sing.r  <foreign xml:lang= 'zap'> Cotaa</foreign> ---------- Ven tu ---------
     <lb/>
     Plural.  <foreign xml:lang= 'zap'> Colataa</foreign> ------- Venid  vosotros ----------
     <lb/>
-                Nota q.e este verbo por venir no guardan sus im-
+    Nota q.e este verbo por venir no guardan sus im-
     <lb/>
-                parativos la regla y formacion, q. e los demas de las 4
+    parativos la regla y formacion, q. e los demas de las 4
     <lb/>
-                Conjugaciones: quiza por der irregular en todo ha-
+    Conjugaciones: quiza por der irregular en todo ha-
     <lb/>
-                ce <foreign xml:lang= 'zap'> Cotaa </foreign> en singular, y <foreign xml:lang= 'zap'> Colataa </foreign> en plural.
+    ce <foreign xml:lang= 'zap'> Cotaa </foreign> en singular, y <foreign xml:lang= 'zap'> Colataa </foreign> en plural.
     <lb/>
-                Se adviente agui acerea del futuro de potencialidad
+    Se adviente agui acerea del futuro de potencialidad
     <lb/>
-                q.e el futuro <foreign xml:lang= 'zap'> queela </foreign> vuelve el que en <foreign xml:lang= 'zap'> Zooe</foreign> V.g. podre
+    q.e el futuro <foreign xml:lang= 'zap'> queela </foreign> vuelve el que en <foreign xml:lang= 'zap'> Zooe</foreign> V.g. podre
     <lb/>
-                venir <foreign xml:lang= 'zap'> Zooelea </foreign>. y el futuro <foreign xml:lang= 'zap'> qui </foreign> vuelve en <foreign xml:lang= 'zap'> Zai </foreign>: V. g.
+    venir <foreign xml:lang= 'zap'> Zooelea </foreign>. y el futuro <foreign xml:lang= 'zap'> qui </foreign> vuelve en <foreign xml:lang= 'zap'> Zai </foreign>: V. g.
     <lb/>
-                podras venir <foreign xml:lang= 'zap'> Zaitalo </foreign>.
+    podras venir <foreign xml:lang= 'zap'> Zaitalo </foreign>.
     <lb/>
-                El Reyterativo de este verbo <foreign xml:lang= 'zap'> Zeelea</foreign> por venir es
+    El Reyterativo de este verbo <foreign xml:lang= 'zap'> Zeelea</foreign> por venir es
     <lb/>
-                <foreign xml:lang= 'zap'> Zeezeelea </foreign>, yo vengo otra vez: aung.e lomas usado y
+    <foreign xml:lang= 'zap'> Zeezeelea </foreign>, yo vengo otra vez: aung.e lomas usado y
     <lb/>
-                mejor es como se dijo enla 1.a Conjugacion pos poner
+    mejor es como se dijo enla 1.a Conjugacion pos poner
     <lb/>
-                le la particula <foreign xml:lang= 'zap'> Zaaca </foreign>: V. g. presente <foreign xml:lang= 'zap'> Zeelezaacaya </foreign>
+    le la particula <foreign xml:lang= 'zap'> Zaaca </foreign>: V. g. presente <foreign xml:lang= 'zap'> Zeelezaacaya </foreign>
     <lb/>
-                vengo otra vez: Preterito <foreign xml:lang= 'zap'> Pelezaacaya </foreign> vine otra
+    vengo otra vez: Preterito <foreign xml:lang= 'zap'> Pelezaacaya </foreign> vine otra
     <lb/>
-                vez futuro <foreign xml:lang= 'zap'> queelezaacaya </foreign> vendre otra vez: Impe-
+    vez futuro <foreign xml:lang= 'zap'> queelezaacaya </foreign> vendre otra vez: Impe-
     <lb/>
-                rativo, <foreign xml:lang= 'zap'> Cotaazaaca </foreign> ventu otra vez Plural <foreign xml:lang= 'zap'> Colaataa
+    rativo, <foreign xml:lang= 'zap'> Cotaazaaca </foreign> ventu otra vez Plural <foreign xml:lang= 'zap'> Colaataa
     <lb/>
-                zaaca</foreign> venid vosotros otra vez. --------------------------
+    zaaca</foreign> venid vosotros otra vez. --------------------------
     <lb/>
     <pb n="33"/>
     </div>
@@ -1078,9 +1078,9 @@
     <lb/>
     <foreign xml:lang='zap'>Rinnijni</foreign>----------Aquellos dicen
     <lb/>
-        <pb n="49"/>
-        <pb n="50"/>
-        <pb n="51"/>
+    <pb n="49"/>
+    <pb n="50"/>
+    <pb n="51"/>
     <foreign xml:lang='zap'>Rizaaya</foreign> andar, y partir de un lugar a otro, hacelas di
     <lb/>
     chas persona; <foreign xml:lang='zap'>Pichootono--Pihui</foreign> aunq.e los Yndios no
@@ -1469,19 +1469,19 @@
     <lb/>
     3 - - - -  <foreign xml:lang="zap"> C^hoona </foreign> - - - - 
     <lb/>
-    4 - - - - <foreign xml:lang="zap"> Taapa </foreign> - - -           
+    4 - - - - <foreign xml:lang="zap"> Taapa </foreign> - - -       
     <lb/>
-    5 - - - - <foreign xml:lang="zap"> Gaayo </foreign> - - -           
+    5 - - - - <foreign xml:lang="zap"> Gaayo </foreign> - - -       
     <lb/>
-    6 - - - - <foreign xml:lang="zap"> Xoopa </foreign>  - - -           
+    6 - - - - <foreign xml:lang="zap"> Xoopa </foreign>  - - -       
     <lb/>
-    7 - - - - <foreign xml:lang="zap"> Gaache </foreign> - - -          
+    7 - - - - <foreign xml:lang="zap"> Gaache </foreign> - - -      
     <lb/>
-    8 - - - - <foreign xml:lang="zap"> Xoono </foreign> - - -           
+    8 - - - - <foreign xml:lang="zap"> Xoono </foreign> - - -       
     <lb/>
-    9 - - - - <foreign xml:lang="zap"> Gaa </foreign> - - - -           
+    9 - - - - <foreign xml:lang="zap"> Gaa </foreign> - - - -       
     <lb/>
-    10 - - - - <foreign xml:lang="zap"> Chij </foreign> - - - - - -         
+    10 - - - - <foreign xml:lang="zap"> Chij </foreign> - - - - - -     
     <lb/>
     11 - - - - <foreign xml:lang="zap"> Chijbi toobi </foreign> - -     
     <lb/>
@@ -1489,7 +1489,7 @@
     <lb/>
     13 - - - - <foreign xml:lang="zap"> Chijño </foreign> - - - -       
     <lb/>
-    14 - - - - <foreign xml:lang="zap"> Chijtaa </foreign> - - -         
+    14 - - - - <foreign xml:lang="zap"> Chijtaa </foreign> - - -     
     <lb/>
     15 - - - - <foreign xml:lang="zap"> Chijno </foreign> - - - -       
     <lb/>
@@ -1497,7 +1497,7 @@
     <lb/>
     17 - - - <foreign xml:lang="zap"> Chijnoo bitioopa </foreign>
     <lb/>
-    18 - - - <foreign xml:lang="zap"> Chijnobichoona </foreign>         
+    18 - - - <foreign xml:lang="zap"> Chijnobichoona </foreign>     
     <lb/>
     19 - - - <foreign xml:lang="zap">Chijnobitaapa </foreign>- -      
     <lb/>
@@ -1572,9 +1572,9 @@
     
     <pb n="98"/>
      <cb n="1"/>
-    300-- <foreign xml:lang= "zap"> Chijnooa </foreign>- - -            
+    300-- <foreign xml:lang= "zap"> Chijnooa </foreign>- - -    
     <lb/>
-    400- - - <foreign xml:lang= "zap"> Toobieela </foreign>- - -        
+    400- - - <foreign xml:lang= "zap"> Toobieela </foreign>- - -    
     <lb/>
     500- -<foreign xml:lang= "zap"> ToobieelacayooaChija </foreign>-     
     <lb/>
@@ -1652,146 +1652,146 @@
     
     <pb n="99"/>
     <foreign xml:lang = "zap">ropa</foreign>,
- <choice> <orig>vel</orig> <reg type="spanish">vel</reg> </choice>
-<foreign xml:lang = "zap">quiroopa quiroopagaa.</foreign> 
-<choice> <orig> Para decir una
+    <choice> <orig>vel</orig> <reg type="spanish">vel</reg> </choice>
+    <foreign xml:lang = "zap">quiroopa quiroopagaa.</foreign> 
+    <choice> <orig> Para decir una
     <lb/>
     cosa, dos cosas, dicen,</orig><reg type="spanish">Para decir una cosa, dos cosas, dicen</reg> </choice> 
-<foreign xml:lang = "zap">toobiloo tioopaloo</foreign>
-<choice> <orig>vel</orig> <reg type="spanish">vel</reg> </choice>
-<foreign xml:lang = "zap">toobi cuee</foreign>
+    <foreign xml:lang = "zap">toobiloo tioopaloo</foreign>
+    <choice> <orig>vel</orig> <reg type="spanish">vel</reg> </choice>
+    <foreign xml:lang = "zap">toobi cuee</foreign>
     <lb/>
     <foreign xml:lang = "zap">tioopa cuee</foreign>,
-<choice> <orig>vel</orig> <reg type="spanish">vel</reg> </choice> 
-<foreign xml:lang = "zap">toobi xibaa, tioopa xibaa</foreign> <choice> <orig>uno y me-
+    <choice> <orig>vel</orig> <reg type="spanish">vel</reg> </choice> 
+    <foreign xml:lang = "zap">toobi xibaa, tioopa xibaa</foreign> <choice> <orig>uno y me-
     <lb/>
     dio, dos y medio,</orig> <reg type="spanish">uno y me <lb/> dio, dos y medio</reg> </choice>
-<foreign xml:lang = "zap">toobichijba medio tioopachijba me-</foreign>
+    <foreign xml:lang = "zap">toobichijba medio tioopachijba me-</foreign>
     <lb/>
     <foreign xml:lang = "zap">dio.</foreign>
- <choice> <orig>Cada dia, cada mes, Cada año</orig><reg type="spanish">Cada día, cada mes, Cada año</reg></choice>
-<foreign xml:lang = "zap">-Chaaga-Chaaga Chij
+    <choice> <orig>Cada dia, cada mes, Cada año</orig><reg type="spanish">Cada día, cada mes, Cada año</reg></choice>
+    <foreign xml:lang = "zap">-Chaaga-Chaaga Chij
     <lb/>
     Chaaga-Chaaga beo, Chaaga-Chaaga iza</foreign> - 
-<choice> <orig>vel</orig> <reg type="spanish">vel</reg> </choice>
-<foreign xml:lang = "zap">toobi-
+    <choice> <orig>vel</orig> <reg type="spanish">vel</reg> </choice>
+    <foreign xml:lang = "zap">toobi-
     <lb/>
     toobichij</foreign>: 
-<choice> <orig>Quando son un par las cosas de q.e hablas de
+    <choice> <orig>Quando son un par las cosas de q.e hablas de
     <lb/>
     suerte q.e han de ser dos precisamente para usar de ellas</orig>
-<reg type="spanish">Cuando son un par las cosas de que hablas de
+    <reg type="spanish">Cuando son un par las cosas de que hablas de
     <lb/>
     suerte que han de ser dos precisamente para usar de ellas</reg>
-</choice>
+    </choice>
     <lb/>
-<foreign xml:lang = "lat">V.g</foreign>
-<choice><orig>Criales toros Zapatos. Se dice</orig> <reg type="spanish">Críales toros Zapatos. Se dice</reg></choice>
- <foreign xml:lang = "zap">toobi neza</foreign>
-<foreign xml:lang = "lat">V.g</foreign>
-<choice><orig>una
+    <foreign xml:lang = "lat">V.g</foreign>
+    <choice><orig>Criales toros Zapatos. Se dice</orig> <reg type="spanish">Críales toros Zapatos. Se dice</reg></choice>
+    <foreign xml:lang = "zap">toobi neza</foreign>
+    <foreign xml:lang = "lat">V.g</foreign>
+    <choice><orig>una
     <lb/>
     junta de Bueyes</orig>
-<reg type="spanish">una
+    <reg type="spanish">una
     <lb/>
     yunta de Bueyes
-</reg>
-</choice> 
-- <foreign xml:lang = "zap">toobi neza gonna</foreign> - 
-<choice> <orig>un par de zapa
+    </reg>
+    </choice> 
+    - <foreign xml:lang = "zap">toobi neza gonna</foreign> - 
+    <choice> <orig>un par de zapa
     <lb/>
     tos</orig>
-<reg type="spanish">
-un par de zapa
+    <reg type="spanish">
+    un par de zapa
     <lb/>
     tos</reg>
-</choice>
- - <foreign xml:lang = "zap">toobineza queelaguiti</foreign>-
-<choice>
-<orig>o zapatos, a sus cacles lla-
+    </choice>
+     - <foreign xml:lang = "zap">toobineza queelaguiti</foreign>-
+    <choice>
+    <orig>o zapatos, a sus cacles lla-
     <lb/>
     man</orig> 
-<reg type="spanish">
-o zapatos, a sus cacles lla-
+    <reg type="spanish">
+    o zapatos, a sus cacles lla-
     <lb/>
     man
-</reg>
-</choice>
-<foreign xml:lang = "zap">queelaguiti</foreign>, 
-<choice><orig>y assi tambien ã los zapatos.
+    </reg>
+    </choice>
+    <foreign xml:lang = "zap">queelaguiti</foreign>, 
+    <choice><orig>y assi tambien ã los zapatos.
     <lb/>
     Para decir la dos manos, los dos pies las dos orejas sepone</orig>
-<reg type="spanish">
-y assi tambien a los zapatos.
+    <reg type="spanish">
+    y assi tambien a los zapatos.
     <lb/>
     Para decir la dos manos, los dos pies las dos orejas se pone
-</reg>
-</choice>
+    </reg>
+    </choice>
     <lb/>
     <foreign xml:lang = "zap">Choo</foreign>
     <choice><orig>q.e es una de dos cosas q.e  han de ser juntas:</orig>
-<reg type="spanish">q.e es una de dos cosas qe  han de ser juntas:</reg>
-</choice> 
-<foreign xml:lang = "lat">V.g.</foreign>
-<choice><orig>las dos
+    <reg type="spanish">q.e es una de dos cosas qe  han de ser juntas:</reg>
+    </choice> 
+    <foreign xml:lang = "lat">V.g.</foreign>
+    <choice><orig>las dos
     <lb/>
     manos~</orig>
-<reg type="spanish">las dos
+    <reg type="spanish">las dos
     <lb/>
     manos~</reg>
-</choice>
- <foreign xml:lang = "zap">quiroopa Chooñaani</foreign>
-<choice><orig>una mano</orig><reg type="spanish">una mano</reg></choice>
- -<foreign xml:lang = "zap">toobi Choo
+    </choice>
+    <foreign xml:lang = "zap">quiroopa Chooñaani</foreign>
+    <choice><orig>una mano</orig><reg type="spanish">una mano</reg></choice>
+    -<foreign xml:lang = "zap">toobi Choo
     <lb/>
     ñanni.</foreign> 
-<choice><orig>Los dos pies.</orig> <reg type="spanish">Los dos pies.</reg></choice>
-<foreign xml:lang = "zap">quiroopa choo nijani</foreign>; 
-<choice><orig>un pie - </orig> <reg type="spanish">un pie - </reg></choice>
-<foreign xml:lang = "zap">too
+    <choice><orig>Los dos pies.</orig> <reg type="spanish">Los dos pies.</reg></choice>
+    <foreign xml:lang = "zap">quiroopa choo nijani</foreign>; 
+    <choice><orig>un pie - </orig> <reg type="spanish">un pie - </reg></choice>
+    <foreign xml:lang = "zap">too
     <lb/>
     bichoo nijani;</foreign> 
-<choice><orig>las dos orejas</orig> <reg type="spanish">las dos orejas</reg></choice>
-<foreign xml:lang = "zap">quiroopa choo tiaagani</foreign>
+    <choice><orig>las dos orejas</orig> <reg type="spanish">las dos orejas</reg></choice>
+    <foreign xml:lang = "zap">quiroopa choo tiaagani</foreign>
     <lb/>
-<choice><orig>una oreja</orig> <reg type="spanish">una oreja</reg></choice>
-<foreign xml:lang = "zap">Toobi choo tiaagani</foreign>_ 
-<choice>
-<orig>traeras una pierna
+    <choice><orig>una oreja</orig> <reg type="spanish">una oreja</reg></choice>
+    <foreign xml:lang = "zap">Toobi choo tiaagani</foreign>_ 
+    <choice>
+    <orig>traeras una pierna
     <lb/>
     de carnero, dicen</orig>
-<reg type="spanish">traerás una pierna
+    <reg type="spanish">traerás una pierna
     <lb/>
     de carnero, dicen</reg>
-</choice>
-<foreign xml:lang = "zap">quitañeelo toobi choo cooxe xijla</foreign>
+    </choice>
+    <foreign xml:lang = "zap">quitañeelo toobi choo cooxe xijla</foreign>
     <lb/>
-<choice>
-<orig>Tambien quando se dice uno de cosas q.e de por si son
+    <choice>
+    <orig>Tambien quando se dice uno de cosas q.e de por si son
     <lb/>
     par, se pone la particula</orig>
-<reg type="spanish">
-También cuando se dice uno de cosas que de por sí son
+    <reg type="spanish">
+    También cuando se dice uno de cosas que de por sí son
     <lb/>
     par, se pone la partícula</reg>
-</choice>
-<foreign xml:lang = "zap">Choo</foreign>. 
-<choice>
-<orig>como se ve en los exem
+    </choice>
+    <foreign xml:lang = "zap">Choo</foreign>. 
+    <choice>
+    <orig>como se ve en los exem
     <lb/>
     plos ya puestos arriba y tambien le ponen</orig>
-<reg type="spanish">como se ve en los ejem
+    <reg type="spanish">como se ve en los ejem
     <lb/>
     plos ya puestos arriba y también le ponen
-</reg>
-</choice>
-<foreign xml:lang = "zap">Laaga</foreign>.
+    </reg>
+    </choice>
+    <foreign xml:lang = "zap">Laaga</foreign>.
     <lb/>
-<foreign xml:lang = "lat">V.g.</foreign>
-<choice><orig>un Buey de murio</orig><reg type="spanish">un Buey de murio</reg></choice>
-<foreign xml:lang = "zap">toobi laaga gonna gutini</foreign>.
+    <foreign xml:lang = "lat">V.g.</foreign>
+    <choice><orig>un Buey de murio</orig><reg type="spanish">un Buey de murio</reg></choice>
+    <foreign xml:lang = "zap">toobi laaga gonna gutini</foreign>.
     <lb/>
-<choice><orig>Fin de la Quenta Zaapoteca</orig><reg type="spanish">Fin de la Cuenta Zapoteca</reg></choice>
+    <choice><orig>Fin de la Quenta Zaapoteca</orig><reg type="spanish">Fin de la Cuenta Zapoteca</reg></choice>
     </div>
     <!-- levanto-arte 2 -->
 
@@ -1998,14 +1998,14 @@ También cuando se dice uno de cosas que de por sí son
     <lb/>
     Hua      , quella xizaana, loo quella xizaana, echelo
     <lb/>
-    Hualoxi quella xizaana.          x Creer(?)
+    Hualoxi quella xizaana.      x Creer(?)
     </foreign>
 
     <pb n="103"/>
     <choice><orig>Crees q.e N.tro S.r  Jesu Christo murio en el arbol de la</orig><reg type="spanish">Crees que Nosotros  Jesus Christo murió en el arbol de la</reg></choice>
     <lb/>
     <choice><orig>Cruz para redimir a todos nosotros pecadores?</orig><reg type="spanish">Cruz para redimir a todos nosotros pecadores?</reg>
- </choice>
+    </choice>
     <lb/>
     <foreign xml:lang="zap">Huarieelijlachilo, ni Bejuannana Jesu Christo
     <lb/>
@@ -2015,19 +2015,19 @@ También cuando se dice uno de cosas que de por sí son
     lijtonoo benni huexijhui</foreign>
     <lb/>
     <choice>
-<orig>Crees q.e N.tro S.r Jesu Christo fue sepultado y q.e </orig><reg type="spanish">Crees que Nuestros Señor Jesus Christo fue sepultado y que</reg>
- </choice>
+    <orig>Crees q.e N.tro S.r Jesu Christo fue sepultado y q.e </orig><reg type="spanish">Crees que Nuestros Señor Jesus Christo fue sepultado y que</reg>
+    </choice>
     <lb/>
     <choice>
-<orig>su anima SS.a junta con la Divinidad bajo a los</orig><reg type="spanish">su anima Santissima junta con la Divinidad bajó a los</reg>
- </choice>
+    <orig>su anima SS.a junta con la Divinidad bajo a los</orig><reg type="spanish">su anima Santissima junta con la Divinidad bajó a los</reg>
+    </choice>
     <lb/> <choice>
-<orig>infiernos, y vaco a las almas de los S.tos Padres q.e es</orig><reg type="spanish">infiernos, y vacó a las almas de los estos Padres que es</reg>
- </choice>
+    <orig>infiernos, y vaco a las almas de los S.tos Padres q.e es</orig><reg type="spanish">infiernos, y vacó a las almas de los estos Padres que es</reg>
+    </choice>
     <lb/>
     <choice>
-<orig>peraban su s.to advenimiento? </orig><reg type="spanish">peraban su santo advenimiento?</reg>
- </choice>
+    <orig>peraban su s.to advenimiento? </orig><reg type="spanish">peraban su santo advenimiento?</reg>
+    </choice>
     <lb/>
     <foreign xml:lang="zap">Huarieelijlachilo, ni Bejuannana Jesu Christo pi 
     <lb/>
@@ -2066,15 +2066,15 @@ También cuando se dice uno de cosas que de por sí son
     lacoca?</foreign>
     <lb/>
     <choice>
-<orig>Crees q.e el dia del Juicio vendra ā juzgar ã los bue</orig><reg type="spanish">Crees que el día del Juicio vendra a juzgar a los bue</reg>
- </choice> 
+    <orig>Crees q.e el dia del Juicio vendra ā juzgar ã los bue</orig><reg type="spanish">Crees que el día del Juicio vendra a juzgar a los bue</reg>
+    </choice> 
     <lb/> <choice>
-<orig>nos, y ã los malos, para dar ã los buonos la gloria y ã</orig><reg type="spanish">nos, y a los malos, para dar a los buonos la gloria y a</reg>
- </choice>
+    <orig>nos, y ã los malos, para dar ã los buonos la gloria y ã</orig><reg type="spanish">nos, y a los malos, para dar a los buonos la gloria y a</reg>
+    </choice>
     
     <lb/> <choice>
-<orig>los malos pena para siempre?</orig><reg type="spanish">los malos pena para siempre?</reg>
- </choice>
+    <orig>los malos pena para siempre?</orig><reg type="spanish">los malos pena para siempre?</reg>
+    </choice>
     
     <lb/>
     <foreign xml:lang="zap">Huarieelijlachilo, ni chij quella hueto gotichaqui 
@@ -2493,7 +2493,7 @@ También cuando se dice uno de cosas que de por sí son
     <lb/>
     todos los  pecados siempre q.e se hacee reciviso el Cuerpo SS.o 
     <lb/>
-    Jesu Christo                                                de 
+    Jesu Christo            de 
     <pb n="116"/>
     <pb n="117"/>
     <pb n="118"/>
@@ -2758,69 +2758,69 @@ También cuando se dice uno de cosas que de por sí son
     <cb n=""/>
     <pb n="182"/>
     <cb n="1"/>
-    <foreign xml:lang='zap'>Rotohua-pi-co-</foreign> Bender                     
+    <foreign xml:lang='zap'>Rotohua-pi-co-</foreign> Bender         
     <lb/>
-    <foreign xml:lang='zap'>Risija-co-sij-</foreign> Comprar                    
+    <foreign xml:lang='zap'>Risija-co-sij-</foreign> Comprar        
     <lb/>
-    <foreign xml:lang='zap'>Ribijchi-cor-ui-</foreign> Lla-                     
+    <foreign xml:lang='zap'>Ribijchi-cor-ui-</foreign> Lla-         
     <lb/>
-    mar voceando                              
+    mar voceando          
     <lb/>
-    <foreign xml:lang='zap'>Rozaabendaya-pi-co-</foreign>                       
+    <foreign xml:lang='zap'>Rozaabendaya-pi-co-</foreign>           
     <lb/>
-    Bendecir                                  
+    Bendecir          
     <lb/>
-    <foreign xml:lang='zap'>Roxijñe-pi-co-</foreign>Borrar                      
+    <foreign xml:lang='zap'>Roxijñe-pi-co-</foreign>Borrar          
     <lb/>
-    <foreign xml:lang='zap'>Riapi-cuy-cha-</foreign> Subir                      
+    <foreign xml:lang='zap'>Riapi-cuy-cha-</foreign> Subir          
     <lb/>
-    <foreign xml:lang='zap'>Riecte-pi-qui-</foreign>Bajar                      
+    <foreign xml:lang='zap'>Riecte-pi-qui-</foreign>Bajar          
     <lb/>
-    <foreign xml:lang='zap'>Rogaa-pi-co-</foreign> Baylar                       
+    <foreign xml:lang='zap'>Rogaa-pi-co-</foreign> Baylar           
     <lb/>
-    <foreign xml:lang='zap'>Rozaabijgaa-pi-co-</foreign>                        
+    <foreign xml:lang='zap'>Rozaabijgaa-pi-co-</foreign>        
     <lb/>
-    Colgar                                   
+    Colgar           
     <lb/>
-    <foreign xml:lang='zap'>Roza-pi-co-</foreign> Bosterar                      
+    <foreign xml:lang='zap'>Roza-pi-co-</foreign> Bosterar          
     <lb/>
-    <foreign xml:lang='zap'>Richeeza-co-qui-</foreign>Saltar                   
+    <foreign xml:lang='zap'>Richeeza-co-qui-</foreign>Saltar       
     <lb/>
-    <foreign xml:lang='zap'>Ridijq.^e-pi-qui-</foreign> Bajar                  
+    <foreign xml:lang='zap'>Ridijq.^e-pi-qui-</foreign> Bajar      
     <lb/>
-    la cabeza                                 
+    la cabeza         
     <lb/>
-    <foreign xml:lang='zap'>Rigooaniza-col-co-</foreign>Bau-                    
+    <foreign xml:lang='zap'>Rigooaniza-col-co-</foreign>Bau-        
     <lb/>
-    tizar                                     
+    tizar             
     <lb/>
-    <foreign xml:lang='zap'>Rotijxe-pi-co-</foreign> Boltear                    
+    <foreign xml:lang='zap'>Rotijxe-pi-co-</foreign> Boltear        
     <lb/>
-    <foreign xml:lang='zap'>Rocaaxua-pi-co-</foreign> Besar                     
+    <foreign xml:lang='zap'>Rocaaxua-pi-co-</foreign> Besar         
     <lb/>
-    <foreign xml:lang='zap'>Rochayaxua-pi-co-</foreign> Ydem?                   
+    <foreign xml:lang='zap'>Rochayaxua-pi-co-</foreign> Ydem?       
     <lb/>
-    <foreign xml:lang='zap'>Rochijaloa-pi-co-</foreign> Bol-                    
+    <foreign xml:lang='zap'>Rochijaloa-pi-co-</foreign> Bol-        
     <lb/>
-    ver la casa                               
+    ver la casa           
     <lb/>
-    <foreign xml:lang='zap'>Racuaxaaba-cot-ca-</foreign>                       
+    <foreign xml:lang='zap'>Racuaxaaba-cot-ca-</foreign>           
     <lb/>
-    Vestirse                                  
+    Vestirse          
     <lb/>
-    <foreign xml:lang='zap'>Rochayanaa-pi-co-</foreign>                         
+    <foreign xml:lang='zap'>Rochayanaa-pi-co-</foreign>         
     <lb/>
-    Casarse                                  
+    Casarse          
     <lb/>
-    <foreign xml:lang='zap'>Rozaacazije-pi-co-</foreign>                       
+    <foreign xml:lang='zap'>Rozaacazije-pi-co-</foreign>           
     <lb/>
-    Castigar                                 
+    Castigar         
     <lb/>
-    <foreign xml:lang='zap'>Riyañi-cot-ca-</foreign> Ca-                       
+    <foreign xml:lang='zap'>Riyañi-cot-ca-</foreign> Ca-           
     <lb/>
-    bar la tierra                            
+    bar la tierra        
     <lb/>
-    <foreign xml:lang='zap'>Ronda-pin-con-</foreign> Cantar                     
+    <foreign xml:lang='zap'>Ronda-pin-con-</foreign> Cantar         
     <lb/>
     <foreign xml:lang='zap'>Ribaaguechahui-col-
     <lb/>
