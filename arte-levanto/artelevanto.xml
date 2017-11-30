@@ -10,7 +10,7 @@
     <pb n="3"/>
     </div>
     <!--levanto-arte Title-->
-    <div xml:id= "levanto-arte1">
+    <!-- <div xml:id= "levanto-arte1">  NEEDS CLOSING TAG -->
     <head type= "outline"> De las Partes de la Oracion </head>
     (De las Partes de la Oracion.)
     <lb/>
