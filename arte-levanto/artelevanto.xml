@@ -10,7 +10,7 @@
     <pb n="3"/>
     </div>
     <!--levanto-arte Title-->
-    <!-- <div xml:id= "levanto-arte1">  NEEDS CLOSING TAG -->
+    <div xml:id= "levanto-arte1">
     <head type= "outline"> De las Partes de la Oracion </head>
     (De las Partes de la Oracion.)
     <lb/>
@@ -1451,7 +1451,7 @@
     <!-- levanto-arte 1.16.5 -->
     </div>
     <!-- levanto-arte 1.16 -->
-    <!-- </div>   This </div> tag is invalid - Ian Fisher -->
+    </div>
     <!-- levanto-arte 1 -->
     <pb n="97"/>
     <div xml:id="levanto-arte2">
@@ -2268,7 +2268,7 @@
    <lb/>
    </orig>
 
-   <reg type = “spanish”>
+   <reg type = "spanish">
    Hijo mío muy amado ya recibiste el Santo Sacramen
    <lb/>
    to, del sagrado cuerpo de Nuestro Señor Jesucristo, y el Santo
