@@ -10,7 +10,7 @@
     <pb n="3"/>
     </div>
     <!--levanto-arte Title-->
-    <div xml:id= "levanto-arte1">
+    <!-- <div xml:id= "levanto-arte1">  NEEDS CLOSING TAG -->
     <head type= "outline"> De las Partes de la Oracion </head>
     (De las Partes de la Oracion.)
     <lb/>
@@ -2096,9 +2096,9 @@
     <lb/>
     Christo, asi como esta en el cielo?
     <lb/>
-    <foreign xml:lang="zap">Huarieelijlachilo quitoobi lachilo ni laani S.ta
+    <foreign xml:lang="zap">Huarieelijlachilo quitoobi lachilo ni laani S.ta </foreign>
     <lb/>
-    nayoonaxij huaribeezani rpellalaati Be-
+    hostia <foreign xml:lang="zap"> nayoonaxij huaribeezani rpellalaati Be-
     <lb/>
     suannana Jesu Christo cica ribeezani laani que-
     <lb/>
@@ -2126,7 +2126,11 @@
     <lb/>
     tros pecados, y nos da la gloria?
     <lb/>
-    <foreign xml:lang="zap">Huarieelijlachilo, roonnijti cooni tonoo Bitoo Dios tolla
+    <foreign xml:lang="zap">Huarieelijlachilo, niloo Xiñaana S.ta Yglesia nij-
+    <lb/>
+    axtenni quella rinobaaniza chela Zeechag. eestos </foreign>
+    <lb/>
+    Sacramentos, <foreign xml:lang="zap"> roonnijti cooni tonoo Bitoo Dios tolla
     <lb/>
     xtennina, rezaala chini tonoo quella gloria?</foreign>
     <lb/>
@@ -2226,45 +2230,87 @@
     </foreign>
 
     <pb n="106"/>
-    Hijo mio muy amado yo recivistes el S.to Sacramen
+    <choice>
+    <orig>
+    Hijo mio muy amado ya recivistes el S.to Sacramen
     <lb/>
     to, del sagrado cuerpo de N.tro S.r Jesu Christo, y el s.to
     <lb/>
-    Sacramento de la Extrema. Uncion; porq.e assi fuela
+    Sacramento de la <foreign xml:lang="lat">Extrema Uncion</foreign>; porq.e assi fuela
     <lb/>
-    la voluntad de Dios. Ofrecele tu vida cuero y alma 
-    <lb/>
-    porq.e te crio, porq.e murio en el arbo de la Cruz, y en
-    <lb/>
-    [illegible] Tambien haras actos de fe, Esperan
-    <lb/>
-    za, y Caridad, por.que estas muy obligado. Por el ton
-    <lb/>
-    to creera con todo tu corazon, en el Misterio de la
-    <lb/>
-    SS.a Trinidad, q.e es Dios Padre, Dios Hijo, u Dios Spi
-    <lb/>
-    riti S.to tres personas y un solo Dios verdad ero
-    <lb/>
-    tambien creeras en todos tos Misterios de la fe, es
-    <lb/>
-    peranza en Dios q.e te perdonaras tus pecados, porq.e es
-    <lb/>
-    tu Padre, y perdona todo [illegible] el q.e le pide pendon con to
-    <lb/>
-    do su corazon. Amaras con todo tu corazon, y toda
-    <lb/>
-    tu alma, a Dios N.tro S.a q.e te caio porq.e le si[illegible]
-    <lb/>
-    en el mundo y despues te vieras en el Cielo, u allile
-    <lb/>
-    a la baras juntamente con los Angeles eternamente.
+    la voluntad de Dios. Ofrecele tu vida, cuerpo y alma 
+   <lb/>
+   porq.e te crio, porq.e murio en el arbol de la Cruz, y en
+   <lb/>
+   ella te redi[mio.] Tambien haras actos de fe, Esperan
+   <lb/>
+   za, y Caridad, por.que assi estas muy obligado. Por el tan
+   <lb/>
+   to creeras con todo tu corazon, en el Misterio de la
+   <lb/>
+   SS.a Trinidad, q.e es Dios Padre, Dios Hijo, y Dios Spi
+   <lb/>
+   ritu S.to tres personas y un solo Dios verdadero
+   <lb/>
+   tambien creeras en todos los Misterios de la fe, es
+   <lb/>
+   peranza en Dios q.e te perdonara tus pecados, porq.e es
+   <lb/>
+   tu Padre, y perdona todos el q.e le pide perdon con to
+   <lb/>
+   do su corazon. Amaras con todo tu corazon, y toda
+   <lb/>
+   tu alma, a Dios N.tro S.r q.e te creó porq.e le sir[viras]
+   <lb/>
+   en el mundo y despues te vieras en el Cielo, y alli le
+   <lb/>
+   alabaras juntamente con los Angeles eternamente.
+   <lb/>
+   </orig>
+
+   <reg type = “spanish”>
+   Hijo mío muy amado ya recibiste el Santo Sacramen
+   <lb/>
+   to, del sagrado cuerpo de Nuestro Señor Jesucristo, y el Santo
+   <lb/>
+   Sacramento de la <foreign xml:lang="lat">Extrema Uncion</foreign>; porque así fue la
+   <lb/>
+   la voluntad de Dios. Ofrecele tu vida, cuerpo y alma
+   <lb/> 
+   porque te crió, porque murió en el árbol de la Cruz, y en
+   <lb/>
+   ella te redi[mió.] También harás actos de fe, Esperan
+   <lb/>
+   za, y Caridad, porque así estás muy obligado. Por el tan
+   <lb/>
+   to creerás con todo tu corazón, en el Misterio de la
+   <lb/>
+   SS.a Trinidad, que es Dios Padre, Dios Hijo, y Dios Espí
+   <lb/>
+   ritu Santo tres personas y un solo Dios verdadero
+   <lb/>
+   también creerás en todos los Misterios de la fe, es
+   <lb/>
+   peranza en Dios que te perdonará tus pecados, porque es
+   <lb/>
+   tu Padre, y perdona todos el que le pide perdon con to
+   <lb/>
+   do su corazón. Amarás con todo tu corazón, y toda
+   <lb/>
+   tu alma, a Dios Nuestro Señor que te creó porque le sirvirá
+   <lb/>
+   en el mundo y después te verás en el Cielo, y allí le
+   <lb/>
+   alabarás juntamente con los Ángeles eternamente.
+   </reg>
+   </choice>
+
     <lb/>
     <foreign xml:lang="zap">Xinni xtennia nachijteete baacoxijlo S.to Sacra
     <lb/>
     mento xpellalaati yoonani Bejuanna Jesu Christo
     <lb/>
-    chela s.to Sacramento ni laa Extrema Uncion niax
+    chela s.to Sacramento ni laa <foreign xml:lang="lat">Extrema Uncion</foreign> niax
     <lb/>
     tenni cicarij cocani quella cocalaachi xtenni Dios
     <lb/>
@@ -2278,7 +2324,7 @@
     <lb/>
     pezaani looy, chela cootini loo Yaaga Cruz chela loo
     <lb/>
-    laacani pezillaani looy. Huanee Chelijlachilo qui
+    laacani pezillaani looy. Huañee Chelijlachilo qui
     <lb/>
     toobi lachilo loo quellarieelijlachi xtenni Dios
     <lb/>
