@@ -5,10 +5,20 @@ import os
 import argparse
 from collections import namedtuple
 
+known_namespaces = ['','http://www.tei-c.org/ns/1.0']
 
-def xml_to_outline(data):
+def tag_eq(tag,tagname):
+    return any(tag == '{%s}%s' % (ns,tagname) for ns in known_namespaces)
+
+def find_attr(attrs,attrname):
+    for key in attrs:
+        #are we expecting that keys do or don't have namespace prefix?
+        if any(key == '{%s}%s' % (ns,attrname) for ns in known_namespaces):
+            return attrs[key]
+
+def xml_to_outline(data,text_name):
     """Given XML data as a string, return an HTML outline."""
-    target = OutlineBuilder()
+    target = OutlineBuilder(text=text_name)
     parser = ET.XMLParser(target=target)
     parser.feed(data)
     root = target.close()
@@ -22,7 +32,7 @@ Section = namedtuple('Section', ['number', 'title', 'page'])
 class OutlineBuilder(ET.TreeBuilder):
     url = '/en/texts/{0.text}/{0.in_progress.page}/original'
 
-    def __init__(self, *args, text='levanto', first_page=0, **kwargs):
+    def __init__(self, *args, text = 'levanto', first_page=0, **kwargs):
         super().__init__(*args, **kwargs)
         self.text = text
         self.page = first_page
@@ -34,9 +44,9 @@ class OutlineBuilder(ET.TreeBuilder):
         super().start('ul')
 
     def start(self, tag, attrs):
-        if tag == 'pb' and attrs.get('type') != 'pdf':
+        if tag_eq(tag,'pb') and find_attr(attrs,'type') != 'pdf':
             self.page += 1
-        elif tag == 'div':
+        elif tag_eq(tag,'div'):
             for key, value in attrs.items():
                 if key.endswith('id') and value.startswith(self.text):
                     number = value[len(self.text):].split('.')
@@ -44,7 +54,7 @@ class OutlineBuilder(ET.TreeBuilder):
                     self.write_section()
                     self.in_progress = Section(number, '', str(self.page))
                     break
-        elif tag == 'head' and attrs.get('type') == 'outline':
+        elif tag_eq(tag, 'head') and find_attr(attrs,'type') == 'outline':
             self.get_title = True
 
     def end(self, tag):
@@ -91,9 +101,10 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('infile', help='XML file to read from')
     parser.add_argument('outfile', nargs='?', help='file to write outline to')
+    parser.add_argument('text_name', help='short name of text, i.e. "levanto-arte".')
     args = parser.parse_args()
     outfile = args.outfile or (os.path.splitext(args.infile)[0] + '_outline.html')
     with open(args.infile, 'r', encoding='utf-8') as ifsock:
-        data = xml_to_outline(ifsock.read())
+        data = xml_to_outline(ifsock.read(),text_name=args.text_name)
     with open(outfile, 'w', encoding='utf-8') as ofsock:
         ofsock.write(data)
