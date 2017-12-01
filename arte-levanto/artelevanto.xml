@@ -2159,9 +2159,12 @@
     <lb/>
     razon; mas por tu palabra, puedes perdonar to-
     <lb/>
-    dos mis pecados, y suntamente mi alma se volvera'
+    dos mis pecados, y juntamente mi alma se volverá
     <lb/>
-    buena. O' S.r Dios!
+    buena.
+     <choice> <orig>O'</orig><reg type="spanish">¡O</reg>
+    </choice> <choice> <orig>S.r</orig><reg type="spanish">Señor</reg>
+    </choice> Dios!
     <lb/>
 
     <foreign xml:lang="zap"> 
@@ -2171,7 +2174,7 @@
     <lb/>
     Choo chaazilo lanni lachitoya cani xtichayo'o
     <lb/>
-    bilo zannija loolo quixaa xtollaya, huañee (?)
+    bilo zannija loolo quiraa xtollaya, huañee
     <lb/>
     queacachahui anima xtennia. HaChaana Dios he! 
     <lb/>
@@ -2180,25 +2183,34 @@
     <!-- levanto-arte 3.2 -->
     <div xml:id="levanto-arte3.3">
     <head type="outline">Para la Extrema Uncion</head>
-    <head>Para la <foreign xml:lang="lat"> Extrema Uncion</foreign></head>
+    <head>Para la  Extrema <choice> <orig> Uncion </orig><reg type="spanish">Unción</reg> </choice></head>
     <lb/>
-    Hijo otro sacramente te falta q.e recivir q.e es la
+    Hijo otro sacramente te falta <choice> <orig> q.e </orig><reg type="spanish">que</reg>
+    </choice> <choice> <orig> recivir </orig><reg type="spanish">recibir</reg>
+    </choice> <choice> <orig> q.e </orig><reg type="spanish">que</reg>
+    </choice> es la
     <lb/>
-    <foreign xml:lang="lat">Extrema Uncion</foreign>; este Sacramento perdona qual-
+   Extrema <choice> <orig> Uncion </orig><reg type="spanish">Unción</reg>
+    </choice>; este Sacramento perdona qual-
     <lb/>
-    quiera pecado q.e haya quedado en el alma, des-
+    quiera pecado <choice> <orig> q.e </orig><reg type="spanish">que</reg>
+    </choice> haya quedado en el alma, <choice> <orig>des-
     <lb/>
-    pues de haverse confesado bien: tambien dasalud
+    pues</orig> <reg type="spanish">después</reg></choice> de <choice> <orig>haverse</orig> <reg type="spanish">haberse</reg></choice> confesado bien: <choice> <orig> tambien </orig><reg type="spanish">también</reg>
+    </choice> da salud
     <lb/>
     al cuerpo, si es voluntad de Dios.
     <lb/>
 
     <foreign xml:lang="zap">
-    Xinni zeetoobi S.to Sacramento rinity looyni-
+    Xinni zeetoobi <choice> <orig> S.to </orig><reg type="spanish">Santo</reg>
+    </choice> Sacramento xinitij looyni-
     <lb/>
     zijlo, ninaca xtenni quella rocaabeea Bixooze
     <lb/>
-    Coolaaya, nilaa </foreign> <foreign xml:lang="lat">Extrema Uncion</foreign>, S.to Sacra-
+    Coolaaya, nilaa </foreign> Extrema <choice> <orig> Uncion </orig><reg type="spanish">Unción</reg>
+    </choice></head>, <choice> <orig> S.to </orig><reg type="spanish">Santo</reg>
+    </choice> Sacra-
     <lb/>
     mento <foreign xml:lang="zap"> nij Ronnijtilooni xijtilatoolla nipeaa
     <lb/>
@@ -2212,11 +2224,11 @@
     <lb/>
     </foreign>
 
-    O'Hijos mios: orad, llamado Dios N.tro S.r para q.e ayu-
+    O' Hijos mios: orad, llamado Dios <choice> <orig>N.tro S.r </orig><reg type="spanish">Nuestro Señor</reg></choice> para <choice> <orig> q.e </orig><reg type="spanish">que</reg> </choice> ayu-
     <lb/>
-    de, y tenga misericordia de este enfermo, leperdone
+    de, y tenga misericordia de este enfermo, le perdone
     <lb/>
-    suspecados, y ledelagloria.
+    sus pecados, y le de la gloria.
     <lb/>
 
     <foreign xml:lang="zap">
@@ -2332,45 +2344,45 @@
     <lb/>
     Bitoo Dios niaxtenni cicarij huanozaabiteetelo </foreign>
     <pb n="107"/>
-    <foreign xml:lang="zap">Laniaacani cheelijlachilo quitoobi lachilo</foreign> los elli?
+    <foreign xml:lang="zap">Laniaacani cheelijlachilo quitoobi lachilo</foreign> los Mis-
     <lb/>
-    Serio? Senni VS. Trinidad <foreign xml:lang="zap">ninaca Dios Bixooze</foreign>
+    terios xtenni <choice> <orig> SS.a </orig><reg type="spanish">Santísima</reg> </choice>Trinidad <foreign xml:lang="zap">ninaca Dios Bixooze</foreign>
     <lb/> 
-    Dios <foreign xml:lang="zap">xinni Dios piaibi. Coonna persona canizoo 
+    Dios <foreign xml:lang="zap">xinni Dios <choice> <orig> Spiritu S.to </orig><reg type="spanish">Espíritu Santo</reg> </choice> Coonna persona canitoo 
     <lb/>
-    Biey Dios hualijca Bizoo Huañee cheelijlachilo que-
+    bicij Dios hualijca Bitoo Huañee cheelijlachilo que-
     <lb/>
-    Naac Mizexios xenni quella xieely lachi Bizoo</foreign> Dios
+    naac Misterios xtenni quella xieelij lachi Bitoo</foreign> Dios
     <lb/>
-    <foreign xml:lang="zap">Cueezalachilo loo</foreign> Dios <foreign xml:lang="zap">ni conmiy coni looy quixaa
+    <foreign xml:lang="zap">Cueezalachilo loo</foreign> Dios <foreign xml:lang="zap">ni connij looni looy quiraa
     <lb/>
-    Xtollalo quella yoou? Dios naca Bixooze xemilo?
+    xtollalo quella yoovi Dios naca Bixooze xtennilo
     <lb/>
-    Chela nomioylooni? Sollaloo quixaa bemiata? ni qui
+    Chela nonnitijlooni? tollaloo quiraa benniati ni qui
     <lb/>
-    Toobi lachini ximnaaba quella huennij tiloo yaoui</foreign>
+    toobi lachini xinnaaba quella huennij tiloo yoovi</foreign>
     <lb/>
-    Mi Dios <foreign xml:lang="zap">Canaachij quitoobi lachi quitoobi anioma?
+    Mi Dios <foreign xml:lang="zap">Canaachij quitoobi lachi quitoobi anima
     <lb/>
-    Xremilo lo Beruamana</foreign> Dios <foreign xml:lang="zap">nipezani looynij
+    xtennilo lo Besuannana</foreign> Dios <foreign xml:lang="zap">nipezani looynij
     <lb/>
-     Ani comichij nalo xeminiloo guechelayoo, Chela
+    ani connichij ñalo xtenniniloo guechelayoo, Chela
     <lb/>
-     Hualoxi cammalo yoo bini lanni guiebaa Chela xoa
+    hualoxi cannalo yoo bini lanni quiebaa Chela roa
     <lb/>
-     Cani gumijciroolo? Zoobini</foreign> Dios <foreign xml:lang="zap">ñee V.
+     cani quinnijcixoolo Yoobini</foreign> Dios <foreign xml:lang="zap">ñee </foreign>S.tos Angeles
     <lb/>
-    Zalijpe.</foreign>
+    <foreign xml:lang="zap">Zelijpe.</foreign>
     <lb/>
     </div>
     <!-- levanto-arte 3.3 -->
     <div xml:id="levanto-arte3.4">
     <head type="outline">Presentacion para contraer Matrimonio</head>
-    <head>Presentacion para contraer Ma-
+    <head><choice> <orig> Presentacion </orig><reg type="spanish">Presentación</reg> </choice>para contraer Ma-
     <lb/>
     trimonio.</head>
     <lb/>
-    Llamaalos que quieren casas?
+    Llama <choice> <orig>ã</orig><reg type="spanish">a</reg></choice>a los que quieren casar
     <lb/>
     <foreign xml:lang="zap">Coxijche ni xacalachi cochaagaañani.</foreign>
     <lb/>
@@ -2378,19 +2390,23 @@
     <lb/>
     Reza _____Pella
     <lb/>
-    Huazannelo Turamenzo quieaabi richalo?quell
+    <choice> <orig>Hazes</orig><reg type="spanish">¿Haces</reg></choice> juramento de responder la verdad <choice> <orig>ã</orig><reg type="spanish">a</reg></choice> todo lo
+    <lb/>
+    <choice> <orig>q.e</orig><reg type="spanish">que</reg></choice> yo le preguntare?
+    <lb/>
+    Huazannilo Juramento quicaabi tichalo quella
     <lb/> 
-     Nalijloo quixaa iquinnaalo aya lichalooy.</foreign>
+     nalijloo quiraa niquinnaabaya tichalooy?</foreign>
      <lb/>
-     Como se llamas.____<foreign xml:lang="zap">Telaalo?
+     <choice> <orig>Como</orig><reg type="spanish">¿Como</reg></choice> te llamas?____<foreign xml:lang="zap">Tulaalo?
      <lb/>
-     Guaansos años gener. Palla ijiza huaxapalo?
+   <choice> <orig>quantos</orig><reg type="spanish">¿Cuántos</reg></choice> años tienes? Palla ijiza huaxapalo?
      <lb/>
-     C...  o vzzido?
+     <choice> <orig>Eres</orig><reg type="spanish">¿Eres</reg></choice> soltero o viudo?
      <lb/>
-     Bennicij zoobi nacalo, laabemi bizaabi?</foreign>
+     Bennicijtoobi nacalo, laabenni bizaabi?</foreign>
      <lb/>
-     De que Pueblo eres? <foreign xml:lang="zap">Caazooba gueechelo?</foreign>  Como
+     <choice> <orig>De</orig><reg type="spanish">¿De</reg></choice> <choice> <orig>q.e</orig><reg type="spanish">que</reg></choice> Pueblo eres? <foreign xml:lang="zap">Caazooba gueechelo?</foreign>  Como
 
     <pb n="108"/>
     <pb n="109"/>
