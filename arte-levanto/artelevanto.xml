@@ -2090,9 +2090,9 @@
     Bes a la Cruz ---- <foreign xml:lang="zap">Pechagaroa Cruz</foreign>
 
     <pb n="104"/>
-    Crees ?xmemente con todo tu corazon q.e en esta S.ta
+    Crees firmemente con todo tu corazon <choice> <orig>q.e</orig> <reg type="spanish">que</reg> </choice> en esta <choice> <orig>S.ta</orig> <reg type="spanish">Santa</reg> </choice>
     <lb/>
-    hostia con sagrada, esta el cuerpo de N.tro S.r Jesu 
+    hostia con sagrada, esta el cuerpo de <choice> <orig>N.tro</orig> <reg type="spanish">Nuestro</reg> </choice> <choice> <orig>S.r</orig> <reg type="spanish">Señor</reg> </choice> Jesu 
     <lb/>
     Christo, asi como esta en el cielo?
     <lb/>
@@ -2106,11 +2106,12 @@
     <lb/>
     Crees que por virtud de las palabras de la consagra-
     <lb/>
-    cion q.e dice el Sacerdote (aunq.e sea malo) se convier-
+    cion <choice> <orig>q.e</orig> <reg type="spanish">que</reg> </choice> dice el Sacerdote (<choice> <orig>aunq.e</orig> <reg type="spanish">aunque</reg> </choice> sea malo) se convier-
     <lb/>
-    te el pan en el cuerpo de N.tro S.r Jesu Christo, y el
+    te el pan en el cuerpo de <choice> <orig>N.tro</orig> <reg type="spanish">Nuestro</reg> </choice> <choice> <orig>S.r</orig> <reg type="spanish">Señor</reg> </choice>
+ Jesu Christo, y el
     <lb/>
-    vino en su sangre SS.a?
+    vino en su sangre <choice> <orig>SS.a</orig> <reg type="spanish">Santisima</reg> </choice>?
     <lb/>
     <foreign xml:lang="zap">Huarieelijlachilo, ni niaxtenni quella nazaaca
     <lb/>
@@ -2120,7 +2121,8 @@
     <lb/>
     la xibijxi reaacani loo xinni nayoona xtennini?</foreign>
     <lb/>
-    Crees que en N.tra S.ta Madre Yglesia, por el Bautis-
+    Crees que en <choice> <orig>N.tra</orig> <reg type="spanish">Nuestra</reg> </choice> <choice> <orig>S.ta</orig> <reg type="spanish">Santa</reg> </choice>
+ Madre Yglesia, por el Bautis-
     <lb/>
     mo y los otros Sacramentos, nos perdona Dios nues-
     <lb/>
@@ -2144,7 +2146,8 @@
     <lb/>
     <foreign xml:lang="zap">Hualijca Ronnti looya.</foreign>
     <lb/>
-    Pides perdon ã todos los q.e ofendistes?
+    Pides perdon <choice> <orig>ã</orig> <reg type="spanish">á</reg> </choice>
+ todos los <choice> <orig>q.e</orig> <reg type="spanish">que</reg> </choice> ofendistes?
     <lb/>
     <foreign xml:lang="zap">Huaninnaabalo quella huennij tiloo, loo quiraa
     <lb/>
