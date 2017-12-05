@@ -2470,74 +2470,73 @@
     xijche cotoobi testigo. </foreign>
     <pb n="109"/>
     <div xml:id="levanto-arte3.4.1">
-    <head type="outline">Interrogatorio a los testigos</head>
-    Ynterrogatoio ã los testigos
+    <head type= "outline"> <choice> <orig>Ynterrogatorio</orig> <reg type="spanish">Interrogatorio</reg> </choice> <choice> <orig>ã</orig> <reg type="spanish">á</reg> </choice> los testigos </head>
     <lb/>
-    Haces jurtamento de respnoder la verdad, ã todo lo
+    Haces jurtamento de respnoder la verdad, <choice> <orig>ã</orig> <reg type="spanish">á</reg> </choice> todo lo
     <lb/>
-    q.e te preguntare?
+    <choice> <orig>q.e</orig> <reg type="spanish">que</reg> </choice> te preguntare?
     <lb/>
-    Huaxonnilo juramento quicaabilo ticha quella na-
+    <foreign xml:lang="zap"> Huaxonnilo juramento quicaabilo ticha quella na-
     <lb/>
-    lijloo quiraa ni quinnaaba tichaya looy?
+    lijloo quiraa ni quinnaaba tichaya looy? </foreign>
     <lb/>
-    Conoces ã estos q.e se quieren casar?
+    Conoces <choice> <orig>ã</orig> <reg type="spanish">á</reg> </choice> estos <choice> <orig>q.e</orig> <reg type="spanish">que</reg> </choice> se quieren casar?
     <lb/>
-    Huaraca pecalonnij niracalachi gochaagaanaani?
+    <foreign xml:lang="zap"> Huaraca pecalonnij niracalachi gochaagaanaani? </foreign>
     <lb/>
     Saves si se quieren casar con todo su corazon?
     <lb/>
-    Huannanalo tebela naca lachi cochaagañaani-
+    <foreign xml:lang="zap"> Huannanalo tebela naca lachi cochaagañaani-
     <lb/>
-    quitoobi lachi tooni
+    quitoobi lachi tooni </foreign>
     <lb/>
     Saves si alguno les ha hecho fuerza para q.e se casen?
     <lb/>
-    Huannaanalo tebela tutila pennini niqueequella
+    <foreign xml:lang="zap"> Huannaanalo tebela tutila pennini niqueequella
     <lb/>
-    natijpa, nijani cochaagañaani?
+    natijpa, nijani cochaagañaani? </foreign>
     <lb/>
     Saves óhas oido decir en el Pueblo, si este hombre
     <lb/>
-    dió palabarse casamiento ã otra muger, ó esta muger
+    dió palabarse casamiento <choice> <orig>ã</orig> <reg type="spanish">á</reg> </choice> otra <choice> <orig>muger</orig> <reg type="spanish">mujer</reg> </choice>, ó esta <choice> <orig>muger</orig> <reg type="spanish">mujer</reg> </choice>
     <lb/>
-    ã ortro hombre?
+    <choice> <orig>ã</orig> <reg type="spanish">á</reg> </choice> ortro hombre?
     <lb/>
-    Huannaanalo laa piñatiagolo loo gueche tebela
+    <foreign xml:lang="zap"> Huannaanalo laa piñatiagolo loo gueche tebela
     <lb/>
     benniniguijorij peteeteni ticha quellahuechaagañaa
     <lb/>
     loo zeetobi bennigonnaa; laa bennigonnaarij peteeti-
     <lb/>
-    ni ticha quella hueechaagañaa zeetoobi benniniguijo?
+    ni ticha quella hueechaagañaa zeetoobi benniniguijo? </foreign>
     <lb/>
     Saves vi son parientes?
     <lb/>
-    Huannanalo tebela nacani stijani?
+    <foreign xml:lang="zap"> Huannanalo tebela nacani stijani? </foreign>
     <lb/>
-    Saves si este hombre pecó, con algun parente de a
+    Saves si este hombre pecó, con alguna pariente de esta
     <lb/>
-    muger, ó si esta muger pecó con algun pariente de este
+    <choice> <orig>muger</orig> <reg type="spanish">mujer</reg> </choice>, ó si esta <choice> <orig>muger</orig> <reg type="spanish">mujer</reg> </choice> pecó con algun pariente de este
     <lb/>
     hombre?
     <lb/>
-    Huannanalo tebela benni niguijorij perij huiñeenitutila
+    <foreign xml:lang="zap"> Huannanalo tebela benni niguijorij perij huiñeenitutila
     <lb/>
     bennigonnã niraca xtijani gonnaarij; laagonnãrij
     <lb/>
     peahañeeni tolla, tuti benniguijo, ninaca xtijanibenni
     <lb/>
-    niguijonij?
+    niguijonij? </foreign>
     <lb/>
-    Saves si este hombre dio palabra de casamiento ã es-
+    Saves si este hombre dio palabra de casamiento <choice> <orig>ã</orig> <reg type="spanish">á</reg> </choice> es-
     <lb/>
-    ta muger, quando vivia su consorte?
+    ta <choice> <orig>muger</orig> <reg type="spanish">mujer</reg> </choice>, quando vivia su consorte?
     <lb/>
-    Huannanalo tebela bennijijonij peeteeteni ticha-
+    <foreign xml:lang="zap"> Huannanalo tebela bennijijonij peeteeteni ticha-
     <lb/>
     quella huechaagañaagonnarij chijconij nabaanini
     <lb/>
-    Leihenani?
+    Leihenani? </foreign>
     </div>
     <!-- levanto-arte 3.4.1 -->
     </div>
