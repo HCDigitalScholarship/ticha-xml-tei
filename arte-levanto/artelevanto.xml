@@ -999,10 +999,106 @@
     <!--levanto-arte 1.3.2.22-->
     </div>
     <!-- levanto-arte 1.3.2 -->
+    <div xml:id='levanto-arte1.3.3'>
+    <head type= 'outline'>Tercera Conjuga.n Ri, Co, Quivella</head>
     <pb n="35"/>
+    <div xml:id='levanto-arte1.3.3.1'>
+    <head type= 'outline'>Presente de Yndicativo</head>
+</div>
+<!--levanto-arte 1.3.3.1-->
+    <div xml:id='levanto-arte1.3.3.2'>
+    <head type= 'outline'>Preterito Perfecto</head>
+    <div xml:id='levanto-arte1.3.3.2.1'>
+    <head type= 'outline'>[Primer Preterito]</head>
+</div>
+<!--levanto-arte 1.3.3.2.1-->
+<div xml:id='levanto-arte1.3.3.2.2'>
+    <head type= 'outline'>Segundo Preterito</head>
+</div>
+<!--levanto-arte 1.3.3.2.2-->
+<div xml:id='levanto-arte1.3.3.2.3'>
+    <head type= 'outline'>Tercer Preterito</head>
+</div>
+<!--levanto-arte 1.3.3.2.3-->
+</div>
+<!--levanto-arte 1.3.3.2-->
+<div xml:id='levanto-arte1.3.3.3'>
+    <head type= 'outline'>Futuro Imperfecto</head>
     <pb n="36"/>
+    </div>
+<!--levanto-arte 1.3.3.3-->
+<div xml:id='levanto-arte1.3.3.4'>
+    <head type= 'outline'>Ymperativo</head>
+</div>
+<!--levanto-arte 1.3.3.4-->
+<div xml:id='levanto-arte1.3.3.5'>
+    <head type= 'outline'>[Presente]</head>
+    <div xml:id='levanto-arte1.3.3.5.1'>
+    <head type= 'outline'>Presente de Subjunctivo</head>
+</div>
+<!--levanto-arte 1.3.3.5.1-->
+<div xml:id='levanto-arte1.3.3.5.2'>
+    <head type= 'outline'>Presente de Oblativo</head>
+</div>
+<!--levanto-arte 1.3.3.5.2-->
+</div>
+<!--levanto-arte 1.3.3.5-->
+<div xml:id='levanto-arte1.3.3.6'>
+    <head type= 'outline'>[Preterito Ymperfecto]</head>
+	<div xml:id='levanto-arte1.3.3.6.1'>
+    <head type= 'outline'>Preterito Ymperfecto de Subjunctivo</head>
+</div>
+<!--levanto-arte 1.3.3.6.1-->
+    <div xml:id='levanto-arte1.3.3.6.2'>
+    <head type= 'outline'>Preterito imperfecto de Obtativo</head>
+</div>
+<!--levanto-arte 1.3.3.6.2-->
+<!--levanto-arte 1.3.3.6-->
+<div xml:id='levanto-arte1.3.3.7'>
+    <head type= 'outline'>Ynfinitivo</head>
+    <!--levanto-arte 1.3.3.7-->
+</div>
+   <div xml:id='levanto-arte1.3.3.8'>
+    <head type= 'outline'>Preterito imperfecto y Plusquam perfecto</head>
+</div>
+    <!--levanto-arte 1.3.3.8-->
+    <div xml:id='levanto-arte1.3.3.9'>
+    <head type= 'outline'>[Gerundios]</head>
+    <div xml:id='levanto-arte1.3.3.9.1'>
+    <head type= 'outline'>Gerundio de genetivo</head>
+</div>
+    <!--levanto-arte 1.3.3.9.1-->
+    <div xml:id='levanto-arte1.3.3.9.2'>
+    <head type= 'outline'>Gerundio de Acusativo</head>
     <pb n="37"/>
+</div>
+<!--levanto-arte 1.3.3.9.2-->
+<div xml:id='levanto-arte1.3.3.9.3'>
+    <head type= 'outline'>Gerundio de Ablativo</head>
+</div>
+<!--levanto-arte 1.3.3.9.3-->
+</div>
+<!--levanto-arte 1.3.3.9-->
+<div xml:id='levanto-arte1.3.3.10'>
+    <head type= 'outline'>[Participios]</head>
+    <div xml:id='levanto-arte1.3.3.10.1'>
+    <head type= 'outline'>Participio de Presente</head>
+</div>
+<!--levanto-arte 1.3.3.10.1-->
+<div xml:id='levanto-arte1.3.3.10.2'>
+    <head type= 'outline'>Participio de Preterito</head>
+</div>
+<!--levanto-arte 1.3.3.10.2-->
+<div xml:id='levanto-arte1.3.3.10.3'>
+    <head type= 'outline'>Participio de futuro en Rus</head>
+</div>
+<!--levanto-arte 1.3.3.10.3-->
+<div xml:id='levanto-arte1.3.3.10.4'>
+    <head type= 'outline'>Participio de futuro en Dus</head>
     <pb n="38"/>
+</div>
+<!--levanto-arte 1.3.3.10.4-->
+<!--levanto-arte 1.3.3.10-->
     <pb n="39"/>
     <pb n="40"/>
     <pb n="41"/>
@@ -1927,63 +2023,63 @@
     <head type="outline">Para la Sagrada Eucristiao Viatico</head>
     <head>Para la Sagrada Eucristiao Viatico.</head>
     <lb/>
-    Hijo ya se confesarlos.2 tienes algunos pecados de <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
+    <choice><orig>Hijo</orig><reg type="spanish">¿Hijo</reg></choice> ya te confesastes? tienes algunos pecados de <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
     <lb/>
     reconciliante?
     <lb/>
     <foreign xml:lang="zap">
-    Xinni; baa pezoaba stollalo? Huazapalo xijtilato
+    Xinni; baa pezooba stollalo? Huarapalo xijtilato-
     <lb/>
     olla, ni huanozaabi cozooba xtolla zaacalo?
     </foreign>
     <lb/>
-    Salios fuera, para <choice><orig>q.e</orig><reg type="spanish">que</reg></choice> reconfiere este enfermo
+    Salios fuera, para <choice><orig>q.e</orig><reg type="spanish">que</reg></choice> se confiese este enfermo
     <lb/>
     <foreign xml:lang="zap">
-    Colachee xyche, nijani coxooba oxtollani bemni quicherÿ.
+    Colachee xijche, nijani coxooba oxtollani benni quicherij.
     </foreign>
     <lb/>
-    Hijo todo Christiano esta muy obligado a^ conferarla é
+    Hijo todo Christiano <choice><orig>esta</orig><reg type="spanish">está</reg></choice> muy obligado <choice><orig>ã</orig><reg type="spanish">a</reg></choice> confesar lo e
     <lb/>
-    de Dios <choice><orig>q.e</orig><reg type="spanish">que</reg></choice> recivio en el Bautismo, quando llegue la ho-
+    de Dios <choice><orig>q.e</orig><reg type="spanish">que</reg></choice> <choice><orig>recivio</orig><reg type="spanish">recibio</reg></choice> en el Bautismo, quando llegue la ho-
     <lb/>
     ra de su muerte.
     <lb/>
     <foreign xml:lang="zap">
-    Xinni quiraalÿveni Christiano hua nozaabiseete cu
+    Xinni quiraalijbeni Christiano hua nozaabiteete cu-
     <lb/>
-    va pilijlachini, guella ricelijlachini xdenni Dios co
+    va pilijlachini, quella ricelijlachini xtenni Dios co-
     <lb/>
-    xijini loo gucilo xino Laniza, Chij callapea guella co
+    xijini loo gucilo rirobaniza, Chij callapea quella co-
     <lb/>
     bi xtennini.
     <lb/>
     </foreign>
-    Por tanto crees en el misterio de la <choice><orig>SS.a</orig><reg type="spanish">Santisima</reg></choice> Trinidad
+    <choice><orig>Por</orig><reg type="spanish">¿Por</reg></choice> tanto crees en el misterio de la <choice><orig>SS.a</orig><reg type="spanish">Santisima</reg></choice> Trinidad
     <lb/>
-    q.e es Dios Padre, <choice><orig>DS</orig><reg type="spanish">Dios</reg></choice> Hijo, y <choice><orig>DS</orig><reg type="spanish">Dios</reg></choice> epirtus <choice><orig>S.to</orig><reg type="spanish">Santo</reg></choice> juntos _
+    <choice><orig>q.e</orig><reg type="spanish">que</reg></choice> es Dios Padre, <choice><orig>DS</orig><reg type="spanish">Dios</reg></choice> Hijo, y <choice><orig>DS</orig><reg type="spanish">Dios</reg></choice> <choice><orig>espiritu</orig><reg type="spanish">espíritu</reg></choice> <choice><orig>S.to</orig><reg type="spanish">Santo</reg></choice> juntos
     <lb/>
     Dios verdadero, Criador del cielo y de la tierra?
     <lb/>
     <foreign xml:lang="zap">
-    Faaniaacani Huaxieelijlachilo, lo misterio xtenni
+    Laaniaacani Huaxieelijlachilo, lo misterio xtenni
     <lb/>
-    <choice><orig>SS.a</orig><reg type="spanish">Santisima</reg></choice> Trinidad, ni naca Dios Bixooce, Dios Xinni_
+    <choice><orig>SS.a</orig><reg type="spanish">Santisima</reg></choice> Trinidad, ni naca Dios Bixooce, Dios Xinni
     <lb/>
-    chela Dios Espiritu <choice><orig>S.to</orig><reg type="spanish">Santo</reg></choice> , Choona persona, cani toobicy
+    chela Dios Espiritu <choice><orig>S.to</orig><reg type="spanish">Santo</reg></choice> , Choona persona, cani toobicij
     <lb/>
-    Dios Hualijca Bitoo, ni pezzaani Quiceba, ni pezaani
+    Dios Hualijca Bitoo, ni pezaani quieeba, ni pezaani
     <lb/>
-    laijoo?
+    layoo?
     <lb/>
     </foreign>
-    Crees <choice><orig>q.e</orig><reg type="spanish">que</reg></choice> <choice><orig>N.to Sr</orig><reg type="spanish">Nuestra Senor</reg></choice>  Jesu Christo se hizo hombre por
+    <choice><orig>Crees</orig><reg type="spanish">¿Crees</reg></choice> <choice><orig>q.e</orig><reg type="spanish">que</reg></choice> <choice><orig>N.tro Sr</orig><reg type="spanish">Nuestro Señor</reg></choice>  Jesu Christo se hizo hombre por
     <lb/>
-    abra del Spiritu <choice><orig>S.to</orig><reg type="spanish">Santo</reg></choice> en el vientre <choice><orig>S.so</orig><reg type="spanish">Santisimo</reg></choice> del <choice><orig>N.tra</orig><reg type="spanish">Nuestra</reg></choice> Señora 
+    obra del <choice><orig>Spiritu</orig><reg type="spanish">Espíritu</reg> <choice><orig>S.to</orig><reg type="spanish">Santo</reg></choice> en el vientre <choice><orig>SS.o</orig><reg type="spanish">Santisimo</reg></choice> <choice><orig>del</orig><reg type="spanish">de</reg> <choice><orig>N.tra</orig><reg type="spanish">Nuestra</reg></choice> Señora 
     <lb/>
-    la Virgen Maria, y nacio de ella, siendo ella Virgen
+    la Virgen Maria, y <choice><orig>nacio</orig><reg type="spanish">nació</reg></choice> de ella, siendo ella Virgen
     <lb/>
-    antes del parto en el parto, y despues del parto?
+    antes del parto en el parto, y <choice><orig>despues</orig><reg type="spanish">después</reg></choice> del parto?
     <lb/>
     <foreign xml:lang="zap">
     Huanicalij’lachilo, ni Bejuaannana JesuCristo
@@ -1996,9 +2092,11 @@
     <lb/>
     Maria huanaca yoohini Caap a cocooni yoona en
     <lb/>
-    Hua      , quella xizaana, loo quella xizaana, echelo
+    Hua, quella xizaana, loo quella xizaana, echelo
     <lb/>
-    Hualoxi quella xizaana.      x Creer(?)
+    Hualoxi quella xizaana. 
+    <lb/>      
+    Cree
     </foreign>
 
     <pb n="103"/>
@@ -2418,17 +2516,17 @@
     <lb/>
     Como se llamaba tu Esposa Difunta?
     <lb/>
-    <foreign xml:lang="zap"> Chuulaani lecheelalo ni cootini? </foreign>
+    <foreign xml:lang="zap"> Chuulaani lecheelalo ni cotini? </foreign>
     <lb/>
     Te quieres casar con N. con todo tu corazon y alma?
     <lb/>
-    <foreign xml:lang="zap"> Racalachi gochaagañaalo loo N. quitoobi lachi qui-
+    <foreign xml:lang="zap"> Racalachi gochaagañaalo loo N. quitoobi lachi qui
     <lb/>
     toobi anima xtennilo? </foreign>
     <lb/>
     Te hacen fuerza tus Padres, ó alguna otra perso-
     <lb/>
-    na para que le cases?
+    na para que te cases?
     <lb/>
     <foreign xml:lang="zap"> Huaronnini quella natijpa looy xtaata xnaanalo
     <lb/>
@@ -2453,13 +2551,13 @@
     <lb/>
     Has pecado con alguna Parienta de esta <choice><orig>muger</orig> <reg type="spanish">mujer</reg> </choice> -
     <lb/>
-    (Pariente de este hombre) con que te quieres casar?
+    (Pariente de este hombre) con quien te quieres casar?
     <lb/>
     <foreign xml:lang="zap"> Pexijhuineelo tulila bennigonnaa (benniniguio?)
     <lb/>
     ni raca xtijani gonnarij (niguijorij ni racalachi
     <lb/>
-    Gochaagañaalo? </foreign>
+    gochaagañaalo? </foreign>
     <lb/>
     Vete con la bendicion de Dios, y llama <choice> <orig>ã</orig> <reg type="spanish">á</reg> </choice>
     <lb/>
@@ -2470,9 +2568,11 @@
     xijche cotoobi testigo. </foreign>
     <pb n="109"/>
     <div xml:id="levanto-arte3.4.1">
-    <head type= "outline"> <choice> <orig>Ynterrogatorio</orig> <reg type="spanish">Interrogatorio</reg> </choice> <choice> <orig>ã</orig> <reg type="spanish">á</reg> </choice> los testigos </head>
+    	<head type= 'outline'>Ynterragatorio ã los testigos</head>
+    <head> <choice> <orig>Ynterrogatorio</orig> <reg type="spanish">Interrogatorio</reg> </choice> <choice> <orig>ã</orig> <reg type="spanish">á</reg> </choice> los testigos </head>
+
     <lb/>
-    Haces jurtamento de respnoder la verdad, <choice> <orig>ã</orig> <reg type="spanish">á</reg> </choice> todo lo
+    Haces juramento de responder la verdad, <choice> <orig>ã</orig> <reg type="spanish">á</reg> </choice> todo lo
     <lb/>
     <choice> <orig>q.e</orig> <reg type="spanish">que</reg> </choice> te preguntare?
     <lb/>
