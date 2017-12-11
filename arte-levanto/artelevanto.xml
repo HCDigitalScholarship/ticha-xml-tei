@@ -2244,7 +2244,7 @@
     </foreign>
     <choice><orig>Crees</orig><reg type="spanish">¿Crees</reg></choice> <choice><orig>q.e</orig><reg type="spanish">que</reg></choice> <choice><orig>N.tro Sr</orig><reg type="spanish">Nuestro Señor</reg></choice>  Jesu Christo se hizo hombre por
     <lb/>
-    obra del <choice><orig>Spiritu</orig><reg type="spanish">Espíritu</reg> <choice><orig>S.to</orig><reg type="spanish">Santo</reg></choice> en el vientre <choice><orig>SS.o</orig><reg type="spanish">Santisimo</reg></choice> <choice><orig>del</orig><reg type="spanish">de</reg> <choice><orig>N.tra</orig><reg type="spanish">Nuestra</reg></choice> Señora 
+    obra del <choice><orig>Spiritu</orig><reg type="spanish">Espíritu</reg></choice> <choice><orig>S.to</orig><reg type="spanish">Santo</reg></choice> en el vientre <choice><orig>SS.o</orig><reg type="spanish">Santisimo</reg></choice> <choice><orig>del</orig><reg type="spanish">de</reg></choice> <choice><orig>N.tra</orig><reg type="spanish">Nuestra</reg></choice> Señora 
     <lb/>
     la Virgen Maria, y <choice><orig>nacio</orig><reg type="spanish">nació</reg></choice> de ella, siendo ella Virgen
     <lb/>
@@ -2736,17 +2736,9 @@
     xijche cotoobi testigo. </foreign>
     <pb n="109"/>
     <div xml:id="levanto-arte3.4.1">
-<<<<<<< HEAD
     <head type= "outline"> <choice> <orig>Ynterrogatorio</orig> <reg type="spanish">Interrogatorio</reg> </choice> <choice> <orig>ã</orig> <reg type="spanish">a</reg> </choice> los testigos </head>
     <lb/>
     <choice> <orig>Haces</orig> <reg type="spanish">¿Haces</reg> </choice> juramento de responder la verdad, <choice> <orig>ã</orig> <reg type="spanish">a</reg> </choice> todo lo
-=======
-    	<head type= 'outline'>Ynterragatorio ã los testigos</head>
-    <head> <choice> <orig>Ynterrogatorio</orig> <reg type="spanish">Interrogatorio</reg> </choice> <choice> <orig>ã</orig> <reg type="spanish">á</reg> </choice> los testigos </head>
-
-    <lb/>
-    Haces juramento de responder la verdad, <choice> <orig>ã</orig> <reg type="spanish">á</reg> </choice> todo lo
->>>>>>> 4d58210cb2c0e33ee079ff81d477c3b4178551f3
     <lb/>
     <choice> <orig>q.e</orig> <reg type="spanish">que</reg> </choice> te  <choice> <orig>preguntare</orig> <reg type="spanish">preguntaré</reg> </choice>?
     <lb/>
@@ -2946,7 +2938,7 @@ Sa-
 <reg type="spanish"> q.e no se puedan casar, avise al P.e Cura </reg>
  </choice>
 <lb/>
-<foreign xml:lang="zap"></N. benni cijtoobi xinni xtenni N. chela N. bennihua
+<foreign xml:lang="zap">N. benni cijtoobi xinni xtenni N. chela N. bennihua
 <lb/>
 lachi xtenni gueeche N. racalachi cochaagañaani
 <lb/>
@@ -3013,12 +3005,14 @@ chi xtenni gueeche N. </foreign>
 </orig>
 <reg type="spanish"> N. Viudo natural del Pueblo N. se quiere casar.
  </reg>
+ </choice>
 <lb/>
 <choice>
 <orig> con N doncella hija de de N. y N. natural de Pueblo N.
 </orig>
 <reg type="spanish"> con N doncella hija de N. y N. natural de Pueblo N.
  </reg>
+ </choice>
 <lb/>
 N. <foreign xml:lang="zap"> 
 bennibizaabi xtenni N. bennihualachi xtenni
@@ -3200,7 +3194,7 @@ Coyoona pennabico-yoona   pennabi </foreign>
     lo loo Bixooze Coopa Bitoo? laa pichijbilo, laa pitoo
     <lb/>
     hui loo lo chelaguee pecaachilo xijti toolla?
-    </lb>
+    <lb/>
     </foreign>
     <choice>
     <orig>
@@ -3221,7 +3215,7 @@ Coyoona pennabico-yoona   pennabi </foreign>
     Si Padre uno solo escondi.
     <lb/>
     </orig>
-    <reg type=”spanish”>
+    <reg type="spanish">
     Si Padre uno solo escondí
     <lb/>
     </reg>
@@ -3245,9 +3239,9 @@ Coyoona pennabico-yoona   pennabi </foreign>
     has de confesar todos los pecados q.e has hecho de de
     <lb/>
     esa confesion hasta oydia
-    <lb>
-    <orig>
-    <reg type=”spanish”>
+    <lb/>
+    </orig>
+    <reg type="spanish">
     Hijo mío esa confesión no fue buena porque escondis-
     <lb/>
     te el pecado; por el tanto está obligado a confesar
@@ -3294,7 +3288,7 @@ Coyoona pennabico-yoona   pennabi </foreign>
     <lb/>
     te la penitencia q.e te impuso?
     </orig>
-    <reg type=”spanish”>
+    <reg type="spanish">
     Porque no obedeciste a el Padre? Porque no cumplis-
     <lb/>
     te la penitencia que te impuso?
