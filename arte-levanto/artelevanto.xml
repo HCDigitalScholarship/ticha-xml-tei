@@ -1191,6 +1191,8 @@
     <lb/>
     lares, queda ya dicho en su lugar
     <lb/>
+    <div xml:id='levanto-arte1.3.4'>
+    <head type='outline'>Quarta Conjugacion</head>
     <head> Quarta Conjugacion-<foreign xml:lang='zap'>Ro-Pe-Co</foreign>,</head>
     <lb/>
     Los verbos de esta quarta conjugacion hacen el presente 
@@ -1207,8 +1209,9 @@
     <lb/>
     plo de todo lo dicho el verbo <foreign xml:lang='zap'>Rolobaya</foreign>--barrer
     <lb/>
-
-    <head> Presente de Yndicativo </head>
+    <div xml:id='levanto-arte1.3.4.1'>
+    <head type='outline'>Presente de Yndicativo</head>
+    <head>Presente de Yndicativo</head>
     <lb/>
     Sing.r <foreign xml:lang='zap'>Roloobaya</foreign>----------Yo barro
     <lb/>
@@ -1218,8 +1221,11 @@
     <lb/>
     Plu.l <foreign xml:lang='zap'>Rolobatonoo</foreign>----------Nosotros barremos
     <lb/>
-
-    <head> Preterito Perfecto </head>
+    </div>
+    <!--levanto-arte 1.3.4.1-->
+    <div xml:id='levanto-arte1.3.4.2'>
+    <head type='outline'>Preterito Perfecto</head>
+    <head>Preterito Perfecto</head>
     <lb/>
     Sing.r <foreign xml:lang='zap'>Peloobaya</foreign>---------Yo barrí
     <lb/>
@@ -1229,16 +1235,26 @@
     <lb/>
     Plur.l <foreign xml:lang='zap'>Peloobatonoo</foreign>----------Nosotros barrimos
     <lb/>
-
+    </div>
+    <!--levanto-arte 1.3.4.2-->
+    <div xml:id='levanto-arte1.3.4.3'>
+    <head type='outline'>Segunda Voz del preterito he</head>
     <head> Segunda Voz del preterito he </head>
     <lb/>
     <foreign xml:lang='zap'>Ciloobaya</foreign>----------Yo he barrido
     <lb/>
-
+    </div>
+    <!--levanto-arte 1.3.4.3-->
+    <div xml:id='levanto-arte1.3.4.4'>
+    <head type='outline'>Tercera Voz del preterito huve</head>
     <head> Tercera Voz del preterito huve </head>
     <lb/>
     <foreign xml:lang='zap'>Hualoobaye</foreign>---------you huve barrido
     <lb/>
+    </div>
+    <!--levanto-arte 1.3.4.4-->
+    <div xml:id='levanto-arte1.3.4.5'>
+    <head type='outline'>Futuro Ymperfecto</head>
     <head> Futuro Ymperfecto </head>
     <lb/>
     Sing.r <foreign xml:lang='zap'>Coloobaya</foreign>----------Yo barreré
@@ -1246,15 +1262,168 @@
     <foreign xml:lang='zap'>Colobalo</foreign>----------Tu barreras
 
     <pb n="52"/>
+    </div>
+    <!--levanto-arte 1.3.4.5-->
+    <div xml:id='levanto-arte1.3.4.6'>
+    <head type='outline'>Ymperativo</head>
+    </div>
+    <!--levanto-arte 1.3.4.6-->
+    <div xml:id='levanto-arte1.3.4.7'>
+    <head type='outline'>[Presente]</head>
+    <div xml:id='levanto-arte1.3.4.7.1'>
+    <head type='outline'>Presente de Subjuntivo</head>
+    </div>
+    <!--levanto-arte 1.3.4.7.1-->
+    <div xml:id='levanto-arte1.3.4.7.2'>
+    <head type='outline'>Presente de Obtativo</head>
+    </div>
+    <!--levanto-arte 1.3.4.7.2-->
+    </div>
+    <!--levanto-arte 1.3.4.7-->
+    <div xml:id='levanto-arte1.3.4.8'>
+    <head type='outline'>[Preterito imperfecto]</head>
+    <div xml:id='levanto-arte1.3.4.8.1'>
+    <head type='outline'>Preterito imperfecto de Subjuntivo</head>
+    </div>
+    <!--levanto-arte 1.3.4.8.1-->
+    <div xml:id='levanto-arte1.3.4.8.2'>
+    <head type='outline'>Preterito imperfecto de Obtativo</head>
+    </div>
+    <!--levanto-arte 1.3.4.8.2-->
+    </div>
+    <!--levanto-arte 1.3.4.8-->
+    <div xml:id='levanto-arte1.3.4.9'>
+    <head type='outline'>Infinitivo</head>
+    </div>
+    <!--levanto-arte 1.3.4.9-->
+    <div xml:id='levanto-arte1.3.4.10'>
+    <head type='outline'>Preterito Plusquam Perfecto</head>
+    </div>
+    <!--levanto-arte 1.3.4.10-->
+    <div xml:id='levanto-arte1.3.4.11'>
+    <head type='outline'>[Gerundios]</head>
+    <div xml:id='levanto-arte1.3.4.11.1'>
+    <head type='outline'>Gerundio de Genetivo</head>
+    </div>
+    <!--levanto-arte 1.3.4.11.1-->
+    <div xml:id='levanto-arte1.3.4.11.2'>
+    <head type='outline'>Gerundio de Asusativo</head>
     <pb n="53"/>
+    </div>
+    <!--levanto-arte 1.3.4.11.2-->
+    <div xml:id='levanto-arte1.3.4.11.3'>
+    <head type='outline'>Gerundio de Ablativo</head>
+    </div>
+    <!--levanto-arte 1.3.4.11.3-->
+    </div>
+    <!--levanto-arte 1.3.4.11-->
+    <div xml:id='levanto-arte1.3.4.12'>
+    <head type='outline'>[Participios]</head>
+    <div xml:id='levanto-arte1.3.4.12.1'>
+    <head type='outline'>Participio de Presente</head>
+    </div>
+    <!--levanto-arte 1.3.4.12.1-->
+    <div xml:id='levanto-arte1.3.4.12.2'>
+    <head type='outline'>Participio de Preterito</head>
+    <pb n="53"/>
+    </div>
+    <!--levanto-arte 1.3.4.12.2-->
+    <div xml:id='levanto-arte1.3.4.12.3'>
+    <head type='outline'>Participio de Futuro en Rus</head>
+    </div>
+    <!--levanto-arte 1.3.4.12.3-->
+    <div xml:id='levanto-arte1.3.4.12.4'>
+    <head type='outline'>Participio de Futuro en Dus</head>
+    </div>
+    <!--levanto-arte 1.3.4.12.4-->
+    </div>
+    <!--levanto-arte 1.3.4.12-->
+    <div xml:id='levanto-arte1.3.4.13'>
+    <head type='outline'>Voz q.e dice Potencialidad</head>
+    </div>
+    <!--levanto-arte 1.3.4.13-->
+    <div xml:id='levanto-arte1.3.4.14'>
+    <head type='outline'>Verbales</head>
+    <div xml:id='levanto-arte1.3.4.14.1'>
+    <head type='outline'>Primera Especie</head>
+    </div>
+    <!--levanto-arte 1.3.4.14.1-->
+    <div xml:id='levanto-arte1.3.4.14.2'>
+    <head type='outline'>Segunda Especie</head>
+    <pb n="53"/>
+    </div>
+    <!--levanto-arte 1.3.4.14.2-->
+    <div xml:id='levanto-arte1.3.4.14.3'>
+    <head type='outline'>Tercera Especie</head>
+    </div>
+    <!--levanto-arte 1.3.4.14.3-->
+    </div>
+    <!--levanto-arte 1.3.4.14-->
     <pb n="54"/>
+    <div xml:id='levanto-arte1.3.4.15'>
+    <head type='outline'>Verbos Yrregulares de la 4a Conjugacion</head>
+    </div>
+    <!--levanto-arte 1.3.4.15-->
     <pb n="55"/>
+    <div xml:id='levanto-arte1.3.4.16'>
+    <head type='outline'>De las Proposiciones</head>
+    <div xml:id='levanto-arte1.3.4.16.1'>
+    <head type='outline'>Proposiciones de Acusativo</head>
     <pb n="56"/>
+    <!--levanto-arte 1.3.4.16.1-->
+    <div xml:id='levanto-arte1.3.4.16.2'>
+    <head type='outline'>Proposiciones de Ablativo</head>
+    </div>
+    <!--levanto-arte 1.3.4.16.6-->
+    </div>
+    <!--levanto-arte 1.3.4.16-->
     <pb n="57"/>
+    <div xml:id='levanto-arte1.3.4.17'>
+    <head type='outline'>De los Adverbios Numerales</head>
+    </div>
+    <!--levanto-arte 1.3.4.17-->
+    <div xml:id='levanto-arte1.3.4.18'>
+    <head type='outline'>De la formacion de los Adverbios</head>
+    <div xml:id='levanto-arte1.3.4.18.1'>
+    <head type='outline'>Adverbios de lugar</head>
     <pb n="58"/>
+    </div>
+    <!--levanto-arte 1.3.4.18.1-->
+    </div>
+    <!--levanto-arte 1.3.4.18-->
+    <div xml:id='levanto-arte1.3.4.19'>
+    <head type='outline'>De las Ynterjeciones</head>
+    </div>
+    <!--levanto-arte 1.3.4.19-->
+    <div xml:id='levanto-arte1.3.4.20'>
+    <head type='outline'>De las Conjunciones</head>
+    </div>
+    <!--levanto-arte 1.3.4.20-->
+    <div xml:id='levanto-arte1.3.4.21'>
+    <head type='outline'>Notas de Cordoba</head>
+    <div xml:id='levanto-arte1.3.4.21.1'>
+    <head type='outline'>Nota 1a</head>
     <pb n="59"/>
+    </div>
+    <!--levanto-arte 1.3.4.21.1-->
+    <div xml:id='levanto-arte1.3.4.21.2'>
+    <head type='outline'>Nota 2a</head>
+    </div>
+    <!--levanto-arte 1.3.4.21.2-->
+    <div xml:id='levanto-arte1.3.4.21.3'>
+    <head type='outline'>Nota 3a</head>
+    </div>
+    <!--levanto-arte 1.3.4.21.3-->
+    <div xml:id='levanto-arte1.3.4.21.4'>
+    <head type='outline'>Nota 4a</head>
     <pb n="60"/>
     <pb n="61"/>
+    </div>
+    <!--levanto-arte 1.3.4.21.4-->
+    </div>
+    <!--levanto-arte 1.3.4.21-->
+    </div>
+    <!--levanto-arte 1.3.4-->
     </div>
     <!-- levanto-arte 1.3 -->
     <div xml:id="levanto-arte1.4">
@@ -2023,63 +2192,63 @@
     <head type="outline">Para la Sagrada Eucristiao Viatico</head>
     <head>Para la Sagrada Eucristiao Viatico.</head>
     <lb/>
-    <choice><orig>Hijo</orig><reg type="spanish">¿Hijo</reg></choice> ya te confesastes? tienes algunos pecados de <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
+    Hijo ya se confesarlos.2 tienes algunos pecados de <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
     <lb/>
     reconciliante?
     <lb/>
     <foreign xml:lang="zap">
-    Xinni; baa pezooba stollalo? Huarapalo xijtilato-
+    Xinni; baa pezoaba stollalo? Huazapalo xijtilato
     <lb/>
     olla, ni huanozaabi cozooba xtolla zaacalo?
     </foreign>
     <lb/>
-    Salios fuera, para <choice><orig>q.e</orig><reg type="spanish">que</reg></choice> se confiese este enfermo
+    Salios fuera, para <choice><orig>q.e</orig><reg type="spanish">que</reg></choice> reconfiere este enfermo
     <lb/>
     <foreign xml:lang="zap">
-    Colachee xijche, nijani coxooba oxtollani benni quicherij.
+    Colachee xyche, nijani coxooba oxtollani bemni quicherÿ.
     </foreign>
     <lb/>
-    Hijo todo Christiano <choice><orig>esta</orig><reg type="spanish">está</reg></choice> muy obligado <choice><orig>ã</orig><reg type="spanish">a</reg></choice> confesar lo e
+    Hijo todo Christiano esta muy obligado a^ conferarla é
     <lb/>
-    de Dios <choice><orig>q.e</orig><reg type="spanish">que</reg></choice> <choice><orig>recivio</orig><reg type="spanish">recibio</reg></choice> en el Bautismo, quando llegue la ho-
+    de Dios <choice><orig>q.e</orig><reg type="spanish">que</reg></choice> recivio en el Bautismo, quando llegue la ho-
     <lb/>
     ra de su muerte.
     <lb/>
     <foreign xml:lang="zap">
-    Xinni quiraalijbeni Christiano hua nozaabiteete cu-
+    Xinni quiraalÿveni Christiano hua nozaabiseete cu
     <lb/>
-    va pilijlachini, quella ricelijlachini xtenni Dios co-
+    va pilijlachini, guella ricelijlachini xdenni Dios co
     <lb/>
-    xijini loo gucilo rirobaniza, Chij callapea quella co-
+    xijini loo gucilo xino Laniza, Chij callapea guella co
     <lb/>
     bi xtennini.
     <lb/>
     </foreign>
-    <choice><orig>Por</orig><reg type="spanish">¿Por</reg></choice> tanto crees en el misterio de la <choice><orig>SS.a</orig><reg type="spanish">Santisima</reg></choice> Trinidad
+    Por tanto crees en el misterio de la <choice><orig>SS.a</orig><reg type="spanish">Santisima</reg></choice> Trinidad
     <lb/>
-    <choice><orig>q.e</orig><reg type="spanish">que</reg></choice> es Dios Padre, <choice><orig>DS</orig><reg type="spanish">Dios</reg></choice> Hijo, y <choice><orig>DS</orig><reg type="spanish">Dios</reg></choice> <choice><orig>espiritu</orig><reg type="spanish">espíritu</reg></choice> <choice><orig>S.to</orig><reg type="spanish">Santo</reg></choice> juntos
+    q.e es Dios Padre, <choice><orig>DS</orig><reg type="spanish">Dios</reg></choice> Hijo, y <choice><orig>DS</orig><reg type="spanish">Dios</reg></choice> epirtus <choice><orig>S.to</orig><reg type="spanish">Santo</reg></choice> juntos _
     <lb/>
     Dios verdadero, Criador del cielo y de la tierra?
     <lb/>
     <foreign xml:lang="zap">
-    Laaniaacani Huaxieelijlachilo, lo misterio xtenni
+    Faaniaacani Huaxieelijlachilo, lo misterio xtenni
     <lb/>
-    <choice><orig>SS.a</orig><reg type="spanish">Santisima</reg></choice> Trinidad, ni naca Dios Bixooce, Dios Xinni
+    <choice><orig>SS.a</orig><reg type="spanish">Santisima</reg></choice> Trinidad, ni naca Dios Bixooce, Dios Xinni_
     <lb/>
-    chela Dios Espiritu <choice><orig>S.to</orig><reg type="spanish">Santo</reg></choice> , Choona persona, cani toobicij
+    chela Dios Espiritu <choice><orig>S.to</orig><reg type="spanish">Santo</reg></choice> , Choona persona, cani toobicy
     <lb/>
-    Dios Hualijca Bitoo, ni pezaani quieeba, ni pezaani
+    Dios Hualijca Bitoo, ni pezzaani Quiceba, ni pezaani
     <lb/>
-    layoo?
+    laijoo?
     <lb/>
     </foreign>
-    <choice><orig>Crees</orig><reg type="spanish">¿Crees</reg></choice> <choice><orig>q.e</orig><reg type="spanish">que</reg></choice> <choice><orig>N.tro Sr</orig><reg type="spanish">Nuestro Señor</reg></choice>  Jesu Christo se hizo hombre por
+    Crees <choice><orig>q.e</orig><reg type="spanish">que</reg></choice> <choice><orig>N.to Sr</orig><reg type="spanish">Nuestra Senor</reg></choice>  Jesu Christo se hizo hombre por
     <lb/>
-    obra del <choice><orig>Spiritu</orig><reg type="spanish">Espíritu</reg> <choice><orig>S.to</orig><reg type="spanish">Santo</reg></choice> en el vientre <choice><orig>SS.o</orig><reg type="spanish">Santisimo</reg></choice> <choice><orig>del</orig><reg type="spanish">de</reg> <choice><orig>N.tra</orig><reg type="spanish">Nuestra</reg></choice> Señora 
+    abra del Spiritu <choice><orig>S.to</orig><reg type="spanish">Santo</reg></choice> en el vientre <choice><orig>S.so</orig><reg type="spanish">Santisimo</reg></choice> del <choice><orig>N.tra</orig><reg type="spanish">Nuestra</reg></choice> Señora 
     <lb/>
-    la Virgen Maria, y <choice><orig>nacio</orig><reg type="spanish">nació</reg></choice> de ella, siendo ella Virgen
+    la Virgen Maria, y nacio de ella, siendo ella Virgen
     <lb/>
-    antes del parto en el parto, y <choice><orig>despues</orig><reg type="spanish">después</reg></choice> del parto?
+    antes del parto en el parto, y despues del parto?
     <lb/>
     <foreign xml:lang="zap">
     Huanicalij’lachilo, ni Bejuaannana JesuCristo
@@ -2092,11 +2261,9 @@
     <lb/>
     Maria huanaca yoohini Caap a cocooni yoona en
     <lb/>
-    Hua, quella xizaana, loo quella xizaana, echelo
+    Hua      , quella xizaana, loo quella xizaana, echelo
     <lb/>
-    Hualoxi quella xizaana. 
-    <lb/>      
-    Cree
+    Hualoxi quella xizaana.      x Creer(?)
     </foreign>
 
     <pb n="103"/>
@@ -2188,9 +2355,9 @@
     Bes a la Cruz ---- <foreign xml:lang="zap">Pechagaroa Cruz</foreign>
 
     <pb n="104"/>
-    Crees firmemente con todo tu corazon <choice> <orig>q.e</orig> <reg type="spanish">que</reg> </choice> en esta <choice> <orig>S.ta</orig> <reg type="spanish">Santa</reg> </choice>
+    Crees ?xmemente con todo tu corazon q.e en esta S.ta
     <lb/>
-    hostia con sagrada, esta el cuerpo de <choice> <orig>N.tro</orig> <reg type="spanish">Nuestro</reg> </choice> <choice> <orig>S.r</orig> <reg type="spanish">Señor</reg> </choice> Jesu 
+    hostia con sagrada, esta el cuerpo de N.tro S.r Jesu 
     <lb/>
     Christo, asi como esta en el cielo?
     <lb/>
@@ -2204,12 +2371,11 @@
     <lb/>
     Crees que por virtud de las palabras de la consagra-
     <lb/>
-    cion <choice> <orig>q.e</orig> <reg type="spanish">que</reg> </choice> dice el Sacerdote (<choice> <orig>aunq.e</orig> <reg type="spanish">aunque</reg> </choice> sea malo) se convier-
+    cion q.e dice el Sacerdote (aunq.e sea malo) se convier-
     <lb/>
-    te el pan en el cuerpo de <choice> <orig>N.tro</orig> <reg type="spanish">Nuestro</reg> </choice> <choice> <orig>S.r</orig> <reg type="spanish">Señor</reg> </choice>
- Jesu Christo, y el
+    te el pan en el cuerpo de N.tro S.r Jesu Christo, y el
     <lb/>
-    vino en su sangre <choice> <orig>SS.a</orig> <reg type="spanish">Santisima</reg> </choice>?
+    vino en su sangre SS.a?
     <lb/>
     <foreign xml:lang="zap">Huarieelijlachilo, ni niaxtenni quella nazaaca
     <lb/>
@@ -2219,8 +2385,7 @@
     <lb/>
     la xibijxi reaacani loo xinni nayoona xtennini?</foreign>
     <lb/>
-    Crees que en <choice> <orig>N.tra</orig> <reg type="spanish">Nuestra</reg> </choice> <choice> <orig>S.ta</orig> <reg type="spanish">Santa</reg> </choice>
- Madre Yglesia, por el Bautis-
+    Crees que en N.tra S.ta Madre Yglesia, por el Bautis-
     <lb/>
     mo y los otros Sacramentos, nos perdona Dios nues-
     <lb/>
@@ -2244,8 +2409,7 @@
     <lb/>
     <foreign xml:lang="zap">Hualijca Ronnti looya.</foreign>
     <lb/>
-    Pides perdon <choice> <orig>ã</orig> <reg type="spanish">á</reg> </choice>
- todos los <choice> <orig>q.e</orig> <reg type="spanish">que</reg> </choice> ofendistes?
+    Pides perdon ã todos los q.e ofendistes?
     <lb/>
     <foreign xml:lang="zap">Huaninnaabalo quella huennij tiloo, loo quiraa
     <lb/>
@@ -2260,12 +2424,9 @@
     <lb/>
     razon; mas por tu palabra, puedes perdonar to-
     <lb/>
-    dos mis pecados, y juntamente mi alma se volverá
+    dos mis pecados, y suntamente mi alma se volvera'
     <lb/>
-    buena.
-     <choice> <orig>O'</orig><reg type="spanish">¡O</reg>
-    </choice> <choice> <orig>S.r</orig><reg type="spanish">Señor</reg>
-    </choice> Dios!
+    buena. O' S.r Dios!
     <lb/>
 
     <foreign xml:lang="zap"> 
@@ -2275,7 +2436,7 @@
     <lb/>
     Choo chaazilo lanni lachitoya cani xtichayo'o
     <lb/>
-    bilo zannija loolo quiraa xtollaya, huañee
+    bilo zannija loolo quixaa xtollaya, huañee (?)
     <lb/>
     queacachahui anima xtennia. HaChaana Dios he! 
     <lb/>
@@ -2284,34 +2445,25 @@
     <!-- levanto-arte 3.2 -->
     <div xml:id="levanto-arte3.3">
     <head type="outline">Para la Extrema Uncion</head>
-    <head>Para la  Extrema <choice> <orig> Uncion </orig><reg type="spanish">Unción</reg> </choice></head>
+    <head>Para la <foreign xml:lang="lat"> Extrema Uncion</foreign></head>
     <lb/>
-    Hijo otro sacramente te falta <choice> <orig> q.e </orig><reg type="spanish">que</reg>
-    </choice> <choice> <orig> recivir </orig><reg type="spanish">recibir</reg>
-    </choice> <choice> <orig> q.e </orig><reg type="spanish">que</reg>
-    </choice> es la
+    Hijo otro sacramente te falta q.e recivir q.e es la
     <lb/>
-   Extrema <choice> <orig> Uncion </orig><reg type="spanish">Unción</reg>
-    </choice>; este Sacramento perdona qual-
+    <foreign xml:lang="lat">Extrema Uncion</foreign>; este Sacramento perdona qual-
     <lb/>
-    quiera pecado <choice> <orig> q.e </orig><reg type="spanish">que</reg>
-    </choice> haya quedado en el alma, <choice> <orig>des-
+    quiera pecado q.e haya quedado en el alma, des-
     <lb/>
-    pues</orig> <reg type="spanish">después</reg></choice> de <choice> <orig>haverse</orig> <reg type="spanish">haberse</reg></choice> confesado bien: <choice> <orig> tambien </orig><reg type="spanish">también</reg>
-    </choice> da salud
+    pues de haverse confesado bien: tambien dasalud
     <lb/>
     al cuerpo, si es voluntad de Dios.
     <lb/>
 
     <foreign xml:lang="zap">
-    Xinni zeetoobi <choice> <orig> S.to </orig><reg type="spanish">Santo</reg>
-    </choice> Sacramento xinitij looyni-
+    Xinni zeetoobi S.to Sacramento rinity looyni-
     <lb/>
     zijlo, ninaca xtenni quella rocaabeea Bixooze
     <lb/>
-    Coolaaya, nilaa </foreign> Extrema <choice> <orig> Uncion </orig><reg type="spanish">Unción</reg>
-    </choice>, <choice> <orig> S.to </orig><reg type="spanish">Santo</reg>
-    </choice> Sacra-
+    Coolaaya, nilaa </foreign> <foreign xml:lang="lat">Extrema Uncion</foreign>, S.to Sacra-
     <lb/>
     mento <foreign xml:lang="zap"> nij Ronnijtilooni xijtilatoolla nipeaa
     <lb/>
@@ -2325,11 +2477,11 @@
     <lb/>
     </foreign>
 
-    O' Hijos mios: orad, llamado Dios <choice> <orig>N.tro S.r </orig><reg type="spanish">Nuestro Señor</reg></choice> para <choice> <orig> q.e </orig><reg type="spanish">que</reg> </choice> ayu-
+    O'Hijos mios: orad, llamado Dios N.tro S.r para q.e ayu-
     <lb/>
-    de, y tenga misericordia de este enfermo, le perdone
+    de, y tenga misericordia de este enfermo, leperdone
     <lb/>
-    sus pecados, y le de la gloria.
+    suspecados, y ledelagloria.
     <lb/>
 
     <foreign xml:lang="zap">
@@ -2445,45 +2597,45 @@
     <lb/>
     Bitoo Dios niaxtenni cicarij huanozaabiteetelo </foreign>
     <pb n="107"/>
-    <foreign xml:lang="zap">Laniaacani cheelijlachilo quitoobi lachilo</foreign> los Mis-
+    <foreign xml:lang="zap">Laniaacani cheelijlachilo quitoobi lachilo</foreign> los elli?
     <lb/>
-    terios xtenni <choice> <orig> SS.a </orig><reg type="spanish">Santísima</reg> </choice>Trinidad <foreign xml:lang="zap">ninaca Dios Bixooze</foreign>
+    Serio? Senni VS. Trinidad <foreign xml:lang="zap">ninaca Dios Bixooze</foreign>
     <lb/> 
-    Dios <foreign xml:lang="zap">xinni Dios <choice> <orig> Spiritu S.to </orig><reg type="spanish">Espíritu Santo</reg> </choice> Coonna persona canitoo 
+    Dios <foreign xml:lang="zap">xinni Dios piaibi. Coonna persona canizoo 
     <lb/>
-    bicij Dios hualijca Bitoo Huañee cheelijlachilo que-
+    Biey Dios hualijca Bizoo Huañee cheelijlachilo que-
     <lb/>
-    naac Misterios xtenni quella xieelij lachi Bitoo</foreign> Dios
+    Naac Mizexios xenni quella xieely lachi Bizoo</foreign> Dios
     <lb/>
-    <foreign xml:lang="zap">Cueezalachilo loo</foreign> Dios <foreign xml:lang="zap">ni connij looni looy quiraa
+    <foreign xml:lang="zap">Cueezalachilo loo</foreign> Dios <foreign xml:lang="zap">ni conmiy coni looy quixaa
     <lb/>
-    xtollalo quella yoovi Dios naca Bixooze xtennilo
+    Xtollalo quella yoou? Dios naca Bixooze xemilo?
     <lb/>
-    Chela nonnitijlooni? tollaloo quiraa benniati ni qui
+    Chela nomioylooni? Sollaloo quixaa bemiata? ni qui
     <lb/>
-    toobi lachini xinnaaba quella huennij tiloo yoovi</foreign>
+    Toobi lachini ximnaaba quella huennij tiloo yaoui</foreign>
     <lb/>
-    Mi Dios <foreign xml:lang="zap">Canaachij quitoobi lachi quitoobi anima
+    Mi Dios <foreign xml:lang="zap">Canaachij quitoobi lachi quitoobi anioma?
     <lb/>
-    xtennilo lo Besuannana</foreign> Dios <foreign xml:lang="zap">nipezani looynij
+    Xremilo lo Beruamana</foreign> Dios <foreign xml:lang="zap">nipezani looynij
     <lb/>
-    ani connichij ñalo xtenniniloo guechelayoo, Chela
+     Ani comichij nalo xeminiloo guechelayoo, Chela
     <lb/>
-    hualoxi cannalo yoo bini lanni quiebaa Chela roa
+     Hualoxi cammalo yoo bini lanni guiebaa Chela xoa
     <lb/>
-     cani quinnijcixoolo Yoobini</foreign> Dios <foreign xml:lang="zap">ñee </foreign>S.tos Angeles
+     Cani gumijciroolo? Zoobini</foreign> Dios <foreign xml:lang="zap">ñee V.
     <lb/>
-    <foreign xml:lang="zap">Zelijpe.</foreign>
+    Zalijpe.</foreign>
     <lb/>
     </div>
     <!-- levanto-arte 3.3 -->
     <div xml:id="levanto-arte3.4">
     <head type="outline">Presentacion para contraer Matrimonio</head>
-    <head><choice> <orig> Presentacion </orig><reg type="spanish">Presentación</reg> </choice>para contraer Ma-
+    <head>Presentacion para contraer Ma-
     <lb/>
     trimonio.</head>
     <lb/>
-    Llama <choice> <orig>ã</orig><reg type="spanish">a</reg></choice>a los que quieren casar
+    Llamaalos que quieren casas?
     <lb/>
     <foreign xml:lang="zap">Coxijche ni xacalachi cochaagaañani.</foreign>
     <lb/>
@@ -2491,152 +2643,24 @@
     <lb/>
     Reza _____Pella
     <lb/>
-    <choice> <orig>Hazes</orig><reg type="spanish">¿Haces</reg></choice> juramento de responder la verdad <choice> <orig>ã</orig><reg type="spanish">a</reg></choice> todo lo
-    <lb/>
-    <choice> <orig>q.e</orig><reg type="spanish">que</reg></choice> yo le preguntare?
-    <lb/>
-    Huazannilo Juramento quicaabi tichalo quella
+    Huazannelo Turamenzo quieaabi richalo?quell
     <lb/> 
-     nalijloo quiraa niquinnaabaya tichalooy?</foreign>
+     Nalijloo quixaa iquinnaalo aya lichalooy.</foreign>
      <lb/>
-     <choice> <orig>Como</orig><reg type="spanish">¿Como</reg></choice> te llamas?____<foreign xml:lang="zap">Tulaalo?
+     Como se llamas.____<foreign xml:lang="zap">Telaalo?
      <lb/>
-   <choice> <orig>quantos</orig><reg type="spanish">¿Cuántos</reg></choice> años tienes? Palla ijiza huaxapalo?
+     Guaansos años gener. Palla ijiza huaxapalo?
      <lb/>
-     <choice> <orig>Eres</orig><reg type="spanish">¿Eres</reg></choice> soltero o viudo?
+     C...  o vzzido?
      <lb/>
-     Bennicijtoobi nacalo, laabenni bizaabi?</foreign>
+     Bennicij zoobi nacalo, laabemi bizaabi?</foreign>
      <lb/>
-     <choice> <orig>De</orig><reg type="spanish">¿De</reg></choice> <choice> <orig>q.e</orig><reg type="spanish">que</reg></choice> Pueblo eres? <foreign xml:lang="zap">Caazooba gueechelo?</foreign>  Como
+     De que Pueblo eres? <foreign xml:lang="zap">Caazooba gueechelo?</foreign>  Como
 
     <pb n="108"/>
-    Como se llaman sus Padres?
-    <lb/>
-    <foreign xml:lang="zap"> Tu laani xtaataj xnaanalo? </foreign>
-    <lb/>
-    Como se llamaba tu Esposa Difunta?
-    <lb/>
-    <foreign xml:lang="zap"> Chuulaani lecheelalo ni cotini? </foreign>
-    <lb/>
-    Te quieres casar con N. con todo tu corazon y alma?
-    <lb/>
-    <foreign xml:lang="zap"> Racalachi gochaagañaalo loo N. quitoobi lachi qui
-    <lb/>
-    toobi anima xtennilo? </foreign>
-    <lb/>
-    Te hacen fuerza tus Padres, ó alguna otra perso-
-    <lb/>
-    na para que te cases?
-    <lb/>
-    <foreign xml:lang="zap"> Huaronnini quella natijpa looy xtaata xnaanalo
-    <lb/>
-    laa zeetoobi persona nijani cochaagañaalo? </foreign>
-    <lb/>
-    Distes palabra de casamiento, <choice> <orig>ã</orig> <reg type="spanish">á</reg> </choice>
-     otra <choice> <orig>muger</orig> <reg type="spanish">mujer</reg> </choice>
-    <lb/>
-    (hombre.)
-    <lb/>
-    <foreign xml:lang="zap"> Peteelo ticha quella hueechaagañaa zeetoobi    gon-
-    <lb/>
-    naa (niguijo)? </foreign>
-    <lb/>
-    Es tu pariente esta <choice> <orig>muger</orig> <reg type="spanish">mujer</reg> </choice> (este hombre) con quien
-    <lb/>
-    te quieres casar?
-    <lb/>
-    <foreign xml:lang="zap"> Huanaca xtijalo bennigonnaarij (benninigijo)
-    <lb/>
-    ni racalachi cochaagañaalo? </foreign>
-    <lb/>
-    Has pecado con alguna Parienta de esta <choice><orig>muger</orig> <reg type="spanish">mujer</reg> </choice> -
-    <lb/>
-    (Pariente de este hombre) con quien te quieres casar?
-    <lb/>
-    <foreign xml:lang="zap"> Pexijhuineelo tulila bennigonnaa (benniniguio?)
-    <lb/>
-    ni raca xtijani gonnarij (niguijorij ni racalachi
-    <lb/>
-    gochaagañaalo? </foreign>
-    <lb/>
-    Vete con la bendicion de Dios, y llama <choice> <orig>ã</orig> <reg type="spanish">á</reg> </choice>
-    <lb/>
-    el primer testigo.
-    <lb/>
-    <foreign xml:lang="zap"> Cuyee quella   huennilaaya     xtenni      Dios    chela co-
-    <lb/>
-    xijche cotoobi testigo. </foreign>
     <pb n="109"/>
     <div xml:id="levanto-arte3.4.1">
-    	<head type= 'outline'>Ynterragatorio ã los testigos</head>
-    <head> <choice> <orig>Ynterrogatorio</orig> <reg type="spanish">Interrogatorio</reg> </choice> <choice> <orig>ã</orig> <reg type="spanish">á</reg> </choice> los testigos </head>
-
-    <lb/>
-    Haces juramento de responder la verdad, <choice> <orig>ã</orig> <reg type="spanish">á</reg> </choice> todo lo
-    <lb/>
-    <choice> <orig>q.e</orig> <reg type="spanish">que</reg> </choice> te preguntare?
-    <lb/>
-    <foreign xml:lang="zap"> Huaxonnilo juramento quicaabilo ticha quella na-
-    <lb/>
-    lijloo quiraa ni quinnaaba tichaya looy? </foreign>
-    <lb/>
-    Conoces <choice> <orig>ã</orig> <reg type="spanish">á</reg> </choice> estos <choice> <orig>q.e</orig> <reg type="spanish">que</reg> </choice> se quieren casar?
-    <lb/>
-    <foreign xml:lang="zap"> Huaraca pecalonnij niracalachi gochaagaanaani? </foreign>
-    <lb/>
-    Saves si se quieren casar con todo su corazon?
-    <lb/>
-    <foreign xml:lang="zap"> Huannanalo tebela naca lachi cochaagañaani-
-    <lb/>
-    quitoobi lachi tooni </foreign>
-    <lb/>
-    Saves si alguno les ha hecho fuerza para q.e se casen?
-    <lb/>
-    <foreign xml:lang="zap"> Huannaanalo tebela tutila pennini niqueequella
-    <lb/>
-    natijpa, nijani cochaagañaani? </foreign>
-    <lb/>
-    Saves óhas oido decir en el Pueblo, si este hombre
-    <lb/>
-    dió palabarse casamiento <choice> <orig>ã</orig> <reg type="spanish">á</reg> </choice> otra <choice> <orig>muger</orig> <reg type="spanish">mujer</reg> </choice>, ó esta <choice> <orig>muger</orig> <reg type="spanish">mujer</reg> </choice>
-    <lb/>
-    <choice> <orig>ã</orig> <reg type="spanish">á</reg> </choice> ortro hombre?
-    <lb/>
-    <foreign xml:lang="zap"> Huannaanalo laa piñatiagolo loo gueche tebela
-    <lb/>
-    benniniguijorij peteeteni ticha quellahuechaagañaa
-    <lb/>
-    loo zeetobi bennigonnaa; laa bennigonnaarij peteeti-
-    <lb/>
-    ni ticha quella hueechaagañaa zeetoobi benniniguijo? </foreign>
-    <lb/>
-    Saves vi son parientes?
-    <lb/>
-    <foreign xml:lang="zap"> Huannanalo tebela nacani stijani? </foreign>
-    <lb/>
-    Saves si este hombre pecó, con alguna pariente de esta
-    <lb/>
-    <choice> <orig>muger</orig> <reg type="spanish">mujer</reg> </choice>, ó si esta <choice> <orig>muger</orig> <reg type="spanish">mujer</reg> </choice> pecó con algun pariente de este
-    <lb/>
-    hombre?
-    <lb/>
-    <foreign xml:lang="zap"> Huannanalo tebela benni niguijorij perij huiñeenitutila
-    <lb/>
-    bennigonnã niraca xtijani gonnaarij; laagonnãrij
-    <lb/>
-    peahañeeni tolla, tuti benniguijo, ninaca xtijanibenni
-    <lb/>
-    niguijonij? </foreign>
-    <lb/>
-    Saves si este hombre dio palabra de casamiento <choice> <orig>ã</orig> <reg type="spanish">á</reg> </choice> es-
-    <lb/>
-    ta <choice> <orig>muger</orig> <reg type="spanish">mujer</reg> </choice>, quando vivia su consorte?
-    <lb/>
-    <foreign xml:lang="zap"> Huannanalo tebela bennijijonij peeteeteni ticha-
-    <lb/>
-    quella huechaagañaagonnarij chijconij nabaanini
-    <lb/>
-    Leihenani? </foreign>
+    <head type="outline">Interrogatorio a los testigos</head>
     </div>
     <!-- levanto-arte 3.4.1 -->
     </div>
@@ -2646,245 +2670,25 @@
     <pb n="110"/>
     <div xml:id="levanto-arte4">
     <head type="outline">Acto de Contricion</head>
-    <head> Acto de Contricion </head>
-    <lb/>
-    <foreign xml:lang='zap'>
-    Ha Chana Jesu Christo he! huallij Bitoo hua
-    <lb/>
-    llij Benniaati: ni pe-zaalo naa ni pezijllalo naa
-    <lb/>
-    nij asteni naca yoobilo ni nazaacatete yaca na
-    <lb/>
-    gaabani Xquella nazaacalo: Relaceteete lachia
-    <lb/>
-    nij asteni quiraa ni pexihua loolo. Ricabila-
-    <lb/>
-    chia loo quella gracia xtennilo, azootichij quee-
-    <lb/>
-    xi hua, chela ricabilachia guexoobaxtolaya
-    <lb/>
-    chi gallabea. Ribeezalachia 	loo xquella naza-
-     <lb/>
-    calo quinnijtiloolo naa nia xtenni Rinni na-
-    <lb/>
-    chonolo Rochijgaya loolo quella nazacani go
-    <lb/>
-   nnia niaxtenni quiraa tolla ni pennia Ro-
-   <lb/>
-    nni looya quezaalachilo naa quella gracia: nij
-   <lb/>
-   ani azootichij gonnia tolla  loolo: Chana Dios he!
-   </foreign>
-
-
     <pb n="111"/>
-   <choice> <orig> Saves</orig> <reg type="spanish">¿Sabes</reg> </choice>  si tienen otro impedimento para no se puedan casar?
-    <lb/>
-Huannanalo tebela huanapani zeetoobi quella xocaa, 
-<lb/>
-Quella rozeeyo nilaa impedimento nijanicali zoaaca
-<lb/>
-cochaaganaani?
-<lb/>
-<choice> <orig>Eres</orig> <reg type="spanish">¿Eres</reg> </choice> pariente de este hombre <choice> <orig> o'</orig> <reg type="spanish">o</reg> </choice> de esta <choice> <orig> muger</orig> <reg type="spanish">mujer</reg> </choice> <choice> <orig> q.e</orig> <reg type="spanish">que</reg> </choice> se hace casar?
-<lb/>
-Huaraca xtijalo benni niguijonij laabenni gonnarij
-<lb/>
-nigochaagananni?
-<lb/>
-<choice> <orig> Como</orig> <reg type="spanish">¿Cómo</reg> </choice> te llamas?------- Tu laalo?
-<lb/>
-<choice> <orig> Quantos</orig> <reg type="spanish">¿Cuántos</reg> </choice> <choice> <orig> anos</orig> <reg type="spanish">años</reg> </choice> tienes?----- Pella ijza Huarapalo?
-<lb/>
-<choice> <orig>De</orig> <reg type="spanish">¿De</reg> </choice> <choice> <orig> q.e</orig> <reg type="spanish">que</reg> </choice> pueblo eres?-----Caa zooba gueche?
-<lb/>
-<choice> <orig> Eres</orig> <reg type="spanish">¿Eres</reg> </choice> casado?-----Huanoo lechelalo?
-<lb/>
-<choice> <orig>Como</orig> <reg type="spanish">¿Cómo</reg> </choice> se llama tu <choice> <orig> muger</orig> <reg type="spanish">mujer</reg> </choice>?- Tu laani lechelalo?
-<lb/>
-Vete con la <choice><orig> vendicion</orig> <reg type="spanish">vendición</reg> </choice> de Dios y llama <choice><orig> vendicion</orig> <reg type="spanish">vendición</reg> </choice> <choice><orig>ã el </orig> <reg type="spanish">al</reg> </choice> segundo tes-
-<lb/>
-igo(tercero)
-<lb/>
-Cuyee quella huemilaaya xtenni Dios chela conij-
-<lb/>
-che Coxoopatestigo (coyoona).
-<lb/>
-<choice> <orig> Quando</orig> <reg type="spanish">¿Cuándo</reg> </choice> los <choice> <orig> q.e</orig> <reg type="spanish">que</reg> </choice> se presentaren son Viu
-<lb/>
-dos se les <choice> <orig> haran</orig> <reg type="spanish">harán</reg> </choice> las siguientes pregio?
-<lb/>
-<choice> <orig> Le</orig> <reg type="spanish">¿Le</reg> </choice> <choice> <orig> disces</orig> <reg type="spanish">dices</reg> </choice> palabra de casamiento a esta <choice> <orig> muger</orig> <reg type="spanish">mujer</reg> </choice> <choice> <orig> quan</orig> <reg type="spanish">cuan</reg> </choice>
-<lb/>
-do <choice> <orig> vivia</orig> <reg type="spanish">vivía</reg> </choice> su marido?- o <choice> <orig> quando</orig> <reg type="spanish">cuando</reg> </choice> <choice> <orig> vivia</orig> <reg type="spanish">vivía</reg> </choice> tu <choice> <orig> muger</orig> <reg type="spanish">mujer</reg> </choice>?
-<lb/>
-Peteetelo ticha quella huechaaganaa bennigonnarij
-<lb/>
-Chijconij nabaanini lechelani? Laa chij conij nabaa
-<lb/>
-nini lechelalo?
-<lb/>
-<choice> <orig> Pecastes</orig> <reg type="spanish">¿Pecastes</reg> </choice> con esta <choice> <orig> muger</orig> <reg type="spanish">mujer</reg> </choice> con palabra de casamiento
-<lb/>
-Quando <choice> <orig> vivia</orig> <reg type="spanish">vivía</reg> </choice> su marido? o <choice> <orig> quando</orig> <reg type="spanish">cuando</reg> </choice> <choice> <orig> vivia</orig> <reg type="spanish">vivía</reg> </choice> tu <choice> <orig> muger</orig> <reg type="spanish">mujer</reg> </choice>?
-<lb/>
-Pexij huineelo bennigonnanij loo ticha quella hue
-<lb/>
-Chaaganaa, chijconij nabaanini lechelani? lachij
-<lb/>
-Conij nabaanini lechelalo?
-<lb/>
-
-
     </div>
     <!-- levanto-arte 4 -->
     <div xml:id="levanto-arte5">
     <head type="outline">Amonestaciones</head>
-    							Amonestaciones
-							<lb/>
-<choice> <orig> N.</orig> <reg type="spanish">Nombre</reg> </choice> sol tero hijo de <choice> <orig> N.</orig> <reg type="spanish">Nombre</reg> </choice> y de <choice> <orig> N.</orig> <reg type="spanish">Nombre</reg> </choice> natural del Pueblo
-<lb/>
-<choice> <orig> N.</orig> <reg type="spanish">Nombre</reg> </choice> se quiere casar con <choice> <orig> N.</orig> <reg type="spanish">Nombre</reg> </choice> doncella hija de <choice> <orig> N.</orig> <reg type="spanish">Nombre</reg> </choice> y <choice> <orig> N.</orig> <reg type="spanish">Nombre</reg> </choice>
-<lb/>
-Natural de Pueblo de <choice> <orig> N.</orig> <reg type="spanish">Nombre</reg> </choice> Siagluno de vosotros
-<lb/>
-Sa-
-<lb/>
-
     <pb n="112"/>
     <pb n="113"/>
-    <lb/>
-<choice>
-<orig> Save q.e sean parientes o’ Compadres o’ q.e dieron espon
-</orig>
-<reg type="spanish"> Save q.e sean parientes o’ Compadres o’ q.e dieron espon </reg>
- </choice>
-<lb/>
-<choice>
-<orig> sales a otra persona o q.e tienen otro impedimento para
-</orig>
-<reg type="spanish">sales a otra persona o q.e tienen otro impedimento para</reg>
- </choice>
-<lb/>
-<choice>
-<orig> q.e no se puedan casar, avise al P.e Cura
-</orig>
-<reg type="spanish"> q.e no se puedan casar, avise al P.e Cura </reg>
- </choice>
-<lb/>
-<foreign xml:lang="zap"></N. benni cijtoobi xinni xtenni N. chela N. bennihua
-<lb/>
-lachi xtenni gueeche N. racalachi cochaagañaani
-<lb/>
-loo N. xinni Chaapa xtenni N. chela N. bennihuala
-<lb/>
-chi xtenni gueeche N. tebelatutila lato huannaanani
-<lb/>
-ninaaca xtijaniloo Compadre, loo peteeteni tichaque
-<lb/>
-llahuechaagañaa, loo zeetoobi bennigonnaa benni
-<lb/>
-guijo laa huarapani zeetoobi quella rocaa quella ro
-<lb/>
-Zeego, nilaa impedimento nija niacati zooaca co
-<lb/>
-chaaganaani coconani tichaloo Bixooze Cura
-<lb/>
-Coopa Bitoo. </foreign>
-<lb/>
-<choice>
-<orig> N. Vuido de N. natural del Pueblo N. se qui
-</orig>
-<reg type="spanish">N. Vuido de N. natural del Pueblo N. se quiere</reg>
- </choice>
-<lb/>
-<choice>
-<orig> casar con N. Vuida de N. natural del Pueblo N.
-</orig>
-<reg type="spanish"> casar con N. Vuida de N. natural del Pueblo N. </reg>
- </choice>
-
-<lb/>
-<foreign xml:lang="zap"> 
-N. benni bizaabi xtenni N. bennihualachi xtenni
-<lb/>
-gueeche N. racalachi cochaaganaani loo N. benni
-<lb/>
-xtennini N. bennihualachi xtenni gueeche N. </foreign>
-<lb/>
-<choice>
-<orig> N. soltero Hijo de N. natural del Pueblo N. se qui
-</orig><reg type="spanish"> N. soltero Hijo de N. natural del Pueblo N. se quiere
- </reg>
- </choice>
-<lb/>
-<choice>
-<orig> ere casar con N vuida de N natural del Pueblo N.
-</orig>
-<reg type="spanish"> quiere casar con N vuida de N natural del Pueblo N.
- </reg>
- </choice>
-<lb/>
-N. <foreign xml:lang="zap"> 
- bennicijtoobi xinni xtenni N. chela N. benni
-<lb/>
-N. bennicijtoobi xinni xtenni N. chela N. benni
-<lb/>
-naaniloo N. benni bizaabi xtenni N. bennihuala-
-<lb/>
-chi xtenni gueeche N. </foreign>
-<lb/>
-<choice>
-<orig> N. Viudo natural del Pueblo N. se quiere casar
-</orig>
-<reg type="spanish"> N. Viudo natural del Pueblo N. se quiere casar.
- </reg>
-<lb/>
-<choice>
-<orig> con N doncella hija de de N. y N. natural de Pueblo N.
-</orig>
-<reg type="spanish"> con N doncella hija de N. y N. natural de Pueblo N.
- </reg>
-<lb/>
-N. <foreign xml:lang="zap"> 
-bennibizaabi xtenni N. bennihualachi xtenni
-<lb/>
-gueeche N. racalachi cochaaganaani loo N. xinni
-<lb/>
-chaapa xtenni N. chela N. benni hualachi xtenni
-<lb/>
-gueeche N. </foreign>
-<lb/>
-<choice>
-<orig> Esta es la primera amonestacion la segunda la tercera
-</orig>
-<reg type="spanish"> amonestación</reg>
- </choice>
-<lb/>
-<foreign xml:lang="zap"> 
-Nirijnaca cotoobi amonestacion vel pennabi coroopa
-<lb/>
-Coyoona pennabico-yoona   pennabi </foreign>
-
-<lb/>
-
-
-
-
-
-
     <pb n="114"/>
-    <choice> <orig> N.</orig> <reg type="spanish">Nombre</reg> </choice> y <choice> <orig> N.</orig> <reg type="spanish">Nombre</reg> </choice> q.e <choice> <orig> estan</orig> <reg type="spanish">están</reg> </choice> presentes quieren contraer matrimo-
+    H y H q.e estan presentes quieren contraer matrimo-
     <lb/>
-    nio. Si alguno de vosotros <choice> <orig>save</orig> <reg type="spanish">sabe</reg> </choice> <choice> <orig> q.e</orig> <reg type="spanish">que</reg> </choice> tenga <choice> <orig>algun</orig> <reg type="spanish">algún</reg> </choice> impedi-
+    nio. Si alguno de vosotros save q.e tenga algun impedi-
     <lb/>
-    mento para <choice> <orig> q.e</orig> <reg type="spanish">que</reg> </choice> no se pueda casar manifiestelo. <choice> <orig>Se</orig> <reg type="spanish">¿Se</reg> </choice> puede
+    mento para q.e no se pueda casar manifieste lo. Se puede
     <lb/>
     casar?
      <lb/>
-    <choice> <orig> N.</orig> <reg type="spanish">Nombre</reg> </choice> <foreign xml:lang= 'zap'> chela</foreign> <choice> <orig> N.</orig> <reg type="spanish">Nombre</reg> </choice> <foreign xml:lang= 'zap'> ni xizooba looni racalachi cochaaganaa
+    H. <foreign xml:lang= 'zap'> chela</foreign> H. <foreign xml:lang= 'zap'> ni xizooba looni racalachi cochaaganaa
      <lb/>
-    ni , tebella tutila lato huannaanani ni rapani xijtila
+    ni , tebella ??tila lato huannaanani ni rapani xijtila
      <lb/>
     quella rocaa, quella rozeego ni laa impedimento nij
     <lb/>
@@ -2892,9 +2696,9 @@ Coyoona pennabico-yoona   pennabi </foreign>
     <lb/>
     rocaa quella rozeego. Zooaca cochaagaanaani? </foreign>
     <lb/>
-    <choice> <orig> N.</orig> <reg type="spanish">¿Nombre</reg> </choice> te quieres casar con <choice> <orig> N.</orig> <reg type="spanish">Nombre</reg> </choice> <choice> <orig> q.e</orig> <reg type="spanish">que</reg> </choice> esta enter presencia como 
+    H. te quieres casar con H. q.e esta enter presencia como 
     <lb/>
-    lo manda <choice> <orig> N. tra</orig> <reg type="spanish">Nuestra</reg> </choice>N. tra <choice> <orig> S. ta</orig> <reg type="spanish">Santa</reg> </choice> Madre <choice> <orig> Yglesia</orig> <reg type="spanish">Iglesia</reg> </choice>? 
+    lo manda N. tra S. ta Madre Yglesia? 
     <lb/>
     H. <foreign xml:lang= 'zap'> huanacalachi cochaaganaalo loo H. rizoo bani- 
     <lb/>
@@ -2906,7 +2710,7 @@ Coyoona pennabico-yoona   pennabi </foreign>
     <head type="outline">Para los Anillos</head>
     <head> Para los Anillos </head>
     <lb/>
-    Di: En el nombre del padre, del Hijo, y del <choice> <orig> Spiritu</orig> <reg type="spanish">Espíritu</reg> </choice><choice> <orig> S. to</orig> <reg type="spanish">Santo</reg> </choice>
+    Di: En el nombre del padre, del Hijo, y del Spiritu S.to 
     <lb/>
     amen Jesus. 
     <lb/>
@@ -2916,7 +2720,7 @@ Coyoona pennabico-yoona   pennabi </foreign>
     <lb/>
     Junta las manos. ---- <foreign xml:lang= 'zap'> Petoopa laohijñaa </foreign>------
      <lb/>
-    Di: Esposa mia cadad <choice> <orig>aqui</orig> <reg type="spanish">aquí</reg> </choice> estas arras <choice> <orig> q.e</orig> <reg type="spanish">que</reg> </choice> te doy en
+    Di: Esposa mia cadad aqui estas arras q.e te doyen
      <lb/>
     senal de Matrimonio de nosotros dos. 
     <lb/>
@@ -3003,130 +2807,6 @@ Coyoona pennabico-yoona   pennabi </foreign>
     Jesu Christo            de 
     <pb n="116"/>
     <pb n="117"/>
-    <choice>
-    <orig>
-    Quando te confesastes d[e]claraste bien todos tus pecados
-    <lb/>
-    [a] el Padre? ó tuviste miedo, ó verguenza, y entonces
-    <lb/>
-    escondistes algun pecado?
-    </orig>
-    <reg type="spanish">
-    Quando te confesaste declaraste bien todos tus pecados
-    <lb/>
-    a el Padre? o  tuviste miedo, o  vergüenza, y entonces
-    <lb/>
-    escondiste algun pecado?
-    <lb/>
-    </reg>
-    </choice>
-    <foreign xml:lang='zap'>
-    Chij pezooba xtollalo cotijxeleechahui quiraaxtolla-
-    <lb/>
-    lo loo Bixooze Coopa Bitoo? laa pichijbilo, laa pitoo
-    <lb/>
-    hui loo lo chelaguee pecaachilo xijti toolla?
-    </lb>
-    </foreign>
-    <choice>
-    <orig>
-    Todos los declaré ninguno escondi.
-    <lb/>
-    </orig>
-    <reg type="spanish">
-    Todos los declaré ninguno escondí.
-    <lb/>
-    </reg>
-    </choice>
-    <foreign xml:lang='zap'>
-    Quiraa cotijxeleea aca xijti pecaachia.
-    <lb/>
-    </foreign>
-    <choice>
-    <orig>
-    Si Padre uno solo escondi.
-    <lb/>
-    </orig>
-    <reg type=”spanish”>
-    Si Padre uno solo escondí
-    <lb/>
-    </reg>
-    </choice>
-    <foreign xml:lang='zap'>
-    Eya Bixooze toobicij tolla pecaachia
-    <lb/>
-    </foreign>
-    <choice>
-    <orig>
-    Hijo mio esa confesion no fue buena porq.e escondis-
-    <lb/>
-    te el pecado; por el tanto esta obligado â confesar
-    <lb/>
-    otra vez todos los pecados de la confesion pasada
-    <lb/>
-    en la q.e escondiste el pecado tambien el pecado q.e hi
-    <lb/>
-    ciste quando confesaste y comulgaste mal tambien
-    <lb/>
-    has de confesar todos los pecados q.e has hecho de de
-    <lb/>
-    esa confesion hasta oydia
-    <lb>
-    <orig>
-    <reg type=”spanish”>
-    Hijo mío esa confesión no fue buena porque escondis-
-    <lb/>
-    te el pecado; por el tanto está obligado a confesar
-    <lb/>
-    otra vez todos los pecados de la confesión pasada
-    <lb/>
-    en la que escondiste el pecado también el pecado que hi
-    <lb/>
-    ciste cuando confesaste y comulgaste mal también
-    <lb/>
-    has de confesar todos los pecados que has hecho de de
-    <lb/>
-    esa confesión hasta hoy día 
-    <lb/>
-    </reg>
-    </choice>
-    <foreign xml:lang='zap'>
-    Xinni xtennia. Quella huezoobaxtolla quee aca
-    <lb/>
-    ti goca nazaaca niaxtenni pecaachilo tolla
-    <lb/>
-    la que lacani huanoozaabi cozoobaxtolla racalo
-    <lb/>
-    quiraa xquellahuezoobaxtolla coteete looni
-    <lb/>
-    pecaachilo tolla: Chelañee tolla ni pennilo chij pe
-    <lb/>
-    zoobaxtollalo aguijzaaca chela Chij coxij-xijhuilo
-    <lb/>
-    xpelalaati Besuanana Jesu Christo Chelañee
-    <lb/>
-    coxoobaxtolla lo quiraa tolla, ni pennilo colaala
-    <lb/>
-    quella huezoobaxtolla laaca calaannachij
-    <lb/>
-    pennilo quiraa ni Bixooze Coopa Bitoo connaa
-    <lb/>
-    beeanilooy loo quella Penitencia xtollalo?
-    <lb/>
-    </foreign>
-    <choice>
-    <orig>
-    Porq.e no obedeciste â el Padre? Porq.e no cumplis-
-    <lb/>
-    te la penitencia q.e te impuso?
-    </orig>
-    <reg type=”spanish”>
-    Porque no obedeciste a el Padre? Porque no cumplis-
-    <lb/>
-    te la penitencia que te impuso?
-    </reg>
-    </choice>
-
     <pb n="118"/>
     <pb n="119"/>
     </div>
@@ -3266,548 +2946,29 @@ Coyoona pennabico-yoona   pennabi </foreign>
     ni looy, tebela acati capalo xibaa xtennini.</foreign>
 
     <pb n="121"/>
-    Has sido brujo o’ Hechizeno?
-	Cocalo huichaa laa bixijo?
-	<lb/>
-	No Padre yo no se de eso.
-	<lb/>
-	Aca Bixooze naa yanannayarij.
-	<lb/>
-	Has desesperado de la misericordia de Dios?
-	<lb/>
-	Yaca coleezalo quella huezaalachi quella huelaaxten
-	<lb/>
-	ni Dios?
-	Rezas todos los dias las oraciones; te acuerdas todo
-	<lb/>
-	los dias de Dios?
-	<lb/>
-	Huaxollalo quixaachij tichaa laaya Besuanana Dios
-	<lb/>
-	huarieegennalachilo guixee quixee xtenni Dios?
-	<lb/>
-	Has llamado a Dios N.tro S.a quando has estado enfermo
-	<lb/>
-	quando has padecido algul trabajo o’ pobreza?
-	<lb/>
-	Coxeenilo Besuanana Dios chij cozaacalo quella
-	<lb/>
-	guijcha , chij coxaacalo quellarij laaguellachij baa?
-	<lb/>
-	El primer Mandamiento manda q.e ames a un solo
-	<lb/>
-	Dios q.e adores a un solo Dios q.e creas en un solo Dios
-	<lb/>
-	y esperes es un solo Dios: porq.e ninguno puede sub ir
-	<lb/>
-	a el cielo sin aman Dios porq.e el amor de Dios nos une
-	<lb/>
-	con Dios entonces amaras a Dios quando guardes sus 
-	<lb/>
-	Mandamientos, y quieras morir antes, q.e ofendera
-	<lb/>
-	Dios: porq.e Dios te orio a su imagen y semejanza orio
-	<lb/>
-	todas las cosas para ti, y te ha hee ho muchos beneficios
-	<lb/>
-	la misericordia de Dios es muy grande porq.e para 
-	<lb/>
-	rediminnos del pecado origninal y de todos los demas
-	<lb/>
-	pecados bajo del Cielo a la tierra la segunda Pesona
-	<lb/>
-	de la SS.a Trinidad y se hizo hoombre en el punissimo
-	<lb/>
-	vientre de la Virgen maria por obra del Spirtu
-	<lb/>
-	S.to Vivio en el mundo 33 anos nos en seno con su
-	<lb/>
-	vida y exemplo el camino del Cielo padecio grandes
-	<lb/>
-	trabajos y murio en el madero de la Cruz y derra-
-	<lb/>
-	mo toda su Sacratissima sangre por lavar nues-
-	<lb/>
-	tras almas de las manchas del pecado. Por es
-	<lb/>
-	axa Dios, y sinolo haces sexas ingrato a subineheios
-	<lb/>
-	Y horas un gran pecado.
-	<lb/>
-
     <pb n="122"/>
-	Cotoobi xibaa renna beeani canachijlo toobicij Dios corzee
-	<lb/>
-	telo, gozooxijbilo connixij bitoolo Chela xijnachilo toobi-
-	<lb/>
-	ci Dios, chelijlachilo tooci Dios cueezalachilo toobicij Dios 
-	<lb/>
-	guelani acarutibenni zooaca chaopi quiebaa yaca ge-
-	<lb/>
-	nnachij Dios nijaxtenni quella gonzachij xtenni Dios xo 
-	<lb/>
-	chaagani tonoo loo Dios Chij quee gannachijlo Dios chij-
-	<lb/>
-	gapalo xijbaa xtennini chela cacalachi gatihualoo 
-	<lb/>
-	nigoxijhui loo Dios; niaxtenni Bitoo Dios pezaanilooy
-	<lb/>
-	loo loo hua quella zetoobi lecaaca xtennini: pezaaa-
-	<lb/>
-	quixaaloo niaxtenni looy Chela penninilooy cijani
-	<lb/>
-	Xijllaabaneza. Quella huellaa guella huezalachi xten-
-	<lb/>
-	nini Dios nacani cixooteete. Quchani nij ani gozilla- 
-	<lb/>
-	nitonoo xtenni tolla tija chela zeehahuetolla pieete xte
-	<lb/>
-	nni guijabaa loo gueeche layoo Coxoopa persona xten
-	<lb/>
-	ni SS. a Trinidad chela gocani niguijo cocani benni
-	<lb/>
-	ati lijoo lanni nataateete xtenni S.ta Maria cha 
-	<lb/>
-	pa cocooni yoona loo xquella chijna Dios Espiritu S.to
-	<lb/>
-	Conijnabaani loo guechelayoo calle bichij choonaij-
-	<lb/>
-	za pegoozeeteni tonoo loo quella nabaani chelabe-
-	<lb/>
-	nnabi xtennini neza. Quijebaa: coxaacanijni-
-	<lb/>
-	quella cizoo chela gotini loo Yaaga Cruz chela co-
-	<lb/>
-	xijni quitoobi xinni nayoona teete xtennini nijani
-	<lb/>
-	quibini animas xtenne tonoo niaxtenni quella no-
-	<lb/>
-	zaabi ni rapalo ganachij loo Dios chela tibela aca-
-	<lb/>
-	ti gonnilo cicanij cacalo benniyaaca rizij bane-
-	<lb/>
-	zalo xilla xtenni Dios, huanee gonnilo toobitolla- 
-	<lb/>
-	xoo.
-	<lb/>
-
     </div>
     <!-- levanto-arte 8.1 -->
     <div xml:id="levanto-arte8.2">
     <head type="outline">Segundo Mandamiento</head>
-    Segunda Mandamiento
-    <lb/>
-    Has jurado en vano el S.to Nombre de Dios Ntro
-    <lb/>
-	S.r o’ de la siempre Virgen Maria o’ por la senal
-	<lb/>
-	de la S.ta Cruz o’ por algun Sto o’ po la vida de los hom
-	<lb/>
-	bres? 
-	<lb/>
-	Pezeetexijhuilo laa nachoono xtenni Besuanana
-	<lb/>
-	Dios laa xtenni Zelipe chaapa cocooni S.ta Maria 
-	<lb/>
-	la=
-	<lb/>
-
     <pb n="123"/>
-    laa niaxtenni bennabi Sta Cruz, laaniaxtenni tutila 
-    <lb/>
-	Sto laa niaxtenni quella nabaani benniati? 
-	<lb/>
-	Quantas vezes has jurado en vano el S.to nombre de Dios?
-	<lb/>
-	Palla liaaza pezaaca xijhuilo laa nachoono xtenni Dios?
-	<lb/>
-	quando juraste en vano, juraste con mentira?
-	<lb/>
-	Chij pezaacaxijhuilo, pezaacaxijhuilo loo quella huenilachi?
-	<lb/>
-	Te fue muy necexario el q.e juraras?
-	<lb/>
-	Naguijna teete looy cocani ni cozaacalo?
-	<lb/>
-	Quando jurastes el S.to nombre de Dios, juraste cosa buena o
-	<lb/>
-	mala?
-	<lb/>
-	Chijpezaacalo laa xtenni Dios pezeetelo nezaaca laa 
-	<lb/>
-	Aquij zaaca?
-	<lb/>
-	Ha de saver hijo mio q.e es muy necerario para q.e el ju-
-	<lb/>
-	ramento sea bueno o para jurar bien el S.to Nombre 
-	<lb/>
-	de Dios N.tro S.r q.e se jure con verdad con justicia y con ne
-	<lb/>
-	cesidad porq.e sino sera pecadoel jarer el S.to Nombre
-	<lb/>
-	de Dios N.tro S.r
-	<lb/>
-	Quiennilo xinni xtennia ninacani naquijnateete-
-	<lb/>
-	nijani juramento gacani nazaaca laa nijani gozaa-
-	<lb/>
-	ca chahui laa nachoono xtenni Besuanana Dios ni-
-	<lb/>
-	ticha huegoona gacani loo quella nalij loo guella na-
-	<lb/>
-	zaaca chelanee loo quella naguijna nija xtenni tebe-
-	<lb/>
-	la yaaca cacani toollaroo gozaaca laa xtenni Dios.
-	<lb/>
-	Quando juraste en vano el S.to Nombre de Dios levan-
-	<lb/>
-	taste falso testimonio a tu proximo? 
-	<lb/>
-	Chij pezaacaxijhulo laa nachoono xtenni Dios pegoo
-	<lb/>
-	axijhuilo lezaalo?
-	<lb/>
-	Entonces padecio tu proximo algun dano?
-	<lb/>
-	Chij quee goxaaca lezaalo xijtila quellaxij?
-	<lb/>
-	Fue el dano grave o leve?
-	<lb/>
-	Goca quellazijnanoo laa huini
-	<lb/>
-	No levante falso testimonio a mi proximo quando
-	<lb/>
-	jure el S.to Nombre de Dios, solo jure en vano su S.to 
-	<lb/>
-	Nombre. 
-	<lb/>
-
-
     <pb n="124"/>
-    Acati pegooaxijhuialezaaya chij pezaacaya laana- 
-    <lb/>
-	choono xtenni Dios, xilaaci pezaacaxijhuia laa nachoo- 
-	<lb/>
-	no xtennini.
-	<lb/>
-	Aun q.e sea assi es muy gran pecado jurar en vano 
-	<lb/>
-	el Sto de Dios
-	<lb/>
-	Zaabeeca cicaxijgaca tollanoo teete nacani cozaaca
-	<lb/>
-	xijhui laa Nachoono xtenni Dios.
-	<lb/>
-	Quando juraste el Sto Nombre de Dios dudarte te siera
-	<lb/>
-	verdad o’ mentora lo q.e decias en aguellas palabras?
-	<lb/>
-	Chijpezaacalo laa nachoono xteni Dios piganala
-	<lb/>
-	chilo tebela nacani quella nallij, laa quella hue-
-	<lb/>
-	nni lachi ni cochilo loo ticha quee.
-	<lb/>
-	Has sido testigo. Has recivido juramento por man-
-	<lb/>
-	dato de Juez?
-	<lb/>
-	Cocalo testigo? Coxijlo quella huezeete, loo quella 
-	<lb/>
-	rinnabea Juez?
-	<lb/>
-	Entonces mentiste, ocultastes entonces la verdad? 
-	<lb/>
-	Chijquee pennilachilo pezeegolachilo, chijquee que
-	<lb/>
-	lla nallij?
-	<lb/>
-	Has inducido a otros a q.e juren en Nombre de Dios
-	<lb/>
-	Peguijllelo zeetoobi benni nijani cozaacanilaa Dios?
-	<lb/>
-	Tienes costumbre de jurar el Nombre de Dios?
-	<lb/>
-	Huaxapalo xbeea cozaacalo laa Dios?
-	<lb/>
-
     <pb n="125"/>
     </div>
     <!-- levanto-arte 8.2 -->
     <div xml:id="levanto-arte8.3">
     <head type="outline">Tercer Mandamiento</head>
-    Tercer Mandiamiento 
-    <lb/>
-	Has satificado los Domingos y Fiestas?
-	<lb/>
-	Coxijna chilo chij Domingo, chij lanijroo?
-	<lb/>
-	Has dejado la misa los Domingos y Fiestas?
-	<lb/>
-	Pezaanalo Juissa chij Domingo, chij lanijroo?
-	<lb/>
-	Porq.e omitiste la Missa, o oyr missa?
-	<lb/>
-	Xijnija pezaana connalo cannalo Missa?
-	<lb/>
-	Algunos veces dese de ooyr missa porpex aza, otras
-	<lb/>
-	porq.e estuve emfermo y otras porq.e  me guede a guardon 
-	<lb/>
-	mi Cassa
-	<lb/>
-	Huazoochij pezaana gonnaya gannaya Missaloo
-	<lb/>
-	quella cobeete xtennia: Zochij nia xtenni coxaaca-
-	<lb/>
-	ya quella guicha chela zoochijnia xtenni peaana
-	<lb/>
-	gopayalichia. 
-	<lb/>
-	Quando oyste Missalos dias de fiesta te divertiste 
-	<lb/>
-	voluntaria nente en el ella?
-	<lb/>
-	Chijpinatiagalo Missa chijlaanij;piaanilachilo qui
-	<lb/>
-	Toobilachilo loolaaca Missa?
-	<lb/>
-	Se quedaron los de tu casa sin oyr missa en dia de
-	<lb/>
-	fiesta por culpa tuya?
-	<lb/>
-	Peaana acati connani cannani Missa beninarij
-	<lb/>
-	lichilo niastenni xtollalo
-	<lb/>
-	Has trabajado en dia de fiesta
-	<lb/>
-	Pennilo Chijna Chij Domingo, chij laanijnoo?
-	<lb/>
-	que causa huvo para trabajar? fue el trabajo gran 
-	<lb/>
-	de, o’ pequeno?
-	<lb/>
-	Xijnija goca nijani gonnilo Chijna? Chajnani
-	<lb/>
-	pennilo cocani chijnanoo laa hueni?
-	<lb/>
-	Has hecho trabajara otros, en dias de fiesta?
-	<lb/>
-	Peconnilo Chijna zeetoobi benni Chijlaanijnoo?
-	<lb/>
-
     <pb n="126"/>
     </div>
     <!-- levanto-arte 8.3 -->
     <div xml:id="levanto-arte8.4">
     <head type="outline">Quarto Mandamiento</head>
-    Quarto Mandamiento. 
-    <lb/>
-	Has honrnado a tu Padre, y Madre?
-	<lb/>
-	Goxijnachilo Bixoozeelo Chela Xinaalo?
-	<lb/>
-	Has obedecido lo q.e te han mandado tus Padres?
-	<lb/>
-	Pezooba xtichalo, ni connabeeanilooy Bixoozelo
-	<lb/>
-	Xinaalo?
-	<lb/>
-	Has perdido el respeto a tus Padres rehas ayrados
-	<lb/>
-	con ellos?
-	<lb/>
-	Pezaacaloolo Bixooze xinaalo pichijchilachiloloo
-	<lb/>
-	Niquee?
-	<lb/>
-	Les pediste perdon te hincarte de rrodillos delante de 
-	<lb/>
-	ellos?
-	<lb/>
-	Connabalo quella huenijtiloo, pezooxijbilolooni Bi-
-	<lb/>
-	xooze , Xinaalo?
-	<lb/>
-	Pordiste el respecto a tu mayores?
-	<lb/>
-	Pezaacaloolo benni gola?
-	<lb/>
-	Ya se hizo la paz?
-	<lb/>
-	Baa coca quella huelaaya?
-	<lb/>
-	Tienes hijos, tienes familia les ensenas la Doctri
-	na y q.e amena Dios?
-	<lb/>
-	Huanoo xinnilo huarapalo benni hualichilo 
-	<lb/>
-	pegozeetelo yoobini tichalaaya xtenni Besuanana
-	<lb/>
-	Jesu Christo huanee ni gannachijniloo Dios?
-	<lb/>
-	Has hecho alguna cosa mala o’ algun pecado delan- 
-	<lb/>
-	te de tus hijos y familia?
-	<lb/>
-	Pennilo xijala aguijzaacalaa xijtilatollaloo nixi- 
-	<lb/>
-	nnilo chela benni hualichilo?
-	<lb/>
-	Amas a tu consorte como Dios N.tro S.r manda?
-	<lb/>
-	Huaranachij lechelalo cica Besuanana Dios?
-	<lb/>
-	xennabeeani?
-	<lb/>
-	Has aporreado a tu consorte?
-	<lb/>
-	Cotijnilo lechelado?
-	<lb/>
-
     <pb n="127"/>
-    Has son pechado de tu Consorte?
-    <lb/>
-	Pechaaxijhuilachilo lechelalo?
-	<lb/>
-	Le levantas te falso testimonio, diciendole q.e habia pecado?
-	<lb/>
-	Pegoaxijhuilachilo niquee huaxabilo yoobini nipexij
-	<lb/>
-	Huineeni?
-	<lb/>
-	Has negado el devito a tu Consorte?
-	<lb/>
-	Peguaalo xpellalaati lechelalo?
-	<lb/>
-	Porq.e?-------------- Xijnija?
-	<lb/>
-	Porq.e estaba enojado con ella, porq.e tuve son pechos
-	<lb/>
-	De ella con otro hombre, y tuve zelos, porq.e estaba yo em
-	<lb/>
-	formo.
-	<lb/>
-	Nijaxtenni cotooxoneelachia lechelaya, niaxtenni
-	<lb/>
-	Pechaa xijhuilachia yoobini chelanee zeetoobi nigijo
-	<lb/>
-	chelanee cocaanahalachia, nijaxtenni goxaacaya-
-	<lb/>
-	quella guijcha.
-	<lb/>
-	Porq.e estaba con nis costumbre porq.e estaba oriando
-	<lb/>
-	porq.e estaba preñada.
-	<lb/>
-	Nijaxtenni cocaxbijnija niaxtenni peyachiabatoo
-	<lb/>
-	nijaxtenni noo xinni lijoo laanni xtennia.
-	<lb/>
-	Has sustentado a tus Padres, quando has estado pobres?
-	<lb/>
-	Peyaanalo Bixoozelo Xinaalo Chijgoca chivaani?
-	<lb/>
-	Pruegas a Dios por tuss Padres difunctos?
-	<lb/>
-	Reyoonila chilo loo Bitoo Dios nijaxtenni Bixoo-
-	<lb/>
-	zelo Xijnaalo nicotini?
-	<lb/>
-	Has cumplido sus testamentos como lo mandarosi?
-	<lb/>
-	Pezoobatichalo gujchi testamento xtennini cica con-
-	<lb/>
-	nabeeani? 
-	<lb/>
-	Sedijeron las missas q.e manaron tus Padres en su 
-	<lb/>
-	testamento para q.e Dios N.tro S.r sague sus almas
-	<lb/> 
-	del purgatorio?
-	<lb/>
-	Cocaani missas ni connabeeani Bixooze xijñaalo
-	<lb/>
-	Loo guijchi testamento xtennini nijani Besuana
-	<lb/>
-	Na Dios cueeni animas xtennini xtenni Pur-
-	<lb/>
-	gatorio?
-	<lb/>
-
     <pb n="128"/>
     </div>
     <!-- levanto-arte 8.4 -->
     <div xml:id="levanto-arte8.5">
     <head type="outline">Quinto Mandamiento</head>
-    Quinto Mandamiento
-    <lb/>
-	Has matado algun hombre?
-	<lb/>
-	Petilo tutila benniati?
-	<lb/>
-	Has aporreado a tu proximo con palo le tiraste
-	<lb/>
-	Piedras o le heriste con fierro?
-	<lb/>
-	Cotiñelo tuti benniati lezaalo yaaga peocalo quije
-	<lb/>
-	laa gochijbi guijbalo quee?
-	<lb/>
-	Te has ayriado con tu proximo?
-	<lb/>
-	Pichies hilachilo lezaalo?
-	<lb/>
-	Con quantos proximos? Quantas vecos?
-	<lb/>
-	Pallalezaalo? palla liaaza?
-	<lb/>
-	Has oborrecido a tu Proximo?
-	<lb/>
-	Pechijbalachilo Lezaalo?
-	<lb/>
-	Has descado la muerte a tu Proximo?
-	<lb/>
-	Gozaabilachilo quella gooti lezaalo?
-	<lb/>
-	Has descado la muerte a ? mismo o a tus Padres o con-
-	<lb/>
-	sorte o hijos?
-	<lb/>
-	Gozaabilachilo quella gooti yoobilo taa xtaata xnnaa
-	<lb/>
-	nalo laa lechelalo laa xinnilo?
-	<lb/>
-	Has mal decido coteetelo?
-	<lb/>
-	Aquiel mal deciste? Tuxa Coteelo?
-	<lb/>
-	Memaldije a mi ami consorte, a mis Padres, a mis 
-	<lb/>
-	hijos a mis enemigos. 
-	<lb/>
-	Gotee yoobia lechelaya, Bixoozea, xiñaaya xinnia, 
-	<lb/>
-	Chela xquella yeea.
-	<lb/>
-	Maldeciste con todo tu corazon?
-	<lb/>
-	Pechijbateelo quitoobilachilo?
-	<lb/>
-	Mandeciste con advertencia reparando lo q.e decias?
-	<lb/>
-	Coteelo looquella xibaaqui xoolachihuaribaa gui
-	<lb/>
-	tijpalachilo ni connijlo?
-	<lb/>
-	Solo mandeci de voca. Xilaaci cotee ruaya.
-	<lb/>
-	Quanto tiempo tuviste eseoborrccimiento?
-	<lb/>
-	Palla gubijcha copalo quella huechijbalachirij?
-	<lb/>
-
     <pb n="129"/>
     </div>
     <!-- levanto-arte 8.5 -->
