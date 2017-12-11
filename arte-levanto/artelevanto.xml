@@ -2412,21 +2412,21 @@
      <choice> <orig>De</orig><reg type="spanish">¿De</reg></choice> <choice> <orig>q.e</orig><reg type="spanish">que</reg></choice> Pueblo eres? <foreign xml:lang="zap">Caazooba gueechelo?</foreign>  Como
 
     <pb n="108"/>
-    Como se llaman sus Padres?
+    <choice> <orig>Como</orig><reg type="spanish">¿Cómo</reg></choice> se llaman sus Padres?
     <lb/>
     <foreign xml:lang="zap"> Tu laani xtaataj xnaanalo? </foreign>
     <lb/>
-    Como se llamaba tu Esposa Difunta?
+     <choice> <orig>Como</orig><reg type="spanish">¿Cómo</reg></choice>  se llamaba tu Esposa Difunta?
     <lb/>
     <foreign xml:lang="zap"> Chuulaani lecheelalo ni cootini? </foreign>
     <lb/>
-    Te quieres casar con N. con todo tu corazon y alma?
+     <choice> <orig>Te</orig><reg type="spanish">¿Te</reg></choice> quieres casar con  <choice> <orig>N.</orig><reg type="spanish">Nombre</reg></choice>  con todo tu corazon y alma?
     <lb/>
     <foreign xml:lang="zap"> Racalachi gochaagañaalo loo N. quitoobi lachi qui-
     <lb/>
     toobi anima xtennilo? </foreign>
     <lb/>
-    Te hacen fuerza tus Padres, ó alguna otra perso-
+    <choice> <orig>Te</orig><reg type="spanish">¿Te</reg></choice>  hacen fuerza tus Padres,  <choice> <orig>ó</orig><reg type="spanish">o</reg></choice>  alguna otra perso-
     <lb/>
     na para que le cases?
     <lb/>
@@ -2443,7 +2443,7 @@
     <lb/>
     naa (niguijo)? </foreign>
     <lb/>
-    Es tu pariente esta <choice> <orig>muger</orig> <reg type="spanish">mujer</reg> </choice> (este hombre) con quien
+    <choice> <orig>Es</orig><reg type="spanish">¿Es</reg></choice> tu pariente esta <choice> <orig>muger</orig> <reg type="spanish">mujer</reg> </choice> (este hombre) con quien
     <lb/>
     te quieres casar?
     <lb/>
@@ -2451,7 +2451,7 @@
     <lb/>
     ni racalachi cochaagañaalo? </foreign>
     <lb/>
-    Has pecado con alguna Parienta de esta <choice><orig>muger</orig> <reg type="spanish">mujer</reg> </choice> -
+    <choice> <orig>Has</orig><reg type="spanish">¿Has</reg></choice> pecado con alguna Parienta de esta <choice><orig>muger</orig> <reg type="spanish">mujer</reg> </choice> -
     <lb/>
     (Pariente de este hombre) con que te quieres casar?
     <lb/>
@@ -2461,46 +2461,45 @@
     <lb/>
     Gochaagañaalo? </foreign>
     <lb/>
-    Vete con la bendicion de Dios, y llama <choice> <orig>ã</orig> <reg type="spanish">á</reg> </choice>
-    <lb/>
-    el primer testigo.
+    Vete con la <choice> <orig>bendicion</orig><reg type="spanish">bendición</reg></choice> de Dios, y llama <choice> <orig>ã <lb/>el</orig> <reg type="spanish">al <lb/></reg> </choice>
+    primer testigo.
     <lb/>
     <foreign xml:lang="zap"> Cuyee quella   huennilaaya     xtenni      Dios    chela co-
     <lb/>
     xijche cotoobi testigo. </foreign>
     <pb n="109"/>
     <div xml:id="levanto-arte3.4.1">
-    <head type= "outline"> <choice> <orig>Ynterrogatorio</orig> <reg type="spanish">Interrogatorio</reg> </choice> <choice> <orig>ã</orig> <reg type="spanish">á</reg> </choice> los testigos </head>
+    <head type= "outline"> <choice> <orig>Ynterrogatorio</orig> <reg type="spanish">Interrogatorio</reg> </choice> <choice> <orig>ã</orig> <reg type="spanish">a</reg> </choice> los testigos </head>
     <lb/>
-    Haces jurtamento de respnoder la verdad, <choice> <orig>ã</orig> <reg type="spanish">á</reg> </choice> todo lo
+    <choice> <orig>Haces</orig> <reg type="spanish">¿Haces</reg> </choice> juramento de responder la verdad, <choice> <orig>ã</orig> <reg type="spanish">a</reg> </choice> todo lo
     <lb/>
-    <choice> <orig>q.e</orig> <reg type="spanish">que</reg> </choice> te preguntare?
+    <choice> <orig>q.e</orig> <reg type="spanish">que</reg> </choice> te  <choice> <orig>preguntare</orig> <reg type="spanish">preguntaré</reg> </choice>?
     <lb/>
-    <foreign xml:lang="zap"> Huaxonnilo juramento quicaabilo ticha quella na-
+    <foreign xml:lang="zap"> Huaxonnilo juramento quicaabilo ticha quella nã-
     <lb/>
     lijloo quiraa ni quinnaaba tichaya looy? </foreign>
     <lb/>
-    Conoces <choice> <orig>ã</orig> <reg type="spanish">á</reg> </choice> estos <choice> <orig>q.e</orig> <reg type="spanish">que</reg> </choice> se quieren casar?
+    <choice> <orig>Conoces</orig> <reg type="spanish">¿Conoces</reg> </choice> <choice> <orig>ã</orig> <reg type="spanish">a</reg> </choice> estos <choice> <orig>q.e</orig> <reg type="spanish">que</reg> </choice> se quieren casar?
     <lb/>
     <foreign xml:lang="zap"> Huaraca pecalonnij niracalachi gochaagaanaani? </foreign>
     <lb/>
-    Saves si se quieren casar con todo su corazon?
+    <choice> <orig>Saves</orig> <reg type="spanish">¿Sabes</reg> </choice> si se quieren casar con todo su corazon?
     <lb/>
     <foreign xml:lang="zap"> Huannanalo tebela naca lachi cochaagañaani-
     <lb/>
     quitoobi lachi tooni </foreign>
     <lb/>
-    Saves si alguno les ha hecho fuerza para q.e se casen?
+    <choice> <orig>Saves</orig> <reg type="spanish">¿Sabes</reg> </choice> si alguno les ha hecho fuerza para <choice> <orig>q.e</orig> <reg type="spanish">que</reg> </choice> se casen?
     <lb/>
     <foreign xml:lang="zap"> Huannaanalo tebela tutila pennini niqueequella
     <lb/>
     natijpa, nijani cochaagañaani? </foreign>
     <lb/>
-    Saves óhas oido decir en el Pueblo, si este hombre
+    <choice> <orig>Saves</orig> <reg type="spanish">¿Sabes</reg> </choice> <choice> <orig>ó</orig> <reg type="spanish">o</reg> </choice> has oido decir en el Pueblo, si este hombre
     <lb/>
-    dió palabarse casamiento <choice> <orig>ã</orig> <reg type="spanish">á</reg> </choice> otra <choice> <orig>muger</orig> <reg type="spanish">mujer</reg> </choice>, ó esta <choice> <orig>muger</orig> <reg type="spanish">mujer</reg> </choice>
+    dió palabarse casamiento <choice> <orig>ã</orig> <reg type="spanish">a</reg> </choice> otra <choice> <orig>muger</orig> <reg type="spanish">mujer</reg> </choice>, <choice> <orig>ó</orig> <reg type="spanish">o</reg> </choice> esta <choice> <orig>muger</orig> <reg type="spanish">mujer</reg> </choice>
     <lb/>
-    <choice> <orig>ã</orig> <reg type="spanish">á</reg> </choice> ortro hombre?
+    <choice> <orig>ã</orig> <reg type="spanish">á</reg> </choice> otro hombre?
     <lb/>
     <foreign xml:lang="zap"> Huannaanalo laa piñatiagolo loo gueche tebela
     <lb/>
@@ -2510,13 +2509,13 @@
     <lb/>
     ni ticha quella hueechaagañaa zeetoobi benniniguijo? </foreign>
     <lb/>
-    Saves vi son parientes?
+    <choice> <orig>Saves</orig> <reg type="spanish">¿Sabes</reg> </choice> si son parientes?
     <lb/>
     <foreign xml:lang="zap"> Huannanalo tebela nacani stijani? </foreign>
     <lb/>
-    Saves si este hombre pecó, con alguna pariente de esta
+    <choice> <orig>Saves</orig> <reg type="spanish">¿Sabes</reg> </choice> si este hombre pecó, con alguna pariente de esta
     <lb/>
-    <choice> <orig>muger</orig> <reg type="spanish">mujer</reg> </choice>, ó si esta <choice> <orig>muger</orig> <reg type="spanish">mujer</reg> </choice> pecó con algun pariente de este
+    <choice> <orig>muger</orig> <reg type="spanish">mujer</reg> </choice>, <choice> <orig>ó</orig> <reg type="spanish">o</reg> </choice> si esta <choice> <orig>muger</orig> <reg type="spanish">mujer</reg> </choice> pecó con algun pariente de este
     <lb/>
     hombre?
     <lb/>
@@ -2528,9 +2527,9 @@
     <lb/>
     niguijonij? </foreign>
     <lb/>
-    Saves si este hombre dio palabra de casamiento <choice> <orig>ã</orig> <reg type="spanish">á</reg> </choice> es-
+    <choice> <orig>Saves</orig> <reg type="spanish">¿Sabes</reg> </choice> si este hombre dio palabra de casamiento <choice> <orig>ã</orig> <reg type="spanish">a</reg> </choice> es-
     <lb/>
-    ta <choice> <orig>muger</orig> <reg type="spanish">mujer</reg> </choice>, quando vivia su consorte?
+    ta <choice> <orig>muger</orig> <reg type="spanish">mujer</reg> </choice>, <choice> <orig>quando</orig> <reg type="spanish">cuando</reg> </choice> <choice> <orig>vivia</orig> <reg type="spanish">vivía</reg> </choice> su consorte?
     <lb/>
     <foreign xml:lang="zap"> Huannanalo tebela bennijijonij peeteeteni ticha-
     <lb/>
