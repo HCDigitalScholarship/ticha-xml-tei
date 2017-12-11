@@ -1191,6 +1191,7 @@
     <lb/>
     lares, queda ya dicho en su lugar
     <lb/>
+    <div xml:id='levanto-arte1.3.4'>
     <head type='outline'>Quarta Conjugacion</head>
     <head> Quarta Conjugacion-<foreign xml:lang='zap'>Ro-Pe-Co</foreign>,</head>
     <lb/>
@@ -1417,6 +1418,12 @@
     <head type='outline'>Nota 4a</head>
     <pb n="60"/>
     <pb n="61"/>
+    </div>
+    <!--levanto-arte 1.3.4.21.4-->
+    </div>
+    <!--levanto-arte 1.3.4.21-->
+    </div>
+    <!--levanto-arte 1.3.4-->
     </div>
     <!-- levanto-arte 1.3 -->
     <div xml:id="levanto-arte1.4">
