@@ -2165,7 +2165,7 @@
     <lb/>
     <foreign xml:lang="zap">tu laalo Caa zaalo.
     <lb/>
-    Ya se <choice><orig>acabo</orig><reg type="spanish">acabó</reg></choice>, De <choice<orig>vete(idos)</orig><reg type="spanish">vete(ies)</reg></choice>_ Baa coloosi, cuyee (Colachee)</foreign>
+    Ya se <choice><orig>acabo</orig><reg type="spanish">acabó</reg></choice>, De <choice><orig>vete(idos)</orig><reg type="spanish">vete(ies)</reg></choice>_ Baa coloosi, cuyee (Colachee)</foreign>
     </div>
     <!-- levanto-arte 3.1 -->
 
@@ -2251,42 +2251,43 @@
     </foreign>
 
     <pb n="103"/>
-    <choice><orig>Crees q.e N.tro S.r  Jesu Christo murio en el arbol de la</orig><reg type="spanish">Crees que Nosotros  Jesus Christo murió en el arbol de la</reg></choice>
+    <choice><orig>Crees q.e N.tro S.r Jesu Christo murio en el arbol de la</orig><reg type="spanish">¿Crees que Nuestro  Jesus Christo murió en el arbol de la</reg></choice>
     <lb/>
     <choice><orig>Cruz para redimir a todos nosotros pecadores?</orig><reg type="spanish">Cruz para redimir a todos nosotros pecadores?</reg>
     </choice>
     <lb/>
-    <foreign xml:lang="zap">Huarieelijlachilo, ni Bejuannana Jesu Christo
+    <foreign xml:lang="zap">Huarieelijlachilo, ni Besuannana Jesu Christo
     <lb/>
-    cotini loo yaaga
+    cotini loo Yaaga
     Cruz niaxtenni cozijllaani quiraa 
     <lb/>
     lijtonoo benni huexijhui</foreign>
     <lb/>
     <choice>
-    <orig>Crees q.e N.tro S.r Jesu Christo fue sepultado y q.e </orig><reg type="spanish">Crees que Nuestros Señor Jesus Christo fue sepultado y que</reg>
+    <orig>Crees q.e N.tro S.r Jesu Christo fue sepultado y q.e </orig><reg type="spanish">¿Crees que Nuestro Señor Jesus Christo fue sepultado y que</reg>
     </choice>
     <lb/>
     <choice>
-    <orig>su anima SS.a junta con la Divinidad bajo a los</orig><reg type="spanish">su anima Santissima junta con la Divinidad bajó a los</reg>
+    <orig>su anima SS.a junta con la Divinidad bajo a los</orig><reg type="spanish">su anima Santísima junta con la Divinidad bajó a los</reg>
     </choice>
     <lb/> <choice>
-    <orig>infiernos, y vaco a las almas de los S.tos Padres q.e es</orig><reg type="spanish">infiernos, y vacó a las almas de los estos Padres que es</reg>
+    <orig>infiernos, y vaco a las almas de los S.tos Padres q.e es</orig><reg type="spanish">infiernos, y vacó a los almas de los estos Padres que es</reg>
     </choice>
     <lb/>
     <choice>
-    <orig>peraban su s.to advenimiento? </orig><reg type="spanish">peraban su santo advenimiento?</reg>
+    <orig>peraban su S.to advenimiento? </orig><reg type="spanish">peraban su Santo advenimiento?</reg>
     </choice>
     <lb/>
-    <foreign xml:lang="zap">Huarieelijlachilo, ni Bejuannana Jesu Christo pi 
+    <foreign xml:lang="zap">Huarieelijlachilo, ni Bejuannana Jesu Christo pi- 
     <lb/>
     cachini chela anima nayoona xtennini huañee
     <lb/>
     quella bitoo pieteni gavijlla chela coloni animas 
     <lb/>
-    xtenni S.tos  ni coleezani quella pitao yoona sten
+    xtenni S.tos  ni coleezani quella pitao yoona sten-
     <lb/>
-    nini</foreign> 
+    nini</foreign>
+    <lb/> 
     <choice> <orig>Crees q.e N.to S.r Jesu Christo ã el tercero dia
     <lb/>
     resucito de entre los muertos y pasados quarenta dias 
@@ -2294,9 +2295,9 @@
     subio ã los Cielos y se sento ã la diestra de Dios Padre
     <lb/>
     todo poderoso?</orig>
-    <reg type="spanish">Crees qe Neustro Señor Jesus Christo a el tercero día
+    <reg type="spanish">¿Crees que Nuestro Señor Jesus Christo al tercero día
     <lb/>
-    resucito de entre los muertos y pasados cuarenta días 
+    resucitó de entre los muertos y pasados cuarenta días 
     <lb/>
     subió a los Cielos y se sintió a la diestra de Dios Padre
     <lb/>
@@ -2306,7 +2307,7 @@
     <lb/>
     <foreign xml:lang="zap">Huarieelijlachialo, ni Bejuannana Jesu Christo
     <lb/>
-    peeayochijgaa pebaanini lahui bennicoti chela
+    peea yochijgaa pebaanini lahui bennicoti chela
     <lb/>
     coteete? coruuachij peeapinni quieebaa chela co
     <lb/>
@@ -2315,10 +2316,10 @@
     lacoca?</foreign>
     <lb/>
     <choice>
-    <orig>Crees q.e el dia del Juicio vendra ā juzgar ã los bue</orig><reg type="spanish">Crees que el día del Juicio vendra a juzgar a los bue</reg>
+    <orig>Crees q.e el dia del Juicio vendra ā juzgar ã los bue-</orig><reg type="spanish">¿Crees que el día del Juicio vendrá a juzgar a los bue</reg>
     </choice> 
     <lb/> <choice>
-    <orig>nos, y ã los malos, para dar ã los buonos la gloria y ã</orig><reg type="spanish">nos, y a los malos, para dar a los buonos la gloria y a</reg>
+    <orig>nos, y ã los malos, para dar ã los buenos la gloria y ã</orig><reg type="spanish">nos, y a los malos, para dar a los buenos la gloria y a</reg>
     </choice>
     
     <lb/> <choice>
@@ -2336,7 +2337,7 @@
     <lb/>
     ca quella zij, quella chijbaa Zelijpe?</foreign>
     <lb/>
-    Bes a la Cruz ---- <foreign xml:lang="zap">Pechagaroa Cruz</foreign>
+    Bes a la Cruz <foreign xml:lang="zap">Pechagaroa Cruz</foreign>
 
     <pb n="104"/>
     Crees firmemente con todo tu corazon <choice> <orig>q.e</orig> <reg type="spanish">que</reg> </choice> en esta <choice> <orig>S.ta</orig> <reg type="spanish">Santa</reg> </choice>
