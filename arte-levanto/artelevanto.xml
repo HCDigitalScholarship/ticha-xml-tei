@@ -1725,99 +1725,99 @@
     <div xml:id="levanto-arte2">
     <head type="outline">Quenta en Zaapoteco</head>
     <head> 
-    <choice><orig>quenta</orig><reg type="spanish">contando</reg></choice> en  <choice>
+    <choice><orig>Quenta</orig><reg type="spanish">Cuenta</reg></choice> en  <choice>
     <orig>Zaapoteco</orig><reg type="spanish">Zapoteco</reg></choice>: 
     </head>
     
     <lb/>
     <cb n="1"/>
-    1- - - - - - <foreign xml:lang="zap"> Toobi </foreign> - - - 
+    1<foreign xml:lang="zap"> Toobi </foreign> 
     <lb/>
-    2- - - - - <foreign xml:lang="zap"> Tioopa, choopa </foreign>
+    2 <foreign xml:lang="zap"> Tioopa, choopa </foreign>
     <lb/>
-    3 - - - -  <foreign xml:lang="zap"> C^hoona </foreign> - - - - 
+    3 <foreign xml:lang="zap"> Choona </foreign> 
     <lb/>
-    4 - - - - <foreign xml:lang="zap"> Taapa </foreign> - - -       
+    4 <foreign xml:lang="zap"> Taapa </foreign>      
     <lb/>
-    5 - - - - <foreign xml:lang="zap"> Gaayo </foreign> - - -       
+    5  <foreign xml:lang="zap"> Gaayo </foreign> 
     <lb/>
-    6 - - - - <foreign xml:lang="zap"> Xoopa </foreign>  - - -       
+    6 <foreign xml:lang="zap"> Xoopa </foreign>       
     <lb/>
-    7 - - - - <foreign xml:lang="zap"> Gaache </foreign> - - -      
+    7  <foreign xml:lang="zap"> Gaache </foreign>   
     <lb/>
-    8 - - - - <foreign xml:lang="zap"> Xoono </foreign> - - -       
+    8 <foreign xml:lang="zap"> Xoono </foreign> 
     <lb/>
-    9 - - - - <foreign xml:lang="zap"> Gaa </foreign> - - - -       
+    9 <foreign xml:lang="zap"> Gaa </foreign>   
     <lb/>
-    10 - - - - <foreign xml:lang="zap"> Chij </foreign> - - - - - -     
+    10  <foreign xml:lang="zap"> Chij </foreign> 
     <lb/>
-    11 - - - - <foreign xml:lang="zap"> Chijbi toobi </foreign> - -     
+    11 <foreign xml:lang="zap"> Chijbi toobi </foreign>      
     <lb/>
-    12 - --- <foreign xml:lang="zap"> Chijbi tioopa Choopa </foreign>  
+    12  <foreign xml:lang="zap"> Chijbi tioopa choopa </foreign>  
     <lb/>
-    13 - - - - <foreign xml:lang="zap"> Chijño </foreign> - - - -       
+    13 <foreign xml:lang="zap"> Chijño </foreign>  
     <lb/>
-    14 - - - - <foreign xml:lang="zap"> Chijtaa </foreign> - - -     
+    14 <foreign xml:lang="zap"> Chijtaa </foreign>  
     <lb/>
-    15 - - - - <foreign xml:lang="zap"> Chijno </foreign> - - - -       
+    15 <foreign xml:lang="zap"> Chijno </foreign>  
     <lb/>
-    16 - - - <foreign xml:lang="zap"> Chijnoo bitoobi </foreign> 
+    16 <foreign xml:lang="zap"> Chijnoo bitoobi </foreign> 
     <lb/>
-    17 - - - <foreign xml:lang="zap"> Chijnoo bitioopa </foreign>
+    17 <foreign xml:lang="zap"> Chijnoo bitioopa </foreign>
     <lb/>
-    18 - - - <foreign xml:lang="zap"> Chijnobichoona </foreign>     
+    18 <foreign xml:lang="zap"> Chijno bichoona </foreign>     
     <lb/>
-    19 - - - <foreign xml:lang="zap">Chijnobitaapa </foreign>- -      
+    19 <foreign xml:lang="zap">Chijno bitaapa </foreign>      
     <lb/>
-    20 - - - - <foreign xml:lang="zap"> Calle </foreign> - - - - - -    
+    20  <foreign xml:lang="zap"> Calle </foreign> 
     <lb/>
-    21- - - <foreign xml:lang="zap"> Calle bitoobi </foreign> - - -     
+    21  <foreign xml:lang="zap"> Calle bitoobi </foreign>  
     <lb/>
-    22 - - - - <foreign xml:lang="zap"> Calle bixoopa </foreign> - - -  
+    22 <foreign xml:lang="zap"> Calle bixoopa </foreign>  
     <lb/>
-    23 - - - <foreign xml:lang="zap"> Calle bichoona </foreign> - - -   
+    23 <foreign xml:lang="zap"> Calle bichoona </foreign> 
     <lb/>
-    24 - - - <foreign xml:lang="zap"> Calle bitaapa </foreign> - - -    
+    24 <foreign xml:lang="zap"> Calle bitaapa </foreign> 
     <lb/>
-    25 - - <foreign xml:lang="zap"> Calle bigaayo </foreign> - - -      
+    25  <foreign xml:lang="zap"> Calle bigaayo </foreign> 
     <lb/>
-    26 - - <foreign xml:lang="zap"> Calle bixoopa </foreign> - - - 
+    26 <foreign xml:lang="zap"> Calle bixoopa </foreign> 
     <cb n="2"/>
-    27- - - <foreign xml:lang="zap">Callebigaache </foreign> - - -
+    27 <foreign xml:lang="zap">Calle bigaache </foreign> 
     <lb/>
-    28- - <foreign xml:lang="zap"> Callebixoono </foreign> - - -
+    28 <foreign xml:lang="zap"> Calle bixoono </foreign> 
     <lb/>
-    29- - <foreign xml:lang="zap"> Callebigaa </foreign>- - -
+    29 <foreign xml:lang="zap"> Calle bigaa </foreign>
     <lb/>
-    30 - - <foreign xml:lang="zap"> Callebichij </foreign> - - -
+    30  <foreign xml:lang="zap"> Calle bichij </foreign> 
     <lb/>
-    31 - - <foreign xml:lang="zap"> Callebichij toobi </foreign> - - - -
+    31 <foreign xml:lang="zap"> Calle bichij toobi </foreign> 
     <lb/>
-    32 <foreign xml:lang="zap"> Callebichij tioopa </foreign> - - -
+    32 <foreign xml:lang="zap"> Calle bichij tioopa </foreign> 
     <lb/>
-    33 <foreign xml:lang="zap"> Callebichij Choona </foreign>
+    33 <foreign xml:lang="zap"> Calle bichij choona </foreign>
     <lb/>
-    34 - <foreign xml:lang="zap"> Callebichij taapa </foreign> - - -
+    34 <foreign xml:lang="zap"> Calle bichij taapa </foreign> 
     <lb/>
-    35 <foreign xml:lang="zap"> Callebichij gaayo </foreign> - - -
+    35 <foreign xml:lang="zap"> Calle bichij gaayo </foreign> 
     <lb/>
-    36 <foreign xml:lang="zap"> Callebichij xoopa </foreign> - -
+    36 <foreign xml:lang="zap"> Calle bichij xoopa </foreign> 
     <lb/>
-    37 <foreign xml:lang="zap"> Callebichij gaache </foreign> - - -
+    37 <foreign xml:lang="zap"> Calle bichij gaache </foreign>
     <lb/>
-    38 <foreign xml:lang="zap"> Callebichij xoono </foreign> - - -
+    38 <foreign xml:lang="zap"> Calle bichij xoono </foreign> 
     <lb/>
-    39 <foreign xml:lang="zap"> Callebichij gaa </foreign> - - - - -
+    39 <foreign xml:lang="zap"> Calle bichij gaa </foreign> 
     <lb/>
-    40 - <foreign xml:lang="zap"> Tua - Tihua - Chua </foreign>
+    40 - <foreign xml:lang="zap"> Tua, Tihua, Chua </foreign>
     <lb/>
     41 <foreign xml:lang="zap"> Tua bitoobi </foreign>
     <lb/>
     50. <foreign xml:lang="zap"> Tua bichij </foreign>
     <lb/>
-    51. <foreign xml:lang="zap"> Tua bichij toobi </foreign> - - - - - -
+    51 <foreign xml:lang="zap"> Tua bichij toobi </foreign>
     <lb/>
-    60. <foreign xml:lang="zap"> Caayoona </foreign> - - - - - -
+    60 <foreign xml:lang="zap"> Caayoona </foreign> 
     <lb/>
     61 <foreign xml:lang="zap"> Caayoona bitoobi </foreign>
     <lb/>
@@ -1825,73 +1825,73 @@
     <lb/>
     71 <foreign xml:lang="zap"> Caayoona bichijtoobi </foreign>
     <lb/>
-    80 - - - <foreign xml:lang="zap"> Taa </foreign>
+    80 <foreign xml:lang="zap"> Taa </foreign>
     <lb/>
-    81 - - <foreign xml:lang="zap"> Taa bitoobi </foreign>
+    81 <foreign xml:lang="zap"> Taa bitoobi </foreign>
     <lb/>
-    90 - - <foreign xml:lang="zap"> Taabichij </foreign>
+    90 <foreign xml:lang="zap"> Taa bichij </foreign>
     <lb/>
-    91 - - - <foreign xml:lang="zap"> Taabichijtoobi </foreign>
+    91  <foreign xml:lang="zap"> Taa bichijtoobi </foreign>
     <lb/>
-    100 - - <foreign xml:lang="zap"> Cayooa </foreign> - - - -
+    100 <foreign xml:lang="zap"> Cayooa </foreign> 
     <lb/>
-    200 - - <foreign xml:lang="zap"> Chija </foreign> - - - - -
+    200 <foreign xml:lang="zap"> Chija </foreign> 
     <cb n=""/>
     
     <pb n="98"/>
      <cb n="1"/>
-    300-- <foreign xml:lang= "zap"> Chijnooa </foreign>- - -    
+    300 <foreign xml:lang= "zap"> Chijnooa </foreign>   
     <lb/>
-    400- - - <foreign xml:lang= "zap"> Toobieela </foreign>- - -    
+    400 <foreign xml:lang= "zap"> Toobieela </foreign>
     <lb/>
-    500- -<foreign xml:lang= "zap"> ToobieelacayooaChija </foreign>-     
+    500 <foreign xml:lang= "zap"> Toobieela cayooa chija </foreign>     
     <lb/>
-    600- - -<foreign xml:lang= "zap"> ToobiieelaChija </foreign> -  
+    600 <foreign xml:lang= "zap"> Toobiieela chija </foreign>   
     <lb/>
-    700- -<foreign xml:lang= "zap"> ChaagaeelaChijnoo </foreign>    
+    700 <foreign xml:lang= "zap"> Chaagaeela chijnoo </foreign>    
     <lb/>
-    800- - - <foreign xml:lang= "zap"> Tioopaeela </foreign>- -----     
+    800 <foreign xml:lang= "zap"> Tioopaeela </foreign>   
     <lb/>
-    900- - -<foreign xml:lang= "zap"> Tioopaeela Cayooa </foreign>-
+    900 <foreign xml:lang= "zap"> Tioopaeela cayooa </foreign>
     <lb/>
-    1000 - - <foreign xml:lang= "zap"> Caatoeela. Chija </foreign>
+    1000 <foreign xml:lang= "zap"> Caatoeela chija </foreign>
     <lb/>
-    2000 - <foreign xml:lang= "zap"> Cayooeela </foreign>- - - 
+    2000 <foreign xml:lang= "zap"> Cayooeela </foreign>
     <lb/>
-    3000- <foreign xml:lang= "zap"> Cache eela Chija </foreign> -----
+    3000 <foreign xml:lang= "zap"> Cache eela chija </foreign>
     <cb n="2"/>
-    4000- - -<foreign xml:lang= "zap"> Chijeela </foreign>- - -
+    4000<foreign xml:lang= "zap"> Chijeela </foreign>
     <lb/>
     5000- <foreign xml:lang= "zap"> Chijbitioopaeela </foreign>--
     <lb/>
        
     <lb/>
-    6000 - - <foreign xml:lang= "zap"> Chijñooeela </foreign>-----
+    6000 <foreign xml:lang= "zap"> Chijñooeela </foreign>
     <lb/>
     7000.
     <lb/>
-    8000. : <foreign xml:lang= "zap"> Calle eela </foreign>--------
+    8000 <foreign xml:lang= "zap"> Calle eela </foreign>
     <cb n=""/>
     Hasta <choice> <orig>aqui</orig> <reg type="spanish">aquí</reg> </choice>
- es toda la <choice> <orig>quenta</orig> <reg type="spanish">cuenta</reg> </choice> de los Indios, y de  <choice> <orig>aqui</orig> <reg type="spanish">aquí</reg> </choice> arri
+ es toda la <choice> <orig>quenta</orig> <reg type="spanish">cuenta</reg> </choice> de los <choice> <orig>Indios</orig> <reg type="spanish">Yndios</reg> </choice>, y de  <choice> <orig>aqui</orig> <reg type="spanish">aquí</reg> </choice> arri
     <lb/>
     ba van contando de ocho en ocho mil. Y de lo dicho se
     <lb/>
-    saca <choice> <orig>q.e</orig> <reg type='spanish'>que</reg></choice> no semuda la <choice> <orig>quenta</orig> <reg type="spanish">cuenta</reg> </choice> <choice> <orig>comun</orig> <reg type= 'spanish'>común</reg></choice>, y no <choice> <orig>tien</orig> <reg type='spanish'>tienen</reg></choice>nombres
+    saca <choice> <orig>q.e</orig> <reg type='spanish'>que</reg></choice> no se muda la <choice> <orig>quenta</orig> <reg type="spanish">cuenta</reg> </choice> <choice> <orig>comun</orig> <reg type= 'spanish'>común</reg></choice>, y no <choice> tien  nombres
     <lb/>
-    particulares, sino es par 10 = y <choice> <orig>despues</orig> <reg type='spanish'>después</reg></choice> de 20 en 20: <foreign xml:lang='lat'>V. g.</foreign>
+    particulares, sino es par 10 - y <choice> <orig>despues</orig> <reg type='spanish'>después</reg></choice> de 20 en 20: <foreign xml:lang='lat'>V. g.</foreign>
     <lb/>
-    <foreign xml:lang = "zap">Calle </foreign>-- 40 <foreign xml:lang= "zap"> tua </foreign> -- 60 = <foreign xml:lang= "zap"> caayoona </foreign>-80  <foreign xml:lang= "zap"> taa </foreign> - 100 <foreign xml:lang= "zap"> Cayooa </foreign>
+    <foreign xml:lang = "zap"> calle </foreign> - 40 <foreign xml:lang= "zap"> tua </foreign> - 60 - <foreign xml:lang= "zap"> caayoona </foreign> - 80  <foreign xml:lang= "zap"> taa </foreign> - 100 <foreign xml:lang= "zap"> cayooa </foreign>
     <lb/>
-    -200 - <foreign xml:lang= 'zap'> Chija </foreign> = 300 - <foreign xml:lang = 'zap'> Chijnooa </foreign> - 400- <foreign xml:lang = 'zap'> toobieela </foreign> ??
+    - 200 - <foreign xml:lang= 'zap'> Chija </foreign> - 300 - <foreign xml:lang = 'zap'> chijnooa </foreign> - 400 - <foreign xml:lang = 'zap'> toobieela </foreign> &amp;
     <lb/>
-    El mayor <choice> <orig>numero</orig> <reg type='spanish'>número</reg></choice> <choice> <orig>q.e</orig> <reg type='spanish'>que</reg></choice> tienen son 8000 <choice> <orig>q.e</orig> <reg type='spanish'>que</reg></choice> sondo 20vezeD
+    El mayor <choice> <orig>numero</orig> <reg type='spanish'>número</reg></choice> <choice> <orig>q.e</orig> <reg type='spanish'>que</reg></choice> tienen son 8000 <choice> <orig>q.e</orig> <reg type='spanish'>que</reg></choice> sondo 20 <choice> <orig>vezes</orig> <reg type='spanish'>veces</reg></choice> 
     <lb/>
-    400. La <choice> <orig>quenta</orig> <reg type="spanish">cuenta</reg> </choice> de presenta es como <choice> <orig>esta</orig> <reg type='spanish'>está</reg></choice> dicho = 1 <foreign xml:lang = 'zap'> toobi </foreign> 2- 
+    400. La <choice> <orig>quenta</orig> <reg type="spanish">cuenta</reg> </choice> de presenta es como <choice> <orig>esta</orig> <reg type='spanish'>está</reg></choice> dicho - 1 <foreign xml:lang = 'zap'> toobi </foreign> 2 - 
     <lb/>
-    <foreign xml:lang = 'zap'> tioopa </foreign> _ 3_ <foreign xml:lang = 'zap'> Choona </foreign>. Para la <choice> <orig>quenta</orig> <reg type="spanish">cuenta</reg> </choice> de <choice> <orig>preterito</orig> <reg type='spanish'>pretérito</reg></choice> se aña 
+    <foreign xml:lang = 'zap'> tioopa </foreign> - 3 - <foreign xml:lang = 'zap'> choona</foreign>. Para la <choice> <orig>quenta</orig> <reg type="spanish">cuenta</reg> </choice> de <choice> <orig>preterito</orig> <reg type='spanish'>pretérito</reg></choice> se aña 
     <lb/>
-    de <choice> <orig>ā</orig> <reg type='spanish'>a</reg></choice> la de presente esta <choice> <orig>particula</orig> <reg type='spanish'>partícula</reg></choice> <foreign xml:lang= 'zap'> Co </foreign>: <foreign xml:lang='lat'> V.g</foreign> <foreign xml:lang= 'zap'>Cotoobi</foreign>, y <choice> <orig>danã</orig> <reg type='spanish'>dana</reg></choice>
+    de <choice> <orig>ã</orig> <reg type='spanish'>a</reg></choice> la de presente esta <choice> <orig>particula</orig> <reg type='spanish'>partícula</reg></choice> <foreign xml:lang= 'zap'> Co </foreign>: <foreign xml:lang='lat'> V.g</foreign> <foreign xml:lang= 'zap'>Cotoobi</foreign>, y <choice> <orig>danã</orig> <reg type='spanish'>dana</reg></choice>
     <lb/>
     entender <choice> <orig>q.e</orig> <reg type='spanish'>que</reg></choice> con la <choice><orig>ultima</orig> <reg type='spanish'>última</reg></choice> unidad, son ya tantos: <foreign xml:lang='lat'>V.g.</foreign> he 
     <lb/>
@@ -1901,23 +1901,24 @@
     <lb/>
     ta de futuro, <choice> <orig>seañade</orig> <reg type='spanish'>se añade</reg></choice> <choice> <orig>ã</orig> <reg type='spanish'>a</reg></choice> la presente una de estas dos par 
     <lb/>
-    <choice> <orig>ticulas</orig> <reg type='spanish'>tículas</reg></choice>, <foreign xml:lang= 'zap'> Zee </foreign> <foreign xml:lang= 'lat'> vel </foreign> <foreign xml:lang= 'zap'> Hue </foreign>: <foreign xml:lang= 'lat'>V.g.</foreign> <foreign xml:lang = 'zap'> Zeetoobi </foreign> <foreign xml:lang= 'lat'> vel </foreign> <foreign xml:lang = 'zap'> huetoobi </foreign>.
+    <choice> <orig>ticulas</orig> <reg type='spanish'>tículas</reg></choice>, <foreign xml:lang= 'zap'> Zee </foreign> <foreign xml:lang= 'lat'> vel </foreign> <foreign xml:lang= 'zap'>Hue</foreign>: <foreign xml:lang= 'lat'>V.g.</foreign> <foreign xml:lang = 'zap'> Zeetoobi </foreign> <foreign xml:lang= 'lat'> vel </foreign> <foreign xml:lang = 'zap'> huetoobi </foreign>.
     <lb/>
-    Es de notar <choice> <orig>q.e</orig> <reg type='spanish'>que</reg></choice> en donde dicen <foreign xml:lang = 'zap'> toobi, tioopa Choona taapa </foreign>: 
+    Es de notar <choice> <orig>q.e</orig> <reg type='spanish'>que</reg></choice> en donde dicen <foreign xml:lang = 'zap'> toobi, tioopa choona taapa </foreign>: 
     <lb/>
-    de puede decir <foreign xml:lang = 'zap'> Chaaga, Cato, Cayo, taa </foreign> Parapreteri –
+    de puede decir <foreign xml:lang = 'zap'> chaaga, cato, cayo, taa </foreign> Para <choice> <orig>preterito</orig> <reg type='spanish'>pretérito</reg></choice> 
     <lb/>
     por dos dicen <foreign xml:lang = 'zap'> Coxoopa </foreign> para tres <foreign xml:lang = 'zap'> Coyoona </foreign> para cinco-
     <lb/>
-    <foreign xml:lang = 'zap'> Cooyo </foreign>, por siete, <foreign xml:lang= 'zap'>Cooche </foreign> por 9 <foreign xml:lang= 'zap'> Cohui </foreign>.
+    <foreign xml:lang = 'zap'> cooyo </foreign>, por siete, <foreign xml:lang= 'zap'>cooche </foreign> por 9 <foreign xml:lang= 'zap'> cohui </foreign>
     <lb/>
     Para decir de uno en uno de dos en dos de ciento en cien-
     <lb/>
-    to, dicen <foreign xml:lang = 'zap'> toobi, toobi, </foreign> <forign xml:lang= 'lat'> vel </forign> <foreign xml:lang= 'zap'> toobitoobiyaa, quixoopa qui-
+    to, dicen <foreign xml:lang = 'zap'> toobi, toobi, </foreign> <forign xml:lang= 'lat'> vel </forign> <foreign xml:lang= 'zap'> toobitoobiyaa, quixoopa qui-</foreign>
     <lb/>
-    roo_ </foreign>
+    <Fw type="catchword" place=bottom-right">roo</Fw>
     <lb/>
-    
+   
+   
     <pb n="99"/>
     <foreign xml:lang = "zap">roopa</foreign>,
     <foreign xml:lang = "lat">vel</foreign>
@@ -2104,9 +2105,9 @@
     <pb n="101"/>
     Destapa el pecho del Niño.
     <lb/>
-    <foreign xml:lang="zap">Coraale latilachi?too rtennibatoo.</foreign>
+    <foreign xml:lang="zap">Coxaale latilachitoo xtennibatoo.</foreign>
     <lb/>
-    Volteá boca abajo <choice><orig>ã</orig><reg type="spanish">á</reg></choice> el Niño.
+    Volteá boca abajo <choice><orig>ã</orig><reg type="spanish">a</reg></choice> el Niño.
     <lb/>
     <foreign xml:lang="zap">Perexilalo batoo.</foreign>
     <lb/>
@@ -2114,57 +2115,57 @@
     <lb/>
     <foreign xml:lang="zap">Pezeego xaaba niquee.</foreign>
     <lb/>
-    Vamos <choice><orig>ã</orig><reg type="spanish">á</reg></choice> la Pila Bautismal
+    Vamos <choice><orig>ã</orig><reg type="spanish">a</reg></choice> la Pila Bautismal
     <lb/>
     <foreign xml:lang="zap">Choono nichaa niza laaya.</foreign>
     <lb/>
     Advierte Hijo <choice><orig>q.e porq.e</orig><reg type="spanish">que porque</reg></choice> fuiste Padrino (Madrina) te has
     <lb/>
-    Hecho pariente Espiritual, o tiene parentesco Espiri-
+    hecho pariente Espiritual, o tiene parentesco Espiri
     <lb/>
     tual, en primer lugar con el Niño y en segundo lugar
     <lb/>
-    con el Padre, y Madre del Niño. Juntamente tienes --
+    con el Padre y Madre del Niño. Juntamente tienes 
     <lb/>
-    obligacion de enseñarla Doctrina Christiana ã este
+    <choice><orig>obligacion</orig><reg type="spanish">obligación</reg></choice> de enseñar la Doctrina Christiana <choice><orig>ã</orig><reg type="spanish">a</reg></choice> este
     <lb/>
     Niño, sino se la enseñaren sus Padres.
     <lb/>
-    <foreign xml:lang="zap">Conna rinni, ni niaxtenni cocalo Bixooze (Xiñaa) 
+    <foreign xml:lang="zap">Conna xinni, ni niaxtenni cocalo Bixooze (Xiñaa) 
     <lb/>
-    yohoto quella rirabaniza, cocalo rtijalaaya, laa
+    yohoto quella rirabaniza, cocalo xtijalaaya, laa
     <lb/>
     huarapalo quella xtijalaaya, loo cotoobe xtijañee
     <lb/>
     batoo. Chela lo coroopa xtijañee xtaata, ñee xnaana
     <lb/>
-    xtenni batoo huañee hua rozaabi cocozeetelo tichalaa-
+    xtenni batoo huañee huarozaabi cocozeetelo tichalaa
     <lb/>
-    ya batoorij tebeela acati cocozebeni xtaata xnaana
+    ya batoorij tebeela acati cocozeteni xtaata xnaana
     <lb/>
-    xlennini.</foreign>
+    xtennini.</foreign>
     <lb/>
-    <choice><orig>Yreis</orig><reg type="spanish">Irás</reg></choice> <choice><orig>ã</orig><reg type="spanish">á</reg></choice> mi celda escrivir yo el Bautismo.
+    <choice><orig>Yreis</orig><reg type="spanish">Iréis</reg></choice> <choice><orig>ã</orig><reg type="spanish">a</reg></choice> mi celda para <choice><orig>escrivir</orig><reg type="spanish">escribir</reg></choice> yo el Bautismo.
     <lb/>
-    <foreign xml:lang="zap">Colachee, loo xlichia, nijani cocayeeaquellariaobaniza.</foreign>
+    <foreign xml:lang="zap">Colachee, loo xlichia, nijani cocayeea quellarirobaniza.</foreign>
     <lb/>
-    Como se llama el Niño?
+    <choice><orig>Como</orig><reg type="spanish">Cómo</reg></choice>se llama el Niño?
     <lb/>
     <foreign xml:lang="zap">tulaani Batoo?</foreign>
     <lb/>
-    Como se llama el <choice><orig>P.e</orig><reg type="spanish">Padre</reg></choice> del Niño, como se llama la Madre
+    <choice><orig>Como</orig><reg type="spanish">Cómo</reg></choice>se llama el <choice><orig>P.e</orig><reg type="spanish">Padre</reg></choice> del Niño, <choice><orig>como</orig><reg type="spanish">cómo</reg></choice>se llama la Madre
     <lb/>
-    <foreign xml:lang="zap">tulaani xtaata xtenni batoo=tulaani xnaana xten-
+    <foreign xml:lang="zap">tulaani xtaata xtenni batoo - tulaani xnaana xten
     <lb/>
     ni batoo.</foreign>
     <lb/>
     De <choice><orig>q.e</orig><reg type="spanish">que</reg></choice> Pueblo son --- <foreign xml:lang="zap">Caazooba guecheni</foreign>
     <lb/>
-    Como te llamas, de donde eres.
+    <choice><orig>Como</orig><reg type="spanish">Cómo</reg></choice> te llamas, de <choice><orig>donde</orig><reg type="spanish">dónde</reg></choice> eres.
     <lb/>
     <foreign xml:lang="zap">tu laalo Caa zaalo.
     <lb/>
-    Yaseacabo, vete(ios)_ Baa coloosi, cuyee (Colachee) -</foreign>
+    Ya se <choice><orig>acabo</orig><reg type="spanish">acabó</reg></choice>, De <choice<orig>vete(idos)</orig><reg type="spanish">vete(ies)</reg></choice>_ Baa coloosi, cuyee (Colachee)</foreign>
     </div>
     <!-- levanto-arte 3.1 -->
 
