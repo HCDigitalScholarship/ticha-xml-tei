@@ -2833,50 +2833,53 @@
 
     <pb n="111"/>
    <choice> <orig> Saves</orig> <reg type="spanish">¿Sabes</reg> </choice>  si tienen otro impedimento para no se puedan casar?
-    <lb/>
-Huannanalo tebela huanapani zeetoobi quella xocaa, 
-<lb/>
-Quella rozeeyo nilaa impedimento nijanicali zoaaca
-<lb/>
-cochaaganaani?
-<lb/>
-<choice> <orig>Eres</orig> <reg type="spanish">¿Eres</reg> </choice> pariente de este hombre <choice> <orig> o'</orig> <reg type="spanish">o</reg> </choice> de esta <choice> <orig> muger</orig> <reg type="spanish">mujer</reg> </choice> <choice> <orig> q.e</orig> <reg type="spanish">que</reg> </choice> se hace casar?
-<lb/>
-Huaraca xtijalo benni niguijonij laabenni gonnarij
-<lb/>
-nigochaagananni?
-<lb/>
-<choice> <orig> Como</orig> <reg type="spanish">¿Cómo</reg> </choice> te llamas?------- Tu laalo?
-<lb/>
-<choice> <orig> Quantos</orig> <reg type="spanish">¿Cuántos</reg> </choice> <choice> <orig> anos</orig> <reg type="spanish">años</reg> </choice> tienes?----- Pella ijza Huarapalo?
-<lb/>
-<choice> <orig>De</orig> <reg type="spanish">¿De</reg> </choice> <choice> <orig> q.e</orig> <reg type="spanish">que</reg> </choice> pueblo eres?-----Caa zooba gueche?
-<lb/>
-<choice> <orig> Eres</orig> <reg type="spanish">¿Eres</reg> </choice> casado?-----Huanoo lechelalo?
-<lb/>
-<choice> <orig>Como</orig> <reg type="spanish">¿Cómo</reg> </choice> se llama tu <choice> <orig> muger</orig> <reg type="spanish">mujer</reg> </choice>?- Tu laani lechelalo?
-<lb/>
-Vete con la <choice><orig> vendicion</orig> <reg type="spanish">vendición</reg> </choice> de Dios y llama <choice><orig> vendicion</orig> <reg type="spanish">vendición</reg> </choice> <choice><orig>ã el </orig> <reg type="spanish">al</reg> </choice> segundo tes-
-<lb/>
-igo(tercero)
-<lb/>
-Cuyee quella huemilaaya xtenni Dios chela conij-
-<lb/>
-che Coxoopatestigo (coyoona).
-<lb/>
-<choice> <orig> Quando</orig> <reg type="spanish">¿Cuándo</reg> </choice> los <choice> <orig> q.e</orig> <reg type="spanish">que</reg> </choice> se presentaren son Viu
-<lb/>
-dos se les <choice> <orig> haran</orig> <reg type="spanish">harán</reg> </choice> las siguientes pregio?
-<lb/>
-<choice> <orig> Le</orig> <reg type="spanish">¿Le</reg> </choice> <choice> <orig> disces</orig> <reg type="spanish">dices</reg> </choice> palabra de casamiento a esta <choice> <orig> muger</orig> <reg type="spanish">mujer</reg> </choice> <choice> <orig> quan</orig> <reg type="spanish">cuan</reg> </choice>
-<lb/>
-do <choice> <orig> vivia</orig> <reg type="spanish">vivía</reg> </choice> su marido?- o <choice> <orig> quando</orig> <reg type="spanish">cuando</reg> </choice> <choice> <orig> vivia</orig> <reg type="spanish">vivía</reg> </choice> tu <choice> <orig> muger</orig> <reg type="spanish">mujer</reg> </choice>?
-<lb/>
-Peteetelo ticha quella huechaaganaa bennigonnarij
-<lb/>
-Chijconij nabaanini lechelani? Laa chij conij nabaa
-<lb/>
-nini lechelalo?
+       <lb/>
+   Huannanalo tebela hurapani zeetoobi quella rocaa, 
+   <lb/>
+   quella rozeego nilaa impedimento nijaniacali zoaaca
+   <lb/>
+   cochaagañaani?
+   <lb/>
+   <choice> <orig>Eres</orig> <reg type="spanish">¿Eres</reg> </choice> pariente de este hombre <choice> <orig> o'</orig> <reg type="spanish">ó</reg> </choice> de esta <choice> <orig> muger</orig> <reg type="spanish">mujer</reg> </choice> <choice> <orig> q.e</orig> <reg type="spanish">que</reg> </choice> se ha de casar?
+   <lb/>
+   Huaraca xtijalo benni niguijorij laabenni gonnarij
+   <lb/>
+   nigochaagañaanni?
+   <lb/>
+   <choice> <orig> Como</orig> <reg type="spanish">¿Cómo</reg> </choice> te llamas?------- Tu laalo?
+   <lb/>
+   <choice> <orig> Quantos</orig> <reg type="spanish">¿Cuántos</reg> </choice> <choice> <orig> anos</orig> <reg type="spanish">años</reg> </choice> tienes?----- Pella ijza Huarapalo?
+   <lb/>
+   <choice> <orig>De</orig> <reg type="spanish">¿De</reg> </choice> <choice> <orig> q.e</orig> <reg type="spanish">que</reg> </choice> pueblo eres?-----Caa zooba gueche?
+   <lb/>
+   <choice> <orig> Eres</orig> <reg type="spanish">¿Eres</reg> </choice> casado?-----Huanoo lechelalo?
+   <lb/>
+   <choice> <orig>Como</orig> <reg type="spanish">¿Cómo</reg> </choice> se llama tu <choice> <orig> muger</orig> <reg type="spanish">mujer</reg> </choice>?- Tu laani lechelalo?
+   <lb/>
+   Vete con la <choice><orig> vendicion</orig> <reg type="spanish">vendición</reg> </choice> de Dios, y llama <choice><orig>ã el </orig> <reg type="spanish">al</reg> </choice> segundo test-
+   <lb/>
+   igo(tercero)
+   <lb/>
+   Cuyee quella huennilaaya xtenni Dios chela corij-
+   <lb/>
+   che coroopa testigo (coyoona).
+   <lb/>
+   <head type= "outline"> <choice> <orig> Quando</orig> <reg type="spanish">¿Cuándo</reg> </choice> los <choice> <orig> q.e</orig> <reg type="spanish">que</reg> </choice> se presentaren son Viu
+   <lb/>
+   dos se les <choice> <orig> haran</orig> <reg type="spanish">harán</reg> </choice> las siguientes pregio? </head>
+   <head> <choice> <orig> Quando</orig> <reg type="spanish">¿Cuándo</reg> </choice> los <choice> <orig> q.e</orig> <reg type="spanish">que</reg> </choice> se presentaren son Viu
+   <lb/>
+   dos se les <choice> <orig> haran</orig> <reg type="spanish">harán</reg> </choice> las siguientes pregios? </head>
+   <lb/>
+   <choice> <orig> Le</orig> <reg type="spanish">¿Le</reg> </choice> <choice> <orig> distes</orig> <reg type="spanish">dices</reg> </choice> palabra de casamiento a esta <choice> <orig> muger</orig> <reg type="spanish">mujer</reg> </choice> <choice> <orig> quan</orig> <reg type="spanish">cuan</reg> </choice>
+   <lb/>
+   do <choice> <orig> vivia</orig> <reg type="spanish">vivía</reg> </choice> su marido?- o <choice> <orig> quando</orig> <reg type="spanish">cuando</reg> </choice> <choice> <orig> vivia</orig> <reg type="spanish">vivía</reg> </choice> tu <choice> <orig> muger</orig> <reg type="spanish">mujer</reg> </choice>?
+   <lb/>
+   Peteetelo ticha quella huechaagañaa bennigonnarij
+   <lb/>
+   chijcorij nabaanini lechelani? Laa chij corij nabaa
+   <lb/>
+   nini lechelalo?
 <lb/>
 <choice> <orig> Pecastes</orig> <reg type="spanish">¿Pecastes</reg> </choice> con esta <choice> <orig> muger</orig> <reg type="spanish">mujer</reg> </choice> con palabra de casamiento
 <lb/>
