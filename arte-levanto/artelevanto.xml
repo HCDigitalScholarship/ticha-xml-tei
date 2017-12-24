@@ -1177,7 +1177,31 @@
 <!--levanto-arte 1.3.3.15.12-->
 </div>
 <!--levanto-arte 1.3.3.15-->
+<div xml:id='levanto-arte1.3.3.16'>
+    <head type= 'outline'>[Conjugacion de ir]</head>
+    <div xml:id='levanto-arte1.3.3.16.1'>
+    <head type= 'outline'>Presente</head>
+</div>
+<!--levanto-arte 1.3.3.16.1-->
+<div xml:id='levanto-arte1.3.3.16.2'>
+    <head type= 'outline'>Preterito Perfecto</head>
     <pb n="47"/>
+</div>
+<!--levanto-arte 1.3.3.16.2-->
+<div xml:id='levanto-arte1.3.3.16.3'>
+    <head type= 'outline'>Futuro Ymperfecto</head>
+</div>
+<!--levanto-arte 1.3.3.16.3-->
+<div xml:id='levanto-arte1.3.3.16.4'>
+    <head type= 'outline'>Ymperativo</head>
+</div>
+<!--levanto-arte 1.3.3.16.4-->
+<div xml:id='levanto-arte1.3.3.16.5'>
+    <head type= 'outline'>Presente</head>
+</div>
+<!--levanto-arte 1.3.3.16.5-->
+<div xml:id='levanto-arte1.3.3.16.6'>
+    <head type= 'outline'>Preterito Perfecto</head>
     <pb n="48"/>
     Plur.1 <foreign xml:lang='zap'>Piootonoo</foreign>----------Nosotros fuimos
     <lb/>
@@ -1185,21 +1209,30 @@
     <lb/>
     <foreign xml:lang='zap'>Cuyeeni</foreign>----------Aquellos fueron
     <lb/>
-
+</div>
+<!--levanto-arte 1.3.3.16.6-->
+<div xml:id='levanto-arte1.3.3.16.7'>
+    <head type= 'outline'>Segunda Voz del Preterito he</head>
     <head> Seguna Voz del Preterito he </head>
     <lb/>
     <foreign xml:lang='zap'>Ciaaya</foreign>----------Yo he ido
     <lb/>
     <foreign xml:lang='zap'>Ciello</foreign>----------Tu has ido
     <lb/>
-
+</div>
+<!--levanto-arte 1.3.3.16.7-->
+<div xml:id='levanto-arte1.3.3.16.8'>
+    <head type= 'outline'>Tercera Voz de huve</head>
     <head> Tercera Voz de huve </head>
     <lb/>
     <foreign xml:lang='zap'>Huayaaya</foreign>----------Yo huve ido
     <lb/>
     <foreign xml:lang='zap'>Huayeelo</foreign>----------Tu huviste ido
     <lb/>
-
+</div>
+<!--levanto-arte 1.3.3.16.8-->
+<div xml:id='levanto-arte1.3.3.16.9'>
+    <head type= 'outline'>Futuro Ymperfecto</head>
     <head> Futoro Ymperfecto </head>
     <lb/>
     Sing.r <foreign xml:lang='zap'>Chaaya</foreign>----------Yo iré
@@ -1214,7 +1247,10 @@
     <lb/>
     <foreign xml:lang='zap'>Cheeni</foreign>----------Aquellos iran
     <lb/>
-
+</div>
+<!--levanto-arte 1.3.3.16.9-->
+<div xml:id='levanto-arte1.3.3.16.10'>
+    <head type= 'outline'>Ymperativo</head>
     <head> Ymperativo </head>
     <lb/>
     Sing.r <foreign xml:lang='zap'>Cuyee</foreign>----------Vete
@@ -1229,7 +1265,14 @@
     <lb/>
     significa decir en comun, ó hablar, se conjuga assi
     <lb/>
-
+</div>
+<!--levanto-arte 1.3.3.16.10-->
+</div>
+<!--levanto-arte 1.3.3.16-->
+<div xml:id='levanto-arte1.3.3.17'>
+    <head type= 'outline'>[Conjugacion de decir]</head>
+    <div xml:id='levanto-arte1.3.3.17.1'>
+    <head type= 'outline'>Presente</head>
     <head> Presente </head>
     <lb/>
     Sing.r <foreign xml:lang='zap'>Rinnija</foreign>----------You digo
@@ -1245,8 +1288,54 @@
     <foreign xml:lang='zap'>Rinnijni</foreign>----------Aquellos dicen
     <lb/>
     <pb n="49"/>
+</div>
+<!--levanto-arte 1.3.3.17.1-->
+<div xml:id='levanto-arte1.3.3.17.2'>
+    <head type= 'outline'>Preterito Perfecto</head>
+</div>
+<!--levanto-arte 1.3.3.17.2-->
+<div xml:id='levanto-arte1.3.3.17.3'>
+    <head type= 'outline'>Futuro Ymperfecto</head>
+</div>
+<!--levanto-arte 1.3.3.17.3-->
+<div xml:id='levanto-arte1.3.3.17.4'>
+    <head type= 'outline'>Ymperativo</head>
+</div>
+<!--levanto-arte 1.3.3.17.4-->
+<div xml:id='levanto-arte1.3.3.17.5'>
+    <head type= 'outline'>Presente</head>
+</div>
+<!--levanto-arte 1.3.3.17.5-->
+<div xml:id='levanto-arte1.3.3.17.6'>
+    <head type= 'outline'>Preterito Perfecto</head>
     <pb n="50"/>
+</div>
+<!--levanto-arte 1.3.3.17.6-->
+<div xml:id='levanto-arte1.3.3.17.7'>
+    <head type= 'outline'>Segunda Voz de Preterito</head>
+</div>
+<!--levanto-arte 1.3.3.17.7-->
+<div xml:id='levanto-arte1.3.3.17.8'>
+    <head type= 'outline'>Tercera Voz Hube</head>
+</div>
+<!--levanto-arte 1.3.3.17.8-->
+<div xml:id='levanto-arte1.3.3.17.9'>
+    <head type= 'outline'>Futuro Imperfecto</head>
+</div>
+<!--levanto-arte 1.3.3.17.9-->
+<div xml:id='levanto-arte1.3.3.17.10'>
+    <head type= 'outline'>Ymperativo</head>
+</div>
+<!--levanto-arte 1.3.3.17.10-->
+<div xml:id='levanto-arte1.3.3.17.11'>
+    <head type= 'outline'>Obtativo</head>
     <pb n="51"/>
+</div>
+<!--levanto-arte 1.3.3.17.11-->
+</div>
+<!--levanto-arte 1.3.3.17-->
+</div>
+<!--levanto-arte 1.3.3-->
     <foreign xml:lang='zap'>Rizaaya</foreign> andar, y partir de un lugar a otro, hacelas di
     <lb/>
     chas persona; <foreign xml:lang='zap'>Pichootono--Pihui</foreign> aunq.e los Yndios no
