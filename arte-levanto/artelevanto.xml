@@ -1330,12 +1330,6 @@
 <div xml:id='levanto-arte1.3.3.17.11'>
     <head type= 'outline'>Obtativo</head>
     <pb n="51"/>
-</div>
-<!--levanto-arte 1.3.3.17.11-->
-</div>
-<!--levanto-arte 1.3.3.17-->
-</div>
-<!--levanto-arte 1.3.3-->
     <foreign xml:lang='zap'>Rizaaya</foreign> andar, y partir de un lugar a otro, hacelas di
     <lb/>
     chas persona; <foreign xml:lang='zap'>Pichootono--Pihui</foreign> aunq.e los Yndios no
@@ -1350,6 +1344,10 @@
     <lb/>
     lares, queda ya dicho en su lugar
     <lb/>
+    </div>
+<!--levanto-arte 1.3.3.17.11-->
+</div>
+<!--levanto-arte 1.3.3.17-->
     </div>
     <!--levanto-arte 1.3.3-->
     <div xml:id='levanto-arte1.3.4'>
@@ -2795,9 +2793,11 @@
     <head type="outline">Presentacion para contraer Matrimonio</head>
     <head><choice> <orig> Presentacion </orig><reg type="spanish">Presentación</reg> </choice>para contraer Ma-
     <lb/>
+    <div xml:id="levanto-arte3.4.1">
+    <head type="outline">[Parte sin título de la ceremonia de matrimonio]</head>
     trimonio.</head>
     <lb/>
-    Llama <choice> <orig>ã</orig><reg type="spanish">a</reg></choice>a los que quieren casar
+    Llama <choice> <orig>ã</orig><reg type="spanish">a</reg></choice> los que quieren casar
     <lb/>
     <foreign xml:lang="zap">Coxijche ni xacalachi cochaagaañani.</foreign>
     <lb/>
@@ -2880,7 +2880,9 @@
     <lb/>
     xijche cotoobi testigo. </foreign>
     <pb n="109"/>
-    <div xml:id="levanto-arte3.4.1">
+</div>
+<!--arte-levanto 3.4.1-->
+    <div xml:id="levanto-arte3.4.2">
     <head type= "outline"> <choice> <orig>Ynterrogatorio</orig> <reg type="spanish">Interrogatorio</reg> </choice> <choice> <orig>ã</orig> <reg type="spanish">a</reg> </choice> los testigos </head>
     <lb/>
     <choice> <orig>Haces</orig> <reg type="spanish">¿Haces</reg> </choice> juramento de responder la verdad, <choice> <orig>ã</orig> <reg type="spanish">a</reg> </choice> todo lo
@@ -2948,14 +2950,11 @@
     quella huechaagañaagonnarij chijconij nabaanini
     <lb/>
     Leihenani? </foreign>
-    </div>
-    <!-- levanto-arte 3.4.1 -->
-    </div>
-    <!-- levanto-arte 3.4 -->
-    </div>
-    <!-- levanto-arte 3 -->
+  
     <pb n="110"/>
-    <div xml:id="levanto-arte4">
+     </div>
+    <!-- levanto-arte 3.4.2 -->
+    <div xml:id="levanto-arte3.4.3">
     <head type="outline">Acto de Contricion</head>
     <head> Acto de Contricion </head>
     <lb/>
@@ -2989,6 +2988,10 @@
 
 
     <pb n="111"/>
+</div>
+<!--arte-levanto 3.4.3-->
+<div xml:id="levanto-arte3.4.4">
+    <head type="outline">[Parte sin título de la ceremonia de matrimonio]</head>
    <choice> <orig> Saves</orig> <reg type="spanish">¿Sabes</reg> </choice>  si tienen otro impedimento para no se puedan casar?
        <lb/>
    Huannanalo tebela hurapani zeetoobi quella rocaa, 
@@ -3051,8 +3054,8 @@ Conij nabaanini lechelalo?
 
 
     </div>
-    <!-- levanto-arte 4 -->
-    <div xml:id="levanto-arte5">
+    <!-- levanto-arte 3.4.4 -->
+    <div xml:id="levanto-arte3.4.5">
     <head type="outline">Amonestaciones</head>
     							Amonestaciones
 							<lb/>
@@ -3190,6 +3193,7 @@ Coyoona pennabico-yoona   pennabi </foreign>
 
 
     <pb n="114"/>
+
     <choice> <orig> N.</orig> <reg type="spanish">Nombre</reg> </choice> y <choice> <orig> N.</orig> <reg type="spanish">Nombre</reg> </choice> q.e <choice> <orig> estan</orig> <reg type="spanish">están</reg> </choice> presentes quieren contraer matrimo-
     <lb/>
     nio. Si alguno de vosotros <choice> <orig>save</orig> <reg type="spanish">sabe</reg> </choice> <choice> <orig> q.e</orig> <reg type="spanish">que</reg> </choice> tenga <choice> <orig>algun</orig> <reg type="spanish">algún</reg> </choice> impedi-
@@ -3217,8 +3221,8 @@ Coyoona pennabico-yoona   pennabi </foreign>
     loolo cica xennapeea Xinaana </foreign> S.ta Yglesia?
     <lb/>
     </div>
-    <!-- levanto-arte 5 -->
-    <div xml:id="levanto-arte6">
+    <!-- levanto-arte 3.4.5 -->
+    <div xml:id="levanto-arte3.4.6">
     <head type="outline">Para los Anillos</head>
     <head> Para los Anillos </head>
     <lb/>
@@ -3247,10 +3251,10 @@ Coyoona pennabico-yoona   pennabi </foreign>
     <foreign xml:lang= 'zap'> Haa huarizijbaneezoya xtennilo. </foreign>
     <lb/>
     </div>
-    <!-- levanto-arte 6 -->
+    <!-- levanto-arte 3.4.6 -->
 
     <pb n="115"/>
-    <div xml:id="levanto-arte7">
+    <div xml:id="levanto-arte4">
     <head type="outline">Confesonario Zaapoteco</head>
     <head> Confesonario Zaapoteco ----------- </head>
     <lb/>
@@ -3446,10 +3450,10 @@ Coyoona pennabico-yoona   pennabi </foreign>
     <pb n="118"/>
     <pb n="119"/>
     </div>
-    <!-- levanto-arte 7 -->
-    <div xml:id="levanto-arte8">
+    <!-- levanto-arte 4 -->
+    <div xml:id="levanto-arte5">
     <head type="outline">[Los Mandamientos]</head>
-    <div xml:id="levanto-arte8.1">
+    <div xml:id="levanto-arte5.1">
     <head type="outline">Primer Mandamiento</head>
     <head>Primer Mandamiento:</head>
     <lb/>
@@ -3708,8 +3712,8 @@ Coyoona pennabico-yoona   pennabi </foreign>
 	<lb/>
 
     </div>
-    <!-- levanto-arte 8.1 -->
-    <div xml:id="levanto-arte8.2">
+    <!-- levanto-arte 5.1 -->
+    <div xml:id="levanto-arte5.2">
     <head type="outline">Segundo Mandamiento</head>
     Segunda Mandamiento
     <lb/>
@@ -3849,8 +3853,8 @@ Coyoona pennabico-yoona   pennabi </foreign>
 
     <pb n="125"/>
     </div>
-    <!-- levanto-arte 8.2 -->
-    <div xml:id="levanto-arte8.3">
+    <!-- levanto-arte 5.2 -->
+    <div xml:id="levanto-arte5.3">
     <head type="outline">Tercer Mandamiento</head>
     Tercer Mandiamiento 
     <lb/>
@@ -3915,8 +3919,8 @@ Coyoona pennabico-yoona   pennabi </foreign>
 
     <pb n="126"/>
     </div>
-    <!-- levanto-arte 8.3 -->
-    <div xml:id="levanto-arte8.4">
+    <!-- levanto-arte 5.3 -->
+    <div xml:id="levanto-arte5.4">
     <head type="outline">Quarto Mandamiento</head>
     Quarto Mandamiento. 
     <lb/>
@@ -4054,8 +4058,8 @@ Coyoona pennabico-yoona   pennabi </foreign>
 
     <pb n="128"/>
     </div>
-    <!-- levanto-arte 8.4 -->
-    <div xml:id="levanto-arte8.5">
+    <!-- levanto-arte 5.4 -->
+    <div xml:id="levanto-arte5.5">
     <head type="outline">Quinto Mandamiento</head>
     Quinto Mandamiento
     <lb/>
@@ -4126,51 +4130,51 @@ Coyoona pennabico-yoona   pennabi </foreign>
 
     <pb n="129"/>
     </div>
-    <!-- levanto-arte 8.5 -->
-    <div xml:id="levanto-arte8.6">
+    <!-- levanto-arte 5.5 -->
+    <div xml:id="levanto-arte5.6">
     <head type="outline">Sexto Mandamiento</head>
     <pb n="130"/>
     <pb n="131"/>
     <pb n="132"/>
     <pb n="133"/>
     <pb n="134"/>
-    <div xml:id="levanto-arte8.6.1">
+    <div xml:id="levanto-arte5.6.1">
     <head type="outline">Hombres</head>
     </div>
-    <!-- levanto-arte 8.6.1 -->
-    <div xml:id="levanto-arte8.6.2">
+    <!-- levanto-arte 5.6.1 -->
+    <div xml:id="levanto-arte5.6.2">
     <head type="outline">Mugeres</head>
     <pb n="135"/>
     </div>
-    <!-- levanto-arte 8.6.2 -->
+    <!-- levanto-arte 5.6.2 -->
     </div>
-    <!-- levanto-arte 8.6 -->
-    <div xml:id="levanto-arte8.7">
+    <!-- levanto-arte 5.6 -->
+    <div xml:id="levanto-arte5.7">
     <head type="outline">Septimo Mandamiento</head>
     <pb n="136"/>
     <pb n="137"/>
     <pb n="138"/>
-    <div xml:id="levanto-arte8.7.1">
+    <div xml:id="levanto-arte5.7.1">
     <head type="outline">Para Mercaderes y Tratantes</head>
     <pb n="139"/>
     </div>
-    <!-- levanto-arte 8.7.1 -->
-    <div xml:id="levanto-arte8.7.2">
+    <!-- levanto-arte 5.7.1 -->
+    <div xml:id="levanto-arte5.7.2">
     <head type="outline">Para los Oficiales de Republica</head>
     <pb n="140"/>
     <pb n="141"/>
     </div>
-    <!-- levanto-arte 8.7.1 -->
+    <!-- levanto-arte 5.7.1 -->
     </div>
-    <!-- levanto-arte 8.7 -->
-    <div xml:id="levanto-arte8.8">
+    <!-- levanto-arte 5.7 -->
+    <div xml:id="levanto-arte5.8">
     <head type="outline">Octava Mandamiento</head>
     <pb n="142"/>
     </div>
-    <!-- levanto-arte 8.8 -->
+    <!-- levanto-arte 5.8 -->
     </div>
-    <!-- levanto-arte 8 -->
-    <div xml:id="levanto-arte9">
+    <!-- levanto-arte 5 -->
+    <div xml:id="levanto-arte6">
     <head type="outline">Otras preguntas comunes</head>
     <pb n="143"/>
     <pb n="144"/>
@@ -4178,8 +4182,8 @@ Coyoona pennabico-yoona   pennabi </foreign>
     <pb n="146"/>
     <pb n="147"/>
     </div>
-    <!-- levanto-arte 9 -->
-    <div xml:id="levanto-arte10">
+    <!-- levanto-arte 6 -->
+    <div xml:id="levanto-arte7">
     <head type="outline">Algunas Platicas y Conversaciones comunes en lengua Zapoteca</head>
     <pb n="148"/>
     <pb n="149"/>
@@ -4216,8 +4220,8 @@ Coyoona pennabico-yoona   pennabi </foreign>
     <pb n="180"/>
     <pb n="181"/>
     </div>
-    <!-- levanto-arte 10 -->
-    <div xml:id="levanto-arte11">
+    <!-- levanto-arte 7 -->
+    <div xml:id="levanto-arte8">
     <head type="outline">Verbos del Ydioma Zaapoteco segun se usan en Thecoantepec</head>
     <cb n="1"/>
     <cb n="2"/>
@@ -4391,8 +4395,8 @@ Coyoona pennabico-yoona   pennabi </foreign>
     <cb n=""/>
     <pb n="192"/>
     </div>
-    <!-- levanto-arte 11 -->
-    <div xml:id="levanto-arte12">
+    <!-- levanto-arte 8 -->
+    <div xml:id="levanto-arte9">
     <head type="outline">Nombres Pronombres Advervios y Particulos en dicho Ydioma</head>
     <cb n="1"/>
     <cb n="2"/>
@@ -4423,13 +4427,13 @@ Coyoona pennabico-yoona   pennabi </foreign>
     <pb n="201"/>
     <pb n="202"/>
     </div>
-    <!-- levanto-arte 12 -->
-    <div xml:id="levanto-arte13">
+    <!-- levanto-arte 9 -->
+    <div xml:id="levanto-arte10">
     <head type="outline">Sapoteco ticha Zoõ</head>
     <pb n="203"/>
     <pb n="204"/>
     <pb n="205"/>
     </div>
-    <!-- levanto-arte 13 -->
+    <!-- levanto-arte 10 -->
   </text>
 </TEI>
