@@ -12,25 +12,25 @@
     <!--levanto-arte Title-->
     <div xml:id= "levanto-arte1">
     <head type= "outline"> De las Partes de la Oracion </head>
-    (De las Partes de la Oracion.)
+    <head> (De las Partes de la Oracion.)</head>
     <lb/>
     Las partes de la oracion son ocho Nombre Prõ
     <lb/>
-    nombre &amp;ra. el Nombre uno? es substantivo y -
+    nombre &amp;ra. el Nombre uno es substantivo y -
     <lb/>
     otro adjetivo uno y otro son indeclinable, sin casos
     <lb/>
     ni numeros, de suerte q.e de por si no tienen dife-
     <lb/>
-    rencia de el singular y plural; pero se distiwñ-
+    rencia de el singular y plural; pero se distiiñ-
     <lb/>
-     guen con estos dos adjetivos q.e, se llaman collec- c
+     guen con estos dos adjetivos q.e, se llaman collec- 
     <lb/>
-     tivos: Ciianni q.e significa mucho. Huaxijag?
+     tivos: Ciianni q.e significa mucho. Huaxija q.e
     <lb/>
-    significa po cop NJ? Muchos muchachos, Ajan(tilde under and above the n)
+    significa pocos: V.g. Muchos muchachos, Cijan-
     <lb/>
-    ni Pinni = Huaxija? Pinni, pocos muchachos
+    ni Pinni = Huaxija Pinni, pocos muchachos.
     <lb/>
     El Nombre Bixooze q.e significa el Padre tie-
     <lb/>
@@ -38,31 +38,31 @@
     <lb/>
      dice Bixoocea en el Vocativo Bixooze tam-
     <lb/>
-     bien Besuana o’Bejuana tiene el vocativo Chā
+     bien Besuana o’Bejuana tiene el vocativo Cha-
     <lb/>
-     ana: <foreign xml:lang='lat'>V.g.</foreign> Capa Dios Chaana. Dios aguaader. ?
+     ana: <foreign xml:lang='lat'>V.g.</foreign> Capa Dios Chaana. Dios te guarder. S.r
     <lb/>
-     solo los dos referidos nombres son excepcion dela?
+     solo los dos referidos nombres son excepcion de la
     <lb/>
-     Regla general i? Aunq.eel M.tusde? enta lenguadis-
+     Regla general; a un q.e el M.tro de esta lengua di-
     <lb/>
-     ce q.e esde? nombre Chaana no es uscatius? de Beruā-
+     ce q.e este nombre Chaana no es vocativo de Besuā-
     <lb/>
-     ma, sino q.e es ō sincopa de Pechana o’es como
+     nna, sino q.e es ō sin copa de Pechana o’es como
     <lb/>
-     se pronuncia Chaama; pues ambos de dos nombres
+     se pronuncia Chaana; pues ambos a dos nombres
     <lb/>
      se hallan separados en el Vocabulario, y signifi-
     <lb/>
-     can el e?ox. Cus nombre Rex o Ria parece q. tam-
+     can el S.r. Este nombre Rete o Riti parece q. tam-
     <lb/>
-     poco e vocativo de Birooze, pues t?s bien se han
+     poco e vocativo de Bixooze, pues tambien se han
     <lb/>
-    lia en el Vocabulario vigze?caa, do cee possible
+    lla en el Vocabulario significando, de possible
     <lb/>
-    Padres. Dice el Vocabulario Padre mio, mi Pe Ri
+    Padres. Dice el Vocabulario Padre mio, mi P.e Ri-
     <lb/>
-    ria, por el tanto el M.tro de esta lengua el M. Rs.
+    tia, por el tanto el M.tro de esta lengua el M. Rs.
 
     <pb n="4"/>
      Fr Juan de Cordova no hace exepcien de la Regla ge-
@@ -96,7 +96,7 @@
     <div xml:id= "levanto-arte1.1">
     <head type="outline"> De el Pronombre </head>
    
-			De el Pronombre
+			<head> De el Pronombre </head>
 			<lb/>
 	Hai dos especies de Pronombres: unos primitivos
 	<lb/>
@@ -137,7 +137,7 @@
 	<lb/>
     <div xml:id= "levanto-arte1.1.1">
     <head type= "outline"> Nombre Adjectivos </head>
-	    Nombres Adjetivos 
+	   <head> Nombres Adjetivos </head>
 	    <lb/>
 	Sin.r Nazinaya		Yo habil
 	<lb/>
@@ -155,7 +155,7 @@
     <!--levanto-arte 1.1.1-->
     <div xml:id= "levanto-arte1.1.2">
     <head type= "outline"> Pronombre Reciprocos </head>
-	    Pronombres Reciprocos 
+	   <head> Pronombres Reciprocos </head>
 	    <lb/>
 	Sin.r Yoobia 	Yo mismo
 	<lb/>
@@ -180,7 +180,7 @@
     <!--levanto-arte 1.1.2-->
     <div xml:id= "levanto-arte1.1.3">
     <head type= "outline"> Verbo </head>
-   			 Verbo
+   			 <head> Verbo  </head>
    			 <lb/>
 	Sing.r Racaya		Yo soy 
 	<lb/>
@@ -232,7 +232,7 @@
     <!--levanto-arte 1.1.3-->
     <div xml:id= "levanto-arte1.1.4">
     <head type= "outline"> Pronombres Deribativos </head>
-	    Pronombres Deribativos 
+	    <head> Pronombres Deribativos </head>
 	    <lb/>
 	 De estos pronombres deribatibos ai en esta lengua
 	 <lb/>
@@ -278,9 +278,9 @@
     <div xml:id= "levanto-arte1.1.4.2"> 
     <head type= "outline"> Segunda Especia de Pronombres Adjetivos, q.e se llaman
     Demostrativos </head>
-		 Segunda Especie de Pronombres Ad-
+		<head> Segunda Especie de Pronombres Ad-
 		 <lb/>
-		jetivos q.e se llaman Demonstativos
+		jetivos q.e se llaman Demonstativos </head>
 		<lb/>
 	Estas particulas Nixii, Rii, y Hii sirven en esta 
 	<lb/>
