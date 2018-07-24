@@ -58,6 +58,12 @@ The attribute we're interested in is the xml:lang attribute, which tells what fo
 
 Two important things to remember about foreign tags are that the foreign text should always go in between the foreign tags, never as an attribute, and that you only need to specify attributes in the opening tag, never the closing tag.
 
+## Normalization
+
+To make these texts more accessible, we can encode a modern Spanish version of the transcription using the <choice> tag. While viewing the text, someone can then choose to view the original transcription or the modernized transcription by clicking on the tabs directly above the transcription [see here] (https://ticha.haverford.edu/en/texts/levanto-arte/101/original/). Currently, the Levanto Arte has a modern Spanish normalization.
+  
+'<choice><orig>Como</orig><reg type="spanish">¿Cómo</reg></choice>'
+
 ## Nesting tags
 
 In XML, you can have tags inside other tags, but only if the opening and closing of one tag are completely within the opening and closing of the higher tag. The range of tags can never overlap. For example,
