@@ -3694,563 +3694,574 @@
     </div>
     <!-- levanto-arte 3.3 -->
     <div xml:id="levanto-arte3.4">
-    <head type="outline">
-        <choice><orig>Presentacion</orig><reg type="spanish">Presentación</reg></choice>
-        para contraer Matrimonio</head>
-    <head><choice> <orig> Presentacion </orig><reg type="spanish">Presentación</reg> </choice>para contraer Ma-
-    <lb/>
-    <div xml:id="levanto-arte3.4.1">
-    <head type="outline">[Parte sin título de la ceremonia de matrimonio]</head>
-    trimonio.
-    <lb/>
-    Llama <choice> <orig>ã</orig><reg type="spanish">a</reg></choice> los que quieren casar
-    <lb/>
-    <foreign xml:lang="zap">Coxijche ni xacalachi cochaagaañani.</foreign>
-    <lb/>
-    Levantate___<foreign xml:lang="zap">Coxolly
-    <lb/>
-    Reza _____Pella
-    <lb/>
-    <choice> <orig>Hazes</orig><reg type="spanish">¿Haces</reg></choice> juramento de responder la verdad <choice> <orig>ã</orig><reg type="spanish">a</reg></choice> todo lo
-    <lb/>
-    <choice> <orig>q.e</orig><reg type="spanish">que</reg></choice> yo le preguntare?
-    <lb/>
-    Huazannilo Juramento quicaabi tichalo quella
-    <lb/>
-    nalijloo quiraa niquinnaabaya tichalooy?</foreign>
-    <lb/>
-    <choice> <orig>Como</orig><reg type="spanish">¿Como</reg></choice> te llamas?____<foreign xml:lang="zap">Tulaalo?
-    <lb/>
-    <choice> <orig>quantos</orig><reg type="spanish">¿Cuántos</reg></choice> años tienes? Palla ijiza huaxapalo?
-    <lb/>
-    <choice> <orig>Eres</orig><reg type="spanish">¿Eres</reg></choice> soltero o viudo?
-    <lb/>
-    Bennicijtoobi nacalo, laabenni bizaabi?</foreign>
-    <lb/>
-    <choice> <orig>De</orig><reg type="spanish">¿De</reg></choice>
-    <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
-    Pueblo eres? <foreign xml:lang="zap">Caazooba gueechelo?</foreign>  Como
+      <head type="outline">
+        <choice>
+          <orig>Presentacion</orig>
+          <reg type="spanish">Presentación</reg>
+        </choice>
+        para contraer Matrimonio
+      </head>
+      <head>
+        <choice>
+          <orig>Presentacion</orig>
+          <reg type="spanish">Presentación</reg>
+        </choice>
+        para contraer Ma-<lb/>
+        trimonio.
+      </head>
+      <div xml:id="levanto-arte3.4.1">
+      <head type="outline">[Parte sin título de la ceremonia de matrimonio]</head>
+      <lb/>
+      Llama <choice> <orig>ã</orig><reg type="spanish">a</reg></choice> los que quieren casar
+      <lb/>
+      <foreign xml:lang="zap">Coxijche ni xacalachi cochaagaañani.</foreign>
+      <lb/>
+      Levantate___<foreign xml:lang="zap">Coxolly
+      <lb/>
+      Reza _____Pella
+      <lb/>
+      <choice> <orig>Hazes</orig><reg type="spanish">¿Haces</reg></choice> juramento de responder la verdad <choice> <orig>ã</orig><reg type="spanish">a</reg></choice> todo lo
+      <lb/>
+      <choice> <orig>q.e</orig><reg type="spanish">que</reg></choice> yo le preguntare?
+      <lb/>
+      Huazannilo Juramento quicaabi tichalo quella
+      <lb/>
+      nalijloo quiraa niquinnaabaya tichalooy?</foreign>
+      <lb/>
+      <choice> <orig>Como</orig><reg type="spanish">¿Como</reg></choice> te llamas?____<foreign xml:lang="zap">Tulaalo?
+      <lb/>
+      <choice> <orig>quantos</orig><reg type="spanish">¿Cuántos</reg></choice> años tienes? Palla ijiza huaxapalo?
+      <lb/>
+      <choice> <orig>Eres</orig><reg type="spanish">¿Eres</reg></choice> soltero o viudo?
+      <lb/>
+      Bennicijtoobi nacalo, laabenni bizaabi?</foreign>
+      <lb/>
+      <choice> <orig>De</orig><reg type="spanish">¿De</reg></choice>
+      <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
+      Pueblo eres? <foreign xml:lang="zap">Caazooba gueechelo?</foreign>  Como
 
-    <pb n="108"/>
-    <choice> <orig>Como</orig><reg type="spanish">¿Cómo</reg></choice> se llaman sus Padres?
-    <lb/>
-    <foreign xml:lang="zap"> Tu laani xtaataj xnaanalo? </foreign>
-    <lb/>
-    <choice> <orig>Como</orig><reg type="spanish">¿Cómo</reg></choice>  se llamaba tu Esposa Difunta?
-    <lb/>
-    <foreign xml:lang="zap"> Chuulaani lecheelalo ni cotini? </foreign>
-    <lb/>
-    <choice> <orig>Te</orig><reg type="spanish">¿Te</reg></choice> quieres casar con  <choice> <orig>N.</orig><reg type="spanish">Nombre</reg></choice>  con todo tu corazon y alma?
-    <lb/>
-    <foreign xml:lang="zap"> Racalachi gochaagañaalo loo N. quitoobi lachi qui
-    <lb/>
-    toobi anima xtennilo? </foreign>
-    <lb/>
-    <choice> <orig>Te</orig><reg type="spanish">¿Te</reg></choice>  hacen fuerza tus Padres,  <choice> <orig>ó</orig><reg type="spanish">o</reg></choice>  alguna otra perso-
-    <lb/>
-    na para que te cases?
-    <lb/>
-    <foreign xml:lang="zap"> Huaronnini quella natijpa looy xtaata xnaanalo
-    <lb/>
-    laa zeetoobi persona nijani cochaagañaalo? </foreign>
-    <lb/>
-    Distes palabra de casamiento, <choice> <orig>ã</orig> <reg type="spanish">á</reg> </choice>
-    otra <choice> <orig>muger</orig> <reg type="spanish">mujer</reg> </choice>
-    <lb/>
-    (hombre.)
-    <lb/>
-    <foreign xml:lang="zap"> Peteelo ticha quella hueechaagañaa zeetoobi    gon-
-    <lb/>
-    naa (niguijo)? </foreign>
-    <lb/>
-    <choice> <orig>Es</orig><reg type="spanish">¿Es</reg></choice> tu pariente esta <choice> <orig>muger</orig> <reg type="spanish">mujer</reg> </choice> (este hombre) con quien
-    <lb/>
-    te quieres casar?
-    <lb/>
-    <foreign xml:lang="zap"> Huanaca xtijalo bennigonnaarij (benninigijo)
-    <lb/>
-    ni racalachi cochaagañaalo? </foreign>
-    <lb/>
-    <choice> <orig>Has</orig><reg type="spanish">¿Has</reg></choice> pecado con alguna Parienta de esta <choice><orig>muger</orig> <reg type="spanish">mujer</reg> </choice> -
-    <lb/>
-    (Pariente de este hombre) con quien te quieres casar?
-    <lb/>
-    <foreign xml:lang="zap"> Pexijhuineelo tulila bennigonnaa (benniniguio?)
-    <lb/>
-    ni raca xtijani gonnarij (niguijorij ni racalachi
-    <lb/>
-    gochaagañaalo? </foreign>
-    <lb/>
-    Vete con la <choice> <orig>bendicion</orig><reg type="spanish">bendición</reg></choice> de Dios, y llama <choice> <orig>ã <lb/>el</orig> <reg type="spanish">al <lb/></reg> </choice>
-    primer testigo.
-    <lb/>
-    <foreign xml:lang="zap"> Cuyee quella   huennilaaya     xtenni      Dios    chela co-
-    <lb/>
-    xijche cotoobi testigo. </foreign>
-    <pb n="109"/>
-    </div>
-    <!--arte-levanto 3.4.1-->
-    <div xml:id="levanto-arte3.4.2">
-    <head type= "outline"> <choice> <orig>Ynterrogatorio</orig> <reg type="spanish">Interrogatorio</reg> </choice> <choice> <orig>ã</orig> <reg type="spanish">a</reg> </choice> los testigos </head>
-    <lb/>
-    <choice> <orig>Haces</orig> <reg type="spanish">¿Haces</reg> </choice> juramento de responder la verdad, <choice> <orig>ã</orig> <reg type="spanish">a</reg> </choice> todo lo
-    <lb/>
-    <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
-    te <choice><orig>preguntare</orig><reg type="spanish">preguntaré</reg></choice>
-    ?
-    <lb/>
-    <foreign xml:lang="zap"> Huaxonnilo juramento quicaabilo ticha quella nã-
-    <lb/>
-    lijloo quiraa ni quinnaaba tichaya looy? </foreign>
-    <lb/>
-    <choice> <orig>Conoces</orig><reg type="spanish">¿Conoces</reg></choice>
-    <choice><orig>ã</orig><reg type="spanish">a</reg></choice> estos
-    <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
-    se quieren casar?
-    <lb/>
-    <foreign xml:lang="zap"> Huaraca pecalonnij niracalachi gochaagaanaani? </foreign>
-    <lb/>
-    <choice> <orig>Saves</orig> <reg type="spanish">¿Sabes</reg> </choice> si se quieren casar con todo su corazon?
-    <lb/>
-    <foreign xml:lang="zap"> Huannanalo tebela naca lachi cochaagañaani-
-    <lb/>
-    quitoobi lachi tooni </foreign>
-    <lb/>
-    <choice> <orig>Saves</orig> <reg type="spanish">¿Sabes</reg> </choice> si alguno les ha hecho fuerza para
-    <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
-    se casen?
-    <lb/>
-    <foreign xml:lang="zap"> Huannaanalo tebela tutila pennini niqueequella
-    <lb/>
-    natijpa, nijani cochaagañaani? </foreign>
-    <lb/>
-    <choice> <orig>Saves</orig> <reg type="spanish">¿Sabes</reg> </choice> <choice> <orig>ó</orig> <reg type="spanish">o</reg> </choice> has oido decir en el Pueblo, si este hombre
-    <lb/>
-    dió palabarse casamiento <choice> <orig>ã</orig> <reg type="spanish">a</reg> </choice> otra <choice> <orig>muger</orig> <reg type="spanish">mujer</reg> </choice>, <choice> <orig>ó</orig> <reg type="spanish">o</reg> </choice> esta <choice> <orig>muger</orig> <reg type="spanish">mujer</reg> </choice>
-    <lb/>
-    <choice> <orig>ã</orig> <reg type="spanish">á</reg> </choice> otro hombre?
-    <lb/>
-    <foreign xml:lang="zap"> Huannaanalo laa piñatiagolo loo gueche tebela
-    <lb/>
-    benniniguijorij peteeteni ticha quellahuechaagañaa
-    <lb/>
-    loo zeetobi bennigonnaa; laa bennigonnaarij peteeti-
-    <lb/>
-    ni ticha quella hueechaagañaa zeetoobi benniniguijo? </foreign>
-    <lb/>
-    <choice> <orig>Saves</orig> <reg type="spanish">¿Sabes</reg> </choice> si son parientes?
-    <lb/>
-    <foreign xml:lang="zap"> Huannanalo tebela nacani stijani? </foreign>
-    <lb/>
-    <choice> <orig>Saves</orig> <reg type="spanish">¿Sabes</reg> </choice> si este hombre pecó, con alguna pariente de esta
-    <lb/>
-    <choice> <orig>muger</orig> <reg type="spanish">mujer</reg> </choice>, <choice> <orig>ó</orig> <reg type="spanish">o</reg> </choice> si esta <choice> <orig>muger</orig> <reg type="spanish">mujer</reg> </choice> pecó con algun pariente de este
-    <lb/>
-    hombre?
-    <lb/>
-    <foreign xml:lang="zap"> Huannanalo tebela benni niguijorij perij huiñeenitutila
-    <lb/>
-    bennigonnã niraca xtijani gonnaarij; laagonnãrij
-    <lb/>
-    peahañeeni tolla, tuti benniguijo, ninaca xtijanibenni
-    <lb/>
-    niguijonij? </foreign>
-    <lb/>
-    <choice> <orig>Saves</orig> <reg type="spanish">¿Sabes</reg> </choice> si este hombre dio palabra de casamiento <choice> <orig>ã</orig> <reg type="spanish">a</reg> </choice> es-
-    <lb/>
-    ta <choice> <orig>muger</orig> <reg type="spanish">mujer</reg> </choice>, <choice> <orig>quando</orig> <reg type="spanish">cuando</reg> </choice> <choice> <orig>vivia</orig> <reg type="spanish">vivía</reg> </choice> su consorte?
-    <lb/>
-    <foreign xml:lang="zap"> Huannanalo tebela bennijijonij peeteeteni ticha-
-    <lb/>
-    quella huechaagañaagonnarij chijconij nabaanini
-    <lb/>
-    Leihenani? </foreign>
+      <pb n="108"/>
+      <choice> <orig>Como</orig><reg type="spanish">¿Cómo</reg></choice> se llaman sus Padres?
+      <lb/>
+      <foreign xml:lang="zap"> Tu laani xtaataj xnaanalo? </foreign>
+      <lb/>
+      <choice> <orig>Como</orig><reg type="spanish">¿Cómo</reg></choice>  se llamaba tu Esposa Difunta?
+      <lb/>
+      <foreign xml:lang="zap"> Chuulaani lecheelalo ni cotini? </foreign>
+      <lb/>
+      <choice> <orig>Te</orig><reg type="spanish">¿Te</reg></choice> quieres casar con  <choice> <orig>N.</orig><reg type="spanish">Nombre</reg></choice>  con todo tu corazon y alma?
+      <lb/>
+      <foreign xml:lang="zap"> Racalachi gochaagañaalo loo N. quitoobi lachi qui
+      <lb/>
+      toobi anima xtennilo? </foreign>
+      <lb/>
+      <choice> <orig>Te</orig><reg type="spanish">¿Te</reg></choice>  hacen fuerza tus Padres,  <choice> <orig>ó</orig><reg type="spanish">o</reg></choice>  alguna otra perso-
+      <lb/>
+      na para que te cases?
+      <lb/>
+      <foreign xml:lang="zap"> Huaronnini quella natijpa looy xtaata xnaanalo
+      <lb/>
+      laa zeetoobi persona nijani cochaagañaalo? </foreign>
+      <lb/>
+      Distes palabra de casamiento, <choice> <orig>ã</orig> <reg type="spanish">á</reg> </choice>
+      otra <choice> <orig>muger</orig> <reg type="spanish">mujer</reg> </choice>
+      <lb/>
+      (hombre.)
+      <lb/>
+      <foreign xml:lang="zap"> Peteelo ticha quella hueechaagañaa zeetoobi    gon-
+      <lb/>
+      naa (niguijo)? </foreign>
+      <lb/>
+      <choice> <orig>Es</orig><reg type="spanish">¿Es</reg></choice> tu pariente esta <choice> <orig>muger</orig> <reg type="spanish">mujer</reg> </choice> (este hombre) con quien
+      <lb/>
+      te quieres casar?
+      <lb/>
+      <foreign xml:lang="zap"> Huanaca xtijalo bennigonnaarij (benninigijo)
+      <lb/>
+      ni racalachi cochaagañaalo? </foreign>
+      <lb/>
+      <choice> <orig>Has</orig><reg type="spanish">¿Has</reg></choice> pecado con alguna Parienta de esta <choice><orig>muger</orig> <reg type="spanish">mujer</reg> </choice> -
+      <lb/>
+      (Pariente de este hombre) con quien te quieres casar?
+      <lb/>
+      <foreign xml:lang="zap"> Pexijhuineelo tulila bennigonnaa (benniniguio?)
+      <lb/>
+      ni raca xtijani gonnarij (niguijorij ni racalachi
+      <lb/>
+      gochaagañaalo? </foreign>
+      <lb/>
+      Vete con la <choice> <orig>bendicion</orig><reg type="spanish">bendición</reg></choice> de Dios, y llama <choice> <orig>ã <lb/>el</orig> <reg type="spanish">al <lb/></reg> </choice>
+      primer testigo.
+      <lb/>
+      <foreign xml:lang="zap"> Cuyee quella   huennilaaya     xtenni      Dios    chela co-
+      <lb/>
+      xijche cotoobi testigo. </foreign>
+      <pb n="109"/>
+      </div>
+      <!--arte-levanto 3.4.1-->
+      <div xml:id="levanto-arte3.4.2">
+      <head type= "outline"> <choice> <orig>Ynterrogatorio</orig> <reg type="spanish">Interrogatorio</reg> </choice> <choice> <orig>ã</orig> <reg type="spanish">a</reg> </choice> los testigos </head>
+      <lb/>
+      <choice> <orig>Haces</orig> <reg type="spanish">¿Haces</reg> </choice> juramento de responder la verdad, <choice> <orig>ã</orig> <reg type="spanish">a</reg> </choice> todo lo
+      <lb/>
+      <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
+      te <choice><orig>preguntare</orig><reg type="spanish">preguntaré</reg></choice>
+      ?
+      <lb/>
+      <foreign xml:lang="zap"> Huaxonnilo juramento quicaabilo ticha quella nã-
+      <lb/>
+      lijloo quiraa ni quinnaaba tichaya looy? </foreign>
+      <lb/>
+      <choice> <orig>Conoces</orig><reg type="spanish">¿Conoces</reg></choice>
+      <choice><orig>ã</orig><reg type="spanish">a</reg></choice> estos
+      <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
+      se quieren casar?
+      <lb/>
+      <foreign xml:lang="zap"> Huaraca pecalonnij niracalachi gochaagaanaani? </foreign>
+      <lb/>
+      <choice> <orig>Saves</orig> <reg type="spanish">¿Sabes</reg> </choice> si se quieren casar con todo su corazon?
+      <lb/>
+      <foreign xml:lang="zap"> Huannanalo tebela naca lachi cochaagañaani-
+      <lb/>
+      quitoobi lachi tooni </foreign>
+      <lb/>
+      <choice> <orig>Saves</orig> <reg type="spanish">¿Sabes</reg> </choice> si alguno les ha hecho fuerza para
+      <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
+      se casen?
+      <lb/>
+      <foreign xml:lang="zap"> Huannaanalo tebela tutila pennini niqueequella
+      <lb/>
+      natijpa, nijani cochaagañaani? </foreign>
+      <lb/>
+      <choice> <orig>Saves</orig> <reg type="spanish">¿Sabes</reg> </choice> <choice> <orig>ó</orig> <reg type="spanish">o</reg> </choice> has oido decir en el Pueblo, si este hombre
+      <lb/>
+      dió palabarse casamiento <choice> <orig>ã</orig> <reg type="spanish">a</reg> </choice> otra <choice> <orig>muger</orig> <reg type="spanish">mujer</reg> </choice>, <choice> <orig>ó</orig> <reg type="spanish">o</reg> </choice> esta <choice> <orig>muger</orig> <reg type="spanish">mujer</reg> </choice>
+      <lb/>
+      <choice> <orig>ã</orig> <reg type="spanish">á</reg> </choice> otro hombre?
+      <lb/>
+      <foreign xml:lang="zap"> Huannaanalo laa piñatiagolo loo gueche tebela
+      <lb/>
+      benniniguijorij peteeteni ticha quellahuechaagañaa
+      <lb/>
+      loo zeetobi bennigonnaa; laa bennigonnaarij peteeti-
+      <lb/>
+      ni ticha quella hueechaagañaa zeetoobi benniniguijo? </foreign>
+      <lb/>
+      <choice> <orig>Saves</orig> <reg type="spanish">¿Sabes</reg> </choice> si son parientes?
+      <lb/>
+      <foreign xml:lang="zap"> Huannanalo tebela nacani stijani? </foreign>
+      <lb/>
+      <choice> <orig>Saves</orig> <reg type="spanish">¿Sabes</reg> </choice> si este hombre pecó, con alguna pariente de esta
+      <lb/>
+      <choice> <orig>muger</orig> <reg type="spanish">mujer</reg> </choice>, <choice> <orig>ó</orig> <reg type="spanish">o</reg> </choice> si esta <choice> <orig>muger</orig> <reg type="spanish">mujer</reg> </choice> pecó con algun pariente de este
+      <lb/>
+      hombre?
+      <lb/>
+      <foreign xml:lang="zap"> Huannanalo tebela benni niguijorij perij huiñeenitutila
+      <lb/>
+      bennigonnã niraca xtijani gonnaarij; laagonnãrij
+      <lb/>
+      peahañeeni tolla, tuti benniguijo, ninaca xtijanibenni
+      <lb/>
+      niguijonij? </foreign>
+      <lb/>
+      <choice> <orig>Saves</orig> <reg type="spanish">¿Sabes</reg> </choice> si este hombre dio palabra de casamiento <choice> <orig>ã</orig> <reg type="spanish">a</reg> </choice> es-
+      <lb/>
+      ta <choice> <orig>muger</orig> <reg type="spanish">mujer</reg> </choice>, <choice> <orig>quando</orig> <reg type="spanish">cuando</reg> </choice> <choice> <orig>vivia</orig> <reg type="spanish">vivía</reg> </choice> su consorte?
+      <lb/>
+      <foreign xml:lang="zap"> Huannanalo tebela bennijijonij peeteeteni ticha-
+      <lb/>
+      quella huechaagañaagonnarij chijconij nabaanini
+      <lb/>
+      Leihenani? </foreign>
 
-    <pb n="110"/>
-     </div>
-    <!-- levanto-arte 3.4.2 -->
-    <div xml:id="levanto-arte3.4.3">
-    <head type="outline">Acto de
-        <choice><orig>Contricion</orig><reg type="spanish">Contrición</reg></choice>
-    </head>
-    <head> Acto de
-        <choice><orig>Contricion</orig><reg type="spanish">Contrición</reg></choice>
-    </head>
-    <lb/>
-    <foreign xml:lang='zap'>
-    Ha Chana Jesu Christo he! huallij Bitoo hua
-    <lb/>
-    llij Benniaati: ni pe-zaalo naa ni pezijllalo naa
-    <lb/>
-    nij asteni naca yoobilo ni nazaacatete yaca na
-    <lb/>
-    gaabani Xquella nazaacalo: Relaceteete lachia
-    <lb/>
-    nij asteni quiraa ni pexihua loolo. Ricabila-
-    <lb/>
-    chia loo quella gracia xtennilo, azootichij quee-
-    <lb/>
-    xi hua, chela ricabilachia guexoobaxtolaya
-    <lb/>
-    chi gallabea. Ribeezalachia 	loo xquella naza-
-     <lb/>
-    calo quinnijtiloolo naa nia xtenni Rinni na-
-    <lb/>
-    chonolo Rochijgaya loolo quella nazacani go
-    <lb/>
-   nnia niaxtenni quiraa tolla ni pennia Ro-
-   <lb/>
-    nni looya quezaalachilo naa quella gracia: nij
-   <lb/>
-   ani azootichij gonnia tolla  loolo: Chana Dios he!
-   </foreign>
-
-
-    <pb n="111"/>
-    </div>
-    <!--arte-levanto 3.4.3-->
-    <div xml:id="levanto-arte3.4.4">
-    <head type="outline">[Parte sin título de la ceremonia de matrimonio]</head>
-   <choice><orig>Saves</orig><reg type="spanish">¿Sabes</reg></choice>
-   si tienen otro impedimento para no se puedan casar?
+      <pb n="110"/>
+       </div>
+      <!-- levanto-arte 3.4.2 -->
+      <div xml:id="levanto-arte3.4.3">
+      <head type="outline">Acto de
+          <choice><orig>Contricion</orig><reg type="spanish">Contrición</reg></choice>
+      </head>
+      <head> Acto de
+          <choice><orig>Contricion</orig><reg type="spanish">Contrición</reg></choice>
+      </head>
+      <lb/>
+      <foreign xml:lang='zap'>
+      Ha Chana Jesu Christo he! huallij Bitoo hua
+      <lb/>
+      llij Benniaati: ni pe-zaalo naa ni pezijllalo naa
+      <lb/>
+      nij asteni naca yoobilo ni nazaacatete yaca na
+      <lb/>
+      gaabani Xquella nazaacalo: Relaceteete lachia
+      <lb/>
+      nij asteni quiraa ni pexihua loolo. Ricabila-
+      <lb/>
+      chia loo quella gracia xtennilo, azootichij quee-
+      <lb/>
+      xi hua, chela ricabilachia guexoobaxtolaya
+      <lb/>
+      chi gallabea. Ribeezalachia 	loo xquella naza-
        <lb/>
-   Huannanalo tebela hurapani zeetoobi quella rocaa,
-   <lb/>
-   quella rozeego nilaa impedimento nijaniacali zoaaca
-   <lb/>
-   cochaagañaani?
-   <lb/>
-   <choice><orig>Eres</orig><reg type="spanish">¿Eres</reg></choice>
-   pariente de este hombre
-   <choice><orig>o'</orig><reg type="spanish">ó</reg></choice>
-   de esta
-   <choice><orig>muger</orig><reg type="spanish">mujer</reg></choice>
-   <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
-   se ha de casar?
-   <lb/>
-   Huaraca xtijalo benni niguijorij laabenni gonnarij
-   <lb/>
-   nigochaagañaanni?
-   <lb/>
-   <choice> <orig> Como</orig> <reg type="spanish">¿Cómo</reg> </choice> te llamas?------- Tu laalo?
-   <lb/>
-   <choice><orig>Quantos</orig><reg type="spanish">¿Cuántos</reg></choice>
-   <choice> <orig> anos</orig> <reg type="spanish">años</reg> </choice>
-   tienes?----- Pella ijza Huarapalo?
-   <lb/>
-   <choice> <orig>De</orig> <reg type="spanish">¿De</reg> </choice>
-   <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
-   pueblo eres?-----Caa zooba gueche?
-   <lb/>
-   <choice><orig>Eres</orig><reg type="spanish">¿Eres</reg></choice>
-   casado?-----Huanoo lechelalo?
-   <lb/>
-   <choice><orig>Como</orig><reg type="spanish">¿Cómo</reg></choice>
-   se llama tu
-   <choice><orig>muger</orig><reg type="spanish">mujer</reg></choice>
-   ?- Tu laani lechelalo?
-   <lb/>
-   Vete con la
-   <choice><orig>vendicion</orig><reg type="spanish">vendición</reg></choice>
-   de Dios, y llama
-   <choice><orig>ã el</orig><reg type="spanish">al</reg></choice>
-   segundo test-
-   <lb/>
-   igo(tercero)
-   <lb/>
-   Cuyee quella huennilaaya xtenni Dios chela corij-
-   <lb/>
-   che coroopa testigo (coyoona).
-   <lb/>
-   <head type= "outline">
-    <choice><orig>Quando</orig><reg type="spanish">¿Cuándo</reg></choice>
-   los
-   <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
-   se presentaren son Viu
-   <lb/>
-   dos se les
-   <choice><orig>haran</orig><reg type="spanish">harán</reg></choice>
-   las siguientes pregio? </head>
-   <head>
-    <choice><orig>Quando</orig><reg type="spanish">¿Cuándo</reg></choice>
-    los
-    <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
-    se presentaren son Viu
-    <lb/>
-    dos se les
-    <choice><orig>haran</orig><reg type="spanish">harán</reg></choice>
-    las siguientes pregios? </head>
-    <lb/>
-    <choice><orig>Le</orig><reg type="spanish">¿Le</reg></choice>
-    <choice><orig>distes</orig><reg type="spanish">dices</reg></choice>
-    palabra de casamiento a esta
-    <choice><orig>muger</orig><reg type="spanish">mujer</reg></choice>
-    <choice><orig>quan</orig><reg type="spanish">cuan</reg></choice>
-    <lb/>
-    do <choice><orig>vivia</orig><reg type="spanish">vivía</reg></choice>
-    su marido?- o
-    <choice><orig>quando</orig><reg type="spanish">cuando</reg></choice>
-    <choice><orig>vivia</orig><reg type="spanish">vivía</reg></choice>
-    tu
-    <choice><orig>muger</orig><reg type="spanish">mujer</reg></choice>
-    ?
-    <lb/>
-    Peteetelo ticha quella huechaagañaa bennigonnarij
-    <lb/>
-    chijcorij nabaanini lechelani? Laa chij corij nabaa
-    <lb/>
-    nini lechelalo?
-    <lb/>
-    <choice><orig>Pecastes</orig><reg type="spanish">¿Pecastes</reg></choice>
-    con esta
-    <choice><orig>muger</orig><reg type="spanish">mujer</reg></choice>
-    con palabra de casamiento
-    <lb/>
-    Quando
-    <choice><orig>vivia</orig><reg type="spanish">vivía</reg></choice>
-    su marido? o
-    <choice><orig>quando</orig><reg type="spanish">cuando</reg></choice>
-    <choice><orig>vivia</orig><reg type="spanish">vivía</reg></choice>
-    tu
-    <choice><orig>muger</orig><reg type="spanish">mujer</reg></choice>
-    ?
-    <lb/>
-    Pexij huineelo bennigonnanij loo ticha quella hue
-    <lb/>
-    Chaaganaa, chijconij nabaanini lechelani? lachij
-    <lb/>
-    Conij nabaanini lechelalo?
-    <lb/>
+      calo quinnijtiloolo naa nia xtenni Rinni na-
+      <lb/>
+      chonolo Rochijgaya loolo quella nazacani go
+      <lb/>
+     nnia niaxtenni quiraa tolla ni pennia Ro-
+     <lb/>
+      nni looya quezaalachilo naa quella gracia: nij
+     <lb/>
+     ani azootichij gonnia tolla  loolo: Chana Dios he!
+     </foreign>
 
 
+      <pb n="111"/>
+      </div>
+      <!--arte-levanto 3.4.3-->
+      <div xml:id="levanto-arte3.4.4">
+      <head type="outline">[Parte sin título de la ceremonia de matrimonio]</head>
+     <choice><orig>Saves</orig><reg type="spanish">¿Sabes</reg></choice>
+     si tienen otro impedimento para no se puedan casar?
+         <lb/>
+     Huannanalo tebela hurapani zeetoobi quella rocaa,
+     <lb/>
+     quella rozeego nilaa impedimento nijaniacali zoaaca
+     <lb/>
+     cochaagañaani?
+     <lb/>
+     <choice><orig>Eres</orig><reg type="spanish">¿Eres</reg></choice>
+     pariente de este hombre
+     <choice><orig>o'</orig><reg type="spanish">ó</reg></choice>
+     de esta
+     <choice><orig>muger</orig><reg type="spanish">mujer</reg></choice>
+     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
+     se ha de casar?
+     <lb/>
+     Huaraca xtijalo benni niguijorij laabenni gonnarij
+     <lb/>
+     nigochaagañaanni?
+     <lb/>
+     <choice> <orig> Como</orig> <reg type="spanish">¿Cómo</reg> </choice> te llamas?------- Tu laalo?
+     <lb/>
+     <choice><orig>Quantos</orig><reg type="spanish">¿Cuántos</reg></choice>
+     <choice> <orig> anos</orig> <reg type="spanish">años</reg> </choice>
+     tienes?----- Pella ijza Huarapalo?
+     <lb/>
+     <choice> <orig>De</orig> <reg type="spanish">¿De</reg> </choice>
+     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
+     pueblo eres?-----Caa zooba gueche?
+     <lb/>
+     <choice><orig>Eres</orig><reg type="spanish">¿Eres</reg></choice>
+     casado?-----Huanoo lechelalo?
+     <lb/>
+     <choice><orig>Como</orig><reg type="spanish">¿Cómo</reg></choice>
+     se llama tu
+     <choice><orig>muger</orig><reg type="spanish">mujer</reg></choice>
+     ?- Tu laani lechelalo?
+     <lb/>
+     Vete con la
+     <choice><orig>vendicion</orig><reg type="spanish">vendición</reg></choice>
+     de Dios, y llama
+     <choice><orig>ã el</orig><reg type="spanish">al</reg></choice>
+     segundo test-
+     <lb/>
+     igo(tercero)
+     <lb/>
+     Cuyee quella huennilaaya xtenni Dios chela corij-
+     <lb/>
+     che coroopa testigo (coyoona).
+     <lb/>
+     <head type= "outline">
+      <choice><orig>Quando</orig><reg type="spanish">¿Cuándo</reg></choice>
+     los
+     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
+     se presentaren son Viu
+     <lb/>
+     dos se les
+     <choice><orig>haran</orig><reg type="spanish">harán</reg></choice>
+     las siguientes pregio? </head>
+     <head>
+      <choice><orig>Quando</orig><reg type="spanish">¿Cuándo</reg></choice>
+      los
+      <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
+      se presentaren son Viu
+      <lb/>
+      dos se les
+      <choice><orig>haran</orig><reg type="spanish">harán</reg></choice>
+      las siguientes pregios? </head>
+      <lb/>
+      <choice><orig>Le</orig><reg type="spanish">¿Le</reg></choice>
+      <choice><orig>distes</orig><reg type="spanish">dices</reg></choice>
+      palabra de casamiento a esta
+      <choice><orig>muger</orig><reg type="spanish">mujer</reg></choice>
+      <choice><orig>quan</orig><reg type="spanish">cuan</reg></choice>
+      <lb/>
+      do <choice><orig>vivia</orig><reg type="spanish">vivía</reg></choice>
+      su marido?- o
+      <choice><orig>quando</orig><reg type="spanish">cuando</reg></choice>
+      <choice><orig>vivia</orig><reg type="spanish">vivía</reg></choice>
+      tu
+      <choice><orig>muger</orig><reg type="spanish">mujer</reg></choice>
+      ?
+      <lb/>
+      Peteetelo ticha quella huechaagañaa bennigonnarij
+      <lb/>
+      chijcorij nabaanini lechelani? Laa chij corij nabaa
+      <lb/>
+      nini lechelalo?
+      <lb/>
+      <choice><orig>Pecastes</orig><reg type="spanish">¿Pecastes</reg></choice>
+      con esta
+      <choice><orig>muger</orig><reg type="spanish">mujer</reg></choice>
+      con palabra de casamiento
+      <lb/>
+      Quando
+      <choice><orig>vivia</orig><reg type="spanish">vivía</reg></choice>
+      su marido? o
+      <choice><orig>quando</orig><reg type="spanish">cuando</reg></choice>
+      <choice><orig>vivia</orig><reg type="spanish">vivía</reg></choice>
+      tu
+      <choice><orig>muger</orig><reg type="spanish">mujer</reg></choice>
+      ?
+      <lb/>
+      Pexij huineelo bennigonnanij loo ticha quella hue
+      <lb/>
+      Chaaganaa, chijconij nabaanini lechelani? lachij
+      <lb/>
+      Conij nabaanini lechelalo?
+      <lb/>
+
+
+      </div>
+      <!-- levanto-arte 3.4.4 -->
+      <div xml:id="levanto-arte3.4.5">
+      <head type="outline">Amonestaciones</head>
+                    Amonestaciones
+                <lb/>
+  <choice><orig>N.</orig><reg type="spanish">Nombre</reg></choice>
+  sol tero hijo de
+  <choice><orig>N.</orig><reg type="spanish">Nombre</reg></choice>
+  y de
+  <choice><orig>N.</orig><reg type="spanish">Nombre</reg></choice>
+  natural del Pueblo
+  <lb/>
+  <choice><orig>N.</orig><reg type="spanish">Nombre</reg></choice>
+  se quiere casar con
+  <choice><orig>N.</orig><reg type="spanish">Nombre</reg></choice>
+  doncella hija de
+  <choice><orig>N.</orig><reg type="spanish">Nombre</reg></choice>
+  y
+  <choice><orig>N.</orig><reg type="spanish">Nombre</reg></choice>
+  <lb/>
+  Natural de Pueblo de
+  <choice><orig>N.</orig><reg type="spanish">Nombre</reg></choice>
+  Siagluno de vosotros
+  <lb/>
+  Sa-
+  <lb/>
+
+      <pb n="112"/>
+      <pb n="113"/>
+      <lb/>
+  <choice><orig>Save q.e sean parientes o’ Compadres o’ q.e dieron espon</orig><reg type="spanish">Sabe que sean parientes o Compadres o que dieron espon</reg></choice>
+  <lb/>
+  <choice><orig>sales a otra persona o q.e tienen otro impedimento para</orig><reg type="spanish">sales a otra persona o que tienen otro impedimento para</reg></choice>
+  <lb/>
+  <choice><orig>q.e no se puedan casar, avise al P.e Cura</orig><reg type="spanish">que no se puedan casar, avise al P.e Cura</reg></choice>
+  <lb/>
+  <foreign xml:lang="zap">N. benni cijtoobi xinni xtenni N. chela N. bennihua
+  <lb/>
+  lachi xtenni gueeche N. racalachi cochaagañaani
+  <lb/>
+  loo N. xinni Chaapa xtenni N. chela N. bennihuala
+  <lb/>
+  chi xtenni gueeche N. tebelatutila lato huannaanani
+  <lb/>
+  ninaaca xtijaniloo Compadre, loo peteeteni tichaque
+  <lb/>
+  llahuechaagañaa, loo zeetoobi bennigonnaa benni
+  <lb/>
+  guijo laa huarapani zeetoobi quella rocaa quella ro
+  <lb/>
+  Zeego, nilaa impedimento nija niacati zooaca co
+  <lb/>
+  chaaganaani coconani tichaloo Bixooze Cura
+  <lb/>
+  Coopa Bitoo. </foreign>
+  <lb/>
+  <choice>
+  <orig> N. Vuido de N. natural del Pueblo N. se qui
+  </orig>
+  <reg type="spanish">N. Vuido de N. natural del Pueblo N. se quiere</reg>
+   </choice>
+  <lb/>
+  <choice>
+  <orig> casar con N. Vuida de N. natural del Pueblo N.
+  </orig>
+  <reg type="spanish"> casar con N. Vuida de N. natural del Pueblo N. </reg>
+   </choice>
+
+  <lb/>
+  <foreign xml:lang="zap">
+  N. benni bizaabi xtenni N. bennihualachi xtenni
+  <lb/>
+  gueeche N. racalachi cochaaganaani loo N. benni
+  <lb/>
+  xtennini N. bennihualachi xtenni gueeche N. </foreign>
+  <lb/>
+  <choice>
+  <orig> N. soltero Hijo de N. natural del Pueblo N. se qui
+  </orig><reg type="spanish"> N. soltero Hijo de N. natural del Pueblo N. se quiere
+   </reg>
+   </choice>
+  <lb/>
+  <choice>
+  <orig> ere casar con N vuida de N natural del Pueblo N.
+  </orig>
+  <reg type="spanish"> quiere casar con N vuida de N natural del Pueblo N.
+   </reg>
+   </choice>
+  <lb/>
+  N. <foreign xml:lang="zap">
+   bennicijtoobi xinni xtenni N. chela N. benni
+  <lb/>
+  N. bennicijtoobi xinni xtenni N. chela N. benni
+  <lb/>
+  naaniloo N. benni bizaabi xtenni N. bennihuala-
+  <lb/>
+  chi xtenni gueeche N. </foreign>
+  <lb/>
+  <choice>
+  <orig> N. Viudo natural del Pueblo N. se quiere casar
+  </orig>
+  <reg type="spanish"> N. Viudo natural del Pueblo N. se quiere casar.
+   </reg>
+   </choice>
+  <lb/>
+  <choice>
+  <orig> con N doncella hija de de N. y N. natural de Pueblo N.
+  </orig>
+  <reg type="spanish"> con N doncella hija de N. y N. natural de Pueblo N.
+   </reg>
+   </choice>
+  <lb/>
+  N. <foreign xml:lang="zap">
+  bennibizaabi xtenni N. bennihualachi xtenni
+  <lb/>
+  gueeche N. racalachi cochaaganaani loo N. xinni
+  <lb/>
+  chaapa xtenni N. chela N. benni hualachi xtenni
+  <lb/>
+  gueeche N. </foreign>
+  <lb/>
+  Esta es la primera
+      <choice><orig>amonestacion</orig><reg type="spanish">amonestación</reg></choice>
+      la segunda la tercera
+  <lb/>
+  <foreign xml:lang="zap">
+  Nirijnaca cotoobi
+  <choice><orig>amonestacion</orig><reg type="spanish">amonestación</reg></choice>
+  vel pennabi coroopa
+  <lb/>
+  Coyoona pennabico-yoona   pennabi </foreign>
+
+  <lb/>
+</div>
+
+
+
+
+
+
+      <pb n="114"/>
+
+      <choice> <orig> N.</orig> <reg type="spanish">Nombre</reg> </choice> y <choice> <orig> N.</orig> <reg type="spanish">Nombre</reg> </choice> q.e <choice> <orig> estan</orig> <reg type="spanish">están</reg> </choice> presentes quieren contraer matrimo-
+      <lb/>
+      nio. Si alguno de vosotros
+      <choice><orig>save</orig><reg type="spanish">sabe</reg></choice>
+      <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
+      tenga
+      <choice><orig>algun</orig><reg type="spanish">algún</reg></choice>
+      impedi-
+      <lb/>
+      mento para
+      <choice><orig> q.e</orig><reg type="spanish">que</reg></choice>
+      no se pueda casar manifiestelo.
+      <choice><orig>Se</orig><reg type="spanish">¿Se</reg></choice>
+      puede
+      <lb/>
+      casar?
+       <lb/>
+      <choice><orig> N.</orig><reg type="spanish">Nombre</reg></choice>
+       <foreign xml:lang= 'zap'>chela</foreign><choice><orig>N.</orig><reg type="spanish">Nombre</reg></choice>
+       <foreign xml:lang= 'zap'> ni xizooba looni racalachi cochaaganaa
+       <lb/>
+      ni, tebella tutila lato huannaanani ni rapani xijtila
+       <lb/>
+      quella rocaa, quella rozeego ni laa impedimento nij
+      <lb/>
+      ani acati zooaca cochaayanaani quixeeleni quella
+      <lb/>
+      rocaa quella rozeego. Zooaca cochaagaanaani? </foreign>
+      <lb/>
+      <choice><orig>N.</orig><reg type="spanish">¿Nombre</reg></choice>
+      te quieres casar con
+      <choice><orig>N.</orig><reg type="spanish">Nombre</reg></choice>
+      <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
+      esta enter presencia como
+      <lb/>
+      lo manda
+      <choice><orig>N.tra</orig><reg type="spanish">Nuestra</reg></choice>
+      <choice><orig>S.ta</orig><reg type="spanish">Santa</reg></choice>
+      Madre
+      <choice><orig>Yglesia</orig><reg type="spanish">Iglesia</reg></choice>
+      ?
+      <lb/>
+      N. <foreign xml:lang= 'zap'> huanacalachi cochaaganaalo loo N. rizoo bani-
+      <lb/>
+      loolo cica xennapeea Xinaana </foreign> S.ta Yglesia?
+      <lb/>
+      </div>
+      <!-- levanto-arte 3.4.5 -->
+      <div xml:id="levanto-arte3.4.6">
+      <head type="outline">Para los Anillos</head>
+      <head> Para los Anillos </head>
+      <lb/>
+      Di: En el nombre del Padre, del Hijo, y del
+      <choice><orig>Spiritu</orig><reg type="spanish">Espíritu</reg></choice>
+      <choice><orig> S.to</orig><reg type="spanish">Santo</reg></choice>
+      <lb/>
+      amen Jesus.
+      <lb/>
+      <foreign xml:lang= 'zap'> Connijlaa Dios Bixooze, Dios xinni, Dios Spiritu S.to
+      <lb/>
+      cacacijga cica </foreign>
+      <lb/>
+      Junta las manos. <foreign xml:lang= 'zap'> Petoopa laohijñaa </foreign>
+       <lb/>
+      Di: Esposa mia cadad
+      <choice><orig>aqui</orig><reg type="spanish">aquí</reg></choice>
+      estas arras
+      <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
+      te doy en
+      <lb/>
+      senal de Matrimonio de nosotros dos.
+      <lb/>
+      <foreign xml:lang= 'zap'> Connij Lechelaya xtennia: alarij bichchij chi nilaa
+      <lb/>
+      Arras ninoneechealooy ni naca bennabique-
+      <lb/>
+      lla huechaganaa xtenni, quiroopatonoo. </foreign>
+      <lb/>
+      Yo las recivo de ti.
+      <lb/>
+      <foreign xml:lang= 'zap'> Haa huarizijbaneezoya xtennilo. </foreign>
+      <lb/>
+      </div>
+      <!-- levanto-arte 3.4.6 -->
+
+      <pb n="115"/>
     </div>
-    <!-- levanto-arte 3.4.4 -->
-    <div xml:id="levanto-arte3.4.5">
-    <head type="outline">Amonestaciones</head>
-    							Amonestaciones
-							<lb/>
-<choice><orig>N.</orig><reg type="spanish">Nombre</reg></choice>
-sol tero hijo de
-<choice><orig>N.</orig><reg type="spanish">Nombre</reg></choice>
-y de
-<choice><orig>N.</orig><reg type="spanish">Nombre</reg></choice>
-natural del Pueblo
-<lb/>
-<choice><orig>N.</orig><reg type="spanish">Nombre</reg></choice>
-se quiere casar con
-<choice><orig>N.</orig><reg type="spanish">Nombre</reg></choice>
-doncella hija de
-<choice><orig>N.</orig><reg type="spanish">Nombre</reg></choice>
-y
-<choice><orig>N.</orig><reg type="spanish">Nombre</reg></choice>
-<lb/>
-Natural de Pueblo de
-<choice><orig>N.</orig><reg type="spanish">Nombre</reg></choice>
-Siagluno de vosotros
-<lb/>
-Sa-
-<lb/>
-
-    <pb n="112"/>
-    <pb n="113"/>
-    <lb/>
-<choice><orig>Save q.e sean parientes o’ Compadres o’ q.e dieron espon</orig><reg type="spanish">Sabe que sean parientes o Compadres o que dieron espon</reg></choice>
-<lb/>
-<choice><orig>sales a otra persona o q.e tienen otro impedimento para</orig><reg type="spanish">sales a otra persona o que tienen otro impedimento para</reg></choice>
-<lb/>
-<choice><orig>q.e no se puedan casar, avise al P.e Cura</orig><reg type="spanish">que no se puedan casar, avise al P.e Cura</reg></choice>
-<lb/>
-<foreign xml:lang="zap">N. benni cijtoobi xinni xtenni N. chela N. bennihua
-<lb/>
-lachi xtenni gueeche N. racalachi cochaagañaani
-<lb/>
-loo N. xinni Chaapa xtenni N. chela N. bennihuala
-<lb/>
-chi xtenni gueeche N. tebelatutila lato huannaanani
-<lb/>
-ninaaca xtijaniloo Compadre, loo peteeteni tichaque
-<lb/>
-llahuechaagañaa, loo zeetoobi bennigonnaa benni
-<lb/>
-guijo laa huarapani zeetoobi quella rocaa quella ro
-<lb/>
-Zeego, nilaa impedimento nija niacati zooaca co
-<lb/>
-chaaganaani coconani tichaloo Bixooze Cura
-<lb/>
-Coopa Bitoo. </foreign>
-<lb/>
-<choice>
-<orig> N. Vuido de N. natural del Pueblo N. se qui
-</orig>
-<reg type="spanish">N. Vuido de N. natural del Pueblo N. se quiere</reg>
- </choice>
-<lb/>
-<choice>
-<orig> casar con N. Vuida de N. natural del Pueblo N.
-</orig>
-<reg type="spanish"> casar con N. Vuida de N. natural del Pueblo N. </reg>
- </choice>
-
-<lb/>
-<foreign xml:lang="zap">
-N. benni bizaabi xtenni N. bennihualachi xtenni
-<lb/>
-gueeche N. racalachi cochaaganaani loo N. benni
-<lb/>
-xtennini N. bennihualachi xtenni gueeche N. </foreign>
-<lb/>
-<choice>
-<orig> N. soltero Hijo de N. natural del Pueblo N. se qui
-</orig><reg type="spanish"> N. soltero Hijo de N. natural del Pueblo N. se quiere
- </reg>
- </choice>
-<lb/>
-<choice>
-<orig> ere casar con N vuida de N natural del Pueblo N.
-</orig>
-<reg type="spanish"> quiere casar con N vuida de N natural del Pueblo N.
- </reg>
- </choice>
-<lb/>
-N. <foreign xml:lang="zap">
- bennicijtoobi xinni xtenni N. chela N. benni
-<lb/>
-N. bennicijtoobi xinni xtenni N. chela N. benni
-<lb/>
-naaniloo N. benni bizaabi xtenni N. bennihuala-
-<lb/>
-chi xtenni gueeche N. </foreign>
-<lb/>
-<choice>
-<orig> N. Viudo natural del Pueblo N. se quiere casar
-</orig>
-<reg type="spanish"> N. Viudo natural del Pueblo N. se quiere casar.
- </reg>
- </choice>
-<lb/>
-<choice>
-<orig> con N doncella hija de de N. y N. natural de Pueblo N.
-</orig>
-<reg type="spanish"> con N doncella hija de N. y N. natural de Pueblo N.
- </reg>
- </choice>
-<lb/>
-N. <foreign xml:lang="zap">
-bennibizaabi xtenni N. bennihualachi xtenni
-<lb/>
-gueeche N. racalachi cochaaganaani loo N. xinni
-<lb/>
-chaapa xtenni N. chela N. benni hualachi xtenni
-<lb/>
-gueeche N. </foreign>
-<lb/>
-Esta es la primera
-    <choice><orig>amonestacion</orig><reg type="spanish">amonestación</reg></choice>
-    la segunda la tercera
-<lb/>
-<foreign xml:lang="zap">
-Nirijnaca cotoobi
-<choice><orig>amonestacion</orig><reg type="spanish">amonestación</reg></choice>
-vel pennabi coroopa
-<lb/>
-Coyoona pennabico-yoona   pennabi </foreign>
-
-<lb/>
-
-
-
-
-
-
-    <pb n="114"/>
-
-    <choice> <orig> N.</orig> <reg type="spanish">Nombre</reg> </choice> y <choice> <orig> N.</orig> <reg type="spanish">Nombre</reg> </choice> q.e <choice> <orig> estan</orig> <reg type="spanish">están</reg> </choice> presentes quieren contraer matrimo-
-    <lb/>
-    nio. Si alguno de vosotros
-    <choice><orig>save</orig><reg type="spanish">sabe</reg></choice>
-    <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
-    tenga
-    <choice><orig>algun</orig><reg type="spanish">algún</reg></choice>
-    impedi-
-    <lb/>
-    mento para
-    <choice><orig> q.e</orig><reg type="spanish">que</reg></choice>
-    no se pueda casar manifiestelo.
-    <choice><orig>Se</orig><reg type="spanish">¿Se</reg></choice>
-    puede
-    <lb/>
-    casar?
-     <lb/>
-    <choice><orig> N.</orig><reg type="spanish">Nombre</reg></choice>
-     <foreign xml:lang= 'zap'>chela</foreign><choice><orig>N.</orig><reg type="spanish">Nombre</reg></choice>
-     <foreign xml:lang= 'zap'> ni xizooba looni racalachi cochaaganaa
-     <lb/>
-    ni, tebella tutila lato huannaanani ni rapani xijtila
-     <lb/>
-    quella rocaa, quella rozeego ni laa impedimento nij
-    <lb/>
-    ani acati zooaca cochaayanaani quixeeleni quella
-    <lb/>
-    rocaa quella rozeego. Zooaca cochaagaanaani? </foreign>
-    <lb/>
-    <choice><orig>N.</orig><reg type="spanish">¿Nombre</reg></choice>
-    te quieres casar con
-    <choice><orig>N.</orig><reg type="spanish">Nombre</reg></choice>
-    <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
-    esta enter presencia como
-    <lb/>
-    lo manda
-    <choice><orig>N.tra</orig><reg type="spanish">Nuestra</reg></choice>
-    <choice><orig>S.ta</orig><reg type="spanish">Santa</reg></choice>
-    Madre
-    <choice><orig>Yglesia</orig><reg type="spanish">Iglesia</reg></choice>
-    ?
-    <lb/>
-    N. <foreign xml:lang= 'zap'> huanacalachi cochaaganaalo loo N. rizoo bani-
-    <lb/>
-    loolo cica xennapeea Xinaana </foreign> S.ta Yglesia?
-    <lb/>
-    </div>
-    <!-- levanto-arte 3.4.5 -->
-    <div xml:id="levanto-arte3.4.6">
-    <head type="outline">Para los Anillos</head>
-    <head> Para los Anillos </head>
-    <lb/>
-    Di: En el nombre del Padre, del Hijo, y del
-    <choice><orig>Spiritu</orig><reg type="spanish">Espíritu</reg></choice>
-    <choice><orig> S.to</orig><reg type="spanish">Santo</reg></choice>
-    <lb/>
-    amen Jesus.
-    <lb/>
-    <foreign xml:lang= 'zap'> Connijlaa Dios Bixooze, Dios xinni, Dios Spiritu S.to
-    <lb/>
-    cacacijga cica </foreign>
-    <lb/>
-    Junta las manos. <foreign xml:lang= 'zap'> Petoopa laohijñaa </foreign>
-     <lb/>
-    Di: Esposa mia cadad
-    <choice><orig>aqui</orig><reg type="spanish">aquí</reg></choice>
-    estas arras
-    <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
-    te doy en
-    <lb/>
-    senal de Matrimonio de nosotros dos.
-    <lb/>
-    <foreign xml:lang= 'zap'> Connij Lechelaya xtennia: alarij bichchij chi nilaa
-    <lb/>
-    Arras ninoneechealooy ni naca bennabique-
-    <lb/>
-    lla huechaganaa xtenni, quiroopatonoo. </foreign>
-    <lb/>
-    Yo las recivo de ti.
-    <lb/>
-    <foreign xml:lang= 'zap'> Haa huarizijbaneezoya xtennilo. </foreign>
-    <lb/>
-    </div>
-    <!-- levanto-arte 3.4.6 -->
-
-    <pb n="115"/>
     <div xml:id="levanto-arte4">
     <head type="outline">Confesonario Zaapoteco</head>
     <head> Confesonario Zaapoteco ----------- </head>
