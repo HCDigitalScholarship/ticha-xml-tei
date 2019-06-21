@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="TEISchema_current.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <text>
+   <pb n="1"/>
+   <choice>oi<orig></orig><reg type="spanish">hoy</reg></choice>
+   domingo 26 días del mes de julio del 1710 año
+   <choice><orig>dia</orig><reg type="spanish">día</reg></choice>
+   <lb/>
+   <choice>Migel<orig></orig><reg type="spanish">Miguel</reg></choice>
+   <choice>Luis<orig></orig><reg type="spanish">Luís</reg></choice>
+   , 8 pesos delante del por las tierras del
+   <lb/>
+   Rey y del pueblo de San Andrés nosotros Justicias An
+   <lb/>
+   dres Perez Alcalde Pablo Cabrera regidor do
+   <lb/>
+   mingo Hernandez alguacil mayor Andres
+   <choice>Martin<orig></orig><reg type="spanish">Martín</reg></choice>
+   y An
+   <lb/>
+   dres de Santiago Felipe de Santiago y Diego Perez to
+   <lb/>
+   dos estos naturales son testigos como pago Migel
+   <lb/>
+   Luis 8 pesos
+   <lb/>
+   Thomas Gomez
