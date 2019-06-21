@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="TEISchema_current.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <text>
+ <pb n="1"/>
+   <lb/>
+   Yo el 
+   <choice><orig>ynterprete</orig><reg type="spanish">interprete</reg></choice>
+   el 
+   <choice><orig>Jusgado</orig><reg type="spanish">Juzgado</reg></choice> 
+   del Señor 
+   <choice><orig>Capithan</orig><reg type="spanish">Capitán</reg></choice>
+   y Ayu
+   <lb/>
+   dante Mayor del 
+   <choice><orig>Reximiento</orig><reg type="spanish">Regimiento</reg></choice>
+   de Dragones Provinciales
+   <lb/>
+   de
+   <choice><orig>guathemala</orig><reg type="spanish">guatemala</reg></choice>
+   ,Don
+   <choice><orig>Jphe</orig><reg type="spanish">Joseph</reg></choice>
+   Mariano de Llano
+   <choice><orig>Correxi</orig><reg type="spanish">Corregi</reg></choice>
+   <lb/>
+   dor por Su
+   <choice><orig>Mgd</orig><reg type="spanish">Magestad</reg></choice>
+   <choice><orig>desta</orig><reg type="spanish">de esta</reg></choice>
+   Ciudad, y su
+   <choice><orig>Jurisdicion</orig><reg type="spanish">jurisdicción</reg></choice>
+   ,y
+   <choice><orig>theniente</orig><reg type="spanish">teniente</reg></choice>
+   <lb/>
+   de
+   <choice><orig>Capithan</orig><reg type="spanish">Capitán</reg></choice>
+   General
+   <choice><orig>Jues</orig><reg type="spanish">Juez</reg></choice>
+   de Agravio
+   <choice><orig>Apelasion</orig><reg type="spanish">Apelación</reg></choice>
+   <choice><orig>Rexis</orig><reg type="spanish">Regis</reg></choice>
+   <lb/>
+   <choice><orig>taos</orig><reg type="spanish">tados</reg></choice>
+   Reales quinta, Visitador de
+   <choice><orig>Yngenio</orig><reg type="spanish">Ingenios</reg></choice>
+   ,y trapiche
+   <choice><orig>Jues</orig><reg type="spanish">Juez</reg></choice>
+   <lb/>
+   de
+   <choice><orig>Obrafe</orig><reg type="spanish">Obra fe</reg></choice>
+   <choice><orig>Panaderia</orig><reg type="spanish">Panadería</reg></choice>
+   ,y
+   <choice><orig>ofisina</orig><reg type="spanish">oficina</reg></choice>
+   de la Llana su S,S- atendiendor
+   <lb/>
+   su suma misera, Pedro esperanza—para
+   <choice><orig>heste</orig><reg type="spanish">este</reg></choice>
+   efecto fue
+   <lb/>
+   por presentado bocablemente para
+   <choice><orig>tradusido</orig><reg type="spanish">traducido</reg></choice>
+   escritura lo
+   <choice><orig>qual</orig><reg type="spanish">cual</reg></choice>
+   <lb/>
+   con
+   <choice><orig>presedente</orig><reg type="spanish">precedente</reg></choice>
+   de mandato
+   <choice><orig>berval</orig><reg type="spanish">verbal</reg></choice>
+   de S,S,a
+   <choice><orig>tradusgo</orig><reg type="spanish">traduzgo</reg></choice>
+   <choice><orig>dho</orig><reg type="spanish">dicho</reg></choice>
+   <lb/>
+   escritura que original en la 
+   <choice><orig>YDioma</orig><reg type="spanish">Idioma</reg></choice>
+   <choice><orig>zapotheco</orig><reg type="spanish">zapoteco</reg></choice>
+   ,se me en-
+   <lb/>
+   tregó cuyo
+   <choice><orig>thenor</orig><reg type="spanish">tenor</reg></choice>
+   ,es como se sigue
+   <lb/>
+   <choice><orig>Oydia</orig><reg type="spanish">Hoy día</reg></choice>
+   <choice><orig>Biernes</orig><reg type="spanish">Viernes</reg></choice>
+   a
+   <choice><orig>catorse</orig><reg type="spanish">catorce</reg></choice>
+   del mes de octubre del año
+   <lb/>
+   de mil
+   <choice><orig>setesiento</orig><reg type="spanish">seteciento</reg></choice>
+   y
+   <choice><orig>quarenta</orig><reg type="spanish">cuarenta</reg></choice>
+   años
+   <choice><orig>berdad</orig><reg type="spanish">verdad</reg></choice>
+   <choice><orig>bendi</orig><reg type="spanish">vendí</reg></choice>
+   un Pe
+   <lb/>
+   <choice><orig>pedaso</orig><reg type="spanish">pedazo</reg></choice>
+   de
+   <choice><orig>tierre</orig><reg type="spanish">tierra</reg></choice>
+   la que compró el
+   <choice><orig>Defunto</orig><reg type="spanish">Difunto</reg></choice>
+   Mihagdo Mi
+   <lb/>
+   guel esperanza como enseña dentro papel escri
+   <pbn="2"/>
+   tura de venta,
+   <choice><orig>berdad</orig><reg type="spanish">verdad</reg></choice>
+   <choice><orig>bolvi</orig><reg type="spanish">volví</reg></choice>
+   <choice><orig>bender</orig><reg type="spanish">vender</reg></choice>
+   ,la tierra la
+   <choice><orig>quees</orig><reg type="spanish">que es</reg></choice>
+   <lb/>
+   <choice><orig>mio</orig><reg type="spanish">mío</reg></choice>
+   ,lo que me
+   <choice><orig>pertenese</orig><reg type="spanish">pertenece</reg></choice>
+   ;de lo largo la tierra tiene
+   <lb/>
+   Nueve medidas, y tres Palos que tiene
+   <choice><orig>trese</orig><reg type="spanish">trece</reg></choice>
+   codo ver
+   <lb/>
+   dad de lo
+   <choice><orig>hancho</orig><reg type="spanish">ancho</reg></choice>
+   ,la tierra tiene dos medidas y sin
+   <lb/>
+   co, Palos de
+   <choice><orig>trese</orig><reg type="spanish">trece</reg></choice>
+   ,codo
+   <choice><orig>berdad</orig><reg type="spanish">verdad</reg></choice>
+   lo
+   <choice><orig>bendi</orig><reg type="spanish">vendí</reg></choice>
+   la tierra este por
+   <lb/>
+   quince pesos, en Plata festivo por vista los dos con mi
+   <lb/>
+   esposa Antonia Maria
+   <choice><orig>berdad</orig><reg type="spanish">verdad</reg></choice>
+   y es
+   <choice><orig>berdad</orig><reg type="spanish">verdad</reg></choice>
+   la compro
+   <lb/>
+   el mismo hermano
+   <choice><orig>Phelipe</orig><reg type="spanish">Filipe</reg></choice>
+   esperanza Yo Bar
+   <lb/>
+   tholome esperanza Natural, de aquí en el Pueblo de
+   <lb/>
+   Santo Domingo de
+   <choice><orig>Ocotlan</orig><reg type="spanish">Ocotlán</reg></choice>
+   —Ante mi Juan
+   <lb/>
+   Gomes—
+   <choice><orig>tambien</orig><reg type="spanish">también</reg></choice>
+   otro medida está por el camino
+   <lb/>
+   que Anda la
+   <choice><orig>jente</orig><reg type="spanish">gente</reg></choice>
+   de Santiago que
+   <choice><orig>coji</orig><reg type="spanish">cogí</reg></choice>
+   tres pesos
+   <lb/>
+   y
+   <choice><orig>quatro</orig><reg type="spanish">cuatro</reg></choice>
+   Reales
+   <choice><orig>berdad</orig><reg type="spanish">verdad</reg></choice>
+   ,tiene una medida de lo lar
+   <lb/>
+   go la tierra y de lo
+   <choice><orig>hancho</orig><reg type="spanish">ancho</reg></choice>
+   ,la tierra, tiene dos medidas
+   <lb/>
+   y por el tanto vista de los testigos Juan Gomes y tam
+   <lb/>
+   bién
+   <choice><orig>Antemi</orig><reg type="spanish">Ante mi</reg></choice>
+   Nicolas Hernandes
+   <choice><orig>escrivano</orig><reg type="spanish">escribano</reg></choice>
+   No
+   <lb/>
+   mbrado- Yo el
+   <choice><orig>ynterprete</orig><reg type="spanish">interprete</reg></choice>
+   del
+   <choice><orig>Jusgado</orig><reg type="spanish">Juzgado</reg></choice>
+   <choice><orig>tradus</orig><reg type="spanish">traduz</reg></choice>
+   <lb/>
+   go go este escritura que original en la
+   <choice><orig>Ydioma</orig><reg type="spanish">Idioma</reg></choice>
+   <lb/>
+   <choice><orig>zapotheco</orig><reg type="spanish">zapoteco</reg></choice>
+   se
+   <choice><orig>mentregó</orig><reg type="spanish">me entregó</reg></choice>
+   el qual esta fielmente
+   <choice><orig>tradusido</orig><reg type="spanish">traducido</reg></choice>
+   Y
+   <choice><orig>consentrado</orig><reg type="spanish">concentrado</reg></choice>
+   de la
+   <choice><orig>YDioma</orig><reg type="spanish">Idioma</reg></choice>
+   <choice><orig>zapothe</orig><reg type="spanish">zapote</reg></choice>
+   <pb n="3"/>
+   co según se me demostó la escri
+   <lb/>
+   tura original o como esté en que se halla
+   <lb/>
+   Alcalde llana al que lade
+   <choice><orig>buelvo</orig><reg type="spanish">vuelvo</reg></choice>
+   a todo
+   <lb/>
+   mi leal saber y entender y ser
+   <choice><orig>berdad</orig><reg type="spanish">verdad</reg></choice>
+   <choice><orig>hasi</orig><reg type="spanish">así</reg></choice>
+   <lb/>
+   lo Juro en toda forma de Dro, y lo firme
+   <choice><he>YDioma</orig><reg type="spanish">e</reg></choice>
+   <lb/>
+   <choice><orig>nesta</orig><reg type="spanish">n esta</reg></choice>
+   <choice><orig>Ciudade</orig><reg type="spanish">Ciudad</reg></choice>
+   de Antequera Valle de Oaxaca
+   <lb/>
+   en once mayo de mil setecientos ochenta
+   <lb/>
+   y
+   <choice><orig>sinco</orig><reg type="spanish">cinco</reg></choice>
+   <lb/>
+   Marcos de los 
+   <choice><orig>Ang.</orig><reg type="spanish">Angeles</reg></choice>
+   <choice><orig>Lopez</orig><reg type="spanish">López</reg></choice>
+   <lb/>
+   <choice><orig>Ynterprete</orig><reg type="spanish">Interprete</reg></choice> 
