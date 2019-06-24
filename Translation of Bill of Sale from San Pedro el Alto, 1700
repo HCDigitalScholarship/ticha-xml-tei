@@ -1,0 +1,155 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="TEISchema_current.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <text>
+  <pb n="1"/>
+  Segunda escriptura
+  <choice><orig>oy</orig><reg type="spanish">hoy</reg></choice>
+  domingo 17 
+  <choice><orig>dias</orig><reg type="spanish">días</reg></choice>
+  del mes de enero del año de 1700
+  <br>
+  llegue yo el
+  <choice><orig>biejo</orig><reg type="spanish">viejo</reg></choice>
+  Melchor Antonio en la caja de tho
+  <br>
+  mas Gomes y le 
+  <choice><orig>bendí</orig><reg type="spanish">vendí</reg></choice>
+  un
+  <choice><orig>pedaso</orig><reg type="spanish">pedazo</reg></choice>
+  de tierra
+  <choice><orig>nonbra</orig><reg type="spanish">nombra</reg></choice>
+  <br>
+  do quinaatecoo Y la tierra
+  <choice><orig>nonbrado</orig><reg type="spanish">nombrado</reg></choice>
+  quinaa quelaxa 
+  <br>
+  oo - y nos 
+  <choice>consertamos<orig></orig><reg type="spanish">concertamos</reg></choice>
+  con mucha
+  <choice><orig>pas</orig><reg type="spanish">paz</reg></choice>
+  y quietud y
+  <br>
+  se la
+  <choice>bendí<orig></orig><reg type="spanish">vendí</reg></choice>
+  <choice>dha<orig></orig><reg type="spanish">dicha</reg></choice>
+  tierra y de el lo vezeui
+  <choice>quatro<orig></orig><reg type="spanish">cuatro</reg></choice>
+  pesos
+  <br>
+  y
+  <choice>quatro<orig></orig><reg type="spanish">cuatro</reg></choice>
+  reales y para que sea suya para siempre
+  <br>
+  <choice>jamas<orig></orig><reg type="spanish">jamás</reg></choice>
+  <choice>asia<orig></orig><reg type="spanish">hacía</reg></choice>
+  abajo que es al poniente lindan con 
+  <br>
+  las tierras de domingo
+  <choice>Mrn<orig></orig><reg type="spanish">Martín</reg></choice>
+  <choice>asi<orig></orig><reg type="spanish">así</reg></choice>
+  a la parte a
+  <br>
+  rriba, que es el oriente Lindan con las tierras de 
+  <br>
+  Joseph de Santiago y con otro
+  <choice>paraxe<orig></orig><reg type="spanish">paraje</reg></choice>
+  <choice>nonbrado<orig></orig><reg type="spanish">nombrado</reg></choice>
+  <br>
+  chacho xilo cua xichayoo que es adonde lindan
+  <br>
+  con las tierras de Martin hernandes y de
+  <choice>alli<orig></orig><reg type="spanish">allí</reg></choice>
+  se
+  <br>
+  <choice>bolbió<orig></orig><reg type="spanish">volvió</reg></choice>
+  a bajar otra
+  <choice>bes<orig></orig><reg type="spanish">vez</reg></choice>
+  en el
+  <choice>paraxe<orig></orig><reg type="spanish">paraje</reg></choice>
+  <choice>nonbrado<orig></orig><reg type="spanish">nombrado</reg></choice>
+  <br>
+  que la xaloo,
+  <choice>aora<orig></orig><reg type="spanish">ahora</reg></choice>
+  oyeron los testigos que es el 
+  <br>
+  <choice>biejo<orig></orig><reg type="spanish">viejo</reg></choice>
+  Luis basques y pablo cavallero y constanti
+  <br>
+  no lopes Y pablo por es natural del pueblo de
+  <br>
+  San Andres, Yo Melchor Antonio pongo pena 
+  <br>
+  a
+  <choice>qualquiere<orig></orig><reg type="spanish">cualquiera</reg></choice>
+  persona que
+  <choice>ablaren<orig></orig><reg type="spanish">hablaren</reg></choice>
+  en ra
+  <br>
+  zón
+  <choice>destos<orig></orig><reg type="spanish">de estos</reg></choice>
+  palabras pagaron
+  <choice>biente<orig></orig><reg type="spanish">viente</reg></choice>
+  pesos
+  <br>
+  y un mes de
+  <choice>carzel<orig></orig><reg type="spanish">carcel</reg></choice>
+  y tres
+  <choice>dozenas<orig></orig><reg type="spanish">docenas</reg></choice>
+  <choice>asotes<orig></orig><reg type="spanish">azotes</reg></choice>
+  <br>
+  en una picota que
+  <choice>asi<orig></orig><reg type="spanish">así</reg></choice>
+  se acabo esta
+  <choice>dha<orig></orig><reg type="spanish">dicha</reg></choice>
+  es 
+  <br>
+  criptura Pedro hernandes
+  <choice>Ale<orig></orig><reg type="spanish">Alcalde</reg></choice>
+  thomas de
+  <br>
+  mendoza regidor Pedro marcos
+  <choice>alguasil<orig></orig><reg type="spanish">alguacil</reg></choice>
+  <br>
+  mayor todas estas palabras en yo pasqual
+  <br>
+  hernandes escribano
+  <br>
+  Concuerdan con sus originales que van bien y fielmente
+  <br>
+  sacados y traducidos del
+  <choice>dho<orig></orig><reg type="spanish">dicho</reg></choice>
+  <choice>Ydioma<orig></orig><reg type="spanish">Idioma</reg></choice>
+  al castella
+  <br>
+  no ya si lo juro
+  <choice>pr<orig></orig><reg type="spanish">por</reg></choice>
+  dios
+  <choice>nro<orig></orig><reg type="spanish">nuestro</reg></choice>
+  Señor y la señal de la Santa
+  <br>
+  Cruz en devida forma y es tho en esta
+  <choice>dha<orig></orig><reg type="spanish">dicha</reg></choice>
+  <choice>ciud<orig></orig><reg type="spanish">ciudad</reg></choice>
+  An
+  <br>
+  te
+  <choice>qa<orig></orig><reg type="spanish">quera</reg></choice>
+  Valle de oaxaca a seis dias del mes de marzo de mill 
+  <br>
+  <choice>setesientos<orig></orig><reg type="spanish">setecientos</reg></choice>
+  y quinze mes
+  <br>
+  Thomas Gomes
+  
+  
+  
+  
+  
+  
+  
+  
+  
+   
+  
