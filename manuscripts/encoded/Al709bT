@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="TEISchema_current.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <text>
+  <pb n="1"/>
+  <choice><orig>oi</orig><reg type="spanish">hoy</reg></choice>
+  <choice><orig>miercoles</orig><reg type="spanish">miércoles</reg></choice>
+  en 27
+  <choice><orig>dias</orig><reg type="spanish">días</reg></choice>
+  del mes de
+  <choice><orig>nobiembre</orig><reg type="spanish">noviembre</reg></choice>
+  del año de
+  <br>
+  <choice><orig>mill</orig><reg type="spanish">mil</reg></choice>
+  <choice><orig>sete sientos</orig><reg type="spanish">setecientos</reg></choice>
+  y
+  <choice><orig>nuebe</orig><reg type="spanish">nueve</reg></choice>
+  <choice><orig>anos</orig><reg type="spanish">años</reg></choice>
+  pago Pedro Bernabe, 4
+  <choice><orig>ps.</orig><reg type="spanish">pesos</reg></choice>
+  pa
+  <br>
+  ra el
+  <choice><orig>jues</orig><reg type="spanish">juez</reg></choice>
+  , testigo Mateo mayorga pedro Pablo tes
+  <br>
+  tigo andres Martin Andres peres alcalde-
+  <br>
+  Thomas Gomes
