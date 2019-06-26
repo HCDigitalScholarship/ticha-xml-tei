@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="TEISchema_current.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <text>
+  <pb n="1"/>
+  Yo thomas Gomes
+  <choice><orig>ynterprete</orig><reg type="spanish">interprete</reg></choice>
+  general de la 
+  <choice><orig>Juris[dicci]on</orig><reg type="spanish">Jurisdicción</reg></choice>
+  <choice><orig>desta</orig><reg type="spanish">de esta</reg></choice>
+  ciudad
+  <br>
+  de Antequera valle de oaxaca en conformidad de lo manda- 
+  <br>
+  do en el auto que
+  <choice><orig>antessede</orig><reg type="spanish">antecede</reg></choice>
+  trasumte este escriptura que por
+  <br>
+  se manda del
+  <choice><orig>ydioma</orig><reg type="spanish">idioma</reg></choice>
+  zapoteco en que esta a lengua caste-
+  <br>
+  llana Y su tenor a la letra es
+  <choice><orig>asi</orig><reg type="spanish">así</reg></choice>
+  como se sigue- 
+  <br>
+  <choice><orig>oy</orig><reg type="spanish">hoy</reg></choice>
+  lunes en 18 del mes de febrero de 1707 años Yo luis
+  <br>
+  cabrera
+  <choice><orig>bendí</orig><reg type="spanish">vendí</reg></choice>
+  ,la tierra en buena conformidad entre
+  <br>
+  Los dos partes de nosotros como
+  <choice><orig>bendí</orig><reg type="spanish">vendí</reg></choice>
+  un
+  <choice><orig>pedaso</orig><reg type="spanish">pedazo</reg></choice>
+  <br>
+  de
+  <choice><orig>sinco</orig><reg type="spanish">cinco</reg></choice>
+  pedasos, que es la tierra
+  <choice><orig>nonbrado</orig><reg type="spanish">nombrado</reg></choice>
+  quinea te 
+  <br>
+  yaa, todo el cerro compro thomas de mendoza na- 
+  <br>
+  tural del pueblo de San Antonino dió 25 pesos con mu- 
+  <br>
+  chapos, entre los dos parte de nosotros que es la tierra non- 
+  <br>
+  brado quinaa quitecho quichaa en el 
+  <choice><orig>mesmo</orig><reg type="spanish">mismo</reg></choice>
+  arro- 
+  <br>
+  yo pequeño, Lindan con las tierras de Melchor An- 
+  <br>
+  tonio adonde esta la piedra y se
+  <choice><orig>pazo</orig><reg type="spanish">pasó</reg></choice>
+  hosta el para-
+  <br>
+  <choice><orig>xe</orig><reg type="spanish">je</reg></choice>
+  <choice><orig>nonbrado</orig><reg type="spanish">nombrado</reg></choice>
+  choxi lopa y lindan con las tierras de 
+  <br>
+  Marcial garcia y Se
+  <choice><orig>bolbió</orig><reg type="spanish">volvió</reg></choice>
+  otra
+  <choice><orig>bes</orig><reg type="spanish">ves</reg></choice>
+  en el
+  <choice><orig>mesmo</orig><reg type="spanish">mismo</reg></choice>
+  arro-
+  <br>
+  yo, y se
+  <choice><orig>ba</orig><reg type="spanish">va</reg></choice>
+  hasta a la anbre del cerro
+  <choice><orig>nonbrado</orig><reg type="spanish">nombrado</reg></choice>
+  <br>
+  Lacha quiya rico, Y
+  <choice><orig>seba</orig><reg type="spanish">se va</reg></choice>
+  siguiendo sobre una loma 
+  <br>
+  <choice><orig>sebajo</orig><reg type="spanish">se bajo</reg></choice>
+  , abajo de dolcerio y de
+  <choice><orig>alli</orig><reg type="spanish">allí</reg></choice>
+  se bajo el pa- 
+  <br>
+  raje nonbrado queyoo, como
+  <choice><orig>berdad</orig><reg type="spanish">verdad</reg></choice>
+  <choice><orig>oymos</orig><reg type="spanish">oímos</reg></choice>
+  noso- 
+  <br>
+  tros
+  <choice><orig>Aora</orig><reg type="spanish">Ahora</reg></choice>
+  <choice><orig>hazemos</orig><reg type="spanish">hacemos</reg></choice>
+  esta escriptura en favor de tho- 
+  <br>
+  mas de Mendoza Con mucha
+  <choice><orig>pas</orig><reg type="spanish">paz</reg></choice>
+  ante dios
+  <choice><orig>n[uest]ro</orig><reg type="spanish">nuestro</reg></choice>
+  Señor
+  <br>
+  y ante nosotros Justicias por el tanto ponemos noso- 
+  <br>
+  tros las justicias pena y si alguno
+  <choice><orig>mobieron</orig><reg type="spanish">movieron</reg></choice>
+  estas pa- 
+  <br>
+  labras pagaron 30 pesos Matheo de
+  <choice><orig>morga</orig><reg type="spanish">mayorga</reg></choice>
+  Alcalde
+  <br>
+  thomas Luis regidor Silbeitre
+  <choice><orig>Mrn</orig><reg type="spanish">Martín</reg></choice>
+  regal quazil ma-
+  <br>
+  yor diego peres fiscal Pablo pedro testigo, Reymendo 
+  <br>
+  Gomes testigo domingo Martin natural del pueblo 
+  <br>
+  de San Antonio testigo, Pablo de Santiago escriba- 
+  <br>
+  no
+  <br>
+  Concuerda con su original que va bien y fielmente sacado y 
+  <br>
+  <choice><orig>traduzido</orig><reg type="spanish">traducido</reg></choice>
+  del
+  <choice><orig>dho</orig><reg type="spanish">dicho</reg></choice>
+  <choice><orig>Ydioma</orig><reg type="spanish">Idioma</reg></choice>
+  Zapoteco al castellano
+  <choice><orig>yssi</orig><reg type="spanish">así</reg></choice>
+  lo Juro
+  <br>
+  por dios
+  <choice><orig>n[uest]ro</orig><reg type="spanish">nuestro</reg></choice>
+  Señor y la señal de la Santa Cruz en denida for- 
+  <pb n="2"/>
+  ma y es
+  <choice><orig>fho</orig><reg type="spanish">fecho</reg></choice>
+  en esta
+  <choice><orig>dha</orig><reg type="spanish">dicha</reg></choice>
+  <choice><orig>ciu[da]d</orig><reg type="spanish">ciudad</reg></choice>
+  de
+  <choice><orig>Anteq[uer]a</orig><reg type="spanish">Antequera</reg></choice>
+  Valle de oaxac- 
+  <br>
+  a seis
+  <choice><orig>dias</orig><reg type="spanish">días</reg></choice>
+  del mes de Abril de
+  <choice><orig>Mill</orig><reg type="spanish">mil</reg></choice>
+  <choice><orig>sete sientos</orig><reg type="spanish">setecientos</reg></choice>
+  ?-
+  <br>
+  ze años = 
+  <br>
+  thomas Gomes
