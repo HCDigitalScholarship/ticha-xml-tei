@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="TEISchema_current.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <text>
+   <pb n="1"/>
+   Jacinto Bautista envió a Joseph de Silva, 
+   <choice><orig>segun</orig><reg type="spanish">según</reg></choice>
+   esta escritura, una 
+   <br>
+   suerte de tierra solar sembrado de Magueyes que heredo de
+   <choice><orig>Ma</orig><reg type="spanish">María</reg></choice>
+   <br>
+   Bautista su madre de una medida
+   <choice><orig>pequena</orig><reg type="spanish">pequeña</reg></choice>
+   , que esta detras de la 
+   <br>
+   casa de
+   <choice><orig>dho</orig><reg type="spanish">dicho</reg></choice>
+   Silva, en precio de
+   <choice><orig>sinquenta</orig><reg type="spanish">cincuenta</reg></choice>
+   y cinco
+   <choice><orig>p[eso]s</orig><reg type="spanish">pesos</reg></choice>
+   que vecino
+   el
+   <choice><orig>dho</orig><reg type="spanish">dicho</reg></choice>
+   y su muger Cathalina Bautista
+   <choice><orig>Linia</orig><reg type="spanish">Linda</reg></choice>
+   por el oriente con
+   <choice><orig>teirras</orig><reg type="spanish">tierras</reg></choice>
+   <br>
+   del
+   <choice><orig>dho</orig><reg type="spanish">dicho</reg></choice>
+   Jacinto Bautista por el poniente con el camino real. Por el 
+   <br>
+   Norte con tierra del
+   <choice><orig>dho</orig><reg type="spanish">dicho</reg></choice>
+   Vendedor. Ir por el Sur con tierras del 
+   <br>
+   mismo (suthalg?)
+   de
+   <choice><orig>Dize</orig><reg type="spanish">Diez</reg></choice>
+   de 1677 - Gou.er D Simon se celi Ayala- 
+   <br>
+   <choice><orig>escrini</orig><reg type="spanish"escribano</reg></choice>
+   Joseph
+   <choice><orig>Hernan</orig><reg type="spanish">Hernandez</reg></choice>
+   -ssé
+   <br>
+   esta escriptura le perdenese a los
+   <choice><orig>Baltr</orig><reg type="spanish">Balthazar</reg></choice>
+   mendes
+   <choice><orig>oy</orig><reg type="spanish">hoy</reg></choice>
+   en 4 de septiembre(?)
