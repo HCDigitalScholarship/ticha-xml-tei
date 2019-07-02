@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="TEISchema_current.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <text>
+   <pb n="1"/>
+   Pasquala Bautista (vuida?) de Balthazar Ramirez natural
+   <choice><orig>desto</orig><reg type="spanish">de esto</reg></choice>
+   <br>
+   Domingo Vendió a Joseph de Silva un
+   <choice><orig>pedaso</orig><reg type="spanish">pedazo</reg></choice>
+   de tierra de una 
+   <br>
+   medida pequeña que tiene de ancho diez y ocho brazas y (eita?) en 
+   <br>
+   <choice><orig>d[ic]ho</orig><reg type="spanish">dicho</reg></choice>
+   pueblo de (dicho?) Domingo y lo heredo la
+   <choice><orig>d[ic]ha</orig><reg type="spanish">dicha</reg></choice>
+   de
+   <br>
+   Gabriel bautista su Padre en diez
+   <choice><orig>p[eso]s</orig><reg type="spanish">pesos</reg></choice>
+   - Linda por el oriente con 
+   <br>
+   tierras
+   <choice><orig>q[ue]</orig><reg type="spanish">que</reg></choice>
+   le quedaron a la
+   <choice><orig>d[ic]ha</orig><reg type="spanish">dicha</reg></choice>
+   Vendedora y una piedra que se 
+   <br>
+   puso por (onofonera?) - Por el Poniente con tierras
+   <choice><orig>q[ue]</orig><reg type="spanish">que</reg></choice>
+   posee
+   <br>
+   María Bautista. Por el Norte con tierras de
+   <choice><orig>(Germo?)</orig><reg type="spanish">Geronimo</reg></choice>
+   de la Cruz y 
+   <br>
+   por el sur con tierras de Micada Ramires.
+   <choice><orig>(Conita?)</orig><reg type="spanish">Consta</reg></choice>
+   todo de esta 
+   <br>
+   escritura a su
+   <choice><orig>f[ec]ha</orig><reg type="spanish">fecha</reg></choice>
+   6 de sete de 1703 siendo (?) de Andres 
+   <br>
+   Ramires y escrito de
+   <choice><orig>(enbo?)</orig><reg type="spanish">escribano</reg></choice>
+   domingo de la Cruz 
+   <br>
+   Segado a Juan hijo del Diego Nicolas Merdes
