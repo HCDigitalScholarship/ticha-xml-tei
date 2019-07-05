@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="TEISchema_current.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <text>
+  <pb n="1"/>
+  Yo
+  <choice><orig>D[o]n</orig><reg type="spanish">Don</reg></choice>
+  Pedro de Zarate Cassique y Vecino
+  <choice><orig>desta</orig><reg type="spanish">de esta</reg></choice>
+  trassumpte la
+  <choice><orig>Escriptura</orig><reg type="spanish">Escritura</reg></choice>
+  <choice><orig>q[u]e</orig><reg type="spanish">que</reg></choice>
+  otorgo Nicolas Mendes y Michaela 
+  <br>
+  <choice><orig>Men[des]</orig><reg type="spanish">Mendes</reg></choice>
+  su
+  <choice><orig>muguer</orig><reg type="spanish">mujer</reg></choice>
+  a favor de
+  <choice><orig>D[o]n</orig><reg type="spanish">Don</reg></choice>
+  Joseph de Silva todos de
+  <br>
+  <choice><orig>S[an]to</orig><reg type="spanish">Santo</reg></choice>
+  <choice><orig>Dom[in]go</orig><reg type="spanish">Domingo</reg></choice>
+  - de la Villa de Etla, de el
+  <choice><orig>ydioma</orig><reg type="spanish">idioma</reg></choice>
+  <choice><orig>Sapoteco</orig><reg type="spanish">Zapoteco</reg></choice>
+  en
+  <br>
+  que se
+  <choice><orig>haía</orig><reg type="spanish">haya</reg></choice>
+  al castellano 
+  <choice><orig>cuio</orig><reg type="spanish">cuyo</reg></choice>
+  tenor es como se sigue - 
+  <br>
+  Aquí en el
+  <choice><orig>Pueb[lo]</orig><reg type="spanish">Pueblo</reg></choice>
+  de
+  <choice><orig>S[an]to</orig><reg type="spanish">Santo</reg></choice>
+  Domingo de Etla del Estado y 
+  <br>
+  Marquezado del Valle
+  <choice><orig>oy</orig><reg type="spanish">hoy</reg></choice>
+  día Jueves a
+  <choice><orig>quatro</orig><reg type="spanish">cuatro</reg></choice>
+  <choice><orig>dias</orig><reg type="spanish">días</reg></choice>
+  del mes de Mayo 
+  <br>
+  de mil setecientos veinte y
+  <choice><orig>quatro</orig><reg type="spanish">cuatro</reg></choice>
+  años aquí en la
+  <choice><orig>cassa</orig><reg type="spanish">casa</reg></choice>
+  de Joseph de 
+  <br>
+  Silva los dos con su
+  <choice><orig>muguer</orig><reg type="spanish">mujer</reg></choice>
+  Geronima Mendes compareció Nicolas
+  <br>
+  Mendes los dos con su
+  <choice><orig>muguer</orig><reg type="spanish">mujer</reg></choice>
+  Michaela
+  <choice><orig>Men[des]</orig><reg type="spanish">Mendes</reg></choice>
+  en presencia de
+  <br>
+  los Principales Alcaldes ordinarios Gavriel de Chaves, y
+  <choice><orig>tamvién</orig><reg type="spanish">también</reg></choice>
+  <br>
+  <choice><orig>Ant[oni]o</orig><reg type="spanish">Antonio</reg></choice>
+  Nuñes
+  <choice><orig>Reg[id]or</orig><reg type="spanish">Regidor</reg></choice>
+  y yo
+  <choice><orig>Ant[oni]o</orig><reg type="spanish">Antonio</reg></choice>
+  de Silva
+  <choice><orig>Escrivano</orig><reg type="spanish">Escribano</reg></choice>
+  de
+  <br>
+  Cavildo porque pidieron
+  <choice><orig>merc[e]d</orig><reg type="spanish">merced</reg></choice>
+  que
+  <choice><orig>benden</orig><reg type="spanish">venden</reg></choice>
+  <choice><orig>realm[en]te</orig><reg type="spanish">realmente</reg></choice>
+  un
+  <br>
+  <choice><orig>pedasso</orig><reg type="spanish">pedazo</reg></choice>
+  de tierra de lo que le endono su Padre ligitimo que es 
+  <br>
+  Sebastian Mendes
+  <choice><orig>assi</orig><reg type="spanish">así</reg></choice>
+  mismo su madre ligitima Maria Mendes de 
+  <br>
+  Silva en vida suya y la
+  <choice><orig>dha</orig><reg type="spanish">dicha</reg></choice>
+  tierra la dieron a Sebastian Mendes con 
+  <br>
+  su
+  <choice><orig>muguer</orig><reg type="spanish">mujer</reg></choice>
+  en el testamento del difunto Joseph de Silva la que se 
+  <br>
+  <choice><orig>haia</orig><reg type="spanish">haya</reg></choice>
+  en el lugar que llaman rua nesa yay. que quiere decir 
+  <choice><orig>voca</orig><reg type="spanish">boca</reg></choice>
+  del
+  <br>
+  camino real. y así mismo
+  <choice><orig>aora</orig><reg type="spanish">ahora</reg></choice>
+  le tomo el
+  <choice><orig>mesmo</orig><reg type="spanish">mismo</reg></choice>
+  Principal Alcalde 
+  <br>
+  Ordinario Juramento el
+  <choice><orig>mesmo</orig><reg type="spanish">mismo</reg></choice>
+  Nicolas Mendes los dos con su 
+  <br>
+  <choice><orig>muguer</orig><reg type="spanish">mujer</reg></choice>
+  Michaela Martin porque declare la verdad si es con todo su 
+  <br>
+  <choice><orig>corazon</orig><reg type="spanish">corazón</reg></choice>
+  si quiere vender la tierra suya, por el tanto
+  <choice><orig>aora</orig><reg type="spanish">ahora</reg></choice>
+  declaro la
+  <br>
+  verdad y Juro y lo
+  <choice><orig>hiso</orig><reg type="spanish">hizo</reg></choice>
+  por nuestro amo Dios, y
+  <choice><orig>tamvién</orig><reg type="spanish">también</reg></choice>
+  la señal de 
+  <br>
+  la cruz verdaderamente vende lo que 
+  <br>
+   <pb n="2"/>
+   es tierra suya por que tiene necesidad y nessecita dinero en toda 
+   <br>
+   esta ley
+   <choice><orig>vnde</orig><reg type="spanish">vende</reg></choice>
+   lo que es tierra suya compra el mismo Joseph de Silva 
+   <br>
+   los dos con su
+   <choice><orig>muguer</orig><reg type="spanish">mujer</reg></choice>
+   Geronima Mendes le da ocho pessos en 
+   <br>
+   Reales efectivos, y dos
+   <choice><orig>rres</orig><reg type="spanish">reales</reg></choice>
+   que toma en sus manos mismas el 
+   <br>
+   mismo Nicolas Mendes los dos con su
+   <choice><orig>muguer</orig><reg type="spanish">mujer</reg></choice>
+   Michaela
+   <choice><orig>Mend[es]</orig><reg type="spanish">Mendes</reg></choice>
+   <br>
+   por el tanto declara como
+   <choice><orig>zon</orig><reg type="spanish">son</reg></choice>
+   los linderos en contorno de esta 
+   <br>
+   tierra, por donde
+   <choice><orig>nase</orig><reg type="spanish">nace</reg></choice>
+   el sol con el difunto Balthazar Mendes esta la 
+   <br>
+   culebrina de tierra que es lindero, y
+   <choice><orig>asia</orig><reg type="spanish">hacía</reg></choice>
+   a el Norte se Jun=ta la 
+   <br>
+   tierra de Lucas de la Cruz
+   <choice><orig>onde</orig><reg type="spanish">donde</reg></choice>
+   <choice><orig>eredó</orig><reg type="spanish">heredó</reg></choice>
+   de la di=funta su madre 
+   <br>
+   Seraphina esta la piedra que es lindero,
+   <choice><orig>asia</orig><reg type="spanish">hacía</reg></choice>
+   <choice><orig>onde</orig><reg type="spanish">donde</reg></choice>
+   se mete el
+   <choice><orig>spl</orig><reg type="spanish">sol</reg></choice>
+   se
+   <br>
+   junta la tierra del
+   <choice><orig>mesmo</orig><reg type="spanish">mismo</reg></choice>
+   Joseph de Silva,
+   <choice><orig>mesmo</orig><reg type="spanish">mismo</reg></choice>
+   <choice><orig>asia</orig><reg type="spanish">hacía</reg></choice>
+   Oaxaca se junta con 
+   <br>
+   la tierra de Sebastiana Mendes hija
+   <choice><orig>lixitima</orig><reg type="spanish">ligitima</reg></choice>
+   de Sebastiana Mendes,
+   <br>
+   <choice><orig>assi</orig><reg type="spanish">así</reg></choice>
+   son los linderos en
+   <choice><orig>conturno</orig><reg type="spanish">contorno</reg></choice>
+   de esta tierra declaro el
+   <choice><orig>mesmo</orig><reg type="spanish">mismo</reg></choice>
+   <br>
+   Nicolas Mendes, de Silva los dos con su
+   <choice><orig>muger</orig><reg type="spanish">mujer</reg></choice>
+   Michaela
+   <choice><orig>Men[des]</orig><reg type="spanish">Mendes</reg></choice>
+   y
+   <br>
+   <choice><orig>assi</orig><reg type="spanish">así</reg></choice>
+   mismo
+   <choice><orig>dise</orig><reg type="spanish">dice</reg></choice>
+   que se aparta y se exime de todo el derecho que 
+   <br>
+   tenía en la
+   <choice><orig>dha</orig><reg type="spanish">dicha</reg></choice>
+   tierra, y lo entriega en Manos del
+   <choice><orig>mesmo</orig><reg type="spanish">mismo</reg></choice>
+   Joseph
+   de
+   <br>
+   Silva los dos con su
+   <choice><orig>muger</orig><reg type="spanish">mujer</reg></choice>
+   que sea suyo de sus hijos, y sus nietos 
+   <br>
+   <choice><orig>aora</orig><reg type="spanish">ahora</reg></choice>
+   y siempre
+   <pb n="3"/>
+   Y en lo venidero de que
+   <choice><orig>ningun</orig><reg type="spanish">ningún</reg></choice>
+   hijo, o nietos del
+   <choice><orig>mesmo</orig><reg type="spanish">mismo</reg></choice>
+   Nicolas
+   <br>
+   Mendes de Silva, la mencionen o pidan en la tierra en
+   <choice><orig>algun</orig><reg type="spanish">algún</reg></choice>
+   <choice><orig>dia</orig><reg type="spanish">día</reg></choice>
+   que
+   <br>
+   por
+   <choice><orig>entonses</orig><reg type="spanish">entonces</reg></choice>
+   estaran promptos asar la casa y contradiran y gastaran 
+   <br>
+   sus
+   <choice><orig>vienes</orig><reg type="spanish">bienes</reg></choice>
+   defenderan estas
+   <choice><orig>dha</orig><reg type="spanish">dicha</reg></choice>
+   tierra lo primero se lo entregaran a 
+   <br>
+   el
+   <choice><orig>mesmo</orig><reg type="spanish">mismo</reg></choice>
+   Joseph de Silva esta tierra que
+   <choice><orig>quando</orig><reg type="spanish">cuando</reg></choice>
+   no
+   <choice><orig>entonses</orig><reg type="spanish">entonces</reg></choice>
+   se
+   <br>
+   obligan a corresponder con otro
+   <choice><orig>pedaso</orig><reg type="spanish">pedazo</reg></choice>
+   de tierra conforme le 
+   <br>
+   agradare al
+   <choice><orig>dho</orig><reg type="spanish">dicho</reg></choice>
+   Joseph de Silva todo
+   <choice><orig>assí</orig><reg type="spanish">así</reg></choice>
+   respondieron
+   <choice><orig>aora</orig><reg type="spanish">ahora</reg></choice>
+   , ante la
+   <br>
+   Justicia, y también los testigos vieron y lo oyeron todo= como se 
+   <br>
+   <choice><orig>hissio</orig><reg type="spanish">hizo</reg></choice>
+   <choice><orig>aora</orig><reg type="spanish">ahora</reg></choice>
+   primeramente el Principal Nipolito-Juares Juan de 
+   <br>
+   Mendoza, y Lucas de la Cruz todo
+   <choice><orig>assí</orig><reg type="spanish">así</reg></choice>
+   se
+   <choice><orig>hissio</orig><reg type="spanish">hizo</reg></choice>
+   <choice><orig>aora</orig><reg type="spanish">ahora</reg></choice>
+   , y porque
+   <br>
+   <choice><orig>tamvién</orig><reg type="spanish">también</reg></choice>
+   el
+   <choice><orig>Rexidor</orig><reg type="spanish">Regidor</reg></choice>
+   no
+   <choice><orig>save</orig><reg type="spanish">sabe</reg></choice>
+   firmar y por el tanto me suplicaron ante 
+   <br>
+   mi el
+   <choice><orig>escrivano</orig><reg type="spanish">escribano</reg></choice>
+   de Cavilao pongo dentro
+   <choice><orig>deste</orig><reg type="spanish">de este</reg></choice>
+   papel
+   <choice><orig>Escriptura</orig><reg type="spanish">Escritura</reg></choice>
+   de
+   <br>
+   vente todo esto
+   <choice><orig>doi</orig><reg type="spanish">doy</reg></choice>
+   yo el
+   <choice><orig>escrivano</orig><reg type="spanish">escribano</reg></choice>
+   de Cavilao, fé de verdad de to=do 
+   <br>
+   lo que se
+   <choice><orig>hisso</orig><reg type="spanish">hizo</reg></choice>
+   = Gabriel de Chaves Alcalde =
+   <choice><orig>Ant[oni]o Nun[e]s</orig><reg type="spanish">Antonio Nuñes</reg></choice>
+   <choice><orig>Reg[id]or</orig><reg type="spanish">Regidor</reg></choice>
+   A Rocgo por
+   <choice><orig>tesg[?]o</orig><reg type="spanish">testigo</reg></choice>
+   Nipolito Juares =
+   <br>
+   Ante mi
+   <choice><orig>Ant[oni]o</orig><reg type="spanish">Antonio</reg></choice>
+   de Silva
+   <choice><orig>Ess[?]no</orig><reg type="spanish">Escribano</reg></choice>
+   de Cavildo = 
+   <br>
+   La
+   <choice><orig>qual</orig><reg type="spanish">cual</reg></choice>
+   va
+   <choice><orig>tradussida</orig><reg type="spanish">traducida</reg></choice>
+   bien y fielmente, y 
+   <choice><orig>consertada</orig><reg type="spanish">concertada</reg></choice>
+   <choice><orig>segun</orig><reg type="spanish">según</reg></choice>
+   mi leal
+   <br>
+   <choice><orig>saver</orig><reg type="spanish">saber</reg></choice>
+   y entender, y
+   <choice><orig>hisse</orig><reg type="spanish">hice</reg></choice>
+   su trassump[?]to
+   <pb n="4"/>
+   A pedimento de la parte de
+   <choice><orig>D[o]n</orig><reg type="spanish">Don</reg></choice>
+   Joseph de Silva, y por verdad lo 
+   <br>
+   juro en toda forma de
+   <choice><orig>d[ue]ño</orig><reg type="spanish">dueño</reg></choice>
+   , y firmo en esta Ciudad de 
+   <br>
+   <choice><orig>Anteq[ue]ra</orig><reg type="spanish">Antequera</reg></choice>
+   a se
+   <choice><orig>ondias</orig><reg type="spanish">un días</reg></choice>
+   del mes de
+   <choice><orig>Novi[embr]e</orig><reg type="spanish">Noviembre</reg></choice>
+   de mil, setecientos, 
+   <br>
+   <choice><orig>quarenta</orig><reg type="spanish">cuarenta</reg></choice>
+   , y nueve años. en m[?]do=co=v.e enM=con=Vo=D[o]n 
+   <br>
+   Pedro de Zarate 
+   <br>
+   En obedecimiento y cumplimiento de lo mandado por el
+   <choice><orig>S[eño]r</orig><reg type="spanish">Señor</reg></choice>
+   <br>
+   <choice><orig>Jues</orig><reg type="spanish">Juez</reg></choice>
+   de testamentos
+   <choice><orig>capellarias</orig><reg type="spanish">capellanías</reg></choice>
+   y obras pias de este
+   <choice><orig>Op[?]do</orig><reg type="spanish">Obispado</reg></choice>
+   <choice><orig>prosedí</orig><reg type="spanish">procedí</reg></choice>
+   , 
+   <choice><orig>hazer</orig><reg type="spanish">hacer</reg></choice>
+   el cotejo de el instrumento que 
+   <br>
+   <choice><orig>antessede</orig><reg type="spanish">antecede</reg></choice>
+   con su
+   <br>
+   original Zapoteco, y
+   <choice><orig>hayé</orig><reg type="spanish">hallé</reg></choice>
+   <choice><orig>segun</orig><reg type="spanish">según</reg></choice>
+   mi leal saber, y entender estas 
+   <br>
+   sacado fielmente a la letra sin añadir ni quitar, y por ser verdad lo 
+   <br>
+   declaro socargo del
+   <choice><orig>Juram[en]to</orig><reg type="spanish">Juramento</reg></choice>
+   que ante su
+   <choice><orig>Merc[e]d</orig><reg type="spanish">Merced</reg></choice>
+   tengo
+   <choice><orig>fho</orig><reg type="spanish">fecho</reg></choice>
+   en
+   <br>
+   que mi afirmo y ratifico; y lo firme en esta Ciudad de Antequera, y 
+   <br>
+   Abui-e 19 de 1749 aT 
+   <br>
+   Manuel Diaz
+   <choice><orig>ynterprete</orig><reg type="spanish">interprete</reg></choice>
+   <choice><orig>Nom. V.do</orig><reg type="spanish">Nombrado</reg></choice> 
