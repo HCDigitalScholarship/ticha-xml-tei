@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="TEISchema_current.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<text>
+<pb n="1"/> 
+<choice><orig>Oy</orig><reg type="spanish">Hoy</reg></choice>
+miércoles a ocho 
+<choice><orig>diaz</orig><reg type="spanish">diez</reg></choice>
+del 
+<choice><orig>mez</orig><reg type="spanish">mes</reg></choice>
+de Septiembre de 
+<choice><orig>mill</orig><reg type="spanish">mil</reg></choice>
+setecientos y ocho años, Otorgo Yo el enfermo Xpto 
+<br>
+bal Lazaro mi memoria y testamento, por 
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+me ha 
+<br>
+llo enfermo, y 
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+Dios ha sido servido de 
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+yo sea chris 
+<br>
+tiano, y 
+<choice><orig>asi</orig><reg type="spanish">así</reg></choice>
+Creo en el misterio dela Santisima trinidad 
+<br>
+Dios Padre, Dios hijo, Dios espiritu santo, tres Personas dis- 
+<br>
+tintas, y un solo Dios Verdadero, Creo los 
+<choice><orig>catorze</orig><reg type="spanish">catorce</reg></choice>
+Ar 
+<br>
+ticulos dela fee, los diez mandamientos dela ley de Dios, 
+<br>
+y los 
+<choice><orig>sinco</orig><reg type="spanish">cinco</reg></choice>
+de 
+<choice><orig>nra</orig><reg type="spanish">nuestra</reg></choice>
+Madre la Santa Yglecia, amen Jesus ___ 
+<br>
+Primerante mando y 
+<choice><orig>Ordono</orig><reg type="spanish">Ordoño</reg></choice>
+sele de al Padre minis- 
+<br>
+tro dos 
+<choice><orig>ps</orig><reg type="spanish">pesos</reg></choice>
+para 
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+Diga 
+<choice><orig>Vna</orig><reg type="spanish">Una</reg></choice>
+<choice><orig>Missa</orig><reg type="spanish">Misa</reg></choice>
+por mi Alma ___ 
+<br>
+Yttn. mando seden 
+<choice><orig>quarto</orig><reg type="spanish">cuarto</reg></choice>
+<choice><orig>rrs</orig><reg type="spanish">reales</reg></choice>
+para la cruz manga, y Re- 
+<br>
+al y medio para la 
+<choice><orig>Caxa</orig><reg type="spanish">Cara</reg></choice>
+del Altar mayor ___ 
+<br>
+Yttn. Declaro 
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+tengo por 
+<choice><orig>mio</orig><reg type="spanish">mío</reg></choice>
+<choice><orig>Vn</orig><reg type="spanish">Un</reg></choice>
+pedazo de tierra Nom 
+<br>
+brada quina tanij, 
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+se compone de diez y seis me 
+<br>
+didas, y su 
+<choice><orig>Cavezera</orig><reg type="spanish">Cabecera</reg></choice>
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+cae al Oriente Linda con tierras 
+<br>
+del Pueblo por el poniente con tierras 
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+fueron de Gre 
+<br>
+gorio meneses defunto, por el norte con tierras del 
+<br>
+mismo Pueblo, y por el Sur con tierras de Juan Peres, 
+<br>
+estas dejo a mi 
+<choice><orig>ijo</orig><reg type="spanish">hijo</reg></choice>
+<choice><orig>Pazqual</orig><reg type="spanish">Paswual</reg></choice>
+Xptoual, y a su her 
+<br>
+mano Antonio Xptoual, con 
+<choice><orig>Declaracion</orig><reg type="spanish">Declaración</reg></choice>
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+las posee 
+<br>
+mi Sobrino Domingo Gabriel por treinta 
+<choice><orig>ps</orig><reg type="spanish">pesos</reg></choice>
+, de 
+<br>
+arrendamiento, y si mis dos Hijos quisieren 
+<choice><orig>bolber</orig><reg type="spanish">volver</reg></choice>
+<br>
+le el Resto, 
+<choice><orig>podran</orig><reg type="spanish">podrán</reg></choice>
+hazerlo, y 
+<choice><orig>tomarze</orig><reg type="spanish">tomarse</reg></choice>
+luego las 
+<br>
+tierras. ___ 
+<br>
+Yttn. Otro pedazo de tierra de solar 
+<choice><orig>mio</orig><reg type="spanish">mío</reg></choice>
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+esta en el 
+<br>
+Puesto 
+<choice><orig>Nombrado</orig><reg type="spanish">Nombrado</reg></choice>
+Lachij besa ruaa yaalaa, estas 
+<br>
+lindan con tierras de Pedro Gabriel 
+<choice><orig>asia</orig><reg type="spanish">hacía</reg></choice>
+al poni- 
+<br>
+ente, Le queda a 
+<choice><orig>Pazqual</orig><reg type="spanish">Paswual</reg></choice>
+Xptoual desde donde esta 
+<choice><orig>Sercado</orig><reg type="spanish">Cercado</reg></choice>
+de tunas; Solar estas Palabras dijo el 
+<br>
+enfermo Xptoual Lazaro 
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+las Oyeron el testi- 
+<br>
+go Joseph Garcia, y los Alcaldes, y Regidores, ___ 
+<br>
+Otro pedazo de tierra 
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+esta 
+<choice><orig>devajo</orig><reg type="spanish">debajo</reg></choice>
+del 
+<choice><orig>Arbol</orig><reg type="spanish">árbol</reg></choice>
+<br>
+<pb n="2"/><br>
+de Piru, y tiene de Largo seis medidas, y de an 
+<br>
+cho quatro, le queda a mi hijo 
+<choice><orig>Pazqual</orig><reg type="spanish">Paswual</reg></choice>
+Xpto- 
+<br>
+bal = Lorenzo 
+<choice><orig>Martin</orig><reg type="spanish">Martín</reg></choice>
+Alcalde = Miguel Cor 
+<br>
+tes = 
+<choice><orig>Pazqual</orig><reg type="spanish">Paswual</reg></choice>
+Lopez Regidor = Don Pedro 
+<br>
+de Aguilar Regidor = Nicolas 
+<choice><orig>hernandes</orig><reg type="spanish">hernandez</reg></choice>
+<br>
+testigo = 
+<choice><orig>Martin</orig><reg type="spanish">Martín</reg></choice>
+Lucas 
+<choice><orig>escrivano</orig><reg type="spanish">escribano</reg></choice>
+___ 
+<br>
+Digo yo Don Melchor Vazquez de Aguilar 
+<choice><orig>Cazique</orig><reg type="spanish">Cacique</reg></choice>
+<br>
+del Pueblo y 
+<choice><orig>Cavezera</orig><reg type="spanish">Cabecera</reg></choice>
+de Zimatlan, 
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+de pediment 
+<br>
+to, y Juego de 
+<choice><orig>Pazqual</orig><reg type="spanish">Paswual</reg></choice>
+Xptoual Natural del 
+<br>
+Pueblo de Santa Cathalina quianee de la Juris- 
+<br>
+dicion dela Ciudad de Oxaca, he trasumpta 
+<br>
+do un 
+<choice><orig>testamiento</orig><reg type="spanish">testamento</reg></choice>
+del idioma Zapoteco al cas- 
+<br>
+tellano, Y 
+<choice><orig>qual</orig><reg type="spanish">cual</reg></choice>
+va bien y 
+<choice><orig>fielmte</orig><reg type="spanish">fielmente</reg></choice>
+traduccido, a to- 
+<br>
+do mi le al sauer, y entender, sin quitar, ni 
+<br>
+añadir de su 
+<choice><orig>exprecion</orig><reg type="spanish">expresión</reg></choice>
+y contenido, 
+<choice><orig>cossa</orig><reg type="spanish">cosa</reg></choice>
+algu- 
+<br>
+na; 
+<choice><orig>asi</orig><reg type="spanish">así</reg></choice>
+lo juro en la forma 
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+quedo, y debo, y para 
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+Conste lo firme en 
+<choice><orig>dho</orig><reg type="spanish">dicho</reg></choice>
+Pueblo, y Cauezera 
+<br>
+donde es 
+<choice><orig>fho</orig><reg type="spanish">fecho</reg></choice>
+a 
+<choice><orig>veintisinco</orig><reg type="spanish">veinticinco</reg></choice>
+<choice><orig>diaz</orig><reg type="spanish">diez</reg></choice>
+del 
+<choice><orig>mez</orig><reg type="spanish">mes</reg></choice>
+de 
+<choice><orig>Zep</orig><reg type="spanish">Sep</reg></choice>
+<br>
+tiembre de 
+<choice><orig>mill</orig><reg type="spanish">mil</reg></choice>
+setecientos, y treinta y 
+<choice><orig>quatro</orig><reg type="spanish">cuatro</reg></choice>
+<br>
+años. ___ 
+<choice><orig>Meor</orig><reg type="spanish">Melchor</reg></choice>
+<choice><orig>Vazqz</orig><reg type="spanish">Vazquez</reg></choice>
+de 
+<br>
+Aguilar rúbrica 
