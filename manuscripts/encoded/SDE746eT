@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="TEISchema_current.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<text>
+<pb n="1"/><br>
+Yo 
+<choice><orig>Dn</orig><reg type="spanish">Don</reg></choice>
+Pedro de Zarate 
+<choice><orig>Cassiq</orig><reg type="spanish">Casique</reg></choice>
+<choice><orig>Vezino</orig><reg type="spanish">Vecino</reg></choice>
+de esta Ciudad, por<br>
+recomendación de 
+<choice><orig>Dn</orig><reg type="spanish">Don</reg></choice>
+Joseph de Silva 
+<choice><orig>tradussí</orig><reg type="spanish">traducí</reg></choice>
+esta 
+<choice><orig>Escriptura</orig><reg type="spanish">Escritura</reg></choice>
+<br>
+de la 
+<choice><orig>ydioma</orig><reg type="spanish">idioma</reg></choice>
+<choice><orig>Sapoteca</orig><reg type="spanish">Zapoteca</reg></choice>
+en 
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+se halla su Original, a la Cas= 
+<br>
+tellana, 
+<choice><orig>cuio</orig><reg type="spanish">cuyo</reg></choice>
+tenor, es como se sigue --------------------------- 
+<choice><orig>Aqui</orig><reg type="spanish">Aquí</reg></choice>
+en el Pueb de 
+<choice><orig>Sto</orig><reg type="spanish">Santo</reg></choice>
+Domingo de la Villa de Etla del Estado y 
+<br>
+Marquezado del Valle 
+<choice><orig>oi</orig><reg type="spanish">hoy</reg></choice>
+<choice><orig>dia</orig><reg type="spanish">día</reg></choice>
+Jueves a 
+<choice><orig>quinze</orig><reg type="spanish">quince</reg></choice>
+<choice><orig>dias</orig><reg type="spanish">días</reg></choice>
+del 
+<choice><orig>mes</orig><reg type="spanish">mis</reg></choice>
+de 
+<br>
+Diciembre de mil setecientos y 
+<choice><orig>quarenta</orig><reg type="spanish">cuarenta</reg></choice>
+y 
+<choice><orig>seys</orig><reg type="spanish">seis</reg></choice>
+años, 
+<choice><orig>aqui</orig><reg type="spanish">aquí</reg></choice>
+ante 
+<br>
+los dos Principale Alcaldes ordinarios, Juan 
+<choice><orig>Lopes</orig><reg type="spanish">Lopez</reg></choice>
+y tam- 
+<br>
+bién 
+<choice><orig>Dn</orig><reg type="spanish">Don</reg></choice>
+Julian Carrasco, y 
+<choice><orig>tambien</orig><reg type="spanish">también</reg></choice>
+los dos Principales 
+<choice><orig>Rexres</orig><reg type="spanish">Regidores</reg></choice>
+Mayores, 
+<choice><orig>tambien</orig><reg type="spanish">también</reg></choice>
+<choice><orig>Sres</orig><reg type="spanish">Señores</reg></choice>
+testigos, y 
+<choice><orig>tambien</orig><reg type="spanish">también</reg></choice>
+yo 
+<choice><orig>escrivano</orig><reg type="spanish">escribano</reg></choice>
+<choice><orig>doi</orig><reg type="spanish">doy</reg></choice>
+<choice><orig>fee</orig><reg type="spanish">fe</reg></choice>
+palabra de verdad compareció Pablo Ramires los 
+<br>
+dos con su 
+<choice><orig>Muger</orig><reg type="spanish">Mujer</reg></choice>
+Josepha 
+<choice><orig>Martin</orig><reg type="spanish">Martín</reg></choice>
+<choice><orig>tambien</orig><reg type="spanish">también</reg></choice>
+sus hijos todos 
+<br>
+naturales 
+<choice><orig>assi</orig><reg type="spanish">así</reg></choice>
+<choice><orig>mesmo</orig><reg type="spanish">mismo</reg></choice>
+de 
+<choice><orig>dho</orig><reg type="spanish">dicho</reg></choice>
+Pueb piden 
+<choice><orig>licencia</orig><reg type="spanish">licencia</reg></choice>
+y mer= 
+<br>
+ced por que se haga 
+<choice><orig>Escriptura</orig><reg type="spanish">Escritura</reg></choice>
+un 
+<choice><orig>pedaso</orig><reg type="spanish">pedazo</reg></choice>
+de tierra compra = 
+<br>
+da suyo la 
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+compro de su Primo luyo los dos Manuel Ra= 
+<br>
+mires, 
+<choice><orig>espresa</orig><reg type="spanish">expresa</reg></choice>
+<choice><orig>tambien</orig><reg type="spanish">también</reg></choice>
+la 
+<choice><orig>Escriptura</orig><reg type="spanish">Escritura</reg></choice>
+la 
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+fue a favor de 
+<br>
+Pablo Ramires y 
+<choice><orig>assi</orig><reg type="spanish">así</reg></choice>
+<choice><orig>mesmo</orig><reg type="spanish">mismo</reg></choice>
+los llamaron 
+<choice><orig>Sres</orig><reg type="spanish">Señores</reg></choice>
+Justicias a 
+<br>
+que declaren la verdad y hagan Juramro si de su queren 
+<br>
+con todo su 
+<choice><orig>Corazon</orig><reg type="spanish">Corazón</reg></choice>
+lo traspasan la tierra 
+<choice><orig>aora</orig><reg type="spanish">ahora</reg></choice>
+respondió<br>
+<choice><orig>dixo</orig><reg type="spanish">dijo</reg></choice>
+verdad hago Juramento 
+<choice><orig>Sres</orig><reg type="spanish">Señores</reg></choice>
+hago 
+<choice><orig>p</orig><reg type="spanish">peso</reg></choice>
+<br>
+# 
+<br>
+D 
+<br>
+# 
+<br>
+y la señal 
+<br>
+de la 
+<choice><orig>Sta</orig><reg type="spanish">Santa</reg></choice>
+Cruz verdad hago traspaso la tierra queda en manos 
+<br>
+del Principal Joseph de Silva 
+<choice><orig>assi</orig><reg type="spanish">así</reg></choice>
+<choice><orig>mesmo</orig><reg type="spanish">mismo</reg></choice>
+Principal de 
+<choice><orig>dho</orig><reg type="spanish">dicho</reg></choice>
+<br>
+Pueb me da veinte y 
+<choice><orig>seys</orig><reg type="spanish">seis</reg></choice>
+<choice><orig>ps</orig><reg type="spanish">pesos</reg></choice>
+dinero 
+<choice><orig>recivo</orig><reg type="spanish">recibo</reg></choice>
+en mis manos 
+<br>
+por 
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+la 
+<choice><orig>nessecidad</orig><reg type="spanish">necesidad</reg></choice>
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+me hallo entre todos 
+<choice><orig>aqui</orig><reg type="spanish">aquí</reg></choice>
+se esplico 
+<br>
+ante la 
+<choice><orig>Justicia</orig><reg type="spanish">Justicia</reg></choice>
+<choice><orig>assi</orig><reg type="spanish">así</reg></choice>
+mesmo, 
+<choice><orig>aora</orig><reg type="spanish">ahora</reg></choice>
+le da 
+<choice><orig>licencia</orig><reg type="spanish">licencia</reg></choice>
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+haga tras= 
+<br>
+paso la tierra suyo por la 
+<choice><orig>nessecidad</orig><reg type="spanish">necesidad</reg></choice>
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+sea halla 
+<choice><orig>aora</orig><reg type="spanish">ahora</reg></choice>
+de= 
+<br>
+clara 
+<choice><orig>segun</orig><reg type="spanish">según</reg></choice>
+como están los linderos, en contorno la 
+<br>
+tierra 
+<choice><orig>aqui</orig><reg type="spanish">aquí</reg></choice>
+= 
+<choice><orig>assi</orig><reg type="spanish">así</reg></choice>
+mira 
+<choice><orig>aonde</orig><reg type="spanish">adonde</reg></choice>
+nace el sol Junta el se tio<br>
+del 
+<choice><orig>mesmo</orig><reg type="spanish">mismo</reg></choice>
+Principal Joseph de Silva esta clavado 
+<br>
+piedra es mojón = para 
+<choice><orig>assi</orig><reg type="spanish">así</reg></choice>
+mira ## el Norte Junta 
+<br>
+<pb n="2"/><br>
+el sitio de Pasqual Juares esta clavado piedra 
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+es mo 
+<br>
+jon, 
+<choice><orig>assi</orig><reg type="spanish">así</reg></choice>
+mira 
+<choice><orig>aonde</orig><reg type="spanish">adonde</reg></choice>
+se mete el sol Junta con el uno de 
+<br>
+Pasquala Ramires, esta clavado piedra, es mojón, para a# 
+<br>
+Oaxaca Junta con el a tio del Principal Joseph de Silva 
+<choice><orig>tambien</orig><reg type="spanish">también</reg></choice>
+esta clavado piedra 
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+es mojon, 
+<choice><orig>assi</orig><reg type="spanish">así</reg></choice>
+son los lindero 
+<br>
+en con torno esta tierra 
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+de claro el 
+<choice><orig>mesmo</orig><reg type="spanish">mismo</reg></choice>
+Pablo Ramires 
+<br>
+dise 
+<choice><orig>aora</orig><reg type="spanish">ahora</reg></choice>
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+se aparta y se exime de todo el derecho suyo 
+<choice><orig>desta</orig><reg type="spanish">de esta</reg></choice>
+tierr# 
+<br>
+todo lo sede y entruga en manos del Principal Joseph de Silva 
+<br>
+para 
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+sea suyo, y 
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+sean sus bienes de sus hijos nietos 
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+<choice><orig>aga</orig><reg type="spanish">haga</reg></choice>
+de 
+<br>
+ellas lo 
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+quisiere en lo presente y Venidero para siempre y por 
+<br>
+siempre se Junto con su mesma tierra se hizo una muma 
+<br>
+compañera 
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+esta en el paraje Junto al camino Real 
+<br>
+lo menciona 
+<choice><orig>tambien</orig><reg type="spanish">también</reg></choice>
+la 
+<choice><orig>Escriptura</orig><reg type="spanish">Escritura</reg></choice>
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+esta en Castilla # 
+<br>
+favor suyo del mismo Pablo Ramires primero 
+<choice><orig>tambien</orig><reg type="spanish">también</reg></choice>
+<br>
+dise se alguno diga, o pida esta tierra, en otra 
+<choice><orig>ocacion</orig><reg type="spanish">ocasión</reg></choice>
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+<br>
+por entonces 
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+de muestre esta 
+<choice><orig>Escriptura</orig><reg type="spanish">Escritura</reg></choice>
+de traspaso ante 
+<choice><orig>Justicia</orig><reg type="spanish">Justicia</reg></choice>
+Mayor 
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+pagen la pena de 
+<choice><orig>doze</orig><reg type="spanish">doce</reg></choice>
+<choice><orig>ps</orig><reg type="spanish">pesos</reg></choice>
+para los # 
+<br>
+tos de 
+<choice><orig>qn</orig><reg type="spanish">quien</reg></choice>
+fuere Justicia, todo 
+<choice><orig>assi</orig><reg type="spanish">así</reg></choice>
+lo declaro el 
+<choice><orig>mesmo</orig><reg type="spanish">mismo</reg></choice>
+<choice><orig>Pa</orig><reg type="spanish">Para</reg></choice>
+<br>
+blo Ramires, 
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+lo oyeron los tres testigos y 
+<choice><orig>assi</orig><reg type="spanish">así</reg></choice>
+<choice><orig>mesmo</orig><reg type="spanish">mismo</reg></choice>
+## 
+<br>
+yo el 
+<choice><orig>Escrivano</orig><reg type="spanish">Escribano</reg></choice>
+firme por un Alcalde y otro Rex# 
+<br>
+dor 
+<choice><orig>tambien</orig><reg type="spanish">también</reg></choice>
+otros dos y 
+<choice><orig>tambien</orig><reg type="spanish">también</reg></choice>
+todos los testigos p# 
+<br>
+en sus mismas manos 
+<choice><orig>porq</orig><reg type="spanish">porque</reg></choice>
+entienden y saben letra 
+<choice><orig>tambien</orig><reg type="spanish">también</reg></choice>
+<choice><orig>doi</orig><reg type="spanish">doy</reg></choice>
+<choice><orig>fee</orig><reg type="spanish">fe</reg></choice>
+de verdad en este papel el 
+<choice><orig>mes</orig><reg type="spanish">mis</reg></choice>
+<br>
+mo 
+<choice><orig>dia</orig><reg type="spanish">día</reg></choice>
+<choice><orig>Mes</orig><reg type="spanish">Mis</reg></choice>
+y año, la verdad se hizo an 
+<br>
+te la 
+<choice><orig>Justicia</orig><reg type="spanish">Justicia</reg></choice>
+ordinaria la Persona que Con 
+<br>
+tiene dentro 
+<choice><orig>deste</orig><reg type="spanish">de este</reg></choice>
+papel 
+<choice><orig>aora</orig><reg type="spanish">ahora</reg></choice>
+se acaba se cierra a 
+<br>
+todas las Personas 
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+contienen dos 
+<choice><orig>Rexidores</orig><reg type="spanish">Regidores</reg></choice>
+<choice><orig>Ma</orig><reg type="spanish">María</reg></choice>
+<br>
+yores, Andres de la Cruz, y Simon Juares niños y 
+<br>
+bien los tres testigos que son Ambrosio Luiz Rami# 
+<br>
+Francisco de 
+<choice><orig>Sn</orig><reg type="spanish">San</reg></choice>
+Miguel 
+<choice><orig>tambien</orig><reg type="spanish">también</reg></choice>
+<choice><orig>Ygnacio</orig><reg type="spanish">Ignacio</reg></choice>
+<choice><orig>Peres</orig><reg type="spanish">Perez</reg></choice>
+to# 
+<br>
+<pb n="3"/><br>
+Naturales y vezinos de este mismo Pueb como es verdad 
+<br>
+que vieron que se acabo la buena conformidad de Pa= 
+<br>
+blo Ramires los dos con el Principal Joseph de Silva se 
+<br>
+hizo 
+<choice><orig>aqui</orig><reg type="spanish">aquí</reg></choice>
+ante la 
+<choice><orig>Justicia</orig><reg type="spanish">Justicia</reg></choice>
+<choice><orig>aora</orig><reg type="spanish">ahora</reg></choice>
+= Pablo Ramires = 
+<br>
+Josepha Nuñes = 
+<choice><orig>Dn</orig><reg type="spanish">Don</reg></choice>
+Julian franco y Carrasco Al calde 
+<br>
+Juan 
+<choice><orig>Lopes</orig><reg type="spanish">Lopez</reg></choice>
+Alcalde = 
+<choice><orig>Rexidor</orig><reg type="spanish">Regidor</reg></choice>
+Simon Juares = 
+<choice><orig>Rexdor</orig><reg type="spanish">Regidor</reg></choice>
+Andres de la Cruz = testigo Ambrosio Cruz Ramires = a 
+<br>
+ruego y por testigo 
+<choice><orig>Ygnacio</orig><reg type="spanish">Ignacio</reg></choice>
+<choice><orig>Peres</orig><reg type="spanish">Perez</reg></choice>
+= testigo franco de 
+<choice><orig>Sn</orig><reg type="spanish">San</reg></choice>
+Mi= 
+<br>
+guel = Ante mi Antonio Mendes 
+<choice><orig>Escrivano</orig><reg type="spanish">Escribano</reg></choice>
+= 
+<br>
+La 
+<choice><orig>qual</orig><reg type="spanish">cual</reg></choice>
+esta sacada 
+<choice><orig>consertada</orig><reg type="spanish">concertada</reg></choice>
+y Corregida de su Original 
+<choice><orig>segun</orig><reg type="spanish">según</reg></choice>
+mi leal saber y en= 
+<br>
+tender ha# lo Juro en toda forma de dro y porque conte lo firme en 
+<br>
+Oaxaca y 
+<choice><orig>Noviembre</orig><reg type="spanish">Noviembre</reg></choice>
+<choice><orig>doze</orig><reg type="spanish">doce</reg></choice>
+de mil setecientos 
+<choice><orig>quarenta</orig><reg type="spanish">cuarenta</reg></choice>
+y nueve 
+<br>
+años = en m 
+<br>
+do 
+<br>
+= miras = entre vig = dise = ve = 
+<choice><orig>Dn</orig><reg type="spanish">Don</reg></choice>
+Pedro de Zarate 
+<br>
+En obedecimiento, y Cumplimiento de lo man 
+<br>
+dado por el Se 
+<choice><orig>Jues</orig><reg type="spanish">Juez</reg></choice>
+de testamento y obras 
+<choice><orig>pias</orig><reg type="spanish">pías</reg></choice>
+y 
+<choice><orig>Capellania</orig><reg type="spanish">Capellanía</reg></choice>
+de este 
+<choice><orig>Obpdo</orig><reg type="spanish">Obispado</reg></choice>
+<choice><orig>prosedi</orig><reg type="spanish">prosedí</reg></choice>
+<choice><orig>hazen</orig><reg type="spanish">hacen</reg></choice>
+<br>
+el cotejo de el instrumento que antessede con su 
+<br>
+Original Zapoteco, y 
+<choice><orig>haye</orig><reg type="spanish">haya</reg></choice>
+<choice><orig>segun</orig><reg type="spanish">según</reg></choice>
+mi leal saber y 
+<br>
+entender estar sacada fielmente a la letra sin 
+<br>
+añadir ni quitar y por sea verdad lo de claro 
+<br>
+Socargo del juramento que a ## su Merced 
+<br>
+<pb n="4"/><br>
+tengo fecho en que me afirmo, y ratifico y lo 
+<choice><orig>fir</orig><reg type="spanish">firme</reg></choice>
+<br>
+me en esta ciudad de 
+<choice><orig>Anteqa</orig><reg type="spanish">Antequera</reg></choice>
+y 
+<choice><orig>Novie</orig><reg type="spanish">Noviembre</reg></choice>
+20 de 17## 
+<br>
+Manuel 
+<choice><orig>Diaz</orig><reg type="spanish">Diez</reg></choice>
+<choice><orig>yntepte</orig><reg type="spanish">interprete</reg></choice>
+<choice><orig>Nomvdo</orig><reg type="spanish">Nombrado</reg></choice>
