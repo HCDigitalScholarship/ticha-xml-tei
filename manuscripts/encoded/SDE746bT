@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="TEISchema_current.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<text>
+<pb n="1"/><br>
+Yo Don Pedro de Zarate Cassique 
+<choice><orig>Vezino</orig><reg type="spanish">Vecino</reg></choice>
+de esta Ciudad por Recomendación de 
+<choice><orig>Dn</orig><reg type="spanish">Don</reg></choice>
+Joseph de Silva, tradussí, esta 
+<choice><orig>Escriptura</orig><reg type="spanish">Escritura</reg></choice>
+de la 
+<choice><orig>ydioma</orig><reg type="spanish">idioma</reg></choice>
+Zapoteca, en que se 
+<choice><orig>haia</orig><reg type="spanish">haya</reg></choice>
+su original, a la Castellana, 
+<choice><orig>cuio</orig><reg type="spanish">cuyo</reg></choice>
+thenor, es como se sigue 
+<br>
+Aquí en el Pueb de 
+<choice><orig>Sto</orig><reg type="spanish">Santo</reg></choice>
+Domingo de la Villa de Etla del Estado y Marquezado del Valle 
+<choice><orig>oy</orig><reg type="spanish">hoy</reg></choice>
+<choice><orig>Juebes</orig><reg type="spanish">Jueves</reg></choice>
+a qunize días del 
+<choice><orig>mes</orig><reg type="spanish">mis</reg></choice>
+de Diziembre, de mil setecientos quarenta, y seis años, Aquí ante los dos Principales Alcaldes ordinarios, Juan Lopes, 
+<choice><orig>tamvién</orig><reg type="spanish">también</reg></choice>
+los dos Principales Regidores Mayor, Andres de la Cruz 
+<choice><orig>tamvién</orig><reg type="spanish">también</reg></choice>
+Simón Juares (Hinó?), y los tres testigos Ambrossio Luíz Ramires Franco, de San Miguel, 
+<choice><orig>tamvién</orig><reg type="spanish">también</reg></choice>
+<choice><orig>Ygnacio</orig><reg type="spanish">Ignacio</reg></choice>
+Perez todas Personas y naturales del mismo Pueb y yo el 
+<choice><orig>escrivano</orig><reg type="spanish">escribano</reg></choice>
+doy fe, palabra de Verdad. Compareció María de Chaves Viuda que fue del difunto Balthazar 
+<choice><orig>Mdes</orig><reg type="spanish">Mendes</reg></choice>
+de Silva las dos su hija Michaela Mendes de Silva, personas y naturales del mismo Pueb piden 
+<choice><orig>licencia</orig><reg type="spanish">licencia</reg></choice>
+para que vendan realmente, un 
+<choice><orig>pedasso</orig><reg type="spanish">pedazo</reg></choice>
+de tierra suyo lo que fueron 
+<choice><orig>eredados</orig><reg type="spanish">heredados</reg></choice>
+con su hija en la clausula del testamento del difunto su marido Balthazar Mendes de Silva, y esta tierra está en el lugar donde le 
+<choice><orig>disen</orig><reg type="spanish">dicen</reg></choice>
+loo guiaa tioby (que quiere decir) Loma pelada que que es tierra de temporal, y 
+<choice><orig>assí</orig><reg type="spanish">así</reg></choice>
+mismo preguntó, el cassique 
+<choice><orig>Justicia</orig><reg type="spanish">Justicia</reg></choice>
+los dos y su hijo por que de (?) verdad, si es por su querer 
+<choice><orig>vien</orig><reg type="spanish">bien</reg></choice>
+venden la tierra suya 
+<choice><orig>aora</orig><reg type="spanish">ahora</reg></choice>
+ves pondieron, 
+<choice><orig>dixieron</orig><reg type="spanish">dijeron</reg></choice>
+<choice><orig>Sres</orig><reg type="spanish">Señores</reg></choice>
+Cassiques Justicias 
+<br>
+<pb n="2"/> 
+<choice><orig>Verdaderamte</orig><reg type="spanish">Verdaderamente</reg></choice>
+<choice><orig>assemos</orig><reg type="spanish">hacemos</reg></choice>
+el 
+<choice><orig>Juramto</orig><reg type="spanish">Juramento</reg></choice>
+y 
+<choice><orig>asemos</orig><reg type="spanish">hacemos</reg></choice>
+por y la Señal de la 
+<choice><orig>Sta</orig><reg type="spanish">Santa</reg></choice>
+Cruz Verdad, que Vendemos 
+<choice><orig>realmte</orig><reg type="spanish">realmente</reg></choice>
+el mismo nuestro Sitio, compra el Principal Joseph de Silva, nos da 
+<choice><orig>doze</orig><reg type="spanish">doce</reg></choice>
+<choice><orig>pessos</orig><reg type="spanish">pesos</reg></choice>
+en Reales puesta efectiva la tomamos en nuestras Manos, día que tuvimos 
+<choice><orig>nessecidad</orig><reg type="spanish">necesidad</reg></choice>
+todo 
+<choice><orig>assí</orig><reg type="spanish">así</reg></choice>
+declaro los dos hijos María de Chaves aquí ante la noticia, por el tanto declara, y 
+<choice><orig>seniala</orig><reg type="spanish">señala</reg></choice>
+como son los linderos en contorno de esta tierra 
+<choice><orig>acia</orig><reg type="spanish">hacía</reg></choice>
+por donde 
+<choice><orig>nase</orig><reg type="spanish">nace</reg></choice>
+el sol, Junta tierra del 
+<choice><orig>Sto</orig><reg type="spanish">Santo</reg></choice>
+(?) (homo?) esta clavado piedra que es lindero (?) por el Norte Junta con la propia del 
+<choice><orig>Sto</orig><reg type="spanish">Santo</reg></choice>
+(?) (homo?) 
+<br>
+piedra esta clavado es lindero, 
+<choice><orig>acia</orig><reg type="spanish">hacía</reg></choice>
+donde se mete el sol Junta la tierra del mismo Principal Joseph de Silva sanja, y culebrina de tierra del divinissimo, y Santissimo 
+<choice><orig>Sacramto</orig><reg type="spanish">Sacramento</reg></choice>
+Sanja grande es lindero asieron los 
+<choice><orig>quatro</orig><reg type="spanish">cuatro</reg></choice>
+vientos de esta tierra declaró, la 
+<choice><orig>dha</orig><reg type="spanish">dicha</reg></choice>
+María de Chaves los dos y su hija, Michaela de Silva 
+<choice><orig>aora</orig><reg type="spanish">ahora</reg></choice>
+disen, que se apartan, y se eximen de todo lo que es el poder suyo que (?) de esta tierra ara lo deja, y lo 
+<choice><orig>entriega</orig><reg type="spanish">entrega</reg></choice>
+en los manos del Principal Joseph de Silva, que 
+<br>
+<pb n="3"/><br>
+sea suyo, y de sus hijos y nietos, 
+<choice><orig>aora</orig><reg type="spanish">ahora</reg></choice>
+y siempre, 
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+ninguno mencione ni pida esta tierra en otra ves- y si alguno hisiere, o contra dexiere, o pidiere en otra ocasión que por entonces demostraran papel Escriptura, esta, ante la 
+<choice><orig>Justicia</orig><reg type="spanish">Justicia</reg></choice>
+Mayor pagaran pena ocho 
+<choice><orig>pessos</orig><reg type="spanish">pesos</reg></choice>
+que se haga Gasto de 
+<choice><orig>qualquiera</orig><reg type="spanish">cualquiera</reg></choice>
+<choice><orig>Justicia</orig><reg type="spanish">Justicia</reg></choice>
+todo 
+<choice><orig>assí</orig><reg type="spanish">así</reg></choice>
+<choice><orig>dixo</orig><reg type="spanish">dijo</reg></choice>
+por su voca propia la persona que vendió esta tierra, y lo, oyeron los tres testigos, y 
+<choice><orig>assí</orig><reg type="spanish">así</reg></choice>
+mismo pongo yo el 
+<choice><orig>Escrivano</orig><reg type="spanish">Escribano</reg></choice>
+firmas suyas 
+<choice><orig>tamvién</orig><reg type="spanish">también</reg></choice>
+de un Alcalde, y otro Rexidor, y 
+<choice><orig>assí</orig><reg type="spanish">así</reg></choice>
+todos 
+<choice><orig>saven</orig><reg type="spanish">saben</reg></choice>
+de letras, y por lo 
+<choice><orig>qual</orig><reg type="spanish">cual</reg></choice>
+<choice><orig>doi</orig><reg type="spanish">doy</reg></choice>
+fe verdad, 
+<choice><orig>oy</orig><reg type="spanish">hoy</reg></choice>
+día 
+<choice><orig>mes</orig><reg type="spanish">mis</reg></choice>
+y año- 
+<choice><orig>Ale</orig><reg type="spanish">Alcalde</reg></choice>
+<choice><orig>Dn</orig><reg type="spanish">Don</reg></choice>
+Julian Franco y Carasco- María de Chaves- Michaela de Chave de Silva Alcalde Juan Lopes- Regidor Andres de la Cruz- testigo. Ambrosio Luiz Ramires- Regidor Simón Juares testigo. Franco de San Miguel- 
+<choice><orig>Ygnacio</orig><reg type="spanish">Ignacio</reg></choice>
+Perez- Ante mi 
+<choice><orig>Anto</orig><reg type="spanish">Antonio</reg></choice>
+Mendes 
+<choice><orig>Escrivano</orig><reg type="spanish">Escribano</reg></choice>
+<br>
+Concuerda con su original Zapoteco a el que me Remito, y juro en forma de dio, estar fielmente sacado, consertado y corregido 
+<choice><orig>según</orig><reg type="spanish">según</reg></choice>
+mi leal saber y entender, y por que conste lo firmé en esta Ciudad de Antequera Valle de 
+<choice><orig>Oaxca</orig><reg type="spanish">Oaxaca</reg></choice>
+en ocho días del 
+<choice><orig>mes</orig><reg type="spanish">mis</reg></choice>
+de 
+<choice><orig>Novie</orig><reg type="spanish">Noviembre</reg></choice>
+de mil setecientos 
+<choice><orig>quarenta</orig><reg type="spanish">cuarenta</reg></choice>
+y nueve años- entre (Vings?)- con su hija- en (mdo?) Vendemos- Ve 
+<br>
+Pedro de Zarate 
+<br>
+En obedecimiento y cumplimiento de lo man 
+<br>
+<pb n="4"/><br>
+dado por el 
+<choice><orig>Sr</orig><reg type="spanish">Señor</reg></choice>
+<choice><orig>Jues</orig><reg type="spanish">Juez</reg></choice>
+de testamentos, Capellanía obra pía de este Obispado 
+<choice><orig>prosedí</orig><reg type="spanish">procedí</reg></choice>
+<choice><orig>hazer</orig><reg type="spanish">hacer</reg></choice>
+el cotejo de el instrumento que antesse de con su original Zapoteco, y 
+<choice><orig>haye</orig><reg type="spanish">haya</reg></choice>
+<choice><orig>según</orig><reg type="spanish">según</reg></choice>
+mi leal saber y entender estar sacado fielmente a la letra sin añadir ni quitar y por ser verdad lo declaro (socargo?) del juramto, y ratifico y lo firmé e esta ciudad de 
+<choice><orig>Anteqa</orig><reg type="spanish">Antequera</reg></choice>
+y 
+<choice><orig>Novie</orig><reg type="spanish">Noviembre</reg></choice>
+18 de 1749 
+<br>
+Manuel Díaz 
+<choice><orig>Yntepte</orig><reg type="spanish">Interprete</reg></choice>
+Nombrado 
