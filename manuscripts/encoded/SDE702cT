@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="TEISchema_current.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<text>
+<pb n="1"/>
+naturales de Santo Domingo vendieron a Joseph 
+<br>
+de Silva una suerte de tierra de dos medidas 
+<br>
+grandes que esta en el parage 
+<choice><orig>nombrado</orig><reg type="spanish">nombrado</reg></choice>
+Rua 
+<br>
+guere por veinte 
+<choice><orig>ps</orig><reg type="spanish">pesos</reg></choice>
+Linda por el oriente 
+<br>
+con tierras del 
+<choice><orig>dho</orig><reg type="spanish">dicho</reg></choice>
+Silva Por el Poniente con 
+<br>
+tierras de thomas lopez. Por el Norte con 
+<br>
+tierras de Pasqual Gonzales. Y por el sur 
+<br>
+con tierras del mismo Joseph de Silva. Se 
+<br>
+otorgo esta escritura siendo Gondr Diego 
+<br>
+Vasques en 8 de Marzo de Doz por ante 
+<br>
+Domingo de La Cruz 
+<choice><orig>escrivano</orig><reg type="spanish">escribano</reg></choice>
+de cabil- 
+<br>
+do- 20 
+<choice><orig>ps</orig><reg type="spanish">pesos</reg></choice>
