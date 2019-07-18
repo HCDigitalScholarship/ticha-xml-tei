@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="TEISchema_current.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<text>
+<pb n="1"/><br>
+Yo 
+<choice><orig>Dn</orig><reg type="spanish">Don</reg></choice>
+Pedro de Zarate Casique 
+<choice><orig>Vesino</orig><reg type="spanish">Vecino</reg></choice>
+de esta Ciudad a pedimento de 
+<choice><orig>Dn</orig><reg type="spanish">Don</reg></choice>
+Joseph de Silva 
+<choice><orig>tradussí</orig><reg type="spanish">traducí</reg></choice>
+esta 
+<choice><orig>Escriptura</orig><reg type="spanish">Escritura</reg></choice>
+de la 
+<choice><orig>ydioma</orig><reg type="spanish">idioma</reg></choice>
+<choice><orig>Sapoteca</orig><reg type="spanish">Zapoteca</reg></choice>
+en que se 
+<choice><orig>haia</orig><reg type="spanish">haya</reg></choice>
+su original, a la Castellana, 
+<choice><orig>cuio</orig><reg type="spanish">cuyo</reg></choice>
+<choice><orig>thenor</orig><reg type="spanish">tenor</reg></choice>
+es como se sigue- 
+<br>
+Aquí en el Pueb de 
+<choice><orig>Sto</orig><reg type="spanish">Santo</reg></choice>
+Domingo de la Villa de Etla del Estado y Marquezado del Valle 
+<choice><orig>aora</orig><reg type="spanish">ahora</reg></choice>
+lunes 
+<choice><orig>quinze</orig><reg type="spanish">quince</reg></choice>
+días del 
+<choice><orig>mes</orig><reg type="spanish">mis</reg></choice>
+de 
+<choice><orig>Noviembre</orig><reg type="spanish">Noviembre</reg></choice>
+de mil 
+<choice><orig>setesientos</orig><reg type="spanish">setecientos</reg></choice>
+<choice><orig>quarenta</orig><reg type="spanish">cuarenta</reg></choice>
+y un años, aquí ante los Principales Alcaldes Ordinarios Sebastian de la thorres, Bernardo Carrasco, y los dos Principales Regidores suyos, Andres de la Cruz, Nicolas Peres, 
+<choice><orig>tamvién</orig><reg type="spanish">también</reg></choice>
+los testigos y yo el 
+<choice><orig>escrivano</orig><reg type="spanish">escribano</reg></choice>
+<choice><orig>doi</orig><reg type="spanish">doy</reg></choice>
+fe de verdad como 
+<choice><orig>conosco</orig><reg type="spanish">conozco</reg></choice>
+compareció Bartholome Ramires hijo ligitimo del difunto Nicolas Ramires Sebastiana Mendes Naturales y vecinos 
+<choice><orig>deste</orig><reg type="spanish">de este</reg></choice>
+mismo Pueblo pidió merced ante los mismos dos Principales Alcaldes porque Vende Realmente la mita del solar de la 
+<choice><orig>cassa</orig><reg type="spanish">casa</reg></choice>
+la que 
+<choice><orig>eredo</orig><reg type="spanish">heredo</reg></choice>
+en la clausula de testamento del difunto su Padre, y esta tierra del solar de 
+<choice><orig>cassa</orig><reg type="spanish">casa</reg></choice>
+esta en el lugar donde le 
+<choice><orig>disen</orig><reg type="spanish">dicen</reg></choice>
+Vua neza lluy que quiere 
+<choice><orig>desir</orig><reg type="spanish">decir</reg></choice>
+Voca del camino Real es poco que se 
+<choice><orig>haia</orig><reg type="spanish">haya</reg></choice>
+en un este lugar que son dos particiones, la una partición es suya de su hermano Joseph Ramires y queda solo la parte suya, vende realmente la compra el Principal Joseph de Silva por el tanto 
+<choice><orig>Recivió</orig><reg type="spanish">Recibió</reg></choice>
+el Principal Alcalde Sebastian de la 
+<choice><orig>thorres</orig><reg type="spanish">torres</reg></choice>
+<br>
+<pb n="2"/><br>
+Juramento el mismo Bartholo Ramires por que declare la verdad si es su querer de su corazón vender lo que es la mitad de su parte 
+<choice><orig>aora</orig><reg type="spanish">ahora</reg></choice>
+<choice><orig>disse</orig><reg type="spanish">dice</reg></choice>
+<choice><orig>Sr</orig><reg type="spanish">Señor</reg></choice>
+Alcalde verdad 
+<choice><orig>ago</orig><reg type="spanish">hago</reg></choice>
+<choice><orig>Juramto</orig><reg type="spanish">Juramento</reg></choice>
+que 
+<choice><orig>ago</orig><reg type="spanish">hago</reg></choice>
+por 
+<choice><orig>Ds</orig><reg type="spanish">Dios</reg></choice>
+y por la señal de la cruz que es mi voluntad, de corazón vendo 
+<choice><orig>realmte</orig><reg type="spanish">realmente</reg></choice>
+lo que es de mi parte porque 
+<choice><orig>tube</orig><reg type="spanish">tuve</reg></choice>
+<choice><orig>nessecidad</orig><reg type="spanish">necesidad</reg></choice>
+<choice><orig>quando</orig><reg type="spanish">cuando</reg></choice>
+se murió el difunto mi Padre y en su enfermedad que le 
+<choice><orig>yso</orig><reg type="spanish">hizo</reg></choice>
+merced 
+<choice><orig>Ds</orig><reg type="spanish">Dios</reg></choice>
+<choice><orig>Nro</orig><reg type="spanish">Nuestro</reg></choice>
+<choice><orig>Sr</orig><reg type="spanish">Señor</reg></choice>
+yo tuve (menester?) este dinero todas estas buenas palabras declaro la Persona que vendió esta tierra 
+<choice><orig>aora</orig><reg type="spanish">ahora</reg></choice>
+lo compra el Principal Joseph de Silva en 
+<choice><orig>sinco</orig><reg type="spanish">cinco</reg></choice>
+<choice><orig>ps</orig><reg type="spanish">pesos</reg></choice>
+en Reales efectivos es verdad tomo en sus manos el Vendedo se 
+<choice><orig>acavo</orig><reg type="spanish">acabo</reg></choice>
+la buena 
+<choice><orig>compossicion</orig><reg type="spanish">composición</reg></choice>
+de los dos suya por el tanto 
+<choice><orig>aora</orig><reg type="spanish">ahora</reg></choice>
+avisa la verdad como son los linderos en contorno de este lugar 
+<choice><orig>tamvién</orig><reg type="spanish">también</reg></choice>
+mi dieron de largo esta tierra se 
+<choice><orig>hiso</orig><reg type="spanish">hizo</reg></choice>
+<choice><orig>treynta</orig><reg type="spanish">treinta</reg></choice>
+baras (digo, más nueve baras y media que por donde nasse el sol queda la 
+<choice><orig>cassa</orig><reg type="spanish">casa</reg></choice>
+de pared de Joseph Ramires su hermano chiquito, asia, el Norte se Junta donde esta la propia tierra del Principal Joseph de Silva, 
+<choice><orig>asia</orig><reg type="spanish">hacía</reg></choice>
+donde se mete el sol se Junta un poco con el sitio de 
+<choice><orig>cassa</orig><reg type="spanish">casa</reg></choice>
+del Principal Joseph de Silva 
+<choice><orig>acia</orig><reg type="spanish">hacía</reg></choice>
+a Oaxaca el mismo Principal Joseph de Silva 
+<br>
+<pb n="3"/><br>
+<choice><orig>assí</orig><reg type="spanish">así</reg></choice>
+son los linderos en contorno de esta tierra connosillo lo que es mi parte compro el Principal Joseph de Silva 
+<choice><orig>aora</orig><reg type="spanish">ahora</reg></choice>
+dise la misma Persona que vende esta tierra que se aparte y se 
+<choice><orig>dissiste</orig><reg type="spanish">desiste</reg></choice>
+de lo que es el poder suyo que tiene 
+<choice><orig>desta</orig><reg type="spanish">de esta</reg></choice>
+tierra lo 
+<choice><orig>desvia</orig><reg type="spanish">desvía</reg></choice>
+y lo echa en las Manos del mismo Joseph de Silva que haga lo que quisiere por que ya es suya de sus vienes, en lo venidero que ninguno lo mencionen y pidan esta tierra otra ves se 
+<choice><orig>acasso</orig><reg type="spanish">acaso</reg></choice>
+alguno mencionan o pidiere otro día que por 
+<choice><orig>entonses</orig><reg type="spanish">entonces</reg></choice>
+demuestre este papel de 
+<choice><orig>Escriptura</orig><reg type="spanish">Escritura</reg></choice>
+ante la 
+<choice><orig>Justicia</orig><reg type="spanish">Justicia</reg></choice>
+mayor pagara pena tres 
+<choice><orig>pessos</orig><reg type="spanish">pesos</reg></choice>
+que tuviere menester 
+<choice><orig>qualquier</orig><reg type="spanish">cualquier</reg></choice>
+<choice><orig>Justicia</orig><reg type="spanish">Justicia</reg></choice>
+todo 
+<choice><orig>assi</orig><reg type="spanish">así</reg></choice>
+lo mandó el Principal Alcalde lo oyeron los dos Principales Regidores y tres testigos que son el Principal Ysidro de los Reyes Pedro Joseph de Luna, y Ambrossio Luíz Ramires todos naturales de este Pueb por el tanto 
+<choice><orig>pussieron</orig><reg type="spanish">pusieron</reg></choice>
+la firma los dos Principales Alcaldes y 
+<choice><orig>tamvién</orig><reg type="spanish">también</reg></choice>
+tres testigos porque saben de letras 
+<choice><orig>assí</orig><reg type="spanish">así</reg></choice>
+mismo la Persona que 
+<choice><orig>bendió</orig><reg type="spanish">vendió</reg></choice>
+esta tierra pidió merced ante un testigo que es Ambrossio Luíz Ramirez, porque ponga la firma suya 
+<br>
+<pb n="4"/><br>
+dentro de eta 
+<choice><orig>Escriptura</orig><reg type="spanish">Escritura</reg></choice>
+porque no 
+<choice><orig>save</orig><reg type="spanish">sabe</reg></choice>
+<choice><orig>tamvién</orig><reg type="spanish">también</reg></choice>
+yo el 
+<choice><orig>escrivano</orig><reg type="spanish">escribano</reg></choice>
+pongo firma de los dos Regidores 
+<choice><orig>tamvién</orig><reg type="spanish">también</reg></choice>
+<choice><orig>doi</orig><reg type="spanish">doy</reg></choice>
+yo lo que es verdad 
+<choice><orig>dho</orig><reg type="spanish">dicho</reg></choice>
+día 
+<choice><orig>mes</orig><reg type="spanish">mis</reg></choice>
+y año- (?) medido la 
+<choice><orig>dha</orig><reg type="spanish">dicha</reg></choice>
+treinta varas y media-Bartholome Ramires- Bernardo Carrasco- Andres de la Cruz- Nicolas Peres- Sebastian de la 
+<choice><orig>thorres</orig><reg type="spanish">torres</reg></choice>
+testigo- Ysidro de los Reyes- testigo Ambrossio 
+<choice><orig>Luys</orig><reg type="spanish">Luís</reg></choice>
+Ramires- Bernardo Joseph y Luna- Ante mi 
+<choice><orig>Ygnacio</orig><reg type="spanish">Ignacio</reg></choice>
+<choice><orig>Peres</orig><reg type="spanish">Perez</reg></choice>
+Essno- 
+<br>
+El 
+<choice><orig>qual</orig><reg type="spanish">cual</reg></choice>
+esta sacado y consertado 
+<choice><orig>según</orig><reg type="spanish">según</reg></choice>
+mi leal saver, y entender y por ser verdad, 
+<choice><orig>assí</orig><reg type="spanish">así</reg></choice>
+lo Juro por 
+<choice><orig>Ds</orig><reg type="spanish">Dios</reg></choice>
+<choice><orig>Nro</orig><reg type="spanish">Nuestro</reg></choice>
+<choice><orig>Sr</orig><reg type="spanish">Señor</reg></choice>
+y la señal de la 
+<choice><orig>Sta</orig><reg type="spanish">Santa</reg></choice>
+Cruz enforma de dio, y firmo 
+<choice><orig>Anteqa</orig><reg type="spanish">Antequera</reg></choice>
+y 
+<choice><orig>Noviembre</orig><reg type="spanish">Noviembre</reg></choice>
+<choice><orig>doze</orig><reg type="spanish">doce</reg></choice>
+de mil setecientos, quarenta, y nueve años- en (mdo?)- mi p-p-ve 
+<br>
+Pedro de Zarate 
+<br>
+En obedecimiento, y cumplimiento de lo mandado por el 
+<choice><orig>Sr</orig><reg type="spanish">Señor</reg></choice>
+<choice><orig>Jues</orig><reg type="spanish">Juez</reg></choice>
+de testamento, Capellanías, y obras pías de este 
+<choice><orig>Obpdo</orig><reg type="spanish">Obispado</reg></choice>
+prosedí, 
+<choice><orig>hazer</orig><reg type="spanish">hacer</reg></choice>
+el cotejo de el instrumento que antesse de mi leal saber, y entender estar sacado fielmente a la letra sin añadir ni quitar, y por ser verdad lo declaro (socargo?) del jura 
+<br>
+<pb n="5"/><br>
+mento que ante su merced tengo 
+<choice><orig>dho</orig><reg type="spanish">dicho</reg></choice>
+en que me afirmo, y ratifico y lo firme en esta ciudad de Antequera y 
+<choice><orig>Novie</orig><reg type="spanish">Noviembre</reg></choice>
+19 de 1749 
+<br>
+Manuel Díaz 
+<choice><orig>Ynterprete</orig><reg type="spanish">Interprete</reg></choice>
+<choice><orig>Nombrado</orig><reg type="spanish">Nombrado</reg></choice>
