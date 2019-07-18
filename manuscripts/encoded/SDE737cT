@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="TEISchema_current.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<text>
+<pb n="1"/>
+Yo 
+<choice><orig>Dn</orig><reg type="spanish">Don</reg></choice>
+Pedro de Zarate Cassique 
+<choice><orig>Vezino</orig><reg type="spanish">Vecino</reg></choice>
+<choice><orig>desta</orig><reg type="spanish">de esta</reg></choice>
+Ciudad, por 
+<br>
+Recommendacion de 
+<choice><orig>Dn</orig><reg type="spanish">Don</reg></choice>
+Joseph de Silva 
+<choice><orig>trassumpte</orig><reg type="spanish">trasumpte</reg></choice>
+esta 
+<choice><orig>escriptura</orig><reg type="spanish">escritura</reg></choice>
+de la 
+<choice><orig>ydioma</orig><reg type="spanish">idioma</reg></choice>
+Zapoteca, en que se haía, su o<br>
+riginal, a el castellano, 
+<choice><orig>cuio</orig><reg type="spanish">cuyo</reg></choice>
+tenor, es como se sigue- 
+<br>
+En el Pueblo de 
+<choice><orig>S[an]to</orig><reg type="spanish">Santo</reg></choice>
+Domingo de la Villa de Etla del Estado, y 
+<br>
+Marquezado del Valle. 
+<choice><orig>Oy</orig><reg type="spanish">Hoy</reg></choice>
+día martes, a ocho 
+<choice><orig>dias</orig><reg type="spanish">días</reg></choice>
+del 
+<choice><orig>mes</orig><reg type="spanish">mis</reg></choice>
+de 
+<choice><orig>Octuvre</orig><reg type="spanish">Octubre</reg></choice>
+de mil setecientos, treynta, y siete años 
+<br>
+aquí ante el Principal Alcalde Juan Lopes, y Gabriel 
+<br>
+Ramos Regidor, y testigos, 
+<choice><orig>tamvien</orig><reg type="spanish">también</reg></choice>
+yo escrivano, doy 
+<br>
+fe de verdad 
+<choice><orig>conosco</orig><reg type="spanish">conozco</reg></choice>
+compareció Mathias Gonzales=<br>
+los dos y su 
+<choice><orig>muger</orig><reg type="spanish">mujer</reg></choice>
+Magdalena de Santiago Persona 
+<br>
+natural el 
+<choice><orig>mesmo</orig><reg type="spanish">mismo</reg></choice>
+Pueb de 
+<choice><orig>Sto</orig><reg type="spanish">Santo</reg></choice>
+Domingo, pidieron licen<br>
+cia y merced al 
+<choice><orig>mesmo</orig><reg type="spanish">mismo</reg></choice>
+Principal Alcalde porque 
+<br>
+venden realmente un pedazo de tierra de temporal 
+<br>
+suyo, que es tierra comprada la mita que 
+<choice><orig>eredo</orig><reg type="spanish">heredo</reg></choice>
+por la 
+<br>
+clausula de testamto de la difunta su madre Clara 
+<br>
+Gonzales, esta tierra es en el lugar donde le 
+<choice><orig>disen</orig><reg type="spanish">dicen</reg></choice>
+<br>
+rua neeza yuij (que quiere 
+<choice><orig>decir</orig><reg type="spanish">decir</reg></choice>
+la orilla del cami<br>
+no real. 
+<choice><orig>Acía</orig><reg type="spanish">Hacía</reg></choice>
+donde 
+<choice><orig>nase</orig><reg type="spanish">nace</reg></choice>
+el sol junta con la sementera 
+<br>
+di Christina Baptista está el camino Real<br>
+grande es lindero 
+<choice><orig>acia</orig><reg type="spanish">hacía</reg></choice>
+a el Norte Junta la seme=<br>
+ntera del difunto Diego Juares esta piedra cla<br>
+vada, es lindero, 
+<choice><orig>acia</orig><reg type="spanish">hacía</reg></choice>
+donde se mete el sol, junta 
+<br>
+el sitio, del Principal Joseph de Silva, esta clavado pie<br>
+dra, es lindero, 
+<choice><orig>acia</orig><reg type="spanish">hacía</reg></choice>
+a Oaxaca, junta el 
+<choice><orig>mesmo</orig><reg type="spanish">mismo</reg></choice>
+sitio 
+<br>
+<pb n="2"/>
+Del Principal Joseph de Silva esta clavada piedra 
+<br>
+es lindero 
+<choice><orig>assi</orig><reg type="spanish">así</reg></choice>
+son los linderos en contorno la tierra 
+<choice><orig>aora</orig><reg type="spanish">ahora</reg></choice>
+le tomó el Principal Alcalde Juramento,<br>
+los dos con su 
+<choice><orig>muger</orig><reg type="spanish">mujer</reg></choice>
+las Personas que 
+<choice><orig>benden</orig><reg type="spanish">venden</reg></choice>
+la tierra 
+<br>
+que digan la verdad si es por su bien querer y de cora<br>
+zón venden lo que es su sitio, tamvien, si tienen, otros 
+<choice><orig>pedasos</orig><reg type="spanish">pedazos</reg></choice>
+de tierras que sean de sus hijos, y nietos 
+<br>
+aora, respondieron la verdad 
+<choice><orig>disen</orig><reg type="spanish">dicen</reg></choice>
+la verdad, a<br>
+semos Juramento, y 
+<choice><orig>assemos</orig><reg type="spanish">hacemos</reg></choice>
+por Ds. H.S. y 
+<choice><orig>tamvien</orig><reg type="spanish">también</reg></choice>
+la señal de la cruz, verdaderamente vendemos, lo 
+<br>
+que es nuestro sitio, porque tenemos 
+<choice><orig>mas</orig><reg type="spanish">más</reg></choice>
+otras 
+<br>
+suertes de tierras donde sean suyos de nuestros 
+<br>
+hijos, y nietos, 
+<choice><orig>aora</orig><reg type="spanish">ahora</reg></choice>
+y siempre 
+<choice><orig>aora</orig><reg type="spanish">ahora</reg></choice>
+verdad la com<br>
+pra el Principal Joseph de Silva, le da 
+<choice><orig>dies</orig><reg type="spanish">diez</reg></choice>
+<choice><orig>pessos</orig><reg type="spanish">pesos</reg></choice>
+<br>
+en plata efectiva, tomó en sus manos Mathias 
+<br>
+Gonazales los dos con su 
+<choice><orig>muger</orig><reg type="spanish">mujer</reg></choice>
+Magdalena de San<br>
+tiago, 
+<choice><orig>tamvien</orig><reg type="spanish">también</reg></choice>
+está el Principal Joseph de Silva 
+<br>
+oyo, y entendio 
+<choice><orig>tamvien</orig><reg type="spanish">también</reg></choice>
+se le entrega esta tierra 
+<choice><orig>tamvien</orig><reg type="spanish">también</reg></choice>
+se le da posesión, 
+<choice><orig>aora</orig><reg type="spanish">ahora</reg></choice>
+<choice><orig>disen</orig><reg type="spanish">dicen</reg></choice>
+las Personas 
+<br>
+que bendieron esta tierra que se apartan, y se de<br>
+sisten, todo el poder suyo que tenía de esta tierra 
+<br>
+se lo da y se lo 
+<choice><orig>entriega</orig><reg type="spanish">entrega</reg></choice>
+en las manos del 
+<choice><orig>mesmo</orig><reg type="spanish">mismo</reg></choice>
+<br>
+Principal Joseph de Silva que sea de sus hijos,<br>
+y nietos, aora, y siempre que 
+<choice><orig>aga</orig><reg type="spanish">haga</reg></choice>
+lo que le paresi 
+<br>
+<pb n="3"/>
+Pareciere porque ya es suyo, de sus vienes 
+<choice><orig>estan</orig><reg type="spanish">están</reg></choice>
+los=<br>
+testigos para que defiendan esta tierra en otro=<br>
+<choice><orig>dia</orig><reg type="spanish">día</reg></choice>
+o tiempo 
+<choice><orig>tamvien</orig><reg type="spanish">también</reg></choice>
+madaron los Principales, A=<br>
+lcaldes ordinarios, si alguno mencione o pida estar 
+<br>
+tierra, otra ves, que por entonces de mostrarán, 
+<choice><orig>pa</orig><reg type="spanish">para</reg></choice>
+pel de 
+<choice><orig>Escriptura</orig><reg type="spanish">Escritura</reg></choice>
+de Venta, aquí a ante la Justi<br>
+cia Mayor, entonces pagarán pena 
+<choice><orig>doze</orig><reg type="spanish">doce</reg></choice>
+pesos=<br>
+y un mes de Carzel, la mita de la pena para el gasto<br>
+que se compre aserte que arda la lampara del Di<br>
+vinissimo, y la otra mita pasa el gasto de 
+<choice><orig>qual</orig><reg type="spanish">cual</reg></choice>
+quiera 
+<choice><orig>Justicia</orig><reg type="spanish">Justicia</reg></choice>
+todo 
+<choice><orig>assi</orig><reg type="spanish">así</reg></choice>
+mandaron los Princi<br>
+pales Alcaldes, ordinarios, se escrivió, en esta<br>
+<choice><orig>Escriptura</orig><reg type="spanish">Escritura</reg></choice>
+de Venta, que es a favor del mesmo- 
+<br>
+Principal Joseph de Silva, y 
+<choice><orig>assí</orig><reg type="spanish">así</reg></choice>
+mismo pongo, yo 
+<br>
+el 
+<choice><orig>escrivano</orig><reg type="spanish">escribano</reg></choice>
+firma del Principal Alcalde, tam<br>
+<choice><orig>vien</orig><reg type="spanish">bien</reg></choice>
+de las Personas que vendieron esta tierra, por 
+<br>
+que no saben de letras, ante el testigo, Pedro Mrn, tam<br>
+<choice><orig>vien</orig><reg type="spanish">bien</reg></choice>
+Ambrossio Ramires, y Yo el 
+<choice><orig>escrivano</orig><reg type="spanish">escribano</reg></choice>
+doy fe de 
+<br>
+verdad, el 
+<choice><orig>mesmo</orig><reg type="spanish">mismo</reg></choice>
+<choice><orig>dia</orig><reg type="spanish">día</reg></choice>
+mas, y año.= Juan 
+<choice><orig>Lopes</orig><reg type="spanish">Lopez</reg></choice>
+Alcde= 
+<br>
+Gabriel Ramos = Mathias Gonzales = Magdalena de 
+<br>
+Santiago = testigo Pedro Mrn= A Rgo. y por testigo=<br>
+Ambrossio Luiz Ramires=Ante mi 
+<choice><orig>Ygnacio</orig><reg type="spanish">Ignacio</reg></choice>
+Perez 
+<choice><orig>Esscrivano</orig><reg type="spanish">Escribano</reg></choice>
+<br>
+de Repp(?)ca= 
+<br>
+Concuerda con su original Zapoteco a el que me remito, y Ju<br>
+=ro en en forma de dño, estar fielmente sacado, y corregido= 
+<choice><orig>segun</orig><reg type="spanish">según</reg></choice>
+mi leal saber y entender, y porque conste lo 
+<choice><orig>fir</orig><reg type="spanish">firme</reg></choice>
+mí, en esta Ciudad de Antequera Valle de Oaxaca 
+<br>
+<pb n="4"/>
+en 
+<choice><orig>quinze</orig><reg type="spanish">quince</reg></choice>
+<choice><orig>dias</orig><reg type="spanish">días</reg></choice>
+del 
+<choice><orig>mes</orig><reg type="spanish">mis</reg></choice>
+de 
+<choice><orig>Noviembre</orig><reg type="spanish">Noviembre</reg></choice>
+de mil setecientos, 
+<br>
+quarenta, y nueve años= 
+<br>
+Pedro de Zarate 
+<br>
+En obedecimiento y cumplimiento de lo manda<br>
+do por el 
+<choice><orig>Sr</orig><reg type="spanish">Señor</reg></choice>
+Juez de testamentos 
+<choice><orig>Capellanias</orig><reg type="spanish">Capellanías</reg></choice>
+y O<br>
+bras 
+<choice><orig>pias</orig><reg type="spanish">pías</reg></choice>
+de este 
+<choice><orig>Obpdo</orig><reg type="spanish">Obispado</reg></choice>
+prosedí, 
+<choice><orig>hazer</orig><reg type="spanish">hacer</reg></choice>
+el cotejo de<br>
+el instrumento al antessede con su original Zapote<br>
+co, y 
+<choice><orig>haye</orig><reg type="spanish">haya</reg></choice>
+<choice><orig>segun</orig><reg type="spanish">según</reg></choice>
+mi leal saber, 
+<choice><orig>i</orig><reg type="spanish">y</reg></choice>
+entender estar sa<br>
+cado 
+<choice><orig>fielmte</orig><reg type="spanish">fielmente</reg></choice>
+a la letra sin añadir ni quitar, y por ser 
+<br>
+verdad lo declaro socargo del juramento quantes 
+<br>
+su merced tengo 
+<choice><orig>fho</orig><reg type="spanish">fecho</reg></choice>
+en 
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+me afirmo y ratifico y lo 
+<br>
+me en esta de 
+<choice><orig>Anteqa</orig><reg type="spanish">Antequera</reg></choice>
+y 
+<choice><orig>Novie</orig><reg type="spanish">Noviembre</reg></choice>
+21 de 1749- 
+<br>
+Manuel 
+<choice><orig>Dia</orig><reg type="spanish">Día</reg></choice>
+yntepre. Nom. V.do 
