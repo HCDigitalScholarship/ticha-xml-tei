@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="TEISchema_current.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<text>
+<pb n="1"/><br>
+Yo Don Pedro de Zarate Cassique 
+<choice><orig>Vezino</orig><reg type="spanish">Vecino</reg></choice>
+de esta Ciu<br>
+dad, por recomendación de Don Joseph de Silva 
+<choice><orig>tradussí</orig><reg type="spanish">traducí</reg></choice>
+<br>
+esta 
+<choice><orig>Escriptura</orig><reg type="spanish">Escritura</reg></choice>
+de la 
+<choice><orig>ydioma</orig><reg type="spanish">idioma</reg></choice>
+<choice><orig>Sapoteca</orig><reg type="spanish">Zapoteca</reg></choice>
+en que se halla 
+<br>
+su original a la Castellana, 
+<choice><orig>cuio</orig><reg type="spanish">cuyo</reg></choice>
+tenor es como se sigue- 
+<br>
+Aquí en el Pueblo de Santo Domingo de la Villa de Etla 
+<br>
+y Marquezado del Valle 
+<choice><orig>oi</orig><reg type="spanish">hoy</reg></choice>
+Jueves a veinte y un días del 
+<choice><orig>mes</orig><reg type="spanish">mis</reg></choice>
+de Julio de mil 
+<choice><orig>setesientos</orig><reg type="spanish">setecientos</reg></choice>
+y quarenta, ante los dos 
+<br>
+Alcaldes ordinarios, Ysidro de los Reyes natural y 
+<choice><orig>vezino</orig><reg type="spanish">vecino</reg></choice>
+<br>
+de Santos Reyes, francisco de Santiago también 
+<choice><orig>Rexidores</orig><reg type="spanish">Regidores</reg></choice>
+suyos Sebastian de la thorres, Nicolas hernandes, y 
+<br>
+testigos también yo 
+<choice><orig>Escrivano</orig><reg type="spanish">Escribano</reg></choice>
+<choice><orig>doi</orig><reg type="spanish">doy</reg></choice>
+<choice><orig>fee</orig><reg type="spanish">fe</reg></choice>
+de verdad y 
+<choice><orig>conosco</orig><reg type="spanish">conozco</reg></choice>
+<br>
+compareció Gertrudes Martín (?) que es del difunto 
+<br>
+Andres Martín también los dos hijos suyos que los (huivo?) 
+<br>
+en vida del difunto su marido todos son Personas 
+<br>
+naturales de este Pueblo pidieron 
+<choice><orig>licencia</orig><reg type="spanish">licencia</reg></choice>
+y Merced 
+<br>
+ante mismo Principal Alcaldes por que se haga papel 
+<br>
+de 
+<choice><orig>Escriptura</orig><reg type="spanish">Escritura</reg></choice>
+de un 
+<choice><orig>pedaso</orig><reg type="spanish">pedazo</reg></choice>
+de (?) compraron 
+<br>
+con el difunto su marido Andres Martín por 
+<choice><orig>onze</orig><reg type="spanish">once</reg></choice>
+<choice><orig>ps</orig><reg type="spanish">pesos</reg></choice>
+<br>
+que 
+<choice><orig>ay</orig><reg type="spanish">hay</reg></choice>
+papel de 
+<choice><orig>Escriptura</orig><reg type="spanish">Escritura</reg></choice>
+de esta tierra esta en el lugar 
+<br>
+donde esta la hermita que el tierra de riego, y 
+<choice><orig>cave</orig><reg type="spanish">cabe</reg></choice>
+<br>
+diez y ocho almudes de trigo 
+<choice><orig>aora</orig><reg type="spanish">ahora</reg></choice>
+verde 
+<choice><orig>realmte</orig><reg type="spanish">realmente</reg></choice>
+y 
+<br>
+la compra el Principal Joseph de Silva natural y 
+<choice><orig>vezino</orig><reg type="spanish">vecino</reg></choice>
+<choice><orig>assi</orig><reg type="spanish">así</reg></choice>
+mismo de esta Pueblo y por el tanto 
+<choice><orig>recivió</orig><reg type="spanish">recibió</reg></choice>
+<br>
+el Principal Alcalde Ysidro de los Reyes Ju<br>
+ramento el mismo Persona que vende esta tierra 
+<choice><orig>porq</orig><reg type="spanish">porque</reg></choice>
+diga la verdad, que si, por bien querer, y de corazón 
+<br>
+que vende realmente lo que es su sitio y también se tiene 
+<br>
+más otras partes de tierras donde sea suyo de sus 
+<br>
+<pb n="2"/><br>
+hijos nietos 
+<choice><orig>aora</orig><reg type="spanish">ahora</reg></choice>
+y siempre 
+<choice><orig>aora</orig><reg type="spanish">ahora</reg></choice>
+Respondió 
+<choice><orig>pa</orig><reg type="spanish">para</reg></choice>
+su voca 
+<choice><orig>Sr</orig><reg type="spanish">Señor</reg></choice>
+Cariques 
+<choice><orig>Justicia</orig><reg type="spanish">Justicia</reg></choice>
+<choice><orig>siento</orig><reg type="spanish">cierto</reg></choice>
+Verdad, hacemos Juramento por 
+<choice><orig>Ds</orig><reg type="spanish">Dios</reg></choice>
+<br>
+H.S. y la señal de la Cruz verdad que es de nuestra 
+<br>
+voluntad vendemos esta tierra realmente tengo sementera por 
+<br>
+que tengo otras partes de tierras donde aren mis hijos nieto y 
+<br>
+trabajen para los tributos y limosnas suyo 
+<choice><orig>aora</orig><reg type="spanish">ahora</reg></choice>
+y siempre 
+<br>
+sobre todas estas razones respondió la persona que vende esta tierra 
+<choice><orig>aora</orig><reg type="spanish">ahora</reg></choice>
+verdad compra mismo Principal Joseph de Silva 
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+le da 
+<choice><orig>onze</orig><reg type="spanish">once</reg></choice>
+pesos y 
+<choice><orig>quatro</orig><reg type="spanish">cuatro</reg></choice>
+reales plata efectiva 
+<choice><orig>recivió</orig><reg type="spanish">recibió</reg></choice>
+en las manos mismos 
+<br>
+Gertrude Martín 
+<choice><orig>tambien</orig><reg type="spanish">también</reg></choice>
+los dos hijos suyos, Marcelo y<br>
+Antonio 
+<choice><orig>Martin</orig><reg type="spanish">Martín</reg></choice>
+por el tanto señala como esta los linderos 
+<br>
+en contorno 
+<choice><orig>desta</orig><reg type="spanish">de esta</reg></choice>
+tierra 
+<choice><orig>assi</orig><reg type="spanish">así</reg></choice>
+por 
+<choice><orig>onde</orig><reg type="spanish">dónde</reg></choice>
+nace el sol Junta de la 
+<choice><orig>Sra</orig><reg type="spanish">Señora</reg></choice>
+<br>
+del Rosario esta una Sanja sirve de lindero por el norte Junta 
+<br>
+corporada del Principal Joseph de Silva por donde se mete 
+<br>
+el sol Junta de Andres de la Cruz camino real también esta cla<br>
+vado piedra es lindero- 
+<choice><orig>assi</orig><reg type="spanish">así</reg></choice>
+por Oaxaca Junta de la 
+<choice><orig>Sra</orig><reg type="spanish">Señora</reg></choice>
+del 
+<br>
+Rosario sanja es lindero- 
+<choice><orig>assi</orig><reg type="spanish">así</reg></choice>
+esta los linderos en contorno 
+<choice><orig>desta</orig><reg type="spanish">de esta</reg></choice>
+tierra declaro la misma Gertrudes Martín 
+<choice><orig>aora</orig><reg type="spanish">ahora</reg></choice>
+dice que se aparta 
+<br>
+y se exime de lo que es de su poder suyo que tenía esta tierra y lo 
+<choice><orig>entriega</orig><reg type="spanish">entrega</reg></choice>
+en las manos del Principal Joseph de Silva que sea de los hijos 
+<br>
+nietos 
+<choice><orig>aora</orig><reg type="spanish">ahora</reg></choice>
+y siempre dice la Persona que vende esta tierra, y que ninguno de 
+<br>
+sus hijos nietos mencionen y pidan esta tierra en otra ocasión, si 
+<br>
+alguno de sus hijos nietos o parientes mencionen o pidan esta tierra 
+<br>
+en caso en otra ocasión que por entonces demostraran este papel 
+<choice><orig>Escriptura</orig><reg type="spanish">Escritura</reg></choice>
+de venta ante 
+<choice><orig>qual</orig><reg type="spanish">cual</reg></choice>
+quiera 
+<choice><orig>Justicia</orig><reg type="spanish">Justicia</reg></choice>
+Mayor paga<br>
+ran pena de 
+<choice><orig>Seys</orig><reg type="spanish">Seis</reg></choice>
+pesos que se haga gasto de la 
+<choice><orig>Justicia</orig><reg type="spanish">Justicia</reg></choice>
+que tiene todo 
+<choice><orig>assi</orig><reg type="spanish">así</reg></choice>
+dijo la Persona que vende esta tierra ante los dos Alcal<br>
+des 
+<choice><orig>Rexidores</orig><reg type="spanish">Regidores</reg></choice>
+también ante los tres testigos Don Cayetano, Don 
+<br>
+<pb n="3"/><br>
+Pedro de Zarate Principal Antonio Mendes todos Personas Naturales de 
+<br>
+un Pueblo 
+<choice><orig>assi</orig><reg type="spanish">así</reg></choice>
+se acaba y se concluye papel 
+<choice><orig>Escriptura</orig><reg type="spanish">Escritura</reg></choice>
+aquí y de 
+<br>
+venta lo que es a favor del Principal Joseph de Silva, por el tanto pon<br>
+go la firma de un Principal Alcalde Ysidro de los Reyes tam<br>
+bién los tres testigo por que entienden letras, el otro Alcalde pone 
+<choice><orig>fir</orig><reg type="spanish">firme</reg></choice>
+<choice><orig>ma</orig><reg type="spanish">maría</reg></choice>
+el suyo por el tanto me suplicó a mi el 
+<choice><orig>Escrivano</orig><reg type="spanish">Escribano</reg></choice>
+firme por el pero 
+<br>
+la Persona que vende esta tierra puso su hijo sus firmas también de 
+<br>
+sus hijos por su voca lo hace por verdad y yo el 
+<choice><orig>Escrivano</orig><reg type="spanish">Escribano</reg></choice>
+mismo 
+<br>
+día 
+<choice><orig>mes</orig><reg type="spanish">mis</reg></choice>
+y año- Gertrudes Martín- Manuel Martín- Antonio Martín- 
+<br>
+Ysidro de los Reyes Alcalde- 
+<choice><orig>Dn</orig><reg type="spanish">Don</reg></choice>
+Pedro 
+<br>
+de Zarate- Don Cayetano de Zarate- Antonio Mendes- Se<br>
+bastian de la 
+<choice><orig>thorres</orig><reg type="spanish">torres</reg></choice>
+Rexidor- ante mi Ignacio 
+<choice><orig>Peres</orig><reg type="spanish">Perez</reg></choice>
+<br>
+Escrivano- 
+<br>
+La 
+<choice><orig>qual</orig><reg type="spanish">cual</reg></choice>
+esta sacada 
+<choice><orig>consertada</orig><reg type="spanish">concertada</reg></choice>
+y corregida de su Original 
+<choice><orig>según</orig><reg type="spanish">según</reg></choice>
+<br>
+mi leal saber y entender 
+<choice><orig>hassi</orig><reg type="spanish">así</reg></choice>
+lo Juro en toda forma de 
+<br>
+dro y porque conste lo firme en Oaxaca y 
+<choice><orig>Noviembre</orig><reg type="spanish">Noviembre</reg></choice>
+<choice><orig>onse</orig><reg type="spanish">once</reg></choice>
+de mil 
+<br>
+setecientos 
+<choice><orig>quarenta</orig><reg type="spanish">cuarenta</reg></choice>
+y nueve- entre (?)- tierra- (?)- 
+<br>
+señal- ve 
+<br>
+Pedro de Zarate 
+<br>
+En obedecimiento y cumplimiento de lo mandado 
+<br>
+por el Señor Juez de testamentos Capellanias, obras 
+<choice><orig>pias</orig><reg type="spanish">pías</reg></choice>
+de este Obispado prosedí, 
+<choice><orig>hazer</orig><reg type="spanish">hacer</reg></choice>
+el cotejo de el 
+<br>
+instrumento, que antessede Con su Original Za<br>
+poteco, y 
+<choice><orig>haye</orig><reg type="spanish">haya</reg></choice>
+<choice><orig>según</orig><reg type="spanish">según</reg></choice>
+mi leal saber 
+<choice><orig>i</orig><reg type="spanish">y</reg></choice>
+entender 
+<br>
+estar sacado fielmente a la letra sin añadir ni 
+<choice><orig>qui</orig><reg type="spanish">quí</reg></choice>
+<br>
+<pb n="4"/><br>
+tar y por ser verdad lo declaro socargo del Juramen<br>
+to que ante su merced tengo dicho en que me afir<br>
+mo, y ratifico, y lo firme en esta ciudad de An<br>
+tequera y 
+<choice><orig>Noviembre</orig><reg type="spanish">Noviembre</reg></choice>
+21 de 1749 
+<br>
+Manuel 
+<choice><orig>Diaz</orig><reg type="spanish">Diez</reg></choice>
+<choice><orig>Ynterprete</orig><reg type="spanish">Interprete</reg></choice>
+<choice><orig>Nombrado</orig><reg type="spanish">Nombrado</reg></choice>
