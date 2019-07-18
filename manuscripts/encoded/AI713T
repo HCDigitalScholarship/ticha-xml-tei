@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="TEISchema_current.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<text>
+<pb n="1"/><br>
+<choice><orig>oy</orig><reg type="spanish">hoy</reg></choice>
+miercoles 3o diciembre del 
+<choice><orig>año</orig><reg type="spanish">años</reg></choice>
+de 1713 
+<choice><orig>selebramos</orig><reg type="spanish">celebramos</reg></choice>
+esta 
+<choice><orig>pa</orig><reg type="spanish">para</reg></choice>
+<br>
+labra con mucha 
+<choice><orig>pas</orig><reg type="spanish">paz</reg></choice>
+ante dios 
+<choice><orig>n[uest]ro</orig><reg type="spanish">nuestro</reg></choice>
+Señor (Zante?) nosotros Yo An 
+<br>
+dres 
+<choice><orig>Hernandes</orig><reg type="spanish">Hernandez</reg></choice>
+que fui regidor de mía vio, y Pablo Cabrera 
+<br>
+y 
+<choice><orig>Matheo</orig><reg type="spanish">Mateo</reg></choice>
+de mayorga entre de los dos de nosotros so 
+<br>
+mos mayordomos del glorioso San Andres entre to 
+<br>
+dos tres de nosotros naturales del pueblo de San andres y tam 
+<br>
+bién los naturales los del pueblo de San Pedro que es Pablo Antonio y Pedro Antonio Matias Antonio todos ellos y no 
+<br>
+sotros nos (computimos?) con mucha 
+<choice><orig>pas</orig><reg type="spanish">paz</reg></choice>
+por un pedazo de 
+<br>
+tierra 
+<choice><orig>nombrado</orig><reg type="spanish">nombrado</reg></choice>
+dellee- 
+<choice><orig>quando</orig><reg type="spanish">cuando</reg></choice>
+bino el 
+<choice><orig>Jues</orig><reg type="spanish">Juez</reg></choice>
+gastamos 
+<br>
+mu 
+<br>
+cho dinero que es 
+<choice><orig>berdad</orig><reg type="spanish">verdad</reg></choice>
+que nosotros pedimos el dinero 
+<br>
+para ajustar los pesos de la cuesta del 
+<choice><orig>Jues</orig><reg type="spanish">Juez</reg></choice>
+por la tierra 
+<choice><orig>nombrado</orig><reg type="spanish">nombrado</reg></choice>
+dellee que 
+<choice><orig>oi</orig><reg type="spanish">hoy</reg></choice>
+miercoles trajeron Pablo Antonio Pedro Antonio 
+<br>
+Matias Antonio entre todos pagaron un peso en plata 
+<br>
+y también una (hibra?) Sera de Castilla que 
+<choice><orig>hazen</orig><reg type="spanish">hacen</reg></choice>
+dos 
+<choice><orig>pe</orig><reg type="spanish">padre</reg></choice>
+<br>
+sos y un real que pago Pablo Antonio y todos ellos pagaron por la tierra 
+<choice><orig>nombrado</orig><reg type="spanish">nombrado</reg></choice>
+dellee- y esto con mucha 
+<choice><orig>pas</orig><reg type="spanish">paz</reg></choice>
+<br>
+y mandamos nosotros Andres 
+<choice><orig>Hernandes</orig><reg type="spanish">Hernandez</reg></choice>
+regidor y Pablo Cabrera 
+<choice><orig>Matheo</orig><reg type="spanish">Mateo</reg></choice>
+de Mayorgas y nos (conpuzimos?) en 
+<br>
+tre parte de nosotros con mucha 
+<choice><orig>pas</orig><reg type="spanish">paz</reg></choice>
+que es 
+<choice><orig>berdad</orig><reg type="spanish">verdad</reg></choice>
+que la 
+<br>
+tierra 
+<choice><orig>nombrado</orig><reg type="spanish">nombrado</reg></choice>
+dellee que es dei Marcos Antonio que 
+<br>
+lo con pro como consta la 
+<choice><orig>escriptura</orig><reg type="spanish">escritura</reg></choice>
+que para en su poder 
+<br>
+por 
+<choice><orig>zer</orig><reg type="spanish">ser</reg></choice>
+verdad 
+<choice><orig>zer</orig><reg type="spanish">ser</reg></choice>
+suya la 
+<choice><orig>dha</orig><reg type="spanish">dicha</reg></choice>
+tierra por a 
+<choice><orig>ver</orig><reg type="spanish">verdad</reg></choice>
+pagado 
+<br>
+la (?) de 
+<choice><orig>Jues</orig><reg type="spanish">Juez</reg></choice>
+que así nos con 
+<choice><orig>benimos</orig><reg type="spanish">venimos</reg></choice>
+con mucha 
+<choice><orig>pas</orig><reg type="spanish">paz</reg></choice>
+yen 
+<br>
+buena conformidad, porque no ayga plesito sobre la 
+<choice><orig>dha</orig><reg type="spanish">dicha</reg></choice>
+<br>
+tierra por 
+<choice><orig>zer</orig><reg type="spanish">ser</reg></choice>
+de Marcos Antonio que es 
+<choice><orig>berdad</orig><reg type="spanish">verdad</reg></choice>
+que 
+<choice><orig>oi</orig><reg type="spanish">hoy</reg></choice>
+nos 
+<choice><orig>conpuzimos</orig><reg type="spanish">compusimos</reg></choice>
+con mucha 
+<choice><orig>pas</orig><reg type="spanish">paz</reg></choice>
+entre parte di nosotros Yo Andres 
+<choice><orig>Hernandes</orig><reg type="spanish">Hernandez</reg></choice>
+regidor Pablo cabrera 
+<br>
+Mateo de Mayorgas, Pablo Antonio Pedro Antonio Matias 
+<br>
+Antonio y también yo Andres de Santiago 
+<choice><orig>oy</orig><reg type="spanish">hoy</reg></choice>
+yo 
+<br>
+estas palabras por que mi abuelo fue el que 
+<choice><orig>bendió</orig><reg type="spanish">vendió</reg></choice>
+(?) 
+<choice><orig>dha</orig><reg type="spanish">dicha</reg></choice>
+tierra 
+<br>
+Concuerda con su original que va bien y fielmente sacado 
+<br>
+<pb n="2"/><br>
+y 
+<choice><orig>traduzido</orig><reg type="spanish">traducido</reg></choice>
+del 
+<choice><orig>dho</orig><reg type="spanish">dicho</reg></choice>
+Idioma Zapoteco al Castellana 
+<choice><orig>tradussido</orig><reg type="spanish">traducido</reg></choice>
+Juro por Dios 
+<choice><orig>nro</orig><reg type="spanish">nuestro</reg></choice>
+Señor y la 
+<choice><orig>Senal</orig><reg type="spanish">Señal</reg></choice>
+de la Santa Cruz 
+<br>
+devida forma Y es 
+<choice><orig>fho</orig><reg type="spanish">fecho</reg></choice>
+en esta 
+<choice><orig>dha</orig><reg type="spanish">dicha</reg></choice>
+es 
+<choice><orig>Anteqa</orig><reg type="spanish">Antequera</reg></choice>
+<br>
+de Oaxaca a seis días del 
+<choice><orig>mes</orig><reg type="spanish">mis</reg></choice>
+de Abril de mil 
+<choice><orig>setesientos</orig><reg type="spanish">setecientos</reg></choice>
+<br>
+y 
+<choice><orig>quinze</orig><reg type="spanish">quince</reg></choice>
+años 
+<br>
+Thomas 
+<choice><orig>Gomes</orig><reg type="spanish">Gomez</reg></choice>
