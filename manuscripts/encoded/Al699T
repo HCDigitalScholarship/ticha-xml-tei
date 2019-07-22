@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="TEISchema_current.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<text>
+<pb n="1"/>
+En el 
+<choice><orig>Pueb</orig><reg type="spanish">Pueblo</reg></choice>
+del Santa 
+<choice><orig>Ma</orig><reg type="spanish">María</reg></choice>
+y xutta a 
+<choice><orig>dies</orig><reg type="spanish">diez</reg></choice>
+y ocho
+<br>
+<choice><orig>dias</orig><reg type="spanish">días</reg></choice>
+del mes de 
+<choice><orig>jullio</orig><reg type="spanish">julio</reg></choice>
+de 
+<choice><orig>mill</orig><reg type="spanish">mil</reg></choice>
+seis noventa y 
+<choice><orig>nuebe</orig><reg type="spanish">nueve</reg></choice>
+años estando, atendiendo en la Vezita general
+<br>
+en este 
+<choice><orig>dho</orig><reg type="spanish">dicho</reg></choice>
+ya, G.D. Po. Nuñes de villa Vizencio Yo
+<br>
+noso Alcalde 
+<choice><orig>mor</orig><reg type="spanish">melchor</reg></choice>
+del aucidad del 
+<choice><orig>Anteqa</orig><reg type="spanish">Antequera</reg></choice>
+Valle de 
+<choice><orig>Oaxca</orig><reg type="spanish">Oaxaca</reg></choice>
+y 
+<choice><orig>demas</orig><reg type="spanish">demás</reg></choice>
+Su 
+<choice><orig>Jurron</orig><reg type="spanish">Jurisdicción</reg></choice>
+<choice><orig>pr</orig><reg type="spanish">por</reg></choice>
+su 
+<choice><orig>Magd</orig><reg type="spanish">Magestad</reg></choice>
+<choice><orig>conparecio</orig><reg type="spanish">compareció</reg></choice>
+<choice><orig>Martin</orig><reg type="spanish">Martín</reg></choice>
+Lo
+<br>
+pes Natural del 
+<choice><orig>Pueb</orig><reg type="spanish">Pueblo</reg></choice>
+de San Antonio su xo de la
+<br>
+Cauecera de San 
+<choice><orig>Po</orig><reg type="spanish">Pedro</reg></choice>
+el Alto presento Una diligen
+<br>
+cia de restitución de Un 
+<choice><orig>pedaso</orig><reg type="spanish">pedazo</reg></choice>
+de tierras parte
+<br>
+noviente al 
+<choice><orig>dho</orig><reg type="spanish">dicho</reg></choice>
+<choice><orig>Martin</orig><reg type="spanish">Martín</reg></choice>
+<choice><orig>Lopes</orig><reg type="spanish">Lopez</reg></choice>
+<choice><orig>fho</orig><reg type="spanish">fecho</reg></choice>
+pel alcal
+<br>
+de de 
+<choice><orig>dha</orig><reg type="spanish">dicha</reg></choice>
+causera escripto en lengua 
+<choice><orig>sapoteco</orig><reg type="spanish">zapoteco</reg></choice>
+Cuya conformidad el 
+<choice><orig>dho</orig><reg type="spanish">dicho</reg></choice>
+S. ql. Mando a mi el
+<br>
+<choice><orig>ynterprete</orig><reg type="spanish">interprete</reg></choice>
+General de su 
+<choice><orig>Jusgado</orig><reg type="spanish">Juzgado</reg></choice>
+<choice><orig>paql</orig><reg type="spanish">pasqual</reg></choice>
+trasumpta<br>
+<choice><orig>dha</orig><reg type="spanish">dicha</reg></choice>
+restitución a la 
+<choice><orig>Ydioma</orig><reg type="spanish">Idioma</reg></choice>
+Castellana Y en Cumpli
+<br>
+miento de lo 
+<choice><orig>dho</orig><reg type="spanish">dicho</reg></choice>
+lo 
+<choice><orig>tradusgo</orig><reg type="spanish">traduzco</reg></choice>
+es en la forma
+<br>
+Pigde
+<br>
+<choice><orig>Oy</orig><reg type="spanish">Hoy</reg></choice>
+Martes a 
+<choice><orig>Catorze</orig><reg type="spanish">Catorce</reg></choice>
+<choice><orig>dias</orig><reg type="spanish">días</reg></choice>
+del mes de 
+<choice><orig>Jullio</orig><reg type="spanish">Julio</reg></choice>
+de mi Seis ssos noventa y 
+<choice><orig>nuebe</orig><reg type="spanish">nueve</reg></choice>
+años Yo 
+<choice><orig>Po</orig><reg type="spanish">Pedro</reg></choice>
+<choice><orig>hern</orig><reg type="spanish">hernandes</reg></choice>
+Alcalde
+<br>
+y Thomas 
+<choice><orig>gomes</orig><reg type="spanish">gomez</reg></choice>
+<choice><orig>rexor</orig><reg type="spanish">regidor</reg></choice>
+Y Marcos 
+<choice><orig>Lopes</orig><reg type="spanish">Lopez</reg></choice>
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+si nuio yo<br>
+Vo. Y Miguel Luis Alguacil 
+<choice><orig>mor</orig><reg type="spanish">melchor</reg></choice>
+y 
+<choice><orig>enpresa</orig><reg type="spanish">empresa</reg></choice>
+de todo
+<br>
+<choice><orig>Conparecio</orig><reg type="spanish">Compareció</reg></choice>
+<choice><orig>Martin</orig><reg type="spanish">Martín</reg></choice>
+<choice><orig>lopes</orig><reg type="spanish">lopez</reg></choice>
+n del 
+<choice><orig>pueb</orig><reg type="spanish">pueblo</reg></choice>
+de San Antonio
+<br>
+y se le restituyo al suso 
+<choice><orig>dho</orig><reg type="spanish">dicho</reg></choice>
+en 
+<choice><orig>posson</orig><reg type="spanish">posesión</reg></choice>
+de Un 
+<choice><orig>pedaso</orig><reg type="spanish">pedazo</reg></choice>
+de tierras que estaba 
+<choice><orig>dependencia</orig><reg type="spanish">descendencia</reg></choice>
+de con 
+<choice><orig>Po</orig><reg type="spanish">Pedro</reg></choice>
+de mo
+<br>
+rales Y pasqual de la Cruz ns de Ybario learene
+<br>
+Y estando presente los suso 
+<choice><orig>dhos</orig><reg type="spanish">dichos</reg></choice>
+<choice><orig>dixeron</orig><reg type="spanish">dijeron</reg></choice>
+que lo conse
+<br>
+tian Y 
+<choice><orig>consentieron</orig><reg type="spanish">consintieron</reg></choice>
+para la 
+<choice><orig>dha</orig><reg type="spanish">dicha</reg></choice>
+Ponon al 
+<choice><orig>dho</orig><reg type="spanish">dicho</reg></choice>
+Mario
+<br>
+<choice><orig>Lopes</orig><reg type="spanish">Lopez</reg></choice>
+del 
+<choice><orig>qual</orig><reg type="spanish">cual</reg></choice>
+fueron mucha paz y quietud, y que
+<br>
+por 
+<choice><orig>horden</orig><reg type="spanish">orden</reg></choice>
+del 
+<choice><orig>dho</orig><reg type="spanish">dicho</reg></choice>
+sl ql en cuya Virtud se nos m
+<br>
+<choice><orig>pa</orig><reg type="spanish">para</reg></choice>
+lo que 
+<choice><orig>dho</orig><reg type="spanish">dicho</reg></choice>
+<choice><orig>expressa</orig><reg type="spanish">expresa</reg></choice>
+y 
+<choice><orig>Pa</orig><reg type="spanish">Para</reg></choice>
+que se guarda y se cumpla
+<br>
+esta diliga Mandamos nosotros 
+<choice><orig>dhas</orig><reg type="spanish">dichas</reg></choice>
+Justas pena
+<br>
+de 
+<choice><orig>quinse</orig><reg type="spanish">quince</reg></choice>
+<choice><orig>ps</orig><reg type="spanish">pesos</reg></choice>
+y dos 
+<choice><orig>dosenas</orig><reg type="spanish">dozenas</reg></choice>
+<choice><orig>asotes</orig><reg type="spanish">azotes</reg></choice>
+a los que contra
+<br>
+<choice><orig>binieren</orig><reg type="spanish">vinieren</reg></choice>
+la 
+<choice><orig>dha</orig><reg type="spanish">dicha</reg></choice>
+<choice><orig>posson</orig><reg type="spanish">posesión</reg></choice>
+y para 
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+conste lo firmara
+<br>
+Pedro 
+<choice><orig>hernandes</orig><reg type="spanish">hernandez</reg></choice>
+Alcalde Thomas 
+<choice><orig>gomes</orig><reg type="spanish">gomez</reg></choice>
+<choice><orig>rexor</orig><reg type="spanish">regidor</reg></choice>
+Domingo de Santiago 
+<choice><orig>rexor</orig><reg type="spanish">regidor</reg></choice>
+Marcos 
+<choice><orig>Lopes</orig><reg type="spanish">Lopez</reg></choice>
+testigo Miguel Luis Algual 
+<choice><orig>mor</orig><reg type="spanish">melchor</reg></choice>
+Pasqual
+<br>
+<choice><orig>hernandes</orig><reg type="spanish">hernandez</reg></choice>
+Ssno el 
+<choice><orig>qual</orig><reg type="spanish">cual</reg></choice>
+<choice><orig>dho</orig><reg type="spanish">dicho</reg></choice>
+trasumpto
+<br>
+<pb n="2"/>
+se saco a la letra 
+<choice><orig>segun</orig><reg type="spanish">según</reg></choice>
+esta en su original
+<br>
+y se le entrego a la parte de 
+<choice><orig>Martin</orig><reg type="spanish">Martín</reg></choice>
+<choice><orig>lopes</orig><reg type="spanish">lopez</reg></choice>
+<choice><orig>pa</orig><reg type="spanish">para</reg></choice>
+en guarda de su dro 
+<choice><orig>pa</orig><reg type="spanish">para</reg></choice>
+que conste lo firme en
+<br>
+<choice><orig>dho</orig><reg type="spanish">dicho</reg></choice>
+<choice><orig>dia</orig><reg type="spanish">día</reg></choice>
