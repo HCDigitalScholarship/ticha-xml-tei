@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="TEISchema_current.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<text>
+<pb n="1"/><br>
+Yo 
+<choice><orig>Dn</orig><reg type="spanish">Don</reg></choice>
+Pedro de Zarate Cassique Vessino de esta Ciudad, a 
+<br>
+pedimiento de 
+<choice><orig>Dn</orig><reg type="spanish">Don</reg></choice>
+Joseph de Silva 
+<choice><orig>tradussí</orig><reg type="spanish">traducí</reg></choice>
+esta 
+<choice><orig>Escriptura</orig><reg type="spanish">Escritura</reg></choice>
+<br>
+de la 
+<choice><orig>ydioma</orig><reg type="spanish">idioma</reg></choice>
+<choice><orig>Sapoteca</orig><reg type="spanish">Zapoteca</reg></choice>
+en que se 
+<choice><orig>haia</orig><reg type="spanish">haya</reg></choice>
+su original, a la 
+<br>
+Castellana 
+<choice><orig>cuio</orig><reg type="spanish">cuyo</reg></choice>
+<choice><orig>thenor</orig><reg type="spanish">tenor</reg></choice>
+es como se sigue- 
+<choice><orig>Aqui</orig><reg type="spanish">Aquí</reg></choice>
+en el Pueblo de 
+<choice><orig>Sto</orig><reg type="spanish">Santo</reg></choice>
+Domingo de la Villa de Etla del estado 
+<br>
+y marquezado del Valle 
+<choice><orig>oy</orig><reg type="spanish">hoy</reg></choice>
+<choice><orig>dia</orig><reg type="spanish">día</reg></choice>
+viernes a nueve 
+<choice><orig>dias</orig><reg type="spanish">días</reg></choice>
+del 
+<choice><orig>mes</orig><reg type="spanish">mis</reg></choice>
+<br>
+de 
+<choice><orig>Noviembre</orig><reg type="spanish">Noviembre</reg></choice>
+de mil setecientos y treinta y 
+<choice><orig>seys</orig><reg type="spanish">seis</reg></choice>
+años- 
+<choice><orig>aqui</orig><reg type="spanish">aquí</reg></choice>
+ante el Principal Pedro 
+<choice><orig>Men</orig><reg type="spanish">Mendes</reg></choice>
+Alcalde ordinario, 
+<br>
+y 
+<choice><orig>tamvién</orig><reg type="spanish">también</reg></choice>
+el Principal Juan 
+<choice><orig>Lopes</orig><reg type="spanish">Lopez</reg></choice>
+Regidor Mayor, tam- 
+<choice><orig>vién</orig><reg type="spanish">bién</reg></choice>
+yo Ambrossio Luis Ramires 
+<choice><orig>escrivano</orig><reg type="spanish">escribano</reg></choice>
+<choice><orig>doi</orig><reg type="spanish">doy</reg></choice>
+fe, pala- 
+<br>
+bra de verdad como 
+<choice><orig>comparecieron</orig><reg type="spanish">comparecieron</reg></choice>
+Juana de la Cruz, Viu- 
+<br>
+da del difunto Ant[oni]o de Silva los dos su hijo Pedro de 
+<br>
+Silva Persona y naturales del 
+<choice><orig>mesmo</orig><reg type="spanish">mismo</reg></choice>
+Pueb pidieron 
+<choice><orig>lisencia</orig><reg type="spanish">licencia</reg></choice>
+y merced porque venden realmente para ao- 
+<br>
+ra y siempre dos solares de tierras de temporal lo que 
+<choice><orig>eredaron</orig><reg type="spanish">heredaron</reg></choice>
+el 
+<choice><orig>mesmo</orig><reg type="spanish">mismo</reg></choice>
+Pedro de Silva en el testamento del 
+<br>
+difunto su Padre 
+<choice><orig>Anto</orig><reg type="spanish">Antonio</reg></choice>
+de Silva, y estas tierras están 
+<br>
+los dos 
+<choice><orig>pedassos</orig><reg type="spanish">pedazos</reg></choice>
+en el lugar donde le dissen. rua neza- 
+<br>
+lluy. (que quiere desir) voca del camino Real. otra par- 
+<br>
+te ereda Juana de la Cruz en el 
+<choice><orig>mesmo</orig><reg type="spanish">mismo</reg></choice>
+testamento, a- 
+<choice><orig>ora</orig><reg type="spanish">hora</reg></choice>
+declara la mesma Juana de la Cruz los dos y su 
+<br>
+hijo Pedro de Silva, como son los linderos en contorno 
+<br>
+de esta tierra es el primer pedazo, 
+<choice><orig>asi</orig><reg type="spanish">así</reg></choice>
+a por donde 
+<br>
+<pb n="2"/><br>
+donde sale el sol Junta al sitio del Principal 
+<br>
+Joseph de Silva esta puesto el camino real 
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+<br>
+es lindero, 
+<choice><orig>asi</orig><reg type="spanish">así</reg></choice>
+al Norte Junta al sitio de Nico- 
+<br>
+las Ramires, esta clavado piedra que es lindero 
+<choice><orig>assi</orig><reg type="spanish">así</reg></choice>
+por donde se mete el sol Junta la mesma 
+<br>
+el sitio del Principal Joseph de Silva 
+<choice><orig>tamvién</orig><reg type="spanish">también</reg></choice>
+<br>
+la piedra es lindero, 
+<choice><orig>assi</orig><reg type="spanish">así</reg></choice>
+a Oaxaca Junta el sitio de 
+<br>
+Andres de la Cruz 
+<choice><orig>tamvién</orig><reg type="spanish">también</reg></choice>
+piedra es lindero como 
+<choice><orig>assi</orig><reg type="spanish">así</reg></choice>
+esta los linderos en contorno de este un 
+<choice><orig>pedasso</orig><reg type="spanish">pedazo</reg></choice>
+<br>
+de tierra, y 
+<choice><orig>tamvién</orig><reg type="spanish">también</reg></choice>
+<choice><orig>aora</orig><reg type="spanish">ahora</reg></choice>
+declaran otra ves los lin- 
+<br>
+deros suyos de otro 
+<choice><orig>pedasso</orig><reg type="spanish">pedazo</reg></choice>
+de tierra, 
+<choice><orig>asia</orig><reg type="spanish">hacía</reg></choice>
+por don- 
+<br>
+de 
+<choice><orig>nase</orig><reg type="spanish">nace</reg></choice>
+el sol Junta el sitio del difunto, gente 
+<br>
+anciano, Pedro Minz esta clavado piedra que es 
+<br>
+lindero 
+<choice><orig>tamvién</orig><reg type="spanish">también</reg></choice>
+esta culebrina de tierra es lin- 
+<br>
+dero, 
+<choice><orig>asia</orig><reg type="spanish">hacía</reg></choice>
+po el Norte Junta el sitio del Princi- 
+<br>
+pal Nicolas Mendes esta un palo de Sonpanthle 
+<br>
+es lindero, 
+<choice><orig>asia</orig><reg type="spanish">hacía</reg></choice>
+donde se mete el sol Junta el si- 
+<br>
+tio 
+<choice><orig>mesmo</orig><reg type="spanish">mismo</reg></choice>
+del Principal Sebastian 
+<choice><orig>hernandes</orig><reg type="spanish">hernandez</reg></choice>
+<br>
+camino real es lindero, 
+<choice><orig>asia</orig><reg type="spanish">hacía</reg></choice>
+a Oaxaca Junta 
+<br>
+el sitio del difunto Marcos de Chaves 
+<choice><orig>assi</orig><reg type="spanish">así</reg></choice>
+esta 
+<br>
+los linderos en contorno de este otro 
+<choice><orig>pedaso</orig><reg type="spanish">pedazo</reg></choice>
+de tierra, 
+<choice><orig>aora</orig><reg type="spanish">ahora</reg></choice>
+<choice><orig>ase</orig><reg type="spanish">hace</reg></choice>
+verdaderamente Juana de la 
+<br>
+cruz, los dos con su hijo, Pedro de Silva 
+<choice><orig>Juramto</orig><reg type="spanish">Juramento</reg></choice>
+<br>
+<pb n="3"/><br>
+y 
+<choice><orig>hassen</orig><reg type="spanish">hacen</reg></choice>
+por Dios nuestro Sr, y 
+<choice><orig>tamvién</orig><reg type="spanish">también</reg></choice>
+la señal de 
+<br>
+la Cruz 
+<choice><orig>aqui</orig><reg type="spanish">aquí</reg></choice>
+ante el Principal Alcalde verdad, y 
+<br>
+realmente venden los dos 
+<choice><orig>pedasos</orig><reg type="spanish">pedazos</reg></choice>
+de tierra suya 
+<br>
+la compra el 
+<choice><orig>mesmo</orig><reg type="spanish">mismo</reg></choice>
+Principal Joseph de Silva 
+<br>
+los dos su 
+<choice><orig>muger</orig><reg type="spanish">mujer</reg></choice>
+Geronima mendes verdad le da 
+<br>
+ocho 
+<choice><orig>pessos</orig><reg type="spanish">pesos</reg></choice>
+en plata efectiva por un este pedasso, 
+<br>
+de tierra y por el otro le dieron 
+<choice><orig>sinco</orig><reg type="spanish">cinco</reg></choice>
+<choice><orig>pessos</orig><reg type="spanish">pesos</reg></choice>
+en 
+<choice><orig>rrs</orig><reg type="spanish">reales</reg></choice>
+<br>
+tomo su hijo, se ajusta la 
+<choice><orig>quenta</orig><reg type="spanish">cuenta</reg></choice>
+de 
+<choice><orig>tresse</orig><reg type="spanish">trece</reg></choice>
+<choice><orig>pessos</orig><reg type="spanish">pesos</reg></choice>
+<br>
+lo que 
+<choice><orig>resive</orig><reg type="spanish">recibe</reg></choice>
+Juana de la Cruz con su hijo Pedro 
+<br>
+de Silva lo que importa de los dos 
+<choice><orig>pedassos</orig><reg type="spanish">pedazos</reg></choice>
+de esta 
+<br>
+tierra, 
+<choice><orig>aora</orig><reg type="spanish">ahora</reg></choice>
+dise la mesma Juana de la Cruz, y tam 
+<choice><orig>vién</orig><reg type="spanish">bién</reg></choice>
+su hijo Pedro de Silva que ya es suyo de sus- 
+<br>
+vienes del 
+<choice><orig>mesmo</orig><reg type="spanish">mismo</reg></choice>
+Principal Joseph de Silva los dos 
+<br>
+con su 
+<choice><orig>muger</orig><reg type="spanish">mujer</reg></choice>
+Geronima Mendes de esta tierra 
+<choice><orig>aora</orig><reg type="spanish">ahora</reg></choice>
+<br>
+y siempre que sea de sus hijos, y nietos, 
+<choice><orig>aora</orig><reg type="spanish">ahora</reg></choice>
+y en lo ve- 
+<br>
+nidero 
+<choice><orig>aora</orig><reg type="spanish">ahora</reg></choice>
+dise que se aparta, y se desiste de lo qe 
+<br>
+es el poder suyo que tiene de esta tierra lo desvia, y- 
+<br>
+lo echa en las manos del Principal Joseph de Silva 
+<br>
+que lo que quisiere 
+<choice><orig>ará</orig><reg type="spanish">hará</reg></choice>
+de esta tierra, 
+<choice><orig>aora</orig><reg type="spanish">ahora</reg></choice>
+<choice><orig>disen</orig><reg type="spanish">dicen</reg></choice>
+<br>
+las Personas que vendieron estas tierras que ninguno 
+<br>
+mencionen o pidan estas tierras en otra vez, o si al- 
+<br>
+guno de mis hijos o nietos pidieron esta tierra en 
+<br>
+otra ves que por 
+<choice><orig>entonses</orig><reg type="spanish">entonces</reg></choice>
+se demostrará este papel- 
+<br>
+<pb n="4"/><br>
+de Escritura ante la 
+<choice><orig>Justicia</orig><reg type="spanish">Justicia</reg></choice>
+Mayor, y pagaran pena 
+<choice><orig>quinze</orig><reg type="spanish">quince</reg></choice>
+<choice><orig>pessos</orig><reg type="spanish">pesos</reg></choice>
+que se 
+<choice><orig>aga</orig><reg type="spanish">haga</reg></choice>
+el gasto de 
+<choice><orig>qualquiera</orig><reg type="spanish">cualquiera</reg></choice>
+Justi- 
+<br>
+cia todas estas palabras salió la voca propia de las 
+<br>
+Personas que vendieron esta tierra lo oyeron dos tes- 
+<br>
+tigos, 
+<choice><orig>tamvién</orig><reg type="spanish">también</reg></choice>
+el Principal Alcalde dijo que se gua- 
+<br>
+rde, y Cumpla 
+<choice><orig>segun</orig><reg type="spanish">según</reg></choice>
+dijeron las Personas que ven- 
+<br>
+dieron esta tierra, y por el tanto pongo las firmas 
+<br>
+suyas en este papel 
+<choice><orig>Escriptura</orig><reg type="spanish">Escritura</reg></choice>
+de Venta 
+<choice><orig>tamvién</orig><reg type="spanish">también</reg></choice>
+<br>
+yo el 
+<choice><orig>Escrivano</orig><reg type="spanish">Escribano</reg></choice>
+pongo firmas del Principal Alcalde 
+<br>
+y 
+<choice><orig>Regr</orig><reg type="spanish">Regidor</reg></choice>
+y 
+<choice><orig>tesgos</orig><reg type="spanish">testigos</reg></choice>
+<choice><orig>tamvién</orig><reg type="spanish">también</reg></choice>
+yo pongo firma 
+<choice><orig>mia</orig><reg type="spanish">mía</reg></choice>
+<choice><orig>dho</orig><reg type="spanish">dicho</reg></choice>
+día 
+<br>
+mes, y 
+<choice><orig>año</orig><reg type="spanish">años</reg></choice>
+= Pedro Min 
+<choice><orig>Alcde</orig><reg type="spanish">Alcalde</reg></choice>
+= Juan 
+<choice><orig>Lopes</orig><reg type="spanish">Lopez</reg></choice>
+<choice><orig>Regr</orig><reg type="spanish">Regidor</reg></choice>
+= Pe- 
+<br>
+dro Pablo de Silva = Juana de la Cruz, y de Silva = 
+<br>
+testigo 
+<choice><orig>Anto</orig><reg type="spanish">Antonio</reg></choice>
+de chaves = testigo Domingo 
+<choice><orig>Lopes</orig><reg type="spanish">Lopez</reg></choice>
+= 
+<br>
+Ante mi Ambrossio Luiz Ramires 
+<choice><orig>Essno</orig><reg type="spanish">Escribano</reg></choice>
+= 
+<br>
+La 
+<choice><orig>qual</orig><reg type="spanish">cual</reg></choice>
+esta 
+<choice><orig>consertada</orig><reg type="spanish">concertada</reg></choice>
+y sacada de su original a todo mi leal 
+<choice><orig>saver</orig><reg type="spanish">saber</reg></choice>
+y entender 
+<choice><orig>assi</orig><reg type="spanish">así</reg></choice>
+lo Juro en toda forma de dro, y 
+<br>
+porque conste lo firme, en 
+<choice><orig>doze</orig><reg type="spanish">doce</reg></choice>
+<choice><orig>dias</orig><reg type="spanish">días</reg></choice>
+del 
+<choice><orig>mes</orig><reg type="spanish">mis</reg></choice>
+de 
+<choice><orig>Novie</orig><reg type="spanish">Noviembre</reg></choice>
+<br>
+de mil setecientos 
+<choice><orig>quarenta</orig><reg type="spanish">cuarenta</reg></choice>
+y nueve años = enmdo = esta = Ve 
+<br>
+de mil setecientos cuarenta, y nueve años = enmdo = esta = Ve 
+<choice><orig>Dn</orig><reg type="spanish">Don</reg></choice>
+Pedro de Zarate 
+<br>
+En obedecimiento y cumplimiento de los man- 
+<br>
+dado po el 
+<choice><orig>Sr</orig><reg type="spanish">Señor</reg></choice>
+<choice><orig>Jues</orig><reg type="spanish">Juez</reg></choice>
+de testamentos, Capella- 
+<br>
+nias, y obras pisas de este 
+<choice><orig>Obpdo</orig><reg type="spanish">Obispado</reg></choice>
+<choice><orig>prosedí</orig><reg type="spanish">procedí</reg></choice>
+<choice><orig>hazer</orig><reg type="spanish">hacer</reg></choice>
+<br>
+el cotejo de el instrumento que antecede 
+<br>
+con su Original Zapoteco. y 
+<choice><orig>haye</orig><reg type="spanish">haya</reg></choice>
+<choice><orig>segun</orig><reg type="spanish">según</reg></choice>
+mi 
+<br>
+leal saber y entender estas sacado fielmente 
+<br>
+<pb n="5"/><br>
+a la letra sin añadir ni quitar, y por ser verdad lo de- 
+<br>
+claro socargo del juramento que ante su 
+<choice><orig>Mercd</orig><reg type="spanish">Merced</reg></choice>
+ten- 
+<br>
+go tho en que me afirmo, y ratifico, y lo firme en esta 
+<br>
+ciudad de 
+<choice><orig>Anteqa</orig><reg type="spanish">Antequera</reg></choice>
+y 
+<choice><orig>Novie</orig><reg type="spanish">Noviembre</reg></choice>
+19 de 1749aT- 
+<br>
+Manuel 
+<choice><orig>Diaz</orig><reg type="spanish">Diez</reg></choice>
+<choice><orig>yntepte</orig><reg type="spanish">interprete</reg></choice>
+<choice><orig>Nomvdo</orig><reg type="spanish">Nombrado</reg></choice>

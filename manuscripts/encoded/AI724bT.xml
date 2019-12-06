@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="TEISchema_current.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<text>
+<pb n="1"/><br>
+..Jugado el Señor (Demt?) 
+<br>
+...pey sol (Rexidia?) (perpatui?) 
+<br>
+...laga Comisario Orden 
+<br>
+...a Intendencia y supro 
+<br>
+...el Señor el 
+<choice><orig>Lisensiado</orig><reg type="spanish">Licenciado</reg></choice>
+<br>
+Don 
+<choice><orig>Ygnacio</orig><reg type="spanish">Ignacio</reg></choice>
+de Villa Señor y Cer<br>
+ves le Abogado sola Real Audiensia 
+<br>
+de este N. E. y preso del 
+<choice><orig>Sto</orig><reg type="spanish">Santo</reg></choice>
+<choice><orig>ofisio</orig><reg type="spanish">oficio</reg></choice>
+del su 
+<br>
+Inquisición de este 
+<choice><orig>Reyno</orig><reg type="spanish">Reino</reg></choice>
+de pobres de los<br>
+tribunales seculares, de la Corte de Mé<br>
+xico, Yn (fiuiduo?) matriculado en el 
+<br>
+muy Ytten Real Colegio, se Abogado Exa<br>
+minador me da del themente Letrado se 
+<br>
+este (Corregimiento?) y Asesor Ordinario de 
+<br>
+la Intendencia de este provincia; y a tendiendo 
+<br>
+a la Suma miserio, Domingo Peres, Miguel 
+<br>
+Peres, Juan Antonio, y Mathias Antonio, 
+<br>
+Ambos Natural del pueblo San Pedro 
+<br>
+o la (?) 
+<choice><orig>Jurisdisien</orig><reg type="spanish">Jurisdicción</reg></choice>
+de esta Ciudad, fue 
+<choice><orig>presensiado</orig><reg type="spanish">presenciado</reg></choice>
+<choice><orig>bocablemente</orig><reg type="spanish">bocablamente</reg></choice>
+para (tradre?) 

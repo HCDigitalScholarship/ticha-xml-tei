@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="TEISchema_current.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<text>
+<pb n="1"/><br>
+Vaya 
+<choice><orig>Pa</orig><reg type="spanish">Para</reg></choice>
+el 
+<choice><orig>Reynado</orig><reg type="spanish">Reinado</reg></choice>
+del 
+<choice><orig>Sn</orig><reg type="spanish">San</reg></choice>
+<choice><orig>Dn</orig><reg type="spanish">Don</reg></choice>
+Carlos 
+<choice><orig>quarto</orig><reg type="spanish">cuarto</reg></choice>
+<br>
+Yo el interprete del 
+<choice><orig>Jusgado</orig><reg type="spanish">Juzgado</reg></choice>
+del Señor Don An<br>
+<br>
+tonio de M 
+<choice><orig>Rexidor</orig><reg type="spanish">Regidor</reg></choice>
+perpetuo de<br>
+<br>
+la Ciudad de (?)ga Comisario Ordenador y 
+<choice><orig>correxidor</orig><reg type="spanish">corregidor</reg></choice>
+<choice><orig>Yntendencia</orig><reg type="spanish">Enternecía</reg></choice>
+por su Magestad de esta 
+<br>
+ciudad y su provincia C(?)era en virtud el uno 
+<br>
+que Antessede el 
+<choice><orig>Lisensiando</orig><reg type="spanish">Licenciando</reg></choice>
+Don 
+<choice><orig>Ygnacio</orig><reg type="spanish">Ignacio</reg></choice>
+<choice><orig>Jphe</orig><reg type="spanish">Joseph</reg></choice>
+<br>
+Villa Señor y 
+<choice><orig>Cerviente</orig><reg type="spanish">Serviente</reg></choice>
+Abogado de la Real 
+<choice><orig>Audiencia</orig><reg type="spanish">Audiencia</reg></choice>
+de este KE [probablamente Kyrie Eleison] y del preso del Santo 
+<br>
+Oficio de la 
+<choice><orig>Ynquisision</orig><reg type="spanish">Inquisición</reg></choice>
+de este 
+<choice><orig>Reyno</orig><reg type="spanish">Reino</reg></choice>
+de pobres de 
+<br>
+los tribunales seculares de la Corte de Mexico Yn 
+<br>
+divido Matriculado en el Muy Ytte Real 
+<br>
+colegio de Abogado Examinador sino del del 
+<choice><orig>theniente</orig><reg type="spanish">teniente</reg></choice>
+Letrado de este 
+<choice><orig>Correximiento</orig><reg type="spanish">Corregimiento</reg></choice>
+y Asesor 
+<br>
+Ordinario de la 
+<choice><orig>Yntendencia</orig><reg type="spanish">Enternecía</reg></choice>
+de este provincia -- tra 
+<br>
+duzco este testamento al Castellano lo cual este 
+<br>
+testamento que Original en la 
+<choice><orig>Ydioma</orig><reg type="spanish">Idioma</reg></choice>
+zapo 
+<br>
+<pb n="2"/><br>
+<choice><orig>theco</orig><reg type="spanish">teco</reg></choice>
+se me entrego cuyo 
+<choice><orig>thenor</orig><reg type="spanish">tenor</reg></choice>
+es como se sigue 
+<br>
+el que se llama Amoroso Nuestro Señor Jesu 
+<br>
+Christo hijo de Dios el que se 
+<choice><orig>murio</orig><reg type="spanish">murió</reg></choice>
+en la cruz 
+<br>
+que nos 
+<choice><orig>Redimio</orig><reg type="spanish">Redimió</reg></choice>
+todo nosotros de aquí en el mu 
+<br>
+ndo es Verdad Yo me 
+<choice><orig>yamo</orig><reg type="spanish">llamo</reg></choice>
+Maria 
+<choice><orig>Garcia</orig><reg type="spanish">García</reg></choice>
+<br>
+Creo Solo Santissima trinidad, Dios Padre, Dios 
+<br>
+hijo, Dios espiritu santo [HOLE] son tres 
+<choice><orig>perzon</orig><reg type="spanish">person</reg></choice>
+<choice><orig>as</orig><reg type="spanish">años</reg></choice>
+que Un solo Dios el que hizo el Cielo 
+<br>
+en la tierra y todo nosotros de aquí en el mun 
+<br>
+do el que 
+<choice><orig>hiso</orig><reg type="spanish">hizo</reg></choice>
+todo los Angeles del Cielo tan 
+<br>
+bien Creo Articulo de la fee: que son 
+<choice><orig>Catorse</orig><reg type="spanish">Catorce</reg></choice>
+<br>
+y los Siete 
+<choice><orig>Oracion</orig><reg type="spanish">Oración</reg></choice>
+de Dios por Divino 
+<choice><orig>tanbien</orig><reg type="spanish">también</reg></choice>
+<br>
+los 
+<choice><orig>Dies</orig><reg type="spanish">Diez</reg></choice>
+<choice><orig>Orasion</orig><reg type="spanish">Oración</reg></choice>
+de Dios 
+<choice><orig>tanbien</orig><reg type="spanish">también</reg></choice>
+Creo los man 
+<br>
+damiento, los 
+<choice><orig>Sinco</orig><reg type="spanish">Cinco</reg></choice>
+<choice><orig>Orasion</orig><reg type="spanish">Oración</reg></choice>
+Nuestra Santa 
+<br>
+Madre 
+<choice><orig>Yglesia</orig><reg type="spanish">Iglesia</reg></choice>
+los Siete sacramentos y los 
+<choice><orig>quarto</orig><reg type="spanish">cuarto</reg></choice>
+[sic] 
+<choice><orig>oracion</orig><reg type="spanish">oración</reg></choice>
+el que se reza del Rosario los 
+<choice><orig>Dias</orig><reg type="spanish">Días</reg></choice>
+<br>
+Domingo y los 
+<choice><orig>Dias</orig><reg type="spanish">Días</reg></choice>
+Zabado todo los misterio-- 
+<br>
+Crey los 
+<choice><orig>Dias</orig><reg type="spanish">Días</reg></choice>
+mi 
+<choice><orig>bida</orig><reg type="spanish">vida</reg></choice>
+de 
+<choice><orig>aqui</orig><reg type="spanish">aquí</reg></choice>
+en el mundo 
+<br>
+solo esta se 
+<choice><orig>acava</orig><reg type="spanish">acaba</reg></choice>
+mi testamento mio: 
+<choice><orig>Oy</orig><reg type="spanish">Hoy</reg></choice>
+<choice><orig>Dia</orig><reg type="spanish">Día</reg></choice>
+<br>
+[tho--margin note] Dos del 
+<choice><orig>mes</orig><reg type="spanish">mis</reg></choice>
+de Marzo mil 
+<choice><orig>setesientos</orig><reg type="spanish">setecientos</reg></choice>
+senten 
+<br>
+<pb n="3"/><br>
+<br>
+ta y seis 
+<choice><orig>año</orig><reg type="spanish">años</reg></choice>
+a 
+<choice><orig>Dia</orig><reg type="spanish">Día</reg></choice>
+se acaba mi vida 
+<choice><orig>mia</orig><reg type="spanish">mía</reg></choice>
+Yo Maria 
+<choice><orig>Garcia</orig><reg type="spanish">García</reg></choice>
+<choice><orig>hasi</orig><reg type="spanish">así</reg></choice>
+de Un 
+<choice><orig>pedaso</orig><reg type="spanish">pedazo</reg></choice>
+de tierra la de Nuestra 
+<br>
+tiahuelo [probablamente tía abuelo] de Nosotros la dejo en mano mi hijo-- 
+<br>
+Domingo 
+<choice><orig>Peres</orig><reg type="spanish">Perez</reg></choice>
+<choice><orig>tanbien</orig><reg type="spanish">también</reg></choice>
+Miguel 
+<choice><orig>Peres</orig><reg type="spanish">Perez</reg></choice>
+que se le 
+<br>
+queda este tierra del 
+<choice><orig>aRoyo</orig><reg type="spanish">arroyo</reg></choice>
+que le 
+<choice><orig>disen</orig><reg type="spanish">dicen</reg></choice>
+en len 
+<br>
+gua 
+<br>
+juiniaquecolos tierra del Yano que le 
+<choice><orig>dicen</orig><reg type="spanish">dicen</reg></choice>
+<br>
+en Lengua 
+<br>
+quiniotachineeqie tierra del aRo 
+<br>
+[ojo--margin note] yo que le 
+<choice><orig>disen</orig><reg type="spanish">dicen</reg></choice>
+en Lengua 
+<br>
+quiniaquecoritaliu 
+<br>
+del 
+<choice><orig>aRoyo</orig><reg type="spanish">arroyo</reg></choice>
+que le 
+<choice><orig>disen</orig><reg type="spanish">dicen</reg></choice>
+en Lengua 
+<br>
+quiniaqueco- 
+<br>
+reyotierra que le 
+<choice><orig>dicen</orig><reg type="spanish">dicen</reg></choice>
+en Lengua 
+<br>
+xajuicala- 
+<br>
+nnaa y en Castilla quiere 
+<choice><orig>desir</orig><reg type="spanish">decir</reg></choice>
+tierra Royo 
+<br>
+de la piedra tisnada tierra que le 
+<choice><orig>disen</orig><reg type="spanish">dicen</reg></choice>
+en lengua 
+<br>
+quiniaquelatie y en Castilla quiere 
+<choice><orig>desir</orig><reg type="spanish">decir</reg></choice>
+tierra de 
+<br>
+la jondura tierra del 
+<choice><orig>aroyo</orig><reg type="spanish">arroyo</reg></choice>
+que la 
+<choice><orig>disen</orig><reg type="spanish">dicen</reg></choice>
+en len 
+<br>
+gua 
+<br>
+quiniaquecoyojilapaya en Castilla 
+<choice><orig>desir</orig><reg type="spanish">decir</reg></choice>
+<br>
+tierra del camino de 
+<choice><orig>ariva</orig><reg type="spanish">arriba</reg></choice>
+y 
+<choice><orig>tanbien</orig><reg type="spanish">también</reg></choice>
+la tierra del 
+<choice><orig>aroyo</orig><reg type="spanish">arroyo</reg></choice>
+que le 
+<choice><orig>disen</orig><reg type="spanish">dicen</reg></choice>
+en lengua 
+<br>
+quimiraquecoocha 
+<br>
+alapaquete y en Castilla quiere 
+<choice><orig>desir</orig><reg type="spanish">decir</reg></choice>
+tierra del ca 
+<br>
+mino de abajo la dejo en mano mi Nieta 
+<choice><orig>Jphe</orig><reg type="spanish">Joseph</reg></choice>
+<choice><orig>Peres</orig><reg type="spanish">Perez</reg></choice>
+la del poso, tierra del Yano queda 
+<br>
+<pb n="4"/><br>
+<br>
+todo lo 
+<choice><orig>qual</orig><reg type="spanish">cual</reg></choice>
+esta fielmente 
+<choice><orig>tradusido</orig><reg type="spanish">traducido</reg></choice>
+y con 
+<br>
+sertado del 
+<choice><orig>Ydioma</orig><reg type="spanish">Idioma</reg></choice>
+<choice><orig>zapotheco</orig><reg type="spanish">zapoteco</reg></choice>
+<choice><orig>segun</orig><reg type="spanish">según</reg></choice>
+co 
+<br>
+mo se me 
+<choice><orig>demostro</orig><reg type="spanish">demuestro</reg></choice>
+el testamento Original 
+<br>
+O Como esta en que se halla en Castellano 
+<br>
+al que la devuelvo, a todo 
+<choice><orig>segun</orig><reg type="spanish">según</reg></choice>
+mi leal 
+<choice><orig>saver</orig><reg type="spanish">saber</reg></choice>
+y entender, y por ser 
+<choice><orig>hasi</orig><reg type="spanish">así</reg></choice>
+Verdad lo 
+<br>
+Juro en toda forma de Derecho, y es echo 
+<choice><orig>tradusido</orig><reg type="spanish">traducido</reg></choice>
+y lo firme En esta Ciudad de 
+<br>
+Antequera Valle de Oaxaca en 
+<choice><orig>treynta</orig><reg type="spanish">treinta</reg></choice>
+<choice><orig>Dias</orig><reg type="spanish">Días</reg></choice>
+del 
+<choice><orig>mes</orig><reg type="spanish">mis</reg></choice>
+de Junio del a 
+<br>
+ño de Mil Seteciento y Noventa-- 
+<br>
+Marcos de los Ang. Lopez 
+<choice><orig>Ynterprete</orig><reg type="spanish">Interprete</reg></choice>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="TEISchema_current.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<text>
+<pb n="1"/><br>
+Yo Pedro Andres Principal y natural de este Pueb de Tlacochahuaya<br>
+<choice><orig>oy</orig><reg type="spanish">hoy</reg></choice>
+Jueves a 
+<choice><orig>catorze</orig><reg type="spanish">catorce</reg></choice>
+de Marzo al 
+<choice><orig>mill</orig><reg type="spanish">mil</reg></choice>
+seis sientos y setenta<br>
+y 
+<choice><orig>sinco</orig><reg type="spanish">cinco</reg></choice>
+a Como es verdad 
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+vendo un 
+<choice><orig>pedaso</orig><reg type="spanish">pedazo</reg></choice>
+de tierra<br>
+solar 
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+esta 
+<choice><orig>aonde</orig><reg type="spanish">adonde</reg></choice>
+esta la Cruz 
+<choice><orig>devajo</orig><reg type="spanish">debajo</reg></choice>
+de la piedra, así es<br>
+todo el medio, hasí es verdad 
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+se 
+<choice><orig>hiso</orig><reg type="spanish">hizo</reg></choice>
+el concierto ante mi<br>
+Padre Mathias desosa, y vendo esta tierra, y la compra<br>
+Gregorio de 
+<choice><orig>Mendosa</orig><reg type="spanish">Mendoza</reg></choice>
+<choice><orig>quatro</orig><reg type="spanish">cuatro</reg></choice>
+<choice><orig>ps</orig><reg type="spanish">pesos</reg></choice>
+en 
+<choice><orig>rr</orig><reg type="spanish">reales</reg></choice>
+Efectivos, se 
+<choice><orig>empiesa</orig><reg type="spanish">empieza</reg></choice>
+a meder un 
+<choice><orig>pedaso</orig><reg type="spanish">pedazo</reg></choice>
+de tierra en la orilla del camino 
+<choice><orig>rr</orig><reg type="spanish">reales</reg></choice>
+Que va a 
+<choice><orig>Sn</orig><reg type="spanish">San</reg></choice>
+Sebastian y tiene por el lado del oriente<br>
+veinte medidas en donde linda con 
+<choice><orig>Geronimo</orig><reg type="spanish">Geronimo</reg></choice>
+Ramires, son<br>
+veinte y seis de ancho medidas y otro 
+<choice><orig>pedaso</orig><reg type="spanish">pedazo</reg></choice>
+de tierra son veinte y<br>
+siete medidas, también a la orilla del camino, hagora dejo<br>
+esta tierra, que yo no se la pidiré nunca, ni mis hijos, ni<br>
+mis nietos empidan esta venta por 
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+esta tierra me dio mi<br>
+abuela 
+<choice><orig>lixitima</orig><reg type="spanish">ligitima</reg></choice>
+Petronila de Aquino, que me la dejo en su<br>
+testamto hasí otorgo esta 
+<choice><orig>Escripa</orig><reg type="spanish">Escriptura</reg></choice>
+de Venta 
+<choice><orig>oy</orig><reg type="spanish">hoy</reg></choice>
+Jueves a<br>
+catorce de Marzo de 
+<choice><orig>mill</orig><reg type="spanish">mil</reg></choice>
+seiscientos, y setenta, y 
+<choice><orig>sinco</orig><reg type="spanish">cinco</reg></choice>
+a<br>
+= Domingo 
+<choice><orig>Garcia</orig><reg type="spanish">García</reg></choice>
+= testigo = Ante mi = Juan 
+<choice><orig>Garcia</orig><reg type="spanish">García</reg></choice>
+-<br>
+yo Sebastiana de 
+<choice><orig>Mendosa</orig><reg type="spanish">Mendoza</reg></choice>
+que padesco enfermedad en<br>
+mi cuerpo y por que tengo entendimiento y conosimiento - creo<br>
+en un solo 
+<choice><orig>Ds</orig><reg type="spanish">Dios</reg></choice>
+Verdadero que es 
+<choice><orig>Ds</orig><reg type="spanish">Dios</reg></choice>
+Padre, 
+<choice><orig>Ds</orig><reg type="spanish">Dios</reg></choice>
+hijo, y 
+<choice><orig>Ds</orig><reg type="spanish">Dios</reg></choice>
+Espiritu 
+<choice><orig>Sto</orig><reg type="spanish">Santo</reg></choice>
+tres personas de la 
+<choice><orig>Ssma</orig><reg type="spanish">Santissima</reg></choice>
+trinid y un solo 
+<choice><orig>Ds</orig><reg type="spanish">Dios</reg></choice>
+Verdadero y creo en los 
+<choice><orig>catorse</orig><reg type="spanish">catorce</reg></choice>
+<choice><orig>Articulos</orig><reg type="spanish">Artículos</reg></choice>
+de la fee, y<br>
+también lo que nos manda 
+<choice><orig>Ds</orig><reg type="spanish">Dios</reg></choice>
+en los 
+<choice><orig>dies</orig><reg type="spanish">diez</reg></choice>
+mandamientos<br>
+y en los 
+<choice><orig>sinco</orig><reg type="spanish">cinco</reg></choice>
+mandamiento de 
+<choice><orig>nra</orig><reg type="spanish">nuestra</reg></choice>
+<choice><orig>Sta</orig><reg type="spanish">Santa</reg></choice>
+Maria 
+<choice><orig>Iglecia</orig><reg type="spanish">Iglesia</reg></choice>

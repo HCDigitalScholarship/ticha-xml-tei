@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="TEISchema_current.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<text>
+<pb n="1"/>
+Jacinto Bautista envió a Joseph de Silva, 
+<choice><orig>segun</orig><reg type="spanish">según</reg></choice>
+esta escritura, una 
+<br>
+suerte de tierra solar sembrado de Magueyes que heredo de 
+<choice><orig>Ma</orig><reg type="spanish">María</reg></choice>
+<br>
+Bautista su madre de una medida pequena, que esta detras de la 
+<br>
+casa de 
+<choice><orig>dho</orig><reg type="spanish">dicho</reg></choice>
+Silva, en precio de 
+<choice><orig>sinquenta</orig><reg type="spanish">cincuenta</reg></choice>
+y cinco 
+<choice><orig>p</orig><reg type="spanish">peso</reg></choice>
+que vecino el 
+<choice><orig>dho</orig><reg type="spanish">dicho</reg></choice>
+<br>
+y su 
+<choice><orig>muger</orig><reg type="spanish">mujer</reg></choice>
+Cathalina Bautista Linia por el oriente con tierras del 
+<choice><orig>dho</orig><reg type="spanish">dicho</reg></choice>
+Jacinto Bautista por el poniente con el camino real. Por el Norte 
+<br>
+con tierra del 
+<choice><orig>dho</orig><reg type="spanish">dicho</reg></choice>
+Vendedor. Ir por el Sur con tierras del mismo su 
+<br>
+fha 19 de Dize de 1677- Govudr D Simon se celi Ayala- escrivo 
+<br>
+Joseph Hernan- sse 

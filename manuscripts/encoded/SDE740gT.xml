@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="TEISchema_current.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<text>
+<pb n="1"/><br>
+Yo Don Pedro de Zarate Cassique 
+<choice><orig>Vezino</orig><reg type="spanish">Vecino</reg></choice>
+de esta Ciudad a pedimento de Don Joseph de Silva 
+<choice><orig>tradussí</orig><reg type="spanish">traducí</reg></choice>
+esta 
+<choice><orig>Escriptura</orig><reg type="spanish">Escritura</reg></choice>
+de la 
+<choice><orig>ydioma</orig><reg type="spanish">idioma</reg></choice>
+<choice><orig>Sapoteca</orig><reg type="spanish">Zapoteca</reg></choice>
+en que se 
+<choice><orig>haia</orig><reg type="spanish">haya</reg></choice>
+su original, a la Castellana, 
+<choice><orig>cuio</orig><reg type="spanish">cuyo</reg></choice>
+tenor, es como se sigue<br>
+En el Pueblo de Santo Domingo de la Villa de Etla del estado y marquezado del Valle veinte un días del 
+<choice><orig>mes</orig><reg type="spanish">mis</reg></choice>
+de Julio de mil setecientas y 
+<choice><orig>quarenta</orig><reg type="spanish">cuarenta</reg></choice>
+ante los dos Alcaldes ordinarios Y sidro de los Reyes Persona y natural del Pueb de los (S. torres) Rey francisco de 
+<choice><orig>Sntiago</orig><reg type="spanish">Santiago</reg></choice>
+también Rexos suyos Sebastian de la Thorres, Nicolas herederos, y los testigos, también yo el Escribano doy 
+<choice><orig>fee</orig><reg type="spanish">fe</reg></choice>
+de Verdad todas las personas, y naturales del Pueblo mismo también 
+<choice><orig>conosco</orig><reg type="spanish">conozco</reg></choice>
+compareció María nativitas también los dos sus hijos Michaela y Antonio esta tierra digo yo heredo María nativitas los dos la difunta su 
+<choice><orig>herd</orig><reg type="spanish">heredero</reg></choice>
+María de Chaves Viuda 
+<choice><orig>Muger</orig><reg type="spanish">Mujer</reg></choice>
+fue del difunto 
+<choice><orig>Sntiago</orig><reg type="spanish">Santiago</reg></choice>
+Mendes como si fuera la propria persona de estos dos difuntos Compareció un hijo de Pedro Mendes y también la misma María nativitas esta tierra la heredo en una clausula de testamento del difunto su Padre Gabriel del Chaves y Petrona de Chaves 
+<choice><orig>aora</orig><reg type="spanish">ahora</reg></choice>
+pide 
+<choice><orig>licencia</orig><reg type="spanish">licencia</reg></choice>
+y Merced ante los dos Alcaldes 
+<choice><orig>pr</orig><reg type="spanish">por</reg></choice>
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+quieren vender 
+<choice><orig>realmte</orig><reg type="spanish">realmente</reg></choice>
+esta tierra la compra el Principal Joseph de Silva y también 
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+se haga un papel de 
+<choice><orig>Escriptura</orig><reg type="spanish">Escritura</reg></choice>
+de esta misma tierra y se halla en el parade 
+<choice><orig>onde</orig><reg type="spanish">dónde</reg></choice>
+le 
+<choice><orig>dicen</orig><reg type="spanish">dicen</reg></choice>
+lao quia estancia (que quiere decir) la casa del Cerro de la estancia y es tierra de temporal caben 
+<choice><orig>quinze</orig><reg type="spanish">quince</reg></choice>
+almudes de trigo y esta tierra la 
+<choice><orig>benden</orig><reg type="spanish">venden</reg></choice>
+<choice><orig>realmte</orig><reg type="spanish">realmente</reg></choice>
+la compra el Principal Joseph de Silva 
+<choice><orig>assi</orig><reg type="spanish">así</reg></choice>
+mismo natural y 
+<choice><orig>vezino</orig><reg type="spanish">vecino</reg></choice>
+de este Pueblo y por el tanto le tomo el<br>
+<br>
+<pb n="2"/><br>
+Principal Alcalde Juramento a la misma Persona que vende esta tierra 
+<choice><orig>pr</orig><reg type="spanish">por</reg></choice>
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+declare verdaderamente se es su querer bien vende su sitio también le tiene otras partes de tierras en donde aren y trabajen sus hijos y nietos para 
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+hallen tributos limosnas 
+<choice><orig>aora</orig><reg type="spanish">ahora</reg></choice>
+y siempre 
+<choice><orig>aora</orig><reg type="spanish">ahora</reg></choice>
+<choice><orig>dicen</orig><reg type="spanish">dicen</reg></choice>
+señores casique 
+<choice><orig>Justicia</orig><reg type="spanish">Justicia</reg></choice>
+verdaderamente vendemos esta tierra entre los dos mi sobrino Pedro de 
+<choice><orig>Sntiago</orig><reg type="spanish">Santiago</reg></choice>
+hijo de la difunta Fraria de Chaves verdad hacemos Juramento y hacemos 
+<choice><orig>pr</orig><reg type="spanish">por</reg></choice>
+<choice><orig>nro</orig><reg type="spanish">nuestro</reg></choice>
+Amo 
+<choice><orig>Ds</orig><reg type="spanish">Dios</reg></choice>
+y la Señal de la cruz verdad 
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+es 
+<choice><orig>nro</orig><reg type="spanish">nuestro</reg></choice>
+querer vendemos 
+<choice><orig>realmte</orig><reg type="spanish">realmente</reg></choice>
+lo 
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+es nuestro sitio y por 
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+tienen otras partes de tierras donde aren mis hijos 
+<choice><orig>aora</orig><reg type="spanish">ahora</reg></choice>
+y siempre todas estas palabras 
+<choice><orig>dixo</orig><reg type="spanish">dijo</reg></choice>
+la compra el Principal Joseph de Silva y le da siete 
+<choice><orig>ps</orig><reg type="spanish">pesos</reg></choice>
+dinero en plata efectiva tomo con las manos la misma María nativitas los dos su sobrino Pedro Mendes y 
+<choice><orig>p</orig><reg type="spanish">peso</reg></choice>
+el tanto de clara como es los linderos en contorno 
+<choice><orig>assi</orig><reg type="spanish">así</reg></choice>
+por donde nace el sol junta la de Michaela 
+<choice><orig>Franes</orig><reg type="spanish">Frances</reg></choice>
+este clavado piedra por lindero- 
+<choice><orig>assi</orig><reg type="spanish">así</reg></choice>
+el norte Junta de la suya del mismo Principal Joseph de Silva se Junto y se encorporo la tierra suya- 
+<choice><orig>assi</orig><reg type="spanish">así</reg></choice>
+por 
+<choice><orig>onde</orig><reg type="spanish">dónde</reg></choice>
+se mete el sol Junta de Domingo Mendes 
+<choice><orig>culevrina</orig><reg type="spanish">culebrina</reg></choice>
+de tierra es lindero- 
+<choice><orig>assi</orig><reg type="spanish">así</reg></choice>
+Oaxaca Junta con la del 
+<choice><orig>Ssmo</orig><reg type="spanish">Santissimo</reg></choice>
+Sacramento Santa puesta puesta es lindero- así esta los linderos de contorno de este tierra y declaro la Persona 
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+vende esta tierra 
+<choice><orig>aora</orig><reg type="spanish">ahora</reg></choice>
+dice 
+<choice><orig>assi</orig><reg type="spanish">así</reg></choice>
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+se a para y se exime de todo el poder suyo 
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+tenía en este tierra se le 
+<choice><orig>entriega</orig><reg type="spanish">entrega</reg></choice>
+en manos de el mismo<br>
+Prin<br>
+<br>
+<pb n="3"/><br>
+cipal Joseph de Silva 
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+hagan lo 
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+quisieren sus hijos y nietos 
+<choice><orig>aora</orig><reg type="spanish">ahora</reg></choice>
+y siempre y también dice ningún hijo y nieto suyo mencionen esta tierra en ningún otro 
+<choice><orig>ocación</orig><reg type="spanish">ocasión</reg></choice>
+porque de su bella gracia y 
+<choice><orig>pr</orig><reg type="spanish">por</reg></choice>
+su bien querer 
+<choice><orig>pr</orig><reg type="spanish">por</reg></choice>
+todos estos razones 
+<choice><orig>dicen</orig><reg type="spanish">dicen</reg></choice>
+las Personas se algún hijos suyo o nietos mencionen o piden este tierra que en otro 
+<choice><orig>ocación</orig><reg type="spanish">ocasión</reg></choice>
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+<choice><orig>pr</orig><reg type="spanish">por</reg></choice>
+entonces se demuestra este papel 
+<choice><orig>Escriptura</orig><reg type="spanish">Escritura</reg></choice>
+de venta ante 
+<choice><orig>qualquiera</orig><reg type="spanish">cualquiera</reg></choice>
+<choice><orig>Justicia</orig><reg type="spanish">Justicia</reg></choice>
+Mayor 
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+page la pena de 
+<choice><orig>seys</orig><reg type="spanish">seis</reg></choice>
+<choice><orig>ps</orig><reg type="spanish">pesos</reg></choice>
+que sea suyo de 
+<choice><orig>qual</orig><reg type="spanish">cual</reg></choice>
+quiera 
+<choice><orig>Justicia</orig><reg type="spanish">Justicia</reg></choice>
+todas estas palabras salco 
+<choice><orig>pr</orig><reg type="spanish">por</reg></choice>
+voca de esta Persona y lo oyeron los tres testigos 
+<choice><orig>Dn</orig><reg type="spanish">Don</reg></choice>
+Calletano- 
+<choice><orig>Dn</orig><reg type="spanish">Don</reg></choice>
+Pedro de Zarate- 
+<choice><orig>Anto</orig><reg type="spanish">Antonio</reg></choice>
+Mendes 
+<choice><orig>qn</orig><reg type="spanish">quien</reg></choice>
+<choice><orig>dixo</orig><reg type="spanish">dijo</reg></choice>
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+pusiera su firma dentro de este papel de 
+<choice><orig>Escriptura</orig><reg type="spanish">Escritura</reg></choice>
+pero las Personas 
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+vendieron esta tierra no pusieron sus firmas 
+<choice><orig>porq</orig><reg type="spanish">porque</reg></choice>
+no saben de letras y por en tanto pidieron Merced ante mi el Escribano sus nombres dentro de este papel de 
+<choice><orig>Escriptura</orig><reg type="spanish">Escritura</reg></choice>
+esta razón doy yo de Verdad el mismo día 
+<choice><orig>mes</orig><reg type="spanish">mis</reg></choice>
+y año- María de Chaves- Pedro de 
+<choice><orig>Sntiago</orig><reg type="spanish">Santiago</reg></choice>
+y Mendes- 
+<choice><orig>Dn</orig><reg type="spanish">Don</reg></choice>
+Pedro de Zarate- 
+<choice><orig>Dn</orig><reg type="spanish">Don</reg></choice>
+Calletano de Zarate- Ysidro de los Reyes Alcalde- 
+<choice><orig>Anto</orig><reg type="spanish">Antonio</reg></choice>
+Frances Sebastian de la thorres- Ante mi Ignacio (Peris?) 
+<choice><orig>Essno</orig><reg type="spanish">Escribano</reg></choice>
+<br>
+La 
+<choice><orig>qual</orig><reg type="spanish">cual</reg></choice>
+esta sacada concentrada y corregida de su original 
+<choice><orig>según</orig><reg type="spanish">según</reg></choice>
+mi leal saber y entender haci lo Juro en toda forma de aro y porque conste lo firme en Oaxaca y 
+<choice><orig>Noviembre</orig><reg type="spanish">Noviembre</reg></choice>
+diez de mil setecientos 
+<choice><orig>quarenta</orig><reg type="spanish">cuarenta</reg></choice>
+y nueve años. 
+<br>
+Pedro de Zarate 
+<br>
+En obedecimiento y cumplimiento de lo mandado por el Juez de testamentos 
+<choice><orig>Capellanias</orig><reg type="spanish">Capellanías</reg></choice>
+y obras<br>
+<br>
+<pb n="4"/><br>
+<choice><orig>pias</orig><reg type="spanish">pías</reg></choice>
+de este 
+<choice><orig>Obpdo</orig><reg type="spanish">Obispado</reg></choice>
+prosedí, 
+<choice><orig>hazer</orig><reg type="spanish">hacer</reg></choice>
+el cotejo de el instrumento que antessede Con su original Zapoteco, y 
+<choice><orig>haye</orig><reg type="spanish">haya</reg></choice>
+<choice><orig>según</orig><reg type="spanish">según</reg></choice>
+mi leal saber y entender, estar sacado 
+<choice><orig>fielmte</orig><reg type="spanish">fielmente</reg></choice>
+a la letra sin añadir ni quitar y por ser verdad lo declaro socargo del 
+<choice><orig>juramto</orig><reg type="spanish">juramento</reg></choice>
+que ante su 
+<choice><orig>Merc</orig><reg type="spanish">Merced</reg></choice>
+tengo 
+<choice><orig>dho</orig><reg type="spanish">dicho</reg></choice>
+en que me afirmo, y ratifico, lo firme en esta Ciudad de Antequera y Adui. -20 de 1742 a 
+<br>
+Manuel 
+<choice><orig>Diaz</orig><reg type="spanish">Diez</reg></choice>
+<choice><orig>Ynterprete</orig><reg type="spanish">Interprete</reg></choice>

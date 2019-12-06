@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="TEISchema_current.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<text>
+<pb n="1"/><br>
+En este Pueblo dejan 
+<choice><orig>Brme</orig><reg type="spanish">Bartholome</reg></choice>
+<choice><orig>coyo</orig><reg type="spanish">cuyo</reg></choice>
+Tepeque se la Jurisdicción de la 
+<br>
+ciudad, de Oaxaca 
+<choice><orig>oy</orig><reg type="spanish">hoy</reg></choice>
+martes, a 
+<choice><orig>dizie</orig><reg type="spanish">diece</reg></choice>
+y 
+<choice><orig>nuebe</orig><reg type="spanish">nueve</reg></choice>
+días del 
+<choice><orig>mes</orig><reg type="spanish">mis</reg></choice>
+<br>
+de Agosto de 
+<choice><orig>Mill</orig><reg type="spanish">Mil</reg></choice>
+<choice><orig>setesientos</orig><reg type="spanish">setecientos</reg></choice>
+y 
+<choice><orig>beinte</orig><reg type="spanish">veinte</reg></choice>
+y uno 
+<choice><orig>Nacio</orig><reg type="spanish">Nació</reg></choice>
+el 
+<br>
+hijo de dios en este mundo de 1731 año- 
+<br>
+Sepan todos 
+<choice><orig>quantors</orig><reg type="spanish">cuantos</reg></choice>
+dieren este escrito 
+<choice><orig>coyo</orig><reg type="spanish">cuyo</reg></choice>
+María de 
+<br>
+la Cruz y dionicio y 
+<choice><orig>soi</orig><reg type="spanish">soy</reg></choice>
+hija 
+<choice><orig>lixitima</orig><reg type="spanish">ligitima</reg></choice>
+de Matias de la<br>
+Cruz y de mi Madre la difunta Juana dio mío por 
+<br>
+lo 
+<choice><orig>qual</orig><reg type="spanish">cual</reg></choice>
+hago mi memoria de testamto, con (mentiro?) 
+<br>
+(?) y entendimiento y por lo 
+<choice><orig>qual</orig><reg type="spanish">cual</reg></choice>
+declaro y di<br>
+go que 
+<choice><orig>soi</orig><reg type="spanish">soy</reg></choice>
+christiana Bautizada por la grasia de 
+<br>
+dios, y digo en el nombre de dios Padre dios hijo dios espi<br>
+ritu Santo que son de ellos tres personas un (?) dios 
+<choice><orig>berdadero</orig><reg type="spanish">verdadero</reg></choice>
+<br>
+Creo en la 
+<choice><orig>birgen</orig><reg type="spanish">virgen</reg></choice>
+Santissima que es La (Me?) de la 
+<choice><orig>segun</orig><reg type="spanish">según</reg></choice>
+da persona de la Santissima trinidad, creo todas las 
+<br>
+palabras de 
+<choice><orig>nra</orig><reg type="spanish">nuestra</reg></choice>
+Santa (Me?) yglecia, Creo la 
+<choice><orig>comunion</orig><reg type="spanish">comunión</reg></choice>
+<br>
+de los Santos y Santas, Creo el perdón de los pecados 
+<br>
+creo la 
+<choice><orig>resureción</orig><reg type="spanish">resurrección</reg></choice>
+de la Carne. Creo la 
+<choice><orig>bida</orig><reg type="spanish">vida</reg></choice>
+per du<br>
+rable en el 
+<choice><orig>Reyno</orig><reg type="spanish">Reino</reg></choice>
+de los cielos para si en prefa<br>
+<choice><orig>mas</orig><reg type="spanish">más</reg></choice>
+A (Menjes?) (un?) María y Joseph- 
+<choice><orig>Agora</orig><reg type="spanish">Ahora</reg></choice>
+digo la enferma que me hallo mi pobre<br>
+y tengo 
+<choice><orig>dizi</orig><reg type="spanish">dieci</reg></choice>
+y siete años que me 
+<choice><orig>aga</orig><reg type="spanish">haga</reg></choice>
+<choice><orig>nro</orig><reg type="spanish">nuestro</reg></choice>
+mi tío 
+<br>
+Juana de la Cruz que entierre mi Cuerpo 
+<choice><orig>quando</orig><reg type="spanish">cuando</reg></choice>
+<br>
+fuere servido 
+<choice><orig>nro</orig><reg type="spanish">nuestro</reg></choice>
+señor dios me muera y me 
+<br>
+compre un abito de San Franco para mostrar<br>
+me y también pagara una 
+<choice><orig>missa</orig><reg type="spanish">misa</reg></choice>
+de (deuijilia?) 
+<br>
+de cuerpo presente 
+<choice><orig>quando</orig><reg type="spanish">cuando</reg></choice>
+yo me muera y, 
+<br>
+también pagara otra 
+<choice><orig>missa</orig><reg type="spanish">misa</reg></choice>
+Cantada de mi tes<br>
+tamto a los 
+<choice><orig>nuebe</orig><reg type="spanish">nueve</reg></choice>
+días al padre sazerdote- 
+<br>
+Yten dos reales 
+<choice><orig>doi</orig><reg type="spanish">doy</reg></choice>
+de limosna el la caja de San<br>
+ta Jeruzelen- Yten a real 
+<choice><orig>doi</orig><reg type="spanish">doy</reg></choice>
+de limosnas 
+<br>
+de cada Altar que 
+<choice><orig>estan</orig><reg type="spanish">están</reg></choice>
+en la 
+<choice><orig>yglecia</orig><reg type="spanish">iglesia</reg></choice>
+(?) 
+<choice><orig>dho</orig><reg type="spanish">dicho</reg></choice>
+<br>
+<pb n="2"/><br>
+Pueblo que son por todos quince reales- 
+<choice><orig>Agora</orig><reg type="spanish">Ahora</reg></choice>
+digo la enferma un pedazo de tierra y sola 
+<br>
+mía y dos Cajos el uno que (?) 
+<choice><orig>asia</orig><reg type="spanish">hacía</reg></choice>
+<choice><orig>asia</orig><reg type="spanish">hacía</reg></choice>
+<br>
+aparte de Oaxaca y la otra que (mira?) 
+<choice><orig>asia</orig><reg type="spanish">hacía</reg></choice>
+a la 
+<br>
+parte del poniente, esta 
+<choice><orig>dha</orig><reg type="spanish">dicha</reg></choice>
+tierra y se las y ta<br>
+mbién la caja que fue de la difunta mi a<br>
+buela Juana Un Sula diónico y fue la que 
+<br>
+parió la difunta mi (Me.?) que también se 
+<br>
+llamaba Juana (diónico?) esta 
+<choice><orig>dha</orig><reg type="spanish">dicha</reg></choice>
+tierra y 
+<br>
+solar linda con la mojonera del difunto 
+<br>
+Bernardino de Gusmán 
+<choice><orig>asia</orig><reg type="spanish">hacía</reg></choice>
+a la parte 
+<br>
+que mira San martin, y Linda Con la 
+<br>
+mojonera de 
+<choice><orig>Bizente</orig><reg type="spanish">Vicente</reg></choice>
+de Mendoza asia, 
+<br>
+al poniente, y por la parte que mira 
+<br>
+Oaxaca linda con el solar de 
+<choice><orig>Dn</orig><reg type="spanish">Don</reg></choice>
+Nicolas Lo<br>
+pes (yan?) la (mino?) en medio y por la parte que 
+<br>
+mira al oriente Linda Con la mojonera 
+<br>
+de Pecho de contreras y un Camino Real<br>
+en medio, este 
+<choice><orig>dho</orig><reg type="spanish">dicho</reg></choice>
+solar y también mi ca<br>
+sa se la 
+<choice><orig>doi</orig><reg type="spanish">doy</reg></choice>
+a mi tío Juan de la Cruz- 
+<br>
+Ytten un 
+<choice><orig>pedaso</orig><reg type="spanish">pedazo</reg></choice>
+de tierra y solar mi esta adon<br>
+de Linda Con tierra y solar del difunto se<br>
+bastián 
+<choice><orig>Bizente</orig><reg type="spanish">Vicente</reg></choice>
+que es por la parte del o<br>
+riente Y Linda Con el solar del difunto<br>
+Thomas Lorenzo 
+<choice><orig>asia</orig><reg type="spanish">hacía</reg></choice>
+a la parte que mira<br>
+San Martín y por la parte que mira del po<br>
+niente Linda Con pedro 
+<choice><orig>Gomes</orig><reg type="spanish">Gomez</reg></choice>
+y un cami<br>
+no Real en medio, Y por la parte que mi<br>
+ra Oaxaca Linda con el difunto Andres 
+<br>
+Lopees xazee esta 
+<choice><orig>dha</orig><reg type="spanish">dicha</reg></choice>
+tierra solar que lo 
+<br>
+herede mi tío Juan de la Cruz- 
+<br>
+<pb n="3"/><br>
+Yten otro solar mía que linda en la mojone<br>
+ra de 
+<choice><orig>Dn</orig><reg type="spanish">Don</reg></choice>
+Antonio de Aquino y prado por la 
+<br>
+parte del oriente, y por la parte que mira San 
+<br>
+Martín Linda Con la mojonera del 
+<choice><orig>difun</orig><reg type="spanish">difunto</reg></choice>
+to 
+<choice><orig>Brme</orig><reg type="spanish">Bartholome</reg></choice>
+de la Cruz, y por la parte que mira 
+<br>
+al poniente Linda Con la mojonera de Die<br>
+go 
+<choice><orig>Lopes</orig><reg type="spanish">Lopez</reg></choice>
+de Cordoba, y por la parte que mira 
+<br>
+Oaxaca Linda con la mojonera de 
+<choice><orig>Franca</orig><reg type="spanish">Francisca</reg></choice>
+<br>
+Sanches, y un camino Real en medio esta 
+<choice><orig>dha</orig><reg type="spanish">dicha</reg></choice>
+tierra se la dejo de limosna a la cofra 
+<br>
+día de 
+<choice><orig>nra</orig><reg type="spanish">nuestra</reg></choice>
+Señora del Rossario- 
+<br>
+Yten otro 
+<choice><orig>pedaso</orig><reg type="spanish">pedazo</reg></choice>
+de tierra de siembra de tempora<br>
+l mía que esta en el paraje 
+<choice><orig>nombrado</orig><reg type="spanish">nombrado</reg></choice>
+escoa que 
+<br>
+Linda Con la mojonera del difunto Martín Lo<br>
+pez 
+<choice><orig>asia</orig><reg type="spanish">hacía</reg></choice>
+a la parte del oriente, y Linda con la mo<br>
+jonera de diego Luis por la parte que mira San Mar<br>
+tín, y por la parte del poniente Linda con la 
+<br>
+mojonera del difunto Andres Gomez esta 
+<choice><orig>dha</orig><reg type="spanish">dicha</reg></choice>
+tierra se la 
+<choice><orig>doi</orig><reg type="spanish">doy</reg></choice>
+a mi tío Juan de la Cruz- 
+<br>
+Yten otro 
+<choice><orig>pedaso</orig><reg type="spanish">pedazo</reg></choice>
+de tierra de siembra de temporal<br>
+que esta en el paraje 
+<choice><orig>nonbrado</orig><reg type="spanish">nombrado</reg></choice>
+Lachi quiahuij Lin<br>
+da con la mojonera del difunto Manuel Curiel<br>
+que es por la parte del oriente y también Linda<br>
+Con la mojonera de Don Gregorio Juan por la 
+<choice><orig>par</orig><reg type="spanish">para</reg></choice>
+te que mira San Martín, y por la parte que mi<br>
+ra al poniente linda Con la mojonera del<br>
+difunto Pedro Lopez quiquetani esta 
+<choice><orig>dha</orig><reg type="spanish">dicha</reg></choice>
+tie<br>
+rra se la doi, mi tío Juan de la Cruz-<br>
+ytten otro 
+<choice><orig>pedaso</orig><reg type="spanish">pedazo</reg></choice>
+de tierra de 
+<choice><orig>sienbra</orig><reg type="spanish">siembra</reg></choice>
+de 
+<choice><orig>tenporal</orig><reg type="spanish">temporal</reg></choice>
+que esta 
+<choice><orig>tanbien</orig><reg type="spanish">también</reg></choice>
+en el paraje Lachijqiahuij<br>
+Linda Con La mojonera del difunto 
+<choice><orig>Barme</orig><reg type="spanish">Bartholome</reg></choice>
+pablo y también Linda con la mojonera<br>
+<br>
+<pb n="4"/><br>
+del difunto Lorenzo benito 
+<choice><orig>asia</orig><reg type="spanish">hacía</reg></choice>
+a la parte 
+<br>
+que mira Oaxaca esta 
+<choice><orig>dha</orig><reg type="spanish">dicha</reg></choice>
+tierra que lo he 
+<br>
+de mi tío Juan de la Cruz- 
+<br>
+Yten otro Pedazo de tierra de 
+<choice><orig>sienbra</orig><reg type="spanish">siembra</reg></choice>
+de temp<br>
+oral que esta también en el paraje 
+<choice><orig>nombrado</orig><reg type="spanish">nombrado</reg></choice>
+<br>
+Lachiquiahui que Linda con la mojonera 
+<br>
+de 
+<choice><orig>Dn</orig><reg type="spanish">Don</reg></choice>
+Juan García (?) por la parte que mi<br>
+ra Oaxaca, y linda con la mojonera 
+<br>
+de 
+<choice><orig>Dn</orig><reg type="spanish">Don</reg></choice>
+Marcial Luís Gregorio por la parte 
+<br>
+de poniente, y por la que mira San Martín 
+<br>
+Linda Con la mojonera de Pecho (decontreras?), 
+<br>
+esta 
+<choice><orig>dha</orig><reg type="spanish">dicha</reg></choice>
+tierra se la 
+<choice><orig>doi</orig><reg type="spanish">doy</reg></choice>
+mi tío Juan 
+<br>
+de la La Cruz- 
+<choice><orig>Agora</orig><reg type="spanish">Ahora</reg></choice>
+digo yo La enferma que la tierra 
+<br>
+de si en brade humedad La que 
+<choice><orig>bendió</orig><reg type="spanish">vendió</reg></choice>
+el di<br>
+funto 
+<choice><orig>Brme</orig><reg type="spanish">Bartholome</reg></choice>
+Martín y lo Compro en Bernabel 
+<choice><orig>Peres</orig><reg type="spanish">Perez</reg></choice>
+esta 
+<choice><orig>dha</orig><reg type="spanish">dicha</reg></choice>
+tierra reza el escrito 
+<br>
+que esta en el Archivo, de 
+<choice><orig>Dn</orig><reg type="spanish">Don</reg></choice>
+<choice><orig>Geronimo</orig><reg type="spanish">Geronimo</reg></choice>
+<br>
+Chrispin 
+<choice><orig>dha</orig><reg type="spanish">dicha</reg></choice>
+tierra esta en pleito no lo 
+<br>
+debe el 
+<choice><orig>dho</orig><reg type="spanish">dicho</reg></choice>
+<choice><orig>Brme</orig><reg type="spanish">Bartholome</reg></choice>
+Marín 
+<choice><orig>bender</orig><reg type="spanish">vender</reg></choice>
+las 
+<choice><orig>dha</orig><reg type="spanish">dicha</reg></choice>
+<br>
+tierra linda con la mojonera de Juan de 
+<br>
+a torres 
+<choice><orig>asia</orig><reg type="spanish">hacía</reg></choice>
+la parte que mira Oaxaca 
+<br>
+y Linda Con el sitio de 
+<choice><orig>Dn</orig><reg type="spanish">Don</reg></choice>
+Thomas bare 
+<br>
+la que es por la parte que mira al poni<br>
+ente y linda con la mojonera del difu<br>
+nto 
+<choice><orig>Dn</orig><reg type="spanish">Don</reg></choice>
+Marcos 
+<choice><orig>Peres</orig><reg type="spanish">Perez</reg></choice>
+<choice><orig>asia</orig><reg type="spanish">hacía</reg></choice>
+la parte que 
+<br>
+mira San Martín y por la parte y por 
+<br>
+la parte del oriente esta el Agua del 
+<br>
+río esta 
+<choice><orig>dha</orig><reg type="spanish">dicha</reg></choice>
+tierra Lorres 
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+ate mi tío 
+<br>
+<pb n="5"/><br>
+en poder de 
+<choice><orig>Dn</orig><reg type="spanish">Don</reg></choice>
+Bernabel 
+<choice><orig>Peres</orig><reg type="spanish">Perez</reg></choice>
+y sola tomara 
+<choice><orig>dha</orig><reg type="spanish">dicha</reg></choice>
+<br>
+tierra mi tío Juan de la Cruz así digo la enfer<br>
+ma- 
+<choice><orig>Agora</orig><reg type="spanish">Ahora</reg></choice>
+digo y la enferma todos las (gima?) 
+<br>
+genes de 
+<choice><orig>Siento</orig><reg type="spanish">Cierto</reg></choice>
+que 
+<choice><orig>estan</orig><reg type="spanish">están</reg></choice>
+dentro de esta mi ca<br>
+ja se la 
+<choice><orig>doi</orig><reg type="spanish">doy</reg></choice>
+mi tío Juan de la Cruz- 
+<br>
+Yten 
+<choice><orig>biente</orig><reg type="spanish">veinte</reg></choice>
+pesos que me de(?) Pasqual 
+<choice><orig>peres</orig><reg type="spanish">perez</reg></choice>
+<br>
+ocho de maqueyes que 
+<choice><orig>quebro</orig><reg type="spanish">quebró</reg></choice>
+que se la dio 
+<choice><orig>Dn</orig><reg type="spanish">Don</reg></choice>
+Agustin de morales mi alba sea que 
+<choice><orig>p</orig><reg type="spanish">peso</reg></choice>
+uso 
+<choice><orig>enbio</orig><reg type="spanish">envió</reg></choice>
+el Señor Corregidor 
+<choice><orig>Dn</orig><reg type="spanish">Don</reg></choice>
+Juan 
+<br>
+Damian para que Cuiede de mil bienes es<br>
+ta 
+<choice><orig>dha</orig><reg type="spanish">dicha</reg></choice>
+Cantidad de los 
+<choice><orig>beinte</orig><reg type="spanish">veinte</reg></choice>
+pesos se los 
+<br>
+cobrara mi tío, a pasqual 
+<choice><orig>peres</orig><reg type="spanish">perez</reg></choice>
+para el 
+<br>
+gasto de mi enfermedad o para mi entierrio- 20p 
+<br>
+Yten ocho magueyes que 
+<choice><orig>estan</orig><reg type="spanish">están</reg></choice>
+en el solar 
+<br>
+adonde linda con diego 
+<choice><orig>lopes</orig><reg type="spanish">lopez</reg></choice>
+de cordoba 
+<choice><orig>dhos</orig><reg type="spanish">dichos</reg></choice>
+<br>
+magueyes se la 
+<choice><orig>disi</orig><reg type="spanish">dice</reg></choice>
+mi tío Juan de la Cruz- 
+<choice><orig>Agora</orig><reg type="spanish">Ahora</reg></choice>
+digo yo la enferma una cobija de (conbrai?) 
+<br>
+(conpuntos?) de Castilla y una guipile le 
+<br>
+da en Carnada 
+<choice><orig>dha</orig><reg type="spanish">dicha</reg></choice>
+guipi le y la cobija 
+<br>
+lo cobra me tío Juan de la Cruz a otro mi 
+<br>
+tío Felipe de la Cruz las dos estas ropas los 
+<choice><orig>benda</orig><reg type="spanish">venda</reg></choice>
+para que pague de misas por 
+<br>
+mi 
+<choice><orig>quando</orig><reg type="spanish">cuando</reg></choice>
+<choice><orig>nro</orig><reg type="spanish">nuestro</reg></choice>
+dios fuere servido me mu<br>
+era- Yten una meza y una banca se la 
+<choice><orig>doi</orig><reg type="spanish">doy</reg></choice>
+me tío Juan de la Cruz- 
+<br>
+A Si mando María de la Cruz en su testamto 
+<br>
+ante los testigos Franco Lorenzo bize 
+<choice><orig>re</orig><reg type="spanish">reales</reg></choice>
+<br>
+de Mendoza y pedro de la Cruz y porque 
+<br>
+conste lo firmaron los testigos Ante 
+<br>
+<pb n="6"/><br>
+mi el escribano de Cabildo 
+<choice><orig>deste</orig><reg type="spanish">de este</reg></choice>
+<choice><orig>dho</orig><reg type="spanish">dicho</reg></choice>
+pueblo 
+<br>
+(lo?) (uno?) 
+<choice><orig>berdad</orig><reg type="spanish">verdad</reg></choice>
+<choice><orig>doi</orig><reg type="spanish">doy</reg></choice>
+<choice><orig>fee</orig><reg type="spanish">fe</reg></choice>
+Franco Lorenzo 
+<choice><orig>Bizente</orig><reg type="spanish">Vicente</reg></choice>
+<br>
+de Mendoza y Pedro de la Cruz Ante mi 
+<choice><orig>Dn</orig><reg type="spanish">Don</reg></choice>
+Franco Lopez escribano- 
+<br>
+Yo 
+<choice><orig>Dn</orig><reg type="spanish">Don</reg></choice>
+Franco 
+<choice><orig>Lopes</orig><reg type="spanish">Lopez</reg></choice>
+escribano de (?) 
+<choice><orig>deste</orig><reg type="spanish">de este</reg></choice>
+<choice><orig>dho</orig><reg type="spanish">dicho</reg></choice>
+Pueblo como 
+<choice><orig>berdad</orig><reg type="spanish">verdad</reg></choice>
+saque un tan<br>
+to del testamto original de la difunta 
+<br>
+María de la Cruz por lo 
+<choice><orig>qual</orig><reg type="spanish">cual</reg></choice>
+le 
+<choice><orig>doi</orig><reg type="spanish">doy</reg></choice>
+este 
+<br>
+testimonio 
+<choice><orig>oy</orig><reg type="spanish">hoy</reg></choice>
+día en 
+<choice><orig>beinte</orig><reg type="spanish">veinte</reg></choice>
+y 
+<choice><orig>nuebe</orig><reg type="spanish">nueve</reg></choice>
+<br>
+días del 
+<choice><orig>mes</orig><reg type="spanish">mis</reg></choice>
+de Agosto, testimonio de 
+<br>
+berdad, 
+<choice><orig>Dn</orig><reg type="spanish">Don</reg></choice>
+Franco Lopez escribano- 
+<br>
+En 
+<choice><orig>dizi</orig><reg type="spanish">dieci</reg></choice>
+y siete días del 
+<choice><orig>mes</orig><reg type="spanish">mis</reg></choice>
+de Junio de 
+<choice><orig>mill</orig><reg type="spanish">mil</reg></choice>
+<choice><orig>setesientos</orig><reg type="spanish">setecientos</reg></choice>
+y 
+<choice><orig>traynta</orig><reg type="spanish">treinta</reg></choice>
+años (vezue?) la li<br>
+mosna que fueron dos pesos de la 
+<choice><orig>missa</orig><reg type="spanish">misa</reg></choice>
+<br>
+del testamto 
+<choice><orig>deste</orig><reg type="spanish">de este</reg></choice>
+difunto por que con<br>
+ste lo firme y es 
+<choice><orig>adbertir</orig><reg type="spanish">advertir</reg></choice>
+que dio esta 
+<br>
+limosna Juan de la Cruz fray (Ju?)Ruiz- 
+<br>
+Yo Thomas Gomez Interprete General del los 
+<br>
+gasto del Señor 
+<choice><orig>Dn</orig><reg type="spanish">Don</reg></choice>
+Blas Martines del 
+<br>
+campo Corregidor (delauiid?) de Ante Valle 
+<br>
+de Oaxaca y su 
+<choice><orig>jurisdición</orig><reg type="spanish">jurisdicción</reg></choice>
+por el 
+<choice><orig>Reyno</orig><reg type="spanish">Reino</reg></choice>
+Se<br>
+ñor 
+<choice><orig>tresunte</orig><reg type="spanish">trasunte</reg></choice>
+este testamto que 
+<choice><orig>ba</orig><reg type="spanish">va</reg></choice>
+bien 
+<choice><orig>ydioma</orig><reg type="spanish">idioma</reg></choice>
+zapoteco en que esta a la lengua 
+<br>
+y la señal de la santa cruz y es 
+<choice><orig>dho</orig><reg type="spanish">dicho</reg></choice>
+en esta 
+<br>
+días del 
+<choice><orig>mes</orig><reg type="spanish">mis</reg></choice>
+de Agosto de Oaxaca en 
+<choice><orig>quatro</orig><reg type="spanish">cuatro</reg></choice>
+<br>
+días del 
+<choice><orig>mes</orig><reg type="spanish">mis</reg></choice>
+de Agosto de 
+<choice><orig>mill</orig><reg type="spanish">mil</reg></choice>
+setesiento y 
+<choice><orig>traynta</orig><reg type="spanish">treinta</reg></choice>
+y un año- 
+<br>
+Thomas Gomez 

@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="TEISchema_current.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<text>
+<pb n="1"/> 
+<br>
+Yo el 
+<choice><orig>Ynterprete</orig><reg type="spanish">Interprete</reg></choice>
+del 
+<choice><orig>Jusgado</orig><reg type="spanish">Juzgado</reg></choice>
+del 
+<choice><orig>Sr</orig><reg type="spanish">Señor</reg></choice>
+<choice><orig>Capithan</orig><reg type="spanish">Capitán</reg></choice>
+<br>
+y Ayudante mayor del 
+<choice><orig>Reximiento</orig><reg type="spanish">Regimiento</reg></choice>
+de Dragones 
+<br>
+Provinciales de 
+<choice><orig>Guathemala</orig><reg type="spanish">Guatemala</reg></choice>
+<choice><orig>Dn</orig><reg type="spanish">Don</reg></choice>
+<choice><orig>Jphe</orig><reg type="spanish">Joseph</reg></choice>
+Mariano 
+<br>
+de Llano 
+<choice><orig>Correxidor</orig><reg type="spanish">Corregidor</reg></choice>
+por su 
+<choice><orig>Mgd</orig><reg type="spanish">Magistad</reg></choice>
+<choice><orig>desta</orig><reg type="spanish">de esta</reg></choice>
+ciudad 
+<br>
+y su Jurisdision, y 
+<choice><orig>theniente</orig><reg type="spanish">teniente</reg></choice>
+de 
+<choice><orig>capithan</orig><reg type="spanish">capitán</reg></choice>
+General 
+<choice><orig>Jues</orig><reg type="spanish">Juez</reg></choice>
+de Agravio Apelaciones 
+<choice><orig>Rexistro</orig><reg type="spanish">Registro</reg></choice>
+Reales 
+<choice><orig>qui</orig><reg type="spanish">quí</reg></choice>
+<br>
+nto Visitador de Yngenios, y trapiches 
+<choice><orig>Jues</orig><reg type="spanish">Juez</reg></choice>
+de 
+<br>
+Obra fe, Panaderías y ofisina, de fabrica de lana 
+<br>
+SSa 
+<br>
+atendiendo su suma miseria de Marcos 
+<br>
+Santiago, para 
+<choice><orig>heste</orig><reg type="spanish">este</reg></choice>
+efecto fue presentado 
+<choice><orig>bocable</orig><reg type="spanish">vocable</reg></choice>
+<br>
+mente para 
+<choice><orig>tradusido</orig><reg type="spanish">traducido</reg></choice>
+este testamento al castellana<br>
+lo 
+<choice><orig>qual</orig><reg type="spanish">cual</reg></choice>
+con 
+<choice><orig>presendente</orig><reg type="spanish">precedente</reg></choice>
+de mandato 
+<choice><orig>berval</orig><reg type="spanish">verbal</reg></choice>
+de SSa 
+<choice><orig>tradusgo</orig><reg type="spanish">traduzco</reg></choice>
+este 
+<choice><orig>dho</orig><reg type="spanish">dicho</reg></choice>
+testamente que Original en la 
+<choice><orig>YDioma</orig><reg type="spanish">Idioma</reg></choice>
+<choice><orig>zapotheco</orig><reg type="spanish">zapoteco</reg></choice>
+se me entrego cuyo 
+<choice><orig>thenor</orig><reg type="spanish">tenor</reg></choice>
+es como 
+<br>
+se sigue—Jesus Maria y Jphe, el que se llama 
+<br>
+y es delicado el mismo 
+<choice><orig>Nro</orig><reg type="spanish">Nuestro</reg></choice>
+<choice><orig>Sr</orig><reg type="spanish">Señor</reg></choice>
+Jesu Chisto hijo 
+<br>
+<pb n="2"/><br>
+de Dios - Dios Padre, Dios hijo, Dios espiritu Santo - 
+<br>
+tres 
+<choice><orig>perzona</orig><reg type="spanish">persona</reg></choice>
+Solo Un Dios 
+<choice><orig>hiso</orig><reg type="spanish">hizo</reg></choice>
+todo de nada el 
+<br>
+que 
+<choice><orig>hiso</orig><reg type="spanish">hizo</reg></choice>
+el cielo 
+<choice><orig>hiso</orig><reg type="spanish">hizo</reg></choice>
+<choice><orig>aqui</orig><reg type="spanish">aquí</reg></choice>
+en el Mundo el que 
+<br>
+bino del cielo bino 
+<choice><orig>aqui</orig><reg type="spanish">aquí</reg></choice>
+en el mundo el que 
+<choice><orig>Nasio</orig><reg type="spanish">Nació</reg></choice>
+<br>
+de Santa Maria Virgen el que se 
+<choice><orig>Murio</orig><reg type="spanish">Murió</reg></choice>
+en 
+<br>
+la Cruz 
+<choice><orig>Redimio</orig><reg type="spanish">Redimió</reg></choice>
+tod, nos otras 
+<choice><orig>aqui</orig><reg type="spanish">aquí</reg></choice>
+en el mundo 
+<br>
+es Verdad Yo me 
+<choice><orig>yamo</orig><reg type="spanish">llamo</reg></choice>
+Sebastian Santiago 
+<br>
+creo solo 
+<choice><orig>Nro</orig><reg type="spanish">Nuestro</reg></choice>
+Dios 
+<choice><orig>tambien</orig><reg type="spanish">también</reg></choice>
+todo los Manda 
+<br>
+miento los 
+<choice><orig>Articulos</orig><reg type="spanish">Artículos</reg></choice>
+de la 
+<choice><orig>fee</orig><reg type="spanish">fe</reg></choice>
+son 
+<choice><orig>catorse</orig><reg type="spanish">catorce</reg></choice>
+si 
+<br>
+ete sacramento de Dios los 
+<choice><orig>dies</orig><reg type="spanish">diez</reg></choice>
+Mandamien 
+<br>
+to 
+<choice><orig>tanbien</orig><reg type="spanish">también</reg></choice>
+los 
+<choice><orig>sinco</orig><reg type="spanish">cinco</reg></choice>
+Mandamiento de 
+<choice><orig>Nra</orig><reg type="spanish">Nuestra</reg></choice>
+<choice><orig>Sta</orig><reg type="spanish">Santa</reg></choice>
+<br>
+Madre 
+<choice><orig>Yglecia</orig><reg type="spanish">Iglesia</reg></choice>
+<choice><orig>tambien</orig><reg type="spanish">también</reg></choice>
+los 
+<choice><orig>quatro</orig><reg type="spanish">cuatro</reg></choice>
+<choice><orig>oracion</orig><reg type="spanish">oración</reg></choice>
+<br>
+creo todo los 
+<choice><orig>dias</orig><reg type="spanish">días</reg></choice>
+de mi 
+<choice><orig>bida</orig><reg type="spanish">vida</reg></choice>
+de 
+<choice><orig>aqui</orig><reg type="spanish">aquí</reg></choice>
+en el mun 
+<br>
+do fue christiano delante de Dios es 
+<choice><orig>berdad</orig><reg type="spanish">verdad</reg></choice>
+<choice><orig>Oy</orig><reg type="spanish">Hoy</reg></choice>
+<choice><orig>Dia</orig><reg type="spanish">Día</reg></choice>
+Zauado a 
+<choice><orig>Catorse</orig><reg type="spanish">Catorce</reg></choice>
+de Julio 
+<choice><orig>año</orig><reg type="spanish">años</reg></choice>
+de 
+<br>
+Mil setesiento sesenta y 
+<choice><orig>quatro</orig><reg type="spanish">cuatro</reg></choice>
+se 
+<choice><orig>acava</orig><reg type="spanish">acaba</reg></choice>
+<br>
+mi 
+<choice><orig>bida</orig><reg type="spanish">vida</reg></choice>
+<choice><orig>mia</orig><reg type="spanish">mía</reg></choice>
+<choice><orig>aqui</orig><reg type="spanish">aquí</reg></choice>
+está Veinte Reales que 
+<choice><orig>benga</orig><reg type="spanish">venga</reg></choice>
+el Padre bendito que diga una Misa 
+<choice><orig>Vigilia</orig><reg type="spanish">Vigilia</reg></choice>
+por mi alma 
+<choice><orig>mio</orig><reg type="spanish">mío</reg></choice>
+solo esta limos 
+<br>
+na 
+<choice><orig>salio</orig><reg type="spanish">salió</reg></choice>
+de mi boca Sebastian Santiago de 
+<br>
+<pb n="3"/><br>
+lante Dios 
+<choice><orig>hasi</orig><reg type="spanish">así</reg></choice>
+mi casa Com está le 
+<choice><orig>entriego</orig><reg type="spanish">entrego</reg></choice>
+en 
+<br>
+mano de los tres Mis hijos Marcos 
+<choice><orig>tambien</orig><reg type="spanish">también</reg></choice>
+mi hijo 
+<choice><orig>Matheo</orig><reg type="spanish">Mateo</reg></choice>
+y 
+<choice><orig>tambien</orig><reg type="spanish">también</reg></choice>
+mi hijo Jacinto los tres que se 
+<br>
+le que da mi casa 
+<choice><orig>hasi</orig><reg type="spanish">así</reg></choice>
+<choice><orig>tanbien</orig><reg type="spanish">también</reg></choice>
+las 
+<choice><orig>caxas</orig><reg type="spanish">cajas</reg></choice>
+<choice><orig>biejas</orig><reg type="spanish">viejas</reg></choice>
+<br>
+mis 
+<choice><orig>quatro</orig><reg type="spanish">cuatro</reg></choice>
+le dejo en mano delos tres mis hijos Mar 
+<br>
+cos 
+<choice><orig>Matheo</orig><reg type="spanish">Mateo</reg></choice>
+y Jacinto 
+<choice><orig>hasi</orig><reg type="spanish">así</reg></choice>
+<choice><orig>tanbien</orig><reg type="spanish">también</reg></choice>
+Otra 
+<choice><orig>caxa</orig><reg type="spanish">cara</reg></choice>
+bie 
+<br>
+ja 
+<choice><orig>mio</orig><reg type="spanish">mío</reg></choice>
+que la coja mi hija Petronilla, y 
+<choice><orig>tanbien</orig><reg type="spanish">también</reg></choice>
+<br>
+un San Antonio que la toma mi hija Petronilla 
+<choice><orig>hasi</orig><reg type="spanish">así</reg></choice>
+la tierra la de la de mi hahulo hago memoria la tie 
+<br>
+rra el que le 
+<choice><orig>disen</orig><reg type="spanish">dicen</reg></choice>
+en la 
+<choice><orig>YDioma</orig><reg type="spanish">Idioma</reg></choice>
+<choice><orig>zapotheco</orig><reg type="spanish">zapoteco</reg></choice>
+Zo 
+<br>
+naâ tierra quelasaciyatierra tixacuitierra 
+<br>
+el que le 
+<choice><orig>disen</orig><reg type="spanish">dicen</reg></choice>
+en la 
+<choice><orig>Ydioma</orig><reg type="spanish">Idioma</reg></choice>
+<choice><orig>zapotheco</orig><reg type="spanish">zapoteco</reg></choice>
+lachixa 
+<br>
+queelanâ y en castilla el Yano bajo de la piedra 
+<br>
+tisnado, tierra quecosequeeyo tierra quecoxaloo 
+<br>
+tierra Ruazoheza tierra Ruazoheza tierra 
+<br>
+tayoo tierra el que le 
+<choice><orig>disen</orig><reg type="spanish">dicen</reg></choice>
+en la 
+<choice><orig>Ydioma</orig><reg type="spanish">Idioma</reg></choice>
+<choice><orig>zapotheco</orig><reg type="spanish">zapoteco</reg></choice>
+equequielaa y en castilla 
+<choice><orig>ensima</orig><reg type="spanish">encima</reg></choice>
+la 
+<br>
+piedra grande, tierra quecoseriya tierra queco 
+<br>
+heya tierra quebeso tierra queeloo tierra quecore 
+<br>
+gabâ tierra el que le 
+<choice><orig>disen</orig><reg type="spanish">dicen</reg></choice>
+en la 
+<choice><orig>YDioma</orig><reg type="spanish">Idioma</reg></choice>
+zapo- 
+<br>
+<pb n="4"/><br>
+teco Ruadani canubi y en Castilla quiere 
+<choice><orig>desir</orig><reg type="spanish">decir</reg></choice>
+lapoda 
+<br>
+del 
+<choice><orig>serro</orig><reg type="spanish">cerro</reg></choice>
+tiera zoxina tierra quecohete tierra 
+<choice><orig>seyte</orig><reg type="spanish">siete</reg></choice>
+tierra xaqueechiba 
+<choice><orig>haora</orig><reg type="spanish">ahora</reg></choice>
+entra derecho lin 
+<br>
+dero 
+<choice><orig>Mio</orig><reg type="spanish">Mío</reg></choice>
+el Rio el que le 
+<choice><orig>disen</orig><reg type="spanish">dicen</reg></choice>
+en la 
+<choice><orig>Ydioma</orig><reg type="spanish">Idioma</reg></choice>
+za 
+<br>
+potheco yelaxoheza es lindero con 
+<choice><orig>Jente</orig><reg type="spanish">Gente</reg></choice>
+el que 
+<br>
+le 
+<choice><orig>disen</orig><reg type="spanish">dicen</reg></choice>
+en 
+<choice><orig>zapotheco</orig><reg type="spanish">zapoteco</reg></choice>
+benexocaa como 
+<choice><orig>berdad</orig><reg type="spanish">verdad</reg></choice>
+<br>
+tierra queloo lindero queyahezo lindero el que le 
+<choice><orig>disen</orig><reg type="spanish">dicen</reg></choice>
+en la 
+<choice><orig>YDioma</orig><reg type="spanish">Idioma</reg></choice>
+<choice><orig>zapotheco</orig><reg type="spanish">zapoteco</reg></choice>
+quequeetanilareya 
+<br>
+y en Castilla le 
+<choice><orig>disen</orig><reg type="spanish">dicen</reg></choice>
+<choice><orig>ensima</orig><reg type="spanish">encima</reg></choice>
+del 
+<choice><orig>serro</orig><reg type="spanish">cerro</reg></choice>
+lareya 
+<br>
+es lindero el que le 
+<choice><orig>disen</orig><reg type="spanish">dicen</reg></choice>
+en la 
+<choice><orig>YDioma</orig><reg type="spanish">Idioma</reg></choice>
+zapo 
+<choice><orig>theco</orig><reg type="spanish">teco</reg></choice>
+quequeelanixquiaxo se juntó lindero 
+<br>
+con 
+<choice><orig>jente</orig><reg type="spanish">gente</reg></choice>
+del Barrio el que le 
+<choice><orig>disen</orig><reg type="spanish">dicen</reg></choice>
+en la 
+<choice><orig>YDioma</orig><reg type="spanish">Idioma</reg></choice>
+<choice><orig>zapotheco</orig><reg type="spanish">zapoteco</reg></choice>
+xisa lindero el que le 
+<choice><orig>disen</orig><reg type="spanish">dicen</reg></choice>
+en la 
+<choice><orig>YDioma</orig><reg type="spanish">Idioma</reg></choice>
+<choice><orig>zapotheco</orig><reg type="spanish">zapoteco</reg></choice>
+nozozoo 
+<br>
+con lindante con 
+<choice><orig>jente</orig><reg type="spanish">gente</reg></choice>
+del Barrio el que le 
+<choice><orig>Disen</orig><reg type="spanish">Dicen</reg></choice>
+en la 
+<choice><orig>Ydioma</orig><reg type="spanish">Idioma</reg></choice>
+xiza lindero el que le 
+<br>
+<pb n="5"/><br>
+<choice><orig>Disen</orig><reg type="spanish">Dicen</reg></choice>
+en la Ydiomo 
+<choice><orig>zapotheco</orig><reg type="spanish">zapoteco</reg></choice>
+tanichu 
+<choice><orig>hasi</orig><reg type="spanish">así</reg></choice>
+peda 
+<br>
+so de tierra el que le 
+<choice><orig>disen</orig><reg type="spanish">dicen</reg></choice>
+en la YDiomo zesiya 
+<br>
+es 
+<choice><orig>Mio</orig><reg type="spanish">Mío</reg></choice>
+Sebastian Santiago 
+<choice><orig>hise</orig><reg type="spanish">hice</reg></choice>
+el gasta la 
+<br>
+erra quelanaa tierra queyhozohaza tierra 
+<br>
+Ruahezaaza tierra queecoxoloo tierra tixo 
+<br>
+cui son seis 
+<choice><orig>pedaso</orig><reg type="spanish">pedazo</reg></choice>
+de tierra esta es son 
+<choice><orig>mio</orig><reg type="spanish">mío</reg></choice>
+<br>
+Sebastian Santiago 
+<choice><orig>hise</orig><reg type="spanish">hice</reg></choice>
+<choice><orig>Pleyto</orig><reg type="spanish">Pleito</reg></choice>
+le doy en mano 
+<br>
+de mis hijos los 
+<choice><orig>quarto</orig><reg type="spanish">cuarto</reg></choice>
+mis hijos, Juan, Marco 
+<br>
+Matheo, Jacinto, 
+<choice><orig>hasi</orig><reg type="spanish">así</reg></choice>
+todo los 
+<choice><orig>pedaso</orig><reg type="spanish">pedazo</reg></choice>
+de tierra 
+<br>
+de esCritura 
+<choice><orig>mio</orig><reg type="spanish">mío</reg></choice>
+<choice><orig>ago</orig><reg type="spanish">hago</reg></choice>
+memoria tierra xoela 
+<br>
+el que 
+<choice><orig>bendio</orig><reg type="spanish">vendió</reg></choice>
+Juan Garcia; me costó Ocho. 
+<br>
+tierra Ruquecotoo 
+<choice><orig>hasi</orig><reg type="spanish">así</reg></choice>
+la tierra xoguina a 
+<choice><orig>onde</orig><reg type="spanish">dónde</reg></choice>
+<choice><orig>bendio</orig><reg type="spanish">vendió</reg></choice>
+Pablo 
+<choice><orig>hernandes</orig><reg type="spanish">hernandez</reg></choice>
+costó 
+<choice><orig>Dose</orig><reg type="spanish">Doce</reg></choice>
+<choice><orig>p</orig><reg type="spanish">peso</reg></choice>
+<choice><orig>hasi</orig><reg type="spanish">así</reg></choice>
+la tierra xoña camino de a Ruia 
+<choice><orig>ques</orig><reg type="spanish">que es</reg></choice>
+<choice><orig>aonde</orig><reg type="spanish">adonde</reg></choice>
+<choice><orig>bendio</orig><reg type="spanish">vendió</reg></choice>
+Jacinto Marcos me costó seis 
+<br>
+pesos, 
+<choice><orig>hasi</orig><reg type="spanish">así</reg></choice>
+la tierra xoquinña 
+<choice><orig>aonde</orig><reg type="spanish">adonde</reg></choice>
+<choice><orig>bendio</orig><reg type="spanish">vendió</reg></choice>
+<br>
+Pablo Viscayno me costó ocho pesos 
+<choice><orig>hasi</orig><reg type="spanish">así</reg></choice>
+<br>
+<pb n="6"/> 
+<br>
+ensina el poso ande 
+<choice><orig>Vendio</orig><reg type="spanish">Vendió</reg></choice>
+Pablo 
+<choice><orig>hernandes</orig><reg type="spanish">hernandez</reg></choice>
+<br>
+me costó Ocho pesos, 
+<choice><orig>hasi</orig><reg type="spanish">así</reg></choice>
+el solar tras de la casa 
+<br>
+está 
+<choice><orig>aonde</orig><reg type="spanish">adonde</reg></choice>
+<choice><orig>vendio</orig><reg type="spanish">vendió</reg></choice>
+Maria Lopez, me costó 
+<choice><orig>quinse</orig><reg type="spanish">quince</reg></choice>
+pesos, 
+<choice><orig>hasi</orig><reg type="spanish">así</reg></choice>
+<choice><orig>tanbien</orig><reg type="spanish">también</reg></choice>
+el solar el que bendia 
+<br>
+Miguel Antonio me costó 
+<choice><orig>quinse</orig><reg type="spanish">quince</reg></choice>
+pesos, 
+<choice><orig>hasi</orig><reg type="spanish">así</reg></choice>
+tan 
+<br>
+bien el solar el que 
+<choice><orig>bendio</orig><reg type="spanish">vendió</reg></choice>
+Petronilla Marco 
+<br>
+me costó Veinte pesos 
+<choice><orig>tanbien</orig><reg type="spanish">también</reg></choice>
+el solar el que 
+<choice><orig>bendio</orig><reg type="spanish">vendió</reg></choice>
+Juan Antonio, me costó Veinte pesos 
+<choice><orig>hasi</orig><reg type="spanish">así</reg></choice>
+<choice><orig>tanbien</orig><reg type="spanish">también</reg></choice>
+el solar el que 
+<choice><orig>bendio</orig><reg type="spanish">vendió</reg></choice>
+Pascual 
+<choice><orig>Basques</orig><reg type="spanish">Vasquez</reg></choice>
+me costó 
+<choice><orig>Dies</orig><reg type="spanish">Diez</reg></choice>
+pesos = Solo esta se acaba 
+<br>
+testamento 
+<choice><orig>mio</orig><reg type="spanish">mío</reg></choice>
+lo yeron, Alcalde Nicolas 
+<br>
+de Zarate, 
+<choice><orig>Rexidor</orig><reg type="spanish">Regidor</reg></choice>
+Pascual de 
+<choice><orig>mendosa</orig><reg type="spanish">mendoza</reg></choice>
+Do 
+<br>
+mingo Santiago Fiscal, Pablo 
+<choice><orig>hernandes</orig><reg type="spanish">hernandez</reg></choice>
+<br>
+Fiscal los 
+<choice><orig>quatros</orig><reg type="spanish">cuatros</reg></choice>
+son testigos todos estos solar 
+<br>
+le 
+<choice><orig>entriego</orig><reg type="spanish">entrego</reg></choice>
+en manos de los 
+<choice><orig>quatro</orig><reg type="spanish">cuatro</reg></choice>
+mis hijos - 
+<br>
+Juan, Marcos, Matheo, Jacinto, las mano se le 
+<br>
+queda todos, los solares todo estas Palabras la oyeron 
+<br>
+yo Jacinto Antonio 
+<choice><orig>escrivano</orig><reg type="spanish">escribano</reg></choice>
+en treinta 
+<choice><orig>Dias</orig><reg type="spanish">Días</reg></choice>
+<br>
+de Julio de Mil 
+<choice><orig>Setesientos</orig><reg type="spanish">Setecientos</reg></choice>
+Sesenta y 
+<choice><orig>quatro</orig><reg type="spanish">cuatro</reg></choice>
+años 
+<br>
+Reicivió de la limosna Veinte Reales de Una 
+<br>
+<pb n="7"/><br>
+Misa y Vigilla 
+<choice><orig>deste</orig><reg type="spanish">de este</reg></choice>
+Defunto, y por Verdad lo 
+<br>
+firme en este San Pedro frey 
+<choice><orig>Ang</orig><reg type="spanish">Angeles</reg></choice>
+<br>
+Camas 
+<choice><orig>Recivo</orig><reg type="spanish">Recibo</reg></choice>
+Un Real para los santo Lugar Frey 
+<choice><orig>Jphe</orig><reg type="spanish">Joseph</reg></choice>
+<br>
+Zosa 
+<choice><orig>quatro</orig><reg type="spanish">cuatro</reg></choice>
+Reales de Una Misa por el alma 
+<br>
+del testamento y para que conste lo firme frey 
+<br>
+Manuel Sanche 
+<choice><orig>Recivi</orig><reg type="spanish">Recibí</reg></choice>
+<choice><orig>quatro</orig><reg type="spanish">cuatro</reg></choice>
+Reales para 
+<br>
+Una misa por el alma testamento frey Julian 
+<br>
+canas ___ 
+<br>
+El 
+<choice><orig>qual</orig><reg type="spanish">cual</reg></choice>
+está fielmente 
+<choice><orig>tradusido</orig><reg type="spanish">traducido</reg></choice>
+Y consertado de la 
+<choice><orig>Ydioma</orig><reg type="spanish">Idioma</reg></choice>
+<choice><orig>zapotheco</orig><reg type="spanish">zapoteco</reg></choice>
+<choice><orig>segun</orig><reg type="spanish">según</reg></choice>
+Como 
+<br>
+se me demostró el testamento Original o como 
+<br>
+está en que se halla Al castellano al que la de 
+<choice><orig>buelvo</orig><reg type="spanish">vuelvo</reg></choice>
+a todo mi leal saver, y entender y ser 
+<br>
+Verdad 
+<choice><orig>hasi</orig><reg type="spanish">así</reg></choice>
+lo Juro en toda forma de Drõ, 
+<br>
+y lo firmé 
+<choice><orig>henesta</orig><reg type="spanish">en esta</reg></choice>
+ciudad de Antequera 
+<br>
+Valle de Oaxaca en tres de 
+<choice><orig>Septiembre</orig><reg type="spanish">Septiembre</reg></choice>
+de 
+<br>
+laña de mil setesiento 
+<br>
+Ochenta y sinco, 
+<br>
+Marcos de los 
+<choice><orig>Ang</orig><reg type="spanish">Angeles</reg></choice>
+<br>
+Lopez 
+<choice><orig>Ynterprete</orig><reg type="spanish">Interprete</reg></choice>

@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="TEISchema_current.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<text>
+<pb n="1"/>
+Yo 
+<choice><orig>Dn.</orig><reg type="spanish">Don</reg></choice>
+Pedro de Zarate Cassique Vecino de esta Ciudad 
+<br>
+a pedimento de 10 Joseph de Silva tradussi esta escrip<br>
+tura de la 
+<choice><orig>ydioma</orig><reg type="spanish">idioma</reg></choice>
+Zapoteca en que se 
+<choice><orig>haia</orig><reg type="spanish">haya</reg></choice>
+su origi<br>
+nal, a la Castellana, 
+<choice><orig>cuio</orig><reg type="spanish">cuyo</reg></choice>
+tenor es como se sigue 
+<br>
+Aquí Pueblo de 
+<choice><orig>Sto</orig><reg type="spanish">Santo</reg></choice>
+Domingo del estado, y Marquezado de Va<br>
+lle, 
+<choice><orig>oy</orig><reg type="spanish">hoy</reg></choice>
+día 
+<choice><orig>Juebes</orig><reg type="spanish">Jueves</reg></choice>
+<choice><orig>quatro</orig><reg type="spanish">cuatro</reg></choice>
+días del 
+<choice><orig>mes</orig><reg type="spanish">mis</reg></choice>
+de Mayo de mil 
+<br>
+setecientos veinte, y 
+<choice><orig>quatro</orig><reg type="spanish">cuatro</reg></choice>
+años, de la Villa de Etla 
+<br>
+aquí ante el Alcalde ordinario Gabriel de Chaves, Prin<br>
+cipal Regidor Mayor Antonio Nuñes, y Yo 
+<choice><orig>Anto</orig><reg type="spanish">Antonio</reg></choice>
+de Silva 
+<choice><orig>escrivano</orig><reg type="spanish">escribano</reg></choice>
+de Cavildo llego, 
+<choice><orig>Anto</orig><reg type="spanish">Antonio</reg></choice>
+Nunes los dos con 
+<br>
+su Muger, Francisca Sanches, y 
+<choice><orig>tamvién</orig><reg type="spanish">también</reg></choice>
+Pasquala Nu<br>
+ñes 
+<choice><orig>Muger</orig><reg type="spanish">Mujer</reg></choice>
+del difunto Nicolas Nuñes, naturales, y 
+<br>
+vecinos del Pueblo de 
+<choice><orig>S[an]to</orig><reg type="spanish">Santo</reg></choice>
+Domingo, 
+<choice><orig>tamvién</orig><reg type="spanish">también</reg></choice>
+de la Villa<br>
+de Etla, pidieron 
+<choice><orig>lisencia</orig><reg type="spanish">licencia</reg></choice>
+porque venden un 
+<choice><orig>pedaso</orig><reg type="spanish">pedazo</reg></choice>
+de 
+<br>
+tierra suya que dejaron el difunto se Marido Nicolas 
+<br>
+Nuñes, en el testamento suyo que se venda esta ti<br>
+erra, está en el lugar donde le disen, loguiri. 
+<br>
+que quiere 
+<choice><orig>decir</orig><reg type="spanish">decir</reg></choice>
+Cara de Ocote, que es una Medida gran<br>
+de, tamvién, es tierra Patrimonial del Pueblo de 
+<choice><orig>Sto</orig><reg type="spanish">Santo</reg></choice>
+Do<br>
+mingo, tierra que heredaron, en el testamento de la 
+<br>
+difunta Lucía Nuñes, yassi mismo, mando el 
+<br>
+mismo Alcalde, 
+<choice><orig>mas</orig><reg type="spanish">más</reg></choice>
+que Venda lo que es la tierra suya 
+<br>
+y por el tanto, A tomó el mismo Alcalde, Gabriel de cha
+<br>
+ves, Juramento, al mismo Antonio Nuñes, los dos con 
+<br>
+su madre Pasquala Nuñes, por que responda, 
+<choice><orig>Ver</orig><reg type="spanish">Verdad</reg></choice>
+daderamente, si es verdad venden la tierra suya 
+<br>
+<pb n="2"/><br>
+<choice><orig>tamvién</orig><reg type="spanish">también</reg></choice>
+si tienen más tierras donde sean de 
+<br>
+sus hijos, y nietos, 
+<choice><orig>aora</orig><reg type="spanish">ahora</reg></choice>
+Responden y 
+<choice><orig>disen</orig><reg type="spanish">dicen</reg></choice>
+<choice><orig>verd</orig><reg type="spanish">verdad</reg></choice>
+ad 
+<choice><orig>asemos</orig><reg type="spanish">hacemos</reg></choice>
+Juramento, por Dios, 
+<choice><orig>tamvién</orig><reg type="spanish">también</reg></choice>
+la se<br>
+nial de la Cruz, verdaderamente vendemos de
+<br>
+una ves para 
+<choice><orig>aora</orig><reg type="spanish">ahora</reg></choice>
+y siempre, esta 
+<choice><orig>mes</orig><reg type="spanish">mis</reg></choice>
+matu
+<br>
+ra la Compra Joseph de Silva los dos con su 
+<choice><orig>muger</orig><reg type="spanish">mujer</reg></choice>
+Geronima Mendes 
+<choice><orig>assi</orig><reg type="spanish">así</reg></choice>
+mismo Persona, na<br>
+tural del Pueblo de Santo Domingo le da 
+<choice><orig>quinze</orig><reg type="spanish">quince</reg></choice>
+pesos en 
+<choice><orig>rrs</orig><reg type="spanish">reales</reg></choice>
+efectivos, tomo en mis manos los 
+<choice><orig>quinze</orig><reg type="spanish">quince</reg></choice>
+pesos en y por 
+<br>
+el tanto, declaro como son los linderos, en contornio de 
+<br>
+esta tierra, 
+<choice><orig>acia</orig><reg type="spanish">hacía</reg></choice>
+donde 
+<choice><orig>nase</orig><reg type="spanish">nace</reg></choice>
+el Sol, Junta la tierra 
+<br>
+de Lucas de la Cruz, que es Camino Real grande, que 
+<br>
+es el lindero, 
+<choice><orig>acia</orig><reg type="spanish">hacía</reg></choice>
+el Norte Junta la tierra de Gabri<br>
+el de Chavez, Culebrina de tierra es lindero, 
+<choice><orig>acia</orig><reg type="spanish">hacía</reg></choice>
+don<br>
+de se mete el sol, Junta la tierra de la Comunidad, del 
+<br>
+Barrio de la Resureción, Culebrina de tierra es lindero 
+<choice><orig>acia</orig><reg type="spanish">hacía</reg></choice>
+a Oaxaca Junta la tierra de Juan de Dios 
+<choice><orig>Ram</orig><reg type="spanish">Ramires</reg></choice>
+<br>
+está la sanja que es lindero, 
+<choice><orig>assi</orig><reg type="spanish">así</reg></choice>
+son los linderos en co<br>
+ntorno de esta tierra, declararon los mismos. 
+<choice><orig>Anto</orig><reg type="spanish">Antonio</reg></choice>
+Nuñes, los dos su Madre Pasquala Nuñes, 
+<choice><orig>yssi</orig><reg type="spanish">y asi</reg></choice>
+mis<br>
+mo disen, ya es suya de sus vienes el mismo, Joseph 
+<br>
+de Silva, esta tierra 
+<choice><orig>aora</orig><reg type="spanish">ahora</reg></choice>
+yenlo Venidero, que sea 
+<br>
+suya de sus hijos, y nietos, aora, y siempre, y 
+<choice><orig>assi</orig><reg type="spanish">así</reg></choice>
+di
+<br>
+ce, que si alguno pidiere esta tierra en algún día, 
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+por, compares sera esta papel de 
+<choice><orig>escriptura</orig><reg type="spanish">escritura</reg></choice>
+<br>
+<pb n="3"/>
+para que lo vea 
+<choice><orig>qualquiera</orig><reg type="spanish">cualquiera</reg></choice>
+Justicia, que por entonces, 
+<choice><orig>pa</orig><reg type="spanish">para</reg></choice>
+garán pena 
+<choice><orig>dies</orig><reg type="spanish">diez</reg></choice>
+pesos que se haga Agosto de Justicia, 
+<choice><orig>assi</orig><reg type="spanish">así</reg></choice>
+<br>
+sea cara, y se concluye, esta 
+<choice><orig>escriptura</orig><reg type="spanish">escritura</reg></choice>
+de venta, que es a fa
+<br>
+vor de Joseph de Silva, que se 
+<choice><orig>hiso</orig><reg type="spanish">hizo</reg></choice>
+aquí ante la Justicia, 
+<choice><orig>pa</orig><reg type="spanish">para</reg></choice>
+el tanto, ponen sus firmas suyas, y las Personas que venden<br>
+esta tierra, no saben de letras, pongo yo el escrivano, An<br>
+tonio de Silva firmas suyas, ante los testigos, Hipolito<br>
+Juares, Juan de Mendoza, oyeron, y vieron se 
+<choice><orig>hisso</orig><reg type="spanish">hizo</reg></choice>
+esta
+<br>
+escriptura, 
+<choice><orig>oy</orig><reg type="spanish">hoy</reg></choice>
+en este día 
+<br>
+Gabriel de Chaves Alcalde Antonio 
+<choice><orig>Martin</orig><reg type="spanish">Martín</reg></choice>
+<br>
+Antonio Nuñes Regidor 
+<br>
+Pasquala Nuñes 
+<br>
+Francisca Sanches 
+<br>
+Lorenze Nuñes 
+<br>
+Don Sebastian Ramires de Leon 
+<br>
+testigo Hipolito Juares 
+<br>
+testigo Juan de Mendoza 
+<br>
+Ante mi Antonio de Silvo, 
+<choice><orig>escrivano</orig><reg type="spanish">escribano</reg></choice>
+de carido 
+<br>
+Concuerda co su original zapoteco, a el que me permito, y juro 
+<br>
+en forma de (dad?), estar fielmente sacado, y corregido 
+<choice><orig>según</orig><reg type="spanish">según</reg></choice>
+<br>
+mi leal saber, y entender y porque conste lo firmé, en 
+<br>
+esta ciudad, de Ante que la Valle de Oaxaca, en 
+<choice><orig>Catorze</orig><reg type="spanish">Catorce</reg></choice>
+días 
+<br>
+del 
+<choice><orig>mes</orig><reg type="spanish">mis</reg></choice>
+de 
+<choice><orig>Noviembre</orig><reg type="spanish">Noviembre</reg></choice>
+de mil setecientos quarenta, y nue<br>
+ve años 
+<br>
+Pedro de Zarate 
+<br>
+En obedecimiento y cumplimiento de lo manda
+<br>
+do por el 
+<choice><orig>Sr</orig><reg type="spanish">Señor</reg></choice>
+<choice><orig>Jues</orig><reg type="spanish">Juez</reg></choice>
+de testamentos Capellanías 
+<br>
+y obras pías de este 
+<choice><orig>obpdo</orig><reg type="spanish">obispado</reg></choice>
+prosedí, 
+<choice><orig>hazer</orig><reg type="spanish">hacer</reg></choice>
+el co 
+<br>
+<pb n="4"/> 
+tejo de el instrumento, que antes de con su origi<br>
+nal sapoteco, y hay 
+<choice><orig>i</orig><reg type="spanish">y</reg></choice>
+<choice><orig>según</orig><reg type="spanish">según</reg></choice>
+mi leal saber y 
+<br>
+entender estar sacado fielmente a la letra 
+<br>
+sin añadir ni quitar, y por sea verdad lo de<br>
+claro lo cargo del Juramento que ante su 
+<br>
+Merced tengo, 
+<choice><orig>fho</orig><reg type="spanish">fecho</reg></choice>
+en que me afirmo, y ra<br>
+tifco y lo firme en esta ciudad de Anteqra 
+<choice><orig>Noviembre</orig><reg type="spanish">Noviembre</reg></choice>
+20 de 1749<br>
+Manuel 
+<choice><orig>Diaz</orig><reg type="spanish">Diez</reg></choice>
+<br>
+interprete nombrado 

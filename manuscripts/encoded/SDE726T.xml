@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="TEISchema_current.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<text>
+<pb n="1"/>
+Yo 
+<choice><orig>Dn</orig><reg type="spanish">Don</reg></choice>
+Pedro de Zarate Cassique Vecino de esta Ciudad, por 
+<br>
+suplica de 
+<choice><orig>Dn</orig><reg type="spanish">Don</reg></choice>
+Joseph de Silva trasumpte esta 
+<choice><orig>escriptura</orig><reg type="spanish">escritura</reg></choice>
+<br>
+de la 
+<choice><orig>ydioma</orig><reg type="spanish">idioma</reg></choice>
+<choice><orig>sapoteca</orig><reg type="spanish">zapoteca</reg></choice>
+en que se 
+<choice><orig>haia</orig><reg type="spanish">haya</reg></choice>
+su original, a la 
+<br>
+castellana, 
+<choice><orig>cuio</orig><reg type="spanish">cuyo</reg></choice>
+thenor, es como se sigue- 
+<choice><orig>Aqui</orig><reg type="spanish">Aquí</reg></choice>
+en el Pueb de 
+<choice><orig>Sto</orig><reg type="spanish">Santo</reg></choice>
+Domingo de la Villa de Etla del Esta 
+<br>
+do, y marquezado del Valle, 
+<choice><orig>oy</orig><reg type="spanish">hoy</reg></choice>
+día lunes veinte y 
+<choice><orig>nuebe</orig><reg type="spanish">nueve</reg></choice>
+<br>
+del 
+<choice><orig>mes</orig><reg type="spanish">mis</reg></choice>
+de marzo de mil setecientos 
+<choice><orig>veynte</orig><reg type="spanish">veinte</reg></choice>
+y sus años 
+<br>
+ante nos, Lucas de la Cruz Alcalde Ordinario 
+<choice><orig>tamvién</orig><reg type="spanish">también</reg></choice>
+<br>
+el Regidor Juan Jimenes, y 
+<choice><orig>Escrivano</orig><reg type="spanish">Escribano</reg></choice>
+y testigos, com 
+<br>
+parecieron 
+<choice><orig>Anto</orig><reg type="spanish">Antonio</reg></choice>
+Gonzales los dos con su 
+<choice><orig>muger</orig><reg type="spanish">mujer</reg></choice>
+<choice><orig>Rossa</orig><reg type="spanish">Rosa</reg></choice>
+<br>
+Nuñes 
+<choice><orig>assi</orig><reg type="spanish">así</reg></choice>
+mismo natural del Pueb de 
+<choice><orig>Sto</orig><reg type="spanish">Santo</reg></choice>
+Domingo 
+<br>
+pidieron 
+<choice><orig>lisencia</orig><reg type="spanish">licencia</reg></choice>
+porque venden un 
+<choice><orig>pedaso</orig><reg type="spanish">pedazo</reg></choice>
+de tierra 
+<br>
+suya esta puesta una casa de teja mediana, 
+<choice><orig>aora</orig><reg type="spanish">ahora</reg></choice>
+<br>
+venden realmente la compra, 
+<choice><orig>Dn</orig><reg type="spanish">Don</reg></choice>
+<choice><orig>Anto</orig><reg type="spanish">Antonio</reg></choice>
+de Zelis, los= 
+<br>
+dos con su 
+<choice><orig>muger</orig><reg type="spanish">mujer</reg></choice>
+Christina de Chaves, 
+<choice><orig>aora</orig><reg type="spanish">ahora</reg></choice>
+recivier- 
+<br>
+ron veinte y 
+<choice><orig>sinco</orig><reg type="spanish">cinco</reg></choice>
+pesos plata efectiva los que se con 
+<br>
+taron ante el Alde, y los testigos, en los manos de 
+<choice><orig>Anto</orig><reg type="spanish">Antonio</reg></choice>
+<br>
+Gonazales los dos con su 
+<choice><orig>muger</orig><reg type="spanish">mujer</reg></choice>
+<choice><orig>Rossa</orig><reg type="spanish">Rosa</reg></choice>
+Nuñes, 
+<choice><orig>aora</orig><reg type="spanish">ahora</reg></choice>
+de= 
+<br>
+muestran y señalan como son los linderos en contor 
+<br>
+no de esta tierra, 
+<choice><orig>acia</orig><reg type="spanish">hacía</reg></choice>
+por donde 
+<choice><orig>nase</orig><reg type="spanish">nace</reg></choice>
+el sol Junta 
+<br>
+con la tierra de Marcos de Chaves Culebrina de tie- 
+<br>
+rra es el lindero, 
+<choice><orig>acia</orig><reg type="spanish">hacía</reg></choice>
+al Norte, Junta la tierra del 
+<choice><orig>dho</orig><reg type="spanish">dicho</reg></choice>
+Marcos de chaves culebrina de tierra es lindero 
+<choice><orig>asia</orig><reg type="spanish">hacía</reg></choice>
+donde se mete el sol junta la tierra de Diego= 
+<br>
+<pb n="2"/>
+Juares 
+<choice><orig>Año</orig><reg type="spanish">Años</reg></choice>
+camino real y grande es lindero, 
+<choice><orig>asi</orig><reg type="spanish">así</reg></choice>
+<br>
+a Oaxaca, Junta la tierra del difunto Pasqual 
+<br>
+Gonzales, y 
+<choice><orig>tamvién</orig><reg type="spanish">también</reg></choice>
+la del 
+<choice><orig>Sta</orig><reg type="spanish">Santa</reg></choice>
+<choice><orig>Resurección</orig><reg type="spanish">Resurrección</reg></choice>
+de 
+<choice><orig>Sto</orig><reg type="spanish">Santo</reg></choice>
+Do= 
+<br>
+mingo, 
+<choice><orig>asi</orig><reg type="spanish">así</reg></choice>
+esta en contorno de esta tierra, 
+<choice><orig>aora</orig><reg type="spanish">ahora</reg></choice>
+le 
+<br>
+tomo el Alcalde, 
+<choice><orig>Juramto</orig><reg type="spanish">Juramento</reg></choice>
+al 
+<choice><orig>mesmo</orig><reg type="spanish">mismo</reg></choice>
+<choice><orig>Anto</orig><reg type="spanish">Antonio</reg></choice>
+<choice><orig>Gons</orig><reg type="spanish">Gonzales</reg></choice>
+<br>
+si tiene 
+<choice><orig>mas</orig><reg type="spanish">más</reg></choice>
+tierras donde arar y trabajar, para 
+<br>
+sus tributos 
+<choice><orig>aora</orig><reg type="spanish">ahora</reg></choice>
+<choice><orig>yso</orig><reg type="spanish">hizo</reg></choice>
+el 
+<choice><orig>Juramto</orig><reg type="spanish">Juramento</reg></choice>
+y la señal de la 
+<br>
+Cruz que es verdad vendo real y verdaderamente 
+<br>
+esta tierra 
+<choice><orig>aora</orig><reg type="spanish">ahora</reg></choice>
+mi eximo de la posesión que 
+<choice><orig>tube</orig><reg type="spanish">tuve</reg></choice>
+<br>
+los días passados, 
+<choice><orig>aora</orig><reg type="spanish">ahora</reg></choice>
+ya es suyo de sus vienes del 
+<choice><orig>mesmo</orig><reg type="spanish">mismo</reg></choice>
+<choice><orig>Dn</orig><reg type="spanish">Don</reg></choice>
+<choice><orig>Anto</orig><reg type="spanish">Antonio</reg></choice>
+de Zelis los dos con su 
+<choice><orig>muger</orig><reg type="spanish">mujer</reg></choice>
+<choice><orig>Chrisna</orig><reg type="spanish">Christina</reg></choice>
+<br>
+de Chaves de sus hijos y nietos que 
+<choice><orig>ningun</orig><reg type="spanish">ningún</reg></choice>
+hijo- 
+<br>
+o nieto nuestro mencionen, ni pidan esta tierra 
+<br>
+y si 
+<choice><orig>algun</orig><reg type="spanish">algún</reg></choice>
+<choice><orig>eredero</orig><reg type="spanish">heredero</reg></choice>
+nuestro mencionare, o pidiere en= 
+<br>
+otra ocasión en lo venidero que por 
+<choice><orig>entonses</orig><reg type="spanish">entonces</reg></choice>
+se de- 
+<br>
+muestre papel 
+<choice><orig>escriptura</orig><reg type="spanish">escritura</reg></choice>
+de venta nuestra ante 
+<choice><orig>qualquiera</orig><reg type="spanish">cualquiera</reg></choice>
+<choice><orig>Justicia</orig><reg type="spanish">Justicia</reg></choice>
+pagaran 
+<choice><orig>doze</orig><reg type="spanish">doce</reg></choice>
+<choice><orig>pessos</orig><reg type="spanish">pesos</reg></choice>
+pena 
+<br>
+que se 
+<choice><orig>aga</orig><reg type="spanish">haga</reg></choice>
+gasto de 
+<choice><orig>Justicia</orig><reg type="spanish">Justicia</reg></choice>
+que se 
+<choice><orig>aga</orig><reg type="spanish">haga</reg></choice>
+y se (?) 
+<br>
+cumpla toda la 
+<choice><orig>compossicion</orig><reg type="spanish">composición</reg></choice>
+buena suya de las- 
+<br>
+dos partes, 
+<choice><orig>aora</orig><reg type="spanish">ahora</reg></choice>
+pidió la Persona que vende 
+<br>
+esta tierra merced ante mi para que ponga 
+<br>
+yo sus firmas suyas en este papel por que no sa= 
+<br>
+ven de letras = 
+<choice><orig>Anto</orig><reg type="spanish">Antonio</reg></choice>
+Gonzales = Andres Gonzales = 
+<br>
+<pb n="3"/>
+testigo Diego Juares = 
+<choice><orig>Rossa</orig><reg type="spanish">Rosa</reg></choice>
+Nuñes = testigo Hipolito Jua= 
+<br>
+res = Lucas de la Cruz = testigo. Juan de Mendoza = Juan 
+<br>
+Ximines = testigo Nicolas 
+<choice><orig>hernandes</orig><reg type="spanish">hernandez</reg></choice>
+= Ante mi Pedro = 
+<br>
+Joseph de Leon 
+<choice><orig>escrivano</orig><reg type="spanish">escribano</reg></choice>
+= 
+<br>
+Concuerda con su original Zapoteco a el que me remito, y Juro= 
+<br>
+en forma de dro, estar fielmente sacado consertado y cor 
+<br>
+regido, 
+<choice><orig>segun</orig><reg type="spanish">según</reg></choice>
+mi leal saber y entender, y porque conste= 
+<br>
+lo firme en esta ciudad de Anteqra Valle de 
+<choice><orig>Oaxca</orig><reg type="spanish">Oaxaca</reg></choice>
+en 
+<choice><orig>doze</orig><reg type="spanish">doce</reg></choice>
+<br>
+días del 
+<choice><orig>mes</orig><reg type="spanish">mis</reg></choice>
+de 
+<choice><orig>Novie</orig><reg type="spanish">Noviembre</reg></choice>
+de mil setecientos quarenta, y = 
+<br>
+nueve años = enmdo = teja = V.e = 
+<choice><orig>Dn</orig><reg type="spanish">Don</reg></choice>
+Pedro de Zarate 
+<br>
+En obedecimiento y cumplimiento de los manda 
+<br>
+do por el 
+<choice><orig>Sr</orig><reg type="spanish">Señor</reg></choice>
+<choice><orig>Jues</orig><reg type="spanish">Juez</reg></choice>
+de testamentos capellanias, y 
+<br>
+obras 
+<choice><orig>pias</orig><reg type="spanish">pías</reg></choice>
+de este 
+<choice><orig>Obpdo</orig><reg type="spanish">Obispado</reg></choice>
+<choice><orig>prosedi</orig><reg type="spanish">prosedí</reg></choice>
+haser el cotejo 
+<br>
+de el instrumento 
+<choice><orig>q</orig><reg type="spanish">que</reg></choice>
+antessede con su original Za 
+<br>
+poteco, y 
+<choice><orig>haye</orig><reg type="spanish">haya</reg></choice>
+<choice><orig>segun</orig><reg type="spanish">según</reg></choice>
+mi leal saber, y entender 
+<br>
+estar sacado fielmente a la letra sin añadir 
+<br>
+ni quitar, y por ser verdad lo declaro so cargo del 
+<choice><orig>juramto</orig><reg type="spanish">juramento</reg></choice>
+que ante su 
+<choice><orig>mercd</orig><reg type="spanish">merced</reg></choice>
+tengo 
+<choice><orig>fho</orig><reg type="spanish">fecho</reg></choice>
+en que me afir- 
+<br>
+mo y ratifico, y lo firme en esta Ciudad de 
+<br>
+Antequera, y 
+<choice><orig>Novie</orig><reg type="spanish">Noviembre</reg></choice>
+19 de 1749 aT- 
+<br>
+Manuel 
+<choice><orig>Diaz</orig><reg type="spanish">Diez</reg></choice>
+<choice><orig>Yntepte</orig><reg type="spanish">Interprete</reg></choice>
+Nom.doV. 

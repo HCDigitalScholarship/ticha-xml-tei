@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="TEISchema_current.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<text>
+<pb n="1"/><br>
+Yo thomas 
+<choice><orig>Gomes</orig><reg type="spanish">Gomez</reg></choice>
+<choice><orig>ynterprete</orig><reg type="spanish">interprete</reg></choice>
+general de la 
+<choice><orig>jurisdizion</orig><reg type="spanish">jurisdicción</reg></choice>
+<choice><orig>desta</orig><reg type="spanish">de esta</reg></choice>
+ciu<br>
+dad de Antequera Valle de oaxaca en conformidad de lo<br>
+mandado en el auto que 
+<choice><orig>antessede</orig><reg type="spanish">antecede</reg></choice>
+trasumpte el 
+<choice><orig>testamto</orig><reg type="spanish">testamento</reg></choice>
+que por el se manda del 
+<choice><orig>ydioma</orig><reg type="spanish">idioma</reg></choice>
+zapoteco en que esta a<br>
+lengua castellana y su tenor a la letra es 
+<choice><orig>assi</orig><reg type="spanish">así</reg></choice>
+como se sigue<br>
+En el nombre de 
+<choice><orig>nro</orig><reg type="spanish">nuestro</reg></choice>
+señor jesuchristo que murió en la<br>
+cruz por 
+<choice><orig>salbar</orig><reg type="spanish">salvar</reg></choice>
+a nosotros los pecadores 
+<choice><orig>deste</orig><reg type="spanish">de este</reg></choice>
+mundo<br>
+yo me llamo Luis 
+<choice><orig>hernandes</orig><reg type="spanish">hernandez</reg></choice>
+se me acaba la 
+<choice><orig>bida</orig><reg type="spanish">vida</reg></choice>
+<choice><orig>deste</orig><reg type="spanish">de este</reg></choice>
+mundo 
+<br>
+creo en un solo dios Padre dios hi<br>
+jo dios espiritu Santo que son de los tres personas creo<br>
+los 
+<choice><orig>quatro</orig><reg type="spanish">cuatro</reg></choice>
+oraciones de 
+<choice><orig>nra</orig><reg type="spanish">nuestra</reg></choice>
+Señora la 
+<choice><orig>birgen</orig><reg type="spanish">virgen</reg></choice>
+Santa 
+<choice><orig>Ma</orig><reg type="spanish">María</reg></choice>
+que es mi abogada, creo los mandamientos que man<br>
+da 
+<choice><orig>nra</orig><reg type="spanish">nuestra</reg></choice>
+Santa Madre 
+<choice><orig>Iglecia</orig><reg type="spanish">Iglesia</reg></choice>
+todos estas palabras<br>
+y mandamientos de dios crei 
+<choice><orig>quando</orig><reg type="spanish">cuando</reg></choice>
+<choice><orig>bibi</orig><reg type="spanish">vivi</reg></choice>
+en este mun<br>
+do- Ytten en un pejo que se me diga una missa- Ytten<br>
+2 reles por la campana- Ytten 2 reales por la tierra<br>
+adonde sea de enterrar mi cuerpo Y no 
+<choice><orig>mas</orig><reg type="spanish">más</reg></choice>
+la limosna<br>
+que yo 
+<choice><orig>doi</orig><reg type="spanish">doy</reg></choice>
+por estas mi Pobre- Ytten esta mi 
+<choice><orig>caffa</orig><reg type="spanish">casa</reg></choice>
+se<br>
+las dejo en las manos de los tres mis hijos que es Thomas<br>
+y pasqual y Pablo- Ytten el solar de mi Padre diego<br>
+<choice><orig>hernandes</orig><reg type="spanish">hernandez</reg></choice>
+que esta en San Andres que es la tierra<br>
+de mis propriadades que 
+<choice><orig>estan</orig><reg type="spanish">están</reg></choice>
+en San Andres la tierra<br>
+<choice><orig>nonbrado</orig><reg type="spanish">nombrado</reg></choice>
+quinaa quiya Yana- Y la tierra nombra<br>
+do quinaa quego hueca- Y la tierra 
+<choice><orig>nonbrado</orig><reg type="spanish">nombrado</reg></choice>
+<choice><orig>qui</orig><reg type="spanish">quí</reg></choice>
+naa que la xobi- Y la tierra 
+<choice><orig>nonbrado</orig><reg type="spanish">nombrado</reg></choice>
+quinaa ni<br>
+chij- Y la tierra 
+<choice><orig>nonbrado</orig><reg type="spanish">nombrado</reg></choice>
+quinaa xichayoo- Y la<br>
+tierra 
+<choice><orig>nombrado</orig><reg type="spanish">nombrado</reg></choice>
+quinaa xato- Y la tierra<br>
+<choice><orig>nonbrado</orig><reg type="spanish">nombrado</reg></choice>
+quinaa y chiloaa- 
+<choice><orig>dhos</orig><reg type="spanish">dichos</reg></choice>
+tierras es<br>
+de la dezendencia de la difunta mi madre María<br>
+Jacobe, que es 
+<choice><orig>tanbien</orig><reg type="spanish">también</reg></choice>
+<choice><orig>dhas</orig><reg type="spanish">dichas</reg></choice>
+tierras de la 
+<br>
+dezendencia de pablo 
+<choice><orig>garcia</orig><reg type="spanish">garcía</reg></choice>
+que son 
+<choice><orig>pedasos</orig><reg type="spanish">pedazos</reg></choice>
+<choice><orig>dhas</orig><reg type="spanish">dichas</reg></choice>
+tie<br>
+rras, Y la tierra 
+<choice><orig>nombrado</orig><reg type="spanish">nombrado</reg></choice>
+quinaa xohuelaa<br>
+Y la tierra 
+<choice><orig>nombrado</orig><reg type="spanish">nombrado</reg></choice>
+quinaa sovita- Y la tierra<br>
+<choice><orig>nonbrado</orig><reg type="spanish">nombrado</reg></choice>
+quinaa lavieza- Y la tierra nombra<br>
+<br>
+<pb n="2"/><br>
+do quinaa quelachee- Y la tierra 
+<choice><orig>nonbrado</orig><reg type="spanish">nombrado</reg></choice>
+quin<br>
+xo quinaa- y la tierra 
+<choice><orig>nonbrado</orig><reg type="spanish">nombrado</reg></choice>
+quinaa zaq<br>
+y la tierra 
+<choice><orig>nonbrado</orig><reg type="spanish">nombrado</reg></choice>
+quinaa quego quie- Y la tie<br>
+rra 
+<choice><orig>nonbrado</orig><reg type="spanish">nombrado</reg></choice>
+quinaa etaa- y la tierra 
+<choice><orig>nonbrado</orig><reg type="spanish">nombrado</reg></choice>
+quinaa zeyoo- Y la tierra 
+<choice><orig>nonbrado</orig><reg type="spanish">nombrado</reg></choice>
+queg<br>
+loochoo- y la tierra 
+<choice><orig>nonbrado</orig><reg type="spanish">nombrado</reg></choice>
+quinaa quegoco<br>
+y la tierra 
+<choice><orig>nonbrado</orig><reg type="spanish">nombrado</reg></choice>
+quinaa quequitoo- Y la tie<br>
+rra 
+<choice><orig>nonbrado</orig><reg type="spanish">nombrado</reg></choice>
+quinaa quegoeza- Y la tierra<br>
+<choice><orig>nonbrado</orig><reg type="spanish">nombrado</reg></choice>
+quinaa quego yaga- Y la tierra<br>
+nom<br>
+brado quego huichy- todos estos 
+<choice><orig>pedasos</orig><reg type="spanish">pedazos</reg></choice>
+de tierra<br>
+que es la tierras adonde nació mi padre diego her<br>
+nandes, a si mismo, adonde nació Mi madre 
+<choice><orig>Ma</orig><reg type="spanish">María</reg></choice>
+ría Jacobe- Y la tierra 
+<choice><orig>nonbrado</orig><reg type="spanish">nombrado</reg></choice>
+quinaa xala<br>
+que es las tierras de mi abuela todos estos 
+<choice><orig>pedasos</orig><reg type="spanish">pedazos</reg></choice>
+de tierras se las dejo en los manos de los tres<br>
+hijos, thomas y pasqual y pablo con todos mis<br>
+nes Y no 
+<choice><orig>mas</orig><reg type="spanish">más</reg></choice>
+se acabo este mi testamto, 
+<choice><orig>oi</orig><reg type="spanish">hoy</reg></choice>
+<choice><orig>nuebe</orig><reg type="spanish">nueve</reg></choice>
+<choice><orig>dias</orig><reg type="spanish">días</reg></choice>
+del mes de febrero del 
+<choice><orig>año</orig><reg type="spanish">años</reg></choice>
+de 1686<br>
+ron los testigos Marcos 
+<choice><orig>Lopes</orig><reg type="spanish">Lopez</reg></choice>
+regidor testigo<br>
+<choice><orig>hernandes</orig><reg type="spanish">hernandez</reg></choice>
+testigo 
+<choice><orig>Jasinto</orig><reg type="spanish">Jacinto</reg></choice>
+<choice><orig>peres</orig><reg type="spanish">perez</reg></choice>
+fiscal domingo de zarate, 
+<choice><orig>alguazil</orig><reg type="spanish">alguacil</reg></choice>
+marcos 
+<choice><orig>lopes</orig><reg type="spanish">lopez</reg></choice>
+fiscal todas<br>
+estas palabras 
+<choice><orig>oy</orig><reg type="spanish">hoy</reg></choice>
+yo diego 
+<choice><orig>peres</orig><reg type="spanish">perez</reg></choice>
+escribano<br>
+Rezevio el Ados 
+<choice><orig>Pe</orig><reg type="spanish">Padre</reg></choice>
+Mo y N fray Joseph 
+<choice><orig>Lopes</orig><reg type="spanish">Lopez</reg></choice>
+<choice><orig>missa</orig><reg type="spanish">misa</reg></choice>
+<choice><orig>deste</orig><reg type="spanish">de este</reg></choice>
+<choice><orig>testamto</orig><reg type="spanish">testamento</reg></choice>
+fray frances de 
+<choice><orig>Nro</orig><reg type="spanish">Nuestro</reg></choice>
+Concuerda con su original que va bien y fielmente saca<br>
+do y 
+<choice><orig>traduzido</orig><reg type="spanish">traducido</reg></choice>
+del 
+<choice><orig>dho</orig><reg type="spanish">dicho</reg></choice>
+<choice><orig>ydioma</orig><reg type="spanish">idioma</reg></choice>
+<choice><orig>sapoteco</orig><reg type="spanish">zapoteco</reg></choice>
+al castellano<br>
+Lo juro por dios 
+<choice><orig>nro</orig><reg type="spanish">nuestro</reg></choice>
+Señor y la señal de la Santa Cruz en<br>
+forma y es 
+<choice><orig>fho</orig><reg type="spanish">fecho</reg></choice>
+en esta 
+<choice><orig>dha</orig><reg type="spanish">dicha</reg></choice>
+ciud, de 
+<choice><orig>Anteqa</orig><reg type="spanish">Antequera</reg></choice>
+Valle de Oaxaca<br>
+a seis 
+<choice><orig>dias</orig><reg type="spanish">días</reg></choice>
+del mes de abril de 
+<choice><orig>mill</orig><reg type="spanish">mil</reg></choice>
+<choice><orig>setesientos</orig><reg type="spanish">setecientos</reg></choice>
+y 
+<choice><orig>quinze</orig><reg type="spanish">quince</reg></choice>
+años<br>
+Thomas 
+<choice><orig>Gomes</orig><reg type="spanish">Gomez</reg></choice>

@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="TEISchema_current.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<text>
+<pb n="1"/><br>
+Yo Don Pedro de Zarate Cassique Vecino 
+<choice><orig>desta</orig><reg type="spanish">de esta</reg></choice>
+ciudad por 
+<br>
+suplica de Don Joseph, de Silva, 
+<choice><orig>tradussí</orig><reg type="spanish">traducí</reg></choice>
+esta 
+<choice><orig>Escriptura</orig><reg type="spanish">Escritura</reg></choice>
+<br>
+de la 
+<choice><orig>ydioma</orig><reg type="spanish">idioma</reg></choice>
+<choice><orig>Sapoteca</orig><reg type="spanish">Zapoteca</reg></choice>
+en que se 
+<choice><orig>haia</orig><reg type="spanish">haya</reg></choice>
+su original a la castellana, 
+<choice><orig>cuio</orig><reg type="spanish">cuyo</reg></choice>
+thenor, es como se sigue-<br>
+Aquí en el Pueblo de Santo Domingo de la Villa de Etla del 
+<br>
+estado, y Marquezado del Valle 
+<choice><orig>oy</orig><reg type="spanish">hoy</reg></choice>
+día Martes veinte 
+<br>
+y siete del 
+<choice><orig>mes</orig><reg type="spanish">mis</reg></choice>
+de Julio de mil setecientos treinta, y 
+<br>
+ocho años aquí ante en Principal Gabriel Ramos 
+<br>
+Alcalde Ordinarios, tamvién, ante testigos, 
+<choice><orig>tamvién</orig><reg type="spanish">también</reg></choice>
+<br>
+yo el 
+<choice><orig>escrivana</orig><reg type="spanish">escribana</reg></choice>
+<choice><orig>doi</orig><reg type="spanish">doy</reg></choice>
+fe palabra de Verdad, como 
+<choice><orig>conosco</orig><reg type="spanish">conozco</reg></choice>
+compareció Antonio Gonzales Viudo que es de la 
+<br>
+difunta Cathalina Gonzales y Reyes, también, otros- 
+<br>
+dos hijos suyos todos naturales y vecinos 
+<choice><orig>deste</orig><reg type="spanish">de este</reg></choice>
+mis<br>
+mo Pueblo piden Licencia, y merced, porque Vender 
+<br>
+Realmente un 
+<choice><orig>pedaso</orig><reg type="spanish">pedazo</reg></choice>
+de solar de su 
+<choice><orig>cassa</orig><reg type="spanish">casa</reg></choice>
+de lo que 
+<br>
+fue 
+<choice><orig>eredado</orig><reg type="spanish">heredado</reg></choice>
+en la clausula del testamento del 
+<br>
+difunto su Padre Pasqual Gonzales, esta en el lugar, 
+<br>
+donde le dissen. Loo llaaga guigxi (que quiere desir) 
+<br>
+caza de palo de Ocote. y es tierra Patrimonial 
+<br>
+del Pueblo de Santo Domingo la tierra y solar de su 
+<choice><orig>cassa</orig><reg type="spanish">casa</reg></choice>
+<br>
+se, aya una (tejavana?) chiquita 
+<choice><orig>tamvién</orig><reg type="spanish">también</reg></choice>
+Nopales 
+<br>
+de Grana, y 
+<choice><orig>assi</orig><reg type="spanish">así</reg></choice>
+mismo tomo el mismo Princi<br>
+pal Alcalde Ordinario Juramento al mismo 
+<choice><orig>Anto</orig><reg type="spanish">Antonio</reg></choice>
+<br>
+Gonzales 
+<choice><orig>tamvién</orig><reg type="spanish">también</reg></choice>
+sus hijos porque declaren la 
+<br>
+verdad si es suyo el solar, 
+<choice><orig>aora</orig><reg type="spanish">ahora</reg></choice>
+dissen la verdad 
+<br>
+hago Juramento y por Dios (H.S.?) y la Señal de la Cruz<br>
+<br>
+<pb n="2"/> 
+<br>
+Verdad es mía el solar la que me 
+<choice><orig>endono</orig><reg type="spanish">endoño</reg></choice>
+mi 
+<br>
+Padre 
+<choice><orig>quando</orig><reg type="spanish">cuando</reg></choice>
+yego la 
+<choice><orig>ora</orig><reg type="spanish">hora</reg></choice>
+de su muerte, y 
+<choice><orig>assi</orig><reg type="spanish">así</reg></choice>
+<br>
+mismo de mi querer 
+<choice><orig>vien</orig><reg type="spanish">bien</reg></choice>
+vendo porque ten<br>
+go nessecidad, y me 
+<choice><orig>haio</orig><reg type="spanish">haya</reg></choice>
+en la enfermedad de 
+<br>
+Dios y no tengo por 
+<choice><orig>onde</orig><reg type="spanish">dónde</reg></choice>
+ir atraer para pagar 
+<br>
+al español, Don Joseph de las (hiraz?) 
+<choice><orig>tamvién</orig><reg type="spanish">también</reg></choice>
+<br>
+para el gasto de mi enfermedad, 
+<choice><orig>aora</orig><reg type="spanish">ahora</reg></choice>
+lo com<br>
+pra el Principal Joseph de Silva le da Vein<br>
+te y ocho pessos, plata efectiva tomo en sus man<br>
+os el mismo Antonio Gonzales y 
+<choice><orig>tamvién</orig><reg type="spanish">también</reg></choice>
+sus hijos 
+<choice><orig>tamvién</orig><reg type="spanish">también</reg></choice>
+ante los tres testigos vieron por sus 
+<choice><orig>ojos</orig><reg type="spanish">hijos</reg></choice>
+como es verdad se contaron todos los ven<br>
+te y ocho pesos en reales tomo el mismo 
+<choice><orig>Anto</orig><reg type="spanish">Antonio</reg></choice>
+Gonzales 
+<br>
+y 
+<choice><orig>assi</orig><reg type="spanish">así</reg></choice>
+mismo declaro como son los linderos 
+<br>
+en contorno de esta tierra solar de 
+<choice><orig>cassa</orig><reg type="spanish">casa</reg></choice>
+<choice><orig>asia</orig><reg type="spanish">hacía</reg></choice>
+por donde sale el sol junta la semente<br>
+ra de 
+<choice><orig>Anto</orig><reg type="spanish">Antonio</reg></choice>
+de Chaves, piedra clavada es lin<br>
+dero, 
+<choice><orig>asia</orig><reg type="spanish">hacía</reg></choice>
+el Norte Junta la sementera de 
+<br>
+Christina Mendes Sanja es Lindero, 
+<choice><orig>asia</orig><reg type="spanish">hacía</reg></choice>
+por 
+<choice><orig>onde</orig><reg type="spanish">dónde</reg></choice>
+se mete el sol se junta del Principal Jo<br>
+seph de Silva, y 
+<choice><orig>tamvién</orig><reg type="spanish">también</reg></choice>
+tierra de Cassicas<br>
+y se clavo una piedra es lindero, 
+<choice><orig>asia</orig><reg type="spanish">hacía</reg></choice>
+a Oaxaca<br>
+se junta la tierra de Comunidad de 
+<choice><orig>Sto</orig><reg type="spanish">Santo</reg></choice>
+Domingo 
+<br>
+clavada una piedra por Lindero, 
+<choice><orig>assi</orig><reg type="spanish">así</reg></choice>
+esta en 
+<br>
+contorno esta tierra de solar de casa declaro 
+<choice><orig>aora</orig><reg type="spanish">ahora</reg></choice>
+dise que sea parta, y se desseste de lo que 
+<br>
+el poder suyo que tiene de esta tierra de sol<br>
+<br>
+<pb n="3"/><br>
+de casa que ya es suyo de sus vienes del mismo 
+<br>
+Principal Joseph de Silva y que sea de sus hijos, y 
+<br>
+nietos 
+<choice><orig>aora</orig><reg type="spanish">ahora</reg></choice>
+y siempre, que le dan 
+<choice><orig>poseción</orig><reg type="spanish">posesión</reg></choice>
+de que 
+<choice><orig>aga</orig><reg type="spanish">haga</reg></choice>
+lo que quisiere, porque ya es suyo de sus vie<br>
+nes, 
+<choice><orig>aora</orig><reg type="spanish">ahora</reg></choice>
+y en lo de adelante, 
+<choice><orig>aora</orig><reg type="spanish">ahora</reg></choice>
+manda el Prin<br>
+cipal Alcalde ordinario se acaso alguno 
+<choice><orig>men</orig><reg type="spanish">mendes</reg></choice>
+cionare o pidiere esta tierra solar de 
+<choice><orig>cassa</orig><reg type="spanish">casa</reg></choice>
+en otra 
+<br>
+ocasión que por 
+<choice><orig>entonses</orig><reg type="spanish">entonces</reg></choice>
+demostraran papel de 
+<choice><orig>Escriptura</orig><reg type="spanish">Escritura</reg></choice>
+de Venta que es a favor del Principal 
+<br>
+Joseph de Silva, se pagara pena 
+<choice><orig>dosse</orig><reg type="spanish">doce</reg></choice>
+pesos, la 
+<br>
+mita que se compre a 
+<choice><orig>seyte</orig><reg type="spanish">siete</reg></choice>
+(qucarda?) la lámpara 
+<br>
+de Santissimo Sacramento la otra mitad que se 
+<choice><orig>aga</orig><reg type="spanish">haga</reg></choice>
+el 
+<br>
+gasto de 
+<choice><orig>qual</orig><reg type="spanish">cual</reg></choice>
+quiera 
+<choice><orig>Justicia</orig><reg type="spanish">Justicia</reg></choice>
+todo 
+<choice><orig>assi</orig><reg type="spanish">así</reg></choice>
+se 
+<choice><orig>acavo</orig><reg type="spanish">acabo</reg></choice>
+<br>
+y finalizo papel de 
+<choice><orig>Escriptura</orig><reg type="spanish">Escritura</reg></choice>
+de Venta lo que es 
+<br>
+a favor suyo del Principal Joseph de Silva Aquí 
+<br>
+ante los tres testigos. Don Antonio de Santiago, y Ve<br>
+lasco, Antonio Mendes, Juan Lopes, y 
+<choice><orig>tamvién</orig><reg type="spanish">también</reg></choice>
+yo 
+<br>
+el 
+<choice><orig>escrivano</orig><reg type="spanish">escribano</reg></choice>
+pongo firma suya Principal Alcalde 
+<br>
+un testigo que es Juan 
+<choice><orig>Lopes</orig><reg type="spanish">Lopez</reg></choice>
+porque no 
+<choice><orig>save</orig><reg type="spanish">sabe</reg></choice>
+de letras 
+<br>
+y la persona que vendió esta tierra solar de casa, pu<br>
+so firma suya porque fabe firmar y por el tan<br>
+to 
+<choice><orig>doi</orig><reg type="spanish">doy</reg></choice>
+fe de palabra de Verdad dicho día 
+<choice><orig>mes</orig><reg type="spanish">mis</reg></choice>
+<br>
+y año- Antonio Gonzales- Joseph Gonzales- Ga<br>
+briel Ramos Alcalde- Testigo 
+<choice><orig>Dn</orig><reg type="spanish">Don</reg></choice>
+<choice><orig>Anto</orig><reg type="spanish">Antonio</reg></choice>
+de Santiago 
+<br>
+y Velasco- Testigo Antonio Mendes Ante mi Juan 
+<choice><orig>Lopes</orig><reg type="spanish">Lopez</reg></choice>
+<br>
+<pb n="4"/><br>
+Ambrossio Luis Ramires- Escrivano-<br>
+Concuerda con su original Zapoteco, a el que me Remito, y Ju<br>
+ro en forma de dro, estar fielmente sacado y corregi<br>
+do 
+<choice><orig>según</orig><reg type="spanish">según</reg></choice>
+mi leal saber, y entender, y porque conste 
+<br>
+lo firme, en esta ciudad de Antequera Valle de Oaxaca 
+<br>
+en 
+<choice><orig>Catorze</orig><reg type="spanish">Catorce</reg></choice>
+días del 
+<choice><orig>mes</orig><reg type="spanish">mis</reg></choice>
+de 
+<choice><orig>Noviembre</orig><reg type="spanish">Noviembre</reg></choice>
+de mil setesientos, 
+<br>
+quarenta, y nueve años0 en (mdo?b-o-ve<br>
+Pedro de Zarate<br>
+En obedecimiento y cumplimiento de lo man<br>
+dado por el Señor 
+<choice><orig>Jues</orig><reg type="spanish">Juez</reg></choice>
+de testamentos Capella<br>
+nias y obras 
+<choice><orig>pias</orig><reg type="spanish">pías</reg></choice>
+de este Obispado 
+<choice><orig>prosedí</orig><reg type="spanish">procedí</reg></choice>
+(?) 
+<br>
+el cotejo de el instrumento que antessede 
+<br>
+son su original Zapoteco y 
+<choice><orig>haye</orig><reg type="spanish">haya</reg></choice>
+<choice><orig>según</orig><reg type="spanish">según</reg></choice>
+ni 
+<br>
+leal saber y entender estar sacado fiel<br>
+mente a la letra sin añadir ni quitar y por 
+<br>
+ser verdad declaro socargo de juramente 
+<br>
+que ante se Merced tengo dicho en que me afir<br>
+mo, y ratifico, y lo firme en esta Ciudad 
+<br>
+de Antequera, 
+<choice><orig>Noviembre</orig><reg type="spanish">Noviembre</reg></choice>
+18 de 1749<br>
+Manuel 
+<choice><orig>Diaz</orig><reg type="spanish">Diez</reg></choice>
+<choice><orig>Ynterprete</orig><reg type="spanish">Interprete</reg></choice>
+Nominado 

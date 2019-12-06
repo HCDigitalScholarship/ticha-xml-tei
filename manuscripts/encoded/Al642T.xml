@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="TEISchema_current.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<text>
+<pb n="1"/>
+<choice><orig>Oy</orig><reg type="spanish">Hoy</reg></choice>
+domingo a dos del 
+<choice><orig>mes</orig><reg type="spanish">mis</reg></choice>
+de Junio de 1642 años 
+<choice><orig>seaze</orig><reg type="spanish">se hace</reg></choice>
+el con chavo oseon 
+<choice><orig>sierto</orig><reg type="spanish">cierto</reg></choice>
+de verdad como 
+<choice><orig>berdad</orig><reg type="spanish">verdad</reg></choice>
+que yo le 
+<choice><orig>bendí</orig><reg type="spanish">vendí</reg></choice>
+la tierra mia. Yo gabriel de santa ana le 
+<choice><orig>buelbo</orig><reg type="spanish">vuelvo</reg></choice>
+a 
+<choice><orig>bender</orig><reg type="spanish">vender</reg></choice>
+La tierra y compro mi yerno Marcos Antonio y porque saco 
+<choice><orig>quinze</orig><reg type="spanish">quince</reg></choice>
+pesos por el 
+<choice><orig>balor</orig><reg type="spanish">valor</reg></choice>
+de la tierra 
+<choice><orig>nombrado</orig><reg type="spanish">nombrado</reg></choice>
+dellee por el tanto nos 
+<choice><orig>consertamos</orig><reg type="spanish">concertamos</reg></choice>
+con mucha 
+<choice><orig>pas</orig><reg type="spanish">paz</reg></choice>
+que Lo gabriel de santa ana hago esta 
+<choice><orig>escriptura</orig><reg type="spanish">escritura</reg></choice>
+como 
+<choice><orig>berdad</orig><reg type="spanish">verdad</reg></choice>
+dos este 
+<choice><orig>dha</orig><reg type="spanish">dicha</reg></choice>
+tierra en los manos de mi yerno Marcos Antonio para que se lo 
+<choice><orig>lleba</orig><reg type="spanish">lleva</reg></choice>
+y sea suyo para siempre 
+<choice><orig>jamas</orig><reg type="spanish">jamás</reg></choice>
+si dios le diere 
+<choice><orig>bida</orig><reg type="spanish">vida</reg></choice>
+<choice><orig>Aora</orig><reg type="spanish">Ahora</reg></choice>
+<choice><orig>ago</orig><reg type="spanish">hago</reg></choice>
+<choice><orig>Juramto</orig><reg type="spanish">Juramento</reg></choice>
+tres bezes Ante dios 
+<choice><orig>nro</orig><reg type="spanish">nuestro</reg></choice>
+Señor como 
+<choice><orig>berdad</orig><reg type="spanish">verdad</reg></choice>
+entrigo La 
+<choice><orig>dha</orig><reg type="spanish">dicha</reg></choice>
+tierra en los manos de mi yerno Marcos Antonio por ser 
+<choice><orig>berdad</orig><reg type="spanish">verdad</reg></choice>
+<choice><orig>dha</orig><reg type="spanish">dicha</reg></choice>
+tierra 
+<choice><orig>mia</orig><reg type="spanish">mía</reg></choice>
+propia que no es de niguno mis hermanos de ni mis compañeros que la 
+<choice><orig>dha</orig><reg type="spanish">dicha</reg></choice>
+tierra 
+<choice><orig>nonbrado</orig><reg type="spanish">nombrado</reg></choice>
+hellee 
+<choice><orig>Agora</orig><reg type="spanish">Ahora</reg></choice>
+declaro los linderos Ytten las piedras es tan en ringlaras que es adonde lindan con las tierras de pedro 
+<choice><orig>gomes</orig><reg type="spanish">gomez</reg></choice>
+que es por la parte abajo de pedro gomes, y Se 
+<choice><orig>ba</orig><reg type="spanish">va</reg></choice>
+ziguiendo Lostro paraje 
+<choice><orig>dho</orig><reg type="spanish">dicho</reg></choice>
+ringlera de piedra 
+<choice><orig>oy</orig><reg type="spanish">hoy</reg></choice>
+también el paraje 
+<choice><orig>nonbrado</orig><reg type="spanish">nombrado</reg></choice>
+guij ya Lana el 
+<choice><orig>mesmo</orig><reg type="spanish">mismo</reg></choice>
+cunbre del cerro que esta otro paraje 
+<choice><orig>nonbrado</orig><reg type="spanish">nombrado</reg></choice>
+quero bichiña que se 
+<choice><orig>ba</orig><reg type="spanish">va</reg></choice>
+el arroyo 
+<choice><orig>nonbrado</orig><reg type="spanish">nombrado</reg></choice>
+guego lazee Linda en las tierras del 
+<choice><orig>dho</orig><reg type="spanish">dicho</reg></choice>
+Pedro 
+<choice><orig>gomes</orig><reg type="spanish">gomez</reg></choice>
+que es la 
+<choice><orig>dha</orig><reg type="spanish">dicha</reg></choice>
+tierra 
+<choice><orig>nonbrado</orig><reg type="spanish">nombrado</reg></choice>
+quiya lana 
+<choice><orig>asia</orig><reg type="spanish">hacía</reg></choice>
+arriba que es la tierra de pedro 
+<choice><orig>gomes</orig><reg type="spanish">gomez</reg></choice>
+y tanbién otro 
+<choice><orig>parraxe</orig><reg type="spanish">paraje</reg></choice>
+<choice><orig>nonbrado</orig><reg type="spanish">nombrado</reg></choice>
+chooxido cua y lindan en las tierras de 
+<choice><orig>beatris</orig><reg type="spanish">beatriz</reg></choice>
+natural del Pueblo de San Antonino y se 
+<choice><orig>bolbio</orig><reg type="spanish">volvió</reg></choice>
+a Sur por el arroyo y se llego otra 
+<choice><orig>bes</orig><reg type="spanish">ves</reg></choice>
+debajo del cerro 
+<pb n="2"/>
+A donde esto puesto una piedra Lindan en tierras del 
+<choice><orig>dho</orig><reg type="spanish">dicho</reg></choice>
+Pedro 
+<choice><orig>gomes</orig><reg type="spanish">gomez</reg></choice>
+que es el 
+<choice><orig>mesmo</orig><reg type="spanish">mismo</reg></choice>
+lindero que Lo gabriel de Santa ana en mi 
+<choice><orig>mesmo</orig><reg type="spanish">mismo</reg></choice>
+boca declaro los linderos en este papel de 
+<choice><orig>escriptura</orig><reg type="spanish">escritura</reg></choice>
+y por que no tengo pleito Con mi yerno Marcos antonio Por el tanto madi yo en esta 
+<choice><orig>escriptura</orig><reg type="spanish">escritura</reg></choice>
+ara 
+<choice><orig>ningun</orig><reg type="spanish">ningún</reg></choice>
+tiempo pidere esta 
+<choice><orig>dha</orig><reg type="spanish">dicha</reg></choice>
+tierra como 
+<choice><orig>berdad</orig><reg type="spanish">verdad</reg></choice>
+<choice><orig>bendi</orig><reg type="spanish">vendí</reg></choice>
+<choice><orig>dha</orig><reg type="spanish">dicha</reg></choice>
+tierra y compro el 
+<choice><orig>dho</orig><reg type="spanish">dicho</reg></choice>
+mi yerno marcos Antonio y también mis hermanos y compañeros A mi yerno so hue la 
+<choice><orig>dha</orig><reg type="spanish">dicha</reg></choice>
+tierra por que se la ten yo bendido y si acaso alguna o algunos por se Nos desbarataren o menos presiaren que ara mandiyo en esta 
+<choice><orig>escriptura</orig><reg type="spanish">escritura</reg></choice>
+so pena de 
+<choice><orig>Sinqta</orig><reg type="spanish">Cincuenta</reg></choice>
+pesos para lo camaca de dios 
+<choice><orig>nro</orig><reg type="spanish">nuestro</reg></choice>
+señor del Rey y de tres mezes de carzel y tres dozenas de asotes en la picota si alguno menos prenaren y des barata sentados estas palabras que simendo yo en mi mesma boca gabriel de santa ana y tanbién mi yerno marcos Antonio 
+<choice><orig>oi</orig><reg type="spanish">hoy</reg></choice>
+domingo en presencia de los testigos Andres 
+<choice><orig>mayerga</orig><reg type="spanish">mayorga</reg></choice>
+regidor Simon peres fiscal antonio 
+<choice><orig>martin</orig><reg type="spanish">martín</reg></choice>
+algua filma Zor Pablo mayorga op(?) vial del Rey Y Yo Pedro 
+<choice><orig>lopes</orig><reg type="spanish">lopez</reg></choice>
+<choice><orig>i</orig><reg type="spanish">y</reg></choice>
+frial del V(?) 
+<choice><orig>oy</orig><reg type="spanish">hoy</reg></choice>
+costantino 
+<choice><orig>peres</orig><reg type="spanish">perez</reg></choice>
+testigo Agustin Martín testigo todos tres nosotras los naturales del pueblo dejan pedro 
+<choice><orig>bimos</orig><reg type="spanish">vimos</reg></choice>
+el conzierto de gabriel de Santa ana y marcos antonio gitan bien Yo Agustin 
+<choice><orig>basques</orig><reg type="spanish">vasquez</reg></choice>
+es escribano
+<br>
+Concuerda con su original 
+<pb n="3"/>
+Concuerda con su original que va bien y fielmente sacado y 
+<choice><orig>tradusido</orig><reg type="spanish">traducido</reg></choice>
+del 
+<choice><orig>ydioma</orig><reg type="spanish">idioma</reg></choice>
+zapoteco al castellano y 
+<choice><orig>assi</orig><reg type="spanish">así</reg></choice>
+lo juro por dios, 
+<choice><orig>nro</orig><reg type="spanish">nuestro</reg></choice>
+señor y la señal de la santa cruz en devida forma y es 
+<choice><orig>fho</orig><reg type="spanish">fecho</reg></choice>
+en esta e hasisidad de 
+<choice><orig>Anteqa</orig><reg type="spanish">Antequera</reg></choice>
+Valle de oaxaca a seis 
+<choice><orig>dias</orig><reg type="spanish">días</reg></choice>
+del 
+<choice><orig>mes</orig><reg type="spanish">mis</reg></choice>
+de abril de 
+<choice><orig>mill</orig><reg type="spanish">mil</reg></choice>
+<choice><orig>setesientos</orig><reg type="spanish">setecientos</reg></choice>
+y 
+<choice><orig>quinze</orig><reg type="spanish">quince</reg></choice>
+anos- 
+<br>
+//Thomas 
+<choice><orig>Gomes</orig><reg type="spanish">Gomez</reg></choice>
+
