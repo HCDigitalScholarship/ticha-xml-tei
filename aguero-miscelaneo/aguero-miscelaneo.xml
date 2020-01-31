@@ -4,6 +4,14 @@
   <text>
   
     <!-- Encoded text goes here -->
-  
+	<pb n="cover"/>
+	<pb n="cover-inside"/>
+	<pb n="1"/>
+	<pb n="2"/>
+	<pb n="3"/>
+	<pb n="4"/>
+	<pb n="5"/>
+	<pb n="6"/>
+	
   </text>
 </TEI>
