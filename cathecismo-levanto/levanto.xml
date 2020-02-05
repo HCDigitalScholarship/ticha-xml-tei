@@ -21,11 +21,12 @@
         <div xml:id="levanto1.2.1">
           <head type="outline">[Title]</head>
           <head rend="center">
-            C A T H E C I S M O
+            <choice><orig>C A T H E C I S M O</orig><reg type="spanish">C A T E C I S M O</reg></choice>
             <lb/>
-            D E L A L E N G U A
+              <!-- this next line is either regularlizing word boundaries, which is spanish norm, or is regularlzing formatting.  not sure if I chose right type of regularlization -BDL -->
+            <choice><orig>D E L A L E N G U A</orig><reg type="spanish">D E  L A  L E N G U A</reg></choice>
             <lb/>
-            ZAAPOTECA.
+            <choice><orig>ZAAPOTECA</orig><reg type="spanish">ZAPOTECA</reg></choice>.
             <lb/>
             DISPUESTO
           </head>
@@ -78,7 +79,7 @@
           </i>
         </head>
         <p rend="center">
-          Excelentiſsimo Señor.
+          <choice><orig>Excelentiſsimo</orig><reg type="spanish">Excelentísimo</reg></choice> Señor.
         </p>
         <p>
           A Grande dicha llega oy la mia en obedecer el 
@@ -86,18 +87,18 @@
           <lb/>
           mandato de V. Exc. confieſſolo con rubor, y aunque à
           <lb/>
-          eſte acompañe mi incapacidad, y demeritos, con los que no
+          <choice><orig>eſte</orig><reg type="spanish">este</reg></choice> acompañe mi incapacidad, y demeritos, con los que no
           <lb/>
           pueda arguir para excuſarme à tan real precepto: dirè, y digo
           <lb/>
-          guſtoſiſsimo, que mandato tan dichoſo, lo dexo venir, y â el
+          <choice><orig>guſtoſiſsimo</orig><reg type="spanish">gustosísimo</reg></choice>, que mandato tan dichoſo, lo dexo venir, y â el
           <lb/>
-          eſtoy rendido, y ciego.
+          <choice><orig>eſtoy</orig><reg type="spanish">estoy</reg></choice> rendido, y ciego.
         </p>
         <p>
           Entre mis felices dichas, la mayor al preſente es, que
           <lb/>
-          ſea Yo Cenſor de Catheciſmo de la Doctrina Chriſtiana, que
+          ſea Yo Cenſor de <choice><orig>Catheciſmo</orig><reg type="spanish">Catecismo</reg></choice> de la Doctrina <choice><orig>Chriſtiana</orig><reg type="spanish">Cristiana</reg></choice>, que
           <lb/>
           en la lengua Zaapoteca, ha <choice><orig>diſpueſto</orig><reg type="spanish">dispuesto</reg></choice> N. M. R. P. M. Fr. Leo
           <pc type="hyphen">-</pc>
@@ -120,7 +121,7 @@
           <lb/>
           no ſe neceſsita de mas prueba para la obra preſente. Ya con
           <lb/>
-          eſto me contentara, Excelentiſsimo Señor, ſuponiendo, que por
+          eſto me contentara, <choice><orig>Excelentiſsimo</orig><reg type="spanish">Excelentísimo</reg></choice> Señor, ſuponiendo, que por
           <lb/>
           averla leido, y oido engrandecer, <choice><orig>eſtaba</orig><reg type="spanish">estaba</reg></choice> aprobada. Mas advier
           <pc type="hyphen">-</pc>
@@ -214,7 +215,7 @@
           <lb/>
         </p>
         <p>
-          Pues Yo, Escelentiſsimo Señor, lo que admiro en eſte
+          Pues Yo, Escelentiſsimo Señor, lo que admiro en <choice><orig>eſte</orig><reg type="spanish">este</reg></choice>
           <lb/>
           Autor es una marabilla, averlo viſto ſiempre en exercicios, y
           <lb/>
@@ -222,9 +223,9 @@
           <lb/>
           ocupado toda ſu vida, que me admira (y â todos ſucede lo
           <lb/>
-          miſmo)
+          <choice><orig>miſmo</orig><reg type="spanish">mismo</reg></choice>)
           <u>
-            como, o quando eſte Autor eſtudio lengua tan bar
+            como, o quando <choice><orig>eſte</orig><reg type="spanish">este</reg></choice> Autor eſtudio lengua tan bar
             <pc type="hyphen">-</pc>
             <lb break="no"/>
             bara?
@@ -234,13 +235,13 @@
           cando todas las dudas con tanta elegancia, que tiene abyſma
           <pc type="hyphen">-</pc>
           <lb break="no"/>
-          dos a los Profeſtores de eſte Idioma, eſeñando no ſolo con
+          dos a los Profeſtores de <choice><orig>eſte</orig><reg type="spanish">este</reg></choice> Idioma, eſeñando no ſolo con
           <lb/>
           rimor entenderla, ſino tambien eſcribirla con tanta pɹopriedad
           <lb/>
           en todo, y en ſus ethymologias, que aſombre â todos, eſto es
           <lb/>
-          lo prodigioſo que miro en eſte Autor, y en <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice> obra preſen
+          lo prodigioſo que miro en <choice><orig>eſte</orig><reg type="spanish">este</reg></choice> Autor, y en <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice> obra preſen
           <pc type="hyphen">-</pc>
           <lb break="no"/>
           te veo coſas nuevas, que me admiran; pues veo oy el verda
@@ -255,7 +256,7 @@
             <hi>y</hi>
           </fw>
           <pb n="8"/>
-          y charitativo zelo de eſte Autor aver pueſto la Doctrina Chriſ
+          y charitativo zelo de <choice><orig>eſte</orig><reg type="spanish">este</reg></choice> Autor aver pueſto la Doctrina Chriſ
           <pc type="hyphen">-</pc>
           <lb break="no"/>
           tiana al modo que oy ſe habla, y entiende la lengua, para
@@ -265,7 +266,7 @@
           gan, y todos ſus Feligreſes ſe apro
           <pc type="hyphen">-</pc>
           <lb break="no"/>
-          vechen prendiendola de un miſmo modo, con tanta claridad,
+          vechen prendiendola de un <choice><orig>miſmo</orig><reg type="spanish">mismo</reg></choice> modo, con tanta claridad,
           <lb/>
           que no podran tropezar en aprender lo neceſſario, y ſeguro
           <lb/>
@@ -276,13 +277,13 @@
           <lb break="no"/>
           ra Miniſtro, que al tiempo que <choice><orig>eſtaban</orig><reg type="spanish">estaban</reg></choice> los Feligreſes rezando
           <lb/>
-          la Doctrina Chriſtiana, <choice><orig>eſtaba</orig><reg type="spanish">estaba</reg></choice> preſente, y ſalieron de ſus labios
+          la Doctrina <choice><orig>Chriſtiana</orig><reg type="spanish">Cristiana</reg></choice>, <choice><orig>eſtaba</orig><reg type="spanish">estaba</reg></choice> preſente, y ſalieron de ſus labios
           <lb/>
           eſtas admirables voces.
           <i>
             O, y quien pudiera hacer, que la Doctrina
             <lb/>
-            Zaapoteca ſe dixera de un miſmo modo,y con los tominos que oy ſe uſan
+            Zaapoteca ſe dixera de un <choice><orig>miſmo</orig><reg type="spanish">mismo</reg></choice> modo,y con los tominos que oy ſe uſan
             <lb/>
             en todas las adminiſtraciones, y Pueblos donde ſe habla
           </i>
@@ -295,11 +296,11 @@
           <lb break="no"/>
           ñor ſe lo ha concedido, y à mi de lograr tal fortuna como
           <lb/>
-          aver leido de nuevo <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice> Doctrina Chriſtiana en dicho Idioma,
+          aver leido de nuevo <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice> Doctrina <choice><orig>Chriſtiana</orig><reg type="spanish">Cristiana</reg></choice> en dicho Idioma,
           <lb/>
           con tan igual proporcion, y propriedad de oces, que ninguna
           <lb/>
-          deſdice, ni ſe opone â nueſtra Santa Fee, antes eſtà ſacado con
+          deſdice, ni ſe opone â nueſtra Santa <choice><orig>Fee</orig><reg type="spanish">Fe</reg></choice>, antes eſtà ſacado con
           <lb/>
           admiracion, y mucha legalidad en todo, y guſtaràn todos los
           <lb/>
@@ -360,7 +361,7 @@
           <lb break="no"/>
           feta Jeremias, ara eximirme del precepto, en que V. S.
           <lb/>
-          me manda vea el Catheciſmo, que en la lengua Zaapoteca ha
+          me manda vea el <choice><orig>Catheciſmo</orig><reg type="spanish">Catecismo</reg></choice>, que en la lengua Zaapoteca ha
           <lb/>
           <choice><orig>diſpueſto</orig><reg type="spanish">dispuesto</reg></choice> el M. R. P. M. Fr. Leonardo Levanto, Provincial que
           <lb/>
@@ -385,9 +386,9 @@
           (Jerem. Cap. 1.) Mas ſiendo tan ſupe
           <pc type="hyphen">-</pc>
           <lb break="no"/>
-          rior el mandato, y aviendoſe <choice><orig>diſpueſto</orig><reg type="spanish">dispuesto</reg></choice> eſte Catheciſmo para que
+          rior el mandato, y aviendoſe <choice><orig>diſpueſto</orig><reg type="spanish">dispuesto</reg></choice> <choice><orig>eſte</orig><reg type="spanish">este</reg></choice> <choice><orig>Catheciſmo</orig><reg type="spanish">Catecismo</reg></choice> para que
           <lb/>
-          aprendan en èl los myſterios de nueſtra Santa Fee los niños, y
+          aprendan en èl los myſterios de nueſtra Santa <choice><orig>Fee</orig><reg type="spanish">Fe</reg></choice> los niños, y
           <lb/>
           los que por ſu corta capacidad aun no han ſalido de la pue
           <pc type="hyphen">-</pc>
@@ -401,11 +402,11 @@
           plir con el mandato de mi aplicacion que no ſolo no con
           <pc type="hyphen">-</pc>
           <lb break="no"/>
-          tiene coſa alguna contra nueſtra Santa Fee; ſino que es muy
+          tiene coſa alguna contra nueſtra Santa <choice><orig>Fee</orig><reg type="spanish">Fe</reg></choice>; ſino que es muy
           <lb/>
           util, y neceſſario para que <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice> Nacion Zaapoteca aprenda lo
           <lb/>
-          que es neceſſario ſaber; eſte es mi parecer:
+          que es neceſſario ſaber; <choice><orig>eſte</orig><reg type="spanish">este</reg></choice> es mi parecer:
           <foreign xml:lang="lat">
             <i>salvo meliori</i>
           </foreign>
@@ -444,9 +445,9 @@
           M. R. P. N. M. Provincial.
         </p>
         <p>
-          CON gran guſto, y regocijo mio he obedecido el mandato
+          CON gran <choice><orig>guſto</orig><reg type="spanish">gusto</reg></choice>, y regocijo mio he obedecido el mandato
           <lb/>
-          de V. P. M. R. y con el miſmo he leido el Catheciſmo,que
+          de V. P. M. R. y con el <choice><orig>miſmo</orig><reg type="spanish">mismo</reg></choice> he leido el <choice><orig>Catheciſmo</orig><reg type="spanish">Catecismo</reg></choice>, que
           <lb/>
           en el Idioma Zaapoteco del Valle compuſo N. M. R. P. M.
           <lb/>
@@ -473,22 +474,22 @@
             <lb break="no"/>
             tanda manifeſtare.
           </foreign>
-          <choice><orig>Eſtos</orig><reg type="spanish">Estos</reg></choice> es lo que contiene eſte Catheciſmo, y eſte
+          <choice><orig>Eſtos</orig><reg type="spanish">Estos</reg></choice> es lo que contiene <choice><orig>eſte</orig><reg type="spanish">este</reg></choice> <choice><orig>Catheciſmo</orig><reg type="spanish">Catecismo</reg></choice>, y <choice><orig>eſte</orig><reg type="spanish">este</reg></choice>
           <lb/>
           el intento piadoſo, y deſeo fervoroſo del Autor, el que los miſe
           <pc type="hyphen">-</pc>
           <lb break="no"/>
-          rables Indios ſean iluſrados en los Myſterios de nueſtra Santa Fee,
+          rables Indios ſean iluſrados en los Myſterios de nueſtra Santa <choice><orig>Fee</orig><reg type="spanish">Fe</reg></choice>,
           <lb/>
-          encaminados â obrar chriſtiana, y charitativamente, para librarſe
+          encaminados â obrar <choice><orig>chriſtiana</orig><reg type="spanish">cristiana</reg></choice>, y charitativamente, para librarſe
           <lb/>
           de muchas culpas: y por todo lo qual de uvticia ſe debe dar â la
           <lb/>
-          Imprente, pues en <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice> obra no ay coſa contraria â Nrâ Sta Fee, y
+          Imprente, pues en <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice> obra no ay coſa contraria â Nrâ Sta <choice><orig>Fee</orig><reg type="spanish">Fe</reg></choice>, y
           <lb/>
           buenas coſtumbres, antes sí lo mas acryſolado de nuesſtra Santa
           <lb/>
-          Ley. Eſte es mi parecer:
+          Ley. <choice><orig>Eſte</orig><reg type="spanish">Este</reg></choice> es mi parecer:
           <foreign xml:lang="lat" rend="italic">salvo meliori</foreign>
           . Caſa de S. Andres Zautla, y
           <lb/>
@@ -526,10 +527,10 @@
           POR mandado de V. P. Muy Reverenda he leido (con to
           <pc type="hyphen">-</pc>
           <lb break="no"/>
-          do guſto, y provecho mio) el Catheciſmo de la Doctri
+          do <choice><orig>guſto</orig><reg type="spanish">gusto</reg></choice>, y provecho mio) el <choice><orig>Catheciſmo</orig><reg type="spanish">Catecismo</reg></choice> de la Doctri
           <pc type="hyphen">-</pc>
           <lb break="no"/>
-          na Chriſtiana, que en el Idioma Zaapoteco el Valle: diſputo
+          na <choice><orig>Chriſtiana</orig><reg type="spanish">Cristiana</reg></choice>, que en el Idioma Zaapoteco el Valle: diſputo
           <lb/>
           el fervoroſo zelo de Nuevtro Muy Reverendo Padre <choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice>
           <lb/>
@@ -547,7 +548,7 @@
           <lb break="no"/>
           ſeos en que ſe imprima tal Obra, pues en ella tienen todos
           <lb/>
-          los que profeſſan eſte Idioma, mucho que admirar, y el alivio
+          los que profeſſan <choice><orig>eſte</orig><reg type="spanish">este</reg></choice> Idioma, mucho que admirar, y el alivio
           <lb/>
           de enſeñarla a ſus Feligreſes.
         </p>
@@ -555,7 +556,7 @@
           Dos coſas tiene la explicacion, y enſeñanza de la Doc
           <pc type="hyphen">-</pc>
           <lb break="no"/>
-          trina Chriſtiana, que es alumbrar, y dar entenimiento a los
+          trina <choice><orig>Chriſtiana</orig><reg type="spanish">Cristiana</reg></choice>, que es alumbrar, y dar entenimiento a los
           <lb/>
           pequeños. Dixolo aſsi el Real Propheta David:
           <foreign xml:lang="lat" rend="italic">
@@ -582,7 +583,7 @@
           debemos dar las gracias todos los Miniſtros, por averſe dedi
           <pc type="hyphen">-</pc>
           <lb break="no"/>
-          cado con tanto deſvelo, y cuidado â recopliar en eſte Idioma
+          cado con tanto deſvelo, y cuidado â recopliar en <choice><orig>eſte</orig><reg type="spanish">este</reg></choice> Idioma
           <lb/>
         </p>
         <fw type="catchword" place="bottom-right">
@@ -596,10 +597,10 @@
           <lb break="no"/>
           tan tan claras, tan bien dichas, y con tanto cuidado eſcritas,
           <lb/>
-          que todos los que hablan eſte Idioma las entienden, y ya ca
+          que todos los que hablan <choice><orig>eſte</orig><reg type="spanish">este</reg></choice> Idioma las entienden, y ya ca
           <pc type="hyphen">-</pc>
           <lb break="no"/>
-          da uno quiſiera tener un Catheciſmo. En que no hallo coſa,
+          da uno quiſiera tener un <choice><orig>Catheciſmo</orig><reg type="spanish">Catecismo</reg></choice>. En que no hallo coſa,
           <lb/>
           que deſdiga de nueſtra Santa Fè Catholica, antes muy fervo
           <pc type="hyphen">-</pc>
@@ -607,7 +608,7 @@
           roſos afectos para abraſarla, por lo qual la juzgo digna de im
           <pc type="hyphen">-</pc>
           <lb break="no"/>
-          primirla. Eſte es mi parecer,
+          primirla. <choice><orig>Eſte</orig><reg type="spanish">Este</reg></choice> es mi parecer,
           <foreign xml:lang="lat" rend="italics">ſalvo meliori</foreign>
           .
           Curato de Ayuqueſ
@@ -655,9 +656,9 @@
             y Preſidente de ſu Real Audiencia, y Chancilleria, &amp;q, concedio ſu licen
             <pc type="hyphen">-</pc>
             <lb break="no"/>
-            cia para la impreſsion de eſte
+            cia para la impreſsion de <choice><orig>eſte</orig><reg type="spanish">este</reg></choice>
             <i>
-              Catheciſmo de lengua Zaapoteca del Valle de Oa
+              <choice><orig>Catheciſmo</orig><reg type="spanish">Catecismo</reg></choice> de lengua Zaapoteca del Valle de Oa
               <pc type="hyphen">-</pc>
               <lb break="no"/>
               xaca
@@ -687,11 +688,11 @@
             <lb/>
             Niñas Doncellas de Nrâ Srâ de la Preſentacion de la ſuſodicha Ciudad,
             <lb/>
-            &amp;c, concedio ſu licencia para que ſe imprima eſte
+            &amp;c, concedio ſu licencia para que ſe imprima <choice><orig>eſte</orig><reg type="spanish">este</reg></choice>
             <i>
-              Catheciſmo de Doctrina
+              <choice><orig>Catheciſmo</orig><reg type="spanish">Catecismo</reg></choice> de Doctrina
               <lb/>
-              Chriſtiana en lengua Zaapoteca del Valle
+              <choice><orig>Chriſtiana</orig><reg type="spanish">Cristiana</reg></choice> en lengua Zaapoteca del Valle
             </i>
             , aviendolo reconocido el R. P. Pred.
             <lb/>
@@ -716,7 +717,7 @@
             cia de San Miguel, y Santos Angeles de la Puebla, diſpuvo un Catheciſ
             <pc type="hyphen">-</pc>
             <lb break="no"/>
-            mo de Doctrina Chriſtiana en el Idioma Zaapoteco de <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice> Provincia, el
+            mo de Doctrina <choice><orig>Chriſtiana</orig><reg type="spanish">Cristiana</reg></choice> en el Idioma Zaapoteco de <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice> Provincia, el
             <lb/>
             qual <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice> aprobado por los RR. PP. Predicadores Generales, y Curas Fr.
             <lb/>
@@ -725,7 +726,7 @@
             autoridad de nueſtro Oficio, doy licencia, para que ſe pueda imprimir di
             <pc type="hyphen">-</pc>
             <lb break="no"/>
-            cho Catheciſmo,
+            cho <choice><orig>Catheciſmo</orig><reg type="spanish">Catecismo</reg></choice>,
             <foreign xml:lang="lat" rend="italic">ſervando jure ſervandis</foreign>
             . Dada en nueſtra <choice><orig>Caſa</orig><reg type="spanish">Casa</reg></choice> de Zachila
             <lb/>
@@ -763,7 +764,7 @@
           tiene las Oraciones, y preguntas bre
           <pc type="hyphen">-</pc>
           <lb break="no"/>
-          ves de la Doctrina <choice><orig>Chriſtiana</orig><reg type="spanish">Christiana</reg></choice> en len
+          ves de la Doctrina <choice><orig>Chriſtiana</orig><reg type="spanish">Cristiana</reg></choice> en len
           <pc type="hyphen">-</pc>
           <lb break="no"/>
           gua Zaapoteca de el Valle, ſe ha re
@@ -774,7 +775,7 @@
           <lb break="no"/>
           tilla, que imprimio el Señor Obiſpo
           <lb/>
-          Feria, Miniſtro de eſte Idioma, y de los manuſcriptos
+          Feria, Miniſtro de <choice><orig>eſte</orig><reg type="spanish">este</reg></choice> Idioma, y de los manuſcriptos
           <lb/>
           de los Religioſos Miniſtros antiguos, eſpecialmente del
           <lb/>
@@ -1062,7 +1063,7 @@
           Sancto
         </foreign>
         . Gaca ciiga ciica.
-        <foreign xml:lang="esp">Jeſus</foreign>
+        <foreign xml:lang="esp"><choice><orig>Jeſus</orig><reg type="spanish">Jesus</reg></choice></foreign>
         .
         <lb/>
         <lb/>
@@ -1097,7 +1098,7 @@
         <lb rend="center"/>
         quella huechiie. Gaca ciiga ciica.
         <lb rend="center"/>
-        <foreign xml:lang="esp">Jeſus</foreign>
+        <foreign xml:lang="esp"><choice><orig>Jeſus</orig><reg type="spanish">Jesus</reg></choice></foreign>
         .
         <lb/>
         <lb/>
@@ -1138,7 +1139,7 @@
         <lb break="no" rend="center"/>
         llabea quellagooti xtennitonoo. Gaca ciiga ciica.
         <lb rend="center"/>
-        <foreign xml:lang="esp">Jeſus</foreign>
+        <foreign xml:lang="esp"><choice><orig>Jeſus</orig><reg type="spanish">Jesus</reg></choice></foreign>
         .
         <lb/>
         <lb/>
@@ -1193,7 +1194,7 @@
         zaacalachi zelli lanni quiiebaa. Gaca ciiga
         <lb rend="center"/>
         ciica.
-        <foreign xml:lang="esp">Jeſus</foreign>
+        <foreign xml:lang="esp"><choice><orig>Jeſus</orig><reg type="spanish">Jesus</reg></choice></foreign>
         .
         <lb/>
       </div>
@@ -1280,10 +1281,10 @@
       </div>
       <!-- levanto2.6 -->
       <div xml:id="levanto2.7">
-        <head type="outline">Los Articulos de la Fee, Son Catorze, &amp;c.</head>
+        <head type="outline">Los Articulos de la <choice><orig>Fee</orig><reg type="spanish">Fe</reg></choice>, Son Catorze, &amp;c.</head>
         <head>
           <foreign xml:lang="esp">
-            LOS ARTICULOS DE LA FEE, SON
+            LOS ARTICULOS DE LA <choice><orig>FEE</orig><reg type="spanish">FE</reg></choice>, SON
             <lb/>
             catorze, &amp;c.
           </foreign>
@@ -1295,7 +1296,7 @@
             Ar
             <pc type="hyphen">-</pc>
             <lb break="no"/>
-            ticulos de Fee
+            ticulos de <choice><orig>Fee</orig><reg type="spanish">Fe</reg></choice>
           </hi>
         </foreign>
         ) cani chitaa Xibaa. Caache Xibaa
@@ -1486,7 +1487,7 @@
             còhuini ciroo quizaacaziini loo
             <lb/>
             guii natooxo gabilla. Gaca ciiga ciiga
-            <foreign xml:lang="esp">Jeſus</foreign>
+            <foreign xml:lang="esp"><choice><orig>Jeſus</orig><reg type="spanish">Jesus</reg></choice></foreign>
             .
           </p>
           <lb/>
@@ -1588,7 +1589,7 @@
         Coroopa Xiibaa nirii: Gannachilo lezaa benniaatilo,
         <lb/>
         ciica nachiiyoobilo. Gaca ciiga ciica.
-        <foreign xml:lang="esp">Jeſus</foreign>
+        <foreign xml:lang="esp"><choice><orig>Jeſus</orig><reg type="spanish">Jesus</reg></choice></foreign>
         .
         <lb/>
       </div>
@@ -1731,7 +1732,7 @@
           monio
         </foreign>
         . Gaca ciiga ciiga
-        <foreign xml:lang="esp">Jeſus</foreign>
+        <foreign xml:lang="esp"><choice><orig>Jeſus</orig><reg type="spanish">Jesus</reg></choice></foreign>
         .
         <lb/>
       </div>
@@ -1848,7 +1849,7 @@
         , niiaxtenni
         <lb/>
         benni nabaanilà, benni gootilá. Gaca ciiga ciica.
-        <foreign xml:lang="esp">Jeſus</foreign>
+        <foreign xml:lang="esp"><choice><orig>Jeſus</orig><reg type="spanish">Jesus</reg></choice></foreign>
         .
         <lb/>
         <lb/>
@@ -2081,7 +2082,7 @@
           1. Cotoobi loo: Quellanazaaca naca Quellariieliilàchi Dios,
           <lb/>
           laa
-          <foreign xml:lang="esp">Fee</foreign>
+          <foreign xml:lang="esp"><choice><orig>Fee</orig><reg type="spanish">Fe</reg></choice></foreign>
           .
           <lb/>
           2. Coroopa loo: Quellanaazaca náca Quellacobeeza, laa
@@ -2390,7 +2391,7 @@
         texillaani, gàca xtènni yoobini. Quella cooquii quiiebaa.
         <lb/>
         Gaca ciiga ciica.
-        <foreign xml:lang="esp">Jeſus</foreign>
+        <foreign xml:lang="esp"><choice><orig>Jeſus</orig><reg type="spanish">Jesus</reg></choice></foreign>
         .
         <lb/>
       </div>
@@ -2587,7 +2588,7 @@
         queyoonniciicalo, lachi Bejuannana Dios, niiaxtenni naa.
         <lb/>
         Gaca ciiga ciica.
-        <foreign xml:lang="esp">Jeſus.</foreign>
+        <foreign xml:lang="esp"><choice><orig>Jeſus</orig><reg type="spanish">Jesus</reg></choice>.</foreign>
         <lb/>
       </div>
       <!-- levanto2.22 -->
@@ -2731,7 +2732,7 @@
           Aqui comienze la Doctri
           <pc type="hyphen">-</pc>
           <lb/>
-          na de nueſtra Fee, que
+          na de nueſtra <choice><orig>Fee</orig><reg type="spanish">Fe</reg></choice>, que
           <lb/>
           llamamos Doctrina Chriſ
           <pc type="hyphen">-</pc>
@@ -2845,7 +2846,7 @@
         <lb/>
         tiano?
         <lb/>
-        R. Hombre, que tiene la Fee
+        R. Hombre, que tiene la <choice><orig>Fee</orig><reg type="spanish">Fe</reg></choice>
         <lb/>
         de Nueſtro Señor Jeſu
         <pc type="hyphen">-</pc>
@@ -2885,7 +2886,7 @@
         <lb/>
         y plenitud de gracia, que tiene ſobre todos.
         <lb/>
-        P. Eſte Chriſto es el verdade
+        P. <choice><orig>Eſte</orig><reg type="spanish">Este</reg></choice> Chriſto es el verdade
         <pc type="hyphen">-</pc>
         <lb/>
         ro Redemptor?
@@ -2895,7 +2896,7 @@
         <lb/>
         tor de todos los hombres.
         <lb/>
-        P. Que oficios executò en eſte
+        P. Que oficios executò en <choice><orig>eſte</orig><reg type="spanish">este</reg></choice>
         <lb/>
         mundo?
         <lb/>
@@ -3020,11 +3021,11 @@
         R. La Doctrina, que llama
         <pc type="hyphen">-</pc>
         <lb/>
-        mos <choice><orig>Chriſtiana</orig><reg type="spanish">Christiana</reg></choice>.
+        mos <choice><orig>Chriſtiana</orig><reg type="spanish">Cristiana</reg></choice>.
         <lb/>
         P. Quantas partes contiene la
         <lb/>
-        Doctrina <choice><orig>Chriſtiana</orig><reg type="spanish">Christiana</reg></choice>?
+        Doctrina <choice><orig>Chriſtiana</orig><reg type="spanish">Cristiana</reg></choice>?
         <lb/>
         R. Contiene quatro partes.
         <lb/>
@@ -3080,13 +3081,13 @@
         Doctri
         <pc type="hyphen">-</pc>
         <lb/>
-        na <choice><orig>Chriſtiana</orig><reg type="spanish">Christiana</reg></choice>
+        na <choice><orig>Chriſtiana</orig><reg type="spanish">Cristiana</reg></choice>
       </foreign>
       .
       <lb/>
       Palla cuee rapani Doctrina
       <lb/>
-      <choice><orig>Chriſtiana</orig><reg type="spanish">Christiana</reg></choice>?
+      <choice><orig>Chriſtiana</orig><reg type="spanish">Cristiana</reg></choice>?
       <lb/>
       Taapa cuee rapani?
       <lb/>
@@ -3376,7 +3377,7 @@
           dre, y del Hijo.
           <lb/>
           <lb/>
-          P. El miſmo Dios tiene cabe
+          P. El <choice><orig>miſmo</orig><reg type="spanish">mismo</reg></choice> Dios tiene cabe
           <pc type="hyphen">-</pc>
           <lb break="no"/>
           za, pies, manos, y cuerpo en
@@ -3590,7 +3591,7 @@
           <lb/>
           te hombre?
           <lb/>
-          R. <choice><orig>Eſta</orig><reg type="spanish">Esta</reg></choice> miſma ſegunda Per
+          R. <choice><orig>Eſta</orig><reg type="spanish">Esta</reg></choice> <choice><orig>miſma</orig><reg type="spanish">misma</reg></choice> ſegunda Per
           <pc type="hyphen">-</pc>
           <lb/>
           ſona de la Santiſsima Tri
@@ -3751,7 +3752,7 @@
         ma en el cuerpo. Y la quar
         <pc type="hyphen">-</pc>
         <lb/>
-        ta; el miſmo Eſpiritu Santo
+        ta; el <choice><orig>miſmo</orig><reg type="spanish">mismo</reg></choice> Eſpiritu Santo
         <lb/>
         concedio a la Virgen Santa
         <lb/>
@@ -3935,7 +3936,7 @@
         <lb/>
         las almas de los Santos, que
         <lb/>
-        murieron antes en eſte mun
+        murieron antes en <choice><orig>eſte</orig><reg type="spanish">este</reg></choice> mun
         <pc type="hyphen">-</pc>
         <lb break="no"/>
         do, en gracia de Dios.
@@ -4448,7 +4449,7 @@
           <lb/>
           à los hombres?
           <lb/>
-          R. l miſmo Dios Nrò. eñor.
+          R. l <choice><orig>miſmo</orig><reg type="spanish">mismo</reg></choice> Dios Nrò. eñor.
           <lb/>
           P. ara que Nro Señor Dios
           <lb/>
@@ -4587,7 +4588,7 @@
       <pb n="43"/>
       <cb n="1"/>
       <foreign xml:lang="esp" rend="italics">
-        R. El miſmo Dios Nrò.Señor.
+        R. El <choice><orig>miſmo</orig><reg type="spanish">mismo</reg></choice> Dios Nrò.Señor.
         <lb/>
         P. Que coſa eran los Demonios
         <lb/>
@@ -4782,7 +4783,7 @@
         <lb/>
         los catorze articulos de la 
         <lb/>
-        Fee de Dios, la ſegunda los
+        <choice><orig>Fee</orig><reg type="spanish">Fe</reg></choice> de Dios, la ſegunda los
         <lb/>
         diez Mandamientos de la
         <lb/>
@@ -5312,7 +5313,7 @@
           <lb/>
           Chiiquee loo xguere piniini
           <lb/>
-          Xi Rinni Jeſus pixiini,
+          Xi Rinni <choice><orig>Jeſus</orig><reg type="spanish">Jesus</reg></choice> pixiini,
           <lb/>
           Ciica niça loona looni.
           <lb/>
