@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "title": "test image",
+    "spanishTitle": "test image_",
+    "author": "tester",
+    "publicationDate": "2020-02-05",
+    "content": "<p><img alt=\"Image result for test site image\"\" src=\"https://courses.byui.edu/econ_150/econ_150_old_site/images/beta_test.jpg\" style=\"float:right\" /></p> <hr /> <p>This text is just a meaningless block to test the formatting of rich text field models so please do not pay it any head or spend any further time reading this text. beez!</p>",
+    "spanishContent": "<p><img alt=\"Image result for test site image\"\" src=\"https://courses.byui.edu/econ_150/econ_150_old_site/images/beta_test.jpg\" /></p>"
+  }
+]
