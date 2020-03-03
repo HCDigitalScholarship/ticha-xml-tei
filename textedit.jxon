@@ -1,0 +1,191 @@
+[
+  {
+    "EScontent": <h4>
+      Agradecemos el apoyo de las siguientes instituciones y agencias:
+    </h4>,
+    "ESname": "Agradecimientos",
+    "coding_id": "Acknowledgements",
+    "content": <h4>
+      We are grateful for support from the following institutions and agencies:
+    </h4>,
+    "id": 8,
+    "name": "Acknowledgements"
+  },
+  {
+    "EScontent": <p>
+      Las siguientes ligas apuntan a recursos adicionales sobre la lengua zapoteca.
+    </p>,
+    "ESname": "Recursos Adicionales",
+    "coding_id": "Additional Resources",
+    "content": <p>
+      The following links point to additional resources on the Zapotec language.
+    </p>,
+    "id": 4,
+    "name": "Additional Resources"
+  },
+  {
+    "EScontent": <h4>
+      Publicaciones que citan palabras o partes de textos en el zapoteco colonial del valle
+    </h4>,
+    "ESname": "Bibliografía, Publicaciones que citan palabras o partes de textos en el zapoteco colonial del valle",
+    "coding_id": "Bibliography2",
+    "content": <h4>
+      Publications that cite words or parts of texts in Colonial Valley Zapotec
+    </h4>,
+    "id": 6,
+    "name": "Bibliography, Publications that cite words or parts of texts in Colonial Valley Zapotec"
+  },
+  {
+    "EScontent": <h4>
+      Textos publicados en el zapoteco colonial del valle
+    </h4>,
+    "ESname": "Bibliografía, Textos publicados en el zapoteco colonial del valle",
+    "coding_id": "Bibliography",
+    "content": <h4>
+      Published Colonial Valley Zapotec texts
+    </h4>,
+    "id": 7,
+    "name": "Bibliography, Published Colonial Valley Zapotec texts"
+  },
+  {
+    "EScontent": <h4>
+      Manuscritos no publicados y presentaciones de conferencias que citan palabras o partes de textos en el zapoteco colonial del valle
+    </h4>,
+    "ESname": "Bibliografía, Manuscritos no publicados y presentaciones de conferencias que citan palabras o partes de textos en el zapoteco colonial del valle",
+    "coding_id": "Bibliography3",
+    "content": <h4>
+      Unpublished manuscripts and conference presentations that cite words or parts of texts in Colonial Valley Zapotec
+    </h4>,
+    "id": 5,
+    "name": "Bibliography, Unpublished manuscripts and conference presentations that cite words or parts of texts in Colonial Valley Zapotec"
+  },
+  {
+    "EScontent": <p>
+      Cuando los españoles llegaron a la costa de lo que iban a llamar la Nueva España - lo cual incluye el México actual - los zapotecas ya escribián desde hace más de 2000 años. Entonces, no es soprprendente que rápidamente adoptaron la escritura alfabética. Ésta escritura fue introducida como parte de una empresa expansiva que tenía como objetivo la conversión de la población indígena al cristianismo. Tal proyecto creó la necesidad de un proceso de aprendizaje sin precedente en la historia del mundo: describir y analizar las múltiples lenguas de Mesoamérica. Los resultados de este proyecto fueron numerosos diccionarios, gramáticas y obras religiosas creados por frailes dominicos que dependieron de gran manera la colaboración con hablantes del zapoteco.
+    </p>,
+    "ESname": "Contexto Cultural",
+    "coding_id": "Cultural Context",
+    "content": <p>
+      When the Spanish arrived on the coast of what they were to call New Spain—which included what is now modern-day Mexico—the Zapotec people had already been writing for some 2,000 years. It was therefore not surprising that they quickly adopted the alphabetic writing system. Such writing was introduced as part of an expansive undertaking that had as its objective the conversion of the indigenous population to Christianity. This project created the need for a learning process unprecedented in world history: describing and analyzing the multiple languages of Mesoamerica. The results of this project were numerous dictionaries, grammars, and religious works created by Dominican friars relying heavily on the collaboration of Zapotec speakers.
+    </p>,
+    "id": 10,
+    "name": "Cultural Context"
+  },
+  {
+    "EScontent": <h4>
+      Ticha: advancing community-engaged digital scholarship
+    </h4>,
+    "ESname": "Funding",
+    "coding_id": "Funding",
+    "content": <h4>
+      Ticha: advancing community-engaged digital scholarship
+    </h4>,
+    "id": 11,
+    "name": "Funding"
+  },
+  {
+    "EScontent": null,
+    "ESname": "Intro to Texts",
+    "coding_id": "Intro to Texts",
+    "content": null,
+    "id": 3,
+    "name": "Intro to Texts"
+  },
+  {
+    "EScontent": <p>
+      El zapoteco es una familia extensa de lenguas propia del sur de México, que forma parte de la más amplia
+      <a href="http://en.wikipedia.org/wiki/Oto-Manguean_languages">
+        familia del otomangue
+      </a>. Actualmente, existen más de cincuenta idiomas zapotecas (código iso
+      <a href="http://www.ethnologue.com/language/zap">
+        zap
+      </a>), la mayoría de ellas en peligro de desaparición. Como parte del pueblo zapoteco hay aproximadamente 425,000 personas (
+      <a href="http://cuentame.inegi.org.mx/hipertexto/todas_lenguas.htm">
+        INEGI 2010
+      </a>) que hablan el zapoteco, principalmente en el estado de Oaxaca, México. Debido a la migración, actualmente existen zapoteco-hablantes en varias regiones de México y los Estados Unidos. La variedad dialéctica entre los pueblos zapoteco-hablantes es extensiva y complicada. Muchas variantes del zapoteco no son
+      <a href="http://en.wikipedia.org/wiki/Mutual_intelligibility">
+        intelígible mutuamente
+      </a>
+      En términos de profundidad temporal y diversidad lingüística, la
+      <a href="http://en.wikipedia.org/wiki/Zapotec_languages">
+        familia de lenguas zapotecas
+      </a>
+      está en par con la
+      <a href="http://en.wikipedia.org/wiki/Romance_languages">
+        familia de lenguas romances
+      </a>
+      in terms of time depth and diversity of member languages.
+    </p>,
+    "ESname": "Fondo Lingüístico",
+    "coding_id": "Linguistic Background",
+    "content": <p>
+      Zapotec is an extensive language family indigenous to southern Mexico, which belongs to the larger
+      <a href="http://en.wikipedia.org/wiki/Oto-Manguean_languages">
+        Otomanguean family
+      </a>
+      Today, there are over 50 different Zapotec languages (iso code
+      <a href="http://www.ethnologue.com/language/zap">
+        zap
+      </a>) most of which are endangered. They are spoken primarily in the state of Oaxaca, Mexico, by a total of approximately 425,000 people (
+      <a href="http://cuentame.inegi.org.mx/hipertexto/todas_lenguas.htm">
+        INEGI 2010
+      </a>) within a much larger Zapotec ethnic community. Due to immigration, there are now Zapotec speakers in many other parts of Mexico and the United States. Dialectal divergence between Zapotec-speaking communities is extensive and complicated. Many varieties of Zapotec are
+      <a href="http://en.wikipedia.org/wiki/Mutual_intelligibility">
+        mutually unintelligible
+      </a>
+      with one another. The
+      <a href="http://en.wikipedia.org/wiki/Zapotec_languages">
+        Zapotec language family
+      </a>
+      is on par with the
+      <a href="http://en.wikipedia.org/wiki/Romance_languages">
+        Romance language family
+      </a>
+      in terms of time depth and diversity of member languages.
+    </p>,
+    "id": 9,
+    "name": "Linguistic Background"
+  },
+  {
+    "EScontent": <p>
+      <strong>
+        Ticha
+      </strong>
+      es un explorador digital para un grupo de textos escritos en el zapoteco colonial. (El nombre
+      <em>
+        ticha
+      </em>
+      se deriva de la palabra del zapoteco colonial del valle para ‘palabra’, la cual también significa ‘lenguaje’.) El zapoteco es una familia lingüística de México que tiene una larga historia de escritura alfabética de la cual el documento más antiguo tiene la fecha de 1565 (Oudijk 2008:230). Leer e interpretar estos documentos puede ser sumamente difícil por los retos de la ortografía antigua, vocabulario, gramática, y convenciones de imprenta, sin embargo los documentos contienen extensa información lingüística, histórica, y antropológica.
+    </p>,
+    "ESname": "El Proyecto",
+    "coding_id": "The Project",
+    "content": <p>
+      <strong>
+        Ticha
+      </strong>
+      is an online, digital explorer for a corpus of Colonial Zapotec texts. (The name
+      <em>
+        ticha
+      </em>
+      comes from the Colonial Valley Zapotec word for 'word', which can also mean 'language' and 'text'.) Zapotec languages are indigenous to Mexico. There is a large corpus of alphabetic texts written in Zapotec languages, the earliest dated to 1565 (Oudijk 2008:230). Reading and interpreting these colonial documents can be extremely difficult because of the challenges of early Zapotec orthography, vocabulary, grammar, and printing conventions, yet the documents contain rich linguistic, historical, and anthropological information.
+    </p>,
+    "id": 12,
+    "name": "The Project"
+  },
+  {
+    "EScontent": null,
+    "ESname": "featured texts",
+    "coding_id": "featured texts",
+    "content": null,
+    "id": 1,
+    "name": "featured texts"
+  },
+  {
+    "EScontent": null,
+    "ESname": "transcriptions",
+    "coding_id": "transcriptions",
+    "content": null,
+    "id": 2,
+    "name": "transcriptions"
+  }
+]
