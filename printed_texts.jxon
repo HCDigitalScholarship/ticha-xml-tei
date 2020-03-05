@@ -1,0 +1,42 @@
+[
+  {
+    "citation": "",
+    "id": 20,
+    "last_page": 264,
+    "outline": import("ticha-xml-tei/printed_texts/outlines/cordova_arte_outline.xml"),
+    "page_scheme": "RV",
+    "slug": "cordova-arte",
+    "title": "Cordova Arte",
+    "zoomable": false
+  },
+  {
+    "citation": "Feb 2017. This in progress beta version of the digital edition of Fray Leonardo Levanto's 1766 Cathecismo de la legua Zaapoteca is being created as part of Lillehaugen's course, Linguistics 215 Structure of Colonial Valley Zapotec (Jan - May 2017). It can be cited as below:\r\\n<br><br>\r\\nLillehaugen, Brook Danielle, Claire Benham, Janet Chavéz Santiago, Emily Drummond, James Arthur Faville, Avery A. King, Bridget Murray, Tristan Jacobo Pepin, May Helena Plumb, Mindy Renee Reutter, James E. Truitt, Christina Nicole Ulowetz, Mike Zarafonetis & Ian Fisher. 2017. Digital edition of Fray Leonardo Levanto's 1766 Cathecismo de la lengua Zaapoteca, beta version. Ticha Project: <a href=\\"https://ticha.haverford.edu/en/texts/levanto/\\">https://ticha.haverford.edu/en/texts/levanto/</a>",
+    "id": 21,
+    "last_page": 59,
+    "outline": import("ticha-xml-tei/printed_texts/outlines/levanto_catechismo_outline.xml"),
+    "page_scheme": "LN",
+    "slug": "levanto-catechismo",
+    "title": "Levanto Catechismo",
+    "zoomable": false
+  },
+  {
+    "citation": "Lillehaugen, Brook Danielle, Sabea K. Evans, Kathryn Goldberg, Julie Gonzales, Jaime Metzger, Lyra Piscitelli, Diamond C. J. Ray, and Conor Stuart Roe. 2017. Digital Edition of pp. 97-117 of Leonardo Levanto’s 1732 <i>Arte de la lengua zapoteca</i>. Online: <a href=\\"https://ticha.haverford.edu/en/texts/levanto-arte/98/original/\\">https://ticha.haverford.edu/en/texts/levanto-arte/98/original/</a>.",
+    "id": 23,
+    "last_page": 205,
+    "outline": import("ticha-xml-tei/printed_texts/outlines/levanto_arte_outline.xml"),
+    "page_scheme": "LN",
+    "slug": "levanto-arte",
+    "title": "Levanto Arte",
+    "zoomable": true
+  },
+  {
+    "citation": "",
+    "id": 25,
+    "last_page": 539,
+    "outline": import("ticha-xml-tei/printed_texts/outlines/aguero_miscelaneo_outline.xml"),
+    "page_scheme": "LN",
+    "slug": "aguero-miscelaneo",
+    "title": "Aguero Miscelaneo",
+    "zoomable": false
+  }
+]

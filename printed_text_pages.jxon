@@ -1,0 +1,4790 @@
+[
+  {
+    "id": 12141,
+    "linear_page_number": 0,
+    "man": "cordova-arte",
+    "page_id": "0",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/0.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/0.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12142,
+    "linear_page_number": 1,
+    "man": "cordova-arte",
+    "page_id": "4",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/1.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/1.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12143,
+    "linear_page_number": 2,
+    "man": "cordova-arte",
+    "page_id": "6",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/2.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/2.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12144,
+    "linear_page_number": 3,
+    "man": "cordova-arte",
+    "page_id": "7",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/3.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/3.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12145,
+    "linear_page_number": 4,
+    "man": "cordova-arte",
+    "page_id": "8",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/4.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/4.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12146,
+    "linear_page_number": 5,
+    "man": "cordova-arte",
+    "page_id": "9",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/5.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/5.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12147,
+    "linear_page_number": 6,
+    "man": "cordova-arte",
+    "page_id": "10",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/6.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/6.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12148,
+    "linear_page_number": 7,
+    "man": "cordova-arte",
+    "page_id": "11",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/7.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/7.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12149,
+    "linear_page_number": 8,
+    "man": "cordova-arte",
+    "page_id": "12",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/8.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/8.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12150,
+    "linear_page_number": 9,
+    "man": "cordova-arte",
+    "page_id": "13",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/9.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/9.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12151,
+    "linear_page_number": 10,
+    "man": "cordova-arte",
+    "page_id": "14",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/10.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/10.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12152,
+    "linear_page_number": 11,
+    "man": "cordova-arte",
+    "page_id": "15",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/11.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/11.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12153,
+    "linear_page_number": 12,
+    "man": "cordova-arte",
+    "page_id": "1r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/12.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/12.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12154,
+    "linear_page_number": 13,
+    "man": "cordova-arte",
+    "page_id": "1v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/13.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/13.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12155,
+    "linear_page_number": 14,
+    "man": "cordova-arte",
+    "page_id": "2r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/14.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/14.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12156,
+    "linear_page_number": 15,
+    "man": "cordova-arte",
+    "page_id": "2v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/15.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/15.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12157,
+    "linear_page_number": 16,
+    "man": "cordova-arte",
+    "page_id": "3r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/16.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/16.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12158,
+    "linear_page_number": 17,
+    "man": "cordova-arte",
+    "page_id": "3v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/17.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/17.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12159,
+    "linear_page_number": 18,
+    "man": "cordova-arte",
+    "page_id": "4r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/18.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/18.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12160,
+    "linear_page_number": 19,
+    "man": "cordova-arte",
+    "page_id": "4v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/19.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/19.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12161,
+    "linear_page_number": 20,
+    "man": "cordova-arte",
+    "page_id": "5r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/20.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/20.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12162,
+    "linear_page_number": 21,
+    "man": "cordova-arte",
+    "page_id": "5v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/21.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/21.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12163,
+    "linear_page_number": 22,
+    "man": "cordova-arte",
+    "page_id": "6r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/22.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/22.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12164,
+    "linear_page_number": 23,
+    "man": "cordova-arte",
+    "page_id": "6v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/23.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/23.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12165,
+    "linear_page_number": 24,
+    "man": "cordova-arte",
+    "page_id": "7r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/24.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/24.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12166,
+    "linear_page_number": 25,
+    "man": "cordova-arte",
+    "page_id": "7v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/25.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/25.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12167,
+    "linear_page_number": 26,
+    "man": "cordova-arte",
+    "page_id": "8r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/26.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/26.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12168,
+    "linear_page_number": 27,
+    "man": "cordova-arte",
+    "page_id": "8v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/27.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/27.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12169,
+    "linear_page_number": 28,
+    "man": "cordova-arte",
+    "page_id": "9r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/28.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/28.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12170,
+    "linear_page_number": 29,
+    "man": "cordova-arte",
+    "page_id": "9v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/29.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/29.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12171,
+    "linear_page_number": 30,
+    "man": "cordova-arte",
+    "page_id": "10r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/30.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/30.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12172,
+    "linear_page_number": 31,
+    "man": "cordova-arte",
+    "page_id": "10v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/31.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/31.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12173,
+    "linear_page_number": 32,
+    "man": "cordova-arte",
+    "page_id": "11r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/32.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/32.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12174,
+    "linear_page_number": 33,
+    "man": "cordova-arte",
+    "page_id": "11v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/33.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/33.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12175,
+    "linear_page_number": 34,
+    "man": "cordova-arte",
+    "page_id": "12r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/34.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/34.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12176,
+    "linear_page_number": 35,
+    "man": "cordova-arte",
+    "page_id": "12v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/35.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/35.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12177,
+    "linear_page_number": 36,
+    "man": "cordova-arte",
+    "page_id": "13r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/36.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/36.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12178,
+    "linear_page_number": 37,
+    "man": "cordova-arte",
+    "page_id": "13v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/37.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/37.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12179,
+    "linear_page_number": 38,
+    "man": "cordova-arte",
+    "page_id": "14r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/38.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/38.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12180,
+    "linear_page_number": 39,
+    "man": "cordova-arte",
+    "page_id": "14v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/39.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/39.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12181,
+    "linear_page_number": 40,
+    "man": "cordova-arte",
+    "page_id": "15r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/40.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/40.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12182,
+    "linear_page_number": 41,
+    "man": "cordova-arte",
+    "page_id": "15v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/41.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/41.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12183,
+    "linear_page_number": 42,
+    "man": "cordova-arte",
+    "page_id": "16r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/42.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/42.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12184,
+    "linear_page_number": 43,
+    "man": "cordova-arte",
+    "page_id": "16v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/43.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/43.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12185,
+    "linear_page_number": 44,
+    "man": "cordova-arte",
+    "page_id": "17r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/44.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/44.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12186,
+    "linear_page_number": 45,
+    "man": "cordova-arte",
+    "page_id": "17v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/45.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/45.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12187,
+    "linear_page_number": 46,
+    "man": "cordova-arte",
+    "page_id": "18r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/46.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/46.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12188,
+    "linear_page_number": 47,
+    "man": "cordova-arte",
+    "page_id": "18v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/47.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/47.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12189,
+    "linear_page_number": 48,
+    "man": "cordova-arte",
+    "page_id": "19r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/48.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/48.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12190,
+    "linear_page_number": 49,
+    "man": "cordova-arte",
+    "page_id": "19v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/49.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/49.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12191,
+    "linear_page_number": 50,
+    "man": "cordova-arte",
+    "page_id": "20r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/50.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/50.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12192,
+    "linear_page_number": 51,
+    "man": "cordova-arte",
+    "page_id": "20v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/51.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/51.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12193,
+    "linear_page_number": 52,
+    "man": "cordova-arte",
+    "page_id": "21r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/52.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/52.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12194,
+    "linear_page_number": 53,
+    "man": "cordova-arte",
+    "page_id": "21v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/53.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/53.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12195,
+    "linear_page_number": 54,
+    "man": "cordova-arte",
+    "page_id": "22r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/54.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/54.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12196,
+    "linear_page_number": 55,
+    "man": "cordova-arte",
+    "page_id": "22v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/55.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/55.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12197,
+    "linear_page_number": 56,
+    "man": "cordova-arte",
+    "page_id": "23r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/56.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/56.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12198,
+    "linear_page_number": 57,
+    "man": "cordova-arte",
+    "page_id": "23v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/57.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/57.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12199,
+    "linear_page_number": 58,
+    "man": "cordova-arte",
+    "page_id": "24r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/58.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/58.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12200,
+    "linear_page_number": 59,
+    "man": "cordova-arte",
+    "page_id": "24v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/59.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/59.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12201,
+    "linear_page_number": 60,
+    "man": "cordova-arte",
+    "page_id": "25r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/60.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/60.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12202,
+    "linear_page_number": 61,
+    "man": "cordova-arte",
+    "page_id": "25v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/61.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/61.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12203,
+    "linear_page_number": 62,
+    "man": "cordova-arte",
+    "page_id": "26r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/62.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/62.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12204,
+    "linear_page_number": 63,
+    "man": "cordova-arte",
+    "page_id": "26v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/63.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/63.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12205,
+    "linear_page_number": 64,
+    "man": "cordova-arte",
+    "page_id": "27r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/64.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/64.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12206,
+    "linear_page_number": 65,
+    "man": "cordova-arte",
+    "page_id": "27v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/65.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/65.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12207,
+    "linear_page_number": 66,
+    "man": "cordova-arte",
+    "page_id": "28r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/66.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/66.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12208,
+    "linear_page_number": 67,
+    "man": "cordova-arte",
+    "page_id": "28v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/67.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/67.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12209,
+    "linear_page_number": 68,
+    "man": "cordova-arte",
+    "page_id": "29r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/68.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/68.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12210,
+    "linear_page_number": 69,
+    "man": "cordova-arte",
+    "page_id": "29v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/69.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/69.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12211,
+    "linear_page_number": 70,
+    "man": "cordova-arte",
+    "page_id": "30r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/70.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/70.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12212,
+    "linear_page_number": 71,
+    "man": "cordova-arte",
+    "page_id": "30v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/71.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/71.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12213,
+    "linear_page_number": 72,
+    "man": "cordova-arte",
+    "page_id": "31r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/72.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/72.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12214,
+    "linear_page_number": 73,
+    "man": "cordova-arte",
+    "page_id": "31v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/73.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/73.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12215,
+    "linear_page_number": 74,
+    "man": "cordova-arte",
+    "page_id": "32r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/74.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/74.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12216,
+    "linear_page_number": 75,
+    "man": "cordova-arte",
+    "page_id": "32v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/75.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/75.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12217,
+    "linear_page_number": 76,
+    "man": "cordova-arte",
+    "page_id": "33r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/76.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/76.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12218,
+    "linear_page_number": 77,
+    "man": "cordova-arte",
+    "page_id": "33v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/77.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/77.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12219,
+    "linear_page_number": 78,
+    "man": "cordova-arte",
+    "page_id": "34r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/78.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/78.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12220,
+    "linear_page_number": 79,
+    "man": "cordova-arte",
+    "page_id": "34v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/79.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/79.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12221,
+    "linear_page_number": 80,
+    "man": "cordova-arte",
+    "page_id": "35r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/80.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/80.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12222,
+    "linear_page_number": 81,
+    "man": "cordova-arte",
+    "page_id": "35v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/81.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/81.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12223,
+    "linear_page_number": 82,
+    "man": "cordova-arte",
+    "page_id": "36r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/82.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/82.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12224,
+    "linear_page_number": 83,
+    "man": "cordova-arte",
+    "page_id": "36v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/83.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/83.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12225,
+    "linear_page_number": 84,
+    "man": "cordova-arte",
+    "page_id": "37r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/84.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/84.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12226,
+    "linear_page_number": 85,
+    "man": "cordova-arte",
+    "page_id": "37v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/85.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/85.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12227,
+    "linear_page_number": 86,
+    "man": "cordova-arte",
+    "page_id": "38r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/86.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/86.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12228,
+    "linear_page_number": 87,
+    "man": "cordova-arte",
+    "page_id": "38v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/87.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/87.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12229,
+    "linear_page_number": 88,
+    "man": "cordova-arte",
+    "page_id": "39r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/88.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/88.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12230,
+    "linear_page_number": 89,
+    "man": "cordova-arte",
+    "page_id": "39v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/89.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/89.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12231,
+    "linear_page_number": 90,
+    "man": "cordova-arte",
+    "page_id": "40r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/90.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/90.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12232,
+    "linear_page_number": 91,
+    "man": "cordova-arte",
+    "page_id": "40v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/91.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/91.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12233,
+    "linear_page_number": 92,
+    "man": "cordova-arte",
+    "page_id": "41r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/92.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/92.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12234,
+    "linear_page_number": 93,
+    "man": "cordova-arte",
+    "page_id": "41v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/93.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/93.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12235,
+    "linear_page_number": 94,
+    "man": "cordova-arte",
+    "page_id": "42r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/94.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/94.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12236,
+    "linear_page_number": 95,
+    "man": "cordova-arte",
+    "page_id": "42v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/95.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/95.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12237,
+    "linear_page_number": 96,
+    "man": "cordova-arte",
+    "page_id": "43r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/96.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/96.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12238,
+    "linear_page_number": 97,
+    "man": "cordova-arte",
+    "page_id": "43v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/97.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/97.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12239,
+    "linear_page_number": 98,
+    "man": "cordova-arte",
+    "page_id": "44r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/98.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/98.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12240,
+    "linear_page_number": 99,
+    "man": "cordova-arte",
+    "page_id": "44v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/99.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/99.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12241,
+    "linear_page_number": 100,
+    "man": "cordova-arte",
+    "page_id": "45r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/100.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/100.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12242,
+    "linear_page_number": 101,
+    "man": "cordova-arte",
+    "page_id": "45v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/101.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/101.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12243,
+    "linear_page_number": 102,
+    "man": "cordova-arte",
+    "page_id": "46r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/102.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/102.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12244,
+    "linear_page_number": 103,
+    "man": "cordova-arte",
+    "page_id": "46v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/103.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/103.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12245,
+    "linear_page_number": 104,
+    "man": "cordova-arte",
+    "page_id": "47r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/104.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/104.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12246,
+    "linear_page_number": 105,
+    "man": "cordova-arte",
+    "page_id": "47v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/105.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/105.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12247,
+    "linear_page_number": 106,
+    "man": "cordova-arte",
+    "page_id": "48r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/106.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/106.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12248,
+    "linear_page_number": 107,
+    "man": "cordova-arte",
+    "page_id": "48v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/107.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/107.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12249,
+    "linear_page_number": 108,
+    "man": "cordova-arte",
+    "page_id": "49r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/108.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/108.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12250,
+    "linear_page_number": 109,
+    "man": "cordova-arte",
+    "page_id": "49v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/109.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/109.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12251,
+    "linear_page_number": 110,
+    "man": "cordova-arte",
+    "page_id": "50r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/110.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/110.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12252,
+    "linear_page_number": 111,
+    "man": "cordova-arte",
+    "page_id": "50v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/111.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/111.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12253,
+    "linear_page_number": 112,
+    "man": "cordova-arte",
+    "page_id": "51r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/112.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/112.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12254,
+    "linear_page_number": 113,
+    "man": "cordova-arte",
+    "page_id": "51v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/113.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/113.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12255,
+    "linear_page_number": 114,
+    "man": "cordova-arte",
+    "page_id": "52r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/114.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/114.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12256,
+    "linear_page_number": 115,
+    "man": "cordova-arte",
+    "page_id": "52v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/115.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/115.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12257,
+    "linear_page_number": 116,
+    "man": "cordova-arte",
+    "page_id": "53r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/116.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/116.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12258,
+    "linear_page_number": 117,
+    "man": "cordova-arte",
+    "page_id": "53v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/117.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/117.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12259,
+    "linear_page_number": 118,
+    "man": "cordova-arte",
+    "page_id": "54r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/118.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/118.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12260,
+    "linear_page_number": 119,
+    "man": "cordova-arte",
+    "page_id": "54v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/119.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/119.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12261,
+    "linear_page_number": 120,
+    "man": "cordova-arte",
+    "page_id": "55r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/120.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/120.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12262,
+    "linear_page_number": 121,
+    "man": "cordova-arte",
+    "page_id": "55v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/121.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/121.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12263,
+    "linear_page_number": 122,
+    "man": "cordova-arte",
+    "page_id": "56r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/122.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/122.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12264,
+    "linear_page_number": 123,
+    "man": "cordova-arte",
+    "page_id": "56v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/123.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/123.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12265,
+    "linear_page_number": 124,
+    "man": "cordova-arte",
+    "page_id": "57r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/124.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/124.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12266,
+    "linear_page_number": 125,
+    "man": "cordova-arte",
+    "page_id": "57v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/125.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/125.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12267,
+    "linear_page_number": 126,
+    "man": "cordova-arte",
+    "page_id": "58r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/126.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/126.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12268,
+    "linear_page_number": 127,
+    "man": "cordova-arte",
+    "page_id": "58v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/127.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/127.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12269,
+    "linear_page_number": 128,
+    "man": "cordova-arte",
+    "page_id": "59r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/128.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/128.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12270,
+    "linear_page_number": 129,
+    "man": "cordova-arte",
+    "page_id": "59v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/129.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/129.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12271,
+    "linear_page_number": 130,
+    "man": "cordova-arte",
+    "page_id": "60r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/130.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/130.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12272,
+    "linear_page_number": 131,
+    "man": "cordova-arte",
+    "page_id": "60v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/131.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/131.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12273,
+    "linear_page_number": 132,
+    "man": "cordova-arte",
+    "page_id": "61r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/132.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/132.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12274,
+    "linear_page_number": 133,
+    "man": "cordova-arte",
+    "page_id": "61v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/133.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/133.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12275,
+    "linear_page_number": 134,
+    "man": "cordova-arte",
+    "page_id": "62r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/134.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/134.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12276,
+    "linear_page_number": 135,
+    "man": "cordova-arte",
+    "page_id": "62v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/135.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/135.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12277,
+    "linear_page_number": 136,
+    "man": "cordova-arte",
+    "page_id": "63r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/136.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/136.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12278,
+    "linear_page_number": 137,
+    "man": "cordova-arte",
+    "page_id": "63v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/137.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/137.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12279,
+    "linear_page_number": 138,
+    "man": "cordova-arte",
+    "page_id": "64r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/138.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/138.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12280,
+    "linear_page_number": 139,
+    "man": "cordova-arte",
+    "page_id": "64v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/139.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/139.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12281,
+    "linear_page_number": 140,
+    "man": "cordova-arte",
+    "page_id": "65r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/140.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/140.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12282,
+    "linear_page_number": 141,
+    "man": "cordova-arte",
+    "page_id": "65v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/141.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/141.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12283,
+    "linear_page_number": 142,
+    "man": "cordova-arte",
+    "page_id": "66r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/142.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/142.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12284,
+    "linear_page_number": 143,
+    "man": "cordova-arte",
+    "page_id": "66v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/143.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/143.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12285,
+    "linear_page_number": 144,
+    "man": "cordova-arte",
+    "page_id": "67r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/144.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/144.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12286,
+    "linear_page_number": 145,
+    "man": "cordova-arte",
+    "page_id": "67v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/145.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/145.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12287,
+    "linear_page_number": 146,
+    "man": "cordova-arte",
+    "page_id": "68r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/146.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/146.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12288,
+    "linear_page_number": 147,
+    "man": "cordova-arte",
+    "page_id": "68v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/147.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/147.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12289,
+    "linear_page_number": 148,
+    "man": "cordova-arte",
+    "page_id": "69r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/148.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/148.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12290,
+    "linear_page_number": 149,
+    "man": "cordova-arte",
+    "page_id": "69v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/149.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/149.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12291,
+    "linear_page_number": 150,
+    "man": "cordova-arte",
+    "page_id": "70r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/150.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/150.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12292,
+    "linear_page_number": 151,
+    "man": "cordova-arte",
+    "page_id": "70v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/151.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/151.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12293,
+    "linear_page_number": 152,
+    "man": "cordova-arte",
+    "page_id": "71r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/152.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/152.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12294,
+    "linear_page_number": 153,
+    "man": "cordova-arte",
+    "page_id": "71v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/153.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/153.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12295,
+    "linear_page_number": 154,
+    "man": "cordova-arte",
+    "page_id": "72r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/154.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/154.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12296,
+    "linear_page_number": 155,
+    "man": "cordova-arte",
+    "page_id": "72v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/155.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/155.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12297,
+    "linear_page_number": 156,
+    "man": "cordova-arte",
+    "page_id": "73r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/156.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/156.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12298,
+    "linear_page_number": 157,
+    "man": "cordova-arte",
+    "page_id": "73v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/157.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/157.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12299,
+    "linear_page_number": 158,
+    "man": "cordova-arte",
+    "page_id": "74r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/158.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/158.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12300,
+    "linear_page_number": 159,
+    "man": "cordova-arte",
+    "page_id": "74v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/159.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/159.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12301,
+    "linear_page_number": 160,
+    "man": "cordova-arte",
+    "page_id": "75r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/160.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/160.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12302,
+    "linear_page_number": 161,
+    "man": "cordova-arte",
+    "page_id": "75v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/161.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/161.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12303,
+    "linear_page_number": 162,
+    "man": "cordova-arte",
+    "page_id": "76r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/162.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/162.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12304,
+    "linear_page_number": 163,
+    "man": "cordova-arte",
+    "page_id": "76v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/163.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/163.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12305,
+    "linear_page_number": 164,
+    "man": "cordova-arte",
+    "page_id": "77r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/164.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/164.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12306,
+    "linear_page_number": 165,
+    "man": "cordova-arte",
+    "page_id": "77v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/165.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/165.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12307,
+    "linear_page_number": 166,
+    "man": "cordova-arte",
+    "page_id": "78r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/166.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/166.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12308,
+    "linear_page_number": 167,
+    "man": "cordova-arte",
+    "page_id": "78v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/167.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/167.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12309,
+    "linear_page_number": 168,
+    "man": "cordova-arte",
+    "page_id": "79r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/168.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/168.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12310,
+    "linear_page_number": 169,
+    "man": "cordova-arte",
+    "page_id": "79v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/169.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/169.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12311,
+    "linear_page_number": 170,
+    "man": "cordova-arte",
+    "page_id": "80r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/170.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/170.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12312,
+    "linear_page_number": 171,
+    "man": "cordova-arte",
+    "page_id": "80v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/171.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/171.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12313,
+    "linear_page_number": 172,
+    "man": "cordova-arte",
+    "page_id": "81r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/172.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/172.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12314,
+    "linear_page_number": 173,
+    "man": "cordova-arte",
+    "page_id": "81v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/173.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/173.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12315,
+    "linear_page_number": 174,
+    "man": "cordova-arte",
+    "page_id": "82r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/174.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/174.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12316,
+    "linear_page_number": 175,
+    "man": "cordova-arte",
+    "page_id": "82v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/175.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/175.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12317,
+    "linear_page_number": 176,
+    "man": "cordova-arte",
+    "page_id": "83r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/176.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/176.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12318,
+    "linear_page_number": 177,
+    "man": "cordova-arte",
+    "page_id": "83v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/177.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/177.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12319,
+    "linear_page_number": 178,
+    "man": "cordova-arte",
+    "page_id": "84r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/178.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/178.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12320,
+    "linear_page_number": 179,
+    "man": "cordova-arte",
+    "page_id": "84v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/179.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/179.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12321,
+    "linear_page_number": 180,
+    "man": "cordova-arte",
+    "page_id": "85r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/180.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/180.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12322,
+    "linear_page_number": 181,
+    "man": "cordova-arte",
+    "page_id": "85v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/181.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/181.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12323,
+    "linear_page_number": 182,
+    "man": "cordova-arte",
+    "page_id": "86r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/182.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/182.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12324,
+    "linear_page_number": 183,
+    "man": "cordova-arte",
+    "page_id": "86v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/183.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/183.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12325,
+    "linear_page_number": 184,
+    "man": "cordova-arte",
+    "page_id": "87r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/184.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/184.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12326,
+    "linear_page_number": 185,
+    "man": "cordova-arte",
+    "page_id": "87v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/185.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/185.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12327,
+    "linear_page_number": 186,
+    "man": "cordova-arte",
+    "page_id": "88r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/186.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/186.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12328,
+    "linear_page_number": 187,
+    "man": "cordova-arte",
+    "page_id": "88v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/187.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/187.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12329,
+    "linear_page_number": 188,
+    "man": "cordova-arte",
+    "page_id": "89r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/188.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/188.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12330,
+    "linear_page_number": 189,
+    "man": "cordova-arte",
+    "page_id": "89v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/189.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/189.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12331,
+    "linear_page_number": 190,
+    "man": "cordova-arte",
+    "page_id": "90r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/190.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/190.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12332,
+    "linear_page_number": 191,
+    "man": "cordova-arte",
+    "page_id": "90v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/191.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/191.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12333,
+    "linear_page_number": 192,
+    "man": "cordova-arte",
+    "page_id": "91r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/192.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/192.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12334,
+    "linear_page_number": 193,
+    "man": "cordova-arte",
+    "page_id": "91v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/193.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/193.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12335,
+    "linear_page_number": 194,
+    "man": "cordova-arte",
+    "page_id": "92r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/194.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/194.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12336,
+    "linear_page_number": 195,
+    "man": "cordova-arte",
+    "page_id": "92v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/195.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/195.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12337,
+    "linear_page_number": 196,
+    "man": "cordova-arte",
+    "page_id": "93r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/196.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/196.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12338,
+    "linear_page_number": 197,
+    "man": "cordova-arte",
+    "page_id": "93v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/197.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/197.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12339,
+    "linear_page_number": 198,
+    "man": "cordova-arte",
+    "page_id": "94r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/198.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/198.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12340,
+    "linear_page_number": 199,
+    "man": "cordova-arte",
+    "page_id": "94v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/199.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/199.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12341,
+    "linear_page_number": 200,
+    "man": "cordova-arte",
+    "page_id": "94r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/200.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/200.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12342,
+    "linear_page_number": 201,
+    "man": "cordova-arte",
+    "page_id": "94v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/201.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/201.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12343,
+    "linear_page_number": 202,
+    "man": "cordova-arte",
+    "page_id": "99r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/202.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/202.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12344,
+    "linear_page_number": 203,
+    "man": "cordova-arte",
+    "page_id": "99v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/203.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/203.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12345,
+    "linear_page_number": 204,
+    "man": "cordova-arte",
+    "page_id": "99r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/204.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/204.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12346,
+    "linear_page_number": 205,
+    "man": "cordova-arte",
+    "page_id": "99v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/205.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/205.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12347,
+    "linear_page_number": 206,
+    "man": "cordova-arte",
+    "page_id": "98r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/206.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/206.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12348,
+    "linear_page_number": 207,
+    "man": "cordova-arte",
+    "page_id": "98v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/207.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/207.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12349,
+    "linear_page_number": 208,
+    "man": "cordova-arte",
+    "page_id": "99r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/208.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/208.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12350,
+    "linear_page_number": 209,
+    "man": "cordova-arte",
+    "page_id": "99v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/209.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/209.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12351,
+    "linear_page_number": 210,
+    "man": "cordova-arte",
+    "page_id": "100r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/210.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/210.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12352,
+    "linear_page_number": 211,
+    "man": "cordova-arte",
+    "page_id": "100v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/211.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/211.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12353,
+    "linear_page_number": 212,
+    "man": "cordova-arte",
+    "page_id": "101r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/212.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/212.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12354,
+    "linear_page_number": 213,
+    "man": "cordova-arte",
+    "page_id": "101v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/213.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/213.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12355,
+    "linear_page_number": 214,
+    "man": "cordova-arte",
+    "page_id": "102r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/214.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/214.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12356,
+    "linear_page_number": 215,
+    "man": "cordova-arte",
+    "page_id": "102v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/215.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/215.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12357,
+    "linear_page_number": 216,
+    "man": "cordova-arte",
+    "page_id": "103r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/216.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/216.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12358,
+    "linear_page_number": 217,
+    "man": "cordova-arte",
+    "page_id": "103v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/217.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/217.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12359,
+    "linear_page_number": 218,
+    "man": "cordova-arte",
+    "page_id": "104r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/218.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/218.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12360,
+    "linear_page_number": 219,
+    "man": "cordova-arte",
+    "page_id": "104v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/219.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/219.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12361,
+    "linear_page_number": 220,
+    "man": "cordova-arte",
+    "page_id": "105r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/220.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/220.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12362,
+    "linear_page_number": 221,
+    "man": "cordova-arte",
+    "page_id": "105v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/221.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/221.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12363,
+    "linear_page_number": 222,
+    "man": "cordova-arte",
+    "page_id": "106r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/222.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/222.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12364,
+    "linear_page_number": 223,
+    "man": "cordova-arte",
+    "page_id": "106v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/223.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/223.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12365,
+    "linear_page_number": 224,
+    "man": "cordova-arte",
+    "page_id": "107r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/224.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/224.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12366,
+    "linear_page_number": 225,
+    "man": "cordova-arte",
+    "page_id": "107v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/225.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/225.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12367,
+    "linear_page_number": 226,
+    "man": "cordova-arte",
+    "page_id": "108r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/226.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/226.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12368,
+    "linear_page_number": 227,
+    "man": "cordova-arte",
+    "page_id": "108v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/227.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/227.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12369,
+    "linear_page_number": 228,
+    "man": "cordova-arte",
+    "page_id": "109r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/228.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/228.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12370,
+    "linear_page_number": 229,
+    "man": "cordova-arte",
+    "page_id": "109v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/229.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/229.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12371,
+    "linear_page_number": 230,
+    "man": "cordova-arte",
+    "page_id": "110r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/230.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/230.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12372,
+    "linear_page_number": 231,
+    "man": "cordova-arte",
+    "page_id": "110v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/231.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/231.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12373,
+    "linear_page_number": 232,
+    "man": "cordova-arte",
+    "page_id": "111r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/232.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/232.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12374,
+    "linear_page_number": 233,
+    "man": "cordova-arte",
+    "page_id": "111v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/233.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/233.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12375,
+    "linear_page_number": 234,
+    "man": "cordova-arte",
+    "page_id": "112r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/234.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/234.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12376,
+    "linear_page_number": 235,
+    "man": "cordova-arte",
+    "page_id": "112v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/235.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/235.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12377,
+    "linear_page_number": 236,
+    "man": "cordova-arte",
+    "page_id": "113r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/236.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/236.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12378,
+    "linear_page_number": 237,
+    "man": "cordova-arte",
+    "page_id": "113v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/237.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/237.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12379,
+    "linear_page_number": 238,
+    "man": "cordova-arte",
+    "page_id": "114r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/238.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/238.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12380,
+    "linear_page_number": 239,
+    "man": "cordova-arte",
+    "page_id": "114v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/239.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/239.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12381,
+    "linear_page_number": 240,
+    "man": "cordova-arte",
+    "page_id": "115r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/240.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/240.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12382,
+    "linear_page_number": 241,
+    "man": "cordova-arte",
+    "page_id": "115v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/241.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/241.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12383,
+    "linear_page_number": 242,
+    "man": "cordova-arte",
+    "page_id": "116r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/242.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/242.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12384,
+    "linear_page_number": 243,
+    "man": "cordova-arte",
+    "page_id": "116v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/243.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/243.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12385,
+    "linear_page_number": 244,
+    "man": "cordova-arte",
+    "page_id": "117r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/244.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/244.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12386,
+    "linear_page_number": 245,
+    "man": "cordova-arte",
+    "page_id": "117v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/245.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/245.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12387,
+    "linear_page_number": 246,
+    "man": "cordova-arte",
+    "page_id": "118r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/246.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/246.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12388,
+    "linear_page_number": 247,
+    "man": "cordova-arte",
+    "page_id": "118v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/247.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/247.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12389,
+    "linear_page_number": 248,
+    "man": "cordova-arte",
+    "page_id": "119r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/248.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/248.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12390,
+    "linear_page_number": 249,
+    "man": "cordova-arte",
+    "page_id": "119v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/249.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/249.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12391,
+    "linear_page_number": 250,
+    "man": "cordova-arte",
+    "page_id": "120r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/250.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/250.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12392,
+    "linear_page_number": 251,
+    "man": "cordova-arte",
+    "page_id": "120v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/251.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/251.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12393,
+    "linear_page_number": 252,
+    "man": "cordova-arte",
+    "page_id": "121r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/252.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/252.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12394,
+    "linear_page_number": 253,
+    "man": "cordova-arte",
+    "page_id": "121v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/253.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/253.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12395,
+    "linear_page_number": 254,
+    "man": "cordova-arte",
+    "page_id": "122r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/254.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/254.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12396,
+    "linear_page_number": 255,
+    "man": "cordova-arte",
+    "page_id": "122v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/255.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/255.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12397,
+    "linear_page_number": 256,
+    "man": "cordova-arte",
+    "page_id": "123r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/256.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/256.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12398,
+    "linear_page_number": 257,
+    "man": "cordova-arte",
+    "page_id": "123v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/257.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/257.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12399,
+    "linear_page_number": 258,
+    "man": "cordova-arte",
+    "page_id": "124r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/258.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/258.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12400,
+    "linear_page_number": 259,
+    "man": "cordova-arte",
+    "page_id": "124v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/259.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/259.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12401,
+    "linear_page_number": 260,
+    "man": "cordova-arte",
+    "page_id": "125r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/260.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/260.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12402,
+    "linear_page_number": 261,
+    "man": "cordova-arte",
+    "page_id": "125v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/261.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/261.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12403,
+    "linear_page_number": 262,
+    "man": "cordova-arte",
+    "page_id": "126r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/262.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/262.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12404,
+    "linear_page_number": 263,
+    "man": "cordova-arte",
+    "page_id": "126v",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/263.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/263.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12405,
+    "linear_page_number": 264,
+    "man": "cordova-arte",
+    "page_id": "127r",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/cordova_arte/264.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/cordova_arte/264.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12574,
+    "linear_page_number": 0,
+    "man": "levanto-catechismo",
+    "page_id": "0",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_catechismo/0.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_catechismo/0.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12575,
+    "linear_page_number": 1,
+    "man": "levanto-catechismo",
+    "page_id": "1",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_catechismo/1.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_catechismo/1.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12576,
+    "linear_page_number": 2,
+    "man": "levanto-catechismo",
+    "page_id": "2",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_catechismo/2.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_catechismo/2.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12577,
+    "linear_page_number": 3,
+    "man": "levanto-catechismo",
+    "page_id": "3",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_catechismo/3.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_catechismo/3.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12578,
+    "linear_page_number": 4,
+    "man": "levanto-catechismo",
+    "page_id": "4",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_catechismo/4.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_catechismo/4.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12579,
+    "linear_page_number": 5,
+    "man": "levanto-catechismo",
+    "page_id": "5",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_catechismo/5.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_catechismo/5.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12580,
+    "linear_page_number": 6,
+    "man": "levanto-catechismo",
+    "page_id": "6",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_catechismo/6.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_catechismo/6.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12581,
+    "linear_page_number": 7,
+    "man": "levanto-catechismo",
+    "page_id": "7",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_catechismo/7.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_catechismo/7.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12582,
+    "linear_page_number": 8,
+    "man": "levanto-catechismo",
+    "page_id": "8",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_catechismo/8.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_catechismo/8.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12583,
+    "linear_page_number": 9,
+    "man": "levanto-catechismo",
+    "page_id": "9",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_catechismo/9.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_catechismo/9.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12584,
+    "linear_page_number": 10,
+    "man": "levanto-catechismo",
+    "page_id": "10",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_catechismo/10.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_catechismo/10.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12585,
+    "linear_page_number": 11,
+    "man": "levanto-catechismo",
+    "page_id": "11",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_catechismo/11.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_catechismo/11.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12586,
+    "linear_page_number": 12,
+    "man": "levanto-catechismo",
+    "page_id": "12",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_catechismo/12.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_catechismo/12.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12587,
+    "linear_page_number": 13,
+    "man": "levanto-catechismo",
+    "page_id": "13",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_catechismo/13.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_catechismo/13.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12588,
+    "linear_page_number": 14,
+    "man": "levanto-catechismo",
+    "page_id": "14",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_catechismo/14.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_catechismo/14.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12589,
+    "linear_page_number": 15,
+    "man": "levanto-catechismo",
+    "page_id": "15",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_catechismo/15.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_catechismo/15.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12590,
+    "linear_page_number": 16,
+    "man": "levanto-catechismo",
+    "page_id": "16",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_catechismo/16.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_catechismo/16.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12591,
+    "linear_page_number": 17,
+    "man": "levanto-catechismo",
+    "page_id": "17",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_catechismo/17.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_catechismo/17.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12592,
+    "linear_page_number": 18,
+    "man": "levanto-catechismo",
+    "page_id": "18",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_catechismo/18.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_catechismo/18.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12593,
+    "linear_page_number": 19,
+    "man": "levanto-catechismo",
+    "page_id": "19",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_catechismo/19.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_catechismo/19.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12594,
+    "linear_page_number": 20,
+    "man": "levanto-catechismo",
+    "page_id": "20",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_catechismo/20.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_catechismo/20.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12595,
+    "linear_page_number": 21,
+    "man": "levanto-catechismo",
+    "page_id": "21",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_catechismo/21.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_catechismo/21.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12596,
+    "linear_page_number": 22,
+    "man": "levanto-catechismo",
+    "page_id": "22",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_catechismo/22.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_catechismo/22.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12597,
+    "linear_page_number": 23,
+    "man": "levanto-catechismo",
+    "page_id": "23",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_catechismo/23.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_catechismo/23.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12598,
+    "linear_page_number": 24,
+    "man": "levanto-catechismo",
+    "page_id": "24",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_catechismo/24.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_catechismo/24.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12599,
+    "linear_page_number": 25,
+    "man": "levanto-catechismo",
+    "page_id": "25",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_catechismo/25.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_catechismo/25.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12600,
+    "linear_page_number": 26,
+    "man": "levanto-catechismo",
+    "page_id": "26",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_catechismo/26.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_catechismo/26.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12601,
+    "linear_page_number": 27,
+    "man": "levanto-catechismo",
+    "page_id": "27",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_catechismo/27.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_catechismo/27.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12602,
+    "linear_page_number": 28,
+    "man": "levanto-catechismo",
+    "page_id": "28",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_catechismo/28.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_catechismo/28.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12603,
+    "linear_page_number": 29,
+    "man": "levanto-catechismo",
+    "page_id": "29",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_catechismo/29.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_catechismo/29.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12604,
+    "linear_page_number": 30,
+    "man": "levanto-catechismo",
+    "page_id": "30",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_catechismo/30.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_catechismo/30.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12605,
+    "linear_page_number": 31,
+    "man": "levanto-catechismo",
+    "page_id": "31",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_catechismo/31.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_catechismo/31.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12606,
+    "linear_page_number": 32,
+    "man": "levanto-catechismo",
+    "page_id": "32",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_catechismo/32.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_catechismo/32.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12607,
+    "linear_page_number": 33,
+    "man": "levanto-catechismo",
+    "page_id": "33",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_catechismo/33.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_catechismo/33.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12608,
+    "linear_page_number": 34,
+    "man": "levanto-catechismo",
+    "page_id": "34",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_catechismo/34.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_catechismo/34.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12609,
+    "linear_page_number": 35,
+    "man": "levanto-catechismo",
+    "page_id": "35",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_catechismo/35.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_catechismo/35.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12610,
+    "linear_page_number": 36,
+    "man": "levanto-catechismo",
+    "page_id": "36",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_catechismo/36.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_catechismo/36.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12611,
+    "linear_page_number": 37,
+    "man": "levanto-catechismo",
+    "page_id": "37",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_catechismo/37.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_catechismo/37.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12612,
+    "linear_page_number": 38,
+    "man": "levanto-catechismo",
+    "page_id": "38",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_catechismo/38.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_catechismo/38.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12613,
+    "linear_page_number": 39,
+    "man": "levanto-catechismo",
+    "page_id": "39",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_catechismo/39.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_catechismo/39.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12614,
+    "linear_page_number": 40,
+    "man": "levanto-catechismo",
+    "page_id": "40",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_catechismo/40.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_catechismo/40.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12615,
+    "linear_page_number": 41,
+    "man": "levanto-catechismo",
+    "page_id": "41",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_catechismo/41.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_catechismo/41.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12616,
+    "linear_page_number": 42,
+    "man": "levanto-catechismo",
+    "page_id": "42",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_catechismo/42.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_catechismo/42.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12617,
+    "linear_page_number": 43,
+    "man": "levanto-catechismo",
+    "page_id": "43",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_catechismo/43.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_catechismo/43.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12618,
+    "linear_page_number": 44,
+    "man": "levanto-catechismo",
+    "page_id": "44",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_catechismo/44.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_catechismo/44.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12619,
+    "linear_page_number": 45,
+    "man": "levanto-catechismo",
+    "page_id": "45",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_catechismo/45.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_catechismo/45.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12620,
+    "linear_page_number": 46,
+    "man": "levanto-catechismo",
+    "page_id": "46",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_catechismo/46.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_catechismo/46.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12621,
+    "linear_page_number": 47,
+    "man": "levanto-catechismo",
+    "page_id": "47",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_catechismo/47.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_catechismo/47.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12622,
+    "linear_page_number": 48,
+    "man": "levanto-catechismo",
+    "page_id": "48",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_catechismo/48.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_catechismo/48.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12623,
+    "linear_page_number": 49,
+    "man": "levanto-catechismo",
+    "page_id": "49",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_catechismo/49.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_catechismo/49.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12624,
+    "linear_page_number": 50,
+    "man": "levanto-catechismo",
+    "page_id": "50",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_catechismo/50.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_catechismo/50.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12625,
+    "linear_page_number": 51,
+    "man": "levanto-catechismo",
+    "page_id": "51",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_catechismo/51.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_catechismo/51.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12626,
+    "linear_page_number": 52,
+    "man": "levanto-catechismo",
+    "page_id": "52",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_catechismo/52.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_catechismo/52.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12627,
+    "linear_page_number": 53,
+    "man": "levanto-catechismo",
+    "page_id": "53",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_catechismo/53.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_catechismo/53.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12628,
+    "linear_page_number": 54,
+    "man": "levanto-catechismo",
+    "page_id": "54",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_catechismo/54.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_catechismo/54.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12629,
+    "linear_page_number": 55,
+    "man": "levanto-catechismo",
+    "page_id": "55",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_catechismo/55.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_catechismo/55.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12630,
+    "linear_page_number": 56,
+    "man": "levanto-catechismo",
+    "page_id": "56",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_catechismo/56.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_catechismo/56.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12631,
+    "linear_page_number": 57,
+    "man": "levanto-catechismo",
+    "page_id": "57",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_catechismo/57.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_catechismo/57.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12632,
+    "linear_page_number": 58,
+    "man": "levanto-catechismo",
+    "page_id": "58",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_catechismo/58.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_catechismo/58.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12633,
+    "linear_page_number": 59,
+    "man": "levanto-catechismo",
+    "page_id": "59",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_catechismo/59.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_catechismo/59.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12634,
+    "linear_page_number": 0,
+    "man": "levanto-arte",
+    "page_id": "0",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/0.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/0.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12635,
+    "linear_page_number": 1,
+    "man": "levanto-arte",
+    "page_id": "cover",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/1.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/1.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12636,
+    "linear_page_number": 2,
+    "man": "levanto-arte",
+    "page_id": "1",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/2.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/2.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12637,
+    "linear_page_number": 3,
+    "man": "levanto-arte",
+    "page_id": "2",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/3.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/3.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12638,
+    "linear_page_number": 4,
+    "man": "levanto-arte",
+    "page_id": "3",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/4.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/4.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12639,
+    "linear_page_number": 5,
+    "man": "levanto-arte",
+    "page_id": "4",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/5.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/5.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12640,
+    "linear_page_number": 6,
+    "man": "levanto-arte",
+    "page_id": "5",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/6.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/6.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12641,
+    "linear_page_number": 7,
+    "man": "levanto-arte",
+    "page_id": "6",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/7.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/7.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12642,
+    "linear_page_number": 8,
+    "man": "levanto-arte",
+    "page_id": "7",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/8.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/8.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12643,
+    "linear_page_number": 9,
+    "man": "levanto-arte",
+    "page_id": "8",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/9.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/9.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12644,
+    "linear_page_number": 10,
+    "man": "levanto-arte",
+    "page_id": "9",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/10.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/10.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12645,
+    "linear_page_number": 11,
+    "man": "levanto-arte",
+    "page_id": "10",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/11.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/11.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12646,
+    "linear_page_number": 12,
+    "man": "levanto-arte",
+    "page_id": "11",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/12.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/12.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12647,
+    "linear_page_number": 13,
+    "man": "levanto-arte",
+    "page_id": "12",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/13.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/13.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12648,
+    "linear_page_number": 14,
+    "man": "levanto-arte",
+    "page_id": "13",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/14.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/14.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12649,
+    "linear_page_number": 15,
+    "man": "levanto-arte",
+    "page_id": "14",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/15.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/15.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12650,
+    "linear_page_number": 16,
+    "man": "levanto-arte",
+    "page_id": "15",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/16.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/16.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12651,
+    "linear_page_number": 17,
+    "man": "levanto-arte",
+    "page_id": "16",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/17.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/17.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12652,
+    "linear_page_number": 18,
+    "man": "levanto-arte",
+    "page_id": "17",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/18.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/18.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12653,
+    "linear_page_number": 19,
+    "man": "levanto-arte",
+    "page_id": "18",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/19.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/19.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12654,
+    "linear_page_number": 20,
+    "man": "levanto-arte",
+    "page_id": "19",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/20.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/20.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12655,
+    "linear_page_number": 21,
+    "man": "levanto-arte",
+    "page_id": "20",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/21.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/21.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12656,
+    "linear_page_number": 22,
+    "man": "levanto-arte",
+    "page_id": "21",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/22.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/22.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12657,
+    "linear_page_number": 23,
+    "man": "levanto-arte",
+    "page_id": "22",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/23.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/23.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12658,
+    "linear_page_number": 24,
+    "man": "levanto-arte",
+    "page_id": "23",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/24.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/24.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12659,
+    "linear_page_number": 25,
+    "man": "levanto-arte",
+    "page_id": "24",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/25.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/25.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12660,
+    "linear_page_number": 26,
+    "man": "levanto-arte",
+    "page_id": "25",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/26.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/26.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12661,
+    "linear_page_number": 27,
+    "man": "levanto-arte",
+    "page_id": "26",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/27.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/27.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12662,
+    "linear_page_number": 28,
+    "man": "levanto-arte",
+    "page_id": "27",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/28.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/28.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12663,
+    "linear_page_number": 29,
+    "man": "levanto-arte",
+    "page_id": "28",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/29.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/29.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12664,
+    "linear_page_number": 30,
+    "man": "levanto-arte",
+    "page_id": "29",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/30.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/30.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12665,
+    "linear_page_number": 31,
+    "man": "levanto-arte",
+    "page_id": "30",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/31.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/31.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12666,
+    "linear_page_number": 32,
+    "man": "levanto-arte",
+    "page_id": "31",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/32.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/32.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12667,
+    "linear_page_number": 33,
+    "man": "levanto-arte",
+    "page_id": "32",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/33.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/33.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12668,
+    "linear_page_number": 34,
+    "man": "levanto-arte",
+    "page_id": "33",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/34.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/34.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12669,
+    "linear_page_number": 35,
+    "man": "levanto-arte",
+    "page_id": "34",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/35.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/35.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12670,
+    "linear_page_number": 36,
+    "man": "levanto-arte",
+    "page_id": "35",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/36.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/36.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12671,
+    "linear_page_number": 37,
+    "man": "levanto-arte",
+    "page_id": "36",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/37.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/37.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12672,
+    "linear_page_number": 38,
+    "man": "levanto-arte",
+    "page_id": "37",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/38.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/38.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12673,
+    "linear_page_number": 39,
+    "man": "levanto-arte",
+    "page_id": "38",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/39.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/39.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12674,
+    "linear_page_number": 40,
+    "man": "levanto-arte",
+    "page_id": "39",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/40.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/40.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12675,
+    "linear_page_number": 41,
+    "man": "levanto-arte",
+    "page_id": "40",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/41.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/41.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12676,
+    "linear_page_number": 42,
+    "man": "levanto-arte",
+    "page_id": "41",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/42.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/42.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12677,
+    "linear_page_number": 43,
+    "man": "levanto-arte",
+    "page_id": "42",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/43.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/43.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12678,
+    "linear_page_number": 44,
+    "man": "levanto-arte",
+    "page_id": "43",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/44.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/44.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12679,
+    "linear_page_number": 45,
+    "man": "levanto-arte",
+    "page_id": "44",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/45.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/45.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12680,
+    "linear_page_number": 46,
+    "man": "levanto-arte",
+    "page_id": "45",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/46.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/46.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12681,
+    "linear_page_number": 47,
+    "man": "levanto-arte",
+    "page_id": "46",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/47.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/47.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12682,
+    "linear_page_number": 48,
+    "man": "levanto-arte",
+    "page_id": "47",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/48.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/48.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12683,
+    "linear_page_number": 49,
+    "man": "levanto-arte",
+    "page_id": "48",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/49.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/49.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12684,
+    "linear_page_number": 50,
+    "man": "levanto-arte",
+    "page_id": "49",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/50.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/50.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12685,
+    "linear_page_number": 51,
+    "man": "levanto-arte",
+    "page_id": "50",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/51.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/51.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12686,
+    "linear_page_number": 52,
+    "man": "levanto-arte",
+    "page_id": "51",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/52.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/52.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12687,
+    "linear_page_number": 53,
+    "man": "levanto-arte",
+    "page_id": "52",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/53.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/53.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12688,
+    "linear_page_number": 54,
+    "man": "levanto-arte",
+    "page_id": "53",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/54.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/54.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12689,
+    "linear_page_number": 55,
+    "man": "levanto-arte",
+    "page_id": "54",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/55.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/55.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12690,
+    "linear_page_number": 56,
+    "man": "levanto-arte",
+    "page_id": "55",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/56.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/56.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12691,
+    "linear_page_number": 57,
+    "man": "levanto-arte",
+    "page_id": "56",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/57.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/57.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12692,
+    "linear_page_number": 58,
+    "man": "levanto-arte",
+    "page_id": "57",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/58.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/58.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12693,
+    "linear_page_number": 59,
+    "man": "levanto-arte",
+    "page_id": "58",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/59.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/59.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12694,
+    "linear_page_number": 60,
+    "man": "levanto-arte",
+    "page_id": "59",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/60.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/60.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12695,
+    "linear_page_number": 61,
+    "man": "levanto-arte",
+    "page_id": "60",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/61.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/61.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12696,
+    "linear_page_number": 62,
+    "man": "levanto-arte",
+    "page_id": "61",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/62.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/62.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12697,
+    "linear_page_number": 63,
+    "man": "levanto-arte",
+    "page_id": "62",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/63.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/63.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12698,
+    "linear_page_number": 64,
+    "man": "levanto-arte",
+    "page_id": "63",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/64.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/64.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12699,
+    "linear_page_number": 65,
+    "man": "levanto-arte",
+    "page_id": "64",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/65.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/65.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12700,
+    "linear_page_number": 66,
+    "man": "levanto-arte",
+    "page_id": "65",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/66.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/66.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12701,
+    "linear_page_number": 67,
+    "man": "levanto-arte",
+    "page_id": "66",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/67.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/67.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12702,
+    "linear_page_number": 68,
+    "man": "levanto-arte",
+    "page_id": "67",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/68.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/68.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12703,
+    "linear_page_number": 69,
+    "man": "levanto-arte",
+    "page_id": "68",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/69.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/69.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12704,
+    "linear_page_number": 70,
+    "man": "levanto-arte",
+    "page_id": "69",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/70.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/70.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12705,
+    "linear_page_number": 71,
+    "man": "levanto-arte",
+    "page_id": "70",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/71.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/71.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12706,
+    "linear_page_number": 72,
+    "man": "levanto-arte",
+    "page_id": "71",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/72.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/72.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12707,
+    "linear_page_number": 73,
+    "man": "levanto-arte",
+    "page_id": "72",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/73.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/73.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12708,
+    "linear_page_number": 74,
+    "man": "levanto-arte",
+    "page_id": "73",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/74.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/74.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12709,
+    "linear_page_number": 75,
+    "man": "levanto-arte",
+    "page_id": "74",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/75.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/75.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12710,
+    "linear_page_number": 76,
+    "man": "levanto-arte",
+    "page_id": "75",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/76.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/76.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12711,
+    "linear_page_number": 77,
+    "man": "levanto-arte",
+    "page_id": "76",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/77.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/77.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12712,
+    "linear_page_number": 78,
+    "man": "levanto-arte",
+    "page_id": "77",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/78.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/78.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12713,
+    "linear_page_number": 79,
+    "man": "levanto-arte",
+    "page_id": "78",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/79.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/79.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12714,
+    "linear_page_number": 80,
+    "man": "levanto-arte",
+    "page_id": "79",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/80.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/80.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12715,
+    "linear_page_number": 81,
+    "man": "levanto-arte",
+    "page_id": "80",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/81.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/81.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12716,
+    "linear_page_number": 82,
+    "man": "levanto-arte",
+    "page_id": "81",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/82.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/82.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12717,
+    "linear_page_number": 83,
+    "man": "levanto-arte",
+    "page_id": "82",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/83.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/83.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12718,
+    "linear_page_number": 84,
+    "man": "levanto-arte",
+    "page_id": "83",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/84.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/84.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12719,
+    "linear_page_number": 85,
+    "man": "levanto-arte",
+    "page_id": "84",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/85.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/85.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12720,
+    "linear_page_number": 86,
+    "man": "levanto-arte",
+    "page_id": "85",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/86.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/86.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12721,
+    "linear_page_number": 87,
+    "man": "levanto-arte",
+    "page_id": "86",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/87.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/87.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12722,
+    "linear_page_number": 88,
+    "man": "levanto-arte",
+    "page_id": "87",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/88.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/88.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12723,
+    "linear_page_number": 89,
+    "man": "levanto-arte",
+    "page_id": "88",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/89.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/89.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12724,
+    "linear_page_number": 90,
+    "man": "levanto-arte",
+    "page_id": "89",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/90.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/90.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12725,
+    "linear_page_number": 91,
+    "man": "levanto-arte",
+    "page_id": "90",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/91.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/91.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12726,
+    "linear_page_number": 92,
+    "man": "levanto-arte",
+    "page_id": "91",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/92.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/92.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12727,
+    "linear_page_number": 93,
+    "man": "levanto-arte",
+    "page_id": "92",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/93.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/93.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12728,
+    "linear_page_number": 94,
+    "man": "levanto-arte",
+    "page_id": "93",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/94.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/94.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12729,
+    "linear_page_number": 95,
+    "man": "levanto-arte",
+    "page_id": "94",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/95.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/95.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12730,
+    "linear_page_number": 96,
+    "man": "levanto-arte",
+    "page_id": "95",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/96.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/96.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12731,
+    "linear_page_number": 97,
+    "man": "levanto-arte",
+    "page_id": "96",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/97.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/97.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12732,
+    "linear_page_number": 98,
+    "man": "levanto-arte",
+    "page_id": "97",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/98.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/98.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12733,
+    "linear_page_number": 99,
+    "man": "levanto-arte",
+    "page_id": "98",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/99.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/99.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12734,
+    "linear_page_number": 100,
+    "man": "levanto-arte",
+    "page_id": "99",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/100.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/100.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12735,
+    "linear_page_number": 101,
+    "man": "levanto-arte",
+    "page_id": "100",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/101.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/101.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12736,
+    "linear_page_number": 102,
+    "man": "levanto-arte",
+    "page_id": "101",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/102.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/102.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12737,
+    "linear_page_number": 103,
+    "man": "levanto-arte",
+    "page_id": "102",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/103.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/103.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12738,
+    "linear_page_number": 104,
+    "man": "levanto-arte",
+    "page_id": "103",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/104.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/104.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12739,
+    "linear_page_number": 105,
+    "man": "levanto-arte",
+    "page_id": "104",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/105.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/105.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12740,
+    "linear_page_number": 106,
+    "man": "levanto-arte",
+    "page_id": "105",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/106.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/106.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12741,
+    "linear_page_number": 107,
+    "man": "levanto-arte",
+    "page_id": "106",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/107.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/107.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12742,
+    "linear_page_number": 108,
+    "man": "levanto-arte",
+    "page_id": "107",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/108.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/108.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12743,
+    "linear_page_number": 109,
+    "man": "levanto-arte",
+    "page_id": "108",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/109.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/109.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12744,
+    "linear_page_number": 110,
+    "man": "levanto-arte",
+    "page_id": "109",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/110.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/110.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12745,
+    "linear_page_number": 111,
+    "man": "levanto-arte",
+    "page_id": "110",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/111.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/111.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12746,
+    "linear_page_number": 112,
+    "man": "levanto-arte",
+    "page_id": "111",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/112.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/112.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12747,
+    "linear_page_number": 113,
+    "man": "levanto-arte",
+    "page_id": "112",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/113.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/113.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12748,
+    "linear_page_number": 114,
+    "man": "levanto-arte",
+    "page_id": "113",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/114.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/114.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12749,
+    "linear_page_number": 115,
+    "man": "levanto-arte",
+    "page_id": "114",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/115.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/115.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12750,
+    "linear_page_number": 116,
+    "man": "levanto-arte",
+    "page_id": "115",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/116.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/116.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12751,
+    "linear_page_number": 117,
+    "man": "levanto-arte",
+    "page_id": "116",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/117.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/117.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12752,
+    "linear_page_number": 118,
+    "man": "levanto-arte",
+    "page_id": "117",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/118.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/118.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12753,
+    "linear_page_number": 119,
+    "man": "levanto-arte",
+    "page_id": "118",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/119.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/119.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12754,
+    "linear_page_number": 120,
+    "man": "levanto-arte",
+    "page_id": "119",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/120.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/120.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12755,
+    "linear_page_number": 121,
+    "man": "levanto-arte",
+    "page_id": "120",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/121.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/121.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12756,
+    "linear_page_number": 122,
+    "man": "levanto-arte",
+    "page_id": "121",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/122.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/122.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12757,
+    "linear_page_number": 123,
+    "man": "levanto-arte",
+    "page_id": "122",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/123.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/123.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12758,
+    "linear_page_number": 124,
+    "man": "levanto-arte",
+    "page_id": "123",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/124.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/124.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12759,
+    "linear_page_number": 125,
+    "man": "levanto-arte",
+    "page_id": "124",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/125.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/125.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12760,
+    "linear_page_number": 126,
+    "man": "levanto-arte",
+    "page_id": "125",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/126.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/126.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12761,
+    "linear_page_number": 127,
+    "man": "levanto-arte",
+    "page_id": "126",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/127.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/127.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12762,
+    "linear_page_number": 128,
+    "man": "levanto-arte",
+    "page_id": "127",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/128.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/128.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12763,
+    "linear_page_number": 129,
+    "man": "levanto-arte",
+    "page_id": "128",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/129.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/129.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12764,
+    "linear_page_number": 130,
+    "man": "levanto-arte",
+    "page_id": "129",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/130.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/130.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12765,
+    "linear_page_number": 131,
+    "man": "levanto-arte",
+    "page_id": "130",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/131.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/131.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12766,
+    "linear_page_number": 132,
+    "man": "levanto-arte",
+    "page_id": "131",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/132.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/132.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12767,
+    "linear_page_number": 133,
+    "man": "levanto-arte",
+    "page_id": "132",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/133.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/133.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12768,
+    "linear_page_number": 134,
+    "man": "levanto-arte",
+    "page_id": "133",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/134.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/134.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12769,
+    "linear_page_number": 135,
+    "man": "levanto-arte",
+    "page_id": "134",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/135.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/135.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12770,
+    "linear_page_number": 136,
+    "man": "levanto-arte",
+    "page_id": "135",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/136.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/136.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12771,
+    "linear_page_number": 137,
+    "man": "levanto-arte",
+    "page_id": "136",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/137.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/137.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12772,
+    "linear_page_number": 138,
+    "man": "levanto-arte",
+    "page_id": "137",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/138.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/138.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12773,
+    "linear_page_number": 139,
+    "man": "levanto-arte",
+    "page_id": "138",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/139.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/139.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12774,
+    "linear_page_number": 140,
+    "man": "levanto-arte",
+    "page_id": "139",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/140.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/140.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12775,
+    "linear_page_number": 141,
+    "man": "levanto-arte",
+    "page_id": "140",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/141.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/141.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12776,
+    "linear_page_number": 142,
+    "man": "levanto-arte",
+    "page_id": "141",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/142.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/142.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12777,
+    "linear_page_number": 143,
+    "man": "levanto-arte",
+    "page_id": "142",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/143.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/143.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12778,
+    "linear_page_number": 144,
+    "man": "levanto-arte",
+    "page_id": "143",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/144.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/144.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12779,
+    "linear_page_number": 145,
+    "man": "levanto-arte",
+    "page_id": "144",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/145.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/145.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12780,
+    "linear_page_number": 146,
+    "man": "levanto-arte",
+    "page_id": "145",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/146.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/146.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12781,
+    "linear_page_number": 147,
+    "man": "levanto-arte",
+    "page_id": "146",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/147.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/147.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12782,
+    "linear_page_number": 148,
+    "man": "levanto-arte",
+    "page_id": "147",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/148.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/148.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12783,
+    "linear_page_number": 149,
+    "man": "levanto-arte",
+    "page_id": "148",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/149.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/149.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12784,
+    "linear_page_number": 150,
+    "man": "levanto-arte",
+    "page_id": "149",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/150.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/150.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12785,
+    "linear_page_number": 151,
+    "man": "levanto-arte",
+    "page_id": "150",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/151.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/151.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12786,
+    "linear_page_number": 152,
+    "man": "levanto-arte",
+    "page_id": "151",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/152.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/152.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12787,
+    "linear_page_number": 153,
+    "man": "levanto-arte",
+    "page_id": "152",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/153.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/153.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12788,
+    "linear_page_number": 154,
+    "man": "levanto-arte",
+    "page_id": "153",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/154.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/154.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12789,
+    "linear_page_number": 155,
+    "man": "levanto-arte",
+    "page_id": "154",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/155.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/155.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12790,
+    "linear_page_number": 156,
+    "man": "levanto-arte",
+    "page_id": "155",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/156.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/156.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12791,
+    "linear_page_number": 157,
+    "man": "levanto-arte",
+    "page_id": "156",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/157.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/157.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12792,
+    "linear_page_number": 158,
+    "man": "levanto-arte",
+    "page_id": "157",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/158.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/158.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12793,
+    "linear_page_number": 159,
+    "man": "levanto-arte",
+    "page_id": "158",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/159.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/159.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12794,
+    "linear_page_number": 160,
+    "man": "levanto-arte",
+    "page_id": "159",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/160.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/160.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12795,
+    "linear_page_number": 161,
+    "man": "levanto-arte",
+    "page_id": "160",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/161.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/161.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12796,
+    "linear_page_number": 162,
+    "man": "levanto-arte",
+    "page_id": "161",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/162.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/162.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12797,
+    "linear_page_number": 163,
+    "man": "levanto-arte",
+    "page_id": "162",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/163.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/163.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12798,
+    "linear_page_number": 164,
+    "man": "levanto-arte",
+    "page_id": "163",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/164.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/164.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12799,
+    "linear_page_number": 165,
+    "man": "levanto-arte",
+    "page_id": "164",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/165.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/165.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12800,
+    "linear_page_number": 166,
+    "man": "levanto-arte",
+    "page_id": "165",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/166.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/166.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12801,
+    "linear_page_number": 167,
+    "man": "levanto-arte",
+    "page_id": "166",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/167.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/167.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12802,
+    "linear_page_number": 168,
+    "man": "levanto-arte",
+    "page_id": "167",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/168.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/168.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12803,
+    "linear_page_number": 169,
+    "man": "levanto-arte",
+    "page_id": "168",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/169.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/169.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12804,
+    "linear_page_number": 170,
+    "man": "levanto-arte",
+    "page_id": "169",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/170.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/170.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12805,
+    "linear_page_number": 171,
+    "man": "levanto-arte",
+    "page_id": "170",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/171.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/171.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12806,
+    "linear_page_number": 172,
+    "man": "levanto-arte",
+    "page_id": "171",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/172.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/172.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12807,
+    "linear_page_number": 173,
+    "man": "levanto-arte",
+    "page_id": "172",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/173.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/173.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12808,
+    "linear_page_number": 174,
+    "man": "levanto-arte",
+    "page_id": "173",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/174.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/174.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12809,
+    "linear_page_number": 175,
+    "man": "levanto-arte",
+    "page_id": "174",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/175.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/175.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12810,
+    "linear_page_number": 176,
+    "man": "levanto-arte",
+    "page_id": "175",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/176.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/176.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12811,
+    "linear_page_number": 177,
+    "man": "levanto-arte",
+    "page_id": "176",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/177.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/177.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12812,
+    "linear_page_number": 178,
+    "man": "levanto-arte",
+    "page_id": "177",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/178.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/178.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12813,
+    "linear_page_number": 179,
+    "man": "levanto-arte",
+    "page_id": "178",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/179.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/179.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12814,
+    "linear_page_number": 180,
+    "man": "levanto-arte",
+    "page_id": "179",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/180.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/180.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12815,
+    "linear_page_number": 181,
+    "man": "levanto-arte",
+    "page_id": "180",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/181.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/181.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12816,
+    "linear_page_number": 182,
+    "man": "levanto-arte",
+    "page_id": "181",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/182.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/182.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12817,
+    "linear_page_number": 183,
+    "man": "levanto-arte",
+    "page_id": "182",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/183.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/183.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12818,
+    "linear_page_number": 184,
+    "man": "levanto-arte",
+    "page_id": "183",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/184.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/184.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12819,
+    "linear_page_number": 185,
+    "man": "levanto-arte",
+    "page_id": "184",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/185.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/185.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12820,
+    "linear_page_number": 186,
+    "man": "levanto-arte",
+    "page_id": "185",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/186.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/186.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12821,
+    "linear_page_number": 187,
+    "man": "levanto-arte",
+    "page_id": "186",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/187.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/187.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12822,
+    "linear_page_number": 188,
+    "man": "levanto-arte",
+    "page_id": "187",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/188.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/188.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12823,
+    "linear_page_number": 189,
+    "man": "levanto-arte",
+    "page_id": "188",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/189.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/189.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12824,
+    "linear_page_number": 190,
+    "man": "levanto-arte",
+    "page_id": "189",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/190.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/190.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12825,
+    "linear_page_number": 191,
+    "man": "levanto-arte",
+    "page_id": "191",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/191.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/191.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12826,
+    "linear_page_number": 192,
+    "man": "levanto-arte",
+    "page_id": "192",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/192.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/192.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12827,
+    "linear_page_number": 193,
+    "man": "levanto-arte",
+    "page_id": "193",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/193.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/193.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12828,
+    "linear_page_number": 194,
+    "man": "levanto-arte",
+    "page_id": "194",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/194.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/194.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12829,
+    "linear_page_number": 195,
+    "man": "levanto-arte",
+    "page_id": "195",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/195.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/195.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12830,
+    "linear_page_number": 196,
+    "man": "levanto-arte",
+    "page_id": "196",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/196.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/196.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12831,
+    "linear_page_number": 197,
+    "man": "levanto-arte",
+    "page_id": "197",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/197.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/197.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12832,
+    "linear_page_number": 198,
+    "man": "levanto-arte",
+    "page_id": "198",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/198.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/198.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12833,
+    "linear_page_number": 199,
+    "man": "levanto-arte",
+    "page_id": "199",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/199.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/199.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12834,
+    "linear_page_number": 200,
+    "man": "levanto-arte",
+    "page_id": "200",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/200.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/200.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12835,
+    "linear_page_number": 201,
+    "man": "levanto-arte",
+    "page_id": "201",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/201.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/201.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12836,
+    "linear_page_number": 202,
+    "man": "levanto-arte",
+    "page_id": "202",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/202.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/202.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12837,
+    "linear_page_number": 203,
+    "man": "levanto-arte",
+    "page_id": "203",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/203.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/203.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12838,
+    "linear_page_number": 204,
+    "man": "levanto-arte",
+    "page_id": "204",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/204.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/204.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12839,
+    "linear_page_number": 205,
+    "man": "levanto-arte",
+    "page_id": "205",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/205.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/205.xml"),
+    "workshop_notes": ""
+  },
+  {
+    "id": 12841,
+    "linear_page_number": 206,
+    "man": "levanto-arte",
+    "page_id": "205",
+    "transcription": string_import("ticha-xml-tei/printed_texts/pages/levanto_arte/206.xml"),
+    "transcription_regular": string_import("ticha-xml-tei/printed_texts/pages_regular/levanto_arte/206.xml"),
+    "workshop_notes": ""
+  }
+]
