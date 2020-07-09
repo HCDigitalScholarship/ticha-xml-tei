@@ -2,7 +2,7 @@
 <?xml-model href="TEISchema_current.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <text>
-  
+
     <!-- Encoded text goes here -->
 	<pb n="cover"/>
 	<pb n="cover-inside"/>
@@ -12,6 +12,9 @@
 	<pb n="4"/>
 	<pb n="5"/>
 	<pb n="6"/>
-	
+  <pb n="7"/>
+  <pb n="8"/>
+  <pb n="9"/>
+
   </text>
 </TEI>
