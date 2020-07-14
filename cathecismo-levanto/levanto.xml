@@ -5263,14 +5263,13 @@
           </hi>
         </fw>
         <lb/>
-        <!-- James Truitt's section -->
         <pb n="50"/>
         <div xml:id="levanto4.2.1">
-          <head type="outline">Deprecacion a la Santissima Virgen.</head>
+          <head type="outline"><choice><orig>Deprecacion</orig><reg type="spanish">Deprecación</reg></choice> a la <choice><orig>Santissima</orig><reg type="spanish">Santísima</reg></choice> Virgen.</head>
           <head type="levanto" xml:lang="esp" rend="center italics">
-            DEPRECACION
+            <choice><orig>DEPRECACION</orig><reg type="spanish">DEPRECACIÓN</reg></choice>
             <lb/>
-            A LA SANTISSIMA VIRGEN.
+            A LA <choice><orig>SANTISSIMA</orig><reg type="spanish">SANTÍSIMA</reg></choice> VIRGEN.
             <lb/>
           </head>
           CHanna Xonnaxi quiieba,
@@ -5286,9 +5285,9 @@
         </div>
         <!-- levanto4.2.1 -->
         <div xml:id="levanto4.2.2">
-          <head type="outline">Mysterio Primero. La Oracion del Huerto.</head>
+          <head type="outline"><choice><orig>Mysterio</orig><reg type="spanish">Misterio</reg></choice> Primero. La <choice><orig>Oracion</orig><reg type="spanish">Oración</reg></choice> del Huerto.</head>
           <head type="levanto" xml:lang="esp" rend="center italics">
-            La Oracion del Huerto.
+            La <choice><orig>Oracion</orig><reg type="spanish">Oración</reg></choice> del Huerto.
             <lb/>
           </head>
           COlooxe cotaago xchiini,
@@ -5303,17 +5302,17 @@
           <lb/>
           Chiiquee loo xguere piniini
           <lb/>
-          Xi Rinni <choice><orig>Jeſus</orig><reg type="spanish">Jesus</reg></choice> pixiini,
+          Xi Rinni <foreign xml:lang="esp"><choice><orig>Jeſus</orig><reg type="spanish">Jesús</reg></choice></foriegn> pixiini,
           <lb/>
           Ciica niça loona looni.
           <lb/>
         </div>
         <div xml:id="levanto4.2.3">
-          <head type="outline">Mysterio Segundo. De los Azotes ȃ la Columna.</head>
+          <head type="outline"><choice><orig>Mysterio</orig><reg type="spanish">Misterio</reg></choice> Segundo. De los Azotes <choice><orig>ȃ</orig><reg type="spanish">a</reg></choice> la Columna.</head>
           <head type="levanto" xml:lang="esp" rend="center italics">
-            MYSTERIO SEGUNDO.
+            <choice><orig>MYSTERIO</orig><reg type="spanish">MISTERIO</reg></choice> SEGUNDO.
             <lb/>
-            De los Azotes â la Columna.
+            De los Azotes <choice><orig>â</orig><reg type="spanish">a</reg></choice> la Columna.
             <lb/>
           </head>
           COroopa ticha rizaa,
