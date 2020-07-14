@@ -14,14 +14,14 @@
     <head type= "outline"> De las Partes de la
         <choice><orig>Oracion</orig><reg type="spanish">Oración</reg></choice>
     </head>
-    <head> (De las Partes de la 
+    <head> (De las Partes de la
             <choice><orig>Oracion</orig><reg type="spanish">Oración</reg></choice>.)</head>
     <lb/>
     Las partes de la
     <choice><orig>oracion</orig><reg type="spanish">oración</reg></choice>
-    son ocho Nombre Prõ
-    <lb/>
-    nombre &amp;ra. el Nombre uno es substantivo y -
+    son ocho Nombre
+    <choice><orig>Prõ<lb/>nombre</orig><reg type="spanish">Pro<lb/>nombre</reg></choice>
+    &amp;ra. el Nombre uno es substantivo y -
     <lb/>
     otro adjetivo uno y otro son indeclinable, sin casos
     <lb/>
@@ -29,22 +29,22 @@
     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
     de por si no tienen dife-
     <lb/>
-    rencia de el singular y plural; pero se 
-    <choice><orig>distiiñ-<lb/>guen</orig><reg type="spanish">distinguen</reg></choice>
+    rencia de el singular y plural; pero se
+    <choice><orig>distiiñ-<lb/>guen</orig><reg type="spanish">distin-<lb/>guen</reg></choice>
      con estos dos adjetivos
      <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
      , se llaman collec-
     <lb/>
-     tivos: Ciianni
+     tivos: <foreign xml:lang= 'zap'>Ciianni</foreign>
      <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
-     significa mucho. Huaxija
+     significa mucho. <foreign xml:lang= 'zap'>Huaxija</foreign>
      <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
     <lb/>
-    significa pocos: V.g. Muchos muchachos, Cijan-
+    significa pocos: V.g. Muchos muchachos, <foreign xml:lang= 'zap'>Cijan-
     <lb/>
-    ni Pinni = Huaxija Pinni, pocos muchachos.
+    ni Pinni = Huaxija Pinni</foreign>, pocos muchachos.
     <lb/>
-    El Nombre Bixooze
+    El Nombre <foreign xml:lang= 'zap'>Bixooze</foreign>
     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
     significa el Padre tie-
     <lb/>
@@ -56,9 +56,9 @@
     <lb/>
      dice <foreign xml:lang= 'zap'>Bixoocea</foreign> en el Vocativo <foreign xml:lang= 'zap'>Bixooze</foreign> tam-
     <lb/>
-     bien <foreign xml:lang= 'zap'>Besuana</foreign> o’ <foreign xml:lang= 'zap'>Bejuana </foreign> tiene el vocativo Cha-
+     bien <foreign xml:lang= 'zap'>Besuana</foreign> o’ <foreign xml:lang= 'zap'>Bejuana </foreign> tiene el vocativo <foreign xml:lang= 'zap'>Cha-
     <lb/>
-     ana: <foreign xml:lang='lat'>V.g.</foreign> Capa Dios Chaana. Dios te guarder. S.r
+     ana</foreign>: <foreign xml:lang='lat'>V.g.</foreign> <foreign xml:lang= 'zap'>Capa Dios Chaana</foreign>. Dios te guarder. S.r
     <lb/>
      solo los dos referidos nombres son
      <choice><orig>excepcion</orig><reg type="spanish">excepción</reg></choice>
@@ -66,7 +66,7 @@
     <lb/>
      Regla general; a un
      <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
-     el M.tro de esta lengua di-
+     el <choice><orig>M.tro</orig><reg type="spanish">Maestro</reg></choice> de esta lengua di-
     <lb/>
      ce
      <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
@@ -74,23 +74,23 @@
     <lb/>
      nna</foreign>, sino
      <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
-     es ō sin copa de <foreign xml:lang= 'zap'>Pechana</foreign> o’es como
+     es <choice><orig>ō</orig><reg type="spanish">o</reg></choice> sin copa de <foreign xml:lang= 'zap'>Pechana</foreign> <choice><orig>o’es</orig><reg type="spanish">o es</reg></choice> como
     <lb/>
      se pronuncia <foreign xml:lang= 'zap'>Chaana</foreign>; pues ambos a dos nombres
     <lb/>
      se hallan separados en el Vocabulario, y signifi-
     <lb/>
-     can el S.r. Este nombre <foreign xml:lang= 'zap'>Rete</foreign> o <foreign xml:lang= 'zap'>Riti</foreign> parece q. tam-
+     can el S.r. Este nombre <foreign xml:lang= 'zap'>Rete</foreign> o <foreign xml:lang= 'zap'>Riti</foreign> parece <choice><orig>q.</orig><reg type="spanish">que</reg></choice> tam-
     <lb/>
-     poco e vocativo de <foreign xml:lang= 'zap'>Bixooze</foreign>, pues 
-    <choice><orig>tambien</orig><reg type="spanish">también</reg></choice> 
+     poco e vocativo de <foreign xml:lang= 'zap'>Bixooze</foreign>, pues
+    <choice><orig>tambien</orig><reg type="spanish">también</reg></choice>
     se han
     <lb/>
     lla en el Vocabulario significando, de possible
     <lb/>
-    Padres. Dice el Vocabulario Padre mio, mi P.e Ri-
+    Padres. Dice el Vocabulario Padre mio, mi P.e <foreign xml:lang= 'zap'>Ri-
     <lb/>
-    tia, por el tanto el M.tro de esta lengua el M. Rs.
+    tia</foreign>, por el tanto el <choice><orig>M.tro</orig><reg type="spanish">Maestro</reg></choice> de esta lengua el M. Rs.
 
     <pb n="4"/>
      Fr Juan de Cordova no hace exepcien de la Regla ge-
@@ -102,6 +102,7 @@
     todos
 	<lb/>
 	son indeclinables.
+  <!-- BDL: wouldn't it be cool to link to that part of Corodova's Arte!  Can we do that? -->
 	<lb/>
 	Los Nombres Substantivos unos son proprios y otros
 	<lb/>
@@ -113,9 +114,9 @@
 	<lb/>
 	Los Nombres Adjetivos <choice><orig>comien zan</orig><reg type="spanish">comienzan</reg></choice> con una de es-
 	<lb/>
-	tas 
+	tas
         <choice><orig>silabas</orig><reg type="spanish">sílabas</reg></choice>
-        : na, ne, ni, no, ya, hua. <foreign xml:lang='lat'>V.g.</foreign> nati cosa mue-
+        : <foreign xml:lang= 'zap'>na, ne, ni, no, ya, hua</foreign>. <foreign xml:lang='lat'>V.g.</foreign> <foreign xml:lang= 'zap'>nati</foreign> cosa mue-
 	<lb/>
 	rta , <foreign xml:lang= 'zap'>nezacalachi</foreign> cosa alegre, <foreign xml:lang= 'zap'>niniizi</foreign>, cosa crecida
 	<lb/>
@@ -124,22 +125,22 @@
 	sa blanca <foreign xml:lang= 'zap'>huacahui</foreign> cosa obscura con advertencia
 	<lb/>
 	<choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
-    el adjetivo ya sinve en
+    el adjetivo ya <choice><orig>sinve</orig><reg type="spanish">sirve</reg></choice> en
     <choice><orig>composicion</orig><reg type="spanish">composición</reg></choice>
     : <foreign xml:lang='lat'>V.g.</foreign> <foreign xml:lang= 'zap'>benni-
 	<lb/>
 	yati</foreign>, hombre blanco, <foreign xml:lang= 'zap'>benniyace</foreign>, hombre negro
 	<lb/>
     <div xml:id= "levanto-arte1.1">
-    <head type="outline"> De el Pronombre </head>
+    <head type="outline"> <choice><orig>De el</orig><reg type="spanish">Del</reg></choice> Pronombre </head>
 
-			<head> De el Pronombre </head>
+			<head> <choice><orig>De el</orig><reg type="spanish">Del</reg></choice> Pronombre </head>
 			<lb/>
 	<choice><orig>Hai</orig><reg type="spanish">Hay</reg></choice>
         dos especies de Pronombres: unos primitivos
 	<lb/>
 	y otros
-        <choice><orig>deribativos. </orig><reg type="spanish">derivativos. </reg></choice> 
+        <choice><orig>deribativos</orig><reg type="spanish">derivativos</reg></choice>.
         Los primitivos son de dos mane-
 	<lb/>
 	ras, unos
@@ -151,11 +152,14 @@
 	<choice><orig>composicion</orig><reg type="spanish">composición</reg></choice>
     . Los
     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
-    sirven por si solos son <foreign xml:lang= 'zap'>Naa</foreign>=yo
+    sirven por si solos son
+    <foreign xml:lang= 'zap'>Naa</foreign>=yo
 	<lb/>
-	<foreign xml:lang= 'zap'>Luy</foreign>= tu, <foreign xml:lang= 'zap'>Niquee</foreign>= 
-    aquel <choice><orig> ó </orig><reg type="spanish"> o </reg></choice>
-    aquellos, <foreign xml:lang= 'zap'>Tonoo</foreign>= Nosotros
+	<foreign xml:lang= 'zap'>Luy</foreign>= tu,
+  <foreign xml:lang= 'zap'>Niquee</foreign>=
+    aquel <choice><orig>ó</orig><reg type="spanish">o</reg></choice>
+    aquellos,
+    <foreign xml:lang= 'zap'>Tonoo</foreign>= Nosotros
 	<lb/>
 	<foreign xml:lang= 'zap'>Lato</foreign>= vosotros. Los
     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
@@ -163,11 +167,17 @@
     <choice><orig>composicion</orig><reg type="spanish">composición</reg></choice>
     siem-
 	<lb/>
-	pre se posponen ã los nombres pronombres, y verbos,
+	pre se posponen <choice><orig>ã</orig><reg type="spanish">a</reg></choice> los nombres pronombres, y verbos,
 	<lb/>
-	y son: <foreign xml:lang= 'zap'>Ya</foreign>=Yo, <foreign xml:lang= 'zap'>Lo</foreign>=Tu, <foreign xml:lang= 'zap'>Ni</foreign>= aquel o’ aquellos <foreign xml:lang= 'zap'>Noo</foreign> vel
+	y son:
+  <foreign xml:lang= 'zap'>Ya</foreign>=Yo,
+  <foreign xml:lang= 'zap'>Lo</foreign>=Tu,
+  <foreign xml:lang= 'zap'>Ni</foreign>= aquel <choice><orig>o’</orig><reg type="spanish">o</reg></choice> aquellos
+  <foreign xml:lang= 'lat'>Noo</foreign> vel
 	<lb/>
-	<foreign xml:lang= 'zap'>Tonoo</foreign>= nosotros, <foreign xml:lang= 'zap'>to</foreign>= vosotros. <foreign xml:lang='lat'>V.g.</foreign> Nombre Subs-
+	<foreign xml:lang= 'zap'>Tonoo</foreign>= nosotros,
+  <foreign xml:lang= 'zap'>to</foreign>= vosotros.
+  <foreign xml:lang='lat'>V.g.</foreign> Nombre Subs-
 	<lb/>
 	Tantivo
 	<lb/>
@@ -256,7 +266,7 @@
     <choice><orig>composicion</orig><reg type="spanish">composición</reg></choice>
     en todos lo nombre y ver-
 	<lb/>
-	bos de todas 
+	bos de todas
     <choice><orig>quatro Conjugaciones q.e</orig><reg type="spanish">cuatro conjugaciones que</reg></choice>
     aca-
 	<lb/>
@@ -264,7 +274,7 @@
 	<lb/>
 	da la A; <foreign xml:lang='lat'>V.g.</foreign> <foreign xml:lang= 'zap'>Beche </foreign>significa el Hermano h-
 	<lb/>
-	chi significa la casa y 
+	chi significa la casa y
         <choice><orig>quatro</orig><reg type="spanish">cuatro</reg></choice>
         para decir yo mi ca
 	<lb/>
@@ -310,7 +320,7 @@
     <head type= "outline"> Pronombres Deribativos </head>
 	    <head> Pronombres Deribativos </head>
 	    <lb/>
-	 De estos pronombres 
+	 De estos pronombres
          <choice><orig>deribatibos ai </orig><reg type="spanish">derivativos hay </reg></choice> en esta lengua
 	 <lb/>
 	tres especies unos son Posesivos, otros Demonstrativos
@@ -435,18 +445,18 @@
        <head type='outline'> De los Superlativos </head>
     <head>De los Superlativos</head>
     <lb/>
-    Los Superlativos son 
+    Los Superlativos son
     <choice><orig>tambien</orig><reg type="spanish">también</reg></choice>
     los mismos positivos
     <lb/>
-    pos puesta la 
+    pos puesta la
     <choice><orig>particula</orig><reg type="spanish">partícula</reg></choice>
     teete: <foreign xml:lang='lat'>V.g.</foreign> <foreign xml:lang="zap">Ciroo </foreign> positivo pos
     <lb/>
-    puesta la 
-    <choice><orig>particula</orig><reg type="spanish">partícula</reg></choice> 
-    <foreign xml:lang="zap">teete </foreign> 
-    <choice><orig>se haze superlativo</orig><reg type="spanish">se hace superlativos</orig></choice 
+    puesta la
+    <choice><orig>particula</orig><reg type="spanish">partícula</reg></choice>
+    <foreign xml:lang="zap">teete </foreign>
+    <choice><orig>se haze superlativo</orig><reg type="spanish">se hace superlativos</orig></choice
     <foreign xml:lang='zap'>ciroo</foreign>
     <lb/>
     <foreign xml:lang="zap">teete:Ciroo</foreign> significa cosa grande y <foreign xml:lang="zap">ciroo teete co</foreign>
@@ -469,7 +479,7 @@
     <lb/>
     Todos los Verbos comienzan los presentes de indicati-
     <lb/>
-    vo en una de estas 
+    vo en una de estas
     <choice><orig>quatro</orig><reg type="spanish">cuatro</reg></choice>
     vocales ā e,i,o,
     <lb/>
@@ -484,7 +494,7 @@
     <lb/>
     xo.= Para conocer los verbos de esta lengua y ā saber
     <lb/>
-    ā qual de las 
+    ā qual de las
     <choice><orig>quatro</orig><reg type="spanish">cuatro</reg></choice>
     Conjugaciones pertenecen, se advierta:
     <lb/>
@@ -526,7 +536,7 @@
     <lb/>
     poniendoles o posponiendoles: quitandoles, o anadiendoles
     <lb/>
-    alguna 
+    alguna
     <choice><orig>silaba o particula</orig><reg type="spanish">sílaba o partícula</reg></choice>
     como se vera conjugando
     <lb/>
@@ -542,7 +552,7 @@
     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
     significa junto o jun
     <lb/>
-    tamente y 
+    tamente y
     <choice><orig>asi</orig><reg type="spanish">así</reg></choice>
     <foreign xml:lang='zap'>Raacañeea</foreign> quiere decir soy junto o juntamente
     <lb/>
@@ -563,7 +573,7 @@
     <lb/>
     sente, el ta vuelto en <foreign xml:lang='zap'>Ciaa</foreign> para el uno; u el ta vuelto en <foreign xml:lang='zap'>hua-,
     <lb/>
-    ya</foreign>, para el otro: 
+    ya</foreign>, para el otro:
     <choice><orig>asi dixan, </orig><reg type="spanish">así dijan, </reg></choice>
     <foreign xml:lang='zap'>Ciaacañeea</foreign>, yo he ayudado
     <lb/>
@@ -605,7 +615,7 @@
     <lb/>
     persona del futuro. <foreign xml:lang='lat'>V.g.</foreign> ayude aquel o ayueden aquellos
     <lb/>
-    <foreign xml:lang="zap">Caacanteeni</foreign>= 
+    <foreign xml:lang="zap">Caacanteeni</foreign>=
     <choice><orig>tambien</orig><reg type="spanish">también</reg></choice>
     se suplen por el futuro las prime-
     <lb/>
@@ -712,7 +722,7 @@
     <lb/>
 	<foreign xml:lang="zap">Caacañee</foreign>- Ayudar. Este es el futuro imperfecto de
 	<lb/>
-	indicativo sin pronombre; y 
+	indicativo sin pronombre; y
         <choice><orig>asi en todas quatro<orig><reg type="spanish">así en todas cuatro</reg></choice>
         Conjuga
 	<lb/>
@@ -727,7 +737,7 @@
 	<lb/>
 	<foreign xml:lang="zap">Niacañee</foreign>- haber ayudado. Este es preterito im-
 	<lb/>
-	perfecto de subjuntivo sin pronombre, y 
+	perfecto de subjuntivo sin pronombre, y
         <choice><orig>asi en todas qua</orig><reg type="spanish">así en todas cua</reg></choice>
 	<lb/>
 	tro Conjugaciones.
@@ -867,16 +877,16 @@
     <lb/>
     tiene las tres dichas formaciones solo usa de esta ter-
     <lb/>
-    cera los 
+    cera los
     <choice><orig>Yndios en todas quatro Conjugaciones y solo</orig>
-    <reg type="spanish"> indios en todas cuatro conjugaciones y sólo</reg></choice> 
+    <reg type="spanish"> indios en todas cuatro conjugaciones y sólo</reg></choice>
     en-
     <lb/>
-    tienden de todo gerundio, 
+    tienden de todo gerundio,
     <choice><orig>quando</orig><reg type="spanish">cuando</reg></choice>
     se habla por el futu-
     <lb/>
-    ro de indicativo. 
+    ro de indicativo.
     <choice><orig>Esto tambien se adviente para quando</orig><reg type="spanish">Esto también se adviente para cuando</reg></choice>
     <lb/>
     Tratemos del gerundio de Ablativo.
@@ -892,7 +902,7 @@
     <choice><orig>formacion</orig><reg type="spanish">formación</reg></choice>
     de este gerundio se
     <lb/>
-    Ponen 
+    Ponen
     <choice><orig>aqui</orig><reg type="spanish">aquí</reg></choice>
     algunos verbos de asistencia y otros de mo-
     <lb/>
@@ -1094,7 +1104,7 @@
     <lb/>
     la muerte, de presente, preterito, y futuro.
     <lb/>
-    Puedense forman 
+    Puedense forman
     <choice><orig>tambien</orig><reg type="spanish">también</reg></choice>
     estos nombres verbales, de los
     <lb/>
@@ -1102,7 +1112,7 @@
     <lb/>
     ticula <foreign xml:lang="zap">Quella</foreign>: <foreign xml:lang='lat'>V.g.</foreign> <foreign xml:lang="zap">nazaaca</foreign>, cosa buena; <foreign xml:lang="zap">Quella-nazaa-
     <lb/>
-    ca</foreign> la bondad, <foreign xml:lang="zap">nazijnaña</foreign>, cosa 
+    ca</foreign> la bondad, <foreign xml:lang="zap">nazijnaña</foreign>, cosa
     <choice><orig>habil,</orig><reg type="spanish">hábil,</reg></choice>
     <foreign xml:lang="zap">Quella-nazijña</foreign>, la ha-
     <lb/>
@@ -1140,7 +1150,7 @@
     <choice><orig>Conyugacion</orig><reg type="spanish">Conjugación</reg></choice>,
     de verbos ac-
     <lb/>
-    tivos, 
+    tivos,
     <choice><orig>passivos, <orig><reg type="spanish">pasivos, </reg></choice>
     y neutros, y se forman del presente de
     <lb/>
@@ -1983,7 +1993,7 @@
     <choice><orig>el qual quando
     <lb/>
     significa decir en comun, ó hablar, se conjuga assi
-    </orig><reg type="spanish">el cual cuando <lb/> 
+    </orig><reg type="spanish">el cual cuando <lb/>
     significa decir en común, o hablar, se conjuga así</reg></choice>
     <lb/>
     </div>
@@ -2093,7 +2103,7 @@
     <lb/>
     Se advierte
     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
-    todos los verbos 
+    todos los verbos
     <choice><orig>dela 4.a conjugacion</orig><reg type="spanish">de la cuarta conjugación</reg></choice>
     regul
     <lb/>
@@ -2446,12 +2456,12 @@
     </div>
     <!-- levanto-arte 1.15 -->
     <div xml:id="levanto-arte1.16">
-    <head type="outline">Reglas de las irregularidades de los verbos de todas 
+    <head type="outline">Reglas de las irregularidades de los verbos de todas
     <choice><orig>4o.</orig><reg type="spanish">cuatro</reg></choice>
     Conjugaciones</head>
     Reglas de las irregularidades de los ver-
     <lb/>
-    bos de todas 
+    bos de todas
     <choice><orig>4o.</orig><reg type="spanish">cuatro</reg></choice>
     Conjugaciones
     <lb/>
@@ -2547,7 +2557,7 @@
         <choice><orig>Conjugacion</orig><reg type="spanish">Conjugación</reg></choice>
     </head>
     <lb/>
-    Los verbos 
+    Los verbos
     <choice><orig>passivos <orig><reg type="spanish">pasivos </reg></choice>son todos regulares; alguno puede ser
     <lb/>
     tenga(?) alguna irregularidad. De los otros verbos hay muchos
@@ -3369,7 +3379,7 @@
     <lb/>
     <choice><orig>Crees q.e N.to S.r Jesu Christo ã el tercero dia
     <lb/>
-    resucito de entre los muertos y pasados 
+    resucito de entre los muertos y pasados
     <choice><orig>quarenta dias</orig><reg type="spanish">cuarenta días</reg></choice>
     <lb/>
     subio ã los Cielos y se sento ã la diestra de Dios Padre
@@ -3540,7 +3550,7 @@
     <lb/>
     Extrema
     <choice><orig>Uncion</orig><reg type="spanish">Unción</reg></choice>
-    este Sacramento perdona 
+    este Sacramento perdona
     <choice><orig>qual-<lb/>quiera pecado q.e</orig>
     <reg type="spanish">cual-<lb/>quiera pecado que</reg></choice>
     haya quedado en el alma, des-
@@ -4390,11 +4400,11 @@
     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
     todo
     <lb/>
-    Christiano  confiese sus pecados cada año por la 
+    Christiano  confiese sus pecados cada año por la
     <choice><orig>cuares<lb/>ma, y q.e</orig><reg type="spanish">cuares<lb/>ma, y que</reg></choice>
     reciba el Cuerpo Sa?rado  de ?? Jesu Christo
     <lb/>
-    en la Parqua de flores. 
+    en la Parqua de flores.
     <choice><orig>Tambien ay obligacion</orig><reg type="spanish">También hay obligación</reg></choice>
     de confesar
     <lb/>
@@ -4731,7 +4741,7 @@
     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
     el amor de Dios nos une
 	<lb/>
-	con Dios entonces amaras a Dios 
+	con Dios entonces amaras a Dios
         <choice><orig>quando</orig><reg type="spanish">cuando</reg></choice>
         guardes sus
 	<lb/>
@@ -4958,7 +4968,7 @@
 	<lb/>
 	nni lachi ni cochilo loo ticha quee.
 	<lb/>
-	Has sido testigo. 
+	Has sido testigo.
         <choice><orig>Has recivido </orig><reg type="spanish">¿Has recibido </reg></choice>
         juramento por man-
 	<lb/>
@@ -5588,4 +5598,3 @@
     <!-- levanto-arte 10 -->
   </text>
 </TEI>
-
