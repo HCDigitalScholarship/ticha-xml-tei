@@ -181,7 +181,8 @@
 	<lb/>
 	Tantivo
 	<lb/>
-	Sin.r <foreign xml:lang= 'zap'>Pizaanaya</foreign> 	 Mi Hermana
+	<choice><orig>Sin.r</orig><reg type="spanish">Singular</reg></choice>
+  <foreign xml:lang= 'zap'>Pizaanaya</foreign> 	 Mi Hermana
 	<lb/>
 	<foreign xml:lang= 'zap'>Pizaanallo </foreign> 		Tu Hermana
 	<lb/>
@@ -192,7 +193,8 @@
 	 <lb/>
 	de aquel.
 	<lb/>
-	Plu.l <foreign xml:lang= 'zap'>Pizaananoo</foreign>	Nuestra Hermana
+	<choice><orig>Plu.l</orig><reg type="spanish">Plural</reg></choice>
+  <foreign xml:lang= 'zap'>Pizaananoo</foreign>	Nuestra Hermana
 	<lb/>
 	<foreign xml:lang= 'zap'>Pizaanato</foreign>		Nuestra Hermana
 	<lb/>
@@ -202,13 +204,15 @@
     <head type= "outline"> Nombre Adjectivos </head>
 	   <head> Nombres Adjetivos </head>
 	    <lb/>
-	Sin.r <foreign xml:lang= 'zap'>Nazinaya	</foreign>	Yo habil
+	<choice><orig>Sin.r</orig><reg type="spanish">Singular</reg></choice>
+  <foreign xml:lang= 'zap'>Nazinaya	</foreign>	Yo habil
 	<lb/>
 	<foreign xml:lang= 'zap'>Nazinalo </foreign>		Tu habil
 	<lb/>
 	<foreign xml:lang= 'zap'>Nazinani </foreign>		Aquel habil
 	<lb/>
-	Plu.l <foreign xml:lang= 'zap'>Nazinatonoo</foreign>	Nosotros habiles
+	<choice><orig>Plu.l</orig><reg type="spanish">Plural</reg></choice>
+  <foreign xml:lang= 'zap'>Nazinatonoo</foreign>	Nosotros habiles
 	<lb/>
 	<foreign xml:lang= 'zap'>Nazinato </foreign>		Vosotros habiles
 	<lb/>
@@ -217,16 +221,18 @@
     </div>
     <!--levanto-arte 1.1.1-->
     <div xml:id= "levanto-arte1.1.2">
-    <head type= "outline"> Pronombre Reciprocos </head>
+    <head type= "outline"> Pronombres Reciprocos </head>
 	   <head> Pronombres Reciprocos </head>
 	    <lb/>
-	Sin.r <foreign xml:lang= 'zap'>Yoobia </foreign> 	Yo mismo
+	<choice><orig>Sin.r</orig><reg type="spanish">Singular</reg></choice>
+  <foreign xml:lang= 'zap'>Yoobia </foreign> 	Yo mismo
 	<lb/>
 	<foreign xml:lang= 'zap'>Yoobilo</foreign>			Tu mismo
 	<lb/>
 	<foreign xml:lang= 'zap'>Yoobini </foreign>			Aquel mismo
 	<lb/>
-	Plur <foreign xml:lang= 'zap'>Yoobinoo</foreign> 	Nosotros mismos
+	<choice><orig>Plur</orig><reg type="spanish">Plural</reg></choice>
+  <foreign xml:lang= 'zap'>Yoobinoo</foreign> 	Nosotros mismos
 	<lb/>
 	<foreign xml:lang= 'zap'>Yoobito</foreign>			Vosotros mismos
 	<lb/>
@@ -245,13 +251,15 @@
     <head type= "outline"> Verbo </head>
    			 <head> Verbo  </head>
    			 <lb/>
-	Sing.r <foreign xml:lang= 'zap'>Racaya </foreign>		Yo soy
+	<choice><orig>Sing.r</orig><reg type="spanish">Singular</reg></choice>
+  <foreign xml:lang= 'zap'>Racaya </foreign>		Yo soy
 	<lb/>
 	<foreign xml:lang= 'zap'>Racalo	</foreign>		Tu eres
 	<lb/>
 	<foreign xml:lang= 'zap'>Racani	</foreign>		Aquel es
 	<lb/>
-	Plu.l <foreign xml:lang= 'zap'>racatonoo</foreign>	Nosotros somos
+	<choice><orig>Plu.l</orig><reg type="spanish">Plural</reg></choice>
+  <foreign xml:lang= 'zap'>racatonoo</foreign>	Nosotros somos
 	<lb/>
 	<foreign xml:lang= 'zap'>Racato </foreign>		Vosotros sois
 	<lb/>
@@ -267,40 +275,46 @@
     en todos lo nombre y ver-
 	<lb/>
 	bos de todas
-    <choice><orig>quatro Conjugaciones q.e</orig><reg type="spanish">cuatro conjugaciones que</reg></choice>
+    <choice><orig>quatro</orig><reg type="spanish">cuatro</reg></choice>
+    <choice><orig>Conjugaciones</orig><reg type="spanish">conjugaciones</reg></choice>
+    <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
     aca-
 	<lb/>
-	ban en C o’en Y, pierde la Y y solamente que
+	ban en <foreign xml:lang='zap'>C</foreign>
+  <choice><orig>o’en</orig><reg type="spanish">o en</reg></choice>
+  <foreign xml:lang='zap'>Y</foreign>, pierde la <foreign xml:lang='zap'>Y</foreign> y solamente que
 	<lb/>
-	da la A; <foreign xml:lang='lat'>V.g.</foreign> <foreign xml:lang= 'zap'>Beche </foreign>significa el Hermano h-
+	da la <foreign xml:lang='zap'>A</foreign>;
+  <foreign xml:lang='lat'>V.g.</foreign> <foreign xml:lang= 'zap'>Beche </foreign>significa el Hermano h-
 	<lb/>
 	chi significa la casa y
         <choice><orig>quatro</orig><reg type="spanish">cuatro</reg></choice>
         para decir yo mi ca
 	<lb/>
-	sas mi Hermano, no <choice><orig>dixe</orig><reg type="spanish">dije</reg></choice><foreign xml:lang= 'zap'>Lichiya</foreign> sino <foreign xml:lang= 'zap'>Lichia </foreign>
+	sas mi Hermano, no <choice><orig>dixe</orig><reg type="spanish">dije</reg></choice>
+  <foreign xml:lang= 'zap'>Lichiya</foreign> sino
+  <foreign xml:lang= 'zap'>Lichia </foreign>
 	<lb/>
-	Tampoco <choice><orig>dixe</orig><reg type="spanish">dije</reg></choice> <foreign xml:lang= 'zap'>Becheya</foreign> sino <foreign xml:lang= 'zap'>Bechea</foreign>
+	Tampoco <choice><orig>dixe</orig><reg type="spanish">dije</reg></choice>
+  <foreign xml:lang= 'zap'>Becheya</foreign> sino
+  <foreign xml:lang= 'zap'>Bechea</foreign>
     <choice><orig>porq.e</orig><reg type="spanish">porque</reg></choice>
     per-
 	<lb/>
-	Dio la Y. el pronombre Ya
+	Dio la <foreign xml:lang= 'zap'>Y</foreign>. el pronombre <foreign xml:lang= 'zap'>Ya</foreign>
 	<lb/>
 	Tambien se advierte
     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
     en lugar de los Pronom-
 	<lb/>
 	bres  de la primera persona de plural
-    <choice><orig>q.e
-    son tono
-	<lb/>
-	Y noo se suele usan de este pronombre Ha y Es-
-	<lb/>
-	Pecialmente quando el nombre substantivo aqui
-	</orig><reg type="spanish">
-        que son tono <lb/> y no se suele usan de este pronombre Ha y Es-
-        <lb/>pecialimente cuando el nombre sustantivo aquí
-        </reg></choice>
+    <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
+        son <foreign xml:lang= 'zap'>tono</foriegn>
+    	<lb/>
+    	Y <foreign xml:lang= 'zap'>noo</foreign>
+      se suele usan de este pronombre Ha y Es-
+    	<lb/>
+    	Pecialmente quando el nombre substantivo aqui
         <lb/>
 	en se pospone significa
     <choice><orig>mas</orig><reg type="spanish">más</reg></choice>
