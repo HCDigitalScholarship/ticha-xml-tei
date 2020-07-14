@@ -5214,12 +5214,11 @@
             Zaa
             <pc type="hyphen">-</pc>
           </fw>
-          <!-- Tristan Pepin's section -->
           <pb n="49"/>
           <lb/>
           <div xml:id="levanto4.1.7.1">
             <head type="outline">Ave Filia Dei Patris, &amp;c.</head>
-            <head type="levanto" xml:lang="esp" rend="center italics">Ave Filia Dei Patris, &amp;c.</head>
+            <head type="levanto" xml:lang="lat" rend="center italics">Ave Filia Dei Patris, &amp;c.</head>
             Annaa Channa Maria he!
             Xinni Chaapa Dios Bixooce!
             Annaa Chaana Maria he!
@@ -5231,7 +5230,7 @@
           <div xml:id="levanto4.1.7.2">
             <head type="outline">Maria Mater gratiæ, &amp;c.</head>
             <head type="levanto" xml:lang="esp" rend="center italics">
-              Maria Mater gratiæ, &amp;c.
+              <foreign xml:lang="lat">Maria Mater gratiæ, &amp;c.</foreign>
               <lb/>
             </head>
             Maria quellagracia lii xiñaa:
@@ -5245,15 +5244,15 @@
             Gaca ciiga ciica:
             <foreign xml:lang="esp">Amen</foreign>
             .
-            <foreign xml:lang="esp">Jesus, Maria, y Joſeph</foreign>
+            <foreign xml:lang="esp"><choice><orig>Jesus</orig><reg type="spanish">Jesús</reg></choice>, <choice><orig>Maria</orig><reg type="spanish">María</reg></choice>, y <choice><orig>Joſeph</orig><reg type="spanish">José</reg></choice></foreign>
             <lb/>
           </div>
         </div>
       </div>
       <div xml:id="levanto4.2">
-        <head type="outline">Mysterios Dolorosos.</head>
+        <head type="outline"><choice><orig>Mysterios</orig><reg type="spanish">Misterios</reg></choice> Dolorosos.</head>
         <head type="levanto" xml:lang="esp" rend="center italics">
-          MYSTERIOS
+          <choice><orig>MYSTERIOS</orig><reg type="spanish">MISTERIOS</reg></choice>
           <lb/>
           DOLOROSOS.
         </head>
