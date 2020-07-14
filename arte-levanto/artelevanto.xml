@@ -58,7 +58,8 @@
     <lb/>
      bien <foreign xml:lang= 'zap'>Besuana</foreign> o’ <foreign xml:lang= 'zap'>Bejuana </foreign> tiene el vocativo <foreign xml:lang= 'zap'>Cha-
     <lb/>
-     ana</foreign>: <foreign xml:lang='lat'>V.g.</foreign> <foreign xml:lang= 'zap'>Capa Dios Chaana</foreign>. Dios te guarder. S.r
+     ana</foreign>: <foreign xml:lang='lat'>V.g.</foreign> <foreign xml:lang= 'zap'>Capa Dios Chaana</foreign>. Dios te guarder.
+     <choice><orig>S.r</orig><reg type="spanish">Señor</reg></choice>
     <lb/>
      solo los dos referidos nombres son
      <choice><orig>excepcion</orig><reg type="spanish">excepción</reg></choice>
@@ -80,7 +81,8 @@
     <lb/>
      se hallan separados en el Vocabulario, y signifi-
     <lb/>
-     can el S.r. Este nombre <foreign xml:lang= 'zap'>Rete</foreign> o <foreign xml:lang= 'zap'>Riti</foreign> parece <choice><orig>q.</orig><reg type="spanish">que</reg></choice> tam-
+     can el <choice><orig>S.r</orig><reg type="spanish">Señor</reg></choice>.
+     Este nombre <foreign xml:lang= 'zap'>Rete</foreign> o <foreign xml:lang= 'zap'>Riti</foreign> parece <choice><orig>q.</orig><reg type="spanish">que</reg></choice> tam-
     <lb/>
      poco e vocativo de <foreign xml:lang= 'zap'>Bixooze</foreign>, pues
     <choice><orig>tambien</orig><reg type="spanish">también</reg></choice>
@@ -324,9 +326,19 @@
 	<lb/>
 
     <pb n="7"/>
-	<foreign xml:lang= 'zap'>Xinaana</foreign> S.ta Yglesia, N.tra Madre la S.ta Yglesia
+	<foreign xml:lang= 'zap'>Xinaana</foreign>
+  <choice><orig>S.ta</orig><reg type="spanish">Santa</reg></choice>
+  <choice><orig>Yglesia</orig><reg type="spanish">Iglesia</reg></choice>,
+  <choice><orig>N.tra</orig><reg type="spanish">Nuestra</reg></choice>
+  Madre la
+  <choice><orig>S.ta</orig><reg type="spanish">Santa</reg></choice>
+  <choice><orig>Yglesia</orig><reg type="spanish">Iglesia</reg></choice>
 	<lb/>
-	<foreign xml:lang= 'zap'>Bejuanana</foreign> Jesu Christo N.tro S.r Jesu Christo.
+	<foreign xml:lang= 'zap'>Bejuanana</foreign>
+  Jesu Christo
+  <choice><orig>N.tro</orig><reg type="spanish">Nuestro</reg></choice>
+  <choice><orig>S.r</orig><reg type="spanish">Señor</reg></choice>
+  Jesu Christo.
 	<lb/>
     </div>
     <!--levanto-arte 1.1.3-->
@@ -3343,19 +3355,28 @@
     <lb/>
     lioo lanni nataateete xtenni xoon naaxitoo Chaapa
     <lb/>
-    coconi yoona S.ta Maria, Chela gollenixtenni S.ta
+    coconi yoona</foreign>
+    <choice><orig>S.ta</orig><reg type="spanish">Santa</reg></choice>
+    Maria,
+    <foreign xml:lang="zap">Chela gollenixtenni</foreign>
+    <choice><orig>S.ta</orig><reg type="spanish">Santa</reg></choice>
     <lb/>
-    Maria huanaca yoohini Caap a cocooni yoona en
+    Maria
+    <foreign xml:lang="zap">huanaca yoohini Caap a cocooni yoona en
     <lb/>
     Hua, quella xizaana, loo quella xizaana, echelo
     <lb/>
-    Hualoxi quella xizaana.
+    Hualoxi quella xizaana.</foreign>
     <lb/>
     Cree
     </foreign>
 
     <pb n="103"/>
-    <choice><orig>Crees q.e N.tro S.r Jesu Christo murio en el arbol de la</orig><reg type="spanish">¿Crees que Nuestro Señor Jesus Christo murió en el árbol de la</reg></choice>
+    Crees
+    <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
+      <choice><orig>N.tro</orig><reg type="spanish">Nuestro</reg></choice>
+      <choice><orig>S.r</orig><reg type="spanish">Señor</reg></choice>
+      Jesu Christo murio en el arbol de la</orig><reg type="spanish">¿Crees que Nuestro Señor Jesus Christo murió en el árbol de la</reg></choice>
     <lb/>
     <choice><orig>Cruz para redimir a todos nosotros pecadores?</orig><reg type="spanish">Cruz para redimir a todos nosotros pecadores?</reg></choice>
     <lb/>
@@ -3366,9 +3387,12 @@
     <lb/>
     lijtonoo benni huexijhui</foreign>
     <lb/>
-    <choice>
-    <orig>Crees q.e N.tro S.r Jesu Christo fue sepultado y q.e </orig><reg type="spanish">¿Crees que Nuestro Señor Jesus Christo fue sepultado y que</reg>
-    </choice>
+    <choice><orig>Crees</orig><reg type="spanish">¿Crees</reg></choice>
+      <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
+      <choice><orig>N.tro</orig><reg type="spanish">Nuestro</reg></choice>
+      <choice><orig>S.r</orig><reg type="spanish">Señor</reg></choice>
+      Jesu Christo fue sepultado y
+      <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
     <lb/>
     <choice>
     <orig>su anima SS.a junta con la Divinidad bajo a los</orig><reg type="spanish">su anima Santísima junta con la Divinidad bajó a los</reg>
@@ -3391,7 +3415,9 @@
     <lb/>
     nini</foreign>
     <lb/>
-    <choice><orig>Crees q.e N.to S.r Jesu Christo ã el tercero dia
+    Crees q.e N.to
+    <choice><orig>S.r</orig><reg type="spanish">Señor</reg></choice>
+    Jesu Christo ã el tercero dia
     <lb/>
     resucito de entre los muertos y pasados
     <choice><orig>quarenta dias</orig><reg type="spanish">cuarenta días</reg></choice>
@@ -3452,7 +3478,8 @@
     <lb/>
     Christo, asi como esta en el cielo?
     <lb/>
-    <foreign xml:lang="zap">Huarieelijlachilo quitoobi lachilo ni laani S.ta </foreign>
+    <foreign xml:lang="zap">Huarieelijlachilo quitoobi lachilo ni laani</foreign>
+      <choice><orig>S.ta</orig><reg type="spanish">Santa</reg></choice>
     <lb/>
     hostia <foreign xml:lang="zap"> nayoonaxij huaribeezani rpellalaati Be-
     <lb/>
@@ -3468,7 +3495,9 @@
     <choice><orig>aunq.e</orig><reg type="spanish">aunque</reg></choice>
      sea malo) se convier-
     <lb/>
-    te el pan en el cuerpo de <choice> <orig>N.tro</orig> <reg type="spanish">Nuestro</reg> </choice> <choice> <orig>S.r</orig> <reg type="spanish">Señor</reg> </choice>
+    te el pan en el cuerpo de
+    <choice><orig>N.tro</orig><reg type="spanish">Nuestro</reg></choice>
+    <choice><orig>S.r</orig><reg type="spanish">Señor</reg></choice>
     Jesu Christo, y el
     <lb/>
     vino en su sangre <choice> <orig>SS.a</orig> <reg type="spanish">Santisima</reg> </choice>?
@@ -3483,14 +3512,21 @@
     <lb/>
     la xibijxi reaacani loo xinni nayoona xtennini?</foreign>
     <lb/>
-    Crees que en <choice> <orig>N.tra</orig> <reg type="spanish">Nuestra</reg> </choice> <choice> <orig>S.ta</orig> <reg type="spanish">Santa</reg> </choice>
-    Madre Yglesia, por el Bautis-
+    Crees que en
+    <choice><orig>N.tra</orig><reg type="spanish">Nuestra</reg></choice>
+    <choice><orig>S.ta</orig><reg type="spanish">Santa</reg></choice>
+    Madre
+    <choice><orig>Yglesia</orig><reg type="spanish">Iglesia</reg></choice>,
+    por el Bautis-
     <lb/>
     mo y los otros Sacramentos, nos perdona Dios nues-
     <lb/>
     tros pecados, y nos da la gloria?
     <lb/>
-    <foreign xml:lang="zap">Huarieelijlachilo, niloo Xiñaana S.ta Yglesia nij-
+    <foreign xml:lang="zap">Huarieelijlachilo, niloo Xiñaana</foreign>
+      <choice><orig>S.ta</orig><reg type="spanish">Santa</reg></choice>
+      <choice><orig>Yglesia</orig><reg type="spanish">Iglesia</reg></choice>
+      <foreign xml:lang="zap">nij-
     <lb/>
     axtenni quella rinobaaniza chela Zeechag. eestos </foreign>
     <lb/>
@@ -3602,7 +3638,8 @@
     <lb/>
     </foreign>
 
-    ó Hijos míos: orad, llamado Dios <choice><orig>N.tro S.r</orig><reg type="spanish">Nuestro Señor</reg></choice>
+    ó Hijos míos: orad, llamado Dios
+    <choice><orig>N.tro S.r</orig><reg type="spanish">Nuestro Señor</reg></choice>
     para
     <choice><orig>q.e </orig><reg type="spanish">que</reg></choice>
     ayu-
@@ -3625,7 +3662,10 @@
     <pb n="106"/>
     <choice><orig>Hijo mio muy amado ya recivistes el S.to Sacramen
     <lb/>
-    to, del sagrado cuerpo de N.tro S.r Jesu Christo, y el s.to
+    to, del sagrado cuerpo de
+    <choice><orig>N.tro</orig><reg type="spanish">Nuestro</reg></choice>
+    <choice><orig>S.r</orig><reg type="spanish">Señor</reg></choice>
+    Jesu Christo, y el s.to
     <lb/>
     Sacramento de la <foreign xml:lang="lat">Extrema
     <choice><orig>Uncion</orig><reg type="spanish">Unción</reg></choice>
@@ -3667,7 +3707,9 @@
     <lb/>
     do su corazon. Amaras con todo tu corazon, y toda
     <lb/>
-    tu alma, a Dios N.tro S.r
+    tu alma, a Dios
+    <choice><orig>N.tro</orig><reg type="spanish">Nuestro</reg></choice>
+    <choice><orig>S.r</orig><reg type="spanish">Señor</reg></choice>
     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
     te creó
     <choice><orig>porq.e</orig><reg type="spanish">porque</reg></choice>
@@ -4303,9 +4345,11 @@
       <choice><orig>Yglesia</orig><reg type="spanish">Iglesia</reg></choice>
       ?
       <lb/>
-      N. <foreign xml:lang= 'zap'> huanacalachi cochaaganaalo loo N. rizoo bani-
+      N. <foreign xml:lang= 'zap'>huanacalachi cochaaganaalo loo N. rizoo bani-
       <lb/>
-      loolo cica xennapeea Xinaana </foreign> S.ta Yglesia?
+      loolo cica xennapeea Xinaana</foreign>
+      <choice><orig>S.ta</orig><reg type="spanish">Santa</reg></choice>
+      <choice><orig>Yglesia</orig><reg type="spanish">Iglesia</reg></choice>?
       <lb/>
       </div>
       <!-- levanto-arte 3.4.5 -->
@@ -4410,7 +4454,11 @@
     <lb/>
     Besuanana Jesu Christo? </foreign>
     <lb/>
-    Hijo mio N.tra Madre la S.ta Yglesia manda
+    Hijo mio
+    <choice><orig>N.tra</orig><reg type="spanish">Nuestra</reg></choice>
+    Madre la
+    <choice><orig>S.ta</orig><reg type="spanish">Santa</reg></choice>
+    <choice><orig>Yglesia</orig><reg type="spanish">Iglesia</reg></choice> manda
     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
     todo
     <lb/>
@@ -4563,7 +4611,9 @@
     <head type="outline">Primer Mandamiento</head>
     <head>Primer Mandamiento:</head>
     <lb/>
-    Has amado a Dios N.tro S.r? con todo tu corazon
+    Has amado a Dios
+    <choice><orig>N.tro</orig><reg type="spanish">Nuestro</reg></choice>
+    <choice><orig>S.r</orig><reg type="spanish">Señor</reg></choice>? con todo tu corazon
     <lb/>
     y toda tu alma?
     <lb/>
@@ -4581,7 +4631,12 @@
     <lb/>
     SS.ma Trinidad, y todas las palabras, y misterios de
     <lb/>
-    Dios Nuestro S.r como enseña N.tra S.ta M.e yglesia
+    Dios Nuestro
+    <choice><orig>S.r</orig><reg type="spanish">Señor</reg></choice>
+    como enseña
+    <choice><orig>N.tra</orig><reg type="spanish">Nuestra</reg></choice>
+    <choice><orig>S.ta</orig><reg type="spanish">Santa</reg></choice>
+    M.e <choice><orig>yglesia</orig><reg type="spanish">iglesia</reg></choice>
     <lb/>
     <foreign xml:lang="zap">Cuy?eelijlachil quitoobilachilo loo misterio xten]ni
     <lb/>
@@ -4589,32 +4644,44 @@
     <lb/>
     Misterios xtennini Besuanana Dios cicarozee]te
     <lb/>
-    xinñana S.ta yglesia?</foreign>
+    xinñana</foreign>
+    <choice><orig>S.ta</orig><reg type="spanish">Santa</reg></choice>
+    <choice><orig>yglesia</orig><reg type="spanish">iglesia</reg></choice>?
     <lb/>
     Verdaderamente Padre creo todas esas palabras
     <lb/>
-    y Misterios como enseña, y manda Dios, y la S.ta yglesia
+    y Misterios como enseña, y manda Dios, y la
+    <choice><orig>S.ta</orig><reg type="spanish">Santa</reg></choice>
+    <choice><orig>yglesia</orig><reg type="spanish">iglesia</reg></choice>
     <lb/>
     <foreign xml:lang="zap">Hualijca Bixooze huarieelijlachia quiraa ticha
     <lb/>
     quiraa Misterios quee cica rozeete chela renna]beea
     <lb/>
-    Bitoo Dios, chela S.ta yglesia</foreign>
+    Bitoo Dios, chela</foreign>
+    <choice><orig>S.ta</orig><reg type="spanish">Santa</reg></choice>
+    <choice><orig>yglesia</orig><reg type="spanish">iglesia</reg></choice>
     <lb/>
     Has dudado alguna vez si es verdad, o no, lo qu.e en]seña
     <lb/>
-    la S.ta Madre yglesia, o has negado algun Mis]terio
+    la
+    <choice><orig>S.ta</orig><reg type="spanish">Santa</reg></choice>
+    Madre <choice><orig>yglesia</orig><reg type="spanish">iglesia</reg></choice>,
+    o has negado algun Mis]terio
     <lb/>
     de fe?
     <foreign xml:lang="zap">Pigannalachilo xijtila liaaz tebela naconi ti]cha
     <lb/>
     lij laa yaca quella nalij ni nogozeeteni xiñaa
     <lb/>
-    St.a yglesia laa yaca colapilijlo xijti Misterios
+    <choice><orig>St.a</orig><reg type="spanish">Santa</reg></choice>
+    <choice><orig>yglesia</orig><reg type="spanish">iglesia</reg></choice>
+    laa yaca colapilijlo xijti Misterios
     <lb/>
     quella riellijlachi Dios?</foreign>
     <lb/>
-    No S.r nunca e dudado, sienyo che confesado la
+    No <choice><orig>S.r</orig><reg type="spanish">Señor</reg></choice>
+    nunca e dudado, sienyo che confesado la
     <lb/>
     fe de Dios dentro de ni corazon
     <lb/>
@@ -4724,7 +4791,9 @@
 	huarieegennalachilo guixee quixee xtenni Dios?
 	<lb/>
         <choice><orig>
-	Has llamado a Dios N.tro S.a quando has estado enfermo
+	Has llamado a Dios
+  <choice><orig>N.tro</orig><reg type="spanish">Nuestro</reg></choice>
+  S.a quando has estado enfermo
 	<lb/>
 	quando has padecido algul trabajo o’ pobreza?
 	</orig><reg type="spanish">
@@ -4798,7 +4867,7 @@
 	<lb/>
 
     <pb n="122"/>
-	Cotoobi xibaa renna beeani canachijlo toobicij Dios corzee
+	<foreign xml:lang="zap">Cotoobi xibaa renna beeani canachijlo toobicij Dios corzee
 	<lb/>
 	telo, gozooxijbilo connixij bitoolo Chela xijnachilo toobi-
 	<lb/>
@@ -4828,7 +4897,10 @@
 	<lb/>
 	ni SS. a Trinidad chela gocani niguijo cocani benni
 	<lb/>
-	ati lijoo lanni nataateete xtenni S.ta Maria cha
+	ati lijoo lanni nataateete xtenni</foreign>
+  <choice><orig>S.ta</orig><reg type="spanish">Santa</reg></choice>
+  Maria
+  <foreign xml:lang="zap">cha
 	<lb/>
 	pa cocooni yoona loo xquella chijna Dios Espiritu S.to
 	<lb/>
@@ -4850,7 +4922,7 @@
 	<lb/>
 	zalo xilla xtenni Dios, huanee gonnilo toobitolla-
 	<lb/>
-	xoo.
+	xoo.</foreign>
 	<lb/>
 
     </div>
@@ -4861,15 +4933,20 @@
     <lb/>
     Has jurado en vano el S.to Nombre de Dios Ntro
     <lb/>
-	S.r o’ de la siempre Virgen Maria o’ por la senal
+	<choice><orig>S.r</orig><reg type="spanish">Señor</reg></choice>
+  o’ de la siempre Virgen Maria o’ por la senal
 	<lb/>
-	de la S.ta Cruz o’ por algun Sto o’ po la vida de los hom
+	de la
+  <choice><orig>S.ta</orig><reg type="spanish">Santa</reg></choice>
+  Cruz o’ por algun Sto o’ po la vida de los hom
 	<lb/>
 	bres?
 	<lb/>
 	Pezeetexijhuilo laa nachoono xtenni Besuanana
 	<lb/>
-	Dios laa xtenni Zelipe chaapa cocooni S.ta Maria
+	Dios laa xtenni Zelipe chaapa cocooni
+  <choice><orig>S.ta</orig><reg type="spanish">Santa</reg></choice>
+  Maria
 	<lb/>
 	la=
 	<lb/>
@@ -4903,18 +4980,32 @@
 	<lb/>
 	Aquij zaaca?
 	<lb/>
-    <choice><orig>Ha de saver hijo mio q.e es muy necerario para q.e</orig>
-    <reg type="spanish">Ha de saber hijo mío que es muy necesario para que</reg></choice>
+    Ha de <choice><orig>saver</orig>
+    <reg type="spanish">saber</reg></choice> hijo
+    <choice><orig>mio</orig>
+    <reg type="spanish">mío</reg></choice>
+    <choice><orig>q.e</orig>
+    <reg type="spanish">que</reg></choice> es muy
+    <choice><orig>necerario</orig>
+    <reg type="spanish">necesario</reg></choice> para
+    <choice><orig>q.e</orig>
+    <reg type="spanish">que</reg></choice>
     el ju-
 	<lb/>
-	ramento sea bueno o para jurar bien el <choice><orig>S.to Nombre </lb> de Dios N.tro S.r q.e</orig><reg type="spanish">Santo Nombre <lb/> de Dios Nuestro Salvador que</reg></choice>
+	ramento sea bueno o para jurar bien el
+  <choice><orig>S.to</orig><reg type="spanish">Santo</reg></choice> Nombre
+</lb>
+de Dios
+  <choice><orig>N.tro S.r q.e</orig><reg type="spanish">Nuestro Señor que</reg></choice>
     se jure con verdad con justicia y con ne
 	<lb/>
 	cesidad
     <choice><orig>porq.e</orig><reg type="spanish">porque</reg></choice>
     sino sera pecadoel jarer el S.to Nombre
 	<lb/>
-	de Dios N.tro S.r
+	de Dios
+  <choice><orig>N.tro</orig><reg type="spanish">Nuestro</reg></choice>
+  <choice><orig>S.r</orig><reg type="spanish">Señor</reg></choice>
 	<lb/>
 	Quiennilo xinni xtennia ninacani naquijnateete-
 	<lb/>
@@ -5137,7 +5228,9 @@
 	<lb/>
 	nnilo chela benni hualichilo?
 	<lb/>
-	Amas a tu consorte como Dios N.tro S.r manda?
+	Amas a tu consorte como Dios
+  <choice><orig>N.tro</orig><reg type="spanish">Nuestro</reg></choice>
+  <choice><orig>S.r</orig><reg type="spanish">Señor</reg></choice> manda?
 	<lb/>
 	Huaranachij lechelalo cica Besuanana Dios?
 	<lb/>
@@ -5216,7 +5309,9 @@
 	<lb/>
 	testamento para
     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
-    Dios N.tro S.r sague sus almas
+    Dios
+    <choice><orig>N.tro</orig><reg type="spanish">Nuestro</reg></choice>
+    <choice><orig>S.r</orig><reg type="spanish">Señor</reg></choice> sague sus almas
 	<lb/>
 	del purgatorio?
 	<lb/>
