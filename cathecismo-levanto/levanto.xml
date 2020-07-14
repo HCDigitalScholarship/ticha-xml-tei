@@ -5331,7 +5331,6 @@
           <fw type="catchword" place="bottom-right">
             Ni
           </fw>
-          <!-- Avery Aghazarian's section -->
           <pb n="51"/>
           Ni zoochabui quiaà quiiebaa,
           <lb/>
@@ -5339,11 +5338,11 @@
           <lb/>
         </div>
         <div xml:id="levanto4.2.4">
-          <head type="outline">Mysterio Tercero. De la Coronacion de Espinas.</head>
+          <head type="outline"><choice><orig>Mysterio</orig><reg type="spanish">Misterio</reg></choice> Tercero. De la <choice><orig>Coronacion</orig><reg type="spanish">Coronación</reg></choice> de Espinas.</head>
           <head type="levanto" xml:lang="esp" rend="center italics">
-            MYSTERIO TERCERO.
+            <choice><orig>MYSTERIO</orig><reg type="spanish">MISTERIO</reg></choice> TERCERO.
             <lb/>
-            De la Coronacion de Eſpinas.
+            De la <choice><orig>Coronacion</orig><reg type="spanish">Coronación</reg></choice> de <choice><orig>Eſpinas</orig><reg type="spanish">Espinas</reg></choice>.
             <lb/>
           </head>
           Laapa quiiechiichi, quiie caachi,
@@ -5368,11 +5367,11 @@
           <lb/>
         </div>
         <div xml:id="levanto4.2.5">
-          <head type="outline">Mysterio Quarto. De la Cruz ácuetas.</head>
+          <head type="outline"><choice><orig>Mysterio</orig><reg type="spanish">Misterio</reg></choice> <choice><orig>Quarto</orig><reg type="spanish">Cuarto</reg></choice>. De la Cruz ácuestas.</head>
           <head type="levanto" xml:lang="esp" rend="center italics">
-            MYSTERIO QUARTO.
+            <choice><orig>MYSTERIO</orig><reg type="spanish">MISTERIO</reg></choice> <choice><orig>QUARTO</orig><reg type="spanish">CUARTO</reg></choice>.
             <lb/>
-            De la Cruz ácueſtas.
+            De la Cruz <choice><orig>ácueſtas</orig><reg type="spanish">ácuestas</reg></choice>.
             <lb/>
           </head>
           Alaarii: zeeta loo neeza
@@ -5393,11 +5392,11 @@
           <lb/>
         </div>
         <div xml:id="levanto4.2.6">
-          <head type="outline">Mysterio Quinto. De la Crucifixion del Señor.</head>
+          <head type="outline"><choice><orig>Mysterio</orig><reg type="spanish">Misterio</reg></choice> Quinto. De la <choice><orig>Crucifixion</orig><reg type="spanish">Crucifixión</reg></choice> del Señor.</head>
           <head type="levanto" xml:lang="esp" rend="center italics">
-            MYSTERIO QUINTO.
+            <choice><orig>MYSTERIO</orig><reg type="spanish">MISTERIO</reg></choice> QUINTO.
             <lb/>
-            De la Crucifixion del Señor.
+            De la <choice><orig>Crucifixion</orig><reg type="spanish">Crucifixión</reg></choice> del Señor.
             <lb/>
           </head>
           <fw type="catchword" place="bottom-right">
