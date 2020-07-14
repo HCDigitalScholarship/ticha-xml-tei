@@ -5263,14 +5263,13 @@
           </hi>
         </fw>
         <lb/>
-        <!-- James Truitt's section -->
         <pb n="50"/>
         <div xml:id="levanto4.2.1">
-          <head type="outline">Deprecacion a la Santissima Virgen.</head>
+          <head type="outline"><choice><orig>Deprecacion</orig><reg type="spanish">Deprecación</reg></choice> a la <choice><orig>Santissima</orig><reg type="spanish">Santísima</reg></choice> Virgen.</head>
           <head type="levanto" xml:lang="esp" rend="center italics">
-            DEPRECACION
+            <choice><orig>DEPRECACION</orig><reg type="spanish">DEPRECACIÓN</reg></choice>
             <lb/>
-            A LA SANTISSIMA VIRGEN.
+            A LA <choice><orig>SANTISSIMA</orig><reg type="spanish">SANTÍSIMA</reg></choice> VIRGEN.
             <lb/>
           </head>
           CHanna Xonnaxi quiieba,
@@ -5286,9 +5285,9 @@
         </div>
         <!-- levanto4.2.1 -->
         <div xml:id="levanto4.2.2">
-          <head type="outline">Mysterio Primero. La Oracion del Huerto.</head>
+          <head type="outline"><choice><orig>Mysterio</orig><reg type="spanish">Misterio</reg></choice> Primero. La <choice><orig>Oracion</orig><reg type="spanish">Oración</reg></choice> del Huerto.</head>
           <head type="levanto" xml:lang="esp" rend="center italics">
-            La Oracion del Huerto.
+            La <choice><orig>Oracion</orig><reg type="spanish">Oración</reg></choice> del Huerto.
             <lb/>
           </head>
           COlooxe cotaago xchiini,
@@ -5303,17 +5302,17 @@
           <lb/>
           Chiiquee loo xguere piniini
           <lb/>
-          Xi Rinni <choice><orig>Jeſus</orig><reg type="spanish">Jesus</reg></choice> pixiini,
+          Xi Rinni <foreign xml:lang="esp"><choice><orig>Jeſus</orig><reg type="spanish">Jesús</reg></choice></foriegn> pixiini,
           <lb/>
           Ciica niça loona looni.
           <lb/>
         </div>
         <div xml:id="levanto4.2.3">
-          <head type="outline">Mysterio Segundo. De los Azotes ȃ la Columna.</head>
+          <head type="outline"><choice><orig>Mysterio</orig><reg type="spanish">Misterio</reg></choice> Segundo. De los Azotes <choice><orig>ȃ</orig><reg type="spanish">a</reg></choice> la Columna.</head>
           <head type="levanto" xml:lang="esp" rend="center italics">
-            MYSTERIO SEGUNDO.
+            <choice><orig>MYSTERIO</orig><reg type="spanish">MISTERIO</reg></choice> SEGUNDO.
             <lb/>
-            De los Azotes â la Columna.
+            De los Azotes <choice><orig>â</orig><reg type="spanish">a</reg></choice> la Columna.
             <lb/>
           </head>
           COroopa ticha rizaa,
@@ -5331,7 +5330,6 @@
           <fw type="catchword" place="bottom-right">
             Ni
           </fw>
-          <!-- Avery Aghazarian's section -->
           <pb n="51"/>
           Ni zoochabui quiaà quiiebaa,
           <lb/>
@@ -5339,11 +5337,11 @@
           <lb/>
         </div>
         <div xml:id="levanto4.2.4">
-          <head type="outline">Mysterio Tercero. De la Coronacion de Espinas.</head>
+          <head type="outline"><choice><orig>Mysterio</orig><reg type="spanish">Misterio</reg></choice> Tercero. De la <choice><orig>Coronacion</orig><reg type="spanish">Coronación</reg></choice> de Espinas.</head>
           <head type="levanto" xml:lang="esp" rend="center italics">
-            MYSTERIO TERCERO.
+            <choice><orig>MYSTERIO</orig><reg type="spanish">MISTERIO</reg></choice> TERCERO.
             <lb/>
-            De la Coronacion de Eſpinas.
+            De la <choice><orig>Coronacion</orig><reg type="spanish">Coronación</reg></choice> de <choice><orig>Eſpinas</orig><reg type="spanish">Espinas</reg></choice>.
             <lb/>
           </head>
           Laapa quiiechiichi, quiie caachi,
@@ -5368,11 +5366,11 @@
           <lb/>
         </div>
         <div xml:id="levanto4.2.5">
-          <head type="outline">Mysterio Quarto. De la Cruz ácuetas.</head>
+          <head type="outline"><choice><orig>Mysterio</orig><reg type="spanish">Misterio</reg></choice> <choice><orig>Quarto</orig><reg type="spanish">Cuarto</reg></choice>. De la Cruz ácuestas.</head>
           <head type="levanto" xml:lang="esp" rend="center italics">
-            MYSTERIO QUARTO.
+            <choice><orig>MYSTERIO</orig><reg type="spanish">MISTERIO</reg></choice> <choice><orig>QUARTO</orig><reg type="spanish">CUARTO</reg></choice>.
             <lb/>
-            De la Cruz ácueſtas.
+            De la Cruz <choice><orig>ácueſtas</orig><reg type="spanish">ácuestas</reg></choice>.
             <lb/>
           </head>
           Alaarii: zeeta loo neeza
@@ -5393,11 +5391,11 @@
           <lb/>
         </div>
         <div xml:id="levanto4.2.6">
-          <head type="outline">Mysterio Quinto. De la Crucifixion del Señor.</head>
+          <head type="outline"><choice><orig>Mysterio</orig><reg type="spanish">Misterio</reg></choice> Quinto. De la <choice><orig>Crucifixion</orig><reg type="spanish">Crucifixión</reg></choice> del Señor.</head>
           <head type="levanto" xml:lang="esp" rend="center italics">
-            MYSTERIO QUINTO.
+            <choice><orig>MYSTERIO</orig><reg type="spanish">MISTERIO</reg></choice> QUINTO.
             <lb/>
-            De la Crucifixion del Señor.
+            De la <choice><orig>Crucifixion</orig><reg type="spanish">Crucifixión</reg></choice> del Señor.
             <lb/>
           </head>
           <fw type="catchword" place="bottom-right">
@@ -5405,7 +5403,6 @@
             <pc type="hyphen">-</pc>
           </fw>
           <lb/>
-          <!-- James Faville's section -->
           <pb n="52"/>
           CAnnato huechaagayaha
           <lb/>
@@ -5425,9 +5422,9 @@
           <lb/>
         </div>
         <div xml:id="levanto4.2.7">
-          <head type="outline">Deprecacion a la Virgen Nuestra Señora.</head>
+          <head type="outline"><choice><orig>Deprecacion</orig><reg type="spanish">Deprecación</reg></choice> a la Virgen Nuestra Señora.</head>
           <head type="levanto" xml:lang="esp" rend="center italics">
-            Deprecacion â la Virgen <choice><orig>Nueſtra</orig><reg type="spanish">Nuestra</reg></choice> Señora.
+            <choice><orig>Deprecacion</orig><reg type="spanish">Deprecación</reg></choice> <choice><orig>â</orig><reg type="spanish">a</reg></choice> la Virgen <choice><orig>Nueſtra</orig><reg type="spanish">Nuestra</reg></choice> Señora.
             <lb/>
           </head>
           COoyo <choice><orig>Myſterios</orig><reg type="spanish">Misterios</reg></choice> nabaana
@@ -5440,21 +5437,21 @@
           <lb/>
           Gaca ciiga ciica Amen:
           <lb/>
-          Jesvs, Maria, y Joſeph.
+          <foreign xml:lang="esp"><choice><orig>Jesvs</orig><reg type="spanish">Jesús</reg></choice>, <choice><orig>Maria</orig><reg type="spanish">María</reg></choice>, y <choice><orig>Joſeph</orig><reg type="spanish">José</reg></choice></foreign>.
           <lb/>
         </div>
       </div>
       <!-- levanto4.2 -->
       <div xml:id="levanto4.3">
-        <head type="outline">Mysterios Gloriosos.</head>
+        <head type="outline"><choice><orig>Mysterios</orig><reg type="spanish">Misterios</reg></choice> Gloriosos.</head>
         <head type="levanto" xml:lang="esp" rend="center">
-          MYSTERIOS GLORIOSOS.
+          <choice><orig>MYSTERIOS</orig><reg type="spanish">MISTERIOS</reg></choice> GLORIOSOS.
           <lb/>
         </head>
         <div xml:id="levanto4.3.1">
-          <head type="outline">Deprecacion ȃ la Santissima Virgen.</head>
+          <head type="outline"><choice><orig>Deprecacion</orig><reg type="spanish">Deprecación</reg></choice> <choice><orig>ȃ</orig><reg type="spanish">a</reg></choice> la <choice><orig>Santissima</orig><reg type="spanish">Santísima</reg></choice> Virgen.</head>
           <head type="levanto" xml:lang="esp" rend="center italics">
-            Deprecacion â la Santiſsima Virgen.
+            <choice><orig>Deprecacion</orig><reg type="spanish">Deprecación</reg></choice> <choice><orig>â</orig><reg type="spanish">a</reg></choice> la <choice><orig>Santiſsima</orig><reg type="spanish">Santísima</reg></choice> Virgen.
           </head>
           XIñaalii quellanayaanii,
           <lb/>
@@ -5469,17 +5466,16 @@
           <lb/>
         </div>
         <div xml:id="levanto4.3.2">
-          <head type="outline">Mysterio Primero. Del la Resurreccion de Christo.</head>
+          <head type="outline"><choice><orig>Mysterio</orig><reg type="spanish">Misterio</reg></choice> Primero. Del la <choice><orig>Resurreccion</orig><reg type="spanish">Resurrección</reg></choice> de <choice><orig>Christo</orig><reg type="spanish">Cristo</reg></choice>.</head>
           <head type="levanto" xml:lang="esp" rend="center italics">
-            MYSTERIO PRIMERO.
+            <choice><orig>MYSTERIO</orig><reg type="spanish">MISTERIO</reg></choice> PRIMERO.
             <lb/>
-            De la Reſurreccion de <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice>.
+            De la <choice><orig>Reſurreccion</orig><reg type="spanish">Resurrección</reg></choice> de <choice><orig>Chriſto</orig><reg type="spanish">Cristo</reg></choice>.
           </head>
           <fw type="catchword" place="bottom-right">
             Guee
             <pc type="hyphen">-</pc>
           </fw>
-          <!-- Claire Benham's section -->
           <pb n="53"/>
           Gueella xiińe huabizoo,
           <lb/>
@@ -5499,11 +5495,11 @@
           <lb/>
         </div>
         <div xml:id="levanto4.3.3">
-          <head type="outline">Mysterio Segundo. De la Ascension de Christo á los Cielos.</head>
+          <head type="outline"><choice><orig>Mysterio</orig><reg type="spanish">Misterio</reg></choice> Segundo. De la <choice><orig>Ascension</orig><reg type="spanish">Ascensión</reg></choice> de <choice><orig>Christo</orig><reg type="spanish">Cristo</reg></choice> á los Cielos.</head>
           <head type="levanto" xml:lang="esp" rend="center italics">
-            MYSTERIO SEGUNDO.
+            <choice><orig>MYSTERIO</orig><reg type="spanish">MISTERIO</reg></choice> SEGUNDO.
             <lb/>
-            De la Aſcenſion de <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice> à los Cielos.
+            De la <choice><orig>Aſcenſion</orig><reg type="spanish">Ascensión</reg></choice> de <choice><orig>Chriſto</orig><reg type="spanish">Cristo</reg></choice> à los Cielos.
             <lb/>
           </head>
           Huayaca quellahuellaa,
@@ -5516,7 +5512,7 @@
           <lb/>
           Loo Xiñaani coniixeela
           <lb/>
-          <foreign xml:lang="esp">Apoſtoles</foreign>
+          <foreign xml:lang="esp"><choice><orig>Apoſtoles</orig><reg type="spanish">Apóstoles</reg></choice></foreign>
           zoobańeeni,
           <lb/>
           Chiiquee
