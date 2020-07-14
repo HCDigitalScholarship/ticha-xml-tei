@@ -5138,14 +5138,13 @@
             <pc type="hyphen">-</pc>
           </foreign>
         </fw>
-        <!-- Claire Benham's section -->
         <pb n="48"/>
         <div xml:id="levanto4.1.5">
-          <head type="outline">Mysterio Quarto. De la Presentacion en el Templo.</head>
+          <head type="outline"><choice><orig>Mysterio</orig><reg type="spanish">Misterio</reg></choice> <choice><orig>Quarto</orig><reg type="spanish">Cuarto</reg></choice>. De la <choice><orig>Presentacion</orig><reg type="spanish">Presentación</reg></choice> en el Templo.</head>
           <head type="levanto" xml:lang="esp" rend="center italics">
-            MYSTERIO QUARTO
+            <choice><orig>MYSTERIO</orig><reg type="spanish">MISTERIO</reg></choice> <choice><orig>QUARTO</orig><reg type="spanish">CUARTO</reg></choice>
             <lb/>
-            De la Preſentacion en el Templo.
+            De la <choice><orig>Preſentacion</orig><reg type="spanish">Presentación</reg></choice> en el Templo.
             <lb/>
           </head>
           Huateete corua chii,
@@ -5166,22 +5165,22 @@
           <lb/>
         </div>
         <div xml:id="levanto4.1.6">
-          <head type="outline">Mysterio Quinto. Del Niño Perdido, y Hallado.</head>
+          <head type="outline"><choice><orig>Mysterio</orig><reg type="spanish">Misterio</reg></choice> Quinto. Del Niño Perdido, y Hallado.</head>
           <head type="levanto" xml:lang="esp" rend="center italics">
-            MYSTERIO QUINTO.
+            <choice><orig>MYSTERIO</orig><reg type="spanish">MISTERIO</reg></choice> QUINTO.
             <lb/>
             Del Niño Perdido, y Hallado.
             <lb/>
           </head>
           Cooyo
-          <foreign xml:lang="esp">Myſterio</foreign>
+          <foreign xml:lang="esp"><choice><orig>Myſterio</orig><reg type="spanish">Misterio</reg></choice></foreign>
           rennaani:
           <lb/>
           Ciica pecaachi Cubiicha,
           <lb/>
           Yacà quieennitii, cahuiicha
           <lb/>
-          <foreign xml:lang="esp">Jesvs</foreign>
+          <foreign xml:lang="esp"><choice><orig>Jesvs</orig><reg type="spanish">Jesús</reg></choice></foreign>
           riquiille Xiñaani.
           <lb/>
           Pezaacalachi Xonaaxi,
@@ -5194,11 +5193,11 @@
           <lb/>
         </div>
         <div xml:id="levanto4.1.7">
-          <head type="outline">Deprecacion a la Santissma Virgen.</head>
+          <head type="outline"><choice><orig>Deprecacion</orig><reg type="spanish">Deprecación</reg></choice> a la <choice><orig>Santissima</orig><reg type="spanish">Santísima</reg></choice> Virgen.</head>
           <head type="levanto" xml:lang="esp" rend="center italics">
-            DEPRECACION
+            <choice><orig>DEPRECACION</orig><reg type="spanish">DEPRECACIÓN</reg></choice>
             <lb/>
-            A LA SANTISSIMA VIRGEN.
+            A LA <choice><orig>SANTISSIMA</orig><reg type="spanish">SANTÍSIMA</reg></choice> VIRGEN.
             <lb/>
           </head>
           Coo
