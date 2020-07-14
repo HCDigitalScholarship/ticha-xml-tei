@@ -5547,7 +5547,6 @@
             Hua
             <pc type="hyphen">-</pc>
           </fw>
-          <!-- Tristan Pepin's section -->
           <pb n="54"/>
           Huazoobeeza xinachiini
           <lb/>
@@ -5559,9 +5558,9 @@
           <lb/>
         </div>
         <div xml:id="levanto4.3.5">
-          <head type="outline">Mysterio Quarto. De la Assumpcion de Nuestra Señora.</head>
+          <head type="outline"><choice><orig>Mysterio</orig><reg type="spanish">Misterio</reg></choice> Quarto. De la Assumpcion de Nuestra Señora.</head>
           <head type="levanto" xml:lang="esp" rend="center italics">
-            MYSTERIO QUARTO.
+            <choice><orig>MYSTERIO</orig><reg type="spanish">MISTERIO</reg></choice> QUARTO.
             <lb/>
             De la Aſſumpcion de <choice><orig>Nueſtra</orig><reg type="spanish">Nuestra</reg></choice> Señora.
             <lb/>
@@ -5584,9 +5583,9 @@
           <lb/>
         </div>
         <div xml:id="levanto4.3.6">
-          <head type="outline">Mysterio Quinto. De la Coronacion de Nuestra Señora.</head>
+          <head type="outline"><choice><orig>Mysterio</orig><reg type="spanish">Misterio</reg></choice> Quinto. De la Coronacion de Nuestra Señora.</head>
           <head type="levanto" xml:lang="esp" rend="center italics">
-            MYSTERIO QUINTO.
+            <choice><orig>MYSTERIO</orig><reg type="spanish">MISTERIO</reg></choice> QUINTO.
             <lb/>
             De la Coronacion de <choice><orig>Nueſtra</orig><reg type="spanish">Nuestra</reg></choice> Señora.
             <lb/>
@@ -5630,7 +5629,7 @@
           <foreign xml:lang="esp">
             Amen.
             <lb/>
-            Jesvs, Maria, y <choice><orig>Joſeph</orig><reg type="spanish">José</reg></choice>
+            <choice><orig>Jesvs</orig><reg type="spanish">Jesús</reg></choice>, <choice><orig>Maria</orig><reg type="spanish">María</reg></choice>, y <choice><orig>Joſeph</orig><reg type="spanish">José</reg></choice>
           </foreign>
           .
           <foreign xml:lang="esp" rend="italic">
