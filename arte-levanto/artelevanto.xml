@@ -584,7 +584,8 @@
     <foreign xml:lang='zap'>qui<foreign> y en <foreign xml:lang='zap'>ca</foreign>. Los de la=
 
     <pb n="11"/>
-    Los de la quarta el presente en
+    Los de la
+    <choice><orig>quarta</orig><reg type="spanish">cuarta</reg></choice> el presente en
     <foreign xml:lang='zap'>to</foreign> el preterio en
     <foreign xml:lang='zap'>pe</foreign> y futu-
     <lb/>
@@ -641,7 +642,8 @@
     <lb/>
     <foreign xml:lang='zap'>Raacañeeni</foreign>=aquel ayuda.=<foreign xml:lang='zap'>Raacañeeni</foreign> aquellos ayudan.
     <lb/>
-    Preter.to <foreign xml:lang='zap'>Coocañeea</foreign>=yo ayude=<foreign xml:lang='zap'>Coocañeetonoo</foreign>=nosotros ayudamos.
+    Preter.to
+    <foreign xml:lang='zap'>Coocañeea</foreign>=yo ayude=<foreign xml:lang='zap'>Coocañeetonoo</foreign>=nosotros ayudamos.
     <lb/>
     <foreign xml:lang='zap'>Coocañeelo</foreign>=tu ayudaste=<foreign xml:lang='zap'>Coocañeeto</foreign>=vosotros ayudais.
     Adviertase;
@@ -667,17 +669,22 @@
     <choice><orig>demas</orig><reg type="spanish">demás</reg></choice>
     conjugaciones, redira en cada una.
     <lb/>
-    Futuro: <foreign xml:lang="zap">Caacañeea</foreign> -yo ayudare <foreign xml:lang="zap">Caacañeetonoo</foreign>-nosotros ayudaremos
+    Futuro: <foreign xml:lang="zap">Caacañeea</foreign> -yo ayudare
+    <foreign xml:lang="zap">Caacañeetonoo</foreign>-nosotros ayudaremos
     <lb/>
-    <foreign xml:lang="zap">Caacañeelo</foreign>- tu ayudaras <foreign xml:lang="zap">Caacañeeto</foreign>- vosotros ayudareis.
+    <foreign xml:lang="zap">Caacañeelo</foreign>- tu ayudaras
+    <foreign xml:lang="zap">Caacañeeto</foreign>- vosotros ayudareis.
     <lb/>
-    <foreign xml:lang="zap">Caacañeeni</foreign>- aquel ayudara <foreign xml:lang="zap">Coaacañeni</foreign>- aquellos ayudaran
+    <foreign xml:lang="zap">Caacañeeni</foreign>- aquel ayudara
+    <foreign xml:lang="zap">Coaacañeni</foreign>- aquellos ayudaran
     <lb/>
-    <choice><orig>Advierta se aqui, q.e aunq.e</orig><reg type="spanish">Adviértase aquí, que aunque</reg></choice>
-    el futuro de la primera Conju-
-    <lb/>
-    <choice><orig>gacion</orig><reg type="spanish">gación</reg></choice>
-    comienza escrito con C. pero al hablarlo se pro-
+    <choice><orig>Advierta se</orig><reg type="spanish">Adviértase</reg></choice>
+    <choice><orig>aqui</orig><reg type="spanish">aquí</reg></choice>,
+    <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
+    <choice><orig>aunq.e</orig><reg type="spanish">aunque</reg></choice>
+    el futuro de la primera
+    <choice><orig>Conju-<lb/>gacion</orig><reg type="spanish">Conju-<lb/>gación</reg></choice>
+    comienza escrito con <foreign xml:lang="zap">C</foreign>. pero al hablarlo se pro-
     <lb/>
     nuncia :<foreign xml:lang="lat">V.g.</foreign> <foreign xml:lang="zap">Gaacañeea</foreign> yo ayudare: <foreign xml:lang="zap">Gaayoya</foreign> yo comé
     <lb/>
@@ -701,27 +708,33 @@
     <choice><orig>tambien</orig><reg type="spanish">también</reg></choice>
     se suplen por el futuro las prime-
     <lb/>
-    ras del plural, <foreign xml:lang="zap">Colacaacañeetonoo</foreign>, ayudemos nosotros.
+    ras del plural,
+    <foreign xml:lang="zap">Colacaacañeetonoo</foreign>, ayudemos nosotros.
     <lb/>
     <div xml:id='levanto-arte1.3.1.1'>
     <head type='outline'> Modo Subjunctivo Presente</head>
     <head>Modo Subjuntivo y Obtativo Presente.</head>
     <lb/>
-    <foreign xml:lang="zap">Caacañeeca</foreign>= yo ayude------- <foreign xml:lang="zap">Caacaneeetonoo</foreign> - nosotros ayudemos
+    <foreign xml:lang="zap">Caacañeeca</foreign>= yo ayude-------
+    <foreign xml:lang="zap">Caacaneeetonoo</foreign> - nosotros ayudemos
     <lb/>
-    <foreign xml:lang="zap">Caacaneeelo</foreign> __ tu ayudes---- <foreign xml:lang="zap">Caacañeeto</foreign>--- vosotros ayudeis
+    <foreign xml:lang="zap">Caacaneeelo</foreign> __ tu ayudes----
+    <foreign xml:lang="zap">Caacañeeto</foreign>--- vosotros ayudeis
     <lb/>
-    <foreign xml:lang="zap">Caacañeeni</foreign>--aquelayude__<foreign xml:lang="zap">Caacañeeni</foreign>-aquellos ayuden===
+    <foreign xml:lang="zap">Caacañeeni</foreign>--aquelayude__
+    <foreign xml:lang="zap">Caacañeeni</foreign>-aquellos ayuden===
     <lb/>
 
     <head type='outline'> Obtativo </head>
     <head>Obtativo</head>
     <lb/>
-    <foreign xml:lang="zap">Hani cacaneea</foreign>__ O si yo ayude__ <foreign xml:lang="zap">Hate bela cacañeea</foreign> __ O si yo
+    <foreign xml:lang="zap">Hani cacaneea</foreign>__ O si yo ayude__
+    <foreign xml:lang="zap">Hate bela cacañeea</foreign> __ O si yo
     <lb/>
     ayude. Este tiempo se forma de mismo futuro imperfecto
     <lb/>
-    anteponiendole una de estas dos particulas <foreign xml:lang="zap">hani hatibela</foreign>.
+    anteponiendole una de estas dos particulas
+    <foreign xml:lang="zap">hani hatibela</foreign>.
     <lb/>
     </div>
     <!--levanto-arte 1.3.1.1_-->
@@ -733,11 +746,14 @@
     <lb/>
     das la conjugaciones, se forma del presente de indicativo
     <lb/>
-    quitando a la primera persona la t, o' x, y poniendole la par-
+    quitando a la primera persona la <foreign xml:lang="zap">t</foreign>, <choice><orig>o'</orig><reg type="spanish">o</reg></choice>
+    <foreign xml:lang="zap">x</foreign>, y poniendole la par-
     <pb n="13"/>
-    <choice><orig> ticula ni; y asi de</orig>
-    <reg type="spanish"> tícula ni; y así de</reg></choice>
-    <foreign xml:lang="zap">raacaneea</foreign>, yo ayudo; se dira, <foreign xml:lang="zap">niacaneea</foreign>
+    <choice><orig>ticula</orig><reg type="spanish">tícula</reg></choice>
+    <foreign xml:lang="zap">ni</foreign>; y
+    <choice><orig>asi</orig><reg type="spanish">así</reg></choice>
+    de <foreign xml:lang="zap">raacaneea</foreign>,
+    yo ayudo; se dira, <foreign xml:lang="zap">niacaneea</foreign>
     <lb/>
 	yo ayudara;
     <choice><orig>o ayudaria: y asi en las demas</orig><reg type="spanish">o ayudaría: y así en las demás</reg></choice>
@@ -757,7 +773,9 @@
 	<lb/>
 	biar dira:<foreign xml:lang="zap">Niechelaya</foreign> 		yo embiara embiaria y embiase
 	<lb/>
-    <choice><orig>Exemplo para la quarta Conjugacion</orig><reg type="spanish">Ejemplo para la cuarta Conjugación</reg></choice>
+    <choice><orig>Exemplo</orig><reg type="spanish">Ejemplo</reg></choice> para la
+    <choice><orig>quarta</orig><reg type="spanish">cuarta</reg></choice>
+    <choice><orig>Conjugacion</orig><reg type="spanish">Conjugación</reg></choice>
     de <foreign xml:lang="zap">Ronia</foreign> por hacer
 	<lb/>
 	se forma <foreign xml:lang="zap">Nionia</foreign>	yo hiciera haria y hicierse.
@@ -774,7 +792,8 @@
 	<lb/>
 	Este tiempo es el mismo imperfecto de subjuntivo ante-
 	<lb/>
-	poniendole solamente esta letra A, o’ esta particula
+	poniendole solamente esta letra <foreign xml:lang="zap">A</foreign>,
+  <choice><orig>o’</orig><reg type="spanish">o</reg></choice> esta particula
 	<lb/>
 	<foreign xml:lang="zap">Hatebela</foreign>.
 	<lb/>
@@ -782,14 +801,18 @@
     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
     esta particula <foreign xml:lang="zap">Niaca</foreign> pospuesta ā este
 	<lb/>
-	preterito imperfecto, y quitadas las letras o’ particulas
+	preterito imperfecto, y quitadas las letras
+  <choice><orig>o’</orig><reg type="spanish">o</reg></choice> particulas
 	<lb/>
-	A, o’ <foreign xml:lang="zap">Hatebela</foreign> des haze y niega toda la
+	<foreign xml:lang="zap">A</foreign>,
+  <choice><orig>o’</orig><reg type="spanish">o</reg></choice>
+  <foreign xml:lang="zap">Hatebela</foreign> des haze y niega toda la
     <choice><orig>accion</orig><reg type="spanish">acción</reg></choice>
     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
     signi-
 	<lb/>
-	fica. V.g. <foreign xml:lang="zap">Niaacañee niaca</foreign> habia de ayudar, y no
+	fica. <foreign xml:lang="lat">V.g.</foreign>
+  <foreign xml:lang="zap">Niaacañee niaca</foreign> habia de ayudar, y no
 	<lb/>
 	ayude, <foreign xml:lang="zap">Niagoya niaca</foreign> habia de comer y no comii
 	<lb/>
@@ -885,7 +908,8 @@
     <lb/>
     V.g. Zeelehue caneea vengo ayudar- Zeelehueca-
     <lb/>
-    neelo , vienes ayudar. Tambien esta
+    neelo , vienes ayudar. <choice><orig>Tambien</orig><reg type="spanish">También</reg></choice>
+     esta
     <choice><orig>formacion</orig><reg type="spanish">formación</reg></choice>
     en el
     <lb/>
@@ -1034,7 +1058,8 @@
     vimiento y asistencia; y se forma on esta primera Con-
     <lb/>
     <choice><orig>jugacion</orig><reg type="spanish">jugación</reg></choice>
-    asi en los verbos regulares como irregula-
+    <choice><orig>asi</orig><reg type="spanish">así</reg></choice>
+    en los verbos regulares como irregula-
     <lb/>
     res del Presente de indicativo el Ra vuelto en Ya an-
     <lb/>
@@ -1302,7 +1327,7 @@
     </div>
     <!--levanto-arte 1.3.1.9.4.3-->
     <div xml:id='levanto-arte1.3.1.9.4.4'>
-    <head type= 'outline'> Quarta
+    <head type= 'outline'> <choice><orig>Quarta</orig><reg type="spanish">Cuarta</reg></choice>
         <choice><orig>Conjugacion</orig><reg type="spanish">Conjugación</reg></choice>
     </head>
     </div>
@@ -1377,7 +1402,9 @@
     <choice><orig>conjugacion</orig><reg type="spanish">conjugación</reg></choice>,
     â el <foreign xml:lang='zap'>Que</foreign> de la segunda
     <lb/>
-    â el <foreign xml:lang='zap'>Qui</foreign> dela tercera, y a el <foreign xml:lang='zap'>Co</foreign> dela quarta, <foreign xml:lang='zap'>Ro, Pe, Co</foreign> Vg.
+    â el <foreign xml:lang='zap'>Qui</foreign> dela tercera, y a el <foreign xml:lang='zap'>Co</foreign> dela
+    <choice><orig>quarta</orig><reg type="spanish">cuarta</reg></choice>,
+    <foreign xml:lang='zap'>Ro, Pe, Co</foreign> Vg.
     <lb/>
     <foreign xml:lang='zap'>Rogoya</foreign> dela primera hace el futuro <foreign xml:lang='zap'>Cagoya</foreign>, anteponi
     <lb/>
@@ -1398,9 +1425,10 @@
     <lb/>
     a dido futuro, <foreign xml:lang='zap'>Ro, Pe, Co</foreign>, hara el compulsivo, <foreign xml:lang='zap'>Rocaeeza
     <lb/>
-    ya, Pecoeezaya, Cocaeezaya </foreign>
+    ya, Pecoeezaya, Cocaeezaya</foreign>
     <lb/>
-    Los compulsivos de la quarta
+    Los compulsivos de la
+    <choice><orig>quarta</orig><reg type="spanish">cuarta</reg></choice>
     <choice><orig>conjugacion</orig><reg type="spanish">conjugación</reg></choice>
     siguen la mis
     <lb/>
@@ -1942,7 +1970,7 @@
     </div>
     <!--levanto-arte 1.3.3.15.3-->
     <div xml:id='levanto-arte1.3.3.15.4'>
-    <head type= 'outline'>Quarta Regla</head>
+    <head type= 'outline'><choice><orig>Quarta</orig><reg type="spanish">Cuarta</reg></choice> Regla</head>
     </div>
     <!--levanto-arte 1.3.3.15.4-->
     <div xml:id='levanto-arte1.3.3.15.5'>
@@ -3535,7 +3563,9 @@
     <choice> <orig>S.r</orig> <reg type="spanish">Señor</reg> </choice>
     Jesu
     <lb/>
-    Christo, asi como esta en el cielo?
+    Christo,
+    <choice><orig>asi</orig><reg type="spanish">así</reg></choice>
+    como esta en el cielo?
     <lb/>
     <foreign xml:lang="zap">Huarieelijlachilo quitoobi lachilo ni laani</foreign>
       <choice><orig>S.ta</orig><reg type="spanish">Santa</reg></choice>
@@ -5242,8 +5272,8 @@ de Dios
     </div>
     <!-- levanto-arte 5.3 -->
     <div xml:id="levanto-arte5.4">
-    <head type="outline">Quarto Mandamiento</head>
-    Quarto Mandamiento.
+    <head type="outline"><choice><orig>Quarto</orig><reg type="spanish">Cuarto</reg></choice> Mandamiento</head>
+    <choice><orig>Quarto</orig><reg type="spanish">Cuarto</reg></choice> Mandamiento.
     <lb/>
 	<choice><orig>Has honrnado a tu Padre, y Madre?</orig><reg type="spanish">¿Has honrado a tu padre y madre?</reg></choice>
 	<lb/>
