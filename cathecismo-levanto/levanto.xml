@@ -1237,7 +1237,7 @@
           to
         </foreign>
         : ni golleliini lanni
-        <foreign xml:lang="esp"></choice><orig>Sancta</orig><reg type="spanish">Santa</reg></choice> <choice><orig>Maria</orig><reg type="spanish">María</reg></choice></foreign>
+        <foreign xml:lang="esp"><choice><orig>Sancta</orig><reg type="spanish">Santa</reg></choice> <choice><orig>Maria</orig><reg type="spanish">María</reg></choice></foreign>
         , elli Cocooni: ni co
         <pc type="hyphen">-</pc>
         <lb break="no"/>
