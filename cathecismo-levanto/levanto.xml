@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="TEISchema_current.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <text>
@@ -47,7 +47,7 @@
         <div xml:id="levanto1.2.3">
           <head type="outline">[Printing information]</head>
           <p rend="center">
-            Reimpreſſo en la Imprenta del Colegio Real de San
+            <choice><orig>Reimpreffo</orig><reg type="spanish">Reimpreso</reg></choice> en la Imprenta del Colegio Real de San
             <lb/>
             Ignacio de la Puebla de los Angeles. Año de 1766.
           </p>
@@ -69,7 +69,7 @@
             <lb/>
             Compañero del M. R. P. M. Fr. Leonardo
             <lb/>
-            Levanto, digniſsimo Prior Provincial de <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice>
+            Levanto, <choice><orig>dignifsimo</orig><reg type="spanish">dignisimo</reg></choice> Prior Provincial de <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice>
             <lb/>
             Provincia de San Miguel, y Santos Angeles de
             <lb/>
@@ -85,43 +85,45 @@
           A Grande dicha llega <choice><orig>oy</orig><reg type="spanish">hoy</reg></choice> la mia en obedecer el
           <choice><orig>ſuperior</orig><reg type="spanish">superior</reg></choice>
           <lb/>
-          mandato de V. Exc. confieſſolo con rubor, y aunque à
+          mandato de V. Exc. <choice><orig>confieffolo</orig><reg type="spanish">consiesolo</reg></choice> con rubor, y aunque à
           <lb/>
           <choice><orig>eſte</orig><reg type="spanish">este</reg></choice> acompañe mi incapacidad, y demeritos, con los que no
           <lb/>
-          pueda arguir para excuſarme à tan real precepto: dirè, y digo
+          pueda arguir para <choice><orig>excufarme</orig><reg type="spanish">excusarme</reg></choice> à tan real precepto: dirè, y digo
           <lb/>
           <choice><orig>guſtoſiſsimo</orig><reg type="spanish">gustosísimo</reg></choice>, que mandato tan dichoſo, lo dexo venir, y â el
           <lb/>
           <choice><orig>eſtoy</orig><reg type="spanish">estoy</reg></choice> rendido, y ciego.
         </p>
         <p>
-          Entre mis felices dichas, la mayor al preſente es, que
+          Entre mis felices dichas, la mayor al <choice><orig>prefente</orig><reg type="spanish">presente</reg></choice> es, que
           <lb/>
-          ſea Yo Cenſor de <choice><orig>Catheciſmo</orig><reg type="spanish">Catecismo</reg></choice> de la Doctrina <choice><orig>Chriſtiana</orig><reg type="spanish">Cristiana</reg></choice>, que
+          <choice><orig>fea</orig><reg type="spanish">sea</reg></choice> Yo <choice><orig>Cenfor</orig><reg type="spanish">Censor</reg></choice> de <choice><orig>Catheciſmo</orig><reg type="spanish">Catecismo</reg></choice> de la Doctrina <choice><orig>Chriſtiana</orig><reg type="spanish">Cristiana</reg></choice>, que
           <lb/>
-          en la lengua Zaapoteca, ha <choice><orig>diſpueſto</orig><reg type="spanish">dispuesto</reg></choice> N. M. R. P. M. Fr. Leo
+          en la lengua <choice><orig>Zaapoteca</orig><reg type="spanish">Zapoteca</reg></choice>, ha <choice><orig>diſpueſto</orig><reg type="spanish">dispuesto</reg></choice> N. M. R. P. M. Fr. Leo
           <pc type="hyphen">-</pc>
           <lb break="no"/>
           nardo Levanto, actual Prior Provincial de <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice> Provincia de S.
           <lb/>
-          Miguel, y Santos Angeles de la Puebla; mas porque puede cau-
+          Miguel, y Santos Angeles de la Puebla; mas porque puede cau
+          <pc type="hyphen">-</pc>
+          <lb break="no"/>
           <lb/>
-          ſar novedad â algunos, que ſea yo Cenſor de <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice> primoroſa
+          <choice><orig>far</orig><reg type="spanish">sar</reg></choice> novedad â algunos, que <choice><orig>fea</orig><reg type="spanish">sea</reg></choice> yo <choice><orig>Cenfor</orig><reg type="spanish">Censor</reg></choice> de <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice> <choice><orig>primorofa</orig><reg type="spanish">primorosa</reg></choice>
           <lb/>
-          obra, pido ſe me permita antes de exercitar mi obediencia,
+          obra, pido <choice><orig>fe</orig><reg type="spanish">se</reg></choice> me permita antes de exercitar mi obediencia,
           <lb/>
-          decir la verdad, que ſe me pide, y <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice> conſiſte en tener ya
+          decir la verdad, que <choice><orig>fe</orig><reg type="spanish">se</reg></choice> me pide, y <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice> <choice><orig>confifte</orig><reg type="spanish">consiste</reg></choice> en tener ya
           <lb/>
-          leida muy bien la dicha obra, diſpueſta por tan grande Autor
+          leida muy bien la dicha obra, <choice><orig>difpuefta</orig><reg type="spanish">dispuesta</reg></choice> por tan grande Autor
           <lb/>
           mucho tiempo há, y averla oido alabar de los <choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice>s, que
           <lb/>
-          profeſſan, y hablan dicha lengua: con <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice> verded tan publica,
+          <choice><orig>profeffan</orig><reg type="spanish">procesan</reg></choice>, y hablan dicha lengua: con <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice> <choice><orig>verded</orig><reg type="spanish">verdad</reg></choice> tan publica,
           <lb/>
-          no ſe neceſsita de mas prueba para la obra preſente. Ya con
+          no <choice><orig>fe</orig><reg type="spanish">se</reg></choice> <choice><orig>necefsita</orig><reg type="spanish">necesita</reg></choice> de mas prueba para la obra <choice><orig>prefente</orig><reg type="spanish">presente</reg></choice>. Ya con
           <lb/>
-          eſto me contentara, <choice><orig>Excelentiſsimo</orig><reg type="spanish">Excelentísimo</reg></choice> Señor, ſuponiendo, que por
+          <choice><orig>eſto</orig><reg type="spanish">esto</reg></choice> me contentara, <choice><orig>Excelentiſsimo</orig><reg type="spanish">Excelentísimo</reg></choice> Señor, <choice><orig>fuponiendo</orig><reg type="spanish">suponiendo</reg></choice>, que por
           <lb/>
           averla leido, y oido engrandecer, <choice><orig>eſtaba</orig><reg type="spanish">estaba</reg></choice> aprobada. Mas advier
           <pc type="hyphen">-</pc>
@@ -135,17 +137,17 @@
             </hi>
           </fw>
           <pb n="7"/>
-          certifique con èl las obras, que con tanto aſan ha ſolicitado
+          certifique con èl las obras, que con tanto aſan ha <choice><orig>folicitado</orig><reg type="spanish">solicitado</reg></choice>
           <lb/>
-          mi Provincial <choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice>, para el aprovechamiento, aſsi de los
+          mi Provincial <choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice>, para el aprovechamiento, <choice><orig>afsi</orig><reg type="spanish">así</reg></choice> de los
           <lb/>
-          Miniſtros Evangelicos, como de los pobres Naturales, y con
+          <choice><orig>Miniftros</orig><reg type="spanish">Ministros</reg></choice> Evangelicos, como de los pobres Naturales, y con
           <lb/>
-          verdad dirè lo que â mis ojos ha ſido patente.
+          verdad dirè lo que â mis ojos ha <choice><orig>fido</orig><reg type="spanish">sido</reg></choice> patente.
           <lb/>
         </p>
         <p>
-          Eſcribe lo que has viſto, le manda al Evangeliſta el Di-
+          <choice><orig>Efcribe</orig><reg type="spanish">Escribe</reg></choice> lo que has <choice><orig>vifto</orig><reg type="spanish">visto</reg></choice>, le manda al <choice><orig>Evangelifta</orig><reg type="spanish">Evangelista</reg></choice> el Di-
           <lb/>
           vino Superior:
           <foreign xml:lang="lat">Que vidiſti ſeribe</foreign>
@@ -155,163 +157,163 @@
           <foreign xml:lang="lat">Signum magnum, magnum miraculum</foreign>
           , cotas
           <lb/>
-          nuevas, y prodigioſas:
+          nuevas, y <choice><orig>prodigiofas</orig><reg type="spanish">prodigiosas</reg></choice>:
           <foreign xml:lang="lat">Ecca nova</foreign>
           , mas oyo, y ạun vio admi
           <pc type="hyphen">-</pc>
           <lb break="no"/>
-          rables, y myſterioſas voces:
+          rables, y <choice><orig>myfteriofas</orig><reg type="spanish">misteriosas</reg></choice> voces:
           <foreign xml:lang="lat">
             Et audivi vocem magnam, &amp; conver
             <pc type="hyphen">-</pc>
             <lb break="no"/>
             ſus ſum, ut viderem vocem
           </foreign>
-          , declara, expreſta por eſcrito las pro
+          , declara, <choice><orig>exprefa</orig><reg type="spanish">expresa</reg></choice> por <choice><orig>efcrito</orig><reg type="spanish">escrito</reg></choice> las pro
           <pc type="hyphen">-</pc>
           <lb break="no"/>
-          priedades de eſtas voces, que has oido.
+          priedades de <choice><orig>eftas</orig><reg type="spanish">estas</reg></choice> voces, que has oido.
           <lb/>
         </p>
         <p>
-          Hablo pues en el ſentido, que debo, y confieſſo la lon
+          Hablo pues en el <choice><orig>fentido</orig><reg type="spanish">sentido</reg></choice>, que debo, y <choice><orig>confieffo</orig><reg type="spanish">confieso</reg></choice> la lon
           <pc type="hyphen">-</pc>
           <lb break="no"/>
-          gitud de un caſo à otro. Pero me hace fuerza, que â quien
+          gitud de un <choice><orig>cafo</orig><reg type="spanish">caso</reg></choice> à otro. Pero me hace fuerza, que â quien
           <lb/>
-          puede dar razones individuales de las obras heroyca de ſo
+          puede dar razones individuales de las obras <choice><orig>heroyca</orig><reg type="spanish">heroica</reg></choice> de <choice><orig>fo</orig><reg type="spanish">so</reg></choice>
           <pc type="hyphen">-</pc>
           <lb break="no"/>
-          bredicho Autor, ne ſe le pregunten; y que el mandato ſupe
+          bredicho Autor, ne <choice><orig>fe</orig><reg type="spanish">se</reg></choice> le pregunten; y que el mandato <choice><orig>fupe</orig><reg type="spanish">supe</reg></choice>
           <pc type="hyphen">-</pc>
           <lb break="no"/>
           rior me obligue â mi â que dé mi parecer, o certificacion!
           <lb/>
-          Todos ſaben mejor que Yo, lo publico de las buenas obras,
+          Todos <choice><orig>faben</orig><reg type="spanish">saben</reg></choice> mejor que Yo, lo publico de las buenas obras,
           <lb/>
-          que ſu Autor executa; pero no quiere ſu Excelencia, que otro
+          que <choice><orig>fu</orig><reg type="spanish">su</reg></choice> Autor executa; pero no quiere <choice><orig>fu</orig><reg type="spanish">su</reg></choice> Excelencia, que otro
           <lb/>
-          hable; parece que â todos ſe les prohibe, como ſe hizo con S
+          hable; parece que â todos <choice><orig>fu</orig><reg type="spanish">su</reg></choice> les prohibe, como <choice><orig>fu</orig><reg type="spanish">su</reg></choice> hizo con S
           <lb/>
-          an Pablo, aviendo viſto prodigios, y ſe le puſo como pre
+          an Pablo, aviendo <choice><orig>vifto</orig><reg type="spanish">visto</reg></choice> prodigios, y <choice><orig>fe</orig><reg type="spanish">se</reg></choice> le <choice><orig>pufo</orig><reg type="spanish">puso</reg></choice> como pre
           <pc type="hyphen">-</pc>
           <lb break="no"/>
           cepto, para no decirlos:
           <foreign xml:lang="lat">Que non licer homini loqui</foreign>
-          . Ea, dice ſu
+          . Ea, dice <choice><orig>fu</orig><reg type="spanish">su</reg></choice>
           <lb/>
-          Excelencia, no todos al preſente tienen miniſterio de certificar,
+          Excelencia, no todos al preſente tienen <choice><orig>minifterio</orig><reg type="spanish">ministerio</reg></choice> de certificar,
           <lb/>
-          uſa de tu honra, no te encojas, que en eſſo eſtà tu dicha ma
+          <choice><orig>ufa</orig><reg type="spanish">usa</reg></choice> de tu honra, no te encojas, que en <choice><orig>effo</orig><reg type="spanish">eso</reg></choice> <choice><orig>eft</orig><reg type="spanish">su</reg></choice> tu dicha ma
           <pc type="hyphen">-</pc>
           <lb break="no"/>
-          yor: eſcribe lo que has viſto, dá tu parecer, que tu no tienes
+          yor: <choice><orig>efcribe</orig><reg type="spanish">escribe</reg></choice> lo que has <choice><orig>vifto</orig><reg type="spanish">visto</reg></choice>, dá tu parecer, que tu no tienes
           <lb/>
-          precepto, como ni el Sagrado Evangeliſta, antes ſe le manda
+          precepto, como ni el Sagrado <choice><orig>Evangelifta</orig><reg type="spanish">Evangelista</reg></choice>, antes <choice><orig>fe</orig><reg type="spanish">se</reg></choice> le manda
           <lb/>
-          eſcribir:
+          <choice><orig>efcribir</orig><reg type="spanish">escribir</reg></choice>:
           <foreign xml:lang="lat">Scribe ad informattomen</foreign>
           .
           <lb/>
         </p>
         <p>
-          Pues Yo, Escelentiſsimo Señor, lo que admiro en <choice><orig>eſte</orig><reg type="spanish">este</reg></choice>
+          Pues Yo, <choice><orig>Escelentifimo</orig><reg type="spanish">Excelentisimo</reg></choice> Señor, lo que admiro en <choice><orig>eſte</orig><reg type="spanish">este</reg></choice>
           <lb/>
-          Autor es una marabilla, averlo viſto ſiempre en exercicios, y
+          Autor es una <choice><orig>marabilla</orig><reg type="spanish">maravilla</reg></choice>, averlo <choice><orig>vifto</orig><reg type="spanish">visto</reg></choice> <choice><orig>fiempre</orig><reg type="spanish">siempre</reg></choice> en exercicios, y
           <lb/>
-          Prelacias tan continuas, y en eſtudios de las ſagradas letras tan
+          Prelacias tan continuas, y en <choice><orig>eftudios</orig><reg type="spanish">estudios</reg></choice> de las <choice><orig>fagradas</orig><reg type="spanish">sagradas</reg></choice> letras tan
           <lb/>
-          ocupado toda ſu vida, que me admira (y â todos ſucede lo
+          ocupado toda <choice><orig>fu</orig><reg type="spanish">su</reg></choice> vida, que me admira (y â todos <choice><orig>fucede</orig><reg type="spanish">sucede</reg></choice> lo
           <lb/>
           <choice><orig>miſmo</orig><reg type="spanish">mismo</reg></choice>)
           <u>
-            como, o quando <choice><orig>eſte</orig><reg type="spanish">este</reg></choice> Autor eſtudio lengua tan bar
+            como, o <choice><orig>quando</orig><reg type="spanish">cuando</reg></choice> <choice><orig>eſte</orig><reg type="spanish">este</reg></choice> Autor <choice><orig>eftudio</orig><reg type="spanish">estudio</reg></choice> lengua tan bar
             <pc type="hyphen">-</pc>
             <lb break="no"/>
             bara?
           </u>
-          Como, o quando la deſentraño con tanta perfeccion, la-
+          Como, o <choice><orig>quando</orig><reg type="spanish">cuando</reg></choice> la <choice><orig>defentraño</orig><reg type="spanish">desentraño</reg></choice> con tanta perfeccion, la-
           <lb/>
-          cando todas las dudas con tanta elegancia, que tiene abyſma
+          cando todas las dudas con tanta elegancia, que tiene <choice><orig>abyfma</orig><reg type="spanish">abysma</reg></choice>
           <pc type="hyphen">-</pc>
           <lb break="no"/>
-          dos a los Profeſtores de <choice><orig>eſte</orig><reg type="spanish">este</reg></choice> Idioma, eſeñando no ſolo con
+          dos a los <choice><orig>Profeftores</orig><reg type="spanish">Profesores</reg></choice> de <choice><orig>eſte</orig><reg type="spanish">este</reg></choice> Idioma, <choice><orig>efeñando</orig><reg type="spanish">enseñando</reg></choice> no <choice><orig>folo</orig><reg type="spanish">solo</reg></choice> con
           <lb/>
-          rimor entenderla, ſino tambien eſcribirla con tanta pɹopriedad
+          rimor entenderla, <choice><orig>fino</orig><reg type="spanish">sino</reg></choice> tambien <choice><orig>efcribirla</orig><reg type="spanish">escribirla</reg></choice> con tanta pɹopriedad
           <lb/>
-          en todo, y en ſus ethymologias, que aſombre â todos, eſto es
+          en todo, y en <choice><orig>fus</orig><reg type="spanish">sus</reg></choice> ethymologias, que <choice><orig>afombre</orig><reg type="spanish">asombre</reg></choice> â todos, <choice><orig>efto</orig><reg type="spanish">esto</reg></choice> es
           <lb/>
-          lo prodigioſo que miro en <choice><orig>eſte</orig><reg type="spanish">este</reg></choice> Autor, y en <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice> obra preſen
+          lo prodigioſo que miro en <choice><orig>eſte</orig><reg type="spanish">este</reg></choice> Autor, y en <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice> obra <choice><orig>prefen</orig><reg type="spanish">presen</reg></choice>
           <pc type="hyphen">-</pc>
           <lb break="no"/>
           te veo <choice><orig>coſas</orig><reg type="spanish">cosas</reg></choice> nuevas, que me admiran; pues veo <choice><orig>oy</orig><reg type="spanish">hoy</reg></choice> el verda
           <pc type="hyphen">-</pc>
           <lb break="no"/>
-          dero modo de hablar en <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice> lengua Zaapoteca, que con tanto
+          dero modo de hablar en <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice> lengua <choice><orig>Zaapoteca</orig><reg type="spanish">Zapoteca</reg></choice>, que con tanto
           <lb/>
-          deſvelo, y leyenda de
+          <choice><orig>defvelo</orig><reg type="spanish">desvelo</reg></choice>, y leyenda de
           <u>libros, y papeles antiguos,</u> pudo el vivo,
           <lb/>
           <fw type="catchword" place="bottom-right">
             <hi>y</hi>
           </fw>
           <pb n="8"/>
-          y charitativo zelo de <choice><orig>eſte</orig><reg type="spanish">este</reg></choice> Autor aver pueſto la Doctrina Chriſ
+          y charitativo zelo de <choice><orig>eſte</orig><reg type="spanish">este</reg></choice> Autor aver <choice><orig>puefto</orig><reg type="spanish">puesto</reg></choice> la Doctrina <choice><orig>Chrif</orig><reg type="spanish">Chris</reg></choice>
           <pc type="hyphen">-</pc>
           <lb break="no"/>
-          tiana al modo que <choice><orig>oy</orig><reg type="spanish">hoy</reg></choice> ſe habla, y entiende la lengua, para
+          tiana al modo que <choice><orig>oy</orig><reg type="spanish">hoy</reg></choice> <choice><orig>fe</orig><reg type="spanish">se</reg></choice> habla, y entiende la lengua, para
           <lb/>
-          que todos ſus Miniſtros la
+          que todos <choice><orig>fus</orig><reg type="spanish">sus</reg></choice> <choice><orig>Miniftros</orig><reg type="spanish">Ministros</reg></choice> la
           <gap reason="illegible">ha</gap>
-          gan, y todos ſus Feligreſes ſe apro
+          gan, y todos <choice><orig>fus</orig><reg type="spanish">sus</reg></choice> <choice><orig>Feligrefes</orig><reg type="spanish">Feligreses</reg></choice> <choice><orig>fe</orig><reg type="spanish">se</reg></choice> apro
           <pc type="hyphen">-</pc>
           <lb break="no"/>
           vechen prendiendola de un <choice><orig>miſmo</orig><reg type="spanish">mismo</reg></choice> modo, con tanta claridad,
           <lb/>
-          que no podran tropezar en aprender lo neceſſario, y ſeguro
+          que no podran tropezar en aprender lo <choice><orig>neceffario</orig><reg type="spanish">necesario</reg></choice>, y <choice><orig>feguro</orig><reg type="spanish">seguro</reg></choice>
           <lb/>
-          para ſu ſalvacion. Mas oí, y ví al dicho Autor, que viſitando
+          para <choice><orig>fu</orig><reg type="spanish">su</reg></choice> <choice><orig>falvacion</orig><reg type="spanish">salvacion</reg></choice>. Mas oí, y ví al dicho Autor, que <choice><orig>vifitando</orig><reg type="spanish">visitando</reg></choice>
           <lb/>
           como Provincial un Pueblo, en donde Yo me hallaba de Cu
           <pc type="hyphen">-</pc>
           <lb break="no"/>
-          ra Miniſtro, que al tiempo que <choice><orig>eſtaban</orig><reg type="spanish">estaban</reg></choice> los Feligreſes rezando
+          ra <choice><orig>Miniftro</orig><reg type="spanish">Ministro</reg></choice>, que al tiempo que <choice><orig>eſtaban</orig><reg type="spanish">estaban</reg></choice> los <choice><orig>Feligrefes</orig><reg type="spanish">Feligreses</reg></choice> rezando
           <lb/>
-          la Doctrina <choice><orig>Chriſtiana</orig><reg type="spanish">Cristiana</reg></choice>, <choice><orig>eſtaba</orig><reg type="spanish">estaba</reg></choice> preſente, y ſalieron de ſus labios
+          la Doctrina <choice><orig>Chriſtiana</orig><reg type="spanish">Cristiana</reg></choice>, <choice><orig>eſtaba</orig><reg type="spanish">estaba</reg></choice> <choice><orig>prefente</orig><reg type="spanish">presente</reg></choice>, y <choice><orig>falieron</orig><reg type="spanish">salieron</reg></choice> de <choice><orig>fus</orig><reg type="spanish">sus</reg></choice> labios
           <lb/>
-          eſtas admirables voces.
+          <choice><orig>eftas</orig><reg type="spanish">estas</reg></choice> admirables voces.
           <i>
             O, y quien pudiera hacer, que la Doctrina
             <lb/>
-            Zaapoteca ſe dixera de un <choice><orig>miſmo</orig><reg type="spanish">mismo</reg></choice> modo, y con los tominos que <choice><orig>oy</orig><reg type="spanish">hoy</reg></choice> ſe uſan
+            <choice><orig>Zaapoteca</orig><reg type="spanish">Zapoteca</reg></choice> <choice><orig>fe</orig><reg type="spanish">se</reg></choice> <choice><orig>dixera</orig><reg type="spanish">dijera</reg></choice> de un <choice><orig>miſmo</orig><reg type="spanish">mismo</reg></choice> modo, y con los tominos que <choice><orig>oy</orig><reg type="spanish">hoy</reg></choice> <choice><orig>fe</orig><reg type="spanish">se</reg></choice> <choice><orig>ufan</orig><reg type="spanish">usan</reg></choice>
             <lb/>
-            en todas las adminiſtraciones, y Pueblos donde ſe habla
+            en todas las <choice><orig>afminiftraciones</orig><reg type="spanish">administraciones</reg></choice>, y Pueblos donde <choice><orig>fe</orig><reg type="spanish">se</reg></choice> habla
           </i>
           !  Entonces,
           <lb/>
-          admirado de ſus deſeos, y voces, buelto Yo acia el Autor, lo
+          admirado de <choice><orig>fus</orig><reg type="spanish">sus</reg></choice> <choice><orig>defeos</orig><reg type="spanish">deseos</reg></choice>, y voces, <choice><orig>buelto</orig><reg type="spanish">vuelto</reg></choice> Yo <choice><orig>acia</orig><reg type="spanish">hacia</reg></choice> el Autor, lo
           <lb/>
-          vi, y le dixe: ojala, y tal <choice><orig>coſa</orig><reg type="spanish">cosa</reg></choice> ſe contiga; y Dios <choice><orig>Nueſtro</orig><reg type="spanish">Nuestro</reg></choice> Se
+          vi, y le <choice><orig>dixe</orig><reg type="spanish">dije</reg></choice>: ojala, y tal <choice><orig>coſa</orig><reg type="spanish">cosa</reg></choice> ſe contiga; y Dios <choice><orig>Nueſtro</orig><reg type="spanish">Nuestro</reg></choice> Se
           <pc type="hyphen">-</pc>
           <lb break="no"/>
-          ñor ſe lo ha concedido, y à mi de lograr tal fortuna como
+          ñor <choice><orig>fe</orig><reg type="spanish">se</reg></choice> lo ha concedido, y à mi de lograr tal fortuna como
           <lb/>
           aver leido de nuevo <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice> Doctrina <choice><orig>Chriſtiana</orig><reg type="spanish">Cristiana</reg></choice> en dicho Idioma,
           <lb/>
           con tan igual proporcion, y propriedad de oces, que ninguna
           <lb/>
-          deſdice, ni ſe opone â <choice><orig>nueſtra</orig><reg type="spanish">nuestra</reg></choice> Santa <choice><orig>Fee</orig><reg type="spanish">Fe</reg></choice>, antes eſtà ſacado con
+          <choice><orig>defdice</orig><reg type="spanish">desdice</reg></choice>, ni <choice><orig>fe</orig><reg type="spanish">se</reg></choice> opone â <choice><orig>nueſtra</orig><reg type="spanish">nuestra</reg></choice> Santa <choice><orig>Fee</orig><reg type="spanish">Fe</reg></choice>, antes <choice><orig>eftá</orig><reg type="spanish">esta</reg></choice> <choice><orig>facado</orig><reg type="spanish">sacado</reg></choice> con
           <lb/>
-          admiracion, y mucha legalidad en todo, y guſtaràn todos los
+          admiracion, y mucha legalidad en todo, y <choice><orig>guftaràn</orig><reg type="spanish">gustaran</reg></choice> todos los
           <lb/>
-          que de ello entienden, que clamaràn al Autor, que nos ſaque
+          que de ello entienden, que clamaràn al Autor, que nos <choice><orig>faque</orig><reg type="spanish">saque</reg></choice>
           <lb/>
-          de mas dudas, ſacando â luz muchas obras, que ſu admi
+          de mas dudas, <choice><orig>facando</orig><reg type="spanish">sacando</reg></choice> â luz muchas obras, que <choice><orig>fu</orig><reg type="spanish">su</reg></choice> admi
           <pc type="hyphen">-</pc>
           <lb break="no"/>
-          rable viveza de ingenio puede, &amp;c. Aſsi lo declaro, y expreſſo
+          rable viveza de ingenio puede, &amp;c. <choice><orig>Afsi</orig><reg type="spanish">Asi</reg></choice> lo declaro, y <choice><orig>expreffo</orig><reg type="spanish">expreso</reg></choice>
           <lb/>
-          por eſcrito:
+          por <choice><orig>efcrito</orig><reg type="spanish">escrito</reg></choice>:
           <i>
             <foreign xml:lang="lat">ſalvo meliori</foreign>
           </i>
@@ -354,14 +356,14 @@
             de Oaxaca.
           </i>
         </head>
-        <p rend="center">Señor Proviſor:</p>
+        <p rend="center">Señor <choice><orig>Provifor</orig><reg type="spanish">Profisor</reg></choice>:</p>
         <p>
-          Bien pudiera mi ignorancia valerſe de la eſcuſa del Santo Pro
+          Bien pudiera mi ignorancia <choice><orig>valerfe</orig><reg type="spanish">valerse</reg></choice> de la <choice><orig>efcufa</orig><reg type="spanish">escusa</reg></choice> del Santo Pro
           <pc type="hyphen">-</pc>
           <lb break="no"/>
           feta Jeremias, ara eximirme del precepto, en que V. S.
           <lb/>
-          me manda vea el <choice><orig>Catheciſmo</orig><reg type="spanish">Catecismo</reg></choice>, que en la lengua Zaapoteca ha
+          me manda vea el <choice><orig>Catheciſmo</orig><reg type="spanish">Catecismo</reg></choice>, que en la lengua <choice><orig>Zaapoteca</orig><reg type="spanish">Zapoteca</reg></choice> ha
           <lb/>
           <choice><orig>diſpueſto</orig><reg type="spanish">dispuesto</reg></choice> el M. R. P. M. Fr. Leonardo Levanto, Provincial que
           <lb/>
@@ -370,11 +372,11 @@
           la de los Santos Angeles; pues aunque por algunos años he cur
           <pc type="hyphen">-</pc>
           <lb break="no"/>
-          ſado <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice> lengua para adminiſtrarla; pero à viſta de tan gran
+          ſado <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice> lengua para <choice><orig>adminiftrarla</orig><reg type="spanish">administrarla</reg></choice>; pero à <choice><orig>vifta</orig><reg type="spanish">vista</reg></choice> de tan gran
           <lb/>
-          Maevtro, puedo decir, que como niño, y tan pequeño, aun no he
+          <choice><orig>Maevtro</orig><reg type="spanish">Maestro</reg></choice>, puedo decir, que como niño, y tan pequeño, aun no he
           <lb/>
-          pasſſado de la primera letra de ſu Alphabeta,
+          <choice><orig>pasffado</orig><reg type="spanish">pasado</reg></choice> de la primera letra de <choice><orig>fu</orig><reg type="spanish">su</reg></choice> Alphabeta,
           <foreign xml:lang="lat">
             <i>
               A, à, â, Domine neſ
@@ -383,30 +385,30 @@
               cio loqui quia puer ego ſum.
             </i>
           </foreign>
-          (Jerem. Cap. 1.) Mas ſiendo tan ſupe
+          (Jerem. Cap. 1.) Mas <choice><orig>fiendo</orig><reg type="spanish">siendo</reg></choice> tan <choice><orig>fupe</orig><reg type="spanish">supe</reg></choice>
           <pc type="hyphen">-</pc>
           <lb break="no"/>
-          rior el mandato, y aviendoſe <choice><orig>diſpueſto</orig><reg type="spanish">dispuesto</reg></choice> <choice><orig>eſte</orig><reg type="spanish">este</reg></choice> <choice><orig>Catheciſmo</orig><reg type="spanish">Catecismo</reg></choice> para que
+          rior el mandato, y <choice><orig>aviendofe</orig><reg type="spanish">aviendose</reg></choice> <choice><orig>diſpueſto</orig><reg type="spanish">dispuesto</reg></choice> <choice><orig>eſte</orig><reg type="spanish">este</reg></choice> <choice><orig>Catheciſmo</orig><reg type="spanish">Catecismo</reg></choice> para que
           <lb/>
           aprendan en èl los <choice><orig>myſterios</orig><reg type="spanish">misterios</reg></choice> de <choice><orig>nueſtra</orig><reg type="spanish">nuestra</reg></choice> Santa <choice><orig>Fee</orig><reg type="spanish">Fe</reg></choice> los niños, y
           <lb/>
-          los que por ſu corta capacidad aun no han ſalido de la pue
+          los que por <choice><orig>fu</orig><reg type="spanish">su</reg></choice> corta capacidad aun no han <choice><orig>falido</orig><reg type="spanish">salido</reg></choice> de la pue
           <pc type="hyphen">-</pc>
           <lb break="no"/>
           rilidad; ya que por ignorante no pueda Yo hablar, aplicano
           <pc type="hyphen">-</pc>
           <lb break="no"/>
-          me â eſtudiar en èl, ſin ſalir de la eſphera de niño, para cum
+          me â <choice><orig>eftudiar</orig><reg type="spanish">eftudiar</reg></choice> en èl, <choice><orig>fin</orig><reg type="spanish">sin</reg></choice> <choice><orig>falir</orig><reg type="spanish">salir</reg></choice> de la <choice><orig>efphera</orig><reg type="spanish">esphera</reg></choice> de niño, para cum
           <pc type="hyphen">-</pc>
           <lb break="no"/>
-          plir con el mandato de mi aplicacion que no ſolo no con
+          plir con el mandato de mi aplicacion que no <choice><orig>folo</orig><reg type="spanish">solo</reg></choice> no con
           <pc type="hyphen">-</pc>
           <lb break="no"/>
-          tiene <choice><orig>coſa</orig><reg type="spanish">cosa</reg></choice> alguna contra <choice><orig>nueſtra</orig><reg type="spanish">nuestra</reg></choice> Santa <choice><orig>Fee</orig><reg type="spanish">Fe</reg></choice>; ſino que es muy
+          tiene <choice><orig>coſa</orig><reg type="spanish">cosa</reg></choice> alguna contra <choice><orig>nueſtra</orig><reg type="spanish">nuestra</reg></choice> Santa <choice><orig>Fee</orig><reg type="spanish">Fe</reg></choice>; <choice><orig>fino</orig><reg type="spanish">sino</reg></choice> que es muy
           <lb/>
           util, y neceſſario para que <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice> Nacion Zaapoteca aprenda lo
           <lb/>
-          que es neceſſario ſaber; <choice><orig>eſte</orig><reg type="spanish">este</reg></choice> es mi parecer:
+          que es <choice><orig>neceffario</orig><reg type="spanish">necesario</reg></choice> <choice><orig>faber</orig><reg type="spanish">saber</reg></choice>; <choice><orig>eſte</orig><reg type="spanish">este</reg></choice> es mi parecer:
           <foreign xml:lang="lat">
             <i>salvo meliori</i>
           </foreign>
@@ -417,7 +419,7 @@
           <lb/>
         </p>
         <p rend="center">
-          B. L. M. de V. S. ſu menor ſervidor, y Capellan.
+          B. L. M. de V. S. <choice><orig>fu</orig><reg type="spanish">su</reg></choice> menor <choice><orig>fervidor</orig><reg type="spanish">servidor</reg></choice>, y Capellan.
         </p>
         <p rend="center">
           <i>Fr. Nicolas de Casca.</i>
@@ -449,7 +451,7 @@
           <lb/>
           de V. P. M. R. y con el <choice><orig>miſmo</orig><reg type="spanish">mismo</reg></choice> he leido el <choice><orig>Catheciſmo</orig><reg type="spanish">Catecismo</reg></choice>, que
           <lb/>
-          en el Idioma Zaapoteco del Valle compuſo N. M. R. P. M.
+          en el Idioma <choice><orig>Zaapoteco</orig><reg type="spanish">Zapoteco</reg></choice> del Valle compuſo N. M. R. P. M.
           <lb/>
           Fr. Leonardo Levanto, Provincial que fue de <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice> Provincia de
           <lb/>
@@ -824,17 +826,15 @@
         <pb n="15"/>
         <p>
           nuncian como
-          <i>elles</i> en romance; <choice><orig>ſino</orig><reg type="spanish">sino</reg></choice>
-          <choice><orig>ſolo</orig><reg type="spanish">sólo</reg></choice> algunos:
+          <i>elles</i> en romance; ſino ſolo algunos:
           <lb/>
-          los mas <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> pronuncian
-          <choice><orig>ſeparadas</orig><reg type ="spanish">separadas</reg></choice> las
+          los mas ſe pronuncian ſeparadas las
           <i>eles</i>, cargando la
           <lb/>
-          vocal antecedente <choice><orig>ſobra</orig><reg type="spanish">sobra</reg></choice> la primera
-          <i>ele</i>; y la <choice><orig>ſegunda</orig><reg type="spanish">segunda</reg></choice>
+          vocal antecedente ſobra la primera
+          <i>ele</i>; y la ſegunda
           <lb/>
-          <i>ele</i> cargando <choice><orig>ſobre</orig><reg type="spanish">sobre</reg></choice> la vocal ſiguiente: V. g.
+          <i>ele</i> cargando ſobre la coval ſiguiente: V. g.
           <foreign xml:lang="zap" rend="italic">Rol-la</foreign>
           .
           <lb/>
@@ -843,14 +843,14 @@
           <pc type="hyphen">-</pc>
           <lb break="no"/>
           mo
-          <i>n</i>. y la <choice><orig>ſegunda</orig><reg type="spanish">segunda</reg></choice> como
+          <i>n</i>. y la ſegunda como
           <i>d</i>. V. g.
           <foreign xml:lang="zap" rend="italic">Quella</foreign>
           , dicen
           <i>Quenda</i>:
           <lb/>
-          y aſsi los <choice><orig>demàs</orig><reg type="spanish">demás</reg></choice> vocablos, que tienen dos
-          <i>ll</i>. <choice><orig>ſeparadas</orig><reg type="spanish"separadas</reg></choice>:
+          y aſsi los demàs vocablos, que tienen dos
+          <i>ll</i>. ſeparadas:
           <lb/>
           Iten en tierra Caliente la letra
           <i>e</i>. ordinariamente, la pro
@@ -860,22 +860,22 @@
           <i>i</i>. V. g.
           <foreign xml:lang="zap" rend="italic">Rete</foreign>
           , dicen
-          <i>Riti</i>. <choice><orig>Quando</orig><reg type="spanish">Cuando</reg></choice> el voca
+          <i>Riti</i>. Quando el voca
           <pc type="hyphen">-</pc>
           <lb break="no"/>
-          blo de <choice><orig>mas</orig><reg type="spanish">más</reg></choice> de dos <choice><orig>ſilabas</orig><reg type="spanish">sílabas</reg></choice>, tiene en la <choice><orig>penultima</orig><reg type="spanish">penúltima</reg></choice> dos con
+          blo de mas de dos ſilabas, tiene en la penultima dos con
           <pc type="hyphen">-</pc>
           <lb break="no"/>
-          <choice><orig>ſonantes</orig><reg type="spanish">sonantes</reg></choice>, <choice><orig>ò</orig><reg type="spanish">o</reg></choice> dos vocales, <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> ha de pronunciar largo:
+          ſonantes, ò dos vocales, ſe ha de pronunciar largo:
           <lb/>
-          <choice><orig>quando</orig><reg ="spanish">cuando</reg></choice> no tuviere <choice><orig>mas</orig><reg type="spanish">más</reg></choice> que una, <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> ha de pronun
+          quando no tuviere mas que una, ſe ha de pronun
           <pc type="hyphen">-</pc>
           <lb break="no"/>
           ciar breve. V. g.
           <foreign xml:lang="zap" rend="italic">Naquiñe</foreign>
           , y
           <foreign xml:lang="zap" rend="italic">Bejuana</foreign>
-          , <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> dicen, y pro
+          , ſe dicen, y pro
           <pc type="hyphen">-</pc>
           <lb break="no"/>
           nuncian largos.
@@ -2651,11 +2651,11 @@
       <div xml:id="levanto2.24">
         <head type="outline">Acto de Contricion</head>
         <head type="levanto" rend="center">
-          <foreign xml:lang="esp" rend="italics">ACTO DE <choice><orig>CONTRICION</orig><reg type="spanish">CONTRICIÓN</reg></choice>.</foreign>
+          <foreign xml:lang="esp" rend="italics">ACTO DE CONTRICION.</foreign>
           <lb/>
         </head>
         Hà Channa
-        <foreign xml:lang="esp"><choice><orig>Jeſu-Chriſto</orig><reg type="spanish">Jesucristo</reg></choice></foreign>
+        <foreign xml:lang="esp">Jeſu-Chriſto</foreign>
         he! huallii Biitoo, huallii Benni
         <lb/>
         aati: ni pezaalo naa, ni peziillaalo na niaxtenni na
@@ -5140,13 +5140,14 @@
             <pc type="hyphen">-</pc>
           </foreign>
         </fw>
+        <!-- Claire Benham's section -->
         <pb n="48"/>
         <div xml:id="levanto4.1.5">
-          <head type="outline"><choice><orig>Mysterio</orig><reg type="spanish">Misterio</reg></choice> <choice><orig>Quarto</orig><reg type="spanish">Cuarto</reg></choice>. De la <choice><orig>Presentacion</orig><reg type="spanish">Presentación</reg></choice> en el Templo.</head>
+          <head type="outline">Mysterio Quarto. De la Presentacion en el Templo.</head>
           <head type="levanto" xml:lang="esp" rend="center italics">
-            <choice><orig>MYSTERIO</orig><reg type="spanish">MISTERIO</reg></choice> <choice><orig>QUARTO</orig><reg type="spanish">CUARTO</reg></choice>
+            MYSTERIO QUARTO
             <lb/>
-            De la <choice><orig>Preſentacion</orig><reg type="spanish">Presentación</reg></choice> en el Templo.
+            De la Preſentacion en el Templo.
             <lb/>
           </head>
           Huateete corua chii,
@@ -5167,22 +5168,22 @@
           <lb/>
         </div>
         <div xml:id="levanto4.1.6">
-          <head type="outline"><choice><orig>Mysterio</orig><reg type="spanish">Misterio</reg></choice> Quinto. Del Niño Perdido, y Hallado.</head>
+          <head type="outline">Mysterio Quinto. Del Niño Perdido, y Hallado.</head>
           <head type="levanto" xml:lang="esp" rend="center italics">
-            <choice><orig>MYSTERIO</orig><reg type="spanish">MISTERIO</reg></choice> QUINTO.
+            MYSTERIO QUINTO.
             <lb/>
             Del Niño Perdido, y Hallado.
             <lb/>
           </head>
           Cooyo
-          <foreign xml:lang="esp"><choice><orig>Myſterio</orig><reg type="spanish">Misterio</reg></choice></foreign>
+          <foreign xml:lang="esp">Myſterio</foreign>
           rennaani:
           <lb/>
           Ciica pecaachi Cubiicha,
           <lb/>
           Yacà quieennitii, cahuiicha
           <lb/>
-          <foreign xml:lang="esp"><choice><orig>Jesvs</orig><reg type="spanish">Jesús</reg></choice></foreign>
+          <foreign xml:lang="esp">Jesvs</foreign>
           riquiille Xiñaani.
           <lb/>
           Pezaacalachi Xonaaxi,
@@ -5195,11 +5196,11 @@
           <lb/>
         </div>
         <div xml:id="levanto4.1.7">
-          <head type="outline"><choice><orig>Deprecacion</orig><reg type="spanish">Deprecación</reg></choice> a la <choice><orig>Santissima</orig><reg type="spanish">Santísima</reg></choice> Virgen.</head>
+          <head type="outline">Deprecacion a la Santissma Virgen.</head>
           <head type="levanto" xml:lang="esp" rend="center italics">
-            <choice><orig>DEPRECACION</orig><reg type="spanish">DEPRECACIÓN</reg></choice>
+            DEPRECACION
             <lb/>
-            A LA <choice><orig>SANTISSIMA</orig><reg type="spanish">SANTÍSIMA</reg></choice> VIRGEN.
+            A LA SANTISSIMA VIRGEN.
             <lb/>
           </head>
           Coo
@@ -5215,11 +5216,12 @@
             Zaa
             <pc type="hyphen">-</pc>
           </fw>
+          <!-- Tristan Pepin's section -->
           <pb n="49"/>
           <lb/>
           <div xml:id="levanto4.1.7.1">
             <head type="outline">Ave Filia Dei Patris, &amp;c.</head>
-            <head type="levanto" xml:lang="lat" rend="center italics">Ave Filia Dei Patris, &amp;c.</head>
+            <head type="levanto" xml:lang="esp" rend="center italics">Ave Filia Dei Patris, &amp;c.</head>
             Annaa Channa Maria he!
             Xinni Chaapa Dios Bixooce!
             Annaa Chaana Maria he!
@@ -5231,7 +5233,7 @@
           <div xml:id="levanto4.1.7.2">
             <head type="outline">Maria Mater gratiæ, &amp;c.</head>
             <head type="levanto" xml:lang="esp" rend="center italics">
-              <foreign xml:lang="lat">Maria Mater gratiæ, &amp;c.</foreign>
+              Maria Mater gratiæ, &amp;c.
               <lb/>
             </head>
             Maria quellagracia lii xiñaa:
@@ -5245,15 +5247,15 @@
             Gaca ciiga ciica:
             <foreign xml:lang="esp">Amen</foreign>
             .
-            <foreign xml:lang="esp"><choice><orig>Jesus</orig><reg type="spanish">Jesús</reg></choice>, <choice><orig>Maria</orig><reg type="spanish">María</reg></choice>, y <choice><orig>Joſeph</orig><reg type="spanish">José</reg></choice></foreign>
+            <foreign xml:lang="esp">Jesus, Maria, y Joſeph</foreign>
             <lb/>
           </div>
         </div>
       </div>
       <div xml:id="levanto4.2">
-        <head type="outline"><choice><orig>Mysterios</orig><reg type="spanish">Misterios</reg></choice> Dolorosos.</head>
+        <head type="outline">Mysterios Dolorosos.</head>
         <head type="levanto" xml:lang="esp" rend="center italics">
-          <choice><orig>MYSTERIOS</orig><reg type="spanish">MISTERIOS</reg></choice>
+          MYSTERIOS
           <lb/>
           DOLOROSOS.
         </head>
@@ -5263,13 +5265,14 @@
           </hi>
         </fw>
         <lb/>
+        <!-- James Truitt's section -->
         <pb n="50"/>
         <div xml:id="levanto4.2.1">
-          <head type="outline"><choice><orig>Deprecacion</orig><reg type="spanish">Deprecación</reg></choice> a la <choice><orig>Santissima</orig><reg type="spanish">Santísima</reg></choice> Virgen.</head>
+          <head type="outline">Deprecacion a la Santissima Virgen.</head>
           <head type="levanto" xml:lang="esp" rend="center italics">
-            <choice><orig>DEPRECACION</orig><reg type="spanish">DEPRECACIÓN</reg></choice>
+            DEPRECACION
             <lb/>
-            A LA <choice><orig>SANTISSIMA</orig><reg type="spanish">SANTÍSIMA</reg></choice> VIRGEN.
+            A LA SANTISSIMA VIRGEN.
             <lb/>
           </head>
           CHanna Xonnaxi quiieba,
@@ -5285,9 +5288,9 @@
         </div>
         <!-- levanto4.2.1 -->
         <div xml:id="levanto4.2.2">
-          <head type="outline"><choice><orig>Mysterio</orig><reg type="spanish">Misterio</reg></choice> Primero. La <choice><orig>Oracion</orig><reg type="spanish">Oración</reg></choice> del Huerto.</head>
+          <head type="outline">Mysterio Primero. La Oracion del Huerto.</head>
           <head type="levanto" xml:lang="esp" rend="center italics">
-            La <choice><orig>Oracion</orig><reg type="spanish">Oración</reg></choice> del Huerto.
+            La Oracion del Huerto.
             <lb/>
           </head>
           COlooxe cotaago xchiini,
@@ -5302,17 +5305,17 @@
           <lb/>
           Chiiquee loo xguere piniini
           <lb/>
-          Xi Rinni <foreign xml:lang="esp"><choice><orig>Jeſus</orig><reg type="spanish">Jesús</reg></choice></foriegn> pixiini,
+          Xi Rinni <choice><orig>Jeſus</orig><reg type="spanish">Jesus</reg></choice> pixiini,
           <lb/>
           Ciica niça loona looni.
           <lb/>
         </div>
         <div xml:id="levanto4.2.3">
-          <head type="outline"><choice><orig>Mysterio</orig><reg type="spanish">Misterio</reg></choice> Segundo. De los Azotes <choice><orig>ȃ</orig><reg type="spanish">a</reg></choice> la Columna.</head>
+          <head type="outline">Mysterio Segundo. De los Azotes ȃ la Columna.</head>
           <head type="levanto" xml:lang="esp" rend="center italics">
-            <choice><orig>MYSTERIO</orig><reg type="spanish">MISTERIO</reg></choice> SEGUNDO.
+            MYSTERIO SEGUNDO.
             <lb/>
-            De los Azotes <choice><orig>â</orig><reg type="spanish">a</reg></choice> la Columna.
+            De los Azotes â la Columna.
             <lb/>
           </head>
           COroopa ticha rizaa,
@@ -5330,6 +5333,7 @@
           <fw type="catchword" place="bottom-right">
             Ni
           </fw>
+          <!-- Avery Aghazarian's section -->
           <pb n="51"/>
           Ni zoochabui quiaà quiiebaa,
           <lb/>
@@ -5337,11 +5341,11 @@
           <lb/>
         </div>
         <div xml:id="levanto4.2.4">
-          <head type="outline"><choice><orig>Mysterio</orig><reg type="spanish">Misterio</reg></choice> Tercero. De la <choice><orig>Coronacion</orig><reg type="spanish">Coronación</reg></choice> de Espinas.</head>
+          <head type="outline">Mysterio Tercero. De la Coronacion de Espinas.</head>
           <head type="levanto" xml:lang="esp" rend="center italics">
-            <choice><orig>MYSTERIO</orig><reg type="spanish">MISTERIO</reg></choice> TERCERO.
+            MYSTERIO TERCERO.
             <lb/>
-            De la <choice><orig>Coronacion</orig><reg type="spanish">Coronación</reg></choice> de <choice><orig>Eſpinas</orig><reg type="spanish">Espinas</reg></choice>.
+            De la Coronacion de Eſpinas.
             <lb/>
           </head>
           Laapa quiiechiichi, quiie caachi,
@@ -5366,11 +5370,11 @@
           <lb/>
         </div>
         <div xml:id="levanto4.2.5">
-          <head type="outline"><choice><orig>Mysterio</orig><reg type="spanish">Misterio</reg></choice> <choice><orig>Quarto</orig><reg type="spanish">Cuarto</reg></choice>. De la Cruz ácuestas.</head>
+          <head type="outline">Mysterio Quarto. De la Cruz ácuetas.</head>
           <head type="levanto" xml:lang="esp" rend="center italics">
-            <choice><orig>MYSTERIO</orig><reg type="spanish">MISTERIO</reg></choice> <choice><orig>QUARTO</orig><reg type="spanish">CUARTO</reg></choice>.
+            MYSTERIO QUARTO.
             <lb/>
-            De la Cruz <choice><orig>ácueſtas</orig><reg type="spanish">ácuestas</reg></choice>.
+            De la Cruz ácueſtas.
             <lb/>
           </head>
           Alaarii: zeeta loo neeza
@@ -5391,11 +5395,11 @@
           <lb/>
         </div>
         <div xml:id="levanto4.2.6">
-          <head type="outline"><choice><orig>Mysterio</orig><reg type="spanish">Misterio</reg></choice> Quinto. De la <choice><orig>Crucifixion</orig><reg type="spanish">Crucifixión</reg></choice> del Señor.</head>
+          <head type="outline">Mysterio Quinto. De la Crucifixion del Señor.</head>
           <head type="levanto" xml:lang="esp" rend="center italics">
-            <choice><orig>MYSTERIO</orig><reg type="spanish">MISTERIO</reg></choice> QUINTO.
+            MYSTERIO QUINTO.
             <lb/>
-            De la <choice><orig>Crucifixion</orig><reg type="spanish">Crucifixión</reg></choice> del Señor.
+            De la Crucifixion del Señor.
             <lb/>
           </head>
           <fw type="catchword" place="bottom-right">
@@ -5403,6 +5407,7 @@
             <pc type="hyphen">-</pc>
           </fw>
           <lb/>
+          <!-- James Faville's section -->
           <pb n="52"/>
           CAnnato huechaagayaha
           <lb/>
@@ -5422,9 +5427,9 @@
           <lb/>
         </div>
         <div xml:id="levanto4.2.7">
-          <head type="outline"><choice><orig>Deprecacion</orig><reg type="spanish">Deprecación</reg></choice> a la Virgen Nuestra Señora.</head>
+          <head type="outline">Deprecacion a la Virgen Nuestra Señora.</head>
           <head type="levanto" xml:lang="esp" rend="center italics">
-            <choice><orig>Deprecacion</orig><reg type="spanish">Deprecación</reg></choice> <choice><orig>â</orig><reg type="spanish">a</reg></choice> la Virgen <choice><orig>Nueſtra</orig><reg type="spanish">Nuestra</reg></choice> Señora.
+            Deprecacion â la Virgen <choice><orig>Nueſtra</orig><reg type="spanish">Nuestra</reg></choice> Señora.
             <lb/>
           </head>
           COoyo <choice><orig>Myſterios</orig><reg type="spanish">Misterios</reg></choice> nabaana
@@ -5437,21 +5442,21 @@
           <lb/>
           Gaca ciiga ciica Amen:
           <lb/>
-          <foreign xml:lang="esp"><choice><orig>Jesvs</orig><reg type="spanish">Jesús</reg></choice>, <choice><orig>Maria</orig><reg type="spanish">María</reg></choice>, y <choice><orig>Joſeph</orig><reg type="spanish">José</reg></choice></foreign>.
+          Jesvs, Maria, y Joſeph.
           <lb/>
         </div>
       </div>
       <!-- levanto4.2 -->
       <div xml:id="levanto4.3">
-        <head type="outline"><choice><orig>Mysterios</orig><reg type="spanish">Misterios</reg></choice> Gloriosos.</head>
+        <head type="outline">Mysterios Gloriosos.</head>
         <head type="levanto" xml:lang="esp" rend="center">
-          <choice><orig>MYSTERIOS</orig><reg type="spanish">MISTERIOS</reg></choice> GLORIOSOS.
+          MYSTERIOS GLORIOSOS.
           <lb/>
         </head>
         <div xml:id="levanto4.3.1">
-          <head type="outline"><choice><orig>Deprecacion</orig><reg type="spanish">Deprecación</reg></choice> <choice><orig>ȃ</orig><reg type="spanish">a</reg></choice> la <choice><orig>Santissima</orig><reg type="spanish">Santísima</reg></choice> Virgen.</head>
+          <head type="outline">Deprecacion ȃ la Santissima Virgen.</head>
           <head type="levanto" xml:lang="esp" rend="center italics">
-            <choice><orig>Deprecacion</orig><reg type="spanish">Deprecación</reg></choice> <choice><orig>â</orig><reg type="spanish">a</reg></choice> la <choice><orig>Santiſsima</orig><reg type="spanish">Santísima</reg></choice> Virgen.
+            Deprecacion â la Santiſsima Virgen.
           </head>
           XIñaalii quellanayaanii,
           <lb/>
@@ -5466,16 +5471,17 @@
           <lb/>
         </div>
         <div xml:id="levanto4.3.2">
-          <head type="outline"><choice><orig>Mysterio</orig><reg type="spanish">Misterio</reg></choice> Primero. Del la <choice><orig>Resurreccion</orig><reg type="spanish">Resurrección</reg></choice> de <choice><orig>Christo</orig><reg type="spanish">Cristo</reg></choice>.</head>
+          <head type="outline">Mysterio Primero. Del la Resurreccion de Christo.</head>
           <head type="levanto" xml:lang="esp" rend="center italics">
-            <choice><orig>MYSTERIO</orig><reg type="spanish">MISTERIO</reg></choice> PRIMERO.
+            MYSTERIO PRIMERO.
             <lb/>
-            De la <choice><orig>Reſurreccion</orig><reg type="spanish">Resurrección</reg></choice> de <choice><orig>Chriſto</orig><reg type="spanish">Cristo</reg></choice>.
+            De la Reſurreccion de <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice>.
           </head>
           <fw type="catchword" place="bottom-right">
             Guee
             <pc type="hyphen">-</pc>
           </fw>
+          <!-- Claire Benham's section -->
           <pb n="53"/>
           Gueella xiińe huabizoo,
           <lb/>
@@ -5495,11 +5501,11 @@
           <lb/>
         </div>
         <div xml:id="levanto4.3.3">
-          <head type="outline"><choice><orig>Mysterio</orig><reg type="spanish">Misterio</reg></choice> Segundo. De la <choice><orig>Ascension</orig><reg type="spanish">Ascensión</reg></choice> de <choice><orig>Christo</orig><reg type="spanish">Cristo</reg></choice> á los Cielos.</head>
+          <head type="outline">Mysterio Segundo. De la Ascension de Christo á los Cielos.</head>
           <head type="levanto" xml:lang="esp" rend="center italics">
-            <choice><orig>MYSTERIO</orig><reg type="spanish">MISTERIO</reg></choice> SEGUNDO.
+            MYSTERIO SEGUNDO.
             <lb/>
-            De la <choice><orig>Aſcenſion</orig><reg type="spanish">Ascensión</reg></choice> de <choice><orig>Chriſto</orig><reg type="spanish">Cristo</reg></choice> à los Cielos.
+            De la Aſcenſion de <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice> à los Cielos.
             <lb/>
           </head>
           Huayaca quellahuellaa,
@@ -5512,7 +5518,7 @@
           <lb/>
           Loo Xiñaani coniixeela
           <lb/>
-          <foreign xml:lang="esp"><choice><orig>Apoſtoles</orig><reg type="spanish">Apóstoles</reg></choice></foreign>
+          <foreign xml:lang="esp">Apoſtoles</foreign>
           zoobańeeni,
           <lb/>
           Chiiquee
