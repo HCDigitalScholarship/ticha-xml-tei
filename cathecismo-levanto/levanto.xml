@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+ ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="TEISchema_current.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <text>
@@ -824,14 +824,17 @@
         <pb n="15"/>
         <p>
           nuncian como
-          <i>elles</i> en romance; <choice><orig>ſino</orig><reg type="spanish">sino</reg></choice> <choice><orig>ſolo</orig><reg type="spanish">sólo</reg></choice> algunos:
+          <i>elles</i> en romance; <choice><orig>ſino</orig><reg type="spanish">sino</reg></choice>
+          <choice><orig>ſolo</orig><reg type="spanish">sólo</reg></choice> algunos:
           <lb/>
+          los mas <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> pronuncian
+          <choice><orig>ſeparadas</orig><reg type ="spanish">separadas</reg></choice> las
           <i>eles</i>, cargando la
           <lb/>
-          vocal antecedente ſobra la primera
-          <i>ele</i>; y la ſegunda
+          vocal antecedente <choice><orig>ſobra</orig><reg type="spanish">sobra</reg></choice> la primera
+          <i>ele</i>; y la <choice><orig>ſegunda</orig><reg type="spanish">segunda</reg></choice>
           <lb/>
-          <i>ele</i> cargando ſobre la coval ſiguiente: V. g.
+          <i>ele</i> cargando <choice><orig>ſobre</orig><reg type="spanish">sobre</reg></choice> la vocal ſiguiente: V. g.
           <foreign xml:lang="zap" rend="italic">Rol-la</foreign>
           .
           <lb/>
@@ -840,14 +843,14 @@
           <pc type="hyphen">-</pc>
           <lb break="no"/>
           mo
-          <i>n</i>. y la ſegunda como
+          <i>n</i>. y la <choice><orig>ſegunda</orig><reg type="spanish">segunda</reg></choice> como
           <i>d</i>. V. g.
           <foreign xml:lang="zap" rend="italic">Quella</foreign>
           , dicen
           <i>Quenda</i>:
           <lb/>
-          y aſsi los demàs vocablos, que tienen dos
-          <i>ll</i>. ſeparadas:
+          y aſsi los <choice><orig>demàs</orig><reg type="spanish">demás</reg></choice> vocablos, que tienen dos
+          <i>ll</i>. <choice><orig>ſeparadas</orig><reg type="spanish"separadas</reg></choice>:
           <lb/>
           Iten en tierra Caliente la letra
           <i>e</i>. ordinariamente, la pro
@@ -857,22 +860,22 @@
           <i>i</i>. V. g.
           <foreign xml:lang="zap" rend="italic">Rete</foreign>
           , dicen
-          <i>Riti</i>. Quando el voca
+          <i>Riti</i>. <choice><orig>Quando</orig><reg type="spanish">Cuando</reg></choice> el voca
           <pc type="hyphen">-</pc>
           <lb break="no"/>
-          blo de mas de dos ſilabas, tiene en la penultima dos con
+          blo de <choice><orig>mas</orig><reg type="spanish">más</reg></choice> de dos <choice><orig>ſilabas</orig><reg type="spanish">sílabas</reg></choice>, tiene en la <choice><orig>penultima</orig><reg type="spanish">penúltima</reg></choice> dos con
           <pc type="hyphen">-</pc>
           <lb break="no"/>
-          ſonantes, ò dos vocales, ſe ha de pronunciar largo:
+          <choice><orig>ſonantes</orig><reg type="spanish">sonantes</reg></choice>, <choice><orig>ò</orig><reg type="spanish">o</reg></choice> dos vocales, <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> ha de pronunciar largo:
           <lb/>
-          quando no tuviere mas que una, ſe ha de pronun
+          <choice><orig>quando</orig><reg ="spanish">cuando</reg></choice> no tuviere <choice><orig>mas</orig><reg type="spanish">más</reg></choice> que una, <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> ha de pronun
           <pc type="hyphen">-</pc>
           <lb break="no"/>
           ciar breve. V. g.
           <foreign xml:lang="zap" rend="italic">Naquiñe</foreign>
           , y
           <foreign xml:lang="zap" rend="italic">Bejuana</foreign>
-          , ſe dicen, y pro
+          , <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> dicen, y pro
           <pc type="hyphen">-</pc>
           <lb break="no"/>
           nuncian largos.
