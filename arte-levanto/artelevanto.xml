@@ -4988,24 +4988,24 @@
 
     <pb n="121"/>
     Has sido brujo o’ Hechizeno?
-	Cocalo huichaa laa bixijo?
+	<foreign xml:lang= 'zap'>Cocalo huichaa laa bixijo?</foreign>
 	<lb/>
 	No Padre yo no se de eso.
 	<lb/>
-	Aca Bixooze naa yanannayarij.
+	<foreign xml:lang= 'zap'>Aca Bixooze naa yanannayarij.</foreign>
 	<lb/>
 	Has desesperado de la misericordia de Dios?
 	<lb/>
-	Yaca coleezalo quella huezaalachi quella huelaaxten
+	<foreign xml:lang= 'zap'>Yaca coleezalo quella huezaalachi quella huelaaxten
 	<lb/>
-	ni Dios?
+	ni Dios?</foreign>
 	Rezas todos los dias las oraciones; te acuerdas todo
 	<lb/>
 	los dias de Dios?
 	<lb/>
-	Huaxollalo quixaachij tichaa laaya Besuanana Dios
+	<foreign xml:lang= 'zap'>Huaxollalo quixaachij tichaa laaya Besuanana Dios
 	<lb/>
-	huarieegennalachilo guixee quixee xtenni Dios?
+	huarieegennalachilo guixee quixee xtenni Dios?</foreign>
 	<lb/>
         <choice><orig>
 	Has llamado a Dios
@@ -5022,9 +5022,9 @@
         cuando has padecido alguno trabajo o pobreza?
         </reg></choice>
         <lb/>
-	Coxeenilo Besuanana Dios chij cozaacalo quella
+	<foreign xml:lang= 'zap'>Coxeenilo Besuanana Dios chij cozaacalo quella
 	<lb/>
-	guijcha , chij coxaacalo quellarij laaguellachij baa?
+	guijcha , chij coxaacalo quellarij laaguellachij baa?</foreign>
 	<lb/>
 	El primer Mandamiento manda
     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
@@ -5067,7 +5067,9 @@
 	<lb/>
 	pecados bajo del Cielo a la tierra la segunda Pesona
 	<lb/>
-	de la SS.a Trinidad y se hizo hoombre en el purissimo
+	de la
+  SS.a
+  Trinidad y se hizo hoombre en el purissimo
 	<lb/>
 	vientre de la Virgen maria por obra del Spirtu
 	<lb/>
@@ -5151,18 +5153,22 @@
     <head type="outline">Segundo Mandamiento</head>
     Segunda Mandamiento
     <lb/>
-    Has jurado en vano el S.to Nombre de Dios Ntro
+    Has jurado en vano el
+    S.to
+    Nombre de Dios
+    Ntro
     <lb/>
 	<choice><orig>S.r</orig><reg type="spanish">Señor</reg></choice>
   o’ de la siempre Virgen Maria o’ por la senal
 	<lb/>
 	de la
   <choice><orig>S.ta</orig><reg type="spanish">Santa</reg></choice>
-  Cruz o’ por algun Sto o’ po la vida de los hom
+  Cruz o’ por algun
+  Sto o’ po la vida de los hom
 	<lb/>
 	bres?
 	<lb/>
-	Pezeetexijhuilo laa nachoono xtenni Besuanana
+	<foreign xml:lang= 'zap'>Pezeetexijhuilo laa nachoono xtenni Besuanana
 	<lb/>
 	Dios laa xtenni Zelipe chaapa cocooni
   <choice><orig>S.ta</orig><reg type="spanish">Santa</reg></choice>
@@ -5174,32 +5180,32 @@
     <pb n="123"/>
     laa niaxtenni bennabi Sta Cruz, laaniaxtenni tutila
     <lb/>
-	Sto laa niaxtenni quella nabaani benniati?
+	Sto laa niaxtenni quella nabaani benniati?</foreign>
 	<lb/>
 	<choice><orig>Quantas vezes has jurado en vano el S.to nombre de Dios?</orig>
         <reg type="spanish">¿Cuántas veces has jurado en van el Santo nombre de Dios?</reg></choice>
 	<lb/>
-	Palla liaaza pezaaca xijhuilo laa nachoono xtenni Dios?
+	<foreign xml:lang= 'zap'>Palla liaaza pezaaca xijhuilo laa nachoono xtenni Dios?</foreign>
 	<lb/>
 	<choice><orig>quando</orig><reg type="spanish">cuando</reg></choice>
         juraste en vano, juraste con mentira?
 	<lb/>
-	Chij pezaacaxijhuilo, pezaacaxijhuilo loo quella huenilachi?
+	<foreign xml:lang= 'zap'>Chij pezaacaxijhuilo, pezaacaxijhuilo loo quella huenilachi?<foreign>
 	<lb/>
     <choice><orig>Te fue muy necexario el q.e</orig>
     <reg type="spanish">¿Te fue muy necesario el que</reg></choice>
     juraras?
 	<lb/>
-	Naguijna teete looy cocani ni cozaacalo?
+	<foreign xml:lang= 'zap'>Naguijna teete looy cocani ni cozaacalo?</foreign>
 	<lb/>
 	<choice><orig>Quando</orig><reg type="spanish">¿Cuando</reg></choice>
   jurastes el S.to nombre de Dios, juraste cosa buena o
 	<lb/>
 	mala?
 	<lb/>
-	Chijpezaacalo laa xtenni Dios pezeetelo nezaaca laa
+	<foreign xml:lang= 'zap'>Chijpezaacalo laa xtenni Dios pezeetelo nezaaca laa
 	<lb/>
-	Aquij zaaca?
+	Aquij zaaca?</foreign>
 	<lb/>
     Ha de <choice><orig>saver</orig><reg type="spanish">saber</reg></choice> hijo
     <choice><orig>mio</orig><reg type="spanish">mío</reg></choice>
@@ -5223,7 +5229,7 @@ de Dios
   <choice><orig>N.tro</orig><reg type="spanish">Nuestro</reg></choice>
   <choice><orig>S.r</orig><reg type="spanish">Señor</reg></choice>
 	<lb/>
-	Quiennilo xinni xtennia ninacani naquijnateete-
+	<foreign xml:lang= 'zap'>Quiennilo xinni xtennia ninacani naquijnateete-
 	<lb/>
 	nijani juramento gacani nazaaca laa nijani gozaa-
 	<lb/>
@@ -5233,7 +5239,7 @@ de Dios
 	<lb/>
 	zaaca chelanee loo quella naguijna nija xtenni tebe-
 	<lb/>
-	la yaaca cacani toollaroo gozaaca laa xtenni Dios.
+	la yaaca cacani toollaroo gozaaca laa xtenni Dios.<foreign>
 	<lb/>
 	<choice><orig>Quando</orig><reg type="spanish">¿Cuando</reg></choice>
   juraste en vano el S.to Nombre de Dios levan-
@@ -5246,11 +5252,11 @@ de Dios
 	<lb/>
 	Entonces padecio tu proximo algun <choice><orig>dano</orig><reg type="spanish">daño</reg></choice>?
 	<lb/>
-	Chij quee goxaaca lezaalo xijtila quellaxij?
+	<foreign xml:lang= 'zap'>Chij quee goxaaca lezaalo xijtila quellaxij?<foreign>
 	<lb/>
 	Fue el <choice><orig>dano</orig><reg type="spanish">daño</reg></choice> grave o leve?
 	<lb/>
-	Goca quellazijnanoo laa huini
+	<foreign xml:lang= 'zap'>Goca quellazijnanoo laa huini</foreign>
 	<lb/>
 	No levante falso testimonio a mi proximo <choice><orig>quando
 	<lb/>
@@ -5262,11 +5268,11 @@ de Dios
 
 
     <pb n="124"/>
-    Acati pegooaxijhuialezaaya chij pezaacaya laana-
+    <foreign xml:lang= 'zap'>Acati pegooaxijhuialezaaya chij pezaacaya laana-
     <lb/>
 	choono xtenni Dios, xilaaci pezaacaxijhuia laa nachoo-
 	<lb/>
-	no xtennini.
+	no xtennini.</foreign>
 	<lb/>
 	Aun
     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
@@ -5274,9 +5280,9 @@ de Dios
 	<lb/>
 	el Sto de Dios
 	<lb/>
-	Zaabeeca cicaxijgaca tollanoo teete nacani cozaaca
+	<foreign xml:lang= 'zap'>Zaabeeca cicaxijgaca tollanoo teete nacani cozaaca
 	<lb/>
-	xijhui laa Nachoono xtenni Dios.
+	xijhui laa Nachoono xtenni Dios.</foreign>
 	<lb/>
 	<choice><orig>Quando juraste el Sto</orig><reg type = "spanish">¿Cuándo juraste el Santo</reg></choice> Nombre de Dios dudarte te siera
 	<lb/>
@@ -5284,11 +5290,11 @@ de Dios
     <choice><orig> o' mentora lo q.e decias en aguellas</orig><reg type="spanish"> o mentira lo que decías en aquellas</reg></choice>
     palabras?
 	<lb/>
-	Chijpezaacalo laa nachoono xteni Dios piganala
+	<foreign xml:lang= 'zap'>Chijpezaacalo laa nachoono xteni Dios piganala
 	<lb/>
 	chilo tebela nacani quella nallij, laa quella hue-
 	<lb/>
-	nni lachi ni cochilo loo ticha quee.
+	nni lachi ni cochilo loo ticha quee.</foreign>
 	<lb/>
 	Has sido testigo.
         <choice><orig>Has recivido </orig><reg type="spanish">¿Has recibido </reg></choice>
@@ -5296,25 +5302,25 @@ de Dios
 	<lb/>
 	dato de Juez?
 	<lb/>
-	Cocalo testigo? Coxijlo quella huezeete, loo quella
+	<foreign xml:lang= 'zap'>Cocalo testigo? Coxijlo quella huezeete, loo quella
 	<lb/>
-	rinnabea Juez?
+	rinnabea Juez?</foreign>
 	<lb/>
 	Entonces mentiste, ocultastes entonces la verdad?
 	<lb/>
-	Chijquee pennilachilo pezeegolachilo, chijquee que
+	<foreign xml:lang= 'zap'>Chijquee pennilachilo pezeegolachilo, chijquee que
 	<lb/>
-	lla nallij?
+	lla nallij?</foreign>
 	<lb/>
 	Has inducido a otros a
     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
     juren en Nombre de Dios
 	<lb/>
-	Peguijllelo zeetoobi benni nijani cozaacanilaa Dios?
+	<foreign xml:lang= 'zap'>Peguijllelo zeetoobi benni nijani cozaacanilaa Dios?</foreign>
 	<lb/>
 	Tienes costumbre de jurar el Nombre de Dios?
 	<lb/>
-	Huaxapalo xbeea cozaacalo laa Dios?
+	<foreign xml:lang= 'zap'>Huaxapalo xbeea cozaacalo laa Dios?</foreign>
 	<lb/>
 
     <pb n="125"/>
@@ -5326,15 +5332,15 @@ de Dios
     <lb/>
 	Has satificado los Domingos y Fiestas?
 	<lb/>
-	Coxijna chilo chij Domingo, chij lanijroo?
+	<foreign xml:lang= 'zap'>Coxijna chilo chij Domingo, chij lanijroo?</foreign>
 	<lb/>
 	Has dejado la misa los Domingos y Fiestas?
 	<lb/>
-	Pezaanalo Juissa chij Domingo, chij lanijroo?
+	<foreign xml:lang= 'zap'>Pezaanalo Juissa chij Domingo, chij lanijroo?</foreign>
 	<lb/>
 	<choice><orig>Porq.e omitiste la Missa, o oyr missa?</orig><reg type="spanish">¿Por qué omitiste la Misa o oir misa?</reg></choice>
 	<lb/>
-	Xijnija pezaana connalo cannalo Missa?
+	<foreign xml:lang= 'zap'>Xijnija pezaana connalo cannalo Missa?</foreign>
 	<lb/>
 	Algunos veces dese de ooyr missa porpex aza, otras
 	<lb/>
@@ -5345,44 +5351,44 @@ de Dios
 	<lb/>
 	mi Cassa
 	<lb/>
-	Huazoochij pezaana gonnaya gannaya Missaloo
+	<foreign xml:lang= 'zap'>Huazoochij pezaana gonnaya gannaya Missaloo
 	<lb/>
 	quella cobeete xtennia: Zochij nia xtenni coxaaca-
 	<lb/>
 	ya quella guicha chela zoochijnia xtenni peaana
 	<lb/>
-	gopayalichia.
+	gopayalichia.</foreign>
 	<lb/>
 	<choice><orig>Quando</orig><reg type="spanish">¿Cuando</reg></choice>
   oyste Missalos dias de fiesta te divertiste
 	<lb/>
 	voluntaria nente en el ella?
 	<lb/>
-	Chijpinatiagalo Missa chijlaanij;piaanilachilo qui
+	<foreign xml:lang= 'zap'>Chijpinatiagalo Missa chijlaanij;piaanilachilo qui
 	<lb/>
-	Toobilachilo loolaaca Missa?
+	Toobilachilo loolaaca Missa?</foreign>
 	<lb/>
 	Se quedaron los de tu casa sin oyr missa en dia de
 	<lb/>
 	fiesta por culpa tuya?
 	<lb/>
-	Peaana acati connani cannani Missa beninarij
+	<foreign xml:lang= 'zap'>Peaana acati connani cannani Missa beninarij
 	<lb/>
-	lichilo niastenni xtollalo
+	lichilo niastenni xtollalo</foriegn>
 	<lb/>
 	Has trabajado en <choice><orig>dia</orig><reg type="spanish">día</reg></choice> de fiesta
 	<lb/>
-	Pennilo Chijna Chij Domingo, chij laanijnoo?
+	<foreign xml:lang= 'zap'>Pennilo Chijna Chij Domingo, chij laanijnoo?</foreign>
 	<lb/>
         <choice><orig> que causa huvo para trabajar? fue el trabajo gran <lb/> de, o’ pequeno?</orig><reg type="spanish">¿Qué causa hubo para trabajar? ¿Fue el trabajo gran <lb/> de o pequeño?</reg></choice>
 	<lb/>
-	Xijnija goca nijani gonnilo Chijna? Chajnani
+	<foreign xml:lang= 'zap'>Xijnija goca nijani gonnilo Chijna? Chajnani
 	<lb/>
-	pennilo cocani chijnanoo laa hueni?
+	pennilo cocani chijnanoo laa hueni?</foreign>
 	<lb/>
         <choice><orig>Has hecho trabajara otros, en dias de fiesta?</orig><reg type="spanish">¿Has hecho trabajar a otros, en días de fiesta?</reg></choice>
 	<lb/>
-	Peconnilo Chijna zeetoobi benni Chijlaanijnoo?
+	<foreign xml:lang= 'zap'>Peconnilo Chijna zeetoobi benni Chijlaanijnoo?</foreign>
 	<lb/>
 
     <pb n="126"/>
@@ -5394,85 +5400,85 @@ de Dios
     <lb/>
 	<choice><orig>Has honrnado a tu Padre, y Madre?</orig><reg type="spanish">¿Has honrado a tu padre y madre?</reg></choice>
 	<lb/>
-	Goxijnachilo Bixoozeelo Chela Xinaalo?
+	<foreign xml:lang= 'zap'>Goxijnachilo Bixoozeelo Chela Xinaalo?</foreign>
 	<lb/>
     <choice><orig>Has obedicido lo q.e</orig><reg type="spanish">¿Has obedicido lo que</reg></choice>
     te han mandado tus Padres?
 	<lb/>
-	Pezooba xtichalo, ni connabeeanilooy Bixoozelo
+	<foreign xml:lang= 'zap'>Pezooba xtichalo, ni connabeeanilooy Bixoozelo
 	<lb/>
-	Xinaalo?
+	Xinaalo?</foreign>
 	<lb/>
 	Has perdido el respeto a tus Padres rehas ayrados
 	<lb/>
 	con ellos?
 	<lb/>
-	Pezaacaloolo Bixooze xinaalo pichijchilachiloloo
+	<foreign xml:lang= 'zap'>Pezaacaloolo Bixooze xinaalo pichijchilachiloloo
 	<lb/>
-	Niquee?
+	Niquee?</foreign>
 	<lb/>
 	Les pediste perdon te hincarte de rrodillos delante de
 	<lb/>
 	ellos?
 	<lb/>
-	Connabalo quella huenijtiloo, pezooxijbilolooni Bi-
+	<foreign xml:lang= 'zap'>Connabalo quella huenijtiloo, pezooxijbilolooni Bi-
 	<lb/>
-	xooze , Xinaalo?
+	xooze , Xinaalo?</foreign>
 	<lb/>
 	Pordiste el respecto a tu mayores?
 	<lb/>
-	Pezaacaloolo benni gola?
+	<foreign xml:lang= 'zap'>Pezaacaloolo benni gola?
 	<lb/>
 	Ya se hizo la paz?
 	<lb/>
-	Baa coca quella huelaaya?
+	<foreign xml:lang= 'zap'>Baa coca quella huelaaya?</foreign>
 	<lb/>
 	Tienes hijos, tienes familia les ensenas la Doctri
 	na y
     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
     amena Dios?
 	<lb/>
-	Huanoo xinnilo huarapalo benni hualichilo
+	<foreign xml:lang= 'zap'>Huanoo xinnilo huarapalo benni hualichilo
 	<lb/>
 	pegozeetelo yoobini tichalaaya xtenni Besuanana
 	<lb/>
-	Jesu Christo huanee ni gannachijniloo Dios?
+	Jesu Christo huanee ni gannachijniloo Dios?</foreign>
 	<lb/>
 	Has hecho alguna cosa mala o’ algun pecado delan-
 	<lb/>
 	te de tus hijos y familia?
 	<lb/>
-	Pennilo xijala aguijzaacalaa xijtilatollaloo nixi-
+	<foreign xml:lang= 'zap'>Pennilo xijala aguijzaacalaa xijtilatollaloo nixi-
 	<lb/>
-	nnilo chela benni hualichilo?
+	nnilo chela benni hualichilo?</foreign>
 	<lb/>
 	Amas a tu consorte como Dios
   <choice><orig>N.tro</orig><reg type="spanish">Nuestro</reg></choice>
   <choice><orig>S.r</orig><reg type="spanish">Señor</reg></choice> manda?
 	<lb/>
-	Huaranachij lechelalo cica Besuanana Dios?
+	<foreign xml:lang= 'zap'>Huaranachij lechelalo cica Besuanana Dios?
 	<lb/>
-	xennabeeani?
+	xennabeeani?</foreign>
 	<lb/>
 	Has aporreado a tu consorte?
 	<lb/>
-	Cotijnilo lechelado?
+	<foreign xml:lang= 'zap'>Cotijnilo lechelado?</foreign>
 	<lb/>
 
     <pb n="127"/>
     Has son pechado de tu Consorte?
     <lb/>
-	Pechaaxijhuilachilo lechelalo?
+	<foreign xml:lang= 'zap'>Pechaaxijhuilachilo lechelalo?</foriegn>
 	<lb/>
     <choice><orig>Le levantas te falso testimonio, diciendole q.e habia pecado?</orig><reg type="spanish">¿Le levantas te falso testimonio, diciendole que había pecado?</reg></choice>
 	<lb/>
-	Pegoaxijhuilachilo niquee huaxabilo yoobini nipexij
+	<foreign xml:lang= 'zap'>Pegoaxijhuilachilo niquee huaxabilo yoobini nipexij
 	<lb/>
-	Huineeni?
+	Huineeni?</foreign>
 	<lb/>
 	Has negado el devito a tu Consorte?
 	<lb/>
-	Peguaalo xpellalaati lechelalo?
+	<foreign xml:lang= 'zap'>Peguaalo xpellalaati lechelalo?</foreign>
 	<lb/>
 	<choice><orig>Porq.e</orig><reg type="spanish">¿Por qué</reg></choice>
     ?-------------- Xijnija?
@@ -5485,13 +5491,13 @@ de Dios
 	De ella con otro hombre, y tuve
     <choice><orig>zelos, porq.e estaba yo em<lb/>formo.</orig><reg type="spanish">celos porque estaba yo en<lb/>fermo.</reg></choice>
 	<lb/>
-	Nijaxtenni cotooxoneelachia lechelaya, niaxtenni
+	<foreign xml:lang= 'zap'>Nijaxtenni cotooxoneelachia lechelaya, niaxtenni
 	<lb/>
 	Pechaa xijhuilachia yoobini chelanee zeetoobi nigijo
 	<lb/>
 	chelanee cocaanahalachia, nijaxtenni goxaacaya-
 	<lb/>
-	quella guijcha.
+	quella guijcha.</foreign>
 	<lb/>
 	<choice><orig>Porq.e</orig><reg type="spanish">Porque</reg></choice>
     estaba con nis costumbre
@@ -5501,26 +5507,26 @@ de Dios
 	<choice><orig>porq.e</orig><reg type="spanish">porque</reg></choice>
     estaba preñada.
 	<lb/>
-	Nijaxtenni cocaxbijnija niaxtenni peyachiabatoo
+	<foreign xml:lang= 'zap'>Nijaxtenni cocaxbijnija niaxtenni peyachiabatoo
 	<lb/>
-	nijaxtenni noo xinni lijoo laanni xtennia.
+	nijaxtenni noo xinni lijoo laanni xtennia.</foreign>
 	<lb/>
 	<choice><orig>Has sustentado a tus Padres, quando has estado pobres?
 	</orig><reg type="spanish">¿Has sustentado a tus padres cuando has estado pobre?</reg></choice>
         <lb/>
-	Peyaanalo Bixoozelo Xinaalo Chijgoca chivaani?
+	<foreign xml:lang= 'zap'>Peyaanalo Bixoozelo Xinaalo Chijgoca chivaani?</foreign>
 	<lb/>
 	Pruegas a Dios por tuss Padres difunctos?
 	<lb/>
-	Reyoonila chilo loo Bitoo Dios nijaxtenni Bixoo-
+	<foreign xml:lang= 'zap'>Reyoonila chilo loo Bitoo Dios nijaxtenni Bixoo-
 	<lb/>
-	zelo Xijnaalo nicotini?
+	zelo Xijnaalo nicotini?</foreign>
 	<lb/>
 	Has cumplido sus testamentos como lo mandarosi?
 	<lb/>
-	Pezoobatichalo gujchi testamento xtennini cica con-
+	<foreign xml:lang= 'zap'>Pezoobatichalo gujchi testamento xtennini cica con-
 	<lb/>
-	nabeeani?
+	nabeeani?</foreign>
 	<lb/>
     Sedijeron las missas
       <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
@@ -5534,13 +5540,13 @@ de Dios
 	<lb/>
 	del purgatorio?
 	<lb/>
-	Cocaani missas ni connabeeani Bixooze xijñaalo
+	<foreign xml:lang= 'zap'>Cocaani missas ni connabeeani Bixooze xijñaalo
 	<lb/>
 	Loo guijchi testamento xtennini nijani Besuana
 	<lb/>
 	Na Dios cueeni animas xtennini xtenni Pur-
 	<lb/>
-	gatorio?
+	gatorio?</foreign>
 	<lb/>
 
     <pb n="128"/>
@@ -5552,69 +5558,71 @@ de Dios
     <lb/>
 	Has matado algun hombre?
 	<lb/>
-	Petilo tutila benniati?
+	<foreign xml:lang= 'zap'>Petilo tutila benniati?</foreign>
 	<lb/>
 	Has aporreado a tu proximo con palo le tiraste
 	<lb/>
 	Piedras o le heriste con fierro?
 	<lb/>
-	Cotiñelo tuti benniati lezaalo yaaga peocalo quije
+	<foreign xml:lang= 'zap'>Cotiñelo tuti benniati lezaalo yaaga peocalo quije
 	<lb/>
-	laa gochijbi guijbalo quee?
+	laa gochijbi guijbalo quee?</foreign>
 	<lb/>
 	Te has ayriado con tu proximo?
 	<lb/>
-	Pichies hilachilo lezaalo?
+	<foreign xml:lang= 'zap'>Pichies hilachilo lezaalo?</foreign>
 	<lb/>
 	Con quantos proximos? Quantas vecos?
 	<lb/>
-	Pallalezaalo? palla liaaza?
+	<foreign xml:lang= 'zap'>Pallalezaalo? palla liaaza?</foreign>
 	<lb/>
 	Has oborrecido a tu Proximo?
 	<lb/>
-	Pechijbalachilo Lezaalo?
+	<foreign xml:lang= 'zap'>Pechijbalachilo Lezaalo?</foreign>
 	<lb/>
 	Has descado la muerte a tu Proximo?
 	<lb/>
-	Gozaabilachilo quella gooti lezaalo?
+	<foreign xml:lang= 'zap'>Gozaabilachilo quella gooti lezaalo?</foreign>
 	<lb/>
 	Has descado la muerte a ? mismo o a tus Padres o con-
 	<lb/>
 	sorte o hijos?
 	<lb/>
-	Gozaabilachilo quella gooti yoobilo taa xtaata xnnaa
+	<foreign xml:lang= 'zap'>Gozaabilachilo quella gooti yoobilo taa xtaata xnnaa
 	<lb/>
-	nalo laa lechelalo laa xinnilo?
+	nalo laa lechelalo laa xinnilo?</foreign>
 	<lb/>
 	Has mal decido coteetelo?
 	<lb/>
-	Aquiel mal deciste? Tuxa Coteelo?
+	Aquiel mal deciste?
+  <foreign xml:lang= 'zap'>Tuxa Coteelo?</foreign>
 	<lb/>
 	Memaldije a mi ami consorte, a mis Padres, a mis
 	<lb/>
 	hijos a mis enemigos.
 	<lb/>
-	Gotee yoobia lechelaya, Bixoozea, xiñaaya xinnia,
+	<foreign xml:lang= 'zap'>Gotee yoobia lechelaya, Bixoozea, xiñaaya xinnia,
 	<lb/>
-	Chela xquella yeea.
+	Chela xquella yeea.</foreign>
 	<lb/>
 	Maldeciste con todo tu corazon?
 	<lb/>
-	Pechijbateelo quitoobilachilo?
+	<foreign xml:lang= 'zap'>Pechijbateelo quitoobilachilo?</foreign>
 	<lb/>
 	Mandeciste con advertencia reparando lo
     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
     decias?
 	<lb/>
-	Coteelo looquella xibaaqui xoolachihuaribaa gui
+	<foreign xml:lang= 'zap'>Coteelo looquella xibaaqui xoolachihuaribaa gui
 	<lb/>
-	tijpalachilo ni connijlo?
+	tijpalachilo ni connijlo?</foreign>
 	<lb/>
-	Solo mandeci de voca. Xilaaci cotee ruaya.
+	Solo mandeci de voca.
+  <foreign xml:lang= 'zap'>Xilaaci cotee ruaya.</foreign>
 	<lb/>
 	Quanto tiempo tuviste eseoborrccimiento?
 	<lb/>
-	Palla gubijcha copalo quella huechijbalachirij?
+	<foreign xml:lang= 'zap'>Palla gubijcha copalo quella huechijbalachirij?</foreign>
 	<lb/>
 
     <pb n="129"/>
