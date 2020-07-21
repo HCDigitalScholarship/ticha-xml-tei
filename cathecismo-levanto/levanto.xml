@@ -1063,7 +1063,7 @@
           Sancto
         </foreign>
         . Gaca ciiga ciica.
-        <foreign xml:lang="esp"><choice><orig>Jeſus</orig><reg type="spanish">Jesus</reg></choice></foreign>
+        <foreign xml:lang="esp"><choice><orig>Jeſus</orig><reg type="spanish">Jesús</reg></choice></foreign>
         .
         <lb/>
         <lb/>
@@ -1098,7 +1098,7 @@
         <lb rend="center"/>
         quella huechiie. Gaca ciiga ciica.
         <lb rend="center"/>
-        <foreign xml:lang="esp"><choice><orig>Jeſus</orig><reg type="spanish">Jesus</reg></choice></foreign>
+        <foreign xml:lang="esp"><choice><orig>Jeſus</orig><reg type="spanish">Jesús</reg></choice></foreign>
         .
         <lb/>
         <lb/>
@@ -1487,7 +1487,7 @@
             còhuini ciroo quizaacaziini loo
             <lb/>
             guii natooxo gabilla. Gaca ciiga ciiga
-            <foreign xml:lang="esp"><choice><orig>Jeſus</orig><reg type="spanish">Jesus</reg></choice></foreign>
+            <foreign xml:lang="esp"><choice><orig>Jeſus</orig><reg type="spanish">Jesús</reg></choice></foreign>
             .
           </p>
           <lb/>
@@ -1496,12 +1496,12 @@
       </div>
       <!-- levanto2.7 -->
       <div xml:id="levanto2.8">
-        <head type="outline">Los Mandamientos de la Ley de Dios ſon Diez</head>
+        <head type="outline">Los Mandamientos de la Ley de Dios <choice><orig>ſon</orig><reg type="spanish">son</reg></choice> Diez</head>
         <head rend="center">
           <foreign xml:lang="esp">
             LOS MANDAMIENTOS DE LA LEY DE
             <lb/>
-            Dios  ſon diez
+            Dios  <choice><orig>ſon</orig><reg type="spanish">son</reg></choice> diez
           </foreign>
           .
         </head>
@@ -1589,17 +1589,17 @@
         Coroopa Xiibaa nirii: Gannachilo lezaa benniaatilo,
         <lb/>
         ciica nachiiyoobilo. Gaca ciiga ciica.
-        <foreign xml:lang="esp"><choice><orig>Jeſus</orig><reg type="spanish">Jesus</reg></choice></foreign>
+        <foreign xml:lang="esp"><choice><orig>Jeſus</orig><reg type="spanish">Jesús</reg></choice></foreign>
         .
         <lb/>
       </div>
       <!-- levanto2.8 -->
       <div xml:id="levanto2.9">
-        <head type="outline">Los Mandamientos de la Santa Madre Iglefia, &amp;c.</head>
+        <head type="outline">Los Mandamientos de la Santa Madre <choice><orig>Iglefia</orig><reg type="spanish">Iglesia</reg></choice>, &amp;c.</head>
         <head rend="center" xml:lang="esp">
           LOS MANDAMIENTOS DE LA SANTA
           <lb/>
-          Madre Iglefia, &amp;c.
+          Madre <choice><orig>Iglefia</orig><reg type="spanish">Iglesia</reg></choice>, &amp;c.
         </head>
         ALaarij: Ni rennabea Xiñaana
         <foreign xml:lang="esp">Santa <choice><orig>Igleſia</orig><reg type="spanish">Iglesia</reg></choice></foreign>
@@ -1621,14 +1621,14 @@
         <lb/>
         iiza, chaaga liaaza, chii
         <foreign xml:lang="esp">
-          <hi rend="italic">Quareſma</hi>
+          <hi rend="italic"><choice><orig>Quareſma</orig><reg type-="spanish">Quaresma</reg></choice></hi>
         </foreign>
         coxoobaxtollalo, chií
         <lb/>
         huazeene racalo: chela chii racalachi ziilo
         <foreign xml:lang="esp">
           <hi rend="italic">
-            Santiſsimo
+            <choice><orig>Santiſsimo</orig><reg type="spanish">Santismo</reg></choice>
             <lb/>
             Sacramento
           </hi>
@@ -1638,10 +1638,10 @@
         3.	Coyoona Xibaa nirii: Ziiliiolachilo Xpellaalaati Bejuan-
         <lb/>
         nana
-        <foreign xml:lang="esp">Jeſu Chriſto</foreign>
+        <foreign xml:lang="esp"><choice><orig>Jeſu</orig><reg type="spanish">Jesús</reg></choice> <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice></foreign>
         chaaga chaga iiza, chaaga liaza chii
         <lb/>
-        <foreign xml:lang="esp" rend="italics">Paſcua</foreign>
+        <foreign xml:lang="esp" rend="italics"><choice><orig>Paſcua</orig><reg type="spanish">Pascua</reg></choice></foreign>
         quiie.
         <lb/>
         4.	Cotaapa Xiibaa nirii: Cocuanalo Guetta, cocuanalo pel-
@@ -1663,7 +1663,7 @@
         Xiñaana
         <foreign xml:lang="esp">Santa <choice><orig>Igleſia</orig><reg type="spanish">Iglesia</reg></choice></foreign>
         . Gàaca ciiga ciica.
-        <foreign xml:lang="esp">Jesſus</foreign>
+        <foreign xml:lang="esp"><choice><orig>Jeſus</orig><reg type="spanish">Jesús</reg></choice></foreign>
         .
         <lb/>
       </div>
@@ -1698,9 +1698,9 @@
         <pb n="23"/>
         2. Coroopa Xiibaa nirii: Quellarocaabea Bixooce Cooqui
         <lb/>
-        <foreign xml:lang="esp" rend="italics">Obiſpo</foreign>
+        <foreign xml:lang="esp" rend="italics"><choice><orig>Obiſpo</orig><reg type="spanish">Obispo</reg></choice></foreign>
         : ni laa
-        <foreign xml:lang="esp" rend="italics">Confirmacion</foreign>
+        <foreign xml:lang="esp" rend="italics"><choice><orig>Confirmacion</orig><reg type="spanish">Confirmación</reg></choice></foreign>
         <lb/>
         3. Coyoona Xiibaa nirii: Quellahuelacelâchi, puellahuea-
         <lb/>
@@ -1709,15 +1709,15 @@
         <lb/>
         4. Cotaapa Xiiba nirii: Xpellalaati nayoona Bejuannana
         <lb/>
-        <foreign xml:lang="esp">Jeſu  Chriſto</foreign>
+        <foreign xml:lang="esp"><choice><orig>Jeſu</orig><reg type="spanish">Jesús</reg></choice>  <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice></foreign>
         : ni laa
-        <foreign xml:lang="esp">Comunion</foreign>
+        <foreign xml:lang="esp"><choice><orig>Comunion</orig><reg type="spanish">Comunión</reg></choice></foreign>
         .
         <lb/>
         5. Coyoo Xibaa nirii: Quelarocaabea Bixooce Coolaaya
         <lb/>
         chii huayaatigaanni benniaati, ni laa
-        <foreign xml:lang="esp" rend="italics">Eſtrema Uncion</foreign>
+        <foreign xml:lang="esp" rend="italics"><choice><orig>Eſtrema</orig><reg type="spanish">Extrema</reg></choice> <choice><orig>Uncion</orig><reg type="spanish">Unción</reg></choice></foreign>
         .
         <lb/>
         6. Coxoopa Xiibaa nirii: Quellarigoo quellabixooce: ni laa
@@ -1731,19 +1731,19 @@
           monio
         </foreign>
         . Gaca ciiga ciiga
-        <foreign xml:lang="esp"><choice><orig>Jeſus</orig><reg type="spanish">Jesus</reg></choice></foreign>
+        <foreign xml:lang="esp"><choice><orig>Jeſus</orig><reg type="spanish">Jesús</reg></choice></foreign>
         .
         <lb/>
       </div>
       <!-- levanto2.10 -->
       <div xml:id="levanto2.11">
-        <head type="outline">Las Obras de Misericordia Son Catorze, &amp;c.</head>
+        <head type="outline">Las Obras de Misericordia Son <choice><orig>Catorze</orig><reg type="spanish">Catorce</reg></choice>, &amp;c.</head>
         <head>
           <pc rend="center">
             <foreign xml:lang="esp">
               LAS OBRAS DE MISERICORDIA SON
               <lb/>
-              catorze, &amp;c.
+              <choice><orig>catorze</orig><reg type="spanish">catorce</reg></choice>, &amp;c.
             </foreign>
           </pc>
         </head>
@@ -1752,7 +1752,7 @@
         <pc type="hyphen">-</pc>
         <lb/>
         zaani, ni laa
-        <foreign xml:lang="esp" rend="italics">Obras de Miſericordia</foreign>
+        <foreign xml:lang="esp" rend="italics">Obras de <choice><orig>Miſericordia</orig><reg type="spanish">Misericordia</reg></choice></foreign>
         . Caache loo na
         <pc type="hyphen">-</pc>
         <lb/>
