@@ -903,7 +903,7 @@
             <lb/>
             muy <choice><orig>neceſſaria</orig><reg type="spanish">necessaria</reg></choice>, que aprendais,
             <lb/>
-            y <choice><orig>ſepais</orig><reg type="spanish">sepais</reg></choice> de memoria: para que
+            y <choice><orig>ſepais</orig><reg type="spanish">sepáis</reg></choice> de memoria: para que
             <lb/>
             <choice><orig>à</orig><reg type="spanish">a</reg></choice> la mañana, y <choice><orig>â</orig><reg type="spanish">a</reg></choice> la tarde la
             <lb/>
@@ -1058,7 +1058,7 @@
         <hi rend="italic">Laa</hi>
         Bixooce, chela ✠ Xinni, chela
         <foreign xml:lang="esp">
-          <choice><orig>Eſpiritu</orig><reg type="spanish">Espiritu</reg></choice>
+          <choice><orig>Eſpiritu</orig><reg type="spanish">Espíritu</reg></choice>
           <lb rend="center"/>
           Sancto
         </foreign>
@@ -1227,7 +1227,7 @@
         <foreign xml:lang="esp">Dios</foreign>
         , ni goca benni niguiio, ni pezaa
         <foreign xml:lang="esp">
-          <choice><orig>Eſpirjtu</orig><reg type="spanish">Espiritu</reg></choice> <choice><orig>Sanc</orig><reg type="spanish">San</reg></choice>
+          <choice><orig>Eſpirjtu</orig><reg type="spanish">Espíritu</reg></choice> <choice><orig>Sanc</orig><reg type="spanish">San</reg></choice>
           <pc type="hyphen">-</pc>
           <lb/>
           <fw type="catchword" place="bottom-right">
@@ -1262,7 +1262,7 @@
         <lb break="no"/>
         gootilá . Huariieliiláchia
         <foreign xml:lang="esp">Dios</foreign>
-        <foreign xml:lang="esp"><choice><orig>Eſpiritu</orig><reg type="spanish">Espiritu</reg></choice> Santo</foreign>
+        <foreign xml:lang="esp"><choice><orig>Eſpiritu</orig><reg type="spanish">Espíritu</reg></choice> Santo</foreign>
         . Huariieliilachiaá
         <lb/>
         Xiñaaliina
@@ -1351,7 +1351,7 @@
           <foreign xml:lang="esp">Dios</foreign>
           naca
           <lb/>
-          <foreign xml:lang="esp"><choice><orig>Eſpiritu</orig><reg type="spanish">Espiritu</reg></choice> Santo.</foreign>
+          <foreign xml:lang="esp"><choice><orig>Eſpiritu</orig><reg type="spanish">Espíritu</reg></choice> Santo.</foreign>
           <lb/>
           <fw type="catchword" place="bottom-right">
             <foreign xml:lang="esp">Eſpi</foreign>
@@ -1395,7 +1395,7 @@
             ſu Chriſto
           </foreign>
           gocàni benniniguiio, ni pezaa
-          <foreign xml:lang="esp"><choice><orig>Eſpiritu</orig><reg type="spanish">Espiritu</reg></choice> Santo</foreign>
+          <foreign xml:lang="esp"><choice><orig>Eſpiritu</orig><reg type="spanish">Espíritu</reg></choice> Santo</foreign>
           <lb/>
           2.	Coroopa Xiibaa: huariieliilàchia yoobi Bejuannana
           <foreign xml:lang="esp">
@@ -1848,19 +1848,19 @@
         , niiaxtenni
         <lb/>
         benni nabaanilà, benni gootilá. Gaca ciiga ciica.
-        <foreign xml:lang="esp"><choice><orig>Jeſus</orig><reg type="spanish">Jesus</reg></choice></foreign>
+        <foreign xml:lang="esp"><choice><orig>Jeſus</orig><reg type="spanish">Jesús</reg></choice></foreign>
         .
         <lb/>
         <lb/>
       </div>
       <!-- levanto2.11 -->
       <div xml:id="levanto2.12">
-        <head type="outline">Los Pecados Mortales Son ſiete, &amp;c</head>
+        <head type="outline">Los Pecados Mortales Son <choice><orig>ſiete</orig><reg type="spanish">siete</reg></choice>, &amp;c</head>
         <head>
           <foreign xml:lang="esp">
             LOS PECADOS MORTALES SON
             <lb/>
-            ſiete, &amp;c
+            <choice><orig>ſiete</orig><reg type="spanish">siete</reg></choice>, &amp;c
           </foreign>
           .
         </head>
@@ -1871,7 +1871,7 @@
         nacanni.
         <lb/>
         1. Cotoobi loo: Quellariyaalachi, laa
-        <foreign xml:lang="esp" rend="italics">Sobervia</foreign>.
+        <foreign xml:lang="esp" rend="italics"><choice><orig>Sobervia</orig><reg type="spanish">Soberbia</reg></choice></foreign>.
         <lb/>
         2. Coroopa loo: Quellanabeeco, quellahuechoono xtenni-
         <lb/>
@@ -1894,7 +1894,7 @@
         chi, niiaxtènni laa nayaa, laa nazooba chahuilezaani,
         <lb/>
         la
-        <foreign xml:lang="esp" rend="italics">Embidia</foreign>.
+        <foreign xml:lang="esp" rend="italics"><choice><orig>Embidia</orig><reg type="spanish">Envidia</reg></choice></foreign>.
         <lb/>
         <pc rend="center">B</pc>
         <fw type="catchword" place="bottom-right">
@@ -1910,10 +1910,10 @@
       </div>
       <!-- levanto2.12 -->
       <div xml:id="levanto2.13">
-        <head type="outline">Contra Estos Siete Vicios Ay: Siete Virtudes, &amp;c.</head>
+        <head type="outline">Contra Estos Siete Vicios <choice><orig>Ay</orig><reg type="spanish">Hay</reg></choice>: Siete Virtudes, &amp;c.</head>
         <head>
           <foreign xml:lang="esp">
-            CONTRA ESTOS SIETE VICIOS AY:
+            CONTRA ESTOS SIETE VICIOS <choice><orig>AY</orig><reg type="spanish">HAY</reg></choice>:
             <lb/>
             Siete Virtudes, &amp;c.
           </foreign>
@@ -1931,7 +1931,7 @@
         <pc type="hyphen">-</pc>
         <lb />
         Tillaneeni quellariyaalàchi, laa
-        <foreign xml:lang="esp">Humildad contra ſobervia</foreign>
+        <foreign xml:lang="esp">Humildad contra <choice><orig>ſobervia</orig><reg type="spanish">soberbia</reg></choice></foreign>
         .
         <lb/>
         2. Coroopa loo: Quellanazaaca naca Quella huezaalachi,
@@ -1945,7 +1945,7 @@
         3. Coyoona loo: Quellanazaaca naca Quellacopachàhui
         <lb/>
         pellalaatini, ni ritillañeeni quella cobeexe, laa
-        <foreign xml:lang="esp">Caſtidad,
+        <foreign xml:lang="esp"><choice><orig>Caſtidad</orig><reg type="spanish">Castidad</reg></choice>,
           contra Lujuria
         </foreign>
         .
@@ -1954,7 +1954,7 @@
         <pc type="hyphen">-</pc>
         <lb/>
         llachiiloo, quellachiilàchi: laa
-        <foreign xml:lang="esp">Manſedumbre, contra ira</foreign>
+        <foreign xml:lang="esp"><choice><orig>Manſedumbre</orig><reg type="spanish">Mansedumbre</reg></choice>, contra ira</foreign>
         .
         <lb/>
         5. Coyoo loo Queiianazaaca naca Quellaraagohuaxiia,
@@ -1971,7 +1971,7 @@
         <lb/>
         laa nayaa, laà nazoobàcháhui lezaani, laa Chasidad, ô
         <lb/>
-        <foreign xml:lang="esp">Amor, contra Embidia</foreign>
+        <foreign xml:lang="esp">Amor, contra <choice><orig>Embidia</orig><reg type="spanish">Envidia</reg></choice></foreign>
         .
         <lb/>
         7. Cooche loo: Quellanazaaca nàca Quellanaciiña, quella
@@ -1985,10 +1985,10 @@
       </div>
       <!-- levanto2.13 -->
       <div xml:id="levanto2.14">
-        <head type="outline">Los Enemigos de el Alma, Son Tres, &amp;c.</head>
+        <head type="outline">Los Enemigos <choice><orig>de el</orig><reg type="spanish">del</reg></choice> Alma, Son Tres, &amp;c.</head>
         <head>
           <foreign xml:lang="esp">
-            LOS ENEMIGOS DE EL ALMA, SON
+            LOS ENEMIGOS <choice><orig>DE EL</orig><reg type="spanish">DEL</reg></choice> ALMA, SON
             <lb/>
             tres, &amp;c.
           </foreign>
@@ -2021,25 +2021,25 @@
       </div>
       <!-- levanto2.14 -->
       <div xml:id="levanto2.15">
-        <head type="outline">Las Virtudes, que Hemos de Tener, ſon ſiete, &amp;c.</head>
+        <head type="outline">Las Virtudes, que Hemos de Tener, <choice><orig>ſon</orig><reg type="spanish">son</reg></choice> <choice><orig>ſiete</orig><reg type="spanish">siete</reg></choice>, &amp;c.</head>
         <head>
           <foreign xml:lang="esp">
             LAS VIRTUDES, QUE HEMOS DE TENER,
             <lb/>
-            ſon ſiete, &amp;c.
+            <chocie><orig>ſon</orig><reg type="spanish">son</reg></choice> <choice><orig>ſiete</orig><reg type="spanish">siete</reg></choice>, &amp;c.
           </foreign>
         </head>
         <lb/>
         ALaarii: Caache Quellanazaaca, ni ronnini nazaacalàchi
         <lb/>
         benniaati laa
-        <foreign xml:lang="esp">Virtudes Theologales</foreign>
+        <foreign xml:lang="esp">Virtudes <choice><orig>Theologales</orig><reg type="spanish">Teologales</reg></choice></foreign>
         la,
         <foreign xml:lang="esp">Cardinales</foreign>
         lá:
         <lb/>
         Choona Quellanazaaca, laa
-        <foreign xml:lang="esp">Virtudes Theologales</foreign>
+        <foreign xml:lang="esp">Virtudes <choice><orig>Theologales</orig><reg type="spanish">Teologales</reg></choice></foreign>
         , rogo
         <pc type="hyphen">-</pc>
         <lb/>
@@ -2053,10 +2053,10 @@
         benniaati ruarii guechelayoo.
         <lb/>
         <div xml:id="levanto2.15.1">
-          <head type="outline">Las Virtudes Theologales, Son Tres, &amp;c.</head>
+          <head type="outline">Las Virtudes <choice><orig>Theologales</orig><reg type="spanish">Teologales</reg></choice>, Son Tres, &amp;c.</head>
           <head>
             <foreign xml:lang="esp">
-              LAS VIRTUDES THEOLOGALES, SON
+              LAS VIRTUDES <choice><orig>THEOLOGALES</orig><reg type="spanish">TEOLOGALES</reg></choice>, SON
               <lb/>
               tres, &amp;c.
             </foreign>
@@ -2064,7 +2064,7 @@
           <lb/>
           ALaarii: Chonaloo Quellanazaaca,
           <foreign xml:lang="esp">
-            laa Virtudes Theo
+            laa Virtudes <choice><orig>Theo</orig><reg type="spanish">Teo</reg></choice>
             <pc type="hyphen">-</pc>
             <lb/>
             logales
@@ -2079,24 +2079,24 @@
           <lb/>
           2. Coroopa loo: Quellanaazaca náca Quellacobeeza, laa
           <lb/>
-          <foreign xml:lang="esp">Eſperanza</foreign>
+          <foreign xml:lang="esp"><choice><orig>Eſperanza</orig><reg type+"spanish">Esperanza</reg></choice></foreign>
           .
           <lb/>
           3. Coyoona loo: Quellanazaaca nàca Quellaconnachii Dios,
           <lb/>
           laa
-          <foreign xml:lang="esp">Charidad</foreign>
+          <foreign xml:lang="esp"><choice><orig>Charidad</orig><reg type="spanish">Caridad</reg></choice></foreign>
           .
           <lb/>
         </div>
         <!-- levanto2.15.1 -->
         <div xml:id="levanto2.15.2">
-          <head type="outline">Las Virtudes Cardinales, Son Quatro, &amp;c.</head>
+          <head type="outline">Las Virtudes Cardinales, Son <choice><orig>Quatro</orig><reg type="spanish">Cuatro</reg></choice>, &amp;c.</head>
           <head>
             <foreign xml:lang="esp">
               LAS VIRTUDES CARDINALES, SON
               <lb/>
-              quatro, &amp;c.
+              <choice><orig>Quatro</orig><reg type="spanish">Cuatro</reg></choice>, &amp;c.
             </foreign>
           </head>
           <lb/>
@@ -2122,7 +2122,7 @@
           quizaa loo, chela quellahueneeche, queyareyoohuitoo
           <lb/>
           toobigaa lezaani, ni naca xtenni yoobini, la
-          <foreign xml:lang="esp" rend="italic">Juſlicia</foreign>
+          <foreign xml:lang="esp" rend="italic"><choice><orig>Juſticia</orig><reg type="spanish">Justicia</reg></choice></foreign>
           <lb/>
           3. Coyoona loo: Quellanazaaca naca Quellanaguiio, que
           <pc type="hyphen">-</pc>
@@ -2199,7 +2199,7 @@
         .
         <lb/>
         2. Coroopa loo: Quellahuiiñatiiaaga, laa
-        <foreign xml:lang="esp" rend="italic">Oir</foreign>
+        <foreign xml:lang="esp" rend="italic"><choice><orig>Oir</orig><reg type="spanish">Oír</reg></choice></foreign>
         .
         <lb/>
         3. Coyoona loo: Quellahueniipi, laa
@@ -2207,7 +2207,7 @@
         .
         <lb/>
         4. Cotaapa loo: Quellahueniixi, laa
-        <foreign xml:lang="esp" rend="italic">Guſtar</foreign>
+        <foreign xml:lang="esp" rend="italic"><choice><orig>Guſtar</orig><reg type="spanish">Gustar</reg></choice></foreign>
         .
         <lb/>
         5. Cooyo loo: Quellacoganañaa, laa
@@ -2217,16 +2217,17 @@
       </div>
       <!-- levanto2.17 -->
       <div xml:id="levanto2.18">
-        <head type="outline">Los Dones de el Espiritu Santo ſon ſiete, &amp;c.</head>
+        <head type="outline">Los Dones <choice><orig>de el</orig><reg type="spanish">del</reg></choice> <choice><orig>Espiritu</orig><reg type="spanish">Espíritu</reg></choice> Santo <choice><orig>ſon</orig><reg type="spanish">son</reg></choice>
+        <choice><orig>ſiete</orig><reg type="spanish">siete</reg></choice>, &amp;c.</head>
         <head>
           <foreign xml:lang="esp">
-            LOS DONES DE EL ESPIRITU SANTO
+            LOS DONES <choice><orig>DE EL</orig><reg type="spanish">DEL</reg></choice> <choice><orig>ESPIRITU</orig><reg type="spanish">ESPÍRITU</reg></choice> SANTO
             <lb/>
-            ſon ſiete, &amp;c.
+            <choice><orig>ſon</orig><reg type="spanish">son</reg></choice>  <choice><orig>ſiete</orig><reg type="spanish">siete</reg></choice>, &amp;c.
           </foreign>
         </head>
         <lb/>
-        Alaari: Caacheloo Xillaatoo xtènni Efpiritu Santo, ni
+        Alaari: Caacheloo Xillaatoo xtènni <choice><orig>Efpiritu</orig><reg type="spanish">Espíritu</reg></choice> Santo, ni
         <lb/>
         <fw type="catchword" place="bottom-right">
           rezaa
@@ -2239,7 +2240,7 @@
         layoo.
         <lb/>
         1.Cotoobi loo: Quellanonal xticha Dios, la
-        <foreign xml:lang="esp" rend="italic">Sabiduria</foreign>
+        <foreign xml:lang="esp" rend="italic"><choice><orig>Sabiduria</orig><reg type="spanish">Sabiduría</reg></choice></foreign>
         .
         <lb/>
         2.Coroopa loo: Quellariiennilii, laa
@@ -2247,7 +2248,7 @@
         .
         <lb/>
         3.Coyoona loo: Quellahuexiiaticha, la
-        <foreign xml:lang="esp" rend="italic">Conſejo</foreign>
+        <foreign xml:lang="esp" rend="italic"><choice><orig>Conſejo</orig><reg type="spanish">Consejo</reg></choice></foreign>
         .
         <lb/>
         4.Cotaapa loo:Quellanguiio , quellanatiipaláchie, la
@@ -2281,11 +2282,11 @@
           mor de Dios.
         </foreign>
         <div xml:id="levanto2.18.1">
-          <head type="outline">Explicacion</head>
+          <head type="outline"><choice><orig>Explicacion</orig><reg type="spanish">Explicación</reg></choice></head>
           <head>
-            <foreign xml:lang="esp">EXPLICACION.</foreign>
+            <foreign xml:lang="esp"><choice><orig>EXPLICACION</orig><reg type="spanish">EXPLICACIÓN</reg></choice>.</foreign>
           </head>
-          QUiaache loo nirii ribeexilla Dios Efpiritu Santo, róhuini
+          QUiaache loo nirii ribeexilla Dios <choice><orig>Efpiritu</orig><reg type="spanish">Espíritu</reg></orig> Santo, róhuini
           <lb/>
           benniaati, niiani gaca naguiio, gaca naguiichilachini, co
           <pc type="hyphen">-</pc>
@@ -2347,7 +2348,7 @@
         <pc type="hyphen">-</pc>
         <lb/>
         teláchini quella
-        <foreign xml:lang="esp">Juſticia</foreign>
+        <foreign xml:lang="esp"><choice><orig>Juſticia</orig><reg type="spanish">Justicia</reg></choice></foreign>
         , quellanalii: quellani quezaaca
         <lb/>
         quiielelachini.
@@ -2376,23 +2377,23 @@
         <pc type="hyphen">-</pc>
         <lb/>
         iaxtenni quella nalli
-        <foreign xml:lang="esp">Juſticia</foreign>
+        <foreign xml:lang="esp"><choice><orig>Juſticia</orig><reg type="spanish">Justicia</reg></choice></foreign>
         : quèllani bènni canii caa
         <pc type="hyphen">-</pc>
         <lb/>
         texillaani, gàca xtènni yoobini. Quella cooquii quiiebaa.
         <lb/>
         Gaca ciiga ciica.
-        <foreign xml:lang="esp"><choice><orig>Jeſus</orig><reg type="spanish">Jesus</reg></choice></foreign>
+        <foreign xml:lang="esp"><choice><orig>Jeſus</orig><reg type="spanish">Jesús</reg></choice></foreign>
         .
         <lb/>
       </div>
       <!-- levanto2.19 -->
       <div xml:id="levanto2.20">
-        <head type="outline">Los Novissimos De El Hombre</head>
+        <head type="outline">Los <choice><orig>Novissimos</orig><reg type="spanish">Novísimos</reg></choice> <choice><orig>De El</orig></reg type="spanish">Del</reg></choice> Hombre</head>
         <head type="levanto" rend="center">
           <foreign xml:lang="esp">
-            LOS NOVISSIMOS DE EL HOMBRE
+            LOS <choice><orig>NOVISSIMOS</orig><reg type="spanish">NOVÍSIMOS</reg></choice> <choice><orig>DE EL</orig><reg type="spanish">DEL</reg></choice> HOMBRE
             <lb/>
             ſon quatro, &amp;c
           </foreign>
