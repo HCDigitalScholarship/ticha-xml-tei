@@ -4059,7 +4059,7 @@
       <lb/>
       nalijloo quiraa niquinnaabaya tichalooy?</foreign>
       <lb/>
-      <choice> <orig>Como</orig><reg type="spanish">¿Como</reg></choice> te llamas?____<foreign xml:lang="zap">Tulaalo?
+      <choice> <orig>Como</orig><reg type="spanish">¿Como</reg></choice> te llamas?____<foreign xml:lang="zap">Tulaalo?</foreign>
       <lb/>
       <choice> <orig>quantos</orig><reg type="spanish">¿Cuántos</reg></choice> años tienes?
       <foreign xml:lang="zap">Palla ijiza huaxapalo?</foreign>
@@ -4495,7 +4495,7 @@
   <foreign xml:lang="zap">
   Nirijnaca cotoobi
   <choice><orig>amonestacion</orig><reg type="spanish">amonestación</reg></choice></foreign>
-  <foreign xml:lang="lat">vel<foreign> <foreign xml:lang="zap">pennabi coroopa
+  <foreign xml:lang="lat">vel</foreign> <foreign xml:lang="zap">pennabi coroopa
   <lb/>
   Coyoona pennabico-yoona   pennabi </foreign>
 
@@ -5190,7 +5190,7 @@
 	<choice><orig>quando</orig><reg type="spanish">cuando</reg></choice>
         juraste en vano, juraste con mentira?
 	<lb/>
-	<foreign xml:lang= 'zap'>Chij pezaacaxijhuilo, pezaacaxijhuilo loo quella huenilachi?<foreign>
+	<foreign xml:lang= 'zap'>Chij pezaacaxijhuilo, pezaacaxijhuilo loo quella huenilachi?</foreign>
 	<lb/>
     <choice><orig>Te fue muy necexario el q.e</orig>
     <reg type="spanish">¿Te fue muy necesario el que</reg></choice>
@@ -5239,7 +5239,7 @@ de Dios
 	<lb/>
 	zaaca chelanee loo quella naguijna nija xtenni tebe-
 	<lb/>
-	la yaaca cacani toollaroo gozaaca laa xtenni Dios.<foreign>
+	la yaaca cacani toollaroo gozaaca laa xtenni Dios.</foreign>
 	<lb/>
 	<choice><orig>Quando</orig><reg type="spanish">¿Cuando</reg></choice>
   juraste en vano el S.to Nombre de Dios levan-
@@ -5252,7 +5252,7 @@ de Dios
 	<lb/>
 	Entonces padecio tu proximo algun <choice><orig>dano</orig><reg type="spanish">daño</reg></choice>?
 	<lb/>
-	<foreign xml:lang= 'zap'>Chij quee goxaaca lezaalo xijtila quellaxij?<foreign>
+	<foreign xml:lang= 'zap'>Chij quee goxaaca lezaalo xijtila quellaxij?</foreign>
 	<lb/>
 	Fue el <choice><orig>dano</orig><reg type="spanish">daño</reg></choice> grave o leve?
 	<lb/>
@@ -5374,7 +5374,7 @@ de Dios
 	<lb/>
 	<foreign xml:lang= 'zap'>Peaana acati connani cannani Missa beninarij
 	<lb/>
-	lichilo niastenni xtollalo</foriegn>
+	lichilo niastenni xtollalo</foreign>
 	<lb/>
 	Has trabajado en <choice><orig>dia</orig><reg type="spanish">día</reg></choice> de fiesta
 	<lb/>
@@ -5427,7 +5427,7 @@ de Dios
 	<lb/>
 	Pordiste el respecto a tu mayores?
 	<lb/>
-	<foreign xml:lang= 'zap'>Pezaacaloolo benni gola?
+	<foreign xml:lang= 'zap'>Pezaacaloolo benni gola?</foreign>
 	<lb/>
 	Ya se hizo la paz?
 	<lb/>
@@ -5468,7 +5468,7 @@ de Dios
     <pb n="127"/>
     Has son pechado de tu Consorte?
     <lb/>
-	<foreign xml:lang= 'zap'>Pechaaxijhuilachilo lechelalo?</foriegn>
+	<foreign xml:lang= 'zap'>Pechaaxijhuilachilo lechelalo?</foreign>
 	<lb/>
     <choice><orig>Le levantas te falso testimonio, diciendole q.e habia pecado?</orig><reg type="spanish">¿Le levantas te falso testimonio, diciendole que había pecado?</reg></choice>
 	<lb/>
