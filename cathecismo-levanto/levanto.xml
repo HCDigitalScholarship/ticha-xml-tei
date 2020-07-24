@@ -5439,21 +5439,21 @@
           <lb/>
           Gaca ciiga ciica Amen:
           <lb/>
-          Jesvs, Maria, y Joſeph.
+          <choice><orig>Jesvs</orig><reg type="spanish">Jesús</reg></choice>, <choice><orig>Maria</orig><reg type="spanish">María</reg></choice>, y <choice><orig>Joſeph</orig><reg type="spanish">José</reg></choice>.
           <lb/>
         </div>
       </div>
       <!-- levanto4.2 -->
       <div xml:id="levanto4.3">
-        <head type="outline">Mysterios Gloriosos.</head>
+        <head type="outline"><choice><orig>Mysterios</orig><reg type="spanish">Misterios</reg></choice> Gloriosos.</head>
         <head type="levanto" xml:lang="esp" rend="center">
-          MYSTERIOS GLORIOSOS.
+          <choice><orig>MYSTERIOS</orig><reg type="spanish">MISTERIOS</reg></choice> GLORIOSOS.
           <lb/>
         </head>
         <div xml:id="levanto4.3.1">
-          <head type="outline">Deprecacion ȃ la Santissima Virgen.</head>
+          <head type="outline"><choice><orig>Deprecacion</orig><reg type="spanish">Deprecación</reg></choice> <choice><orig>ȃ</orig><reg type="spanish">a</reg></choice> la <choice><orig>Santissima</orig><reg type="spanish">Santísima</reg></choice> Virgen.</head>
           <head type="levanto" xml:lang="esp" rend="center italics">
-            Deprecacion â la Santiſsima Virgen.
+            <choice><orig>Deprecacion</orig><reg type="spanish">Deprecaciín</reg></choice> <choice><orig>â</orig><reg type="spanish">a</reg></choice> la <choice><orig>Santiſsima</orig><reg type="spanish">Santísima</reg></choice> Virgen.
           </head>
           XIñaalii quellanayaanii,
           <lb/>
