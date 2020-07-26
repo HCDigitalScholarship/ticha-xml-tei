@@ -2455,14 +2455,14 @@
         .
         <lb/>
         1. Cotoobi loo: chii ranna, ronna cháhui bènni
-        <foreign xml:lang="esp" rend="italics">Miſſa</foreign>
+        <foreign xml:lang="esp" rend="italics"><choice><orig>Miſſa</orig><reg type="spanish">misa</reg></choice</foreign>
         .
         <lb/>
         2. Coroopa loo: chii ribiigalii bénni riziilii quitoobi lachi
         <pc type="hyphen">-</pc>
         <lb/>
         ni Xpellalaati Bejuánnana
-        <foreign xml:lang="esp">Jeſu-Chriſto</foreign>
+        <foreign xml:lang="esp"><choice><orig>Jeſu</orig><reg type="spanish">Jesús</reg></choice>-<choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice></foreign>
         .
         <lb/>
         3. Coyoona loo: chii ronnatiiaaga bénni libaana xticha
@@ -2470,10 +2470,10 @@
         Dios.
         <lb/>
         4. Cotaapa loo: chii ronnilaaya Cooqui
-        <foreign xml:lang="esp">Obiſpo</foreign>
+        <foreign xml:lang="esp"><choice><orig>Obiſpo</orig><reg type="spanish">Obispo</reg></choice></foreign>
         loo bènni
         <lb/>
-        <foreign xml:lang="esp">Chriſtiano</foreign>
+        <foreign xml:lang="esp"><choice><orig>Chriſtiano</orig><reg type="spanish">Christiano</reg></choice></foreign>
         .
         <lb/>
         5. Cooyo loo: chii rinni bènni: laaya
@@ -2516,7 +2516,7 @@
             YO PECADOR ME CONFIESSO A DIOS,
             <lb/>
             &amp;c.
-            <emph rend="italics">ex Miſſal Romano</emph>
+            <emph rend="italics">ex <choice><orig>Miſſal</orig><reg type="spanish">Misal</reg></choice> Romano</emph>
           </foreign>
           .
           <lb/>
@@ -2524,16 +2524,16 @@
         Naa huexihui roxoobaxtollaya loo Bejuanna Dios, ni
         <lb/>
         quizaalagóca, loo
-        <foreign xml:lang="esp">Santa Maria</foreign>
+        <foreign xml:lang="esp">Santa <choice><orig>Maria</orig><reg type="spanish">María</reg></choice></foreign>
         zellii Cocooni yoona:
         <lb/>
         loo
         <foreign xml:lang="esp">San Miguel Archangel</foreign>
         , loo
-        <foreign xml:lang="esp">San Juan Bautiſta</foreign>
+        <foreign xml:lang="esp">San Juan <choice><orig>Bautiſta</orig><reg type="spanish">Bautista</reg></choice></foreign>
         , loo
         <lb/>
-        <foreign xml:lang="esp">Santos Apoſtoles Pedro</foreign>
+        <foreign xml:lang="esp">Santos <choice><orig>Apoſtoles</orig><reg type="spanish">Apostoles</reg></choice> Pedro</foreign>
         là,
         <foreign xml:lang="esp">Pablo</foreign>
         là, loo quiraalii
