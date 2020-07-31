@@ -996,15 +996,15 @@
         <pb n="15"/>
         <p>
           nuncian como
-          <i>elles</i> en romance; ſino ſolo algunos:
+          <i>elles</i> en romance; <choice><orig>fino</orig><reg type="spanish">sino</reg></choice> <choice><orig>folo</orig><reg type="spanish">solo</reg></choice> algunos:
           <lb/>
-          los mas ſe pronuncian ſeparadas las
+          los mas <choice><orig>fe</orig><reg type="spanish">se</reg></choice> pronuncian <choice><orig>feparadas</orig><reg type="spanish">separadas</reg></choice> las
           <i>eles</i>, cargando la
           <lb/>
-          vocal antecedente ſobra la primera
-          <i>ele</i>; y la ſegunda
+          vocal antecedente <choice><orig>fobra</orig><reg type="spanish">sobra</reg></choice> la primera
+          <i>ele</i>; y la <choice><orig>fegunda</orig><reg type="spanish">segunda</reg></choice>
           <lb/>
-          <i>ele</i> cargando ſobre la coval ſiguiente: V. g.
+          <i>ele</i> cargando <choice><orig>fobre</orig><reg type="spanish">sobre</reg></choice> la coval <choice><orig>figuiente</orig><reg type="spanish">siguiente</reg></choice>: V. g.
           <foreign xml:lang="zap" rend="italic">Rol-la</foreign>
           .
           <lb/>
@@ -1013,14 +1013,14 @@
           <pc type="hyphen">-</pc>
           <lb break="no"/>
           mo
-          <i>n</i>. y la ſegunda como
+          <i>n</i>. y la <choice><orig>fegunda</orig><reg type="spanish">segunda</reg></choice> como
           <i>d</i>. V. g.
           <foreign xml:lang="zap" rend="italic">Quella</foreign>
           , dicen
           <i>Quenda</i>:
           <lb/>
           y aſsi los demàs vocablos, que tienen dos
-          <i>ll</i>. ſeparadas:
+          <i>ll</i>. <choice><orig>feparadas</orig><reg type="spanish">separadas</reg></choice>:
           <lb/>
           Iten en tierra Caliente la letra
           <i>e</i>. ordinariamente, la pro
@@ -1033,12 +1033,12 @@
           <i>Riti</i>. Quando el voca
           <pc type="hyphen">-</pc>
           <lb break="no"/>
-          blo de mas de dos ſilabas, tiene en la penultima dos con
+          blo de mas de dos <choice><orig>filabas</orig><reg type="spanish">silabas</reg></choice>, tiene en la penultima dos con
           <pc type="hyphen">-</pc>
           <lb break="no"/>
-          ſonantes, ò dos vocales, ſe ha de pronunciar largo:
+          <choice><orig>fonantes</orig><reg type="spanish">sonantes</reg></choice>, ò dos vocales, <choice><orig>fe</orig><reg type="spanish">se</reg></choice> ha de pronunciar largo:
           <lb/>
-          quando no tuviere mas que una, ſe ha de pronun
+          quando no tuviere mas que una, <choice><orig>fe</orig><reg type="spanish">se</reg></choice> ha de pronun
           <pc type="hyphen">-</pc>
           <lb break="no"/>
           ciar breve. V. g.
@@ -1808,7 +1808,7 @@
         3.	Coyoona Xibaa nirii: Ziiliiolachilo Xpellaalaati Bejuan-
         <lb/>
         nana
-        <foreign xml:lang="esp"><choice><orig>Jeſu</orig><reg type="spanish">Jesús</reg></choice> <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice></foreign>
+        <foreign xml:lang="esp"><choice><orig>Jeſu</orig><reg type="spanish">Jesu</reg></choice> <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice></foreign>
         chaaga chaga iiza, chaaga liaza chii
         <lb/>
         <foreign xml:lang="esp" rend="italics"><choice><orig>Paſcua</orig><reg type="spanish">Pascua</reg></choice></foreign>
@@ -2196,7 +2196,7 @@
           <foreign xml:lang="esp">
             LAS VIRTUDES, QUE HEMOS DE TENER,
             <lb/>
-            <chocie><orig>ſon</orig><reg type="spanish">son</reg></choice> <choice><orig>ſiete</orig><reg type="spanish">siete</reg></choice>, &amp;c.
+            <choice><orig>ſon</orig><reg type="spanish">son</reg></choice> <choice><orig>ſiete</orig><reg type="spanish">siete</reg></choice>, &amp;c.
           </foreign>
         </head>
         <lb/>
@@ -2560,12 +2560,12 @@
       </div>
       <!-- levanto2.19 -->
       <div xml:id="levanto2.20">
-        <head type="outline">Los <choice><orig>Novissimos</orig><reg type="spanish">Novísimos</reg></choice> <choice><orig>De El</orig></reg type="spanish">Del</reg></choice> Hombre</head>
+        <head type="outline">Los <choice><orig>Novissimos</orig><reg type="spanish">Novísimos</reg></choice> <choice><orig>De El</orig></reg type="spanish">Del</reg></choice>Hombre</head>
         <head type="levanto" rend="center">
           <foreign xml:lang="esp">
             LOS <choice><orig>NOVISSIMOS</orig><reg type="spanish">NOVÍSIMOS</reg></choice> <choice><orig>DE EL</orig><reg type="spanish">DEL</reg></choice> HOMBRE
             <lb/>
-            ſon quatro, &amp;c
+            <choice><orig>fon</orig><reg type="spanish">son</reg></choice> <choice><orig>quatro</orig><reg type="spanish">cuatro</reg></choice>, &amp;c
           </foreign>
           .
           <lb/>
