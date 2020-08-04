@@ -2996,9 +2996,9 @@
         là,
         <foreign xml:lang="esp">San Juan</foreign>
         <lb/>
-        <foreign xml:lang="esp">Bautiſta</foreign>
+        <foreign xml:lang="esp"><choice><orig>Bautiſta</orig><reg type="spanish">Bautista</reg></choice></foreign>
         là,
-        <foreign xml:lang="esp">Santos Apoſtoles Pedro</foreign>
+        <foreign xml:lang="esp">Santos <choice><orig>Apoſtoles</orig><reg type="spanish">Apostoles</reg></choice> Pedro</foreign>
         là,
         <foreign xml:lang="esp">Pablo</foreign>
         là, huañee
@@ -3012,7 +3012,7 @@
         queyoonniciicalo, lachi Bejuannana Dios, niiaxtenni naa.
         <lb/>
         Gaca ciiga ciica.
-        <foreign xml:lang="esp"><choice><orig>Jeſus</orig><reg type="spanish">Jesus</reg></choice>.</foreign>
+        <foreign xml:lang="esp"><choice><orig>Jeſus</orig><reg type="spanish">Jesús</reg></choice>.</foreign>
         <lb/>
       </div>
       <!-- levanto2.22 -->
@@ -3058,13 +3058,13 @@
         <foreign xml:lang="esp" rend="italics">
           Si la
           <lb/>
-          dixere ſolo, ſe quitaran los dos (n) parenteſis; y añadi
+          dixere <choice><orig>ſolo</orig><reg type="spanish">sólo</reg></choice>, <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> quitaran los dos (n) <choice><orig>parenteſis</orig><reg type="spanish">parentesis</reg></choice>; y añadi
           <pc type="hyphen">-</pc>
           <lb/>
           ra
         </foreign>
         : Reyoonniaciica lachi
-        <foreign xml:lang="esp">Santa Maria</foreign>
+        <foreign xml:lang="esp">Santa <choice><orig>Maria</orig><reg type="spanish">María</reg></choice></foreign>
         , zellii Cocooni
         <lb/>
         yoona,
@@ -3132,7 +3132,7 @@
         <lb/>
         <foreign xml:lang="zap">tolla loolo: Channa Dios he!</foreign>
         <lb rend="center"/>
-        <foreign xml:lang="esp">FIN DE LAS ORACIONES,</foreign>
+        <foreign xml:lang="esp">FIN DE LAS <choice><orig>ORACIONES</orig><reg type="spanish">ORACIÓNES</reg></orig>,</foreign>
         <lb/>
       </div>
       <!-- levanto2.24 -->
@@ -3304,7 +3304,7 @@
         <lb/>
         la Virgen Santa <choice><orig>Maria</orig><reg type="spanish">María</reg></choice>.
         <lb/>
-        P. Porquè <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> llama <choice><orig>Chriſto</orig><reg type="spanish">Cristo</reg></choice>?
+        P. <choice><orig>Porquè</orig><reg type="spanish">Porque</reg></choice> <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> llama <choice><orig>Chriſto</orig><reg type="spanish">Cristo</reg></choice>?
         <lb/>
         R. Por la grande abundancia,
         <lb/>
@@ -3315,7 +3315,7 @@
         <lb/>
         ro Redemptor?
         <lb/>
-        R. Si: es el verdadero Redẽp
+        R. Si: es el verdadero <choice><orig>Redẽp</orig><reg type="spanish">Redemp</reg></choice>
         <pc type="hyphen">-</pc>
         <lb/>
         tor de todos los hombres.
@@ -3337,7 +3337,7 @@
       <pc type="hyphen">-</pc>
       <lb/>
       na
-      <foreign xml:lang="esp">Jeſu-Chriſto</foreign>
+      <foreign xml:lang="esp"><choice><orig>Jeſu-Chriſto</orig><reg type="spanish">Jesucristo</reg></choice></foreign>
       .
       <lb/>
       <foreign xml:lang="zap">Xii zeeloo ticha quella</foreign>
@@ -3392,12 +3392,12 @@
         Santa Ma
         <pc type="hyphen">-</pc>
         <lb/>
-        ria
+        <choice><orig>ria</orig><reg type="spanish">ría</reg></choice>
       </foreign>
       <foreign xml:lang="zap">Cocooni yoona.</foreign>
       <lb/>
       <foreign xml:lang="zap">Xii niia laani</foreign>
-      <foreign xml:lang="esp">Chriſto</foreign>
+      <foreign xml:lang="esp"><choice><orig>Chriſto</orig><reg type="spanish">Cristo</reg></choice></foreign>
       ?
       <lb/>
       <foreign xml:lang="zap">Laani loo quella ciroo, ci</foreign>
@@ -3409,7 +3409,7 @@
       <lb/>
       <foreign xml:lang="zap">quiraaliicaxeeni</foreign>.
       <lb/>
-      <foreign xml:lang="esp">Chriſto</foreign>
+      <foreign xml:lang="esp"><choice><orig>Chriſto</orig><reg type="spanish">Cristo</reg></choice></foreign>
       <foreign xml:lang="zap">nirii huanaca hue</foreign>
       <pc type="hyphen">-</pc>
       <lb/>
@@ -3438,7 +3438,7 @@
       <pb n="34"/>
       <cb n="1"/>
       <foreign xml:lang="esp" rend="italics">
-        P. Que Doctrina <choice><orig>enſeñò</orig><reg type="spanish">enseñó</reg></choice> <choice><orig>á</orig><reg type="spanish">a</reg></choice> los
+        P. <choice><orig>Que</orig><reg type="spanish">¿Qué</reg></choice> Doctrina <choice><orig>enſeñò</orig><reg type="spanish">enseñó</reg></choice> <choice><orig>á</orig><reg type="spanish">a</reg></choice> los
         <lb/>
         hombres?
         <lb/>
@@ -3470,7 +3470,7 @@
         <lb/>
         R. Porque en el Arbol de la
         <lb/>
-        Cruz muriò <choice><orig>Nueſtro</orig><reg type="spanish">Nuestro</reg></choice> Señor
+        Cruz <choice><orig>muriò</orig><reg type="spanish">murió</reg></choice>< <choice><orig>Nueſtro</orig><reg type="spanish">Nuestro</reg></choice> Señor
         <lb/>
         <choice><orig>Jeſu-Chriſto</orig><reg type="spanish">Jesucristo</reg></choice>, y en ella redi
         <pc type="hyphen">-</pc>
@@ -3488,7 +3488,7 @@
         <choice><orig>Eſspiritu</orig><reg type="spanish">Espíritu</reg></choice> Santo: tres <choice><orig>Perſo</orig><reg type="spanish">Perso</reg></choice>
         <pc type="hyphen">-</pc>
         <lb/>
-        nas <choice><orig>diſtintas</orig><reg type="spanish">distintas</reg></choice>, y un <choice><orig>ſolo</orig><reg type="spanish">sólo</reg></choice> Dios
+        nas <choice><orig>diſtintas</orig><reg type="spanish">distintas</reg></choice>, y un <choice><orig>ſolo</orig><reg type="spanish">solo</reg></choice> Dios
         <lb/>
         verdadero.
         <lb/>
@@ -3542,7 +3542,7 @@
         <pc type="hyphen">-</pc>
         <lb/>
         na,
-        <foreign xml:lang="esp">Maria</foreign>
+        <foreign xml:lang="esp"><choice><orig>Maria</orig><reg type="spanish">María</reg></choice></foreign>
         <foreign xml:lang="zap">he! Annaa Chan</foreign>
         <pc type="hyphen">-</pc>
         <lb/>
@@ -3591,7 +3591,7 @@
       <lb/>
       <foreign xml:lang="zap">Tuxa naca Bitoo?</foreign>
       <lb/>
-      <foreign xml:lang="esp">Santiſsima Trinidad</foreign>
+      <foreign xml:lang="esp"><choice><orig>Santiſsima</orig><reg type="spanish">Santísima</reg></choice> Trinidad</foreign>
       .
       <lb/>
       <foreign xml:lang="zap">Tuxa naca</foreign>
@@ -3601,7 +3601,7 @@
       <foreign xml:lang="zap">Dios, Bixooce, Dios Xinni</foreign>
       <lb/>
       <foreign xml:lang="zap">Dios</foreign>
-      <foreign xml:lang="esp"><choice><orig>Eſpiritu</orig><reg type="spanish">Espiritu</reg></choice> Santo</foreign>
+      <foreign xml:lang="esp"><choice><orig>Eſpiritu</orig><reg type="spanish">Espíritu</reg></choice> Santo</foreign>
       : <foreign xml:lang="zap">chonna</foreign>
       <lb/>
       <foreign xml:lang="esp">Perſona</foreign>
@@ -3637,7 +3637,7 @@
       <lb/>
       P. Son <choice><orig>trs</orig><reg type="spanish">tres</reg></choice> <choice><orig>Dioſes</orig><reg type="spanish">Dioses</reg></choice>?
       <lb/>
-      R. No <choice><orig>ſon</orig><reg type="spanish">son</reg></choice> tres, <choice><orig>ſino</orig><reg type="spanish">sino</reg></choice> un <choice><orig>ſolo</orig><reg type="spanish">sólo</reg></choice>
+      R. No <choice><orig>ſon</orig><reg type="spanish">son</reg></choice> tres, <choice><orig>ſino</orig><reg type="spanish">sino</reg></choice> un <choice><orig>ſolo</orig><reg type="spanish">solo</reg></choice>
       <lb/>
       Dios, Todo <choice><orig>poderoſo</orig><reg type="spanish">poderoso</reg></choice>, <choice><orig>Cria</orig><reg type="spanish">Crea</reg></choice>
       <pc type="hyphen">-</pc>
@@ -3653,7 +3653,7 @@
       P. El Hijo que tiene, lo en
       <pc type="hyphen">-</pc>
       <lb/>
-      gendro como engendran hi
+      <choice><orig>gendro</orig><reg type="spanish">gendró</reg></choice> como engendran hi
       <pc type="hyphen">-</pc>
       <lb/>
       jos los hombres?
@@ -3665,7 +3665,7 @@
       <lb/>
       dimiento.
       <lb/>
-      P. Porqué la <choice><orig>ſegunda</orig><reg type="spanish">segunda</reg></choice> <choice><orig>Perſona</orig><reg type="spanish">Persona</reg></choice>
+      P. <choice><orig>Porqué</orig><reg type="spanish">Por qué</reg></choice> la <choice><orig>ſegunda</orig><reg type="spanish">segunda</reg></choice> <choice><orig>Perſona</orig><reg type="spanish">Persona</reg></choice>
       <lb/>
       de la <choice><orig>Santiſsima</orig><reg type="spanish">Santísima</reg></choice> Trinidad
       <lb/>
@@ -3675,12 +3675,12 @@
       <lb/>
       la primera Perſona, que lo
       <lb/>
-      engendro en <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> limpio, y <choice><orig>ſa</orig><reg type="spanish">sa</reg></choice>
+      <choice><orig>engendro</orig><reg type="spanish">engendró</reg></choice> en <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> limpio, y <choice><orig>ſa</orig><reg type="spanish">sa</reg></choice>
       <pc type="hyphen">-</pc>
       <lb/>
       grado entendimiento.
       <lb/>
-      P. Porqué la tercera <choice><orig>Perſona</orig><reg type="spanish">Persona</reg></choice>,
+      P. <choice><orig>Porqué</orig><reg type="spanish">Por qué</reg></choice> la tercera <choice><orig>Perſona</orig><reg type="spanish">Persona</reg></choice>,
       <lb/>
       <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> llama <choice><orig>Eſpiritu</orig><reg type="spanish">Espiritu</reg></choice> Santo?
       <lb/>
@@ -3704,10 +3704,10 @@
       <foreign xml:lang="zap">Huanaca Dios.</foreign>
       <lb/>
       <foreign xml:lang="zap">oyoona</foreign>
-      <foreign xml:lang="esp">Perſona</foreign>
+      <foreign xml:lang="esp"><choice><orig>Perſona<</orig><reg type="spanish">Persona</reg></choice></foreign>
       <foreign xml:lang="zap">ni naca</foreign>
       <lb/>
-      <foreign xml:lang="esp"><choice><orig>Eſpiritu</orig><reg type="spanish">Espiritu</reg></choice> Sãto</foreign>
+      <foreign xml:lang="esp"><choice><orig>Eſpiritu</orig><reg type="spanish">Espíritu</reg></choice> <choice><orig>Sãto</orig><reg type="spanish">Santo</reg></choice></foreign>
       <foreign xml:lang="zap">huanaca Dios?</foreign>
       <lb/>
       <foreign xml:lang="zap">Huanaca Dios.</foreign>
@@ -3832,7 +3832,7 @@
           Dios es puro <choice><orig>Eſpiritu</orig><reg type="spanish">Espíritu</reg></choice>.
           <lb/>
           <lb/>
-          P. Porqué pintan <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> imagen
+          P. <choice><orig>Porqué</orig><reg type="spanish">Por qué</reg></choice> pintan <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> imagen
           <lb/>
           como un hombre, que tiene
           <lb/>
@@ -3906,7 +3906,7 @@
       <foreign xml:lang="zap">laà guiicha looxoni: niiax</foreign>
       <pc type="hyphen">-</pc>
       <lb break="no"/>
-      <foreign xml:lang="zap">tenni naca Biitoo</foreign> <choice><orig>Eſpiritu</orig><reg type="spanish">Espiritu</reg></choice>
+      <foreign xml:lang="zap">tenni naca Biitoo</foreign> <choice><orig>Eſpiritu</orig><reg type="spanish">Espíritu</reg></choice>
       <lb/>
       <foreign xml:lang="zap">nayoona</foreign>.
       <lb/>
@@ -3967,7 +3967,7 @@
         <foreign xml:lang="esp">
           <lb/>
           <lb/>
-          P. El <choice><orig>Eſpiritu</orig><reg type="spanish">Espiritu</reg></choice> Santo es por
+          P. El <choice><orig>Eſpiritu</orig><reg type="spanish">Espíritu</reg></choice> Santo es por
           <lb/>
           ventura paloma?
           <lb/>
@@ -3975,7 +3975,7 @@
           <lb/>
           porque <choice><orig>ſolamente</orig><reg type="spanish">solamente</reg></choice> es Dios
           <lb/>
-          <choice><orig>Eſpiritu</orig><reg type="spanish">Espiritu</reg></choice> puro.
+          <choice><orig>Eſpiritu</orig><reg type="spanish">Espíritu</reg></choice> puro.
           <lb/>
           P. <choice><orig>Porqué</orig><reg type="spanish">Por qué</reg></choice> pintan <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> imagen,
           <lb/>
@@ -4026,7 +4026,7 @@
           unto a la humana natura
           <pc type="hyphen">-</pc>
           <lb/>
-          leza, que conſta de cuerpo,
+          leza, que <choice><orig>conſta</orig><reg type="spanish">consiste</reg></choice> de cuerpo,
           <lb/>
           y alma, como <choice><orig>noſotros</orig><reg type="spanish">nosotros</reg></choice>: por
           <lb/>
@@ -4041,7 +4041,7 @@
       <lb/>
       <foreign xml:lang="zap">gootini</foreign>.
       <lb/>
-      Yoobi <choice><orig>Eſpiritu</orig><reg type="spanish">Espiritu</reg></choice> Santo hua
+      Yoobi <choice><orig>Eſpiritu</orig><reg type="spanish">Espíritu</reg></choice> Santo hua
       <pc type="hyphen">-</pc>
       29.
       <lb/>
@@ -4053,7 +4053,7 @@
       <foreign xml:lang="zap">laati rapini, cani nacani Bii</foreign>
       <pc type="hyphen">-</pc>
       <lb/>
-      too <choice><orig>Eſpiritu</orig><reg type="spanish">Espiritu</reg></choice> nayona.
+      too <choice><orig>Eſpiritu</orig><reg type="spanish">Espíritu</reg></choice> nayona.
       <lb/>
     <foreign xml:lang="zap">  Xiixaniia rozeeni loohuaa   30.</foreign>
       <lb/>
@@ -4119,7 +4119,7 @@
       <lb/>
       <cb n=""/>
       <fw type="catchword" place="bottom-right">
-        <foreign xml:lang="esp">Chriſ</foreign>
+        <foreign xml:lang="esp"><choice><orig>Chriſ</orig><reg type="spanish">Chris</reg></choice></foreign>
         <pc type="hyphen">-</pc>
         <lb/>
       </fw>
@@ -4129,27 +4129,27 @@
       <foreign xml:lang="esp" rend="italics">
         P. <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice> es uno, <choice><orig>ô</orig><reg type="spanish">o</reg></choice> dos?
         <lb/>
-        R. Es uno <choice><orig>ſolo</orig><reg type="spanish">sólo</reg></choice>; porque aunque
+        R. Es uno <choice><orig>ſolo</orig><reg type="spanish">solo</reg></choice>; porque aunque
         <lb/>
         tiene dos naturalezas, divi
         <pc type="hyphen">-</pc>
         <lb/>
-        na, y humana; mas la Per
+        na, y humana; <choice><orig>mas</orig><reg type="spanish">más</reg></choice> la Per
         <pc type="hyphen">-</pc>
         <lb/>
         <choice><orig>ſona</orig><reg type="spanish">sona</reg></choice> no es <choice><orig>mas</orig><reg type="spanish">más</reg></choice> que una.
         <lb/>
-        P. Donde <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> hizo hombre?
+        P. <choice><orig>Donde</orig><reg type="spanish">Dónde</reg><choice> <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> hizo hombre?
         <lb/>
         R. En el vientre <choice><orig>puriſsimo</orig><reg type="spanish">purísimo</reg></choice> de
         <lb/>
         la Virgen Santa <choice><orig>Maria</orig><reg type="spanish">María</reg></choice>.
         <lb/>
-        P. Como <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> hizo hombre?
+        P. <choice><orig>Como</orig><reg type="spanish">Cómo</reg><choice> <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> hizo hombre?
         <lb/>
-        R. <choice><orig>Hizoſe</orig><reg type="spanish">Se hizo</reg></choice> hombre por obra de
+        R. <choice><orig>Hizoſe</orig><reg type="spanish">Se hizo</reg></choice> hombre por obra <choice><orig>de</orig><reg type="spanish">del</reg><choice>
         <lb/>
-        el <choice><orig>Eſpiritu</orig><reg type="spanish">Espíritu</reg></choice> Santo.
+        <choice><orig>de</orig><reg type="spanish"></reg><choice> <choice><orig>Eſpiritu</orig><reg type="spanish">Espíritu</reg></choice> Santo.
         <lb/>
         P. <choice><orig>Quantas</orig><reg type="spanish">Cuantas</reg></choice> obras hizo enton
         <pc type="hyphen">-</pc>
@@ -4165,7 +4165,7 @@
         ma <choice><orig>ſangre</orig><reg type="spanish">sangre</reg></choice> de la Virgen Ma
         <pc type="hyphen">-</pc>
         <lb/>
-        ria formo el cuerpo de <choice><orig>Chriſ</orig><reg type="spanish">Cris</reg></choice>
+        <choice><orig>ria</orig><reg type="spanish">ría</reg><choice> formo el cuerpo de <choice><orig>Chriſ</orig><reg type="spanish">Cris</reg></choice>
         <pc type="hyphen">-</pc>
         <lb/>
         to. La <choice><orig>ſeguda</orig><reg type="spanish">segunda</reg></choice>; crio el alma.
@@ -4224,7 +4224,7 @@
       <pc type="hyphen">-</pc>
       <lb/>
       ona
-      <foreign xml:lang="esp">Santa Maria</foreign>
+      <foreign xml:lang="esp">Santa <choice><orig>Maria</orig><reg type="spanish">María</reg></choice></foreign>
       .
       <lb/>
       <foreign xml:lang="zap">Xanacaxà gocani bennia</foreign>
@@ -4238,7 +4238,7 @@
       <pc type="hyphen">-</pc>
       37.
       <lb/>
-      <foreign xml:lang="esp">ritu Sãto</foreign>
+      <foreign xml:lang="esp">ritu <choice><orig>Sãto</orig><reg type="spanish">Santo</reg></choice></foreign>
       goca benni niguiio.
       <lb/>
       Palla chiiña pennini
@@ -4246,7 +4246,7 @@
         <choice><orig>Eſ</orig><reg type="spanish">Es</reg></choice>
         <pc type="hyphen">-</pc>
         <lb/>
-        piritu Santo
+        <choice><orig>piritu</orig><reg type="spanish">píritu</reg></choice> Santo
       </foreign>
       chiique?
       <lb/>
@@ -4257,7 +4257,7 @@
       <pc type="hyphen">-</pc>
       <lb/>
       <foreign xml:lang="zap">yoona xtenni</foreign>
-      <foreign xml:lang="esp">Santa Maria</foreign>
+      <foreign xml:lang="esp">Santa <choice><orig>Maria</orig><reg type="spanish">María</reg></choice></foreign>
       ,
       <lb/>
       <foreign xml:lang="zap">pezaani xpellalaati xte-</foreign>
@@ -4281,10 +4281,10 @@
       <pc type="hyphen">-</pc>
       <lb/>
       cani: Dios
-      <foreign xml:lang="esp"><choice><orig>Eſpiritu</orig><reg type="spanish">Espiritu</reg></choice> Santo</foreign>
+      <foreign xml:lang="esp"><choice><orig>Eſpiritu</orig><reg type="spanish">Espíritu</reg></choice> Santo</foreign>
       <lb/>
       peteeteni loo
-      <foreign xml:lang="esp">Santa Maria</foreign>
+      <foreign xml:lang="esp">Santa <choice><orig>Maria</orig><reg type="spanish">María</reg></choice></foreign>
       <lb/>
       quellanazaaca, niiani galle
       <pc type="hyphen">-</pc>
@@ -4330,7 +4330,7 @@
         <lb/>
         <lb/>
         <lb/>
-        P. Quien <choice><orig>muriò</orig><reg type="spanish">murió</reg></choice> en la Cruz?
+        P. <choice><orig>Quien</orig><reg type="spanish">¿Quién</reg></choice> <choice><orig>muriò</orig><reg type="spanish">murió</reg></choice> en la Cruz?
         <lb/>
         <lb/>
         R. <choice><orig>Nueſro</orig><reg type="spanish">Nuestro</reg></choice> Señor <choice><orig>Jeſu</orig><reg type="spanish">Jesu</reg></choice> <choice><orig>Chriſto</orig><reg type="spanish">Cristo</reg></choice>.
@@ -4345,7 +4345,7 @@
         no en <choice><orig>quanto</orig><reg type="spanish">cuanto</reg></choice> Dios.
         <lb/>
         <lb/>
-        P. <choice><orig>Quando</orig><reg type="spanish">Cuando</reg></choice> <choice><orig>Nueſtro</orig><reg type="spanish">Nuestro</reg></choice> Señor Je
+        P. <choice><orig>Quando</orig><reg type="spanish">¿Cuando</reg></choice> <choice><orig>Nueſtro</orig><reg type="spanish">Nuestro</reg></choice> Señor Je
         <pc type="hyphen">-</pc>
         <lb break="no"/>
         <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> <choice><orig>Chriſto</orig><reg type="spanish">Cristo</reg></choice> <choice><orig>muriò</orig><reg type="spanish">murió</reg></choice> en la Cruz
@@ -4353,7 +4353,7 @@
         <choice><orig>adõde</orig><reg type="spanish">donde</reg></choice> fue <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> <choice><orig>ſagrada</orig><reg type="spanish">sagrada</reg></choice> alma?
         <lb/>
         <lb/>
-        R. <choice><orig>Deſcendio</orig><reg type="spanish">Descendió</reg></choice> a el Infierno, lla
+        R. <choice><orig>Deſcendio</orig><reg type="spanish">Descendió</reg></choice> <choice><orig>a el</orig><reg type="spanish">al</reg></choice> Infierno, lla
         <pc type="hyphen">-</pc>
         <lb break="no"/>
         mado Limbo, donde <choice><orig>eſtabã</orig><reg type="spanish">estaban</reg></choice>
@@ -4366,18 +4366,18 @@
         do, en gracia de Dios.
         <lb/>
         <lb/>
-        P. <choice><orig>Quando</orig><reg type="spanish">Cuando</reg></choice> ſaliò del Limbo el
+        P. <choice><orig>Quando</orig><reg type="spanish">¿Cuando</reg></choice> <choice><orig>faliò</orig><reg type="spanish">falió</reg></choice> del Limbo el
         <lb/>
         alma de <choice><orig>Nueſtro</orig><reg type="spanish">Nuestro</reg></choice> Señor Je-
-        ſu <choice><orig>Chriſto</orig><reg type="spanish">Cristo</reg></choice>?
+        <choice><orig>ſu Chriſto</orig><reg type="spanish">sucristo</reg></choice>?
         <lb/>
-        R. Luego al tercero <choice><orig>dia</orig><reg type="spanish">día</reg></choice> ſaliò
+        R. Luego al tercero <choice><orig>dia</orig><reg type="spanish">día</reg></choice> <choice><orig>faliò</orig><reg type="spanish">falió</reg></choice>
         <lb/>
         aquella <choice><orig>ſagrada</orig><reg type="spanish">sagrada</reg></choice> alma, y <choice><orig>ſe</orig><reg type="spanish">se</reg></choice>
         <lb/>
         <choice><orig>reuniò</orig><reg type="spanish">reunió</reg></choice> al cuerpo de Nro Sr.
         <lb/>
-        <choice><orig>Jeſu-</orig><reg type="spanish">Jesu-</reg></choice> <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice>, y entonces re
+        <choice><orig>Jeſu-Chriſto</orig><reg type="spanish">Jesucristo</reg></choice>, y entonces re
         <pc type="hyphen">-</pc>
         <lb break="no"/>
         <choice><orig>ſucito</orig><reg type="spanish">sucitó</reg></choice> de entre los muertos.
@@ -4469,14 +4469,14 @@
       <lb/>
       <cb n=""/>
       <fw type="catchword" place="bottom-right">
-        <foreign xml:lang="esp" rend="italics">Quien</foreign>
+        <foreign xml:lang="esp" rend="italics"><choice><orig>Quien</orig><reg type="spanish">¿Quién</reg></choice></foreign>
       </fw>
       <pb n="40"/>
       <cb n="1"/>
       <lb/>
       <foreign xml:lang="esp">
         <hi rend="italic">
-          P. Quien ayudò <choice><orig>â</orig><reg type="spanish">a</reg></choice> <choice><orig>Nueſtro</orig><reg type="spanish">Nuestro</reg></choice> Se
+          P. <choice><orig>Quien</orig><reg type="spanish">¿Quién</reg></choice> <choice><orig>ayudò</orig><reg type="spanish">ayudió</reg></choice> <choice><orig>â</orig><reg type="spanish">a</reg></choice> <choice><orig>Nueſtro</orig><reg type="spanish">Nuestro</reg></choice> Se
           <pc type="hyphen">-</pc>
           <lb break="no"/>
           ñor Jeſu-<choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice>  <choice><orig>quando</orig><reg type="spanish">cuando</reg></choice> re
@@ -4492,7 +4492,7 @@
           <lb break="no"/>
           der <choice><orig>reſucitò</orig><reg type="spanish">resucitó</reg></choice>.
           <lb/>
-          P: <choice><orig>Quando</orig><reg type="spanish">Cuando</reg></choice> <choice><orig>ſubiò</orig><reg type="spanish">subió</reg></choice> <choice><orig>â</orig><reg type="spanish">a</reg></choice> los Cielos?
+          P: <choice><orig>Quando</orig><reg type="spanish">¿Cuando</reg></choice> <choice><orig>ſubiò</orig><reg type="spanish">subió</reg></choice> <choice><orig>â</orig><reg type="spanish">a</reg></choice> los Cielos?
           <lb/>
           <lb/>
           R: <choice><orig>Quando</orig><reg type="spanish">Cuando</reg></choice> <choice><orig>paſſaron</orig><reg type="spanish">pasaron</reg></choice> <choice><orig>quarenta</orig><reg type="spanish">cuarenta</reg></choice>
@@ -4501,14 +4501,14 @@
           <lb/>
           Cielos.
           <lb/>
-          P: <choice><orig>Quando</orig><reg type="spanish">Cuando</reg></choice> volverá <choice><orig>â</orig><reg type="spanish">a</reg></choice> bajar
+          P: <choice><orig>Quando</orig><reg type="spanish">¿Cuando</reg></choice> volverá <choice><orig>â</orig><reg type="spanish">a</reg></choice> bajar
           <lb/>
           aqui a la tierra?
           <lb/>
           R: <choice><orig>Quando</orig><reg type="spanish">Cuando</reg></choice> <choice><orig>ſea</orig><reg type="spanish">sea</reg></choice> el fin del mun
           <pc type="hyphen">-</pc>
           <lb break="no"/>
-          do, entonces volverà otra
+          do, entonces <choice><orig>volverà</orig><reg type="spanish">volverá</reg></choice> otra
           <lb/>
           vez; para que <choice><orig>ſean</orig><reg type="spanish">sean</reg></choice> <choice><orig>juz ga</orig><reg type="spanish">juzga</reg></choice>
           <pc type="hyphen">-</pc>
@@ -4516,7 +4516,7 @@
           dos los vivos, y los muertos.
           <lb/>
           <lb/>
-          P: Que premio <choice><orig>darà</orig><reg type="spanish">dará</reg></choice> á los bue
+          P: <choice><orig>Que</orig><reg type="spanish">¿Qué</reg></choice> premio <choice><orig>darà</orig><reg type="spanish">dará</reg></choice> <choice><orig>á</orig><reg type="spanish">a</reg></choice> los bue
           <pc type="hyphen">-</pc>
           <lb break="no"/>
           Nos?
@@ -4528,7 +4528,7 @@
           en <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> gracia.
           <lb/>
           <lb/>
-          P: Que <choice><orig>retribucion</orig><reg type="spanish">retribución</reg></choice> hará <choice><orig>â</orig><reg type="spanish">a</reg></choice> los
+          P: <choice><orig>Que</orig><reg type="spanish">¿Qué</reg></choice> <choice><orig>retribucion</orig><reg type="spanish">retribución</reg></choice> hará <choice><orig>â</orig><reg type="spanish">a</reg></choice> los
           <lb/>
           Malos?
           <lb/>
@@ -4538,12 +4538,12 @@
           <lb/>
           <choice><orig>ſiẽpre</orig><reg type="spanish">siempre</reg></choice> por toda la eternidad
           <lb/>
-          P: Quien <choice><orig>diſpuſo</orig><reg type="spanish">dispuso</reg></choice>, y <choice><orig>ordeno</orig><reg type="spanish">ordenó</reg></choice> los
+          P: <choice><orig>Quien</orig><reg type="spanish">¿Quién</reg></choice> <choice><orig>diſpuſo</orig><reg type="spanish">dispuso</reg></choice>, y <choice><orig>ordeno</orig><reg type="spanish">ordenó</reg></choice> los
           <lb/>
           <choice><orig>ſiete</orig><reg type="spanish">siete</reg></choice> <choice><orig>ſacramentos</orig><reg type="spanish">sacramentos</reg></choice>?
           <lb/>
           <lb/>
-          R: Jeſu <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice> <choice><orig>Nueſtro</orig><reg type="spanish">Nuestro</reg></choice> Señor.
+          R: <choice><orig>Jeſu Chriſto</orig><reg type="spanish">Jesucristo</reg></choice <choice><orig>Nueſtro</orig><reg type="spanish">Nuestro</reg></choice> Señor.
           <lb/>
         </hi>
       </foreign>
@@ -4552,7 +4552,7 @@
       <lb/>
       Tu gocañeeni Bejuanna-
       na
-      <foreign xml:lang="esp">Jesu-Christo</foreign>
+      <foreign xml:lang="esp"><choice><orig>Jeſu-Chriſto</orig><reg type="spanish">Jesucristo</reg></choice</foreign>
       : chii peba
       <pc type="hyphen">-</pc>
       <lb break="no"/>
@@ -4636,13 +4636,13 @@
       .
       <lb/>
       Bejuannana
-      <foreign xml:lang="esp">Jeſu-<choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice></foreign>
+      <foreign xml:lang="esp"><choice><orig>Jeſu-Chriſto</orig><reg type="spanish">Jesucristo</reg></choice</foreign>
       .
       <lb/>
       <cb n=""/>
       <fw type="catchword" place="bottom-right">
         <foreign xml:lang="esp">
-          <hi rend="italic">Que</hi>
+          <hi rend="italic"><choice><orig>Que</orig><reg type="spanish">¿Qué</reg></choice></hi>
         </foreign>
       </fw>
       <!-- Avery Aghazarian's section -->
@@ -4650,7 +4650,7 @@
       <cb n="1"/>
       <foreign xml:lang="esp">
         <hi rend="italic">
-          Que virtud tienen los <choice><orig>ſiete</orig><reg type="spanish">siete</reg></choice> Să
+          <choice><orig>Que</orig><reg type="spanish">¿Qué</reg></choice> virtud tienen los <choice><orig>ſiete</orig><reg type="spanish">siete</reg></choice> <choice><orig>Să</orig><reg type="spanish">Sa</reg></choice>
           <pc type="hyphen">-</pc>
           <lb/>
           tos Sacramentos?
@@ -4665,7 +4665,7 @@
           <lb/>
           de los <choice><orig>hobres</orig><reg type="spanish">hombres</reg></choice> la divina gracia
           <lb/>
-          P. Quien <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice> en el <choice><orig>Santiſsimo</orig><reg type="spanish">Santísimo</reg></choice>
+          P. <choice><orig>Queien</orig><reg type="spanish">¿Quién</reg></choice> <choice><orig>eſta</orig><reg type="spanish">está</reg></choice> en el <choice><orig>Santiſsimo</orig><reg type="spanish">Santísimo</reg></choice>
           <lb/>
           Sacramento del altar?
           <lb/>
@@ -4679,12 +4679,12 @@
           mo está en el cielos, <choice><orig>aſsi</orig><reg type="spanish">así</reg></choice> tam
           <pc type="hyphen">-</pc>
           <lb/>
-          bien <choice><orig>eſtà</orig><reg type="spanish">está</reg></choice> en el <choice><orig>Santiſsimo</orig><reg type="spanish">Santísimo</reg></choice>
+          <choice><orig>bien</orig><reg type="spanish">bién</reg></choice> <choice><orig>eſtà</orig><reg type="spanish">está</reg></choice> en el <choice><orig>Santiſsimo</orig><reg type="spanish">Santísimo</reg></choice>
           <lb/>
           Sacramento del altar.
           <lb/>
           <lb/>
-          P. <choice><orig>Quando</orig><reg type="spanish">Cuando</reg></choice> baja <choice><orig>â</orig><reg type="spanish">a</reg></choice> la <choice><orig>Hoſtia</orig><reg type="spanish">Hostia</reg></choice>
+          P. <choice><orig>Quando</orig><reg type="spanish">Cuándo</reg></choice> baja <choice><orig>â</orig><reg type="spanish">a</reg></choice> la <choice><orig>Hoſtia</orig><reg type="spanish">Hostia</reg></choice>
           <lb/>
           Nrò. Sr. Jeſu <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice>?
           <lb/>
@@ -4694,9 +4694,9 @@
           <lb/>
           la <choice><orig>Conca gracion</orig><reg type="spanish">Consagración</reg></choice>.
           <lb/>
-          P. Queda el pan en la <choice><orig>hoſtia</orig><reg type="spanish">hostia</reg></choice>, <choice><orig>ô</orig><reg type="spanish">o</reg></choice>
+          P. <choice><orig>Queda</orig><reg type="spanish">¿Queda</reg></choice> el pan en la <choice><orig>hoſtia</orig><reg type="spanish">hostia</reg></choice>, <choice><orig>ô</orig><reg type="spanish">o</reg></choice>
           <lb/>
-          el vino en el Caliz, <choice><orig>deſpues</orig><reg type="spanish">despues</reg></choice>
+          el vino en el <choice><orig>Caliz</orig><reg type="spanish">Cáliz</reg></choice>, <choice><orig>deſpues</orig><reg type="spanish">después</reg></choice>
           <lb/>
           de decir el Sacerdote, las pa
           <pc type="hyphen">-</pc>
@@ -4706,7 +4706,7 @@
           llamado <choice><orig>Conſagracion</orig><reg type="spanish">Consagración</reg></choice>?
           <lb/>
           <lb/>
-          R. Ni el pan, ni el vino quedòs
+          R. Ni el pan, ni el vino <choice><orig>quedòs</orig><reg type="spanish">quedan</reg></choice>
           <lb/>
           porque por virtud de las pa
           <pc type="hyphen">-</pc>
@@ -4715,7 +4715,7 @@
           <lb/>
           pan <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> <choice><orig>converte</orig><reg type="spanish">convierte</reg></choice> en el cuerpo
           <lb/>
-          de Nrò. Sr. Jesu-<choice><orig>Chriſto</orig><reg type="spanish">Cristo</reg></choice>,
+          de <choice><orig>Nrò.</orig><reg type="spanish">Nuestro</reg></choice> Sr. <choice><orig>Jeſu-Christo</orig><reg type="spanish">Jesucristo</reg></choice>,
           <lb/>
           Y el vino <choice><orig>converte</orig><reg type="spanish">convierte</reg></choice> en el
           <lb/>
@@ -4742,12 +4742,12 @@
       <foreign xml:lang="zap">Tu rebeezani lanni Sa</foreign>
       <pc type="hyphen">-</pc>
       <lb/>
-      ntiſsimo Sacramento xten
+      <choice><orig>ntiſsimo</orig><reg type="spanish">ntísimo</reg></choice> Sacramento xten
       <pc type="hyphen">-</pc>
       <lb/>
       ni becoogo?
       <lb/>
-      Bejuannana Jeſu-<choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice>:
+      Bejuannana <choice><orig>Jeſu-Christo</orig><reg type="spanish">Jesucristo</reg></choice>:
       <lb/>
       quitoobi anima, quitoobi
       <lb/>
@@ -4766,15 +4766,15 @@
       Cocaxa rieeteni Bejuanna
       <pc type="hyphen">-</pc>
       <lb/>
-      na Jeſu-<choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice> lanni hoſtia?
+      na <choice><orig>Jeſu-Christo</orig><reg type="spanish">Jesucristo</reg></choice> lanni hoſtia?
       <lb/>
       Rieeteni chii hulooxe ti
       <pc type="hyphen">-</pc>
       <lb/>
-      cha nayoona xtenni Conſa
+      cha nayoona xtenni <choice><orig>Conſa</orig><reg type="spanish">Consa</reg></choice>
       <pc type="hyphen">-</pc>
       <lb/>
-      gracion?
+      <choice><orig>gracion?</orig><reg type="spanish">gración</reg></choice>
       <lb/>
       Peaana gueectalá lanni
       <lb/>
@@ -4789,7 +4789,7 @@
       too ticha nayona, ni pin
       <pc type="hyphen">-</pc>
       <lb/>
-      niiona Conſagracion.
+      niiona <choice><orig>Consagracion?</orig><reg type="spanish">Consagración</reg></choice>.
       <lb/>
       Acà peaana guettala, acà
       <lb/>
@@ -4799,7 +4799,7 @@
       ni loo quellanazaacà xiti
       <pc type="hyphen">-</pc>
       <lb/>
-      cha Conſagracion, ribrixi,
+      cha <choice><orig>Consagracion?</orig><reg type="spanish">Consagración</reg></choice>, ribrixi,
       <lb/>
       reacani gueeta xpellala
       <pc type="hyphen">-</pc>
@@ -4812,7 +4812,7 @@
       <cb n=""/>
       <fw type="catchword" place="bottom-right">
         <foreign xml:lang="esp">
-          <hi rend="italic">Quan</hi>
+          <hi rend="italic"><choice><orig>Quan</orig><reg type="spanish">Cuan</reg></choice</hi>
         </foreign>
         <pc type="hyphen">-</pc>
         <lb/>
