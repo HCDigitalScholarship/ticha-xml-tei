@@ -1019,7 +1019,7 @@
           , dicen
           <i>Quenda</i>:
           <lb/>
-          y aſsi los demàs vocablos, que tienen dos
+          y <choice><orig>afsi</orig><reg type="spanish">asi</reg></choice> los demàs vocablos, que tienen dos
           <i>ll</i>. <choice><orig>feparadas</orig><reg type="spanish">separadas</reg></choice>:
           <lb/>
           Iten en tierra Caliente la letra
@@ -1030,7 +1030,7 @@
           <i>i</i>. V. g.
           <foreign xml:lang="zap" rend="italic">Rete</foreign>
           , dicen
-          <i>Riti</i>. Quando el voca
+          <i>Riti</i>. <choice><orig>Quando</orig><reg type="spanish">Cuando</reg></choice> el voca
           <pc type="hyphen">-</pc>
           <lb break="no"/>
           blo de mas de dos <choice><orig>filabas</orig><reg type="spanish">silabas</reg></choice>, tiene en la penultima dos con
@@ -1038,7 +1038,7 @@
           <lb break="no"/>
           <choice><orig>fonantes</orig><reg type="spanish">sonantes</reg></choice>, ò dos vocales, <choice><orig>fe</orig><reg type="spanish">se</reg></choice> ha de pronunciar largo:
           <lb/>
-          quando no tuviere mas que una, <choice><orig>fe</orig><reg type="spanish">se</reg></choice> ha de pronun
+          <choice><orig>quando</orig><reg type="spanish">cuando</reg></choice> no tuviere mas que una, <choice><orig>fe</orig><reg type="spanish">se</reg></choice> ha de pronun
           <pc type="hyphen">-</pc>
           <lb break="no"/>
           ciar breve. V. g.
@@ -1144,7 +1144,7 @@
     </div>
     <!-- levanto1 -->
     <div xml:id="levanto2">
-      <head type="outline">Cathecismo de la Doctrina Christiana, en lengua Zapoteca de el Valle</head>
+      <head type="outline">Cathecismo de la Doctrina Christiana, en lengua Zapoteca <choice><orig>de el</orig><reg type="spanish">del</reg></choice> Valle</head>
       <head type="levanto" xml:lang="esp">
         CATHECISMO DE
         <lb/>
@@ -1316,7 +1316,7 @@
       </div>
       <!-- levanto2.4 -->
       <div xml:id="levanto2.5">
-        <head type="outline">Dios Te Salve Reyna, y Madre de <choice><orig>Miſericordia</orig><reg type="spanish">Misericordia</reg></choice>, &amp;c.</head>
+        <head type="outline">Dios Te Salve <choice><orig>Reyna</orig><reg type="spanish">Reina</reg></choice>, y Madre de <choice><orig>Miſericordia</orig><reg type="spanish">Misericordia</reg></choice>, &amp;c.</head>
         <head>
           <foreign xml:lang="esp">
             DIOS TE SALVE REYNA, Y MADRE
@@ -1342,7 +1342,7 @@
         connina he! Pechiiciica pizaaloolo, connaciica tonoo: Chela
         <lb/>
         Quellanaaxi, ni coxaanalo Bejuannana
-        <foreign xml:lang="esp"><choice><orig>Jeſu</orig><reg type="spanish">Jesús</reg></choice> <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice></foreign>
+        <foreign xml:lang="esp"><choice><orig>Jeſu</orig><reg type="spanish">Jesu</reg></choice> <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice></foreign>
         , colloo
         <pc type="hyphen">-</pc>
         <lb break="no"/>
@@ -1389,7 +1389,7 @@
         <pc type="hyphen">-</pc>
         <lb break="no"/>
         Ieliilàchia Bejuannana
-        <foreign xml:lang="esp"><choice><orig>Jeſu</orig><reg type="spanish">Jesús</reg></choice> <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice></foreign>
+        <foreign xml:lang="esp"><choice><orig>Jeſu</orig><reg type="spanish">Jesu</reg></choice> <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice></foreign>
         , cannitoobi cii
         <pc type="hyphen">-</pc>
         <lb break="no"/>
@@ -1571,7 +1571,7 @@
           <foreign xml:lang="esp">
             Je-
             <lb/>
-            <choice><orig>ſu</orig><reg type="spanish">sús</reg></choice> <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice>
+            <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice>
           </foreign>
           golleliini lanni
           <foreign xml:lang="esp"><choice><orig>Sancta</orig><reg type="spanish">Santa</reg></choice> <choice><orig>Maria</orig><reg type="spanish">María</reg></choice></foreign>
@@ -1583,7 +1583,7 @@
           <foreign xml:lang="esp">
             Je-
             <lb/>
-            <choice><orig>ſu</orig><reg type="spanish">sús</reg></choice> <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice>
+            <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice>
           </foreign>
           , cani quellaniguiioni peaaziiláchini, gootini
           <lb/>
@@ -1597,7 +1597,7 @@
           <foreign xml:lang="esp">
             Je-
             <lb/>
-            <choice><orig>ſu</orig><reg type="spanish">sús</reg></choice> <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice>
+            <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice>
           </foreign>
           pieeteni gabilla, goleeni
           <foreign xml:lang="esp">animas</foreign>
@@ -1611,7 +1611,7 @@
           <lb/>
           5. Cooyo Xiibaa: huariieliiláchia yoobi Bejuannana
           <foreign xml:lang="esp">
-            <choice><orig>Jeſu-</orig><reg type="spanish">Jesús-</reg></choice>
+            <choice><orig>Jeſu-</orig><reg type="spanish">Jesu-</reg></choice>
             <lb/>
             <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice>
           </foreign>
@@ -1621,7 +1621,7 @@
           <foreign xml:lang="esp">
             Je-
             <lb/>
-            <choice><orig>ſu</orig><reg type="spanish">sús</reg></choice> <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice>
+            <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice>
           </foreign>
           , cottete corùa chii peaápini quiiebaa, cochi-
           <lb/>
@@ -1633,7 +1633,7 @@
           <foreign xml:lang="esp">
             Je-
             <lb/>
-            <choice><orig>ſu</orig><reg type="spanish">sús</reg></choice> <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice>
+            <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice>
           </foreign>
           ruàcani quíta guetoogotíchani beni nabaani-
           <lb/>
@@ -1671,7 +1671,7 @@
           <foreign xml:lang="esp">
             LOS MANDAMIENTOS DE LA LEY DE
             <lb/>
-            Dios  <choice><orig>ſon</orig><reg type="spanish">son</reg></choice> diez
+            Dios <choice><orig>ſon</orig><reg type="spanish">son</reg></choice> diez
           </foreign>
           .
         </head>
@@ -1879,7 +1879,7 @@
         <lb/>
         4. Cotaapa Xiiba nirii: Xpellalaati nayoona Bejuannana
         <lb/>
-        <foreign xml:lang="esp"><choice><orig>Jeſu</orig><reg type="spanish">Jesús</reg></choice>  <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice></foreign>
+        <foreign xml:lang="esp"><choice><orig>Jeſu</orig><reg type="spanish">Jesu</reg></choice>  <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice></foreign>
         : ni laa
         <foreign xml:lang="esp"><choice><orig>Comunion</orig><reg type="spanish">Comunión</reg></choice></foreign>
         .
@@ -2632,7 +2632,7 @@
         <pc type="hyphen">-</pc>
         <lb/>
         ni Xpellalaati Bejuánnana
-        <foreign xml:lang="esp"><choice><orig>Jeſu</orig><reg type="spanish">Jesús</reg></choice>-<choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice></foreign>
+        <foreign xml:lang="esp"><choice><orig>Jeſu</orig><reg type="spanish">Jesu</reg></choice>-<choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice></foreign>
         .
         <lb/>
         3. Coyoona loo: chii ronnatiiaaga bénni libaana xticha
@@ -2680,10 +2680,10 @@
       </div>
       <!-- levanto2.21 -->
       <div xml:id="levanto2.22">
-        <head type="outline">Yo Pecador Me Confiesso a Dios</head>
+        <head type="outline">Yo Pecador Me <choice><orig>Confiesso</orig><reg type="spanish">Confieso</reg></choice> a Dios</head>
         <head type="levanto" rend="center">
           <foreign xml:lang="esp">
-            YO PECADOR ME CONFIESSO A DIOS,
+            YO PECADOR ME <choice><orig>CONFIESSO</orig><reg type="spanish">CONFIESO</reg></choice> A DIOS,
             <lb/>
             &amp;c.
             <emph rend="italics">ex <choice><orig>Miſſal</orig><reg type="spanish">Misal</reg></choice> Romano</emph>
