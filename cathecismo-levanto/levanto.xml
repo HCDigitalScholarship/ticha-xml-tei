@@ -1263,13 +1263,9 @@
           , dicen
           <i>Quenda</i>:
           <lb/>
-<<<<<<< HEAD
-          y <choice><orig>afsi</orig><reg type="spanish">asi</reg></choice> los demàs vocablos, que tienen dos
-=======
           y
           <choice><orig>aſsi</orig><reg type="spanish">así</reg></choice> los demàs vocablos,
           que tienen dos
->>>>>>> 0fdf2e92358725457717d20f83c9977db7413044
           <i>ll</i>. <choice><orig>feparadas</orig><reg type="spanish">separadas</reg></choice>:
           <lb/>
           Iten en tierra Caliente la letra
@@ -1280,7 +1276,7 @@
           <i>i</i>. V. g.
           <foreign xml:lang="zap" rend="italic">Rete</foreign>
           , dicen
-          <i>Riti</i>. <choice><orig>Quando</orig><reg type="spanish">Cuando</reg></choice> el voca
+          <i>Riti</i>. Quando el voca
           <pc type="hyphen">-</pc>
           <lb break="no"/>
           blo de mas de dos <choice><orig>filabas</orig><reg type="spanish">silabas</reg></choice>,
@@ -1291,12 +1287,8 @@
           ò dos vocales, <choice><orig>fe</orig><reg type="spanish">se</reg></choice>
           ha de pronunciar largo:
           <lb/>
-<<<<<<< HEAD
-          <choice><orig>quando</orig><reg type="spanish">cuando</reg></choice> no tuviere mas que una, <choice><orig>fe</orig><reg type="spanish">se</reg></choice> ha de pronun
-=======
           quando no tuviere mas que una, <choice><orig>fe</orig><reg type="spanish">se</reg></choice>
           ha de pronun
->>>>>>> 0fdf2e92358725457717d20f83c9977db7413044
           <pc type="hyphen">-</pc>
           <lb break="no"/>
           ciar breve. V. g.
@@ -1413,7 +1405,7 @@
     </div>
     <!-- levanto1 -->
     <div xml:id="levanto2">
-      <head type="outline">Cathecismo de la Doctrina Christiana, en lengua Zapoteca <choice><orig>de el</orig><reg type="spanish">del</reg></choice> Valle</head>
+      <head type="outline">Cathecismo de la Doctrina Christiana, en lengua Zapoteca de el Valle</head>
       <head type="levanto" xml:lang="esp">
         CATHECISMO DE
         <lb/>
@@ -1585,7 +1577,7 @@
       </div>
       <!-- levanto2.4 -->
       <div xml:id="levanto2.5">
-        <head type="outline">Dios Te Salve <choice><orig>Reyna</orig><reg type="spanish">Reina</reg></choice>, y Madre de <choice><orig>Miſericordia</orig><reg type="spanish">Misericordia</reg></choice>, &amp;c.</head>
+        <head type="outline">Dios Te Salve Reyna, y Madre de <choice><orig>Miſericordia</orig><reg type="spanish">Misericordia</reg></choice>, &amp;c.</head>
         <head>
           <foreign xml:lang="esp">
             DIOS TE SALVE REYNA, Y MADRE
@@ -1611,7 +1603,7 @@
         connina he! Pechiiciica pizaaloolo, connaciica tonoo: Chela
         <lb/>
         Quellanaaxi, ni coxaanalo Bejuannana
-        <foreign xml:lang="esp"><choice><orig>Jeſu</orig><reg type="spanish">Jesu</reg></choice> <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice></foreign>
+        <foreign xml:lang="esp"><choice><orig>Jeſu</orig><reg type="spanish">Jesús</reg></choice> <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice></foreign>
         , colloo
         <pc type="hyphen">-</pc>
         <lb break="no"/>
@@ -1658,7 +1650,7 @@
         <pc type="hyphen">-</pc>
         <lb break="no"/>
         Ieliilàchia Bejuannana
-        <foreign xml:lang="esp"><choice><orig>Jeſu</orig><reg type="spanish">Jesu</reg></choice> <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice></foreign>
+        <foreign xml:lang="esp"><choice><orig>Jeſu</orig><reg type="spanish">Jesús</reg></choice> <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice></foreign>
         , cannitoobi cii
         <pc type="hyphen">-</pc>
         <lb break="no"/>
@@ -1840,7 +1832,7 @@
           <foreign xml:lang="esp">
             Je-
             <lb/>
-            <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice>
+            <choice><orig>ſu</orig><reg type="spanish">sús</reg></choice> <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice>
           </foreign>
           golleliini lanni
           <foreign xml:lang="esp"><choice><orig>Sancta</orig><reg type="spanish">Santa</reg></choice> <choice><orig>Maria</orig><reg type="spanish">María</reg></choice></foreign>
@@ -1852,7 +1844,7 @@
           <foreign xml:lang="esp">
             Je-
             <lb/>
-            <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice>
+            <choice><orig>ſu</orig><reg type="spanish">sús</reg></choice> <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice>
           </foreign>
           , cani quellaniguiioni peaaziiláchini, gootini
           <lb/>
@@ -1866,7 +1858,7 @@
           <foreign xml:lang="esp">
             Je-
             <lb/>
-            <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice>
+            <choice><orig>ſu</orig><reg type="spanish">sús</reg></choice> <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice>
           </foreign>
           pieeteni gabilla, goleeni
           <foreign xml:lang="esp">animas</foreign>
@@ -1880,7 +1872,7 @@
           <lb/>
           5. Cooyo Xiibaa: huariieliiláchia yoobi Bejuannana
           <foreign xml:lang="esp">
-            <choice><orig>Jeſu-</orig><reg type="spanish">Jesu-</reg></choice>
+            <choice><orig>Jeſu-</orig><reg type="spanish">Jesús-</reg></choice>
             <lb/>
             <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice>
           </foreign>
@@ -1890,7 +1882,7 @@
           <foreign xml:lang="esp">
             Je-
             <lb/>
-            <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice>
+            <choice><orig>ſu</orig><reg type="spanish">sús</reg></choice> <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice>
           </foreign>
           , cottete corùa chii peaápini quiiebaa, cochi-
           <lb/>
@@ -1902,7 +1894,7 @@
           <foreign xml:lang="esp">
             Je-
             <lb/>
-            <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice>
+            <choice><orig>ſu</orig><reg type="spanish">sús</reg></choice> <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice>
           </foreign>
           ruàcani quíta guetoogotíchani beni nabaani-
           <lb/>
@@ -1940,7 +1932,7 @@
           <foreign xml:lang="esp">
             LOS MANDAMIENTOS DE LA LEY DE
             <lb/>
-            Dios <choice><orig>ſon</orig><reg type="spanish">son</reg></choice> diez
+            Dios  <choice><orig>ſon</orig><reg type="spanish">son</reg></choice> diez
           </foreign>
           .
         </head>
@@ -2148,7 +2140,7 @@
         <lb/>
         4. Cotaapa Xiiba nirii: Xpellalaati nayoona Bejuannana
         <lb/>
-        <foreign xml:lang="esp"><choice><orig>Jeſu</orig><reg type="spanish">Jesu</reg></choice>  <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice></foreign>
+        <foreign xml:lang="esp"><choice><orig>Jeſu</orig><reg type="spanish">Jesús</reg></choice>  <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice></foreign>
         : ni laa
         <foreign xml:lang="esp"><choice><orig>Comunion</orig><reg type="spanish">Comunión</reg></choice></foreign>
         .
@@ -2901,7 +2893,7 @@
         <pc type="hyphen">-</pc>
         <lb/>
         ni Xpellalaati Bejuánnana
-        <foreign xml:lang="esp"><choice><orig>Jeſu</orig><reg type="spanish">Jesu</reg></choice>-<choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice></foreign>
+        <foreign xml:lang="esp"><choice><orig>Jeſu</orig><reg type="spanish">Jesús</reg></choice>-<choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice></foreign>
         .
         <lb/>
         3. Coyoona loo: chii ronnatiiaaga bénni libaana xticha
@@ -2949,10 +2941,10 @@
       </div>
       <!-- levanto2.21 -->
       <div xml:id="levanto2.22">
-        <head type="outline">Yo Pecador Me <choice><orig>Confiesso</orig><reg type="spanish">Confieso</reg></choice> a Dios</head>
+        <head type="outline">Yo Pecador Me Confiesso a Dios</head>
         <head type="levanto" rend="center">
           <foreign xml:lang="esp">
-            YO PECADOR ME <choice><orig>CONFIESSO</orig><reg type="spanish">CONFIESO</reg></choice> A DIOS,
+            YO PECADOR ME CONFIESSO A DIOS,
             <lb/>
             &amp;c.
             <emph rend="italics">ex <choice><orig>Miſſal</orig><reg type="spanish">Misal</reg></choice> Romano</emph>
@@ -4500,7 +4492,7 @@
           <lb break="no"/>
           der <choice><orig>reſucitò</orig><reg type="spanish">resucitó</reg></choice>.
           <lb/>
-          P: <choice><orig>Quando</orig><reg type="spanish">¿Cuando</reg></choice> <choice><orig>ſubiò</orig><reg type="spanish">subió</reg></choice> <choice><orig>â</orig><reg type="spanish">a</reg></choice> los Cielos?
+          P: <choice><orig>Quando</orig><reg type="spanish">¿Cuándo</reg></choice> <choice><orig>ſubiò</orig><reg type="spanish">subió</reg></choice> <choice><orig>â</orig><reg type="spanish">a</reg></choice> los Cielos?
           <lb/>
           <lb/>
           R: <choice><orig>Quando</orig><reg type="spanish">Cuando</reg></choice> <choice><orig>paſſaron</orig><reg type="spanish">pasaron</reg></choice> <choice><orig>quarenta</orig><reg type="spanish">cuarenta</reg></choice>
@@ -4692,7 +4684,7 @@
           Sacramento del altar.
           <lb/>
           <lb/>
-          P. <choice><orig>Quando</orig><reg type="spanish">Cuándo</reg></choice> baja <choice><orig>â</orig><reg type="spanish">a</reg></choice> la <choice><orig>Hoſtia</orig><reg type="spanish">Hostia</reg></choice>
+          P. <choice><orig>Quando</orig><reg type="spanish">¿Cuándo</reg></choice> baja <choice><orig>â</orig><reg type="spanish">a</reg></choice> la <choice><orig>Hoſtia</orig><reg type="spanish">Hostia</reg></choice>
           <lb/>
           Nrò. Sr. Jeſu <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice>?
           <lb/>
@@ -4830,9 +4822,9 @@
       <cb n="1" />
       <foreign xml:lang="esp">
         <hi rend="italic">
-          P. <choice><orig>Quando</orig><reg type="spanish">Cuando</reg></choice> <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> divide, ò parte
+          P. <choice><orig>Quando</orig><reg type="spanish">¿Cuando</reg></choice> <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> divide, <choice><orig>ò</orig><reg type="spanish">o</reg></choice> parte
           <lb/>
-          La <choice><orig>hoſtia</orig><reg type="spanish">hostia</reg></choice>, <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> parte, ò divide
+          La <choice><orig>hoſtia</orig><reg type="spanish">hostia</reg></choice>, <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> parte, <choice><orig>ò</orig><reg type="spanish">o</reg></choice> divide
           <lb/>
           el Cuerpo de <choice><orig>Nueſtro</orig><reg type="spanish">Nuestro</reg></choice> Señor
           <lb/>
@@ -4863,7 +4855,7 @@
           <lb/>
           Cielo
           <lb/>
-          P. Quien hizo el Cielo, la Tier
+          P. <choice><orig>¿Quien</orig><reg type="spanish">¿Quién</reg></choice> hizo el Cielo, la Tier
           <pc type="hyphen">-</pc>
           <lb/>
           ra, el Infierno, y todas las
@@ -4875,29 +4867,29 @@
           <lb/>
           tierra?
           <lb/>
-          R. <choice><orig>olamente</orig><reg type="spanish">Solamente</reg></choice> Dios Nrò. eñor.
+          R. <choice><orig>olamente</orig><reg type="spanish">Solamente</reg></choice> Dios <choice><orig>Nrò</orig><reg type="spanish">Nro</reg></choice>. <choice><orig>eñor</orig><reg type="spanish">Señor</reg></choice>.
           <lb/>
-          P. uien crio <choice><orig>à</orig><reg type="spanish">a</reg></choice> los Angeles, y
+          P. <choice><orig>uien</orig><reg type="spanish">¿Quién</reg></choice> crio <choice><orig>à</orig><reg type="spanish">a</reg></choice> los Angeles, y
           <lb/>
           <choice><orig>à</orig><reg type="spanish">a</reg></choice> los hombres?
           <lb/>
-          R. l <choice><orig>miſmo</orig><reg type="spanish">mismo</reg></choice> Dios Nrò. eñor.
+          R. l <choice><orig>miſmo</orig><reg type="spanish">mismo</reg></choice> Dios <choice><orig>Nrò</orig><reg type="spanish">Nro</reg></choice>. <choice><orig>eñor</orig><reg type="spanish">Señor</reg></choice>.
           <lb/>
-          P. ara que Nro Señor Dios
+          P. <choice><orig>ara</orig><reg type="spanish">¿Para</reg></choice> que Nro Señor Dios
           <lb/>
-          criò <choice><orig>à</orig><reg type="spanish">a</reg></choice> todos los hombres?
+          <choice><orig>criò</orig><reg type="spanish">crio</reg></choice> <choice><orig>à</orig><reg type="spanish">a</reg></choice> todos los hombres?
           <lb/>
           <lb/>
-          R. ara amar, y <choice><orig>ſervir</orig><reg type="spanish">servir</reg></choice> à Dios
+          R. <choice><orig>ara</orig><reg type="spanish">Para</reg></choice> amar, y <choice><orig>ſervir</orig><reg type="spanish">servir</reg></choice> <choice><orig>à</orig><reg type="spanish">a</reg></choice> Dios
           <lb/>
           <choice><orig>Nueſtro</orig><reg type="spanish">Nuestro</reg></choice> Señor en <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice> vida,
           <lb/>
-          y <choice><orig>deſpues</orig><reg type="spanish">despues</reg></choice> <choice><orig>veerle</orig><reg type="spanish">verle</reg></choice> en el Cielo.
+          y <choice><orig>deſpues</orig><reg type="spanish">después</reg></choice> <choice><orig>veerle</orig><reg type="spanish">verle</reg></choice> en el Cielo.
           <lb/>
           <lb/>
           <lb/>
           <lb/>
-          P. <choice><orig>uien</orig><reg type="spanish">Quién</reg></choice> criò à todos los De
+          P. <choice><orig>uien</orig><reg type="spanish">¿Quién</reg></choice> <choice><orig>criò</orig><reg type="spanish">crio</reg></choice> <choice><orig>à</orig><reg type="spanish">a</reg></choice> todos los De
           <pc type="hyphen">-</pc>
           <lb/>
           monios?
@@ -4918,7 +4910,7 @@
       <lb/>
       llalati Bejuannana
       <foreign xml:lang="esp">
-        Jeſu
+        <choice><orig>Jeſu</orig><reg type="spanish">Jesu</reg></choice>
         <pc type="hyphen">-</pc>
         <lb/>
         <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice>?
@@ -4940,7 +4932,7 @@
       <lb/>
       obigaa cuee
       <foreign xml:lang="esp">
-        <hi rend="italic">hoſtia</hi>
+        <hi rend="italic"><choice><orig>hoſtia</orig><reg type="spanish">hostia</reg></choice></hi>
       </foreign>
       nayo
       <pc type="hyphen">-</pc>
@@ -5022,7 +5014,7 @@
       <foreign xml:lang="esp" rend="italics">
         R. El <choice><orig>miſmo</orig><reg type="spanish">mismo</reg></choice> Dios Nrò.Señor.
         <lb/>
-        P. Que <choice><orig>coſa</orig><reg type="spanish">cosa</reg></choice> eran los Demonios
+        P. <choice><orig>Que</orig><reg type="spanish">¿Qué</reg></choice> <choice><orig>coſa</orig><reg type="spanish">cosa</reg></choice> eran los Demonios
         <lb/>
         antes, <choice><orig>quando</orig><reg type="spanish">cuando</reg></choice> los crio Dios?
         <lb/>
@@ -5031,13 +5023,13 @@
         <lb/>
         ban en el Cielo.
         <lb/>
-        P. Porque <choice><orig>cauſa</orig><reg type="spanish">causa</reg></choice> <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> <choice><orig>hicieŕon</orig><reg type="spanish">hicieron</reg></choice>
+        P. <choice><orig>Porque</orig><reg type="spanish">¿Por qué</reg></choice> <choice><orig>cauſa</orig><reg type="spanish">causa</reg></choice> <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> <choice><orig>hicieŕon</orig><reg type="spanish">hicieron</reg></choice>
         <lb/>
         los Angeles Demonios?
         <lb/>
         R. Porque pecaron en el Cielo.
         <lb/>
-        P. A qué lugar arrojò Dios los
+        P. <choice><orig>A</orig><reg type="spanish">¿A</reg></choice> qué lugar <choice><orig>arrojò</orig><reg type="spanish">arrojó</reg></choice> Dios los
         <lb/>
         Demonios, <choice><orig>quando</orig><reg type="spanish">cuando</reg></choice> pecaron
         <lb/>
@@ -5045,17 +5037,17 @@
         <lb/>
         R. Al fuego del Infierno.
         <lb/>
-        P. Donde <choice><orig>eſtá</orig><reg type="spanish">está</reg></choice> Dios?
+        P. <choice><orig>Donde</orig><reg type="spanish">¿Dónde</reg></choice> <choice><orig>eſtá</orig><reg type="spanish">está</reg></choice> Dios?
         <lb/>
         R. En el Palacio del Cielo <choice><orig>eſtá</orig><reg type="spanish">está</reg></choice>,
         <lb/>
-        y tambien en todo lugar, en
+        y <choice><orig>tambien</orig><reg type="spanish">también</reg></choice> en todo lugar, en
         <lb/>
         el Cielo, en la Tierra, y en
         <lb/>
         el Infierno.
         <lb/>
-        P. Donde <choice><orig>eſtá</orig><reg type="spanish">está</reg></choice> Jeſu-<choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice>?
+        P. <choice><orig>Donde</orig><reg type="spanish">¿Dónde</reg></choice> <choice><orig>eſtá</orig><reg type="spanish">está</reg></choice> <choice><orig>Jeſu-Christo</orig><reg type="spanish">Jesucristo</reg></choice>?
         <lb/>
         R. En <choice><orig>quanto</orig><reg type="spanish">cuanto</reg></choice> Dios <choice><orig>eſtâ</orig><reg type="spanish">está</reg></choice> en to
         <pc type="hyphen">-</pc>
@@ -5074,17 +5066,17 @@
         <lb/>
         mento del altar.
         <lb/>
-        P. Quien es Santa Maria?
+        P. <choice><orig>Quien</orig><reg type="spanish">¿Quién</reg></choice> es Santa <choice><orig>Maria</orig><reg type="spanish">María</reg></choice>?
         <lb/>
         R. Una Santa <choice><orig>muger</orig><reg type="spanish">mujer</reg></choice>, <choice><orig>juſtiſsi</orig><reg type="spanish">justísi</reg></choice>
         <pc type="hyphen">-</pc>
         <lb/>
-        ma, Virgen <choice><orig>ſiempre</orig><reg type="spanish">siempre</reg></choice> caſtiſsi
+        ma, Virgen <choice><orig>ſiempre</orig><reg type="spanish">siempre</reg></choice> <choice><orig>caſtiſsi</orig><reg type="spanish">castisi</reg></choice>
         <pc type="hyphen">-</pc>
         <lb/>
-        ma; que fue Madre de Nrô.
+        ma; que fue Madre de <choice><orig>Nrô</orig><reg type="spanish">Nro</reg></choice>.
         <lb/>
-        Señor Jeſu-<choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice> Hijo de
+        Señor <choice><orig>Jeſu-Christo</orig><reg type="spanish">Jesucristo</reg></choice Hijo de
       </foreign>
       <lb/>
       <cb n="2"/>
@@ -5139,7 +5131,7 @@
       <lb/>
       Caalaate noo ribeezani 62.
       <lb/>
-      <foreign xml:lang="esp">Jeſu-<choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice></foreign>
+      <foreign xml:lang="esp"><choice><orig>Jeſu-Christo</orig><reg type="spanish">Jesucristo</reg></choice</foreign>
       ?
       <lb/>
       Loo quellabiitoo ribeeza
@@ -5156,14 +5148,14 @@
       <lb/>
       Bixooce: chelañee lanni
       <lb/>
-      <foreign xml:lang="esp" rend="italics">Santiſsimo Sacramento</foreign>
+      <foreign xml:lang="esp" rend="italics"><choice><orig>Santiſsimo</orig><reg type"spanish">Santísimo</reg></choice> Sacramento</foreign>
       Xtẽ
       <pc type="hyphen">-</pc>
       <lb/>
       ni becoogo.
       <lb/>
       Tuxanaca
-      <foreign xml:lang="esp">Santa Maria</foreign>
+      <foreign xml:lang="esp">Santa <choice><orig>Maria</orig><reg type="spanish">María</reg></choice></foreign>
       ? 63.
       <lb/>
       Toobi benni gonnaa naza
@@ -5185,9 +5177,9 @@
       <foreign xml:lang="esp" rend="italic">
         Dios.
         <lb/>
-        P. Es por ventura Dios?
+        P. <choice><orig>Es</orig><reg type="spanish">¿Es</reg></choice> por ventura Dios?
         <lb/>
-        R. De nungun modo: <choice><orig>ſalamen</orig><reg type="spanish">solamen</reg></choice>
+        R. De <choice><orig>nungun</orig><reg type="spanish">ningun</reg></choice> modo: <choice><orig>ſalamen</orig><reg type="spanish">solamen</reg></choice>
         <pc type="hyphen">-</pc>
         <lb break="no"/>
         te es de naturaleza huma
@@ -5200,12 +5192,12 @@
         <lb/>
         <choice><orig>preſencia</orig><reg type="spanish">presencia</reg></choice> de Dios.
         <lb/>
-        P. <choice><orig>Quantas</orig><reg type="spanish">Cuantas</reg></choice> <choice><orig>coſas</orig><reg type="spanish">cosas</reg></choice> <choice><orig>eſtà</orig><reg type="spanish">está</reg></choice> el <choice><orig>Chriſ</orig><reg type="spanish">Cris</reg></choice>
+        P. <choice><orig>Quantas</orig><reg type="spanish">¿Cuantas</reg></choice> <choice><orig>coſas</orig><reg type="spanish">cosas</reg></choice> <choice><orig>eſtà</orig><reg type="spanish">está</reg></choice> el <choice><orig>Chriſ</orig><reg type="spanish">Cris</reg></choice>
         <pc type="hyphen">-</pc>
         <lb break="no"/>
         tiano obligado a guardar,
         <lb/>
-        para <choice><orig>ſalvarſe</orig><reg type="spanish">salvarse</reg></choice>, é ir al Pala
+        para <choice><orig>ſalvarſe</orig><reg type="spanish">salvarse</reg></choice>, <choice><orig>é</orig><reg type="spanish">e</reg></choice> ir al Pala
         <pc type="hyphen">-</pc>
         <lb break="no"/>
         cio <choice><orig>celeſtial</orig><reg type="spanish">celestial</reg></choice>?
@@ -5229,7 +5221,7 @@
         <lb/>
         <lb/>
         <lb/>
-        P. Que es lo que hará el <choice><orig>Chriſ</orig><reg type="spanish">Cris</reg></choice>
+        P. <choice><orig>Que</orig><reg type="spanish">¿Qué</reg></choice> es lo que hará el <choice><orig>Chriſ</orig><reg type="spanish">Cris</reg></choice>
         <pc type="hyphen">-</pc>
         <lb break="no"/>
         tiano para no pecar.
@@ -5245,7 +5237,7 @@
         <choice><orig>ſiempre</orig><reg type="spanish">siempre</reg></choice> en el bien.
         <lb/>
         <lb/>
-        P. Que debe hacer el pecador,
+        P. <choice><orig>Que</orig><reg type="spanish">¿Qué</reg></choice> debe hacer el pecador,
         <lb/>
         <choice><orig>quando</orig><reg type="spanish">cuando</reg></choice> <choice><orig>hà</orig><reg type="spanish">hay</reg></choice> pecado, y <choice><orig>quebrã</orig><reg type="spanish">quiebra</reg></choice>
         <pc type="hyphen">-</pc>
@@ -5256,7 +5248,7 @@
         <lb/>
       </foreign>
       <cb n="2"/>
-      Jeſu-<choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice>, Xinni Dios.
+      <choice><orig>Jeſu-Christo</orig><reg type="spanish">Jesucristo</reg></choice>, Xinni Dios.
       <lb/>
       Huanacani Biitoo?
       <lb/>
@@ -5275,7 +5267,7 @@
       <pc type="hyphen">-</pc>
       65.
       <lb break="no"/>
-      ña gapa benni Chriſtiano:
+      ña gapa benni <choice><orig>Chriſtiano</orig><reg type="spanish">Christiano</reg></choice>:
       <lb/>
       niiani coziillaani anima
       <lb/>
@@ -5313,7 +5305,7 @@
       Connaxá, ni gon
       <pc type="hyphen">-</pc>
       <lb break="no"/>
-      ni benni Chriſtiano, niia
+      ni benni <choice><orig>Chriſtiano</orig><reg type="spanish">Christiano</reg></choice>, niia
       <pc type="hyphen">-</pc>
       <lb break="no"/>
       ni àcoxihuini?
@@ -5381,7 +5373,7 @@
           <lb break="no"/>
           cador proponga nunca mas
           <lb/>
-          pecar, ô volver a las culpas.
+          pecar, <choice><orig>ô</orig><reg type="spanish">o</reg></choice> volver a las culpas.
         </hi>
       </foreign>
       <lb/>
@@ -5454,7 +5446,7 @@
         <foreign xml:lang="esp">
           FIN
           <lb/>
-          DE LA EXPLICACION DE LA
+          DE LA <choice><orig>EXPLICACION</orig><reg type="spanish">EXPLICACIÓN</reg></choice> DE LA
           <lb/>
           DOCTRINA CHRISTIANA.
         </foreign>
@@ -5465,7 +5457,7 @@
       <!-- Avery Aghazarian's section -->
       <pb n="46"/>
       <!-- decoration -->
-      <p rend="center">JESUS, MARIA, Y JOSEPH.</p>
+      <p rend="center"><choice><orig>JESUS</orig><reg type="spanish">JESÚS</reg></choice>, <choice><orig>MARIA</orig><reg type="spanish">MARÍA</reg></choice>, Y JOSEPH.</p>
       <!-- decoration -->
       <head type="outline">Mysterios del santissimo Rosario.</head>
       <head type="levanto" xml:lang="esp" rend="center">
@@ -5485,7 +5477,7 @@
         <div xml:id="levanto4.1.1">
           <head type="outline">Deprecacion.</head>
           <head type="levanto" xml:lang="esp" rend="center italics">
-            DEPRECACION.
+            D<choice><orig>DEPRECACION</orig><reg type="spanish">DEPRECACIÓN</reg></choice>.
           </head>
           NIjaxtenni collaabaliia
           <lb/>
@@ -5623,7 +5615,7 @@
           <lb/>
           Yacà quieennitii, cahuiicha
           <lb/>
-          <foreign xml:lang="esp">Jesvs</foreign>
+          <foreign xml:lang="esp"><choice><orig>Jesvs</orig><reg type="spanish">Jesús</reg></choice></foreign>
           riquiille Xiñaani.
           <lb/>
           Pezaacalachi Xonaaxi,
@@ -5686,7 +5678,7 @@
             Gaca ciiga ciica:
             <foreign xml:lang="esp">Amen</foreign>
             .
-            <foreign xml:lang="esp">Jesus, Maria, y Joſeph</foreign>
+            <foreign xml:lang="esp"><choice><orig>Jesus</orig><reg type="spanish">Jesús</reg></choice>, <choice><orig>Maria</orig><reg type="spanish">María</reg></choice>, y <choice><orig>Joſeph</orig><reg type="spanish">Joseph</reg></choice></foreign>
             <lb/>
           </div>
         </div>
