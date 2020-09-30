@@ -1,14 +1,14 @@
 The files in this repository include representations in TEI of Colonial Zapotec Texts that are part of the [Ticha project](https://ds-omeka.haverford.edu/ticha/en/index.html).
 
-# Using Git on windows
+# Using Git on Windows
 
 Before you can get started using Git, make sure you have it installed. Go to [the Git downloads page](https://git-scm.com/downloads) and download and run the installer for Windows. The default settings should work fine.
 
 Once you have it installed, you need to clone the repo locally. It's probably easiest to do this from the command line, which might seem a little disorienting at first if you haven't used command line before, but is really pretty straightforward. To open command line on Windows, open the start menu and search for 'cmd' and you should find it.
 
-In command line, you're always located at a particular folder, just like if you were looking through Windows' normal file exlorer interface. To see which folder you're currently in, just look at the prompt, which is just to the left of your cursor. Command typically opens to the root folder of your user, so your prompt will look something like `C:\Users\conor>` (except hopefully with your name, not mine.) You can't use your mouse for most things in command line, so moving around folders requires a few basic commands. 
+In command line, you're always located at a particular folder, just like if you were looking through Windows' normal file exlorer interface. To see which folder you're currently in, just look at the prompt, which is just to the left of your cursor. Command typically opens to the root folder of your user, so your prompt will look something like `C:\Users\conor>` (except hopefully with your name, not mine.) You can't use your mouse for most things in command line, so moving around folders requires a few basic commands.
 
-To look at a list of files and folders inside your current folder, type `dir` (for "directory") and hit enter. The command `cd` ("change directory") moves you between folders. Typing `cd ..` and hitting enter will move you up one folder, and `cd [folder name]` will move you to a specific folder inside your current one. 
+To look at a list of files and folders inside your current folder, type `dir` (for "directory") and hit enter. The command `cd` ("change directory") moves you between folders. Typing `cd ..` and hitting enter will move you up one folder, and `cd [folder name]` will move you to a specific folder inside your current one.
 
 Using these three commands, you should navigate to whatever place on your computer you'd like to keep ticha-xml-tei (i.e., your Documents folder.) Once there, you should be ready to start a Git repository. If Git commands aren't working, make sure that Git is added to your PATH directory. To set up the folder initially, just type `git clone https://github.com/HCDigitalScholarship/ticha-xml-tei.git` and enter. That completely copies the repository from Github to your hard drive, and might take a minute. You only need to do this once - from now on, the only things you'll be taking from and giving to the central repository on Github are *changes*, which are smaller and more efficient to send, and also allow the version control system to combine files with changes to different parts.
 
@@ -52,16 +52,16 @@ Headings can be marked with the <head> tag. In general, headings should not appe
 
 `Primeramente esta particula <foreign xml:lang="zap">Ca</foreign>, se usa de ella en esta`
 
-Foreign languages are marked with the <foreign> tag. This one is a little harder than the others, since it is likely to be the first tag you need which has "attributes." 
+Foreign languages are marked with the <foreign> tag. This one is a little harder than the others, since it is likely to be the first tag you need which has "attributes."
 
-The attribute we're interested in is the xml:lang attribute, which tells what foreign language the span of text is in. This seems a little weird for highly bilingual texts like many that we're working with, since we have to decide what the non-foreign language should be, but typically we'll choose a particular language to consider unmarked in each text, and mark everything else in foreign tags. For Zapotec, the attribute should be set to xml:lang="zap", for Latin xml:lang="lat", and for Spanish xml:lang="esp". 
+The attribute we're interested in is the xml:lang attribute, which tells what foreign language the span of text is in. This seems a little weird for highly bilingual texts like many that we're working with, since we have to decide what the non-foreign language should be, but typically we'll choose a particular language to consider unmarked in each text, and mark everything else in foreign tags. For Zapotec, the attribute should be set to xml:lang="zap", for Latin xml:lang="lat", and for Spanish xml:lang="esp".
 
 Two important things to remember about foreign tags are that the foreign text should always go in between the foreign tags, never as an attribute, and that you only need to specify attributes in the opening tag, never the closing tag.
 
 ## Normalization
 
 To make these texts more accessible, we can encode a modern Spanish version of the transcription using the <choice> tag. While viewing the text, someone can then choose to view the original transcription or the modernized transcription by clicking on the tabs directly above the transcription (https://ticha.haverford.edu/en/texts/levanto-arte/101/original/). Currently, the Levanto Arte has a modern Spanish normalization.
-  
+
 `<choice><orig>Como</orig><reg type="spanish">¿Cómo</reg></choice>`
 
 ## Nesting tags
@@ -70,7 +70,7 @@ In XML, you can have tags inside other tags, but only if the opening and closing
 
 `<head>La Particula <foreign xml:lang="zap">Ca</foreign></head>`
 
-and 
+and
 
 `<foreign xml:lang="zap">Conna rinni, ni niartenni cocalo Bixooze (Xiñaa)`
 
@@ -78,7 +78,7 @@ and
 
 `yohoto quella rirabaniza, cocalo rtijalaaya, laa</foreign>`
 
-are both fine, but never 
+are both fine, but never
 
 `<head>La Particula <foreign xml:lang="zap">Ca</head>`
 
