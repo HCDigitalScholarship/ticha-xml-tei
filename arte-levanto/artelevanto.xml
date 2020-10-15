@@ -1406,7 +1406,6 @@
         <choice><orig>Quarta Conjugacion</orig><reg type="spanish">Cuarta Conjugación</reg></choice>
     </head>
     <pb n="25"/>
-<<<<<<< HEAD
     <foreign xml:lang='zap'>Rabia</foreign>    tragar vomitar, podrirse con la humedad
     <lb/>
     <foreign xml:lang='zap'>Ravia</foreign>    decir a tercera persona
@@ -1417,12 +1416,13 @@
     <lb/>
     <foreign xml:lang='zap'>Racoya</foreign>   vestirse
     <lb/>
-=======
->>>>>>> 23fb1334cfd27c49f9a54b93085b264042a8d38f
     </div>
     <!--levanto-arte 1.3.1.10.4-->
     <div xml:id='levanto-arte1.3.1.10.5'>
     <head type= 'outline'> Quinta Clase </head>
+    Quinta Clase, Ra, en <foreign xml:lang='zap'>Rito</foreign>, <foreign xml:lang='zap'>Pito</foreign>
+    <foreign xml:lang='zap'>Quito</foreign>.
+    <lb/>
     Las verbos de esta quinta clase son el verbo <foreign xml:lang='zap'>Raaya</foreign> vel.
     <lb/>
     <foreign xml:lang='zap'>Raataya por acostarse, con todos seco Conjosiestos</foreign>, los
