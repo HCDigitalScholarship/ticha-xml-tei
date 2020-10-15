@@ -1406,6 +1406,12 @@
         <choice><orig>Quarta Conjugacion</orig><reg type="spanish">Cuarta Conjugación</reg></choice>
     </head>
     <pb n="25"/>
+    <foreign xml:lang='zap'>Rabia</foreign>
+    <lb/>
+    <foreign xml:lang='zap'>Ravia</foreign>
+    <lb/>
+    <foreign xml:lang='zap'>Rahuia</foreign>
+    <lb/>
     </div>
     <!--levanto-arte 1.3.1.10.4-->
     <div xml:id='levanto-arte1.3.1.10.5'>
