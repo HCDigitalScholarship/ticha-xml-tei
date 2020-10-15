@@ -1,13 +1,17 @@
 The files in this repository include representations in TEI of Colonial Zapotec Texts that are part of the [Ticha project](https://ds-omeka.haverford.edu/ticha/en/index.html).
 
+<<<<<<< HEAD
 # Using Git on Windows
 # testing
+=======
+# Using Git on Windows Operating System
+>>>>>>> b3bac468f4a3eb0bdaf6e913c29551d9d34c940e
 
 Before you can get started using Git, make sure you have it installed. Go to [the Git downloads page](https://git-scm.com/downloads) and download and run the installer for Windows. The default settings should work fine.
 
 Once you have it installed, you need to clone the repo locally. It's probably easiest to do this from the command line, which might seem a little disorienting at first if you haven't used command line before, but is really pretty straightforward. To open command line on Windows, open the start menu and search for 'cmd' and you should find it.
 
-In command line, you're always located at a particular folder, just like if you were looking through Windows' normal file exlorer interface. To see which folder you're currently in, just look at the prompt, which is just to the left of your cursor. Command typically opens to the root folder of your user, so your prompt will look something like `C:\Users\conor>` (except hopefully with your name, not mine.) You can't use your mouse for most things in command line, so moving around folders requires a few basic commands.
+In command line, you're always located at a particular folder, just like if you were looking through Windows' normal file explorer interface. To see which folder you're currently in, just look at the prompt, which is just to the left of your cursor. Command typically opens to the root folder of your user, so your prompt will look something like `C:\Users\conor>` (except hopefully with your name, not mine.) You can't use your mouse for most things in command line, so moving around folders requires a few basic commands.
 
 To look at a list of files and folders inside your current folder, type `dir` (for "directory") and hit enter. The command `cd` ("change directory") moves you between folders. Typing `cd ..` and hitting enter will move you up one folder, and `cd [folder name]` will move you to a specific folder inside your current one.
 
