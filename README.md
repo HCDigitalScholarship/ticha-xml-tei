@@ -1,6 +1,7 @@
 The files in this repository include representations in TEI of Colonial Zapotec Texts that are part of the [Ticha project](https://ds-omeka.haverford.edu/ticha/en/index.html).
 
 # Using Git on Windows
+# testing
 
 Before you can get started using Git, make sure you have it installed. Go to [the Git downloads page](https://git-scm.com/downloads) and download and run the installer for Windows. The default settings should work fine.
 
