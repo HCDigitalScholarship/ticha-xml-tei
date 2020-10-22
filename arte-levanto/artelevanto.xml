@@ -728,7 +728,7 @@
     <head type='outline'> Obtativo </head>
     <head>Obtativo</head>
     <lb/>
-    <foreign xml:lang="zap">Hani cacaneea</foreign>--- O si yo ayude---
+    <foreign xml:lang="zap">Hani cacañeea</foreign>--- O si yo ayude---
     <foreign xml:lang="zap">Hate bela cacañeea</foreign> -- O si yo
     <lb/>
     ayude. Este tiempo se forma de mismo futuro imperfecto
@@ -853,7 +853,7 @@
     <!--levanto-arte 1.3.1.5-->
     <div xml:id='levanto-arte1.3.1.6'>
     <head type='outline'> Gerundios </head>
-    Gerundios
+    <head>Gerundios</head>
     <lb/>
     Tres son los Gerundios
     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
@@ -864,16 +864,16 @@
 
     <div xml:id='levanto-arte1.3.1.6.1'>
     <head type='outline'> Gerundio de Genetivo </head>
-    Gerundio de Genitivo
+    Gerundio de Genetivo
     <lb/>
-    Este gerundio de genetico es el futuro imperfecto de
+    Este gerundio de genetivo es el futuro imperfecto de
     <lb/>
     indicativo sin quitarle el pronombre a la persona
     <lb/>
     de quien se habla anteponiendole el nombre o verbo
     <lb/>
     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
-    determona <foreign xml:lang="lat">V.g.</foreign> <foreign xml:lang="zap">huayatabea gacaneeea</foreign>
+    determina <foreign xml:lang="lat">V.g.</foreign> <foreign xml:lang="zap">huayatabea gacaneeea</foreign>
     llegada es la
     <lb/>
     ora de ayudaryo= <foreign xml:lang="zap">huayalabea cacanielo</foreign>
@@ -886,14 +886,14 @@
     </div>
     <!--levanto-arte 1.3.1.6.1-->
     <div xml:id='levanto-arte1.3.1.6.2'>
-    <head type='outline'> Genrundios de Acusativo </head>
+    <head type='outline'> Gerundios de Acusativo </head>
     Gerundios de Acusativo.
     <lb/>
-    Gerundio de Acusativo se determina siempre de
+    El Gerundio de Acusativo se determina siempre de
     <lb/>
     verbos
     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
-    significan movimiento y tiene tres formacio-
+    significan movimiento, y tiene tres formacio-
     <lb/>
     nes : La primera es de todos los verbos regulares de esta
     <lb/>
@@ -1166,15 +1166,81 @@
     <div xml:id='levanto-arte1.3.1.7.4'>
     <head type= 'outline'> Participio de Futuro en Dus </head>
     <pb n="18"/>
+    Primera vilaba, y anteponiendo le alos verbos dela primera
+    <lb/>
+    Conjugaçiòn esta particula <foreign xml:lang="zap">Zooacálos</foreign> de lasegunda esta
+    <lb/>
+    particula <foreign xml:lang="zap">Zooe</foreign> álos dela tereera esta particula <foreign xml:lang="zap"> Zaa'</foreign>, álos
+    <lb/>
+    dela quarta esta particula <foreign xml:lang="zap">Zoo</foreign><foreign xml:lang="lat">V.g.</foreign><foreign xml:lang="zap">Zooacañeea</foreign> podre
+    <lb/>
+    ayudar <foreign xml:lang="zap">Zooechelaya</foreign> podre haltar; <foreign xml:lang="zap">Zaareelaya</foreign> podre ém
+    <lb/>
+    biar. <foreign xml:lang="zap">Zoolobaya</foreign>, podre barrer.
+    <lb/>
+    Adviertase q.e este verbo <foreign xml:lang="zap">Ragoya</foreign>, q.e igniféa comerñe
+    <lb/>
+    ne irregulares las primeras personas del plural, <foreign xml:lang="zap">Rità
+    <lb/>
+    gotonoo, Pitagotonoo, Quitagotonoo</foreign>, - tambien <foreign xml:lang="zap">Rabià</foreign> podre
+    <lb/>
+    cir, a tercera persona, es irregular en las primeras per-
+    <lb/>
+    sonas del plural. <foreign xml:lang="zap">Rechitonoo</foreign>, <foreign xml:lang="zap">Pechitonoo</foreign>, <foreign xml:lang="zap">Quechitonoo</foreign>, y
+    <lb/>
+    assilos potenciales de estos dos verbos se forman de otro modo
+    <lb/>
+    V.g. <foreign xml:lang="zap">Zooechitonoo</foreign>, podremos decir,
+    <choice><orig>porq.e</orig><reg type="spanish">porque</reg></choice>
+    corresponde ael <foreign xml:lang="zap">Zooe</foreign>
+    <lb/>
+    dela segunda Conjugacion <foreign xml:lang="zap">Zaatagotonoo</foreign> podremos comea,
+    <lb/>
+    <choice><orig>porq.e</orig><reg type="spanish">porque</reg></choice>
+    corresponde a el <foreign xml:lang="zap">Zaa</foreign> dela tercera Conjugacion.
+    <lb/>
+    Nota
+    <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
+    los potenciales passivos de quatro Conjuga-
+    <lb/>
+    ciones, se forman del presente de indicativo, vuelto et ti,
+    <lb/>
+    en <foreign xml:lang="zap">Zaa</foreign>: V.g. se podra arar o cultivar la tierra <foreign xml:lang="zap">Zaanala-
+    <lb/>
+    yoo</foreign>, del verbo <foreign xml:lang="zap">Ranana</foreign> por arar la tierra, <foreign xml:lang="zap">Zaachelani</foreign>,
+    <lb/>
+    se podra hallar, <foreign xml:lang="zap">Richelaya</foreign>. <foreign xml:lang="zap">Zaatopani</foreign> se podra sun-
+    <lb/>
+    tar, de <foreign xml:lang="zap">Ritoopaya</foreign>
+    <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
+    es passivo de <foreign xml:lang="zap">Rotopalla</foreign> por suntar.
+    <lb/>
     </div>
     <!--levanto-arte 1.3.1.7.4-->
     </div>
     <!--levanto-arte 1.3.1.7-->
     <div xml:id='levanto-arte1.3.1.8'>
     <head type= 'outline'> Nombres Verbales </head>
-    Ai tres especies de nombres verbales encada Conjugacion.
+    Ai tres especies de nombres verbales encada Conju-
+    <lb/>
+    gacion.
     <div xml:id='levanto-arte1.3.1.8.1'>
     <head type= 'outline'> Primera Especie de Verbales </head>
+    La primera especie es de los nombres <choice><orig>q.e</orig><reg type="spanish">que</reg></choice> signi-
+    <lb/>
+    fican el hazedorsela rosa, o de la obra, V.g. el ayudador
+    <lb/>
+    hallador, embiador lo arredor. Estos verbales en la pri-
+    <lb/>
+    mera y leroera Conjugacion se forman del presente de
+    <lb/>
+    indicativo, el Ra de la primera y el Rivela tercera
+    <lb/>
+    Conjugacion vueltos en lo y quitado el pronombre, V.g.
+    <lb/>
+    <foreign xml:lang="zap">Ranaya</foreign> <choice><orig>q.e</orig><reg type="spanish">que</reg></choice> significa labrar la tierra, ale Cona ella-
+    <lb/>
+    lonador = <foreign xml:lang="zap">Rireelaya</foreign> <choice><orig>q.e</orig><reg type="spanish">que</reg></choice> significa embiar sale coreela el=
 
     <pb n="19"/>
 
@@ -1311,9 +1377,9 @@
     <choice><orig>passivos, </orig><reg type="spanish">pasivos, </reg></choice>
     y neutros, y se forman del presente de
     <lb/>
-    indicativo, vuelta la (<foreign xml:lang="zap">t</foreign>, o <foreign xml:lang="zap">r</foreign>, en <foreign xml:lang="zap">li</foreign>?), <foreign xml:lang='lat'>V.g.</foreign> <foreign xml:lang="zap">Ranaya</foreign>, signi-
+    indicativo, vuelta la <foreign xml:lang="zap">t</foreign>, o <foreign xml:lang="zap">r</foreign>, en <foreign xml:lang="zap">li</foreign>, <foreign xml:lang='lat'>V.g.</foreign> <foreign xml:lang="zap">Ranaya</foreign>, signi-
     <lb/>
-    fica labrarta tierra, vueta la <foreign xml:lang="zap">r</foreign>, en <foreign xml:lang="zap">li</foreign>, y quitado el
+    fica labrarla tierra, vueta la <foreign xml:lang="zap">r</foreign>, en <foreign xml:lang="zap">Li</foreign>, y quitado el
     <lb/>
     pronombre dira <foreign xml:lang="zap">Liaana</foreign> el labra, o la labranza de
     <lb/>
@@ -1335,10 +1401,10 @@
     <lb/>
     Formanse estos nombres verbales adjetivos en esta
     <lb/>
-    <choice><orig>Conyugacion</orig><reg type="spanish">Conjugación</reg></choice>,
+    <choice><orig>Conjugacion</orig><reg type="spanish">Conjugación</reg></choice>,
     de verbos neutros y pasivos, de la pri-
     <lb/>
-    mera persona del presente de indicativo, vuelto el
+    mera persona del presente de indicativo, vuelto el <foreign xml:lang="zap">Ra-</foreign>
 
 
 
@@ -1412,10 +1478,73 @@
     <head type= 'outline'> Primera Clase </head>
 
     <pb n="23"/>
+    <foreign xml:lang="zap">Racalachia</foreign>----guerer---
+    <lb/>
+    <foreign xml:lang="zap">Racañeea</foreign>----ayudar---
+    <lb/>
+    <foreign xml:lang="zap">Racapeeaya</foreign>-----conseer---
+    <lb/>
+    <foreign xml:lang="zap">Racalooya</foreign>-----presidir---
+    <lb/>
+    <foreign xml:lang="zap">Racabaleeaca</foreign>---serve provecho, haeerbuen provecho
+    <lb/>
+    <foreign xml:lang="zap">Racanalda</foreign>---hazer--ô sonerfrio---
+    <lb/>
+    <foreign xml:lang="zap">Racanaldaa</foreign>---zerer---calor----
+    <lb/>
+    <foreign xml:lang="zap">Racazeenea</foreign>---estar emfermo, con los Compuelzo de
+    <lb/>
+    <foreign xml:lang="zap">Racaya</foreign> porser.
+    <lb/>
+    <foreign xml:lang="zap">Ratia</foreign>-----morir---
+    <lb/>
+    <foreign xml:lang= 'zap'>Raticubinaya</foreign>----morir de hambre--
+    <lb/>
+    <foreign xml:lang= 'zap'>Ratirijhuia</foreign>-----morir en pecado.--
+    <lb/>
+    <foreign xml:lang= 'zap'>Ratiyaaya</foreign>----morir en la suventud.--
+    <lb/>
+    <foreign xml:lang= 'zap'>Ratizaanaya</foreign>----morir de parto.--
+    <lb/>
+    <foreign xml:lang= 'zap'>Raticoopaya</foreign>-----morir de frio.--
+    <lb/>
+    <foreign xml:lang= 'zap'>Ratigaaya</foreign>--estar en vispeaas de morir o querers e morir.
+    <lb/>
+    <foreign xml:lang= 'zap'>Ratihuazooya</foreign>--morir subitamente.-Con todo los
+    <lb/>
+    demas Compuestos de Ratia por morir.
+    <lb/>
+    <foreign xml:lang= 'zap'>Raella</foreign>------nacer----
+    <lb/>
+    <foreign xml:lang= 'zap'>Rallerijquitea</foreign>----nacer mellizos.-
+    <lb/>
+    <foreign xml:lang= 'zap'>Rallerijquia</foreign>-----nacer en pecado.-
+    <lb/>
+    <foreign xml:lang= 'zap'>Rallenatia</foreign>--nacer muerto. Con todos los Compuestos
+    <lb/>
+    <foreign xml:lang= 'zap'>aRallea</foreign> por nacer -----
+    <lb/>
+    <foreign xml:lang= 'zap'>Ralloya</foreign>----llegar
+    <lb/>
+    <foreign xml:lang= 'zap'>Rallazaa</foreign>----llegar la fuerta
+    <lb/>
+    <foreign xml:lang= 'zap'>Rallalany</foreign>----llegar la fiesta
+    <lb/>
+    <foreign xml:lang= 'zap'>Rualla cozoo</foreign>----llegar la ocasion
+    <lb/>
+    <foreign xml:lang= 'zap'>Rallepeea</foreign>----llegar la hora. Contodo los
+    <lb/>
+    Compuestos de <foreign xml:lang= 'zap'>Ralleya</foreign> por llegar -----
+    <lb/>
     </div>
     <!--levanto-arte 1.3.1.10.1-->
     <div xml:id='levanto-arte1.3.1.10.2'>
     <head type= 'outline'> Segunda Clase </head>
+    los verbos de esta segunda clase tienen Irregulares
+    <lb/>
+    las primeras personas del plural del presente preterito
+    <lb/>
+    y futuro, volviendo la R del presente en Ri Pipara el pre=
     <pb n="24"/>
     <lb/>
     Preterito, y qui para el futuro: <foreign xml:lang= 'zap'>Raanaya</foreign>, y araro culti-
@@ -1450,6 +1579,25 @@
         <choice><orig>Quarta Conjugacion</orig><reg type="spanish">Cuarta Conjugación</reg></choice>
     </head>
     <pb n="25"/>
+    <lb/>
+    comer hace el preberito <foreign xml:lang= 'zap'>Cotagolla</foreign> vielto el Co del meberito
+    <lb/>
+    en <foreign xml:lang= 'zap'>Ri</foreign>, <foreign xml:lang= 'zap'>Pi</foreign>, <foreign xml:lang= 'zap'>qui</foreign>, <foreign xml:lang= 'zap'>o Ro</foreign>, <foreign xml:lang= 'zap'>Pe</foreign>, <foreign xml:lang= 'zap'>Co</foreign> haxai las primoexas pexronas
+    <lb/>
+    del Plural <foreign xml:lang= 'zap'>Ritayozonoo</foreign>, <foreign xml:lang= 'zap'>Pitagolongo</foreign>, <foreign xml:lang= 'zap'>hitagotonoo</foreign>, ó
+    <lb/>
+    <foreign xml:lang= 'zap'>Retagotonoo Petagotonoo</foreign>, <foreign xml:lang= 'zap'>Quetagotonoo</foreign>, las numa lox᷉
+    <lb/>
+    macion siguen sas <foreign xml:lang= 'zap'>Conyoueslos</foreign>
+    <lb/>
+    <foreign xml:lang= 'zap'>Ragozaaya</foreign>... comer esplendidamente…
+    <lb/>
+    <foreign xml:lang= 'zap'>Ragoyeelea</foreign>...comer de view…
+    <lb/>
+    <foreign xml:lang= 'zap'>Ragoraataya</foreign>... comer hasta artarve oae vieio…
+    <lb/>
+    <foreign xml:lang= 'zap'>Ragorijchija</foreign>...cenax…
+    <lb/>
     </div>
     <!--levanto-arte 1.3.1.10.4-->
     <div xml:id='levanto-arte1.3.1.10.5'>
