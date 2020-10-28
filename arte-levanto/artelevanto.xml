@@ -801,7 +801,7 @@
     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
     esta particula <foreign xml:lang="zap">Niaca</foreign> pospuesta ā este
 	<lb/>
-	preterito imperfecto, y quitadas las letras
+	preterito imperfecto, y quitadas las letras,
   <choice><orig>o’</orig><reg type="spanish">o</reg></choice> particulas
 	<lb/>
 	<foreign xml:lang="zap">A</foreign>,
@@ -812,9 +812,9 @@
     signi-
 	<lb/>
 	fica. <foreign xml:lang="lat">V.g.</foreign>
-  <foreign xml:lang="zap">Niaacañee niaca</foreign> habia de ayudar, y no
+  <foreign xml:lang="zap">Niaacañee niaca,</foreign> habia de ayudar, y no
 	<lb/>
-	ayude, <foreign xml:lang="zap">Niagoya niaca</foreign> habia de comer y no comii
+	ayude, <foreign xml:lang="zap">Niagoya niaca,</foreign> habia de comer y no comii
 	<lb/>
 	<foreign xml:lang="zap">Nionia niaca </foreign> habia de hacer y no hize.
 	<lb/>
@@ -823,7 +823,7 @@
     <!--levanto-arte 1.3.1.3-->
     <div xml:id='levanto-arte1.3.1.4'>
     <head type='outline'> Modo Ynfinitivo Presente</head>
-    <head>Modo Ynfinitivo Presente</head>
+    <head>Modo Ynfinitivo Presente.</head>
     <lb/>
 	<foreign xml:lang="zap">Caacañee</foreign>- Ayudar. Este es el futuro imperfecto de
 	<lb/>
@@ -843,7 +843,7 @@
 	<foreign xml:lang="zap">Niacañee</foreign>- haber ayudado. Este es preterito im-
 	<lb/>
 	perfecto de subjuntivo sin pronombre, y
-        <choice><orig>asi en todas qua</orig><reg type="spanish">así en todas cua</reg></choice>
+        <choice><orig>asi en todas quā</orig><reg type="spanish">así en todas cua</reg></choice>
 	<lb/>
 	tro Conjugaciones.
 	<lb/>
@@ -853,7 +853,7 @@
     <!--levanto-arte 1.3.1.5-->
     <div xml:id='levanto-arte1.3.1.6'>
     <head type='outline'> Gerundios </head>
-    Gerundios
+    <head>Gerundios</head>
     <lb/>
     Tres son los Gerundios
     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
@@ -864,16 +864,16 @@
 
     <div xml:id='levanto-arte1.3.1.6.1'>
     <head type='outline'> Gerundio de Genetivo </head>
-    Gerundio de Genitivo
+    Gerundio de Genetivo
     <lb/>
-    Este gerundio de genetico es el futuro imperfecto de
+    Este gerundio de genetivo es el futuro imperfecto de
     <lb/>
     indicativo sin quitarle el pronombre a la persona
     <lb/>
     de quien se habla anteponiendole el nombre o verbo
     <lb/>
     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
-    determona <foreign xml:lang="lat">V.g.</foreign> <foreign xml:lang="zap">huayatabea gacaneeea</foreign>
+    determina <foreign xml:lang="lat">V.g.</foreign> <foreign xml:lang="zap">huayatabea gacaneeea</foreign>
     llegada es la
     <lb/>
     ora de ayudaryo= <foreign xml:lang="zap">huayalabea cacanielo</foreign>
@@ -886,14 +886,14 @@
     </div>
     <!--levanto-arte 1.3.1.6.1-->
     <div xml:id='levanto-arte1.3.1.6.2'>
-    <head type='outline'> Genrundios de Acusativo </head>
+    <head type='outline'> Gerundios de Acusativo </head>
     Gerundios de Acusativo.
     <lb/>
-    Gerundio de Acusativo se determina siempre de
+    El Gerundio de Acusativo se determina siempre de
     <lb/>
     verbos
     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
-    significan movimiento y tiene tres formacio-
+    significan movimiento, y tiene tres formacio-
     <lb/>
     nes : La primera es de todos los verbos regulares de esta
     <lb/>
@@ -1021,7 +1021,7 @@
     <choice><orig>Yndios</orig><reg type="spanish">indios</reg></choice>  en todas
     <choice><orig>quatro</orig><reg type="spanish">cuatro</reg></choice> conjugaciones y
     <choice><orig>solo</orig><reg type="spanish">sólo</reg></choice>
-    en-
+    eñ-
     <lb/>
     tienden de todo gerundio,
     <choice><orig>quando</orig><reg type="spanish">cuando</reg></choice>
@@ -1045,7 +1045,7 @@
     <lb/>
     Ponen
     <choice><orig>aqui</orig><reg type="spanish">aquí</reg></choice>
-    algunos verbos de asistencia y otros de mo-
+    algunos verbos de asistencia y otros de mõ-
     <lb/>
     Vimiento para regirse dicho gerundio de dichos verbos.
     <lb/>
@@ -1166,7 +1166,7 @@
     <div xml:id='levanto-arte1.3.1.7.4'>
     <head type= 'outline'> Participio de Futuro en Dus </head>
     <pb n="18"/>
-    Primera vilaba, y anteponiendo le alos verbos dela primera
+    primera vilaba, y anteponiendole alos verbos dela primera
     <lb/>
     Conjugaçiòn esta particula <foreign xml:lang="zap">Zooacálos</foreign> de lasegunda esta
     <lb/>
@@ -1221,19 +1221,36 @@
     <!--levanto-arte 1.3.1.7-->
     <div xml:id='levanto-arte1.3.1.8'>
     <head type= 'outline'> Nombres Verbales </head>
-    Ai tres especies de nombres verbales encada Conjugacion.
+    Ai tres especies de nombres verbales encada Conju-
+    <lb/>
+    gacion.
     <div xml:id='levanto-arte1.3.1.8.1'>
     <head type= 'outline'> Primera Especie de Verbales </head>
+    La primera especie es de los nombres <choice><orig>q.e</orig><reg type="spanish">que</reg></choice> signi-
+    <lb/>
+    fican el hazedorsela rosa, o de la obra, V.g. el ayudador
+    <lb/>
+    hallador, embiador lo arredor. Estos verbales en la pri-
+    <lb/>
+    mera y leroera Conjugacion se forman del presente de
+    <lb/>
+    indicativo, el Ra de la primera y el Rivela tercera
+    <lb/>
+    Conjugacion vueltos en lo y quitado el pronombre, V.g.
+    <lb/>
+    <foreign xml:lang="zap">Ranaya</foreign> <choice><orig>q.e</orig><reg type="spanish">que</reg></choice> significa labrar la tierra, ale Cona ella-
+    <lb/>
+    lonador = <foreign xml:lang="zap">Rireelaya</foreign> <choice><orig>q.e</orig><reg type="spanish">que</reg></choice> significa embiar sale coreela el=
 
     <pb n="19"/>
 
-    el embiador Sacanse de estas dos reglas, estos dos nombres
+    el embiador. Sacanse de estas dos reglas, estos dos nombres,
     <lb/>
     <foreign xml:lang='zap'>Huago</foreign>,
     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
-    significa la comida à el qual anteponiendolé
+    significa la comida, à el qual anteponiendole
     <lb/>
-    esta particula <foreign xml:lang='zap'>quella</foreign> lo hace abstracto <foreign xml:lang='zap'>quella Huago</foreign>
+    esta particula <foreign xml:lang='zap'>quella</foreign> lo hace abstracto <foreign xml:lang='zap'>quella Huago,</foreign>
     <lb/>
     la comida; dicho verbal sale del verbo
     <foreign xml:lang="zap">Ragolla</foreign>
@@ -1324,7 +1341,9 @@
     <lb/>
     bilidad. Esta
     <choice><orig>formacion</orig><reg type="spanish">formación</reg></choice>
-    corresponde à los nombres
+    corresponde
+    <choice><orig>à</orig><reg type="spanish">a</reg></choice>
+    los nombres
     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
     llama-
     <lb/>
@@ -1360,9 +1379,9 @@
     <choice><orig>passivos, </orig><reg type="spanish">pasivos, </reg></choice>
     y neutros, y se forman del presente de
     <lb/>
-    indicativo, vuelta la (<foreign xml:lang="zap">t</foreign>, o <foreign xml:lang="zap">r</foreign>, en <foreign xml:lang="zap">li</foreign>?), <foreign xml:lang='lat'>V.g.</foreign> <foreign xml:lang="zap">Ranaya</foreign>, signi-
+    indicativo, vuelta la <foreign xml:lang="zap">t</foreign>, o <foreign xml:lang="zap">r</foreign>, en <foreign xml:lang="zap">li</foreign>, <foreign xml:lang='lat'>V.g.</foreign> <foreign xml:lang="zap">Ranaya</foreign>, signi-
     <lb/>
-    fica labrarta tierra, vueta la <foreign xml:lang="zap">r</foreign>, en <foreign xml:lang="zap">li</foreign>, y quitado el
+    fica labrarla tierra, vueta la <foreign xml:lang="zap">r</foreign>, en <foreign xml:lang="zap">Li</foreign>, y quitado el
     <lb/>
     pronombre dira <foreign xml:lang="zap">Liaana</foreign> el labra, o la labranza de
     <lb/>
@@ -1384,10 +1403,10 @@
     <lb/>
     Formanse estos nombres verbales adjetivos en esta
     <lb/>
-    <choice><orig>Conyugacion</orig><reg type="spanish">Conjugación</reg></choice>,
+    <choice><orig>Conjugacion</orig><reg type="spanish">Conjugación</reg></choice>,
     de verbos neutros y pasivos, de la pri-
     <lb/>
-    mera persona del presente de indicativo, vuelto el
+    mera persona del presente de indicativo, vuelto el <foreign xml:lang="zap">Ra-</foreign>
 
 
 
@@ -1473,7 +1492,7 @@
     <lb/>
     <foreign xml:lang="zap">Racanalda</foreign>---hazer--ô sonerfrio---
     <lb/>
-    <foreign xml:lang="zap">Racanaldaa</foreign>---zerer---calor----
+    <foreign xml:lang="zap">Racanaldaa</foreign>---terser---calor----
     <lb/>
     <foreign xml:lang="zap">Racazeenea</foreign>---estar emfermo, con los Compuelzo de
     <lb/>
@@ -1505,13 +1524,32 @@
     <lb/>
     <foreign xml:lang= 'zap'>Rallenatia</foreign>--nacer muerto. Con todos los Compuestos
     <lb/>
+    <foreign xml:lang= 'zap'>aRallea</foreign> por nacer -----
+    <lb/>
+    <foreign xml:lang= 'zap'>Ralloya</foreign>----llegar
+    <lb/>
+    <foreign xml:lang= 'zap'>Rallazaa</foreign>----llegar la fuerta
+    <lb/>
+    <foreign xml:lang= 'zap'>Rallalany</foreign>----llegar la fiesta
+    <lb/>
+    <foreign xml:lang= 'zap'>Rualla cozoo</foreign>----llegar la ocasion
+    <lb/>
+    <foreign xml:lang= 'zap'>Rallepeea</foreign>----llegar la hora. Contodo los
+    <lb/>
+    Compuestos de <foreign xml:lang= 'zap'>Ralleya</foreign> por llegar -----
+    <lb/>
     </div>
     <!--levanto-arte 1.3.1.10.1-->
     <div xml:id='levanto-arte1.3.1.10.2'>
     <head type= 'outline'> Segunda Clase </head>
+    los verbos de esta segunda clase tienen Irregulares
+    <lb/>
+    las primeras personas del plural del presente preterito
+    <lb/>
+    y futuro, volviendo la R del presente en Ri Pipara el pre=
     <pb n="24"/>
     <lb/>
-    Preterito, y qui para el futuro: <foreign xml:lang= 'zap'>Raanaya</foreign>, y araro culti-
+    Preterito, y qui para el futuro: <foreign xml:lang= 'zap'>Raanaya</foreign>, araro culti-
     <lb/>
     var la tierra, hace las dichas primeras per-
     <lb/>
@@ -1544,7 +1582,7 @@
     </head>
     <pb n="25"/>
     <lb/>
-    comer hace el preberito <foreign xml:lang= 'zap'>Contagolla</foreign> vielto el Co del meberito
+    comer hace el preberito <foreign xml:lang= 'zap'>Cotagolla</foreign> vielto el Co del meberito
     <lb/>
     en <foreign xml:lang= 'zap'>Ri</foreign>, <foreign xml:lang= 'zap'>Pi</foreign>, <foreign xml:lang= 'zap'>qui</foreign>, <foreign xml:lang= 'zap'>o Ro</foreign>, <foreign xml:lang= 'zap'>Pe</foreign>, <foreign xml:lang= 'zap'>Co</foreign> haxai las primoexas pexronas
     <lb/>
@@ -1560,7 +1598,7 @@
     <lb/>
     <foreign xml:lang= 'zap'>Ragoraataya</foreign>... comer hasta artarve oae vieio…
     <lb/>
-    <foreign xml:lang= 'zap'>Ragorijchija</foreign>...cenax…
+    <foreign xml:lang= 'zap'>Ragorijchija</foreign>...cenar…
     <lb/>
     </div>
     <!--levanto-arte 1.3.1.10.4-->
