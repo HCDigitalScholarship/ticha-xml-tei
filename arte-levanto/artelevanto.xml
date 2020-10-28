@@ -1341,7 +1341,9 @@
     <lb/>
     bilidad. Esta
     <choice><orig>formacion</orig><reg type="spanish">formación</reg></choice>
-    corresponde à los nombres
+    corresponde
+    <choice><orig>à</orig><reg type="spanish">a</reg></choice>
+    los nombres
     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
     llama-
     <lb/>
