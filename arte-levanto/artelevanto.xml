@@ -1070,7 +1070,7 @@
     <!--levanto-arte 1.3.1.6.3.1-->
     <div xml:id='levanto-arte1.3.1.6.3.2'>
     <head type= 'outline'> Verbos de Movimiento</head>
-    Verbos de Movimiento
+    <head>Verbos de Movimiento </head>
     <lb/>
     <foreign xml:lang="zap">Zeeleya</foreign> venir actualmente
     <lb/>
@@ -1509,9 +1509,10 @@
     <!--levanto-arte 1.3.1.10.1-->
     <div xml:id='levanto-arte1.3.1.10.2'>
     <head type= 'outline'> Segunda Clase </head>
+    <head> Segunda Clase </head>
     <pb n="24"/>
     <lb/>
-    Preterito, y qui para el futuro: <foreign xml:lang= 'zap'>Raanaya</foreign>, y araro culti-
+    preterito, y qui para el futuro: <foreign xml:lang= 'zap'>Raanaya</foreign>, y araro culti-
     <lb/>
     var la tierra, hace las dichas primeras per-
     <lb/>
