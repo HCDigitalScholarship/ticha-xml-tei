@@ -540,9 +540,15 @@
     <choice><orig>quatro</orig><reg type="spanish">cuatro</reg></choice>
     vocales <foreign xml:lang='zap'>ā é,i,ó</foreign>,
     <lb/>
+<<<<<<< HEAD
+    na añadiendoles una de estas con son antes <foreign xml:lang='zap'>t</foreign>
+    <choice><orig>o’</orig><reg type="spanish">o </reg></choice>
+    <foreign xml:lang='zap'>x</foreign> y
+=======
     na adiendoles una de estas consonantes <foreign xml:lang='zap'>t</foreign>
     <choice><orig>o’</orig><reg type="spanish">ó </reg></choice>
     <foreign xml:lang='zap'>r</foreign> y
+>>>>>>> 1fc4f5fc0466c48a98d7ebedd07eb8e00edb970d
     <choice><orig>asi</orig><reg type="spanish">así</reg></choice>
     <choice><orig>dirá</orig><reg type="spanish">dija </reg></choice>
     <foreign xml:lang='zap'>ta
@@ -615,7 +621,7 @@
     <lb/>
     alguna
     <choice><orig>silaba ó particula</orig><reg type="spanish">sílaba o partícula</reg></choice>
-    como se vera conjugando
+    como se verá conjugando
     <lb/>
     este verbo activo <foreign xml:lang='zap'>Raacañeea</foreign>
     <lb/>
@@ -627,7 +633,7 @@
     <foreign xml:lang='zap'>Raacañeea</foreign>
     es compuesto del verbo <foreign xml:lang='zap'>Raa
     <lb/>
-    caya</foreign> ser y de la particula <foreign xml:lang='zap'>nee</foreign>
+    caya</foreign> ser y de la particula <foreign xml:lang='zap'>ñee</foreign>
     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
     significa junto o jun
     <lb/>
@@ -852,8 +858,8 @@
     </div>
     <!--levanto-arte 1.3.1.5-->
     <div xml:id='levanto-arte1.3.1.6'>
-    <head type='outline'>Gerundios</head>
-    <head>Gerundios</head>
+    <head type='outline'> Gerundios </head>
+    Gerundios
     <lb/>
     Tres son los Gerundios
     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
@@ -863,8 +869,8 @@
     <lb/>
 
     <div xml:id='levanto-arte1.3.1.6.1'>
-    <head type='outline'>Gerundio de Genetivo</head>
-    <head>Gerundio de Genitivo</head>
+    <head type='outline'> Gerundio de Genetivo </head>
+    Gerundio de Genitivo
     <lb/>
     Este gerundio de genetico es el futuro imperfecto de
     <lb/>
@@ -886,8 +892,8 @@
     </div>
     <!--levanto-arte 1.3.1.6.1-->
     <div xml:id='levanto-arte1.3.1.6.2'>
-    <head type='outline'>Genrundios de Acusativo</head>
-    <head>Gerundios de Acusativo.</head>
+    <head type='outline'> Genrundios de Acusativo </head>
+    Gerundios de Acusativo.
     <lb/>
     Gerundio de Acusativo se determina siempre de
     <lb/>
@@ -1036,8 +1042,8 @@
     </div>
     <!--levanto-arte 1.3.1.6.2-->
     <div xml:id='levanto-arte1.3.1.6.3'>
-    <head type='outline'>Gerundio de Ablativo</head>
-    <head>Gerundio de Ablativo.</head>
+    <head type='outline'> Gerundio de Ablativo </head>
+    Gerundio de Ablativo.
     <lb/>
     Antes de tratar de la
     <choice><orig>formacion</orig><reg type="spanish">formación</reg></choice>
@@ -1052,7 +1058,7 @@
 
     <div xml:id='levanto-arte1.3.1.6.3.1'>
     <head type= 'outline'> Verbos de Asistencia </head>
-    <head>Verbos de Asistencia</head>
+    Verbos de Asistencia
     <lb/>
     <foreign xml:lang="zap">Rizoobaya</foreign> -estar absolutamente
     <lb/>
@@ -1060,7 +1066,7 @@
     <lb/>
 
     <pb n="16"/>
-    <foreign xml:lang="zap">Nazija</foreign> estar sentado
+    <foreign xml:lang="zap">Nazija</foreign>   estar sentado
     <lb/>
     <foreign xml:lang="zap">Nooya</foreign> estar dentro
     <lb/>
@@ -1070,7 +1076,7 @@
     <!--levanto-arte 1.3.1.6.3.1-->
     <div xml:id='levanto-arte1.3.1.6.3.2'>
     <head type= 'outline'> Verbos de Movimiento</head>
-    <head>Verbos de Movimiento</head>
+    <head>Verbos de Movimiento </head>
     <lb/>
     <foreign xml:lang="zap">Zeeleya</foreign> venir actualmente
     <lb/>
@@ -1357,7 +1363,7 @@
     finitivo; <foreign xml:lang='lat'>V.g.</foreign> el comer, el beber, el nazer. Estos se
     <lb/>
     forman en esta primera
-    <choice><orig>Conyugacion</orig><reg type="spanish">Conjugación</reg></choice>,
+    <choice><orig>Conjugacion</orig><reg type="spanish">Conjugación</reg></choice>,
     de verbos ac-
     <lb/>
     tivos,
@@ -1418,6 +1424,24 @@
     <lb/>
     <div xml:id='levanto-arte1.3.1.9.1'>
     <head type= 'outline'> Primera Especie </head>
+    <head> Primera Especie </head>
+    <lb/>
+    En la primera conjucacion, y en la terera el <foreign xml:lang='zap'>Ra</foreign>,
+    <lb/>
+    de la primera, y el <foreign xml:lang='zap'>Ri</foreign> de la tercera, se vuelven en
+    <lb/>
+    <foreign xml:lang='zap'>Co</foreign> sin pronombre. El <foreign xml:lang='zap'>Re</foreign> de la segunda conjucacion
+    <lb/>
+    y el <foreign xml:lang='zap'>Ro</foreign> de la quarta, se vuelven en <foreign xml:lang='zap'>hue</foreign>, sin pronombre.
+    <lb/>
+    V.g. de <foreign xml:lang='zap'>Racañeea</foreign>, sale, <foreign xml:lang='zap'>cocañee</foreign>, el ayudador. de <foreign xml:lang='zap'>Rexeela-
+    <lb/>
+    ya</foreign> sale <foreign xml:lang='zap'>coxeela</foreign>, el embiador, de <foreign xml:lang='zap'>Recheelaya</foreign> sale <foreign xml:lang='zap'>huech-
+    <lb/>
+    ceelaya</foreign>, el hallador, de <foreign xml:lang='zap'>Roloobaya</foreign> sale <foreign xml:lang='zap'>hueloobaya</foreign>,
+    <lb/>
+    el barredor.
+
     </div>
     <!--levanto-arte 1.3.1.9.1-->
     <div xml:id='levanto-arte1.3.1.9.2'>
@@ -1447,10 +1471,6 @@
     <head type= 'outline'> Tercera
         <choice><orig>Conjugacion</orig><reg type="spanish">Conjugación</reg></choice>
     </head>
-    En esta primera conjugacion reforman los adje-
-    <lb/>
-    tivos de verbos neutros y pasivos el <foreign xml:lang="zap">Ra</foreign> del presente de
-    <lb/> indicativo vuelto en <foreign xml:lang="zap">Na</foreign>.
     </div>
     <!--levanto-arte 1.3.1.9.4.3-->
     <div xml:id='levanto-arte1.3.1.9.4.4'>
@@ -1518,6 +1538,12 @@
     <div xml:id='levanto-arte1.3.1.10.2'>
     <head type= 'outline'> Segunda Clase </head>
     <head> Segunda Clase </head>
+    Los verbos de esta segunda clase tienen irregulares
+    <lb/>
+    las primeras personas del plural del presente preterito
+    <lb/>
+    y futuro, volviendo la <foreign xml:lang= 'zap'>Rdel</foreign> presente en Ri Pipara el pre -
+
     <pb n="24"/>
     <lb/>
     preterito, y qui para el futuro: <foreign xml:lang= 'zap'>Raanaya</foreign>, y araro culti-
@@ -1654,9 +1680,7 @@
     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
     se hable de presente, preterito, ó futuro, anteponiendole
     <lb/>
-    â el <foreign xml:lang='zap'>Ca</foreign>
-    <choice><orig>dela</orig><reg type="spanish">de la</reg></choice>
-    primera
+    â el <foreign xml:lang='zap'>Ca</foreign> dela primera
     <choice><orig>conjugacion</orig><reg type="spanish">conjugación</reg></choice>,
     â el <foreign xml:lang='zap'>Que</foreign> de la segunda
     <lb/>
