@@ -540,15 +540,9 @@
     <choice><orig>quatro</orig><reg type="spanish">cuatro</reg></choice>
     vocales <foreign xml:lang='zap'>ā é,i,ó</foreign>,
     <lb/>
-<<<<<<< HEAD
-    na añadiendoles una de estas con son antes <foreign xml:lang='zap'>t</foreign>
-    <choice><orig>o’</orig><reg type="spanish">o </reg></choice>
-    <foreign xml:lang='zap'>x</foreign> y
-=======
     na adiendoles una de estas consonantes <foreign xml:lang='zap'>t</foreign>
     <choice><orig>o’</orig><reg type="spanish">ó </reg></choice>
     <foreign xml:lang='zap'>r</foreign> y
->>>>>>> 1fc4f5fc0466c48a98d7ebedd07eb8e00edb970d
     <choice><orig>asi</orig><reg type="spanish">así</reg></choice>
     <choice><orig>dirá</orig><reg type="spanish">dija </reg></choice>
     <foreign xml:lang='zap'>ta
@@ -621,7 +615,7 @@
     <lb/>
     alguna
     <choice><orig>silaba ó particula</orig><reg type="spanish">sílaba o partícula</reg></choice>
-    como se verá conjugando
+    como se vera conjugando
     <lb/>
     este verbo activo <foreign xml:lang='zap'>Raacañeea</foreign>
     <lb/>
@@ -633,7 +627,7 @@
     <foreign xml:lang='zap'>Raacañeea</foreign>
     es compuesto del verbo <foreign xml:lang='zap'>Raa
     <lb/>
-    caya</foreign> ser y de la particula <foreign xml:lang='zap'>ñee</foreign>
+    caya</foreign> ser y de la particula <foreign xml:lang='zap'>nee</foreign>
     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
     significa junto o jun
     <lb/>
@@ -669,16 +663,16 @@
     <lb/>
 
     <pb n="12"/>
-    <foreign xml:lang="zap">huayaacañeeca</foreign>, yo huve ayudado. De como reforman estos dos
+    <foreign xml:lang="zap">huayaacañeea</foreign>, yo huve ayudado. De como reforman estos dos
     <lb/>
     preteritos en las
     <choice><orig>demas</orig><reg type="spanish">demás</reg></choice>
     conjugaciones, redirá en cada una.
     <lb/>
-    Futuro: <foreign xml:lang="zap">Caacañeea</foreign> -yo ayudare
+    Futuro: <foreign xml:lang="zap">Caacañeea</foreign> -yo ayudare-
     <foreign xml:lang="zap">Caacañeetonoo</foreign>-nosotros ayudaremos
     <lb/>
-    <foreign xml:lang="zap">Caacañeelo</foreign>- tu ayudaras
+    <foreign xml:lang="zap">Caacañeelo</foreign>- tu ayudaras-
     <foreign xml:lang="zap">Caacañeeto</foreign>- vosotros ayudareis.
     <lb/>
     <foreign xml:lang="zap">Caacañeeni</foreign>- aquel ayudara
@@ -692,11 +686,11 @@
     <choice><orig>Conju-<lb/>gacion</orig><reg type="spanish">Conju-<lb/>gación</reg></choice>
     comienza escrito con <foreign xml:lang="zap">C</foreign>. pero al hablarlo se pro-
     <lb/>
-    nuncia :<foreign xml:lang="lat">G:V.g.</foreign> <foreign xml:lang="zap">Gaacañeea</foreign> yo ayudare: <foreign xml:lang="zap">Gaagoya</foreign> yo comé
+    nuncia <foreign xml:lang="lat">G:V.g.</foreign> <foreign xml:lang="zap">Gaacañeea</foreign> yo ayudare: <foreign xml:lang="zap">Gaagoya</foreign> yo comé
     <lb/>
     re: <foreign xml:lang="zap">gaagolo</foreign> tu comeras.
     <lb/>
-    Imperativo singular <foreign xml:lang="zap">Coocañee</foreign> ayudatu: es el preteritos es
+    Imperativo singular <foreign xml:lang="zap">Coocañee</foreign> ayudatu: es el preteritos en
     <lb/>
     pronombre// plural - <foreign xml:lang="zap">Colacaacañee</foreign> ayudad vosotros. Es el futu-
     <lb/>
@@ -704,7 +698,7 @@
     <lb/>
     ó <foreign xml:lang="zap">Laa</foreign>. Adviertase
     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
-    los imperativos carezen de terceras?
+    los imperativos carezen de terceras
     <lb/>
     personas en singular y plural: pero se suplen por la tercera
     <lb/>
@@ -1172,17 +1166,17 @@
     <div xml:id='levanto-arte1.3.1.7.4'>
     <head type= 'outline'> Participio de Futuro en Dus </head>
     <pb n="18"/>
-    Primera vilaba, y anteponiendo le alos verbos dela primera
+    primera vilaba, y anteponiendole alos verbos dela primera
     <lb/>
-    Conjugaçiòn esta particula <foreign xml:lang="zap">Zooacálos</foreign> de lasegunda esta
+    conjugaçiòn esta particula <foreign xml:lang="zap">Zooacálos</foreign> de lasegunda, esta
     <lb/>
-    particula <foreign xml:lang="zap">Zooe</foreign> álos dela tereera esta particula <foreign xml:lang="zap"> Zaa'</foreign>, álos
+    particula <foreign xml:lang="zap">Zooe</foreign>, álos dela tercera esta particula <foreign xml:lang="zap"> Zaa'</foreign>; álos
     <lb/>
-    dela quarta esta particula <foreign xml:lang="zap">Zoo</foreign><foreign xml:lang="lat">V.g.</foreign><foreign xml:lang="zap">Zooacañeea</foreign> podre
+    dela quarta esta particula <foreign xml:lang="zap">Zoo</foreign>.<foreign xml:lang="lat">V.g.</foreign><foreign xml:lang="zap">Zooacañeea</foreign>, podre
     <lb/>
-    ayudar <foreign xml:lang="zap">Zooechelaya</foreign> podre haltar; <foreign xml:lang="zap">Zaareelaya</foreign> podre ém
+    ayudar, <foreign xml:lang="zap">Zooechelaya</foreign> podre haltar; <foreign xml:lang="zap">Zaareelaya</foreign> podre ém
     <lb/>
-    biar. <foreign xml:lang="zap">Zoolobaya</foreign>, podre barrer.
+    biar; <foreign xml:lang="zap">Zoolobaya</foreign>, podre barrer.
     <lb/>
     Adviertase q.e este verbo <foreign xml:lang="zap">Ragoya</foreign>, q.e igniféa comerñe
     <lb/>
@@ -1359,7 +1353,7 @@
     finitivo; <foreign xml:lang='lat'>V.g.</foreign> el comer, el beber, el nazer. Estos se
     <lb/>
     forman en esta primera
-    <choice><orig>Conjugacion</orig><reg type="spanish">Conjugación</reg></choice>,
+    <choice><orig>Conyugacion</orig><reg type="spanish">Conjugación</reg></choice>,
     de verbos ac-
     <lb/>
     tivos,
@@ -1390,7 +1384,7 @@
     <lb/>
     Formanse estos nombres verbales adjetivos en esta
     <lb/>
-    <choice><orig>Conyugacion</orig><reg type="spanish">Conjugación</reg></choice>,
+    <choice><orig>Conjugacion</orig><reg type="spanish">Conjugación</reg></choice>,
     de verbos neutros y pasivos, de la pri-
     <lb/>
     mera persona del presente de indicativo, vuelto el
@@ -1516,12 +1510,6 @@
     <div xml:id='levanto-arte1.3.1.10.2'>
     <head type= 'outline'> Segunda Clase </head>
     <head> Segunda Clase </head>
-    Los verbos de esta segunda clase tienen irregulares
-    <lb/>
-    las primeras personas del plural del presente preterito
-    <lb/>
-    y futuro, volviendo la <foreign xml:lang= 'zap'>Rdel</foreign> presente en Ri Pipara el pre -
-
     <pb n="24"/>
     <lb/>
     preterito, y qui para el futuro: <foreign xml:lang= 'zap'>Raanaya</foreign>, y araro culti-
