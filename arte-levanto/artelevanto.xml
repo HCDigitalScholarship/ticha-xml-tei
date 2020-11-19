@@ -669,7 +669,7 @@
     <lb/>
 
     <pb n="12"/>
-    <foreign xml:lang="zap">huayaacañeeca</foreign>, yo huve ayudado. De como reforman estos dos
+    <foreign xml:lang="zap">huayaacañeeca</foreign>, yo <choice><orig>huve</orig><reg type="spanish">hube</reg></choice> ayudado. De <choice><orig>como</orig><reg type="spanish">cómo</reg></choice> reforman estos dos
     <lb/>
     preteritos en las
     <choice><orig>demas</orig><reg type="spanish">demás</reg></choice>
@@ -681,7 +681,7 @@
     <foreign xml:lang="zap">Caacañeelo</foreign>- tu ayudaras
     <foreign xml:lang="zap">Caacañeeto</foreign>- vosotros ayudareis.
     <lb/>
-    <foreign xml:lang="zap">Caacañeeni</foreign>- aquel ayudara
+    <foreign xml:lang="zap">Caacañeeni</foreign>- aquel <choice><orig>ayudara</orig><reg type="spanish">ayudará</reg></choice>
     <foreign xml:lang="zap">Coaacañeni</foreign>- aquellos ayudaran
     <lb/>
     <choice><orig>Advierta se</orig><reg type="spanish">Adviértase</reg></choice>
