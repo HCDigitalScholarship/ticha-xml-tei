@@ -1591,7 +1591,7 @@
     <lb/>
     <foreign xml:lang= 'zap'>Ragozaaya</foreign>... comer esplendidamente…
     <lb/>
-    <foreign xml:lang= 'zap'>Ragoyeelea</foreign>...comer de vicio…
+    <foreign xml:lang= 'zap'>Ragoyeelea</foreign>...comer de view…
     <lb/>
     <foreign xml:lang= 'zap'>Ragoraataya</foreign>... comer hasta artarve oae vieio…
     <lb/>
@@ -1617,7 +1617,7 @@
     <lb/>
     Las verbos de esta quinta clase son el verbo <foreign xml:lang='zap'>Raaya</foreign>, vel,
     <lb/>
-    <foreign xml:lang='zap'>Raataya</foreign> por acostarse, con todos seco compuestos, los
+    <foreign xml:lang='zap'>Raataya</foreign> por acostarse, con todos seco conjosiestos, los
     <lb/>
     guales son todos irregulares, y hacen las primeras vea-
     <lb/>
@@ -1716,7 +1716,8 @@
     <lb/>
     ma
     <choice><orig>formacion</orig><reg type="spanish">formación</reg></choice>
-    q.ue los de la otras tres conjugaciones, ante
+    <choice><orig>q.ue</orig><reg type="spanish">que</reg></choice>
+    los de la otras tres conjugaciones, ante
     <lb/>
     poniendole al futuro <foreign xml:lang='zap'>Co, el Ro, Pe, Co.</foreign> <foreign xml:lang='zap'>Ronnia</foreign>, significa
     <lb/>
@@ -2110,7 +2111,8 @@
     <lb/>
     parativos la regla y
     <choice><orig>formacion</orig><reg type="spanish">formación</reg></choice>,
-    q. e los demas de las 4
+    <choice><orig>q. e</orig><reg type="spanish">que</reg></choice>
+    los demas de las 4
     <lb/>
     Conjugaciones: quiza por der irregular en todo ha-
     <lb/>
