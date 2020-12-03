@@ -1641,7 +1641,7 @@
     <lb/>
     Verbos Pasivos de la primera Conju
     <lb/>
-    Nota q.e los verbos Pasivos de la primera Conjugacion
+    Nota <choice><orig>q.e</orig><reg type="spanish">que</reg></choice> los verbos Pasivos de la primera Conjugacion
     <lb/>
 
     </div>
@@ -2166,13 +2166,13 @@
     <head type= 'outline'>Tercera Especie</head>
 
     <pb n="34"/>
-    dir á los Indios sino de tal o qual verbo de los q.e estan
+    dir á los Indios sino de tal o qual verbo de los <choice><orig>q.e</orig><reg type="spanish">que</reg></choice> estan
     <lb/>
-    en uso: V.g. de <foreign xml:lang= 'zap'>Rennaya</foreign> q.e significa ver, sale <foreign xml:lang= 'zap'>Lenn-
+    en uso: V.g. de <foreign xml:lang= 'zap'>Rennaya</foreign> <choice><orig>q.e</orig><reg type="spanish">que</reg></choice> significa ver, sale <foreign xml:lang= 'zap'>Lenn-
     <lb/>
     aa</foreign> la presencia de la cosa: de <foreign xml:lang= 'zap'>Riegoya</foreign>, ser cerra-
     <lb/>
-    dauna cosa sale fiego, q.e significa la tapadera.
+    dauna cosa sale fiego, <choice><orig>q.e</orig><reg type="spanish">que</reg></choice> significa la tapadera.
     <lb/>
     </div>
     <!--levanto-arte 1.3.2.20.3-->
@@ -2188,7 +2188,7 @@
     <lb/>
     presente , en <foreign xml:lang= 'zap'>Na</foreign>, y quitado el pronombre: V.g. de <foreign xml:lang= 'zap'>Ri-
     <lb/>
-    cheelaya</foreign> vale <foreign xml:lang= 'zap'>Nacheela</foreign> cosa hallada: Los q.e se forman
+    cheelaya</foreign> vale <foreign xml:lang= 'zap'>Nacheela</foreign> cosa hallada: Los <choice><orig>q.e</orig><reg type="spanish">que</reg></choice> se forman
     <lb/>
     de neutros, vuelven el <foreign xml:lang= 'zap'>Re</foreign>, en <foreign xml:lang= 'zap'>Ne</foreign>. V.g. de <foreign xml:lang= 'zap'>Relaazela-
     <lb/>
@@ -2212,17 +2212,17 @@
     <lb/>
     <foreign xml:lang= 'zap'>Gueea</foreign>, del <foreign xml:lang= 'zap'>Queea</foreign>, beber - Culla passiva se forma de las
     <lb/>
-    primeras personas de plural, q.e son <foreign xml:lang= 'zap'>Ritohuitonoo</foreign>, <foreign xml:lang= 'zap'>Pito-
+    primeras personas de plural, <choice><orig>q.e</orig><reg type="spanish">que</reg></choice> son <foreign xml:lang= 'zap'>Ritohuitonoo</foreign>, <foreign xml:lang= 'zap'>Pito-
     <lb/>
     huitonoo</foreign>, <foreign xml:lang= 'zap'>Quitohuitonoo</foreign>, quitado el pronombre tonoo,
     <lb/>
     queda <foreign xml:lang= 'zap'>Ritohui</foreign>, <foreign xml:lang= 'zap'>Pitohui</foreign>, <foreign xml:lang= 'zap'>Quitohui</foreign>, ser bebido.
     <lb/>
-    Nota q.e de este verbo salen <foreign xml:lang= 'zap'>Renni Cohuee</foreign>, <foreign xml:lang= 'zap'>Quella Có-
+    Nota <choice><orig>q.e</orig><reg type="spanish">que</reg></choice> de este verbo salen <foreign xml:lang= 'zap'>Renni Cohuee</foreign>, <foreign xml:lang= 'zap'>Quella Có-
     <lb/>
     hue</foreign>; el bebedor; el primero y el segundo significa
     <lb/>
-    la bebida aunq.e no sigue la regla general.
+    la bebida <choice><orig>aunq.e</orig><reg type="spanish">aunque</reg></choice> no sigue la regla general.
     <lb/>
     </div>
     <!--levanto-arte 1.3.2.22-->
@@ -3523,9 +3523,9 @@
     <foreign xml:lang = "zap">toobi-
     <lb/>
     toobichij</foreign>:
-    <choice> <orig>Quando son un par las cosas de q.e hablas de
+    <choice> <orig>Quando son un par las cosas de <choice><orig>q.e</orig><reg type="spanish">que</reg></choice> hablas de
     <lb/>
-    suerte q.e han de ser dos precisamente para usar de ellas</orig>
+    suerte <choice><orig>q.e</orig><reg type="spanish">que</reg></choice> han de ser dos precisamente para usar de ellas</orig>
     <reg type="spanish">Cuando son un par las cosas de que hablas de
     <lb/>
     suerte que han de ser dos precisamente para usar de ellas</reg>
@@ -5076,7 +5076,7 @@
     </foreign>
     <choice>
     <orig>
-    Hijo mio esa confesion no fue buena porq.e escondis-
+    Hijo mio esa confesion no fue buena <choice><orig>porq.e</orig><reg type="spanish">porque</reg></choice> escondis-
     <lb/>
     te el pecado; por el tanto esta obligado â confesar
     <lb/>
@@ -5142,7 +5142,7 @@
     </foreign>
     <choice>
     <orig>
-    Porq.e no obedeciste â el Padre? Porq.e no cumplis-
+    <choice><orig>Porq.e</orig><reg type="spanish">Porque</reg></choice> no obedeciste â el Padre? <choice><orig>Porq.e</orig><reg type="spanish">Porque</reg></choice> no cumplis-
     <lb/>
     te la penitencia
     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
