@@ -540,13 +540,14 @@
     <choice><orig>quatro</orig><reg type="spanish">cuatro</reg></choice>
     vocales <foreign xml:lang='zap'>ā é,i,ó</foreign>,
     <lb/>
+    <!-- BDL what is in the line below and the numbers a few lines later?-->
 <<<<<<< HEAD
     na añadiendoles una de estas con son antes <foreign xml:lang='zap'>t</foreign>
     <choice><orig>o’</orig><reg type="spanish">o </reg></choice>
     <foreign xml:lang='zap'>x</foreign> y
 =======
     na adiendoles una de estas consonantes <foreign xml:lang='zap'>t</foreign>
-    <choice><orig>o’</orig><reg type="spanish">ó </reg></choice>
+    <choice><orig>o’</orig><reg type="spanish">o </reg></choice>
     <foreign xml:lang='zap'>r</foreign> y
 >>>>>>> 1fc4f5fc0466c48a98d7ebedd07eb8e00edb970d
     <choice><orig>asi</orig><reg type="spanish">así</reg></choice>
@@ -1942,37 +1943,69 @@
     </div>
     <!--levanto-arte 1.3.2.7-->
     <div xml:id='levanto-arte1.3.2.8'>
-    <head type= 'outline'>[Participios]</head>
+    sin mudarlo: <foreign xml:lang='lat'>V.g.</foreign> vengo hallando <foreign xml:lang='zap'>Zeerechelaya</foreign>,
+    <lb/>
+    tambien sirve de Ablativo absoluto dicho presen-
+    <lb/>
+    te, anteponiendole solamente esta particula <foreign xml:lang='zap'>hua</foreign>:
+    <lb/>
+    <foreign xml:lang='lat'>V.g.</foreign> <foreign xml:lang='zap'>huareechelaya</foreign>, me inveniende.
+    </div>
     <div xml:id='levanto-arte1.3.2.8.1'>
     <head type= 'outline'>Participio de Presente</head>
+    <foreign xml:lang='zap'>Nireechela</foreign> --- Elq.e halla ó hallaba. ---
+    <lb/>
+    Yasedijo de reformacion, en la primera conjugaciones
+    <lb/>
+    como tambien de la formacion de todos los Participios.
     </div>
     <!--levanto-arte 1.3.2.8.1-->
     <div xml:id='levanto-arte1.3.2.8.2'>
     <head type= 'outline'>Participio de Preterito</head>
+    <foreign xml:lang='zap'>Nipichela</foreign> --- Cosa hallada
     </div>
     <!--levanto-arte 1.3.2.8.2-->
     <div xml:id='levanto-arte1.3.2.8.3'>
     <head type= 'outline'>Participio de Futuro en Rus.</head>
+    <foreign xml:lang='zap'>Niguichela</foreign> --- Elq.e á de hallar. ---
     </div>
     <!--levanto-arte 1.3.2.8.3-->
     <div xml:id='levanto-arte1.3.2.8.4'>
     <head type= 'outline'>Participio de Futuro en Dus.</head>
+    <foreign xml:lang='zap'> Niguichela</foreign> --- Cosa q.e adeser hallada ---
     </div>
     <!--levanto-arte 1.3.2.8.4-->
     </div>
     <!--levanto-arte 1.3.2.8-->
     <div xml:id='levanto-arte1.3.2.9'>
     <head type= 'outline'>Voz de Potencialidad</head>
+    <foreign xml:lang='zap'> Zooechelaya</foreign> --- Yo podre hallar. ---
     </div>
     <!--levanto-arte 1.3.2.9-->
     <div xml:id='levanto-arte1.3.2.10'>
     <head type= 'outline'>Verbos irregulares de esta segunda
         <choice><orig>Conjugacion</orig><reg type="spanish">Conjugación</reg></choice>
     </head>
+    <foreign xml:lang='zap'>Reea</foreign> bever hazeel preterito <foreign xml:lang='zap'>Covea</foreign>, y el futuro <foreign xml:lang='zap'>gue-
+    <lb/>
+    ea</foreign>, vel <foreign xml:lang='zap'>queeá</foreign>, y las primeras personas del plural son
+    <lb/>
+    <foreign xml:lang='zap'>Ritohuinoo</foreign>, vel <foreign xml:lang='zap'>tonoo</foreign> en presente <foreign xml:lang='zap'>Ritohuinoo</foreign> en
+    <lb/>
+    preterito, <foreign xml:lang='zap'>quitohuinoo</foreign> en futuro.
+    <lb/>
+    <foreign xml:lang='zap'>Releea</foreign> por venir havitualmente ---
     </div>
     <!--levanto-arte 1.3.2.10-->
     <div xml:id='levanto-arte1.3.2.11'>
     <head type= 'outline'>Presente de Yndicativo</head>
+    Sing. <foreign xml:lang='zap'>Releea</foreign> --- Yo vengo habitualmente ---
+    <lb/>
+    <foreign xml:lang='zap'>Ritalo</foreign> --- Tu vienes ---
+    <lb/>
+    <foreign xml:lang='zap'>Ritani</foreign> --- Aquelviene ---
+    <lb/>
+    Plural <foreign xml:lang='zap'>Reopertonoo</foreign> --- Nosotros venimos ---
 
     <pb n="31"/>
     <foreign xml:lang='zap'>Ritaro</foreign>. . . . . Noro venir-
@@ -3113,7 +3146,9 @@
     en la 1.a persona del singular, vuelve en de(?), en
     ta. para las
     <lb/>
-    2.as y 3.as personas de singular ó plural, y para la 1.a del plu-
+    2.as y 3.as personas de singular
+    <choice><orig>ó</orig><reg type="spanish">o</reg></choice>
+    plural, y para la 1.a del plu-
     <lb/>
     Ral, vuelvel(?) el
     <foreign xml:lang="zap">Le</foreign> en
@@ -3220,7 +3255,9 @@
     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
     aquel <foreign xml:lang="zap">Ca</foreign>,
     <lb/>
-    es el vervo, ó adjectivo
+    es el <choice><orig>vervo</orig><reg type="spanish">verbo</reg></choice>,
+    <choice><orig>ó</orig><reg type="spanish">o</reg></choice>
+    adjectivo
     <foreign xml:lang="zap">naca</foreign>
     sin copado; item vale tanto es-
     <lb/>
@@ -3232,7 +3269,9 @@
     <choice><orig>diccion</orig><reg type="spanish">dicción</reg></choice>
     - como: <foreign xml:lang="zap">Huanijxaca</foreign>
     <lb/>
-    Dios: esta ó ay ciertamente Dios
+    Dios: esta
+    <choice><orig>ó</orig><reg type="spanish">o</reg></choice>
+    ay ciertamente Dios
     <choice><orig>Aaunq.e parece tambien <lb/> este, del plusquom perfecto; </orig><reg type="spanish">Aunque parece también <lb/> este, del pluscuamperfecto; </reg></choice>
     item porpuesto este <foreign xml:lang="zap">Ca</foreign>, sirve c?pr?-
     <lb/>
@@ -5045,7 +5084,11 @@
     <choice><orig>Quando</orig><reg type="spanish">¿Cuando</reg></choice>
     te   <choice><orig>confesastes d[e]claraste bien todos tus pecados
     <lb/>
-    [a] el Padre? ó tuviste miedo, ó verguenza, y entonces
+    [a] el Padre?
+    <choice><orig>ó</orig><reg type="spanish">o</reg></choice>
+    tuviste miedo,
+    <choice><orig>ó</orig><reg type="spanish">o</reg></choice>
+    verguenza, y entonces
     <lb/>
     escondistes algun pecado?
     </orig><reg type="spanish">confesaste declaraste bien todos tus pecados
@@ -5262,7 +5305,11 @@
     Zelij colaapia quella rieelijlachi Dios lannila]chijtooya</foreign>
 
     <pb n="120"/>
-    Has adorado algun ydolo, ó quemado copal, ó encendi_
+    Has adorado algun ydolo,
+    <choice><orig>ó</orig><reg type="spanish">o</reg></choice>
+    quemado copal,
+    <choice><orig>ó</orig><reg type="spanish">o</reg></choice>
+    encendi_
     <lb/>
     do candelas delantede el como lo hacian los Antiguos?
     <lb/>
@@ -5276,9 +5323,15 @@
     <lb/>
     <foreign xml:lang='zap'>Aca chaana, acaxijti pennia niquee.</foreign>
     <lb/>
-    Saves si, alguno a adorado algun Ydolo, ó quemado
+    Saves si, alguno a adorado algun Ydolo,
+    <choice><orig>ó</orig><reg type="spanish">o</reg></choice>
+    quemado
     <lb/>
-    copal, ó encendido candelas delante de el, ó has oído de_
+    copal,
+    <choice><orig>ó</orig><reg type="spanish">o</reg></choice>
+    encendido candelas delante de el,
+    <choice><orig>ó</orig><reg type="spanish">o</reg></choice>
+    has oído de_
     <lb/>
     cir
     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
@@ -5292,7 +5345,9 @@
     <lb/>
     ni tu pennijlla aca?</foreign>
     <lb/>
-    Has creido en sueños, has creido en aguenos, ó en la voz de
+    Has creido en sueños, has creido en aguenos,
+    <choice><orig>ó</orig><reg type="spanish">o</reg></choice>
+    en la voz de
     <lb/>
     los animales
     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
