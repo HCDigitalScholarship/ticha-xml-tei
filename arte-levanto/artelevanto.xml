@@ -5741,7 +5741,9 @@ de Dios
 	<lb/>
 	<foreign xml:lang= 'zap'>Xijnija pezaana connalo cannalo Missa?</foreign>
 	<lb/>
-	Algunos veces dese de ooyr missa porpex aza, otras
+	Algunos veces dese de ooyr
+  <choice><orig>missa</orig><reg type="spanish">misa</reg></choice>
+  porpex aza, otras
 	<lb/>
 	<choice><orig>porq.e</orig><reg type="spanish">porque</reg></choice>
     estuve emfermo y otras
@@ -5759,7 +5761,9 @@ de Dios
 	gopayalichia.</foreign>
 	<lb/>
 	<choice><orig>Quando</orig><reg type="spanish">¿Cuando</reg></choice>
-  oyste Missalos dias de fiesta te divertiste
+  oyste
+  <choice><orig>Missalos</orig><reg type="spanish">Misa los</reg></choice>
+  dias de fiesta te divertiste
 	<lb/>
 	voluntaria nente en el ella?
 	<lb/>
@@ -5769,7 +5773,7 @@ de Dios
 	<lb/>
 	Se quedaron los de tu casa sin
   <choice><orig>oyr</orig><reg type="spanish">oír</reg></choice>
-  missa
+  <choice><orig>missa</orig><reg type="spanish">misa</reg></choice>
   en dia de
 	<lb/>
 	fiesta por culpa tuya?
@@ -5930,7 +5934,8 @@ de Dios
 	<lb/>
 	nabeeani?</foreign>
 	<lb/>
-    Sedijeron las missas
+    Sedijeron las
+    <choice><orig>missas</orig><reg type="spanish">misas</reg></choice>
       <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
     manaron tus Padres en su
 	<lb/>
