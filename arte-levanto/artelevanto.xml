@@ -540,9 +540,16 @@
     <choice><orig>quatro</orig><reg type="spanish">cuatro</reg></choice>
     vocales <foreign xml:lang='zap'>ā é,i,ó</foreign>,
     <lb/>
+    <!-- BDL what is in the line below and the numbers a few lines later?-->
+<<<<<<< HEAD
+    na añadiendoles una de estas con son antes <foreign xml:lang='zap'>t</foreign>
+    <choice><orig>o’</orig><reg type="spanish">o </reg></choice>
+    <foreign xml:lang='zap'>x</foreign> y
+=======
     na adiendoles una de estas consonantes <foreign xml:lang='zap'>t</foreign>
-    <choice><orig>o’</orig><reg type="spanish">ó </reg></choice>
+    <choice><orig>o’</orig><reg type="spanish">o </reg></choice>
     <foreign xml:lang='zap'>r</foreign> y
+>>>>>>> 1fc4f5fc0466c48a98d7ebedd07eb8e00edb970d
     <choice><orig>asi</orig><reg type="spanish">así</reg></choice>
     <choice><orig>dirá</orig><reg type="spanish">dija </reg></choice>
     <foreign xml:lang='zap'>ta
@@ -1583,23 +1590,23 @@
     <lb/>
     macion siguen sas <foreign xml:lang= 'zap'>Conyoueslos</foreign>
     <lb/>
-    <foreign xml:lang= 'zap'>Ragozaaya</foreign>--- comer esplendidamente…
+    <foreign xml:lang= 'zap'>Ragozaaya</foreign>... comer esplendidamente…
     <lb/>
-    <foreign xml:lang= 'zap'>Ragoyeelea</foreign>--- comer de vicio…
+    <foreign xml:lang= 'zap'>Ragoyeelea</foreign>...comer de view…
     <lb/>
-    <foreign xml:lang= 'zap'>Ragoraataya</foreign>--- comer hasta artarve oae vieio…
+    <foreign xml:lang= 'zap'>Ragoraataya</foreign>... comer hasta artarve oae vieio…
     <lb/>
-    <foreign xml:lang= 'zap'>Ragorijchija</foreign>--- cenax…
+    <foreign xml:lang= 'zap'>Ragorijchija</foreign>...cenax…
     <lb/>
-    <foreign xml:lang='zap'>Rabia</foreign>--- tragar vomitar, podrirse con la humedad
+    <foreign xml:lang='zap'>Rabia</foreign>... tragar vomitar, podrirse con la humedad
     <lb/>
-    <foreign xml:lang='zap'>Ravia</foreign>--- decir a tercera persona
+    <foreign xml:lang='zap'>Ravia</foreign>... decir a tercera persona
     <lb/>
-    <foreign xml:lang='zap'>Rahuia</foreign>--- vestirue las naguas la mujer
+    <foreign xml:lang='zap'>Rahuia</foreign>... vestirue las naguas la mujer
     <lb/>
-    <foreign xml:lang='zap'>Racia</foreign>--- dormir
+    <foreign xml:lang='zap'>Racia</foreign>... dormir
     <lb/>
-     <foreign xml:lang='zap'>Racoya</foreign>--- vestirse
+     <foreign xml:lang='zap'>Racoya</foreign>... vestirse
     <lb/>
     </div>
     <!--levanto-arte 1.3.1.10.4-->
@@ -1619,19 +1626,19 @@
     <lb/>
     presente, preterito, y futuro.
     <lb/>
-    <foreign xml:lang='zap'>Raata cubeea</foreign>--- Acostarse de lado diestro…
+    <foreign xml:lang='zap'>Raata cubeea</foreign>...Acostarse de lado diestro…
     <lb/>
-    <foreign xml:lang='zap'>Raata cubeega</foreign>--- Acostarse del siniestro...
+    <foreign xml:lang='zap'>Raata cubeega</foreign>..Acostarse del siniestro...
     <lb/>
-    <foreign xml:lang='zap'>Raatazaaya</foreign>--- Acostarse boca arriba…
+    <foreign xml:lang='zap'>Raatazaaya</foreign>...Acostarse boca arriba…
     <lb/>
-    <foreign xml:lang='zap'>Raati corijloya</foreign>--- Acostarse boca abajo…
+    <foreign xml:lang='zap'>Raati corijloya</foreign>..Acostarse boca abajo…
     <lb/>
     <foreign xml:lang='zap'>Raacotaaya</foreign>, del <foreign xml:lang='zap'>Rixoocotooya</foreign>-ponerse en quatro pies-
     <lb/>
-    <foreign xml:lang='zap'>Raatayooya</foreign>--- Humillarse, Postrarse….
+    <foreign xml:lang='zap'>Raatayooya</foreign> … Humillarse, Postrarse….
     <lb/>
-    <foreign xml:lang='zap'>Raataneea</foreign>--- Acostarse con otro……
+    <foreign xml:lang='zap'>Raataneea</foreign>... Acostarse con otro……
     <lb/>
     Verbos Pasivos de la primera Conju
     <lb/>
@@ -3091,7 +3098,9 @@
     en la 1.a persona del singular, vuelve en de(?), en
     ta. para las
     <lb/>
-    2.as y 3.as personas de singular ó plural, y para la 1.a del plu-
+    2.as y 3.as personas de singular
+    <choice><orig>ó</orig><reg type="spanish">o</reg></choice>
+    plural, y para la 1.a del plu-
     <lb/>
     Ral, vuelvel(?) el
     <foreign xml:lang="zap">Le</foreign> en
@@ -3198,7 +3207,9 @@
     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
     aquel <foreign xml:lang="zap">Ca</foreign>,
     <lb/>
-    es el vervo, ó adjectivo
+    es el <choice><orig>vervo</orig><reg type="spanish">verbo</reg></choice>,
+    <choice><orig>ó</orig><reg type="spanish">o</reg></choice>
+    adjectivo
     <foreign xml:lang="zap">naca</foreign>
     sin copado; item vale tanto es-
     <lb/>
@@ -3210,7 +3221,9 @@
     <choice><orig>diccion</orig><reg type="spanish">dicción</reg></choice>
     - como: <foreign xml:lang="zap">Huanijxaca</foreign>
     <lb/>
-    Dios: esta ó ay ciertamente Dios
+    Dios: esta
+    <choice><orig>ó</orig><reg type="spanish">o</reg></choice>
+    ay ciertamente Dios
     <choice><orig>Aaunq.e parece tambien <lb/> este, del plusquom perfecto; </orig><reg type="spanish">Aunque parece también <lb/> este, del pluscuamperfecto; </reg></choice>
     item porpuesto este <foreign xml:lang="zap">Ca</foreign>, sirve c?pr?-
     <lb/>
@@ -5023,7 +5036,11 @@
     <choice><orig>Quando</orig><reg type="spanish">¿Cuando</reg></choice>
     te   <choice><orig>confesastes d[e]claraste bien todos tus pecados
     <lb/>
-    [a] el Padre? ó tuviste miedo, ó verguenza, y entonces
+    [a] el Padre?
+    <choice><orig>ó</orig><reg type="spanish">o</reg></choice>
+    tuviste miedo,
+    <choice><orig>ó</orig><reg type="spanish">o</reg></choice>
+    verguenza, y entonces
     <lb/>
     escondistes algun pecado?
     </orig><reg type="spanish">confesaste declaraste bien todos tus pecados
@@ -5240,7 +5257,11 @@
     Zelij colaapia quella rieelijlachi Dios lannila]chijtooya</foreign>
 
     <pb n="120"/>
-    Has adorado algun ydolo, ó quemado copal, ó encendi_
+    Has adorado algun ydolo,
+    <choice><orig>ó</orig><reg type="spanish">o</reg></choice>
+    quemado copal,
+    <choice><orig>ó</orig><reg type="spanish">o</reg></choice>
+    encendi_
     <lb/>
     do candelas delantede el como lo hacian los Antiguos?
     <lb/>
@@ -5254,9 +5275,15 @@
     <lb/>
     <foreign xml:lang='zap'>Aca chaana, acaxijti pennia niquee.</foreign>
     <lb/>
-    Saves si, alguno a adorado algun Ydolo, ó quemado
+    Saves si, alguno a adorado algun Ydolo,
+    <choice><orig>ó</orig><reg type="spanish">o</reg></choice>
+    quemado
     <lb/>
-    copal, ó encendido candelas delante de el, ó has oído de_
+    copal,
+    <choice><orig>ó</orig><reg type="spanish">o</reg></choice>
+    encendido candelas delante de el,
+    <choice><orig>ó</orig><reg type="spanish">o</reg></choice>
+    has oído de_
     <lb/>
     cir
     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
@@ -5270,7 +5297,9 @@
     <lb/>
     ni tu pennijlla aca?</foreign>
     <lb/>
-    Has creido en sueños, has creido en aguenos, ó en la voz de
+    Has creido en sueños, has creido en aguenos,
+    <choice><orig>ó</orig><reg type="spanish">o</reg></choice>
+    en la voz de
     <lb/>
     los animales
     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
