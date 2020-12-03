@@ -603,7 +603,9 @@
     <choice><orig>ay</orig><reg type="spanish">hay</reg></choice>
     Verbos activos, pasivos, neutros, rei-
     <lb/>
-    terativos, compulsivos, ó impersonales: de los
+    terativos, compulsivos,
+    <choice><orig>ó</orig><reg type="spanish">o</reg></choice>
+    impersonales: de los
     <choice><orig>quales</orig><reg type="spanish">cuales</reg></choice> se tratara
     <lb/>
     <choice><orig>Notese tambien; q.e todos los verbos de las quatro conjuga-<lb/>ciones, regularmente, solo tienen tres tiempos; q.e son pre-<lb/>sente, preterito, </orig><reg type="spanish">Notese también que todos los verbos de las cuatro conjuga-<lb/>ciones regularmente sólo tienen tres tiempo que son pre-<lb/>sente, pretérito, </reg></choice>
@@ -618,7 +620,11 @@
     <lb/>
     os; pero todos estos seforman de dichos tres tiempos: ante-
     <lb/>
-    poniendoles ó posponiendoles: quitandoles, ó anadiendoles
+    poniendoles
+    <choice><orig>ó</orig><reg type="spanish">o</reg></choice>
+    posponiendoles: quitandoles,
+    <choice><orig>ó</orig><reg type="spanish">o</reg></choice>
+    anadiendoles
     <lb/>
     alguna
     <choice><orig>silaba ó particula</orig><reg type="spanish">sílaba o partícula</reg></choice>
@@ -703,13 +709,16 @@
     <lb/>
     ro sin pronombre y antepuesta una de dos particulas <foreign xml:lang="zap">cola</foreign>,
     <lb/>
-    ó <foreign xml:lang="zap">Laa</foreign>. Adviertase
+    <choice><orig>ó</orig><reg type="spanish">o</reg></choice>
+    <foreign xml:lang="zap">Laa</foreign>. Adviertase
     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
     los imperativos carezen de terceras?
     <lb/>
     personas en singular y plural: pero se suplen por la tercera
     <lb/>
-    persona del futuro. <foreign xml:lang='lat'>V.g.</foreign> ayude aquel ó ayueden aquellos
+    persona del futuro. <foreign xml:lang='lat'>V.g.</foreign> ayude aquel
+    <choice><orig>ó</orig><reg type="spanish">o</reg></choice>
+    ayueden aquellos
     <lb/>
     <foreign xml:lang="zap">Caacañeeni</foreign>=
     <choice><orig>tambien</orig><reg type="spanish">también</reg></choice>
@@ -749,7 +758,9 @@
     <head type='outline'> Preterito imperfecto de Subjunctivo </head>
     <head>Preterito imperfecto de Subjuntivo</head>
     <lb/>
-    <foreign xml:lang="zap">Niaacañeea</foreign>, yo ayudara ó ayudaria. Este tiempo, en to-
+    <foreign xml:lang="zap">Niaacañeea</foreign>, yo ayudara
+    <choice><orig>ó</orig><reg type="spanish">o</reg></choice>
+    ayudaria. Este tiempo, en to-
     <lb/>
     das la conjugaciones, se forma del presente de indicativo
     <lb/>
@@ -1107,7 +1118,9 @@
     <foreign xml:lang="zap">Ra</foreign> vuelto en
     <foreign xml:lang="zap">Ya</foreign> an-
     <lb/>
-    teponiendole el verbo de assistencia o' movimiento sin
+    teponiendole el verbo de assistencia
+    <choice><orig>o'</orig><reg type="spanish">o</reg></choice>
+    movimiento sin
     <lb/>
     pronombres
     <foreign xml:lang="lat">V.g.</foreign> estoy ayudando
@@ -1280,7 +1293,9 @@
     <lb/>
     io, como <foreign xml:lang='lat'>Lectio</foreign>. Estos seforman en la Zaapoteca delos
     <lb/>
-    verbales dela primera especie, ó sonellos mismos
+    verbales dela primera especie,
+    <choice><orig>ó</orig><reg type="spanish">o</reg></choice>
+    sonellos mismos
     <lb/>
     anteponiendoles solamente esta particula <foreign xml:lang='zap'>quela</foreign>:
     <lb/>
@@ -1551,15 +1566,20 @@
     <lb/>
     var la tierra, hace las dichas primeras per-
     <lb/>
-    sonas, <foreign xml:lang= 'zap'>Piaanatonoo</foreign> ararmos ó cultivamos la tierra.
+    sonas, <foreign xml:lang= 'zap'>Piaanatonoo</foreign> ararmos
+    <choice><orig>ó</orig><reg type="spanish">o</reg></choice>
+    cultivamos la tierra.
     <lb/>
-    <foreign xml:lang= 'zap'>Piaanatonoo</foreign>, hemos arado, ó cultivado la tierra: que
+    <foreign xml:lang= 'zap'>Piaanatonoo</foreign>, hemos arado,
+    <choice><orig>ó</orig><reg type="spanish">o</reg></choice> cultivado la tierra: que
     <lb/>
-    <foreign xml:lang= 'zap'>ranatonoo</foreign>, araremos ó cultivaremos la tierra. Yasilos
+    <foreign xml:lang= 'zap'>ranatonoo</foreign>, araremos
+    <choice><orig>ó</orig><reg type="spanish">o</reg></choice> cultivaremos la tierra. Yasilos
     <lb/>
     verbos siguientes, y sus compuestos.
     <lb/>
-    <foreign xml:lang= 'zap'>Rapaya</foreign> ……. guardar ó lenea..
+    <foreign xml:lang= 'zap'>Rapaya</foreign> ……. guardar
+    <choice><orig>ó</orig><reg type="spanish">o</reg></choice> lenea..
     <lb/>
     <foreign xml:lang= 'zap'>Rapachahuia</foreign> ……. guardar loien.
     <lb/>
@@ -1679,7 +1699,9 @@
     forman siempre de sus mismos futoros imperfectos, aun
     <lb/>
     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
-    se hable de presente, preterito, ó futuro, anteponiendole
+    se hable de presente, preterito,
+    <choice><orig>ó</orig><reg type="spanish">o</reg></choice>
+    futuro, anteponiendole
     <lb/>
     â el <foreign xml:lang='zap'>Ca</foreign> dela primera
     <choice><orig>conjugacion</orig><reg type="spanish">conjugación</reg></choice>,
@@ -1696,9 +1718,13 @@
     hayo comer a otro. Ymperativo, <foreign xml:lang='zap'>Pegaa-
     <lb/>
     go</foreign>, has <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
-    coma, ó darle de comer â otro: <foreign xml:lang='zap'>Colagogaago</foreign>
+    coma,
+    <choice><orig>ó</orig><reg type="spanish">o</reg></choice>
+    darle de comer â otro: <foreign xml:lang='zap'>Colagogaago</foreign>
     <lb/>
-    dad vostotros, ó hazed como â otro
+    dad vostotros,
+    <choice><orig>ó</orig><reg type="spanish">o</reg></choice>
+    hazed como â otro
     <lb/>
     Exemplo para la tercera
     <choice><orig>conjugacion,</orig><reg type="spanish">conjugación,</reg></choice>
@@ -1903,7 +1929,9 @@
     <lb/>
     quitarle el pronombre, a la persona de quien se ha-
     <lb/>
-    bla, anteponiendole un nombre, ó verbo,
+    bla, anteponiendole un nombre,
+    <choice><orig>ó</orig><reg type="spanish">o</reg></choice>
+    verbo,
     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
     lo deter-
     <lb/>
@@ -1933,7 +1961,9 @@
     <head type= 'outline'> Gerundio de Ablativo] </head>
     Este gerundio serije siempre de verbos de asis-
     <lb/>
-    tencia ó movimiento, sin pronombre, y se for-
+    tencia
+    <choice><orig>ó</orig><reg type="spanish">o</reg></choice>
+    movimiento, sin pronombre, y se for-
     <lb/>
     ma del presente de indicativo, dejando el presente
     <lb/>
@@ -1943,69 +1973,37 @@
     </div>
     <!--levanto-arte 1.3.2.7-->
     <div xml:id='levanto-arte1.3.2.8'>
-    sin mudarlo: <foreign xml:lang='lat'>V.g.</foreign> vengo hallando <foreign xml:lang='zap'>Zeerechelaya</foreign>,
-    <lb/>
-    tambien sirve de Ablativo absoluto dicho presen-
-    <lb/>
-    te, anteponiendole solamente esta particula <foreign xml:lang='zap'>hua</foreign>:
-    <lb/>
-    <foreign xml:lang='lat'>V.g.</foreign> <foreign xml:lang='zap'>huareechelaya</foreign>, me inveniende.
-    </div>
+    <head type= 'outline'>[Participios]</head>
     <div xml:id='levanto-arte1.3.2.8.1'>
     <head type= 'outline'>Participio de Presente</head>
-    <foreign xml:lang='zap'>Nireechela</foreign> --- Elq.e halla ó hallaba. ---
-    <lb/>
-    Yasedijo de reformacion, en la primera conjugaciones
-    <lb/>
-    como tambien de la formacion de todos los Participios.
     </div>
     <!--levanto-arte 1.3.2.8.1-->
     <div xml:id='levanto-arte1.3.2.8.2'>
     <head type= 'outline'>Participio de Preterito</head>
-    <foreign xml:lang='zap'>Nipichela</foreign> --- Cosa hallada
     </div>
     <!--levanto-arte 1.3.2.8.2-->
     <div xml:id='levanto-arte1.3.2.8.3'>
     <head type= 'outline'>Participio de Futuro en Rus.</head>
-    <foreign xml:lang='zap'>Niguichela</foreign> --- Elq.e á de hallar. ---
     </div>
     <!--levanto-arte 1.3.2.8.3-->
     <div xml:id='levanto-arte1.3.2.8.4'>
     <head type= 'outline'>Participio de Futuro en Dus.</head>
-    <foreign xml:lang='zap'> Niguichela</foreign> --- Cosa q.e adeser hallada ---
     </div>
     <!--levanto-arte 1.3.2.8.4-->
     </div>
     <!--levanto-arte 1.3.2.8-->
     <div xml:id='levanto-arte1.3.2.9'>
     <head type= 'outline'>Voz de Potencialidad</head>
-    <foreign xml:lang='zap'> Zooechelaya</foreign> --- Yo podre hallar. ---
     </div>
     <!--levanto-arte 1.3.2.9-->
     <div xml:id='levanto-arte1.3.2.10'>
     <head type= 'outline'>Verbos irregulares de esta segunda
         <choice><orig>Conjugacion</orig><reg type="spanish">Conjugación</reg></choice>
     </head>
-    <foreign xml:lang='zap'>Reea</foreign> bever hazeel preterito <foreign xml:lang='zap'>Covea</foreign>, y el futuro <foreign xml:lang='zap'>gue-
-    <lb/>
-    ea</foreign>, vel <foreign xml:lang='zap'>queeá</foreign>, y las primeras personas del plural son
-    <lb/>
-    <foreign xml:lang='zap'>Ritohuinoo</foreign>, vel <foreign xml:lang='zap'>tonoo</foreign> en presente <foreign xml:lang='zap'>Ritohuinoo</foreign> en
-    <lb/>
-    preterito, <foreign xml:lang='zap'>quitohuinoo</foreign> en futuro.
-    <lb/>
-    <foreign xml:lang='zap'>Releea</foreign> por venir havitualmente ---
     </div>
     <!--levanto-arte 1.3.2.10-->
     <div xml:id='levanto-arte1.3.2.11'>
     <head type= 'outline'>Presente de Yndicativo</head>
-    Sing. <foreign xml:lang='zap'>Releea</foreign> --- Yo vengo habitualmente ---
-    <lb/>
-    <foreign xml:lang='zap'>Ritalo</foreign> --- Tu vienes ---
-    <lb/>
-    <foreign xml:lang='zap'>Ritani</foreign> --- Aquelviene ---
-    <lb/>
-    Plural <foreign xml:lang='zap'>Reopertonoo</foreign> --- Nosotros venimos ---
 
     <pb n="31"/>
     <foreign xml:lang='zap'>Ritaro</foreign>. . . . . Noro venir-
@@ -2273,24 +2271,8 @@
     <lb/>
     primera persona del singular de futuro en <foreign xml:lang= 'zap'>Ca</foreign>, como se-
     <pb n="35"/>
-    Se vera en este verbo <foreign xml:lang= 'zap'>Rireelaya</foreign> <choice><orig>q.e</orig><reg type="spanish">que</reg></choice> significa embiar
     <div xml:id='levanto-arte1.3.3.1'>
     <head type= 'outline'>Presente de Yndicativo</head>
-    <lb/>
-    Presente Indicativo
-    <lb/>
-    Sing. <foreign xml:lang= 'zap'>Rireelaya</foreign> - Yo embio
-    <lb/>
-    <foreign xml:lang= 'zap'>Rireelalo</foreign> - Tu embias
-    <lb/>
-    <foreign xml:lang= 'zap'>Rireelani</foreign> - Aquel Embia
-    <lb/>
-    Plu. <foreign xml:lang= 'zap'>Rireelatonoo</foreign> - Nosotros embiamos
-    <lb/>
-    <foreign xml:lang= 'zap'>Rireelato</foreign> - Vosotros embiais
-    <lb/>
-    <foreign xml:lang= 'zap'>Rireelani</foreign> - Aquellos embian
-
     </div>
     <!--levanto-arte 1.3.3.1-->
     <div xml:id='levanto-arte1.3.3.2'>
@@ -2555,7 +2537,9 @@
     es: <foreign xml:lang='zap'>Rinnya</foreign>,
     <choice><orig>el qual quando
     <lb/>
-    significa decir en comun, ó hablar, se conjuga assi
+    significa decir en comun,
+    <choice><orig>ó</orig><reg type="spanish">o</reg></choice>
+    hablar, se conjuga assi
     </orig><reg type="spanish">el cual cuando <lb/>
     significa decir en común, o hablar, se conjuga así</reg></choice>
     <lb/>
@@ -2634,11 +2618,13 @@
     <lb/>
     quardan siempre esta irregularnidad. <foreign xml:lang='zap'>Ritteete, Coteetea,
     <lb/>
-    huiteetea</foreign>--pasar ó sobrepujar a otro; haselas primeras--
+    huiteetea</foreign>--pasar
+    <choice><orig>ó</orig><reg type="spanish">o</reg></choice> sobrepujar a otro; haselas primeras--
     <lb/>
     persona del plural, <foreign xml:lang='zap'>Ritootenoo; Ritootenoo, huitootenoo</foreign>--
     <lb/>
-    De otra irregularidades, ó de otros verbos
+    De otra irregularidades,
+    <choice><orig>ó</orig><reg type="spanish">o</reg></choice> de otros verbos
     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
     ay irregu
     <lb/>
@@ -3123,7 +3109,8 @@
     sonas(?) del plural_ <foreign xml:lang="zap">Bitohuinoo_Pi_Qui_</foreign>
     <choice><orig>quando</orig><reg type="spanish">cuando</reg></choice> dichos
     <lb/>
-    verbo significa estar tener algo en supoder _ó consigo
+    verbo significa estar tener algo en supoder _
+    <choice><orig>ó</orig><reg type="spanish">o</reg></choice> consigo
     <lb/>
     Hace el preterito <foreign xml:lang="zap">Coteca</foreign> y el futuro <foreign xml:lang="zap">Cueca</foreign> primeras perso-
     <lb/>
@@ -3137,7 +3124,9 @@
     <lb/>
     <foreign xml:lang="zap">Zeelea</foreign> - venir actualmente esto verbo se se conjuga en el pre-
     <lb/>
-    terito y futuro, como el anteceden[te] ó por mejor decir no tiene
+    terito y futuro, como el anteceden[te]
+    <choice><orig>ó</orig><reg type="spanish">o</reg></choice>
+    por mejor decir no tiene
     <lb/>
     mas
     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
@@ -5778,7 +5767,10 @@ de Dios
 	<lb/>
 	Toobilachilo loolaaca Missa?</foreign>
 	<lb/>
-	Se quedaron los de tu casa sin oyr missa en dia de
+	Se quedaron los de tu casa sin
+  <choice><orig>oyr</orig><reg type="spanish">oír</reg></choice>
+  missa
+  en dia de
 	<lb/>
 	fiesta por culpa tuya?
 	<lb/>
