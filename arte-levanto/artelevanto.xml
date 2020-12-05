@@ -1459,12 +1459,31 @@
     <head type= 'outline'> Primera
         <choice><orig>Conjugacion</orig><reg type="spanish">Conjugación</reg></choice>
     </head>
+    En esta primera
+    <choice><orig>Conjugacion</orig><reg type="spanish">Conjugación</reg></choice>
+    se forman los adje-
+    <lb/>
+    tivos de verbos neutros, y passivos, el <foreign xml:lang='zap'>Ra</foreign> del presente de
+    <lb/>
+    indicativo vuelto en <foreign xml:lang='zap'>Na</foreign>.
+    <lb/>
     </div>
     <!--levanto-arte 1.3.1.9.4.1-->
     <div xml:id='levanto-arte1.3.1.9.4.2'>
     <head type= 'outline'> Segunda
         <choice><orig>Conjugacion</orig><reg type="spanish">Conjugación</reg></choice>
     </head>
+    En esta segunda
+    <choice><orig>Conjugacion</orig><reg type="spanish">Conjugación</reg></choice>
+    se forman los adjeti-
+    <lb/>
+    vos de verbos pasivos y neutros; de los verbos pasivos el
+    <lb/>
+    <foreign xml:lang='zap'>Ri</foreign> del presente de indicativo vuelto en
+    <foreign xml:lang='zap'>Na</foreign>; de los ver-
+    <lb/>
+    bos neutros el <foreign xml:lang='zap'>Re</foreign> del presente en <foreign xml:lang='zap'>Ni</foreign>.
+    <lb/>
     </div>
     <!--levanto-arte 1.3.1.9.4.2-->
     <div xml:id='levanto-arte1.3.1.9.4.3'>
