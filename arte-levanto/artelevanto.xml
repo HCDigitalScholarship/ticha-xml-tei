@@ -858,8 +858,8 @@
     </div>
     <!--levanto-arte 1.3.1.5-->
     <div xml:id='levanto-arte1.3.1.6'>
-    <head type='outline'> Gerundios </head>
-    Gerundios
+    <head type='outline'>Gerundios</head>
+    <head>Gerundios</head>
     <lb/>
     Tres son los Gerundios
     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
@@ -869,8 +869,8 @@
     <lb/>
 
     <div xml:id='levanto-arte1.3.1.6.1'>
-    <head type='outline'> Gerundio de Genetivo </head>
-    Gerundio de Genitivo
+    <head type='outline'>Gerundio de Genetivo</head>
+    <head>Gerundio de Genitivo</head>
     <lb/>
     Este gerundio de genetico es el futuro imperfecto de
     <lb/>
@@ -892,8 +892,8 @@
     </div>
     <!--levanto-arte 1.3.1.6.1-->
     <div xml:id='levanto-arte1.3.1.6.2'>
-    <head type='outline'> Genrundios de Acusativo </head>
-    Gerundios de Acusativo.
+    <head type='outline'>Genrundios de Acusativo</head>
+    <head>Gerundios de Acusativo.</head>
     <lb/>
     Gerundio de Acusativo se determina siempre de
     <lb/>
@@ -1042,8 +1042,8 @@
     </div>
     <!--levanto-arte 1.3.1.6.2-->
     <div xml:id='levanto-arte1.3.1.6.3'>
-    <head type='outline'> Gerundio de Ablativo </head>
-    Gerundio de Ablativo.
+    <head type='outline'>Gerundio de Ablativo</head>
+    <head>Gerundio de Ablativo.</head>
     <lb/>
     Antes de tratar de la
     <choice><orig>formacion</orig><reg type="spanish">formación</reg></choice>
@@ -1057,42 +1057,42 @@
     <lb/>
 
     <div xml:id='levanto-arte1.3.1.6.3.1'>
-    <head type= 'outline'> Verbos de Asistencia </head>
-    Verbos de Asistencia
+    <head type= 'outline'>Verbos de Asistencia</head>
+    <head>Verbos de Asistencia</head>
     <lb/>
-    <foreign xml:lang="zap">Rizoobaya</foreign> -estar absolutamente
+    <foreign xml:lang="zap">Rizoobaya</foreign> --- estar absolutamente
     <lb/>
-    <foreign xml:lang="zap">Rizooya</foreign> -- estar enpie
+    <foreign xml:lang="zap">Rizooya</foreign> --- estar enpie
     <lb/>
 
     <pb n="16"/>
-    <foreign xml:lang="zap">Nazija</foreign>   estar sentado
+    <foreign xml:lang="zap">Nazija</foreign> --- estar sentado
     <lb/>
-    <foreign xml:lang="zap">Nooya</foreign> estar dentro
+    <foreign xml:lang="zap">Nooya</foreign> --- estar dentro
     <lb/>
-    <foreign xml:lang="zap">Huayooya</foreign> estar dentro de otra cosa
+    <foreign xml:lang="zap">Huayooya</foreign> --- estar dentro de otra cosa
     <lb/>
     </div>
     <!--levanto-arte 1.3.1.6.3.1-->
     <div xml:id='levanto-arte1.3.1.6.3.2'>
-    <head type= 'outline'> Verbos de Movimiento</head>
-    <head>Verbos de Movimiento </head>
+    <head type= 'outline'>Verbos de Movimiento</head>
+    <head>Verbos de Movimiento</head>
     <lb/>
-    <foreign xml:lang="zap">Zeeleya</foreign> venir actualmente
+    <foreign xml:lang="zap">Zeeleya</foreign> --- venir actualmente
     <lb/>
-    <foreign xml:lang="zap">Releea</foreign> venir habitualmente
+    <foreign xml:lang="zap">Releea</foreign> --- venir habitualmente
     <lb/>
-    <foreign xml:lang="zap">Riaaya</foreign> ir actualment
+    <foreign xml:lang="zap">Riaaya</foreign> --- ir actualment
     <lb/>
-    <foreign xml:lang="zap">Rizaaya</foreign> andar e in de un lugar a otro
+    <foreign xml:lang="zap">Rizaaya</foreign> --- andar e ir de un lugar a otro
     <lb/>
-    <foreign xml:lang="zap">Ricaanaya</foreign> andar rodeando
+    <foreign xml:lang="zap">Ricaanaya</foreign> --- andar rodeando
     <lb/>
-    <foreign xml:lang="zap">Ricaanazaaya</foreign> andar de <choice><orig>aqui para alli</orig><reg type="spanish">aquí para allí</reg></choice>
+    <foreign xml:lang="zap">Ricaanazaaya</foreign> --- andar de <choice><orig>aqui para alli</orig><reg type="spanish">aquí para allí</reg></choice>
     <lb/>
-    <foreign xml:lang="zap">Risoya</foreign> entrar
+    <foreign xml:lang="zap">Risoya</foreign> --- entrar
     <lb/>
-    <foreign xml:lang="zap">Rixijca</foreign> salir
+    <foreign xml:lang="zap">Rixijca</foreign> --- salir
     <lb/>
     El gerundio de Ablativo se xije de verbos de mo-
     <lb/>
@@ -1156,9 +1156,9 @@
     </div>
     <!--levanto-arte 1.3.1.6-->
     <div xml:id='levanto-arte1.3.1.7'>
-    <head type= 'outline'> Participios </head>
+    <head type= 'outline'>Participios</head>
     <div xml:id='levanto-arte1.3.1.7.1'>
-    <head type= 'outline'> Participio de Presente </head>
+    <head type= 'outline'>Participio de Presente</head>
     </div>
     <!--levanto-arte 1.3.1.7.1-->
     <div xml:id='levanto-arte1.3.1.7.2'>
