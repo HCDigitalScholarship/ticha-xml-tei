@@ -102,6 +102,7 @@
     dice
     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
     todos
+    </div>
 	<lb/>
 	son indeclinables.
   <!-- BDL: wouldn't it be cool to link to that part of Corodova's Arte!  Can we do that? -->
@@ -540,15 +541,9 @@
     <choice><orig>quatro</orig><reg type="spanish">cuatro</reg></choice>
     vocales <foreign xml:lang='zap'>ā é,i,ó</foreign>,
     <lb/>
-<<<<<<< HEAD
-    na añadiendoles una de estas con son antes <foreign xml:lang='zap'>t</foreign>
-    <choice><orig>o’</orig><reg type="spanish">o </reg></choice>
-    <foreign xml:lang='zap'>x</foreign> y
-=======
     na adiendoles una de estas consonantes <foreign xml:lang='zap'>t</foreign>
     <choice><orig>o’</orig><reg type="spanish">ó </reg></choice>
     <foreign xml:lang='zap'>r</foreign> y
->>>>>>> 1fc4f5fc0466c48a98d7ebedd07eb8e00edb970d
     <choice><orig>asi</orig><reg type="spanish">así</reg></choice>
     <choice><orig>dirá</orig><reg type="spanish">dija </reg></choice>
     <foreign xml:lang='zap'>ta
@@ -1628,7 +1623,7 @@
     <div xml:id='levanto-arte1.3.1.10.3'>
     <head type= 'outline'> Tercera Clase </head>
     <head> Tercera Clase </head>
-    <foreign xml:lang= 'zap'>Ra</foreign> en <foreign xml:lang 'zap'>Rito</foreign>, <foreign xml:lang= 'zap'>Pito</foreign>
+    <foreign xml:lang= 'zap'>Ra</foreign> en <foreign xml:lang= 'zap'>Rito</foreign>, <foreign xml:lang= 'zap'>Pito</foreign>
     <lb/>
     <foreign xml:lang= 'zap'>Guito</foreign>, y algunos verbos en <foreign xml:lang= 'zap'>Reto</foreign>, <foreign xml:lang= 'zap'>Peto</foreign>, y <foreign xml:lang= 'zap'>Gueto</foreign>.
     <lb/>
@@ -2642,7 +2637,7 @@ na da coscorrones, y rebrescar. <foreign xml:lang="zap"> Ribaapca </foreign>, <f
     <lb/>
     la pasiva es: <foreign xml:lang="zap">Richijbia</foreign>, <foreign xml:lang="zap">Pichijbia</foreign>, <foreign xml:lang="zap">Quichijbia</foreign>. - - -
     <lb/>
-    <foreign xml:lang="zap">Ribijbaya; <foreign xml:lang="zap">Cochijbaya, <foreign xml:lang="zap">Cuijbaya</foreign>, vel <foreign xml:lang="zap">Quijbaya</foreign>, poner una
+    <foreign xml:lang="zap">Ribijbaya; </foreign>Cochijbaya, <foreign xml:lang="zap">Cuijbaya</foreign>, vel <foreign xml:lang="zap">Quijbaya</foreign>, poner una
     <lb/>
     cosa sobre otra, este verbo no se halla activo en el Vocabulario
     <lb/>
@@ -6004,7 +5999,7 @@ de Dios
 	<lb/>
 	<foreign xml:lang= 'zap'>Pennilo Chijna Chij Domingo, chij laanijnoo?</foreign>
 	<lb/>
-        <choice><orig> que causa huvo para trabajar? fue el trabajo gran <lb/> de, o’ pequeno?</orig><reg type="spanish">¿Qué causa hubo para trabajar? ¿Fue el trabajo gran <lb/> de o pequeño?</reg></choice>
+  <choice><orig> que causa huvo para trabajar? fue el trabajo gran <lb/> de, o’ pequeno?</orig><reg type="spanish">¿Qué causa hubo para trabajar? ¿Fue el trabajo gran <lb/> de o pequeño?</reg></choice>
 	<lb/>
 	<foreign xml:lang= 'zap'>Xijnija goca nijani gonnilo Chijna? Chajnani
 	<lb/>
@@ -6306,156 +6301,156 @@ de Dios
     <!-- levanto-arte 6 -->
     <div xml:id="levanto-arte7">
     <head type="outline">Algunas Platicas y Conversaciones comunes en lengua Zapoteca</head>
-    <head>Algunas practicas y Conversa-</lb>
-    ciones comunes en lengua Zaapo-</lb>
-    teca</lb></head>
+    <head>Algunas practicas y Conversa-<lb/>
+    ciones comunes en lengua Zaapo-<lb/>
+    teca<lb/></head>
 
-    Bendito sea Dios para siempre jamas.</lb>
-    Laa benni Dios zelijcachij gatija.</lb>
-    Ya despertamos con vida</lb>
-    Baa pebuaninto guellanabaani.</lb>
-    Agradecer devemos a Dios todos sus beneficios.</lb>
-    Dios quiraa rillaa baneza xtennini.</lb>
-    Estamos mirando la luz del sol q Dios exio? para</lb>
-    alumbrar al mindo</lb>
-    Huaretomanoo biaanij xtenni gubijcha ni Bitoo</lb>
-    Dios pezaani nijani cozaa nijni quitoobi cabij</lb>
-    layoo</lb>
-    Muy grande es Dios Ntro S.r en todas sus obras</lb>
-    crio a el hombre, y lo sustenta con comida, y bebida</lb>
-    a todos da lo necesario para que viban, a ninguno</lb>
-    niega sus dones.</lb>
-    Cirootete nacani Bejuanana Dios loo quiraa</lb>
+    Bendito sea Dios para siempre jamas.<lb/>
+    Laa benni Dios zelijcachij gatija.<lb/>
+    Ya despertamos con vida<lb/>
+    Baa pebuaninto guellanabaani.<lb/>
+    Agradecer devemos a Dios todos sus beneficios.<lb/>
+    Dios quiraa rillaa baneza xtennini.<lb/>
+    Estamos mirando la luz del sol q Dios exio? para<lb/>
+    alumbrar al mindo<lb/>
+    Huaretomanoo biaanij xtenni gubijcha ni Bitoo<lb/>
+    Dios pezaani nijani cozaa nijni quitoobi cabij<lb/>
+    layoo<lb/>
+    Muy grande es Dios Ntro S.r en todas sus obras<lb/>
+    crio a el hombre, y lo sustenta con comida, y bebida<lb/>
+    a todos da lo necesario para que viban, a ninguno<lb/>
+    niega sus dones.<lb/>
+    Cirootete nacani Bejuanana Dios loo quiraa<lb/>
 
     <pb n="148"/>
-Mira quien es el q.e toca la puerta dale q.e entre</lb>
-Conna tu naca ni ribaayoni roayoho cochilaaca</lb>
-ni choni.</lb>
-Quien eres?---Tu nacalo?</lb>
-Que quieres?---Xijxacalachilo?</lb>
-Dios se ayude sin  (ge?) vengo a preguntarse si (has?0 de</lb>
-Decir Missa por ya son las siete.</lb>
-Bitoo Dios cacañee yoobilo China Zeelequin</lb>
-Naaba tichaya yoobilo tebela connilo Missa que</lb>
-Lanigaache hora naacani.</lb>
-Su Hijo--- Yoho xinni</lb>
-Toca a missa--- Pecaaguiba Missa</lb>
-Deja la missa--- Pezaanaguiba Missa</lb>
-Has(?) q.e tu guena(?) Missa--- Pegocaaguiba Missa.</lb>
-Has q.e dejen a missa--- Pegozaanaguiba Missa</lb>
-Hay gente en la Iglesia?</lb>
-Huanoo benniati laani Yohotoo?</lb>
-Ya se junto la gente en la Iglesia?</lb>
-P(?)aapetoopani benniati laani Yohotoo?</lb>
-Diles q.e entren q.e y es tarde, y sea de rezarla doctri</lb>
-na despues de Missa</lb>
-Cochilaaca ni choroni nijaxtennibaa huanaca</lb>
-huachij chela quillani ticha laaya nilaa doc</lb>
-trina Christiana looxi Missa</lb>
-Pechijba ninaguijña nacani nijani naa comia</lb>
-Missa.</lb>
-Saca Casulla blanca--- Colee Casulla naguijchi</lb>
-Negra--- Nagayace</lb>
-Colorada---Naxiñaay</lb>
-Verde--- Nagaa</lb>
+Mira quien es el q.e toca la puerta dale q.e entre<lb/>
+Conna tu naca ni ribaayoni roayoho cochilaaca<lb/>
+ni choni.<lb/>
+Quien eres?---Tu nacalo?<lb/>
+Que quieres?---Xijxacalachilo?<lb/>
+Dios se ayude sin  (ge?) vengo a preguntarse si (has?0 de<lb/>
+Decir Missa por ya son las siete.<lb/>
+Bitoo Dios cacañee yoobilo China Zeelequin<lb/>
+Naaba tichaya yoobilo tebela connilo Missa que<lb/>
+Lanigaache hora naacani.<lb/>
+Su Hijo--- Yoho xinni<lb/>
+Toca a missa--- Pecaaguiba Missa<lb/>
+Deja la missa--- Pezaanaguiba Missa<lb/>
+Has(?) q.e tu guena(?) Missa--- Pegocaaguiba Missa.<lb/>
+Has q.e dejen a missa--- Pegozaanaguiba Missa<lb/>
+Hay gente en la Iglesia?<lb/>
+Huanoo benniati laani Yohotoo?<lb/>
+Ya se junto la gente en la Iglesia?<lb/>
+P(?)aapetoopani benniati laani Yohotoo?<lb/>
+Diles q.e entren q.e y es tarde, y sea de rezarla doctri<lb/>
+na despues de Missa<lb/>
+Cochilaaca ni choroni nijaxtennibaa huanaca<lb/>
+huachij chela quillani ticha laaya nilaa doc<lb/>
+trina Christiana looxi Missa<lb/>
+Pechijba ninaguijña nacani nijani naa comia<lb/>
+Missa.<lb/>
+Saca Casulla blanca--- Colee Casulla naguijchi<lb/>
+Negra--- Nagayace<lb/>
+Colorada---Naxiñaay<lb/>
+Verde--- Nagaa<lb/>
     <pb n="149"/>
-    Morada- Nacahuii Nate.</lb>
-Missa cantada- Missa rezada.</lb>
-Missaroo- Missa huine.</lb>
-Sedijeron las tres Amonestaciones</lb>
-Connij (ni?) pisona ticha pennaabi quella huecha</lb>
-agañaa</lb>
-Assi q.e acavela Missa cerraras las puertas</lb>
-De la Iglesia para q.e no se salga la gente, porq.e</lb>
-Le de (pordican?)</lb>
-Chijguilooxichuia cozeeyolo puertas Yohotoo</lb>
-Nijani acati quixye benniale quelani cannya</lb>
-ticha libaana</lb>
-Hijo mio; q.e pides q.e traes</lb>
-Xinni xtennia: xijninaabalo xijzeetañeelo</lb>
-A q.e vienes quien (de) (embia?)</lb>
-Xijzeetalalo tu xixee lanilooy</lb>
-A q.e hora vales del pueblo</lb>
-Xij hora pnijelo loo gueche?</lb>
-De donde eres, de donde vienes?</lb>
-Caa zoobagueechelo Cazeealo?</lb>
-A q.e hora llegas ser Xijhorapichijnalo?</lb>
-Como estas tu como estan tus Padres, tu muger</lb>
-sus hijos, y parientes?</lb>
-Xijnaa nibeezalo? Xinaa nileezani Bixooze</lb>
-Xiñaalo, lechelalo, xinnilo, chela xijalo?</lb>
-Todos estamos buenos, y gozamos de salud</lb>
-Quixaalijtonoo huanileezano huazacachela</lb>
-Nixaacanoo quella nabaani.</lb>
-Esperate un poco escrivire la carta y se volvera(?)</lb>
-Coleeza tochij cocayeea guichi chela quibijto</lb>
-A la tarde volveras- Huachij quibijlo</lb>
-Toma ese medio para q.e compres tortillas y comas</lb>
-Seea sus carlas</lb>
-Coca</lb>
+    Morada- Nacahuii Nate.<lb/>
+Missa cantada- Missa rezada.<lb/>
+Missaroo- Missa huine.<lb/>
+Sedijeron las tres Amonestaciones<lb/>
+Connij (ni?) pisona ticha pennaabi quella huecha<lb/>
+agañaa<lb/>
+Assi q.e acavela Missa cerraras las puertas<lb/>
+De la Iglesia para q.e no se salga la gente, porq.e<lb/>
+Le de (pordican?)<lb/>
+Chijguilooxichuia cozeeyolo puertas Yohotoo<lb/>
+Nijani acati quixye benniale quelani cannya<lb/>
+ticha libaana<lb/>
+Hijo mio; q.e pides q.e traes<lb/>
+Xinni xtennia: xijninaabalo xijzeetañeelo<lb/>
+A q.e vienes quien (de) (embia?)<lb/>
+Xijzeetalalo tu xixee lanilooy<lb/>
+A q.e hora vales del pueblo<lb/>
+Xij hora pnijelo loo gueche?<lb/>
+De donde eres, de donde vienes?<lb/>
+Caa zoobagueechelo Cazeealo?<lb/>
+A q.e hora llegas ser Xijhorapichijnalo?<lb/>
+Como estas tu como estan tus Padres, tu muger<lb/>
+sus hijos, y parientes?<lb/>
+Xijnaa nibeezalo? Xinaa nileezani Bixooze<lb/>
+Xiñaalo, lechelalo, xinnilo, chela xijalo?<lb/>
+Todos estamos buenos, y gozamos de salud<lb/>
+Quixaalijtonoo huanileezano huazacachela<lb/>
+Nixaacanoo quella nabaani.<lb/>
+Esperate un poco escrivire la carta y se volvera(?)<lb/>
+Coleeza tochij cocayeea guichi chela quibijto<lb/>
+A la tarde volveras- Huachij quibijlo<lb/>
+Toma ese medio para q.e compres tortillas y comas<lb/>
+Seea sus carlas<lb/>
+Coca<lb/>
 
     <pb n="150"/>
 
-Cocaa medio nij nijani rilo gueta, chela gaazolo</lb>
-cuijce quillelo.</lb>
-Anda con cuidado con esa cartay con todo lo qe  le</lb>
-entrego.</lb>
-Cuijce huariña ñee huichirij, huañee quiraaloo,</lb>
-Ni rijooya lachiñalo.</lb>
-Quando veniste? - - Cocaxa pitalo?</lb>
-Como se fue por allá?</lb>
-Xanacaxa coxaacalo ruaquee</lb>
-A quien enocontraste en el camino.</lb>
-Tu pechaagaloolo loo neza.</lb>
-Que buiste qe  que hallaste.</lb>
-Xij pitañeelo, xi pechelalo.</lb>
-J x.  a vengo  ver vengo a decirle unas pocas palabras</lb>
-Choona: zeele comnayo blidoo xopa laciticha ni</lb>
-Camnijalooy.</lb>
-Que palabras son estas. - Xij ticha nacanirij.</lb>
-Vendras mañana despues de _______ estare </lb>
-Pado haremos de espacio eso qe pides, porqe aora ten</lb>
-go qe hacer.</lb>
-quitalo  quijoxij looxe chiera , ______ xchijñaya</lb>
-chaahuigaa  queniloolaaca ninamnabaalo</lb>
-axtemni amnaa xapa ni gomnia.</lb>
+Cocaa medio nij nijani rilo gueta, chela gaazolo<lb/>
+cuijce quillelo.<lb/>
+Anda con cuidado con esa cartay con todo lo qe  le<lb/>
+entrego.<lb/>
+Cuijce huariña ñee huichirij, huañee quiraaloo,<lb/>
+Ni rijooya lachiñalo.<lb/>
+Quando veniste? - - Cocaxa pitalo?<lb/>
+Como se fue por allá?<lb/>
+Xanacaxa coxaacalo ruaquee<lb/>
+A quien enocontraste en el camino.<lb/>
+Tu pechaagaloolo loo neza.<lb/>
+Que buiste qe  que hallaste.<lb/>
+Xij pitañeelo, xi pechelalo.<lb/>
+J x.  a vengo  ver vengo a decirle unas pocas palabras<lb/>
+Choona: zeele comnayo blidoo xopa laciticha ni<lb/>
+Camnijalooy.<lb/>
+Que palabras son estas. - Xij ticha nacanirij.<lb/>
+Vendras mañana despues de _______ estare <lb/>
+Pado haremos de espacio eso qe pides, porqe aora ten<lb/>
+go qe hacer.<lb/>
+quitalo  quijoxij looxe chiera , ______ xchijñaya<lb/>
+chaahuigaa  queniloolaaca ninamnabaalo<lb/>
+axtemni amnaa xapa ni gomnia.<lb/>
 
     <pb n="151"/>
-    Muchacho ven aca - - -  Pinni cotanaxy</lb>
-Anda presto ledixad al fiscal q. e venga a verme</lb>
-q.e ay un poco q.e hazer.</lb>
-Cuyee huazoo  gabilo Fiscal ni quita cannani</lb>
-naa quelani huanoo laci chiina ni conni. </lb>
-Vino el Fiscal? - - - Petani Fiscal?</lb>
-?? vino - - - Noloaa pitani.</lb>
-Donde está el Fiscal? Llamalo.</lb>
-Cona Fiscal? Conij chequee.</lb>
-Hijo Fiscal fue Dios servido  q.e te he menes-</lb>
-ter mucho. </lb>
-Xinni Fiscal pezalaachi Dios ni pitalo nijax-</lb>
-tenni huaxiguy?na ??</lb>
-??  a la estancia</lb>
+    Muchacho ven aca - - -  Pinni cotanaxy<lb/>
+Anda presto ledixad al fiscal q. e venga a verme<lb/>
+q.e ay un poco q.e hazer.<lb/>
+Cuyee huazoo  gabilo Fiscal ni quita cannani<lb/>
+naa quelani huanoo laci chiina ni conni. <lb/>
+Vino el Fiscal? - - - Petani Fiscal?<lb/>
+?? vino - - - Noloaa pitani.<lb/>
+Donde está el Fiscal? Llamalo.<lb/>
+Cona Fiscal? Conij chequee.<lb/>
+Hijo Fiscal fue Dios servido  q.e te he menes-<lb/>
+ter mucho. <lb/>
+Xinni Fiscal pezalaachi Dios ni pitalo nijax-<lb/>
+tenni huaxiguy?na ??<lb/>
+??  a la estancia<lb/>
     <pb n="152"/>
-    Gabilo dispensero ni colaabani palla pare xaaanani</lb>
-    laani Corral, y aca ni pirijeni, Chela gaaniniza</lb>
-    chela xooba.</lb>
-    Cuoca(?) este caballo--- Pezijcalo manni guallonij</lb>
-    Ven aqui a mi presencia- Cotaa xoonij lozoya</lb>
-    Fleyade un poquito a mi q.e tengo un secreto q.e decir</lb>
-    Cobija laci loonaa, quelani xoyaya toobi ticha nei</lb>
-    laana ni cannija looy.</lb>
-    Ve a letra mira no sepierda  lo q.e llevas; no se cai</lb>
-    ga alguna cosa se lo q.e se di</lb>
-    Chelo huazijna connaya guinnijtini zeetañeelo</lb>
-    Yaaca pieaaba xijtilo nipenechealooy</lb>
-    Traeras dos o tres [xx] de pan, bueno granie y blanco</lb>
-    Buscaras donde se hace pan bueno</lb>
-    Quitañeelo tioopa laa choona su miguela xti</lb>
-    la na zaaca narooba nayaati quillelo caaxaca</lb>
-    gueta xtilla chahui</lb>
-    Quien le dijo q.e yo lo hize? No les assi no es verdad</lb>
-    mintio le preguntara quando lo vió no creas sus</lb>
-    palabras q.e es embusdero</lb>
+    Gabilo dispensero ni colaabani palla pare xaaanani<lb/>
+    laani Corral, y aca ni pirijeni, Chela gaaniniza<lb/>
+    chela xooba.<lb/>
+    Cuoca(?) este caballo--- Pezijcalo manni guallonij<lb/>
+    Ven aqui a mi presencia- Cotaa xoonij lozoya<lb/>
+    Fleyade un poquito a mi q.e tengo un secreto q.e decir<lb/>
+    Cobija laci loonaa, quelani xoyaya toobi ticha nei<lb/>
+    laana ni cannija looy.<lb/>
+    Ve a letra mira no sepierda  lo q.e llevas; no se cai<lb/>
+    ga alguna cosa se lo q.e se di<lb/>
+    Chelo huazijna connaya guinnijtini zeetañeelo<lb/>
+    Yaaca pieaaba xijtilo nipenechealooy<lb/>
+    Traeras dos o tres [xx] de pan, bueno granie y blanco<lb/>
+    Buscaras donde se hace pan bueno<lb/>
+    Quitañeelo tioopa laa choona su miguela xti<lb/>
+    la na zaaca narooba nayaati quillelo caaxaca<lb/>
+    gueta xtilla chahui<lb/>
+    Quien le dijo q.e yo lo hize? No les assi no es verdad<lb/>
+    mintio le preguntara quando lo vió no creas sus<lb/>
+    palabras q.e es embusdero<lb/>
 
     <pb n="153"/>
     <pb n="154"/>
