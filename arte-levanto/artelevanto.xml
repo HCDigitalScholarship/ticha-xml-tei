@@ -3150,7 +3150,7 @@ na da coscorrones, y rebrescar. <foreign xml:lang="zap"> Ribaapca </foreign>, <f
     </div>
     <!--levanto-arte 1.3.3.17.9-->
     <div xml:id='levanto-arte1.3.3.17.10'>
-    <head type= 'outline'>Ymperativo</head>
+    <head type= 'outline'><choice><orig>Ymperativo</orig><reg type="spanish">Imperativo</reg></choice></head>
     </div>
     <!--levanto-arte 1.3.3.17.10-->
     <div xml:id='levanto-arte1.3.3.17.11'>
@@ -3365,7 +3365,7 @@ na da coscorrones, y rebrescar. <foreign xml:lang="zap"> Ribaapca </foreign>, <f
     <!--levanto-arte 1.3.4.14-->
     <pb n="54"/>
     <div xml:id='levanto-arte1.3.4.15'>
-    <head type='outline'>Verbos <choice><orig>Yrregulares</orig><reg type="spanish">Irregulares</reg></choice> de la 4a
+    <head type='outline'>Verbos Yrregulares de la 4a
         <choice><orig>Conjugacion</orig><reg type="spanish">Conjugación</reg></choice>
     </head>
     </div>
