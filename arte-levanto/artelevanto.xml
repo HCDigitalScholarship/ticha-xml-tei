@@ -3402,7 +3402,7 @@ na da coscorrones, y rebrescar. <foreign xml:lang="zap"> Ribaapca </foreign>, <f
     <!--levanto-arte 1.3.4.18-->
     <div xml:id='levanto-arte1.3.4.19'>
     <head type='outline'>
-    <choice><orig>De las Ynterjeciones</orig><reg type="spanish">De las Interjecciones</reg></choice></head>
+    <choice><orig>Delas</orig><reg type="spanish">De las</reg></choice> <choice><orig>Ynterjeciones</orig><reg type="spanish">Interjecciones</reg></choice></head>
     </div>
     <!--levanto-arte 1.3.4.19-->
     <div xml:id='levanto-arte1.3.4.20'>
