@@ -1834,7 +1834,7 @@
     <lb/>
     <div xml:id='levanto-arte1.3.2.1'>
     <head type= 'outline'> Preterito Perfecto de Yndicativo </head>
-    <head> Preterito Perfecto de Yndicativo </head>
+    <head> Preterito Perfecto de <choice><orig>Yndicativo</orig><reg type="spanish">Indicativo</reg></choice></head>
     <div xml:id='levanto-arte1.3.2.1.1'>
     <head type= 'outline'> [Primer Preterito] </head>
     <lb/>
@@ -1886,7 +1886,7 @@
     <!--levanto-arte 1.3.2.1-->
     <div xml:id='levanto-arte1.3.2.2'>
     <head type= 'outline'> Futuro Ymperfecto </head>
-    <head> Futuro Ymperfecto </head>
+    <head> Futuro <choice><orig>Ymperfecto</orig><reg type="spanish">Imperfecto</reg></choice></head>
     <lb/>
     <foreign xml:lang='zap'>Quechelaya</foreign>----------Yo hallaré
     <lb/>
@@ -1896,7 +1896,7 @@
     <head type= 'outline'> [Ymperativo] </head>
     <div xml:id='levanto-arte1.3.2.3.1'>
     <head type= 'outline'> Ymperativo de Singular </head>
-    <head> Ymperativeo de Singular </head>
+    <head> <choice><orig>Ymperativo</orig><reg type="spanish">Imperativo</reg></choice> de Singular </head>
     <lb/>
     <foreign xml:lang='zap'>Pechela</foreign>----------halla tu
     <lb/>
@@ -1904,7 +1904,7 @@
     <!--levanto-arte 1.3.2.3.1-->
     <div xml:id='levanto-arte1.3.2.3.2'>
     <head type= 'outline'> Ymperativo del Plural </head>
-    <head> Ymperativeo del Plural </head>
+    <head> <choice><orig>Ymperativo</orig><reg type="spanish">Imperativo</reg></choice> del Plural </head>
     <lb/>
     <foreign xml:lang='zap'>Colaquechela-Laquechela</foreign> hallad vosotros
     <lb/>
@@ -1973,7 +1973,7 @@
     <head type= 'outline'>Participio de Presente</head>
     <head> Participio de Presente</head>
     <lb/>
-    <foreign xml:lang='zap'>Nireechela</foreign> --- Elq.e halla ó hallaba. ---
+    <foreign xml:lang='zap'>Nireechela</foreign> --- Elq.e halla <choice><orig>ó</orig><reg type="spanish">o</reg></choice> hallaba. ---
     <lb/>
     Yasedijo de reformacion, en la primera Conjugacion
     <lb/>
