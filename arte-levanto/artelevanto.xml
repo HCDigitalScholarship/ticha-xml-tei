@@ -140,10 +140,9 @@
 	yati</foreign>, hombre blanco, <foreign xml:lang= 'zap'>benniyace</foreign>, hombre negro
 	<lb/>
     <div xml:id= "levanto-arte1.1">
-    <head type="outline"> <choice><orig>De el</orig><reg type="spanish">Del</reg></choice> Pronombre </head>
-
-			<head> <choice><orig>De el</orig><reg type="spanish">Del</reg></choice> Pronombre </head>
-			<lb/>
+    <head type="outline">De el Pronombre </head>
+		<head> <choice><orig>De el</orig><reg type="spanish">Del</reg></choice> Pronombre </head>
+		<lb/>
 	<choice><orig>Hai</orig><reg type="spanish">Hay</reg></choice>
         dos especies de Pronombres: unos primitivos
 	<lb/>
@@ -622,7 +621,7 @@
     este verbo activo <foreign xml:lang='zap'>Raacañeea</foreign>
     <lb/>
     <div xml:id='levanto-arte1.3.1'>
-    <head type='outline'> Primera <choice><orig>Conjugacion</orig><reg type="spanish">Conjugación</reg></choice></head>
+    <head type='outline'> Primera Conjugacion</head>
     <head> Primera <choice><orig>Conjugacion.</orig><reg type="spanish">Conjugación.</reg></choice> </head>
     <lb/>
     Esta verbo
@@ -1493,9 +1492,7 @@
     </div>
     <!--levanto-arte 1.3.1.9.4.3-->
     <div xml:id='levanto-arte1.3.1.9.4.4'>
-    <head type= 'outline'> <choice><orig>Quarta</orig><reg type="spanish">Cuarta</reg></choice>
-        <choice><orig>Conjugacion</orig><reg type="spanish">Conjugación</reg></choice>
-    </head>
+    <head type= 'outline'>Quarta Conjugacion</head>
     En esta se forman de los adjetivos de los verbos pasivos y neu-
     <lb/>
     tros, de los pasivos, el <foreign xml:lang='zap'>Ri</foreign> vuelto en
@@ -1955,13 +1952,13 @@
     <div xml:id='levanto-arte1.3.2.7.3'>
     <head type= 'outline'> Gerundio de Ablativo] </head>
     <pb n="30"/>
-    sin mudarlo: V.g. vengo hallando <foreign xml:lang='zap'>Zeerechelaya</foreign>,
+    sin mudarlo: <foreign xml:lang="lat">V.g.</foreign> vengo hallando <foreign xml:lang='zap'>Zeerechelaya</foreign>,
     <lb/>
     tambien sirve de Ablativo absoluto dicho presen-
     <lb/>
     te, anteponiendole solamente esta particula <foreign xml:lang='zap'>hua</foreign>:
     <lb/>
-    V.g. <foreign xml:lang='zap'>huareechelaya</foreign>, me inveniende.
+    <foreign xml:lang="lat">V.g.</foreign> <foreign xml:lang='zap'>huareechelaya</foreign>, me inveniende.
     <lb/>
     </div>
     <!--levanto-arte 1.3.2.7.3-->
@@ -1973,9 +1970,9 @@
     <head type= 'outline'>Participio de Presente</head>
     <head> Participio de Presente</head>
     <lb/>
-    <foreign xml:lang='zap'>Nireechela</foreign> --- Elq.e halla <choice><orig>ó</orig><reg type="spanish">o</reg></choice> hallaba. ---
+    <foreign xml:lang='zap'>Nireechela</foreign> --- <choice><orig>Elq.e</orig><reg type="spanish">El que</reg> </choice>halla<choice><orig>ó</orig><reg type="spanish">o</reg></choice> hallaba. ---
     <lb/>
-    Yasedijo de reformacion, en la primera Conjugacion
+    <choice><orig>Yasedijo</orig><reg type="spanish">Ya se dijo</reg></choice> de reformacion, en la primera Conjugacion
     <lb/>
     como tambien de formacion de todos los Participios.
     <lb/>
@@ -1993,7 +1990,7 @@
     <head type= 'outline'>Participio de Futuro en Rus.</head>
     <head>Participio de Futuro en Rus.</head>
     <lb/>
-    <foreign xml:lang='zap'>Niguichela</foreign> --- Elq.e á de hallar ---
+    <foreign xml:lang='zap'>Niguichela</foreign> --- <choice><orig>Elq.e</orig><reg type="spanish">El que</reg></choice> <choice><orig>á</orig><reg type="spanish">a</reg></choice> de hallar ---
     <lb/>
     </div>
     <!--levanto-arte 1.3.2.8.3-->
@@ -2001,7 +1998,7 @@
     <head type= 'outline'>Participio de Futuro en Dus.</head>
     <head>Participio de Futuro en Dus.</head>
     <lb/>
-    <foreign xml:lang='zap'>Niguichela</foreign> --- Cosa q.e adeser hallada ---
+    <foreign xml:lang='zap'>Niguichela</foreign> --- Cosa <choice><orig>q.e</orig><reg type="spanish">que</reg></choice> adeser hallada ---
     <lb/>
     </div>
     <!--levanto-arte 1.3.2.8.4-->
@@ -2021,7 +2018,7 @@
     </head>
     <head>Verbos irregulares de esta segunda Conjugacion</head>
     <lb/>
-    <foreign xml:lang='zap'>Reea</foreign> bever hazeel preterito <foreign xml:lang='zap'>Covea</foreign>, y el futuro <foreign xml:lang='zap'>gue-
+    <foreign xml:lang='zap'>Reea</foreign> bever haze el preterito <foreign xml:lang='zap'>Covea</foreign>, y el futuro <foreign xml:lang='zap'>gue-
     <lb/>
     ea</foreign>, vel <foreign xml:lang='zap'>queeá</foreign>, y las primeras personas del plural son
     <lb/>
@@ -2029,13 +2026,13 @@
     <lb/>
     preterito, <foreign xml:lang='zap'>quitohuinoo</foreign> en futuro.
     <lb/>
-    <foreign xml:lang='zap'>Releea</foreign> por venir havitualmente. ---
+    <foreign xml:lang='zap'>Releea</foreign> por venir <choice><orig>havitualmente</orig><reg type="spanish">habitualmente</reg></choice>. ---
     <lb/>
     </div>
     <!--levanto-arte 1.3.2.10-->
     <div xml:id='levanto-arte1.3.2.11'>
     <head type= 'outline'>Presente de Yndicativo</head>
-    <head> --- Presente de Yndicativo --- </head>
+    <head> --- Presente de <choice><orig>Yndicativo</orig><reg type="spanish">Indicativo</reg></choice> --- </head>
     <lb/>
     Sing. <foreign xml:lang='zap'>Releea</foreign> --- Yo vengo habitualmente---
     <lb/>
@@ -2073,7 +2070,7 @@
     <!--levanto-arte 1.3.2.12-->
     <div xml:id='levanto-arte1.3.2.13'>
     <head type= 'outline'>Futuro Ymperfecto</head>
-    <head>Futuro Ymperfecto</head>
+    <head>Futuro <choice><orig>Ymperfecto</orig><reg type="spanish">Imperfecto</reg></choice></head>
     <lb/>
     Sing.l <foreign xml:lang="zap">Quela</foreign> .. Yo vendré habitualmente
     <lb/>
@@ -2093,7 +2090,7 @@
     <!--levanto-arte 1.3.2.13-->
     <div xml:id='levanto-arte1.3.2.14'>
     <head type= 'outline'>Presente de Yndicativo</head>
-    <head>Presente de Yndicativo.</head>
+    <head>Presente de <choice><orig>Yndicativo</orig><reg type="spanish">Indicativo</reg></choice>.</head>
     <lb/>
     <foreign xml:lang="zap">Sing.r Zeleeae</foreign> . . . . Yo vengo actualmente
     <lb/>
@@ -2105,7 +2102,7 @@
     <lb/>
     <foreign xml:lang="zap">Zetato</foreign> . . . Nosotros venis
     <lb/>
-    <foreign xml:lang="zap">Zeetatr?i</foreign>. . . ___Aquellos vienen asialmente?_____
+    <foreign xml:lang="zap">Zeetatr?i</foreign>. . . ___Aquellos vienen <choice><orig>astualmente</orig><reg type="spanish">actualmente</reg></choice>_____
     <lb/>
     </div>
     <!--levanto-arte 1.3.2.14-->
@@ -2152,7 +2149,7 @@
     <!--levanto-arte 1.3.2.17-->
     <div xml:id='levanto-arte1.3.2.18'>
     <head type= 'outline'>Futuro Ymperfecto</head>
-    <head> ---------------- Futuro Ymperfecto ---------------- </head>
+    <head> ---------------- Futuro <choice><orig>Ymperfecto</orig><reg type="spanish">Imperfecto</reg></choice> ---------------- </head>
     <lb/>
     Sing.r      <foreign xml:lang= 'zap'> Queelea</foreign> --------- Yo vendré -----------------
     <lb/>
@@ -2170,7 +2167,7 @@
     <!--levanto-arte 1.3.2.18-->
     <div xml:id='levanto-arte1.3.2.19'>
     <head type= 'outline'>Ymperativo</head>
-    <head> ---------------- Ymperativo ------------- </head>
+    <head> ---------------- <choice><orig>Ymperativo</orig><reg type="spanish">Imperativo</reg></choice> ------------- </head>
     <lb/>
     Sing.r  <foreign xml:lang= 'zap'> Cotaa</foreign> ---------- Ven tu ---------
     <lb/>
@@ -2182,14 +2179,14 @@
     <lb/>
     parativos la regla y
     <choice><orig>formacion</orig><reg type="spanish">formación</reg></choice>,
-    q. e los demas de las 4
+    <choice><orig>q. e</orig><reg type="spanish">que</reg></choice> los demas de las 4
     <lb/>
     Conjugaciones: quiza por der irregular en todo ha-
     <lb/>
     ce <foreign xml:lang= 'zap'> Cotaa </foreign> en singular, y
     <foreign xml:lang= 'zap'> Colataa </foreign> en plural.
     <lb/>
-    Se adviente agui acerea del futuro de potencialidad
+    Se adviente <choice><orig>agui</orig><reg type="spanish">aqui</reg></choice> acerea del futuro de potencialidad
     <lb/>
     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
     el futuro <foreign xml:lang= 'zap'> queela </foreign> vuelve el que en <foreign xml:lang= 'zap'> Zooe</foreign> <foreign xml:lang='lat'>V.g.</foreign> podre
@@ -2198,7 +2195,7 @@
     <lb/>
     podras venir <foreign xml:lang= 'zap'> Zaitalo </foreign>.
     <lb/>
-    El Reyterativo de este verbo <foreign xml:lang= 'zap'> Zeelea</foreign> por venir es
+    El <choice><orig>Reyterativo</orig><reg type="spanish">Reiterativo</reg></choice> de este verbo <foreign xml:lang= 'zap'> Zeelea</foreign> por venir es
     <lb/>
     <foreign xml:lang= 'zap'> Zeezeelea </foreign>, yo vengo otra vez:
     <choice><orig>aung.e</orig><reg type="spanish">aunque</reg></choice>
@@ -2228,17 +2225,17 @@
     <head type= 'outline'>Verbales</head>
     <head> --- Verbales --- </head>
     <lb/>
-    Tres son la especies de verbales, q.e ayenoada conjugaci-
+    Tres son la especies de verbales, <choice><orig>q.e</orig><reg type="spanish">que</reg></choice> ayenoada conjugaci-
     <lb/>
     on como quedadielo en la primera.
     <lb/>
-    La primera especie es, de los q.e significan el agento ó La
+    La primera especie es, de los <choice><orig>q.e</orig><reg type="spanish">que</reg></choice> significan el agento <choice><orig>ó</orig><reg type="spanish">o</reg></choice> La
     <lb/>
     persona del presente de indicativo, el <foreign xml:lang='zap'>Re</foreign>, vuelto en <foreign xml:lang='zap'>hue</foreign>
     <lb/>
     y quitado el pronombre: <foreign xml:lang='lat'>V.g.</foreign> <foreign xml:lang='zap'>huechela</foreign>, el hallador: <foreign xml:lang='zap'>Be-
     <lb/>
-    nni huechela</foreign>, el hombre q.e halla.
+    nni huechela</foreign>, el hombre <choice><orig>q.e</orig><reg type="spanish">que</reg></choice> halla.
     <lb/>
     <div xml:id='levanto-arte1.3.2.20.1'>
     <!--levanto-arte 1.3.2.20.1-->
@@ -2246,15 +2243,15 @@
     <head type= 'outline'>Segunda Especie</head>
     <head> --- Segunda Especie. --- </head>
     <lb/>
-    Estos son los nombres verbales, q.e en latin correspon-
+    Estos son los nombres verbales, <choice><orig>q.e</orig><reg type="spanish">que</reg></choice> en latin correspon-
     <lb/>
-    den, á los verbales en <foreign xml:lang='lat'>io</foreign>, q.e son los q.e llamamos abstratos,
+    den, á los verbales en <foreign xml:lang='lat'>io</foreign>, <choice><orig>q.e</orig><reg type="spanish">que</reg></choice> son los <choice><orig>q.e</orig><reg type="spanish">que</reg></choice> llamamos abstratos,
     <lb/>
-    que forman de los mismos substantivos, de la L.a espe-
+    que forman de los mismos substantivos, de la <choice><orig>L.a</orig><reg type="spanish">la</reg></choice> espe-
     <lb/>
-    cie, ó son ellos mismos, anteponiendoles o lamen de la particula quella V.g. quella huechela, la invencion,
+    cie, <choice><orig>ó</orig><reg type="spanish">o</reg></choice> son ellos mismos, anteponiendoles o lamen de la particula quella <foreign xml:lang="lat">V.g.</foreign> quella huechela, la invencion,
     <lb/>
-    ó la accion de hallar active sumpta, tambien se pueden,
+    <choice><orig>ó</orig><reg type="spanish">o</reg></choice> la accion de hallar active sumpta, tambien se pueden,
     <lb/>
     formar del presente, preterito, y futuro, asien activa
     <lb/>
@@ -2268,7 +2265,7 @@
     <lb/>
     mase tambien del nombre adjetivo, antepuesto el quella:
     <lb/>
-    V.g. quella <foreign xml:lang='zap'>Nachela</foreign>.
+    <foreign xml:lang="lat">V.g.</foreign> quella <foreign xml:lang='zap'>Nachela</foreign>.
     <lb/>
     </div>
     <!--levanto-arte 1.3.2.20.2-->
@@ -2278,7 +2275,7 @@
     <lb/>
     La tercera especie de verbales es de los nombres substan-
     <lb/>
-    tivos, q.e tienen el romance de infinitivo: V:g. el hallar
+    tivos, <choice><orig>q.e</orig><reg type="spanish">que</reg></choice> tienen el romance de infinitivo: <foreign xml:lang="lat">V:g.</foreign> el hallar
     <lb/>
     y estos de forman del presente de indicativo, el <foreign xml:lang='zap'>Re</foreign>, vuelto
     <lb/>
@@ -2286,17 +2283,17 @@
     <lb/>
     Esta tercera especie verbales, es muy poco usada-
     <lb/>
-    (como senta en la L.a conjugacion) y no de todos lo ver-
+    (como senta en la <choice><orig>L.a</orig><reg type="spanish">la</reg></choice> conjugacion) y no de todos lo ver-
     <lb/>
-    bos se pueden vacar estos verbales, porq.e seria confuñ-
+    bos se pueden vacar estos verbales, <choice><orig>porq.e</orig><reg type="spanish">porque</reg></choice> seria confuñ-
     <pb n="34"/>
-    dir á los Indios sino de tal o qual verbo de los q.e estan
+    dir <choice><orig>á</orig><reg type="spanish">a</reg></choice> los Indios sino de tal o qual verbo de los <choice><orig>q.e</orig><reg type="spanish">que</reg></choice> estan
    <lb/>
-   en uso: V.g. de <foreign xml:lang= 'zap'>Rennaya</foreign> q.e significa ver, sale <foreign xml:lang= 'zap'>Lenn-
+   en uso: <foreign xml:lang="lat">V.g.</foreign> de <foreign xml:lang= 'zap'>Rennaya</foreign> <choice><orig>q.e</orig><reg type="spanish">que</reg></choice> significa ver, sale <foreign xml:lang= 'zap'>Lenn-
    <lb/>
    aa</foreign> la presencia de la cosa: de <foreign xml:lang= 'zap'>Riegoya</foreign>, ser cerra-
    <lb/>
-   dauna cosa sale fiego, q.e significa la tapadera.
+   dauna cosa sale fiego, <choice><orig>q.e</orig><reg type="spanish">que</reg></choice> significa la tapadera.
    <lb/>
    </div>
    <!--levanto-arte 1.3.2.20.3-->
@@ -2310,13 +2307,13 @@
    <lb/>
    Vos y neutros: en los passivos solviendo el <foreign xml:lang= 'zap'>Ri</foreign> del
    <lb/>
-   presente , en <foreign xml:lang= 'zap'>Na</foreign>, y quitado el pronombre: V.g. de <foreign xml:lang= 'zap'>Ri-
+   presente , en <foreign xml:lang= 'zap'>Na</foreign>, y quitado el pronombre: <foreign xml:lang="lat">V.g.</foreign> de <foreign xml:lang= 'zap'>Ri-
    <lb/>
-   cheelaya</foreign> vale <foreign xml:lang= 'zap'>Nacheela</foreign> cosa hallada: Los q.e se forman
+   cheelaya</foreign> vale <foreign xml:lang= 'zap'>Nacheela</foreign> cosa hallada: Los <choice><orig>q.e</orig><reg type="spanish">que</reg></choice> se forman
    <lb/>
-   de neutros, vuelven el <foreign xml:lang= 'zap'>Re</foreign>, en <foreign xml:lang= 'zap'>Ne</foreign>. V.g. de <foreign xml:lang= 'zap'>Relaazela-
+   de neutros, vuelven el <foreign xml:lang= 'zap'>Re</foreign>, en <foreign xml:lang= 'zap'>Ne</foreign>. <foreign xml:lang="lat">V.g.</foreign> de <foreign xml:lang= 'zap'>Relaazela-
    <lb/>
-   chia</foreign>, entristecerse, sale <foreign xml:lang= 'zap'>Nelaazelachi</foreign>, cosa triste ó
+   chia</foreign>, entristecerse, sale <foreign xml:lang= 'zap'>Nelaazelachi</foreign>, cosa triste <choice><orig>ó</orig><reg type="spanish">o</reg></choice>
    <lb/>
    pesarosa.
    <lb/>
@@ -2336,17 +2333,17 @@
    <lb/>
    <foreign xml:lang= 'zap'>Gueea</foreign>, del <foreign xml:lang= 'zap'>Queea</foreign>, beber - Culla passiva se forma de las
    <lb/>
-   primeras personas de plural, q.e son <foreign xml:lang= 'zap'>Ritohuitonoo</foreign>, <foreign xml:lang= 'zap'>Pito-
+   primeras personas de plural, <choice><orig>q.e</orig><reg type="spanish">que</reg></choice> son <foreign xml:lang= 'zap'>Ritohuitonoo</foreign>, <foreign xml:lang= 'zap'>Pito-
    <lb/>
    huitonoo</foreign>, <foreign xml:lang= 'zap'>Quitohuitonoo</foreign>, quitado el pronombre tonoo,
    <lb/>
    queda <foreign xml:lang= 'zap'>Ritohui</foreign>, <foreign xml:lang= 'zap'>Pitohui</foreign>, <foreign xml:lang= 'zap'>Quitohui</foreign>, ser bebido.
    <lb/>
-   Nota q.e de este verbo salen <foreign xml:lang= 'zap'>Renni Cohuee</foreign>, <foreign xml:lang= 'zap'>Quella Có-
+   Nota <choice><orig>q.e</orig><reg type="spanish">que</reg></choice> de este verbo salen <foreign xml:lang= 'zap'>Renni Cohuee</foreign>, <foreign xml:lang= 'zap'>Quella Có-
    <lb/>
    hue</foreign>; el bebedor; el primero y el segundo significa
    <lb/>
-   la bebida aunq.e no sigue la regla general.
+   la bebida <choice><orig>aunq.e</orig><reg type="spanish">aunque</reg></choice> no sigue la regla general.
    <lb/>
    </div>
    <!--levanto-arte 1.3.2.22-->
@@ -2827,7 +2824,7 @@ na da coscorrones, y rebrescar. <foreign xml:lang="zap"> Ribaapca </foreign>, <f
     </div>
     <!--levanto-arte 1.3.3.15.3-->
     <div xml:id='levanto-arte1.3.3.15.4'>
-    <head type= 'outline'><choice><orig>Quarta</orig><reg type="spanish">Cuarta</reg></choice> Regla</head>
+    <head type= 'outline'>Quarta Regla</head>
     </div>
     <!--levanto-arte 1.3.3.15.4-->
     <div xml:id='levanto-arte1.3.3.15.5'>
@@ -3150,7 +3147,7 @@ na da coscorrones, y rebrescar. <foreign xml:lang="zap"> Ribaapca </foreign>, <f
     </div>
     <!--levanto-arte 1.3.3.17.9-->
     <div xml:id='levanto-arte1.3.3.17.10'>
-    <head type= 'outline'><choice><orig>Ymperativo</orig><reg type="spanish">Imperativo</reg></choice></head>
+    <head type= 'outline'>Ymperativo</head>
     </div>
     <!--levanto-arte 1.3.3.17.10-->
     <div xml:id='levanto-arte1.3.3.17.11'>
@@ -3269,7 +3266,7 @@ na da coscorrones, y rebrescar. <foreign xml:lang="zap"> Ribaapca </foreign>, <f
     </div>
     <!--levanto-arte 1.3.4.5-->
     <div xml:id='levanto-arte1.3.4.6'>
-    <head type='outline'><choice><orig>Ymperativo</orig><reg type="spanish">Imperativo</reg></choice></head>
+    <head type='outline'>Ymperativo</head>
     </div>
     <!--levanto-arte 1.3.4.6-->
     <div xml:id='levanto-arte1.3.4.7'>
@@ -5050,7 +5047,7 @@ na da coscorrones, y rebrescar. <foreign xml:lang="zap"> Ribaapca </foreign>, <f
       </div>
       <!--arte-levanto 3.4.1-->
       <div xml:id="levanto-arte3.4.2">
-      <head type= "outline"> <choice> <orig>Ynterrogatorio</orig> <reg type="spanish">Interrogatorio</reg> </choice> <choice> <orig>ã</orig> <reg type="spanish">a</reg> </choice> los testigos </head>
+      <head type= "outline"> Ynterrogatorio ã los testigos </head>
       <lb/>
       <choice> <orig>Haces</orig> <reg type="spanish">¿Haces</reg> </choice> juramento de responder la verdad, <choice> <orig>ã</orig> <reg type="spanish">a</reg> </choice> todo lo
       <lb/>
@@ -6313,8 +6310,8 @@ de Dios
     </div>
     <!-- levanto-arte 5.3 -->
     <div xml:id="levanto-arte5.4">
-    <head type="outline"><choice><orig>Quarto</orig><reg type="spanish">Cuarto</reg></choice> Mandamiento</head>
-    <choice><orig>Quarto</orig><reg type="spanish">Cuarto</reg></choice> Mandamiento.
+    <head type="outline">Quarto Mandamiento</head>
+    <head><choice><orig>Quarto</orig><reg type="spanish">Cuarto</reg></choice> Mandamiento.</head>
     <lb/>
 	<choice><orig>Has honrnado a tu Padre, y Madre?</orig><reg type="spanish">¿Has honrado a tu padre y madre?</reg></choice>
 	<lb/>
