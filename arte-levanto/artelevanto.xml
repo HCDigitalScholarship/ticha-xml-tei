@@ -549,8 +549,11 @@
     <foreign xml:lang='zap'>ta
     <lb/>
     te, ti,to</foreign>. Advirtiendo.
-    <choice><orig>q.e aunq.e estos quatro presentes <lb/> de las quatro </orig><reg type="spanish">que aunque estos cuatro presentes <lb/> de las cuatro </reg></choice>
-    Conjugaciones se hallan escritas con <foreign xml:lang='zap'>te,</foreign>
+    <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
+    <choice><orig>aunq.e</orig><reg type="spanish">aunque</reg></choice> estos
+    <choice><orig>quatro</orig><reg type="spanish">cuatro</reg></choice> presentes <lb/> de las
+    <choice><orig>quatro</orig><reg type="spanish">cuatro</reg></choice>
+    Conjugaciones se hallan escritas con <foreign xml:lang='zap'>te</foreign>,
     <lb/>
     pero al hablralos se pronuncian con
     <foreign xml:lang='zap'>r</foreign>:
