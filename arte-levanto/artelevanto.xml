@@ -6130,7 +6130,9 @@ na da coscorrones, y rebrescar. <foreign xml:lang="zap"> Ribaapca </foreign>, <f
 	<foreign xml:lang="zap">Naguijna teete looy cocani ni cozaacalo?</foreign>
 	<lb/>
 	<choice><orig>Quando</orig><reg type="spanish">¿Cuando</reg></choice>
-  jurastes el S.to nombre de Dios, juraste cosa buena o
+  jurastes el
+  <choice><orig>S.to</orig><reg type="spanish">Santo</reg></choice>
+  nombre de Dios, juraste cosa buena o
 	<lb/>
 	mala?
 	<lb/>
@@ -6146,21 +6148,26 @@ na da coscorrones, y rebrescar. <foreign xml:lang="zap"> Ribaapca </foreign>, <f
     el ju-
 	<lb/>
 	ramento sea bueno o para jurar bien el
-  <choice><orig>S.to</orig><reg type="spanish">Santo</reg></choice> Nombre
+  <choice><orig>S.to</orig><reg type="spanish">Santo</reg></choice>
+  Nombre
 <lb/>
 de Dios
-  <choice><orig>N.tro S.r q.e</orig><reg type="spanish">Nuestro Señor que</reg></choice>
-    se jure con verdad con justicia y con ne
+  <choice><orig>N.tro</orig><reg type="spanish">Nuestro</reg></choice>
+  <choice><orig>S.r</orig><reg type="spanish">Señor</reg></choice>
+  <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
+  se jure con verdad con justicia y con ne
 	<lb/>
 	cesidad
     <choice><orig>porq.e</orig><reg type="spanish">porque</reg></choice>
-    sino sera pecadoel jarer el S.to Nombre
+    sino sera pecadoel jarer el
+    <choice><orig>S.to</orig><reg type="spanish">Santo</reg></choice>
+    Nombre
 	<lb/>
 	de Dios
   <choice><orig>N.tro</orig><reg type="spanish">Nuestro</reg></choice>
   <choice><orig>S.r</orig><reg type="spanish">Señor</reg></choice>
 	<lb/>
-	<foreign xml:lang= 'zap'>Quiennilo xinni xtennia ninacani naquijnateete-
+	<foreign xml:lang="zap">Quiennilo xinni xtennia ninacani naquijnateete-
 	<lb/>
 	nijani juramento gacani nazaaca laa nijani gozaa-
 	<lb/>
@@ -6269,7 +6276,11 @@ de Dios
 	<lb/>
 	<foreign xml:lang= 'zap'>Pezaanalo Juissa chij Domingo, chij lanijroo?</foreign>
 	<lb/>
-	<choice><orig>Porq.e omitiste la Missa, o oyr missa?</orig><reg type="spanish">¿Por qué omitiste la Misa o oir misa?</reg></choice>
+	<choice><orig>Porq.e</orig><reg type="spanish">¿Por qué</reg></choice> omitiste la
+  <choice><orig>Missa,</orig><reg type="spanish">Misa</reg></choice> o
+  <choice><orig>oyr</orig><reg type="spanish">oir</reg></choice>
+  <choice><orig>missa</orig><reg type="spanish">misa</reg></choice>?
+  
 	<lb/>
 	<foreign xml:lang= 'zap'>Xijnija pezaana connalo cannalo Missa?</foreign>
 	<lb/>
