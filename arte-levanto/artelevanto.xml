@@ -613,7 +613,7 @@
     tienen tres tiempos;
     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
     son pre-<lb/>sente,
-    <choice><orig>preterito</orig><reg type="spanish">pretérito</reg></choice>, 
+    <choice><orig>preterito</orig><reg type="spanish">pretérito</reg></choice>,
     y futuro de indicativo: y
     <choice><orig>aunq.e</orig><reg type="spanish">aunque</reg></choice>
     tienen
@@ -5439,8 +5439,11 @@ na da coscorrones, y rebrescar. <foreign xml:lang="zap"> Ribaapca </foreign>, <f
 
       <pb n="114"/>
 
-      <choice> <orig> N.</orig> <reg type="spanish">Nombre</reg> </choice> y
-      <choice> <orig> N. q.e estan</orig><reg type="spanish">Nombre que están</reg></choice> presentes quieren contraer matrimo-
+      <choice><orig>N.</orig><reg type="spanish">Nombre</reg></choice> y
+      <choice><orig>N.</orig><reg type="spanish">Nombre</reg></choice>
+      <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
+      <choice><orig>estan</orig><reg type="spanish">están</reg></choice>
+      presentes quieren contraer matrimo-
       <lb/>
       nio. Si alguno de vosotros
       <choice><orig>save</orig><reg type="spanish">sabe</reg></choice>
@@ -5450,7 +5453,7 @@ na da coscorrones, y rebrescar. <foreign xml:lang="zap"> Ribaapca </foreign>, <f
       impedi-
       <lb/>
       mento para
-      <choice><orig> q.e</orig><reg type="spanish">que</reg></choice>
+      <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
       no se pueda casar manifiestelo.
       <choice><orig>Se</orig><reg type="spanish">¿Se</reg></choice>
       puede
@@ -5601,12 +5604,14 @@ na da coscorrones, y rebrescar. <foreign xml:lang="zap"> Ribaapca </foreign>, <f
     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
     todo
     <lb/>
-    Christiano  confiese sus pecados cada año por la
-    <choice><orig>cuares<lb/>ma, y q.e</orig><reg type="spanish">cuares<lb/>ma, y que</reg></choice>
+    Christiano confiese sus pecados cada año por la cuares<lb/>ma, y
+    <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
     reciba el Cuerpo Sa?rado  de ?? Jesu Christo
     <lb/>
     en la Parqua de flores.
-    <choice><orig>Tambien ay obligacion</orig><reg type="spanish">También hay obligación</reg></choice>
+    <choice><orig>Tambien</orig><reg type="spanish">También</reg></choice>
+    <choice><orig>ay</orig><reg type="spanish">hay</reg></choice>
+    <choice><orig>obligacion</orig><reg type="spanish">obligación</reg></choice>
     de confesar
     <lb/>
     todos los  pecados siempre
@@ -5669,14 +5674,16 @@ na da coscorrones, y rebrescar. <foreign xml:lang="zap"> Ribaapca </foreign>, <f
     </foreign>
     <choice>
     <orig>
-    Hijo mio esa confesion no fue buena porq.e escondis-
+    Hijo mio esa confesion no fue buena
+    <choice><orig>porq.e</orig><reg type="spanish">porque</reg></choice>
+    escondis-
     <lb/>
     te el pecado; por el tanto esta obligado â confesar
     <lb/>
     otra vez todos los pecados de la confesion pasada
     <lb/>
     en la
-    <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
+
     escondiste el pecado tambien el pecado
     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
     hi
@@ -5731,23 +5738,17 @@ na da coscorrones, y rebrescar. <foreign xml:lang="zap"> Ribaapca </foreign>, <f
     pennilo quiraa ni Bixooze Coopa Bitoo connaa
     <lb/>
     beeanilooy loo quella Penitencia xtollalo?
-    <lb/>
-    </foreign>
-    <choice>
-    <orig>
-    Porq.e no obedeciste â el Padre? Porq.e no cumplis-
+    <lb/></foreign>
+    <choice><orig>Porq.e</orig><reg type="spanish">¿Por qué</reg></choice>
+    no obedeciste
+    <choice><orig>â</orig><reg type="spanish">a</reg></choice>
+    el Padre?
+    <choice><orig>Porq.e</orig><reg type="spanish">¿Por qué</reg></choice>
+    no cumplis-
     <lb/>
     te la penitencia
     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
     te impuso?
-    </orig>
-    <reg type="spanish">
-    ¿Por qué no obedeciste a el Padre? ¿Por qué no cumplis-
-    <lb/>
-    te la penitencia que te impuso?
-    </reg>
-    </choice>
-
     <pb n="118"/>
     <pb n="119"/>
     </div>
@@ -6122,18 +6123,18 @@ na da coscorrones, y rebrescar. <foreign xml:lang="zap"> Ribaapca </foreign>, <f
 	<lb/>
 	<foreign xml:lang= 'zap'>Chij pezaacaxijhuilo, pezaacaxijhuilo loo quella huenilachi?</foreign>
 	<lb/>
-    <choice><orig>Te fue muy necexario el q.e</orig>
-    <reg type="spanish">¿Te fue muy necesario el que</reg></choice>
-    juraras?
+    <choice><orig>Te</orig><reg type="spanish">¿Te</reg></choice> fue muy
+    <choice><orig>necexario</orig><reg type="spanish">necesario</reg></choice> el
+    <choice><orig>q.e</orig><reg type="spanish">que</reg></choice> juraras?
 	<lb/>
-	<foreign xml:lang= 'zap'>Naguijna teete looy cocani ni cozaacalo?</foreign>
+	<foreign xml:lang="zap">Naguijna teete looy cocani ni cozaacalo?</foreign>
 	<lb/>
 	<choice><orig>Quando</orig><reg type="spanish">¿Cuando</reg></choice>
   jurastes el S.to nombre de Dios, juraste cosa buena o
 	<lb/>
 	mala?
 	<lb/>
-	<foreign xml:lang= 'zap'>Chijpezaacalo laa xtenni Dios pezeetelo nezaaca laa
+	<foreign xml:lang="zap">Chijpezaacalo laa xtenni Dios pezeetelo nezaaca laa
 	<lb/>
 	Aquij zaaca?</foreign>
 	<lb/>
