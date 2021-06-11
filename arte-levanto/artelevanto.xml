@@ -962,7 +962,7 @@
       y
       <choice><orig>asi</orig><reg type="spanish">así</reg></choice>
         para de-
-      <lb/>cir vengo a comer, dixe
+      <lb/>cir vengo a comer, dire
       <foreign xml:lang="zap">Zeeletaagoya</foreign>
       <choice><orig>porq.e</orig><reg type="spanish">porque</reg></choice>
     se le qui-
@@ -1011,9 +1011,9 @@
     cho futuro el verbo de movimiento dira:
     <foreign xml:lang="zap">Chaagatoya</foreign>
     <lb/>
-    me ire a acostar.
+    me <choice><orig>ire</orig><reg type="spanish">iré</reg></choice> a acostar.
     <lb/>
-    Advientase agui
+    Advientase aqui
     <choice><orig>q.e aunq.e</orig><reg type="spanish">que aunque</reg></choice>
     el gerundio de acusativo
     <lb/>
@@ -1032,7 +1032,7 @@
     ro de indicativo.
     Esto <choice><orig>tambien se adviente para quando</orig><reg type="spanish">también se adviente para cuando</reg></choice>
     <lb/>
-    Tratemos del gerundio de Ablativo.
+    tratemos del gerundio de Ablativo.
     <lb/>
 
     </div>
@@ -1045,11 +1045,11 @@
     <choice><orig>formacion</orig><reg type="spanish">formación</reg></choice>
     de este gerundio se
     <lb/>
-    Ponen
+    ponen
     <choice><orig>aqui</orig><reg type="spanish">aquí</reg></choice>
     algunos verbos de asistencia y otros de mo-
     <lb/>
-    Vimiento para regirse dicho gerundio de dichos verbos.
+    mimiento para regirse dicho gerundio de dichos verbos.
     <lb/>
 
     <div xml:id='levanto-arte1.3.1.6.3.1'>
@@ -1090,7 +1090,7 @@
     <lb/>
     <foreign xml:lang="zap">Rixijca</foreign> --- salir
     <lb/>
-    El gerundio de Ablativo se xije de verbos de mo-
+    El gerundio de Ablativo se rije de verbos de mo-
     <lb/>
     vimiento y asistencia; y se forma on esta primera Con-
     <lb/>
@@ -1180,7 +1180,7 @@
     <lb/>
     biar. <foreign xml:lang="zap">Zoolobaya</foreign>, podre barrer.
     <lb/>
-    Adviertase <choice><orig>q.e</orig><reg type="spanish">que</reg></choice> este verbo <foreign xml:lang="zap">Ragoya</foreign>, q.e igniféa comerñe
+    Adviertase <choice><orig>q.e</orig><reg type="spanish">que</reg></choice> este verbo <foreign xml:lang="zap">Ragoya</foreign>, signiféa comer tie{ne
     <lb/>
     ne irregulares las primeras personas del plural, <foreign xml:lang="zap">Rità
     <lb/>
@@ -1223,7 +1223,7 @@
     <!--levanto-arte 1.3.1.7-->
     <div xml:id='levanto-arte1.3.1.8'>
     <head type= 'outline'> Nombres Verbales </head>
-    Ai tres especies de nombres verbales encada Conjugacion.
+    <choice><orig>Ai</orig><reg type="spanish">Hay</reg></choice>tres especies de nombres verbales encada Conjugacion.
     <div xml:id='levanto-arte1.3.1.8.1'>
     <head type= 'outline'> Primera Especie de Verbales </head>
 
@@ -1271,7 +1271,7 @@
     Los nombres verbales de esta segunda especie, son los
     <lb/>
     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
-    corresponden enla lengua latina à los verbales en
+    corresponden <choice><orig>enla</orig><reg type="spanish">en la</reg></choice> lengua latina à los verbales en
     <lb/>
     io, como <foreign xml:lang='lat'>Lectio</foreign>. Estos se forman en la Zaapoteca delos
     <lb/>
@@ -1302,7 +1302,7 @@
     da se presente, preterito, y futuro. La misma
     <choice><orig>formacion</orig><reg type="spanish">formación</reg></choice>
     <lb/>
-    se haze en los verbos
+    <choice><orig>se haze</orig><reg type="spanish">se hace</reg></choice> en los verbos
     <choice><orig>passivos, </orig><reg type="spanish">pasivos, </reg></choice> y neutros, <foreign xml:lang='lat'>V.g.</foreign> en un pasi-
     <lb/>
     vo - <foreign xml:lang='zap'> quella-riaana, quella-piaana, quella-quiana </foreign>, lacul-
