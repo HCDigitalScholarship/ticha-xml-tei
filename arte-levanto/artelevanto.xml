@@ -353,7 +353,7 @@
 	    <head> Pronombres Deribativos </head>
 	    <lb/>
 	 De estos pronombres
-         <choice><orig>deribatibos ai </orig><reg type="spanish">derivativos hay </reg></choice> en esta lengua
+         <choice><orig>deribatibos</orig><reg type="spanish">derivativos</reg></choice> <choice><orig>ai</orig><reg type="spanish">hay</reg></choice> en esta lengua
 	 <lb/>
 	tres especies unos son Posesivos, otros Demonstrativos
 	<lb/>
@@ -469,14 +469,13 @@
     <pb n="10"/>
 
     particula <foreign xml:lang="zap">Roo</foreign>, porpuesta.
-    <foreign xml:lang="lat">V.g. </foreign> bueno es Pedro, mejor
+    <foreign xml:lang="lat">V.g.</foreign> bueno es Pedro, mejor
     <lb/>
-    es Juan. <foreign xml:lang="zap">Huazaacanaca Pedro;
-    Huazaacaroonā
+    es Juan. <foreign xml:lang="zap">Huazaacanaca Pedro; Huazaacaroonā
     <lb/>
     ca Juan</foreign>. Grande es este Pueblo, mayor es el otro  <foreign xml:lang="zap">ciroo-
     <lb/>
-    naca guechexij; cirooxoonaca zeetobi</foreign>: Tambien
+    naca guechexij; cirooxoonaca zeetobi</foreign>: <choice><orig>Tambien</orig><reg type="spanish">También</reg></choice>
     <lb/>
     se posponen esta particula <foreign xml:lang="zap">Roo</foreign> para preguntar y
     <lb/>
@@ -507,7 +506,7 @@
     puesta la
     <choice><orig>particula</orig><reg type="spanish">partícula</reg></choice>
     <foreign xml:lang="zap">teete </foreign>
-    <choice><orig>se haze superlativo</orig><reg type="spanish">se hace superlativos</reg></choice>
+    se <choice><orig>haze</orig><reg type="spanish">hace</reg></choice> <choice><orig>superlativo</orig><reg type="spanish">superlativos</reg></choice>
     <foreign xml:lang="zap">ciroo</foreign>
     <lb/>
     <foreign xml:lang="zap">teete:Ciroo</foreign> significa cosa grande y <foreign xml:lang="zap">ciroo teete</foreign> co
@@ -622,7 +621,7 @@
     poniendoles ó posponiendoles: quitandoles, ó anadiendoles
     <lb/>
     alguna
-    <choice><orig>silaba ó particula</orig><reg type="spanish">sílaba o partícula</reg></choice>
+    <choice><orig>silaba</orig><reg type="spanish">sílaba</reg></choice> <choice><orig>ó</orig><reg type="spanish">o</reg></choice> <choice><orig>particula</orig><reg type="spanish">partícula</reg></choice>
     como se verá conjugando
     <lb/>
     este verbo activo <foreign xml:lang="zap">Raacañeea</foreign>
@@ -666,7 +665,7 @@
     para el uno; u el ta vuelto en <foreign xml:lang="zap">hua-,
     <lb/>
     ya</foreign>, para el otro:
-    <choice><orig>asi dixan, </orig><reg type="spanish">así dijan, </reg></choice>
+    <choice><orig>asi</orig><reg type="spanish">así</reg></choice> <choice><orig>dixan</orig><reg type="spanish">dijan</reg></choice>,
     <foreign xml:lang="zap">Ciaacañeea</foreign>, yo he ayudado
     <lb/>
 
@@ -764,8 +763,7 @@
     yo ayudo; se dira, <foreign xml:lang="zap">niacañeea</foreign>
     <lb/>
 	yo ayudara;
-    <choice><orig>o ayudaria: y asi en las demas</orig><reg type="spanish">o ayudaría: y así en las demás</reg></choice>
-    personas.
+    o <choice><orig>ayudaria</orig><reg type="spanish">ayudaría</reg></choice>: y <choice><orig>asi</orig><reg type="spanish">así</reg></choice> en las <choice><orig>demas</orig><reg type="spanish">demás</reg></choice> personas.
 	<lb/>
 	Examplo de la segunda
     <choice><orig>Conjugacion</orig><reg type="spanish">Conjugación</reg></choice>
@@ -836,8 +834,7 @@
 	<foreign xml:lang="zap">Caacañee</foreign>- Ayudar. Este es el futuro imperfecto de
 	<lb/>
 	indicativo sin pronombre; y
-        <choice><orig>asi en todas quatro</orig><reg type="spanish">así en todas cuatro</reg></choice>
-        Conjuga
+        <choice><orig>asi</orig><reg type="spanish">así</reg></choice> en todas <choice><orig>quatro</orig><reg type="spanish">cuatro</reg></choice> Conjuga
 	<lb/>
 	ciones.
 	<lb/>
@@ -851,9 +848,7 @@
 	<foreign xml:lang="zap">Niacañee</foreign>- haber ayudado. Este es preterito im-
 	<lb/>
 	perfecto de subjuntivo sin pronombre, y
-        <choice><orig>asi en todas qua</orig><reg type="spanish">así en todas cua</reg></choice>
-	<lb/>
-	tro Conjugaciones.
+  <choice><orig>asi</orig><reg type="spanish">así</reg></choice> en todas <choice><orig>qua<lb/>tro</orig><reg type="spanish">cua<lb/>tro</reg></choice> Conjugaciones.
 	<lb/>
 
     <pb n="14"/>
@@ -1020,7 +1015,7 @@
     me <choice><orig>ire</orig><reg type="spanish">iré</reg></choice> a acostar.
     <lb/>
     Advientase aqui
-    <choice><orig>q.e aunq.e</orig><reg type="spanish">que aunque</reg></choice>
+    <choice><orig>q.e</orig><reg type="spanish">que</reg></choice> <choice><orig>aunq.e</orig><reg type="spanish">aunque</reg></choice>
     el gerundio de acusativo
     <lb/>
     tiene las tres dichas formaciones solo usa de esta ter-
@@ -1036,7 +1031,7 @@
     se habla por el futu-
     <lb/>
     ro de indicativo.
-    Esto <choice><orig>tambien se adviente para quando</orig><reg type="spanish">también se adviente para cuando</reg></choice>
+    Esto <choice><orig>tambien</orig><reg type="spanish">también</reg></choice> se adviente para <choice><orig>quando</orig><reg type="spanish">cuando</reg></choice>
     <lb/>
     tratemos del gerundio de Ablativo.
     <lb/>
@@ -1090,7 +1085,7 @@
     <lb/>
     <foreign xml:lang="zap">Ricaanaya</foreign> --- andar rodeando
     <lb/>
-    <foreign xml:lang="zap">Ricaanazaaya</foreign> --- andar de <choice><orig>aqui para alli</orig><reg type="spanish">aquí para allí</reg></choice>
+    <foreign xml:lang="zap">Ricaanazaaya</foreign> --- andar de <choice><orig>aqui</orig><reg type="spanish">aquí</reg></choice> para <choice><orig>alli</orig><reg type="spanish">allí</reg></choice>
     <lb/>
     <foreign xml:lang="zap">Risoya</foreign> --- entrar
     <lb/>
@@ -1308,8 +1303,8 @@
     da se presente, preterito, y futuro. La misma
     <choice><orig>formacion</orig><reg type="spanish">formación</reg></choice>
     <lb/>
-    <choice><orig>se haze</orig><reg type="spanish">se hace</reg></choice> en los verbos
-    <choice><orig>passivos, </orig><reg type="spanish">pasivos, </reg></choice> y neutros, <foreign xml:lang="lat">V.g.</foreign> en un pasi-
+    se <choice><orig>haze</orig><reg type="spanish">hace</reg></choice> en los verbos
+    <choice><orig>passivos,</orig><reg type="spanish">pasivos,</reg></choice> y neutros, <foreign xml:lang="lat">V.g.</foreign> en un pasi-
     <lb/>
     vo - <foreign xml:lang="zap"> quella-riaana, quella-piaana, quella-quiana </foreign>, lacul-
     <lb/>
@@ -1369,7 +1364,7 @@
     de verbos ac-
     <lb/>
     tivos,
-    <choice><orig>passivos, </orig><reg type="spanish">pasivos, </reg></choice>
+    <choice><orig>passivos,</orig><reg type="spanish">pasivos,</reg></choice>
     y neutros, y se forman del presente de
     <lb/>
     indicativo, vuelta la (<foreign xml:lang="zap">t</foreign>, o <foreign xml:lang="zap">r</foreign>, en <foreign xml:lang="zap">li</foreign>?), <foreign xml:lang="lat">V.g.</foreign> <foreign xml:lang="zap">Ranaya</foreign>, signi-
@@ -3187,15 +3182,15 @@ na da coscorrones, y rebrescar. <foreign xml:lang="zap"> Ribaapca </foreign>, <f
     </div>
     <!--levanto-arte 1.3.3-->
     <div xml:id="levanto-arte1.3.4">
-    <head type="outline">
-        <choice><orig>Quarta Conjugacion</orig><reg type="spanish">Cuarta Conjugación</reg></choice>
-    </head>
+    <head type="outline">Quarta Conjugacion</head>
     <head>
-        <choice><orig>Quarta Conjugacion</orig><reg type="spanish">Cuarta Conjugación</reg></choice>
+        <choice><orig>Quarta</orig><reg type="spanish">Cuarta</reg></choice>
+        <choice><orig>Conjugacion</orig><reg type="spanish">Conjugación</reg></choice>
         -<foreign xml:lang="zap">Ro-Pe-Co</foreign>,</head>
     <lb/>
     Los verbos de esta
-    <choice><orig>quarta conjugacion</orig><reg type="spanish">cuarta conjugación</reg></choice>
+    <choice><orig>quarta</orig><reg type="spanish">cuarta</reg></choice>
+    <choice><orig>conjugacion</orig><reg type="spanish">conjugación</reg></choice>
     hacen el presente
     <lb/>
     en <foreign xml:lang="zap">Ro</foreign>, el preterito en <foreign xml:lang="zap">Pe</foreign>, y el futuro en Co.
@@ -3203,7 +3198,9 @@ na da coscorrones, y rebrescar. <foreign xml:lang="zap"> Ribaapca </foreign>, <f
     Se advierte
     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
     todos los verbos
-    <choice><orig>dela 4.a conjugacion</orig><reg type="spanish">de la cuarta conjugación</reg></choice>
+    <choice><orig>dela</orig><reg type="spanish">de la</reg></choice>
+    <choice><abbr>4.a</abbr><expan type="spanish">cuarta</expan></choice>
+    <choice><orig>conjugacion</orig><reg type="spanish">conjugación</reg></choice>
     regul
     <lb/>
     res no guardan la regla de su
@@ -3407,8 +3404,10 @@ na da coscorrones, y rebrescar. <foreign xml:lang="zap"> Ribaapca </foreign>, <f
     </div>
     <!--levanto-arte 1.3.4.18-->
     <div xml:id="levanto-arte1.3.4.19">
+    <head type="outline">De las Ynterjeciones</head>
     <head type="outline">
-    <choice><orig>De las Ynterjeciones</orig><reg type="spanish">De las Interjecciones</reg></choice></head>
+      De las <choice><orig>Ynterjeciones</orig><reg type="spanish">Interjecciones</reg></choice>
+    </head>
     </div>
     <!--levanto-arte 1.3.4.19-->
     <div xml:id="levanto-arte1.3.4.20">
