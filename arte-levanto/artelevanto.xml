@@ -182,7 +182,7 @@
   <foreign xml:lang="zap">Lo</foreign>=Tu,
   <foreign xml:lang="zap">Ni</foreign>= aquel
   <choice><orig>o’</orig><reg type="spanish">o</reg></choice> aquellos
-  <foreign xml:lang= 'lat'>Noo</foreign> vel
+  <foreign xml:lang="lat">Noo</foreign> vel
 	<lb/>
 	<foreign xml:lang="zap">Tonoo</foreign>= nosotros,
   <foreign xml:lang="zap">to</foreign>= vosotros.
@@ -1634,7 +1634,7 @@
     <lb/>
     los Yndios a <foreign xml:lang="zap">Reto</foreign>, <foreign xml:lang="zap">Peto</foreign>, <foreign xml:lang="zap">Gueto</foreign>, volviendo el <foreign xml:lang="zap">Ra</foreign> del presente
     <lb/>
-    endichas particular <foreign xml:lang= 'lat'>V.G.</foreign><foreign xml:lang="zap">Ranaya</foreign>...Mirar
+    endichas particular <foreign xml:lang="lat">V.G.</foreign><foreign xml:lang="zap">Ranaya</foreign>...Mirar
     <lb/>
 
 
@@ -2157,11 +2157,11 @@
     Sing.r      <foreign xml:lang="zap"> Queelea</foreign> --------- Yo vendré -----------------
     <lb/>
     <foreign xml:lang="zap"> Quitalo </foreign>
-    <foreign xml:lang= 'lat'> vel </foreign>
+    <foreign xml:lang="lat"> vel </foreign>
     <foreign xml:lang="zap"> Quetalo </foreign> - - Tu vendras ----------
     <lb/>
     <foreign xml:lang="zap"> Quitani </foreign>
-    <foreign xml:lang= 'lat'> vel </foreign>
+    <foreign xml:lang="lat"> vel </foreign>
     <foreign xml:lang="zap"> Quetani </foreign> - - Aquel vendra -------
     <lb/>
     Plural  <foreign xml:lang="zap"> Queeopenoo </foreign> ---------- Nostros vendremos ----
@@ -4005,7 +4005,7 @@ na da coscorrones, y rebrescar. <foreign xml:lang="zap"> Ribaapca </foreign>, <f
     de 20 en 20: <foreign xml:lang="lat">V. g.</foreign>
     <lb/>
 <<<<<<< HEAD
-    <foreign xml:lang = "zap"> calle </foreign> - 40 <foreign xml:lang="zap"> tua </foreign> - 60 - <foreign xml:lang="zap"> caayoona </foreign> - 80  <foreign xml:lang="zap"> taa </foreign> - 100 <foreign xml:lang="zap"> cayooa </foreign>
+    <foreign xml:lang="zap"> calle </foreign> - 40 <foreign xml:lang="zap"> tua </foreign> - 60 - <foreign xml:lang="zap"> caayoona </foreign> - 80  <foreign xml:lang="zap"> taa </foreign> - 100 <foreign xml:lang="zap"> cayooa </foreign>
     <lb/>
     - 200 - <foreign xml:lang="zap"> Chija </foreign> - 300 - <foreign xml:lang="zap"> chijnooa </foreign> - 400 - <foreign xml:lang="zap"> toobieela </foreign> &amp;
 =======
@@ -4053,7 +4053,7 @@ na da coscorrones, y rebrescar. <foreign xml:lang="zap"> Ribaapca </foreign>, <f
     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
     hacen seis y dicen <foreign xml:lang="zap"> Co-
     <lb/>
-    xoopa yanna </foreign> <foreign xml:lang= 'lat'> scilicet </foreign> con este son seis. Para la
+    xoopa yanna </foreign> <foreign xml:lang="lat"> scilicet </foreign> con este son seis. Para la
     <choice><orig>quen-</orig><reg type="spanish">cuen-</reg></choice>
     <lb/>
     ta de futuro,
@@ -4063,7 +4063,7 @@ na da coscorrones, y rebrescar. <foreign xml:lang="zap"> Ribaapca </foreign>, <f
     <lb/>
     <choice><orig>ticulas</orig><reg type="spanish">tículas</reg></choice>
 <<<<<<< HEAD
-    , <foreign xml:lang="zap"> Zee </foreign> <foreign xml:lang= 'lat'> vel </foreign> <foreign xml:lang="zap">Hue</foreign>: <foreign xml:lang= 'lat'>V.g.</foreign> <foreign xml:lang="zap"> Zeetoobi </foreign> <foreign xml:lang= 'lat'> vel </foreign> <foreign xml:lang="zap"> huetoobi </foreign>.
+    , <foreign xml:lang="zap"> Zee </foreign> <foreign xml:lang="lat"> vel </foreign> <foreign xml:lang="zap">Hue</foreign>: <foreign xml:lang="lat">V.g.</foreign> <foreign xml:lang="zap"> Zeetoobi </foreign> <foreign xml:lang="lat"> vel </foreign> <foreign xml:lang="zap"> huetoobi </foreign>.
 =======
     , <foreign xml:lang="zap"> Zee </foreign> <foreign xml:lang="lat"> vel </foreign> <foreign xml:lang="zap">Hue</foreign>: <foreign xml:lang="lat">V.g.</foreign> <foreign xml:lang="zap"> Zeetoobi </foreign> <foreign xml:lang="lat"> vel </foreign> <foreign xml:lang="zap"> huetoobi </foreign>.
 >>>>>>> 1a1b47ef0ea39c23ff9b0663a16987b09ef00f9c
