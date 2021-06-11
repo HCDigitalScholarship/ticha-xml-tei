@@ -724,7 +724,7 @@
     <foreign xml:lang="zap">Caacañeeto</foreign>--- vosotros ayudeis
     <lb/>
     <foreign xml:lang="zap">Caacañeeni</foreign>--aquel ayude--
-    <foreign xml:lang="zap">Caacañeeni</foreign>-aquellos ayuden===
+    <foreign xml:lang="zap">Caacañeeni</foreign>-aquellos ayuden---
     <lb/>
 
     <head type='outline'> Obtativo </head>
@@ -1312,7 +1312,7 @@
 
     <pb n="20"/>
 
-    En un verbo Heutro: <foreign xml:lang="zap"> Quella-rati, Quella-coti, Quella cati </foreign>;
+    En un verbo Heutro: <foreign xml:lang="zap">Quella-rati, Quella-coti, Quella cati</foreign>;
     <lb/>
     la muerte, de presente, preterito, y futuro.
     <lb/>
@@ -1330,7 +1330,7 @@
     <lb/>
     bilidad. Esta
     <choice><orig>formacion</orig><reg type="spanish">formación</reg></choice>
-    corresponde à los nombres
+    corresponde <choice><orig>à</orig><reg type="spanish"><choice><abbr>abbreviation</abbr><expan>expansion</expan></choice></reg></choice> los nombres
     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
     llama-
     <lb/>
@@ -1342,7 +1342,7 @@
     <lb/>
     jchi</foreign>, cosa blanca, <foreign xml:lang="zap">Quella naquijchi</foreign>, la blancura; y
     <lb/>
-    assi de los temas.
+    <choice><orig>assi</orig><reg type="spanish">así</reg></choice> de los temas.
     <lb/>
     </div>
     <!--levanto-arte 1.3.1.8.2-->
@@ -1356,7 +1356,7 @@
     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
     tienen el romance de In-
     <lb/>
-    finitivo; <foreign xml:lang='lat'>V.g.</foreign> el comer, el beber, el nazer. Estos se
+    finitivo; <foreign xml:lang='lat'>V.g.</foreign> el comer, el beber, el <choice><orig>nazer</orig><reg type="spanish">nacer</reg></choice>. Estos se
     <lb/>
     forman en esta primera
     <choice><orig>Conjugacion</orig><reg type="spanish">Conjugación</reg></choice>,
@@ -1385,8 +1385,8 @@
     </div>
     <!--levanto-arte 1.3.1.8-->
     <div xml:id='levanto-arte1.3.1.9'>
-    <head type= 'outline'> Nombres Adjectivos </head>
-    <head> Nombres Adjetivos. </head>
+    <head type= 'outline'>Nombres Adjectivos</head>
+    <head>Nombres Adjetivos.</head>
     <lb/>
     Formanse estos nombres verbales adjetivos en esta
     <lb/>
@@ -1398,7 +1398,7 @@
 
 
     <pb n="21"/>
-    <foreign xml:lang='zap'>Ra, en Na</foreign>, sin pronombre V.g. <foreign xml:lang='zap'>Raatia</foreign>, significa
+    <foreign xml:lang='zap'>Ra, en Na</foreign>, sin pronombre <foreign xml:lang="lat">V.g.</foreign> <foreign xml:lang='zap'>Raatia</foreign>, significa
     <lb/>
     morir, es verbo neutro, vuelto el <foreign xml:lang='zap'>Ra, en Na</foreign>, diva
     <lb/>
@@ -1406,11 +1406,11 @@
     <lb/>
     una cosas, <foreign xml:lang='zap'>Nache</foreign> cosa quebrada.
     <lb/>
-    Avíendo  tratado en particular de la formacion de
+    Avíendo tratado en particular de la formacion de
     <lb/>
-    los verbales en esta primera Conjugacion; tratare-
+    los verbales en esta primera <choice><orig>Conjugacion</orig><reg type="spanish">Conjugación</reg></choice>; tratare-
     <lb/>
-    mos haora de la formacion  de diehos nombres, de to-
+    mos haora de la formacion de diehos nombres, de to-
     <lb/>
     das las quatro Conjugaciones, sin dejar de tratar con
     <lb/>
@@ -1419,8 +1419,8 @@
     cuatro Conjugaciones.
     <lb/>
     <div xml:id='levanto-arte1.3.1.9.1'>
-    <head type= 'outline'> Primera Especie </head>
-    <head> Primera Especie </head>
+    <head type= 'outline'>Primera Especie</head>
+    <head>Primera Especie</head>
     <lb/>
     En la primera conjucacion, y en la terera el <foreign xml:lang='zap'>Ra</foreign>,
     <lb/>
@@ -1430,7 +1430,7 @@
     <lb/>
     y el <foreign xml:lang='zap'>Ro</foreign> de la quarta, se vuelven en <foreign xml:lang='zap'>hue</foreign>, sin pronombre.
     <lb/>
-    V.g. de <foreign xml:lang='zap'>Racañeea</foreign>, sale, <foreign xml:lang='zap'>cocañee</foreign>, el ayudador. de <foreign xml:lang='zap'>Rexeela-
+    <foreign xml:lang="lat">V.g.</foreign> de <foreign xml:lang='zap'>Racañeea</foreign>, sale, <foreign xml:lang='zap'>cocañee</foreign>, el ayudador. de <foreign xml:lang='zap'>Rexeela-
     <lb/>
     ya</foreign> sale <foreign xml:lang='zap'>coxeela</foreign>, el embiador, de <foreign xml:lang='zap'>Recheelaya</foreign> sale <foreign xml:lang='zap'>huech-
     <lb/>
@@ -1441,16 +1441,16 @@
     </div>
     <!--levanto-arte 1.3.1.9.1-->
     <div xml:id='levanto-arte1.3.1.9.2'>
-    <head type= 'outline'> Segunda Especie </head>
+    <head type="outline">Segunda Especie</head>
     </div>
     <!--levanto-arte 1.3.1.9.2-->
-    <div xml:id='levanto-arte1.3.1.9.3'>
-    <head type= 'outline'> Tercera Especie </head>
+    <div xml:id="levanto-arte1.3.1.9.3">
+    <head type="outline">Tercera Especie</head>
     <pb n="22"/>
     </div>
     <!--levanto-arte 1.3.1.9.3-->
     <div xml:id='levanto-arte1.3.1.9.4'>
-    <head type= 'outline'> Nombres Adjectivos de todas 4 Conj. es </head>
+    <head type='outline'>Nombres Adjectivos de todas 4 Conj. es</head>
     <div xml:id='levanto-arte1.3.1.9.4.1'>
     <head type= 'outline'> Primera
         <choice><orig>Conjugacion</orig><reg type="spanish">Conjugación</reg></choice>
@@ -1483,9 +1483,7 @@
     </div>
     <!--levanto-arte 1.3.1.9.4.2-->
     <div xml:id='levanto-arte1.3.1.9.4.3'>
-    <head type= 'outline'> Tercera
-        <choice><orig>Conjugacion</orig><reg type="spanish">Conjugación</reg></choice>
-    </head>
+    <head type= 'outline'> Tercera Conjugacion</head>
     En esta se forman los adjetivos de verbos pasivos, y
     <lb/>
     neutros, el <foreign xml:lang='zap'>Ri</foreign> del presente de indicativo, vuelto en <foreign xml:lang='zap'>Na</foreign>.
@@ -1493,8 +1491,9 @@
     </div>
     <!--levanto-arte 1.3.1.9.4.3-->
     <div xml:id='levanto-arte1.3.1.9.4.4'>
-    <head type= 'outline'> <choice><orig>Quarta</orig><reg type="spanish">Cuarta</reg></choice>
-        <choice><orig>Conjugacion</orig><reg type="spanish">Conjugación</reg></choice>
+    <head type="outline">Quarta Conjugacion</head>
+    <head>
+      <choice><orig>Quarta</orig><reg type="spanish">Cuarta</reg></choice> <choice><orig>Conjugacion</orig><reg type="spanish">Conjugación</reg></choice>
     </head>
     En esta se forman de los adjetivos de los verbos pasivos y neu-
     <lb/>
@@ -1516,7 +1515,8 @@
     </div>
     <!--levanto-arte 1.3.1.9 -->
     <div xml:id='levanto-arte1.3.1.10'>
-    <head type= 'outline'> Verbos Yrregulares de primera Conjuga </head>
+    <head type="outline">Verbos Yrregulares de primera Conjuga</head>
+    <head>Verbos <choice><orig>Yrregulares</orig><reg type="spanish">Irregulares</reg></choice> de primera Conjuga</head>
     Por la mucha variedad de verbos irregulares de la pri-
     <lb/>
     mera <choice><orig>Conjugacion</orig><reg type="spanish">Conjugación</reg></choice>,
@@ -1524,14 +1524,14 @@
     <lb/>
     para la formacion, y conocimiento, asi de sus preterios,
     <lb/>
-    como de sus primeras personas del plural, enq.e cosiste
+    como de sus primeras personas del plural, <choice><orig>enq.e</orig><reg type="spanish">enque</reg></choice> cosiste
     <lb/>
     la mayor dificultad de esta lengua, y asi para su mayor
     <lb/>
     claridad, se reducen a cinco clases.
     <lb/>
     <div xml:id='levanto-arte1.3.1.10.1'>
-    <head type= 'outline'> Primera Clase </head>
+    <head type="outline">Primera Clase</head>
     Todos los verbos de esta primera Clase son regulares en
     <lb/>
     todos tiempos.
@@ -1549,9 +1549,9 @@
     <lb/>
     <foreign xml:lang="zap">Racalooya</foreign>-----presidir---
     <lb/>
-    <foreign xml:lang="zap">Racabaleeaca</foreign>---serve provecho, haeerbuen provecho
+    <foreign xml:lang="zap">Racabaleeaca</foreign>---serve provecho, haber buen provecho
     <lb/>
-    <foreign xml:lang="zap">Racanalda</foreign>---hazer--ô sonerfrio---
+    <foreign xml:lang="zap">Racanalda</foreign>---hazer--<choice><orig>ô</orig><reg type="spanish">o</reg></choice> sonerfrio---
     <lb/>
     <foreign xml:lang="zap">Racanaldaa</foreign>---zerer---calor----
     <lb/>
@@ -1588,8 +1588,8 @@
     </div>
     <!--levanto-arte 1.3.1.10.1-->
     <div xml:id='levanto-arte1.3.1.10.2'>
-    <head type= 'outline'> Segunda Clase </head>
-    <head> Segunda Clase </head>
+    <head type= 'outline'>Segunda Clase</head>
+    <head>Segunda Clase</head>
     Los verbos de esta segunda clase tienen irregulares
     <lb/>
     las primeras personas del plural del presente preterito
@@ -1602,29 +1602,29 @@
     <lb/>
     var la tierra, hace las dichas primeras per-
     <lb/>
-    sonas, <foreign xml:lang= 'zap'>Piaanatonoo</foreign> ararmos ó cultivamos la tierra.
+    sonas, <foreign xml:lang= 'zap'>Piaanatonoo</foreign> ararmos <choice><orig>ó</orig><reg type="spanish">o</reg></choice> cultivamos la tierra.
     <lb/>
-    <foreign xml:lang= 'zap'>Piaanatonoo</foreign>, hemos arado, ó cultivado la tierra: que
+    <foreign xml:lang= 'zap'>Piaanatonoo</foreign>, hemos arado, <choice><orig>ó</orig><reg type="spanish">o</reg></choice> cultivado la tierra: que
     <lb/>
-    <foreign xml:lang= 'zap'>ranatonoo</foreign>, araremos ó cultivaremos la tierra. Yasilos
+    <foreign xml:lang= 'zap'>ranatonoo</foreign>, araremos <choice><orig>ó</orig><reg type="spanish">o</reg></choice> cultivaremos la tierra. Yasilos
     <lb/>
     verbos siguientes, y sus compuestos.
     <lb/>
-    <foreign xml:lang= 'zap'>Rapaya</foreign> ……. guardar ó lenea..
+    <foreign xml:lang= 'zap'>Rapaya</foreign> ....... guardar <choice><orig>ó</orig><reg type="spanish">o</reg></choice> lenea..
     <lb/>
-    <foreign xml:lang= 'zap'>Rapachahuia</foreign> ……. guardar loien.
+    <foreign xml:lang= 'zap'>Rapachahuia</foreign> ....... guardar loien.
     <lb/>
-    <foreign xml:lang= 'zap'>Rabaya</foreign> …... Terer..
+    <foreign xml:lang= 'zap'>Rabaya</foreign> ...... Terer..
     <lb/>
-    <foreign xml:lang= 'zap'>Rachaya</foreign> ….. Mojarse.
+    <foreign xml:lang= 'zap'>Rachaya</foreign> ..... Mojarse.
     <lb/>
-    <foreign xml:lang= 'zap'>Rarea</foreign> ……. Pelar……
+    <foreign xml:lang= 'zap'>Rarea</foreign> ... Pelar......
     </div>
     <!--levanto-arte 1.3.1.10.2-->
     <div xml:id='levanto-arte1.3.1.10.3'>
-    <head type= 'outline'> Tercera Clase </head>
-    <head> Tercera Clase </head>
-    <foreign xml:lang= 'zap'>Ra</foreign> en <foreign xml:lang= 'zap'>Rito</foreign>, <foreign xml:lang= 'zap'>Pito</foreign>
+    <head type="outline">Tercera Clase</head>
+    <head>Tercera Clase</head>
+    <foreign xml:lang="zap">Ra</foreign> en <foreign xml:lang= 'zap'>Rito</foreign>, <foreign xml:lang= 'zap'>Pito</foreign>
     <lb/>
     <foreign xml:lang= 'zap'>Guito</foreign>, y algunos verbos en <foreign xml:lang= 'zap'>Reto</foreign>, <foreign xml:lang= 'zap'>Peto</foreign>, y <foreign xml:lang= 'zap'>Gueto</foreign>.
     <lb/>
@@ -1632,17 +1632,17 @@
     <lb/>
     de Plural en <foreign xml:lang= 'zap'>Rito</foreign>, <foreign xml:lang= 'zap'>Pito</foreign>, <foreign xml:lang= 'zap'>Guito</foreign>, y algunas veces las llavan
     <lb/>
-    los Yndios a <foreign xml:lang= 'zap'>Reto</foreign>, <foreign xml:lang= 'zap'>Peto</foreign>, <foreign xml:lang= 'zap'>Gueto</foreign>, volviendo el <foreign xml:lang= 'zap'>Ra</foreign> del presente
+    los <choice><orig>Yndios</orig><reg type="spanish">Indios</reg></choice> a <foreign xml:lang= 'zap'>Reto</foreign>, <foreign xml:lang= 'zap'>Peto</foreign>, <foreign xml:lang= 'zap'>Gueto</foreign>, volviendo el <foreign xml:lang= 'zap'>Ra</foreign> del presente
     <lb/>
-    endichas particular <foreign xml:lang= 'lat'>V.G.</foreign><foreign xml:lang= 'zap'>Ranaya</foreign>...Mirar
+    en dichas particular <foreign xml:lang="lat">V.G.</foreign> <foreign xml:lang="zap">Ranaya</foreign> ...Mirar
     <lb/>
-
 
     </div>
     <!--levanto-arte 1.3.1.10.3-->
     <div xml:id='levanto-arte1.3.1.10.4'>
-    <head type= 'outline'>`
-        <choice><orig>Quarta Conjugacion</orig><reg type="spanish">Cuarta Conjugación</reg></choice>
+    <head type="outline">Cuarta Conjugacion</head>
+    <head>
+      <choice><orig>Quarta</orig><reg type="spanish">Cuarta</reg></choice> <choice><orig>Conjugacion</orig><reg type="spanish">Conjugación</reg></choice>
     </head>
     <pb n="25"/>
     <lb/>
@@ -4004,14 +4004,9 @@ na da coscorrones, y rebrescar. <foreign xml:lang="zap"> Ribaapca </foreign>, <f
     <choice><orig>despues</orig><reg type='spanish'>después</reg></choice>
     de 20 en 20: <foreign xml:lang='lat'>V. g.</foreign>
     <lb/>
-<<<<<<< HEAD
-    <foreign xml:lang = "zap"> calle </foreign> - 40 <foreign xml:lang= "zap"> tua </foreign> - 60 - <foreign xml:lang= "zap"> caayoona </foreign> - 80  <foreign xml:lang= "zap"> taa </foreign> - 100 <foreign xml:lang= "zap"> cayooa </foreign>
-    <lb/>
-    - 200 - <foreign xml:lang= 'zap'> Chija </foreign> - 300 - <foreign xml:lang = 'zap'> chijnooa </foreign> - 400 - <foreign xml:lang = 'zap'> toobieela </foreign> &amp;
-=======
     <foreign xml:lang="zap"> calle </foreign> - 40 <foreign xml:lang="zap"> tua </foreign> - 60 - <foreign xml:lang="zap"> caayoona </foreign> - 80  <foreign xml:lang="zap"> taa </foreign> - 100 <foreign xml:lang="zap"> cayooa </foreign>
     <lb/>
-    - 200 - <foreign xml:lang="zap"> Chija </foreign> - 300 - <foreign xml:lang="zap'"> chijnooa </foreign> - 400 - <foreign xml:lang="zap'"> toobieela </foreign> &amp;
+    - 200 - <foreign xml:lang="zap"> Chija </foreign> - 300 - <foreign xml:lang="zap"> chijnooa </foreign> - 400 - <foreign xml:lang="zap"> toobieela </foreign> &amp;
 >>>>>>> 1a1b47ef0ea39c23ff9b0663a16987b09ef00f9c
     <lb/>
     El mayor
@@ -4062,11 +4057,7 @@ na da coscorrones, y rebrescar. <foreign xml:lang="zap"> Ribaapca </foreign>, <f
     la presente una de estas dos par
     <lb/>
     <choice><orig>ticulas</orig><reg type='spanish'>tículas</reg></choice>
-<<<<<<< HEAD
-    , <foreign xml:lang= 'zap'> Zee </foreign> <foreign xml:lang= 'lat'> vel </foreign> <foreign xml:lang= 'zap'>Hue</foreign>: <foreign xml:lang= 'lat'>V.g.</foreign> <foreign xml:lang = 'zap'> Zeetoobi </foreign> <foreign xml:lang= 'lat'> vel </foreign> <foreign xml:lang = 'zap'> huetoobi </foreign>.
-=======
-    , <foreign xml:lang="zap"> Zee </foreign> <foreign xml:lang="lat"> vel </foreign> <foreign xml:lang="zap">Hue</foreign>: <foreign xml:lang="lat">V.g.</foreign> <foreign xml:lang="zap'"> Zeetoobi </foreign> <foreign xml:lang="lat"> vel </foreign> <foreign xml:lang="zap'"> huetoobi </foreign>.
->>>>>>> 1a1b47ef0ea39c23ff9b0663a16987b09ef00f9c
+    , <foreign xml:lang="zap"> Zee </foreign> <foreign xml:lang="lat"> vel </foreign> <foreign xml:lang="zap">Hue</foreign>: <foreign xml:lang="lat">V.g.</foreign> <foreign xml:lang ="zap"> Zeetoobi </foreign> <foreign xml:lang="lat"> vel </foreign> <foreign xml:lang="zap">huetoobi</foreign>.
     <lb/>
     Es de notar
     <choice><orig>q.e</orig><reg type='spanish'>que</reg></choice>
@@ -4076,19 +4067,11 @@ na da coscorrones, y rebrescar. <foreign xml:lang="zap"> Ribaapca </foreign>, <f
     <lb/>
     por dos dicen <foreign xml:lang="zap'"> Coxoopa </foreign> para tres <foreign xml:lang="zap'"> Coyoona </foreign> para cinco-
     <lb/>
-<<<<<<< HEAD
-    <foreign xml:lang = 'zap'> cooyo </foreign>, por siete, <foreign xml:lang= 'zap'>cooche </foreign> por 9 <foreign xml:lang= 'zap'> cohui </foreign>
+    <foreign xml:lang="zap"> cooyo </foreign>, por siete, <foreign xml:lang="zap">cooche </foreign> por 9 <foreign xml:lang="zap"> cohui </foreign>
     <lb/>
     Para decir de uno en uno de dos en dos de ciento en cien-
     <lb/>
-    to, dicen <foreign xml:lang = 'zap'> toobi, toobi, </foreign> <forign xml:lang= 'lat'> vel </forign> <foreign xml:lang= 'zap'> toobitoobiyaa, quixoopa qui-</foreign>
-=======
-    <foreign xml:lang="zap'"> cooyo </foreign>, por siete, <foreign xml:lang="zap">cooche </foreign> por 9 <foreign xml:lang="zap"> cohui </foreign>
-    <lb/>
-    Para decir de uno en uno de dos en dos de ciento en cien-
-    <lb/>
-    to, dicen <foreign xml:lang="zap'"> toobi, toobi, </foreign> <forign xml:lang="lat"> vel </forign> <foreign xml:lang="zap"> toobitoobiyaa, quixoopa qui-</foreign>
->>>>>>> 1a1b47ef0ea39c23ff9b0663a16987b09ef00f9c
+    to, dicen <foreign xml:lang="zap"> toobi, toobi, </foreign> <forign xml:lang="lat"> vel </forign> <foreign xml:lang="zap"> toobitoobiyaa, quixoopa qui-</foreign>
     <lb/>
     <fw type="catchword" place="bottom-right">roo</fw>
     <lb/>
