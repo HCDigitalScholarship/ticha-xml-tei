@@ -4016,7 +4016,7 @@ na da coscorrones, y rebrescar. <foreign xml:lang="zap"> Ribaapca </foreign>, <f
     <lb/>
     <foreign xml:lang = "zap"> calle </foreign> - 40 <foreign xml:lang="zap"> tua </foreign> - 60 - <foreign xml:lang="zap"> caayoona </foreign> - 80  <foreign xml:lang="zap"> taa </foreign> - 100 <foreign xml:lang="zap"> cayooa </foreign>
     <lb/>
-    - 200 - <foreign xml:lang="zap"> Chija </foreign> - 300 - <foreign xml:lang = 'zap'> chijnooa </foreign> - 400 - <foreign xml:lang = 'zap'> toobieela </foreign> &amp;
+    - 200 - <foreign xml:lang="zap"> Chija </foreign> - 300 - <foreign xml:lang="zap'"> chijnooa </foreign> - 400 - <foreign xml:lang="zap'"> toobieela </foreign> &amp;
     <lb/>
     El mayor
     <choice><orig>numero</orig><reg type='spanish'>número</reg></choice>
@@ -4030,9 +4030,9 @@ na da coscorrones, y rebrescar. <foreign xml:lang="zap"> Ribaapca </foreign>, <f
     <choice><orig>quenta</orig><reg type="spanish">cuenta</reg></choice>
     de presenta es como
     <choice><orig>esta</orig><reg type='spanish'>está</reg></choice>
-    dicho - 1 <foreign xml:lang = 'zap'> toobi </foreign> 2 -
+    dicho - 1 <foreign xml:lang="zap'"> toobi </foreign> 2 -
     <lb/>
-    <foreign xml:lang = 'zap'> tioopa </foreign> - 3 - <foreign xml:lang = 'zap'> choona</foreign>. Para la
+    <foreign xml:lang="zap'"> tioopa </foreign> - 3 - <foreign xml:lang="zap'"> choona</foreign>. Para la
     <choice><orig>quenta</orig><reg type="spanish">cuenta</reg></choice>
     de
     <choice><orig>preterito</orig><reg type='spanish'>pretérito</reg></choice>
@@ -4055,7 +4055,7 @@ na da coscorrones, y rebrescar. <foreign xml:lang="zap"> Ribaapca </foreign>, <f
     <choice><orig>despues</orig><reg type='spanish'>después</reg></choice>
     doy otro,
     <choice><orig>q.e</orig><reg type='spanish'>que</reg></choice>
-    hacen seis y dicen <foreign xml:lang = 'zap'> Co-
+    hacen seis y dicen <foreign xml:lang="zap'"> Co-
     <lb/>
     xoopa yanna </foreign> <foreign xml:lang="lat"> scilicet </foreign> con este son seis. Para la
     <choice><orig>quen-</orig><reg type="spanish">cuen-</reg></choice>
@@ -4066,21 +4066,21 @@ na da coscorrones, y rebrescar. <foreign xml:lang="zap"> Ribaapca </foreign>, <f
     la presente una de estas dos par
     <lb/>
     <choice><orig>ticulas</orig><reg type='spanish'>tículas</reg></choice>
-    , <foreign xml:lang="zap"> Zee </foreign> <foreign xml:lang="lat"> vel </foreign> <foreign xml:lang="zap">Hue</foreign>: <foreign xml:lang="lat">V.g.</foreign> <foreign xml:lang = 'zap'> Zeetoobi </foreign> <foreign xml:lang="lat"> vel </foreign> <foreign xml:lang = 'zap'> huetoobi </foreign>.
+    , <foreign xml:lang="zap"> Zee </foreign> <foreign xml:lang="lat"> vel </foreign> <foreign xml:lang="zap">Hue</foreign>: <foreign xml:lang="lat">V.g.</foreign> <foreign xml:lang="zap'"> Zeetoobi </foreign> <foreign xml:lang="lat"> vel </foreign> <foreign xml:lang="zap'"> huetoobi </foreign>.
     <lb/>
     Es de notar
     <choice><orig>q.e</orig><reg type='spanish'>que</reg></choice>
-    en donde dicen <foreign xml:lang = 'zap'> toobi, tioopa choona taapa </foreign>:
+    en donde dicen <foreign xml:lang="zap'"> toobi, tioopa choona taapa </foreign>:
     <lb/>
-    de puede decir <foreign xml:lang = 'zap'> chaaga, cato, cayo, taa </foreign> Para <choice> <orig>preterito</orig> <reg type='spanish'>pretérito</reg></choice>
+    de puede decir <foreign xml:lang="zap'"> chaaga, cato, cayo, taa </foreign> Para <choice> <orig>preterito</orig> <reg type='spanish'>pretérito</reg></choice>
     <lb/>
-    por dos dicen <foreign xml:lang = 'zap'> Coxoopa </foreign> para tres <foreign xml:lang = 'zap'> Coyoona </foreign> para cinco-
+    por dos dicen <foreign xml:lang="zap'"> Coxoopa </foreign> para tres <foreign xml:lang="zap'"> Coyoona </foreign> para cinco-
     <lb/>
-    <foreign xml:lang = 'zap'> cooyo </foreign>, por siete, <foreign xml:lang="zap">cooche </foreign> por 9 <foreign xml:lang="zap"> cohui </foreign>
+    <foreign xml:lang="zap'"> cooyo </foreign>, por siete, <foreign xml:lang="zap">cooche </foreign> por 9 <foreign xml:lang="zap"> cohui </foreign>
     <lb/>
     Para decir de uno en uno de dos en dos de ciento en cien-
     <lb/>
-    to, dicen <foreign xml:lang = 'zap'> toobi, toobi, </foreign> <forign xml:lang="lat"> vel </forign> <foreign xml:lang="zap"> toobitoobiyaa, quixoopa qui-</foreign>
+    to, dicen <foreign xml:lang="zap'"> toobi, toobi, </foreign> <forign xml:lang="lat"> vel </forign> <foreign xml:lang="zap"> toobitoobiyaa, quixoopa qui-</foreign>
     <lb/>
     <fw type="catchword" place="bottom-right">roo</fw>
     <lb/>
@@ -4852,7 +4852,7 @@ na da coscorrones, y rebrescar. <foreign xml:lang="zap"> Ribaapca </foreign>, <f
     <lb/>
     </orig>
 
-    <reg type = "spanish">
+    <reg type="spanish">
     Hijo mío muy amado ya recibiste el Santo Sacramen
     <lb/>
     to, del sagrado cuerpo de Nuestro Señor Jesucristo, y el Santo
@@ -6220,7 +6220,7 @@ de Dios
 	<lb/>
 	xijhui laa Nachoono xtenni Dios.</foreign>
 	<lb/>
-	<choice><orig>Quando juraste el Sto</orig><reg type = "spanish">¿Cuándo juraste el Santo</reg></choice> Nombre de Dios dudarte te siera
+	<choice><orig>Quando juraste el Sto</orig><reg type="spanish">¿Cuándo juraste el Santo</reg></choice> Nombre de Dios dudarte te siera
 	<lb/>
 	verdad
     <choice><orig> o' mentora lo q.e decias en aguellas</orig><reg type="spanish"> o mentira lo que decías en aquellas</reg></choice>
