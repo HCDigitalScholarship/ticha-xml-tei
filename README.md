@@ -30,27 +30,29 @@ Here are a few TEI encodings you should know how to use:
 
 ## Line breaks
 
-`lengua para muchas cosas, y se junta ã muchas diccio`
-
-`<lb/>`
-
-`nes, y assi significa de muchas maneros: V.S. con los nom`
+```xml
+lengua para muchas cosas, y se junta ã muchas diccio
+<lb/>
+nes, y assi significa de muchas maneros: V.S. con los no
+```
 
 Line breaks cannot be encoded by simply hitting enter in your text editor, and have to be encoded with the line break tag `<lb/>`. Unlike most XML tags we'll use, the line break tag typically appears not as an opener and closer but as a single tag, with a slash at the end. Technically, any XML tag can be "self-closing" like this, implying that the tag has no content. Since line breaks can never have words inside them (what would that look like?) they're always written as self-closing, but this can be thought of as an abbreviation for `<lb></lb>`.
 
 ## Headings
 
-`<head>2.a Conjugacion</head>`
-
-`<lb/>`
-
-`La 2.a  Conjugacion solo tiene tres verbos irregulares`
+```xml
+<head>2.a Conjugacion</head>
+<lb/>
+La 2.a  Conjugacion solo tiene tres verbos irregulares
+```
 
 Headings can be marked with the <head> tag. In general, headings should not appear on the same line as non-heading text.
 
 ## Foreign languages
 
-`Primeramente esta particula <foreign xml:lang="zap">Ca</foreign>, se usa de ella en esta`
+```xml
+Primeramente esta particula <foreign xml:lang="zap">Ca</foreign>, se usa de ella en esta
+```
 
 Foreign languages are marked with the <foreign> tag. This one is a little harder than the others, since it is likely to be the first tag you need which has "attributes."
 
@@ -62,42 +64,42 @@ Two important things to remember about foreign tags are that the foreign text sh
 
 To make these texts more accessible, we can encode a modern Spanish version of the transcription using the <choice> tag. While viewing the text, someone can then choose to view the original transcription or the modernized transcription by clicking on the tabs directly above the transcription (https://ticha.haverford.edu/en/texts/levanto-arte/101/original/). Currently, the Levanto Arte has a modern Spanish normalization.
 
-`<choice><orig>Como</orig><reg type="spanish">¿Cómo</reg></choice>`
+```xml
+<choice><orig>Como</orig><reg type="spanish">¿Cómo</reg></choice>
+```
 
 ## Nesting tags
 
 In XML, you can have tags inside other tags, but only if the opening and closing of one tag are completely within the opening and closing of the higher tag. The range of tags can never overlap. For example,
 
-`<head>La Particula <foreign xml:lang="zap">Ca</foreign></head>`
+```xml
+<head>La Particula <foreign xml:lang="zap">Ca</foreign></head>
+```
 
 and
 
-`<foreign xml:lang="zap">Conna rinni, ni niartenni cocalo Bixooze (Xiñaa)`
-
-`<lb/>`
-
-`yohoto quella rirabaniza, cocalo rtijalaaya, laa</foreign>`
+```xml
+<foreign xml:lang="zap">Conna rinni, ni niartenni cocalo Bixooze (Xiñaa)
+<lb/>
+yohoto quella rirabaniza, cocalo rtijalaaya, laa</foreign>
+```
 
 are both fine, but never
 
-`<head>La Particula <foreign xml:lang="zap">Ca</head>`
-
-`<lb/>`
-
-`Conna rinni, ni niartenni cocalo Bixooze (Xiñaa)`
-
-`<lb/>`
-
-`yohoto quella rirabaniza, cocalo rtijalaaya, laa</foreign>`
+```xml
+<head>La Particula <foreign xml:lang="zap">Ca</head>
+<lb/>
+Conna rinni, ni niartenni cocalo Bixooze (Xiñaa)
+<lb/>
+yohoto quella rirabaniza, cocalo rtijalaaya, laa</foreign>
+```
 
 since the head and foreign tags overlap. To repair that, you'd have to do something like
 
-`<head>La Particula <foreign xml:lang="zap">Ca</foreign></head>`
-
-`<lb/>`
-
-`<foreign xml:lang="zap">Conna rinni, ni niartenni cocalo Bixooze (Xiñaa)`
-
-`<lb/>`
-
-`yohoto quella rirabaniza, cocalo rtijalaaya, laa</foreign>`
+```xml
+<head>La Particula <foreign xml:lang="zap">Ca</foreign></head>
+<lb/>
+<foreign xml:lang="zap">Conna rinni, ni niartenni cocalo Bixooze (Xiñaa)
+<lb/>
+yohoto quella rirabaniza, cocalo rtijalaaya, laa</foreign>
+```
