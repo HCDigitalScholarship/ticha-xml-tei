@@ -11,7 +11,7 @@
     </div>
     <!--levanto-arte Title-->
     <div xml:id= "levanto-arte1">
-    <head type= "outline"> De las Partes de la
+    <head type= "outline">De las Partes de la
         <choice><orig>Oracion</orig><reg type="spanish">Oración</reg></choice>
     </head>
     <head> (De las Partes de la
@@ -32,8 +32,7 @@
     rencia de el singular y plural; pero se
     <choice><orig>distiiñ-<lb/>guen</orig><reg type="spanish">distin-<lb/>guen</reg></choice>
      con estos dos adjetivos
-     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
-     , se llaman collec-
+     <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>, se llaman collec-
     <lb/>
      tivos: <foreign xml:lang= 'zap'>Ciianni</foreign>
      <choice><orig>q.e</orig><reg type="spanish">que</reg></choice>
@@ -186,46 +185,45 @@
 	<lb/>
 	<foreign xml:lang= 'zap'>Tonoo</foreign>= nosotros,
   <foreign xml:lang= 'zap'>to</foreign>= vosotros.
-  <foreign xml:lang='lat'>V.g.</foreign> Nombre Subs-
+  <foreign xml:lang='lat'>V.g.</foreign> Nombre
+  Subs-
 	<lb/>
 	Tantivo
 	<lb/>
 	<choice><orig>Sin.r</orig><reg type="spanish">Singular</reg></choice>
-  <foreign xml:lang= 'zap'>Pizaanaya</foreign> 	 Mi Hermana
+  <foreign xml:lang= 'zap'>Pizaanaya</foreign> Mi Hermana
 	<lb/>
-	<foreign xml:lang= 'zap'>Pizaanallo </foreign> 		Tu Hermana
+	<foreign xml:lang= 'zap'>Pizaanallo </foreign> Tu Hermana
 	<lb/>
-
-
     <pb n="5"/>
-	 <foreign xml:lang= 'zap'>Pizaanani </foreign>		La Hermana
+	 <foreign xml:lang= 'zap'>Pizaanani </foreign> La Hermana
 	 <lb/>
 	de aquel.
 	<lb/>
 	<choice><orig>Plu.l</orig><reg type="spanish">Plural</reg></choice>
   <foreign xml:lang= 'zap'>Pizaananoo</foreign>	Nuestra Hermana
 	<lb/>
-	<foreign xml:lang= 'zap'>Pizaanato</foreign>		Nuestra Hermana
+	<foreign xml:lang= 'zap'>Pizaanato</foreign> Nuestra Hermana
 	<lb/>
-	<foreign xml:lang= 'zap'>Pizaanani </foreign>		La Hemana de aquellos
+	<foreign xml:lang= 'zap'>Pizaanani</foreign> La Hemana de aquellos
 	<lb/>
     <div xml:id= "levanto-arte1.1.1">
-    <head type= "outline"> Nombre Adjectivos </head>
-	   <head> Nombres Adjetivos </head>
+    <head type= "outline">Nombre Adjectivos</head>
+	   <head>Nombres Adjetivos</head>
 	    <lb/>
 	<choice><orig>Sin.r</orig><reg type="spanish">Singular</reg></choice>
-  <foreign xml:lang= 'zap'>Nazinaya	</foreign>	Yo habil
+  <foreign xml:lang= 'zap'>Nazinaya</foreign> Yo habil
 	<lb/>
-	<foreign xml:lang= 'zap'>Nazinalo </foreign>		Tu habil
+	<foreign xml:lang= 'zap'>Nazinalo</foreign> Tu habil
 	<lb/>
-	<foreign xml:lang= 'zap'>Nazinani </foreign>		Aquel habil
+	<foreign xml:lang= 'zap'>Nazinani</foreign> Aquel habil
 	<lb/>
 	<choice><orig>Plu.l</orig><reg type="spanish">Plural</reg></choice>
-  <foreign xml:lang= 'zap'>Nazinatonoo</foreign>	Nosotros habiles
+  <foreign xml:lang= 'zap'>Nazinatonoo</foreign> Nosotros habiles
 	<lb/>
-	<foreign xml:lang= 'zap'>Nazinato </foreign>		Vosotros habiles
+	<foreign xml:lang= 'zap'>Nazinato</foreign> Vosotros habiles
 	<lb/>
-	<foreign xml:lang= 'zap'>Nazinani </foreign>		Aquellos habiles
+	<foreign xml:lang= 'zap'>Nazinani</foreign>	Aquellos habiles
 	<lb/>
     </div>
     <!--levanto-arte 1.1.1-->
@@ -6280,7 +6278,7 @@ de Dios
   <choice><orig>Missa,</orig><reg type="spanish">Misa</reg></choice> o
   <choice><orig>oyr</orig><reg type="spanish">oir</reg></choice>
   <choice><orig>missa</orig><reg type="spanish">misa</reg></choice>?
-  
+
 	<lb/>
 	<foreign xml:lang= 'zap'>Xijnija pezaana connalo cannalo Missa?</foreign>
 	<lb/>
