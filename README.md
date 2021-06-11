@@ -103,3 +103,16 @@ since the head and foreign tags overlap. To repair that, you'd have to do someth
 <lb/>
 yohoto quella rirabaniza, cocalo rtijalaaya, laa</foreign>
 ```
+
+## Standard XML style for Ticha documents
+
+Use the green-highlighted formatting for XML tags, not the red ones. Though all of the examples are parsable XML, we follow a standard style. Note that there's no space after the `=`. Note the use of double quotes (`"`).
+
+```diff
++ <tag property="value">
+- <tag property= "value">
+- <tag property = "value">
+- <tag property='value'>
+- <tag property= 'value'>
+- <tag property = 'value'>
+```
