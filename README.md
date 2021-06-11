@@ -56,7 +56,7 @@ Primeramente esta particula <foreign xml:lang="zap">Ca</foreign>, se usa de ella
 
 Foreign languages are marked with the <foreign> tag. This one is a little harder than the others, since it is likely to be the first tag you need which has "attributes."
 
-The attribute we're interested in is the xml:lang attribute, which tells what foreign language the span of text is in. This seems a little weird for highly bilingual texts like many that we're working with, since we have to decide what the non-foreign language should be, but typically we'll choose a particular language to consider unmarked in each text, and mark everything else in foreign tags. For Zapotec, the attribute should be set to xml:lang="zap", for Latin xml:lang="lat", and for Spanish xml:lang="esp".
+The attribute we're interested in is the `xml:lang` attribute, which tells what foreign language the span of text is in. This seems a little weird for highly bilingual texts like many that we're working with, since we have to decide what the non-foreign language should be, but typically we'll choose a particular language to consider unmarked in each text, and mark everything else in foreign tags. For Zapotec, the attribute should be `xml:lang="zap"`, for Latin `xml:lang="lat"`, and for Spanish `xml:lang="esp"`.
 
 Two important things to remember about foreign tags are that the foreign text should always go in between the foreign tags, never as an attribute, and that you only need to specify attributes in the opening tag, never the closing tag.
 
@@ -110,11 +110,11 @@ Use the green-highlighted formatting for XML tags, not the red ones. Though all 
 
 ```diff
 + Standard:
-+ <tag property="value">
++ <tag attribute="value">
 - Incorrect:
-- <tag property= "value">
-- <tag property = "value">
-- <tag property='value'>
-- <tag property= 'value'>
-- <tag property = 'value'>
+- <tag attribute= "value">
+- <tag attribute = "value">
+- <tag attribute='value'>
+- <tag attribute= 'value'>
+- <tag attribute = 'value'>
 ```
