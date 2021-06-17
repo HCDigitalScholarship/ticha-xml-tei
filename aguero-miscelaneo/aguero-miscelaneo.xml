@@ -17,38 +17,38 @@
   <div xml:id="miscelaneo-aguero1">
   <head> DEDICATORIA,
   <lb/>
-  A la ſiempre Puriſſima Virgen MARIA
+  A la <choice><orig>ſiempre</orig><reg type="spanish">siempre</reg></choice> <choice><orig>Puriſſima</orig><reg type="spanish">Purísima</reg></choice> Virgen MARIA
   <lb/>
-  Señora Nueſtra, Concebida ſin pecado
+  Señora <choice><orig>Nueſtra</orig><reg type="spanish">Nuestra</reg></choice>, Concebida <choice><orig>ſin</orig><reg type="spanish">sin</reg></choice> pecado
   <lb/>
-  Original. A quien humilde conſagra,
+  Original. A quien humilde <choice><orig>conſagra</orig><reg type="spanish">consagra</reg></choice>,
   <lb/>
   y reverente dedica el Autor
   <lb/>
-  ſu obra.
+  <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> obra.
   <head>
   </div>
   <!--come back to number of sections-->
   <div xml:id="miscelaneo-aguero1.1.1">
-  MVY ageno, ſino de razon, de advertencia ſi, ſe halla (ò Princeſa
+  <choice><orig>MVY</orig><reg type="spanish">MUY</reg></choice> ageno, <choice><orig>ſino</orig><reg type="spanish">sino</reg></choice> de <choice><orig>razon</orig><reg type="spanish">razón</reg></choice>, de advertencia <choice><orig>fi</orig><reg type="spanish">si</reg></choice>, <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> halla (ò <choice><orig>Princeſa</orig><reg type="spanish">Princesa</reg></choice>
   <lb/>
-  de los Angeles) el que ancioſſo de dar à la eſtampa y ſacar à luz
+  de los Angeles) el que <choice><orig>ancioſſo</orig><reg type="spanish">ancioso</reg></choice> de dar à la <choice><orig>eſtampa</orig><reg type="spanish">estampa</reg></choice> y <choice><orig>ſacar</orig><reg type="spanish">sacar</reg></choice> à luz
   <lb/>
-  algun parto de ſu entendimiento, anhela ſombras, y affecta ar-
+  <choice><orig>algun</orig><reg type="spanish">algún</reg></choice> parto de <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> entendimiento, anhela <choice><orig>ſombras</orig><reg type="spanish">sombras</reg></choice>, y <choice><orig>affecta</orig><reg type="spanish">afecta</reg></choice> ar-
   <lb/>
-  rimos de arboles humanos, para ſu honorifica, y vital defenſa,
+  rimos de <choice><orig>arboles</orig><reg type="spanish">árboles</reg></choice> humanos, para <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> honorifica, y vital <choice><orig>defenſa</orig><reg type="spanish">defensa</reg></choice>,
   <lb/>
-  contra las venenoſas lenguas de los malcontentadizos momos; pues aun-
+  contra las <choice><orig>venenoſas</orig><reg type="spanish">venenosas</reg></choice> lenguas de los malcontentadizos momos; pues aun-
   <lb/>
-  que mas ſe las repreſente ó ſu amoe, ó ſu liſonja grandes; aunque mas ſe las
+  que mas <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> las <choice><orig>repreſente</orig><reg type="spanish">represente</reg></choice> ó <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> <choice><orig>amoe</orig><reg type="spanish">amor</reg></choice>, ó <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> <choice><orig>liſonja</orig><reg type="spanish">lisonja</reg></choice> grandes; aunque mas <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> las
   <lb/>
-  clamoree la opinion validas y mas ſe las imagine ſu eſtimativa fuertes para
+  clamoree la opinion validas y mas <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> las imagine <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> <choice><orig>eſtimativa</orig><reg type="spanish">estimativa</reg></choice> fuertes para
   <lb/>
-  ſu intento, ſon enfin ſombras de arboles humanos, que ſi apariencian robu-
+  <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> intento, <choice><orig>ſon</orig><reg type="spanish">son</reg></choice> <choice><orig>enfin</orig><reg type="spanish">en sin</reg></choice> <choice><orig>ſombras</orig><reg type="spanish">sombras</reg></choice> de <choice><orig>arboles</orig><reg type="spanish">árboles</reg></choice> humanos, que <choice><orig>ſi</orig><reg type="spanish">si</reg></choice> apariencian robu-
   <lb/>
-  ſtos verdores de magnitud, ſi oftentan dilatadas lineas de fortaleza, para
+  <choice><orig>ſtos</orig><reg type="spanish">stos</reg></choice> verdores de magnitud, <choice><orig>ſi</orig><reg type="spanish">si</reg></choice> <choice><orig>oftentan</orig><reg type="spanish">ostentan</reg></choice> dilatadas <choice><orig>lineas</orig><reg type="spanish">líneas</reg></choice> de fortaleza, para
   <lb/>
-  combidar à ſu ſombrio, y frondolo albergue à los pequeños, y deſvalidos,
+  combidar à <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> <choice><orig>ſombrio</orig><reg type="spanish">sombrio</reg></choice>, y frondolo albergue à los pequeños, y <choice><orig>deſvalidos</orig><reg type="spanish">desvalidos</reg></choice>,
   <lb/>
   les es nativa la debilidad, propria la mudan ça, genuina la cayda, hereda-
   <lb>
@@ -356,7 +356,7 @@
   <fw type="catchword" place="bottom-right">tisi--</fw>
 <!--this transcription doesn't the original spanish 's', so we need to replace that here so we can normalize-->
   <pb n="11"/>
-  
+
   <pb n="12"/>
   <pb n="13"/>
   <pb n="14"/>
