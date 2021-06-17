@@ -356,14 +356,386 @@
   <fw type="catchword" place="bottom-right">tisi--</fw>
 <!--this transcription doesn't the original spanish 's', so we need to replace that here so we can normalize-->
   <pb n="11"/>
+<<<<<<< HEAD
 
+=======
+  tisima, y Milagros generosamente obrados por esta gran señora, que
+  <lb/>
+  son los manojos del ministerio santo. Y así traslado la letra de Nico-
+  <lb/>
+  lao de Lyra. Per manipulos massa ministerij<!--Latin-->. Para que se tenga atecion<!--something on the e...-->
+  <lb/>
+  al provecho de los Naturales con mayor noticia de terminos tan claros
+  <lb/>
+  con que explica el Autor misterios tan soberanos, cominando con su
+  <lb/>
+  elegancia al gusto, con su claridad al entendimiento; y así serà de eru-
+  <lb/>
+  dicion grande a los ministros Evangelicos professores de este Idioma
+  <lb/>
+  en la capacidad beberan como en christales, la doctrina clara, la ense-
+  <lb/>
+  ñanza pura, la erudicion flamante. Por lo cual, no solo deben grati-
+  <lb/>
+  tudes al Autoe, que lograrà en en la mejor, y mas segura Patria; mas aun
+  <lb/>
+  se le auia de mandar diese luego a la estampa tan insigne obra, digna
+  <lb/>
+  de eterna memoria. Así lo siento. Dada en culpa, a 2. de Jumio de
+  <lb/>
+  1066 años.
+</div>
+<head> Fr. Alonfo de Medrano. <head>
+  <!---this person trasncribed some things into modern spanish so we have to change those for normalization-->
+  <!--there are also things writte on this page, but they are hard to read-->
+  <fw type="catchword" place="bottom-right">APRO--</fw>
+>>>>>>> e0ab0dfae01ab0238735709fe426170b9a7e5163
   <pb n="12"/>
+  <head type="outline">APROBACION<head>
+  <head>APROBACION
+    <lb/> Del P. Fr. Ivan De Robles, Predicador
+    <lb/>
+     General, y Vicario de Tlacuchahuaya.<head>
+   </div>
+   Obediente al mandato de N. M. R. P. Fr. Manvel<!--normalize to Manuel-->
+<lb/>
+   Hurtado aparior Provincial de esta provincia de S. Hipo-
+<lb/>
+   lito Martyr de Oaxac. Orden de Predicadores. He visto,
+<lb/>
+   y leydo con todo cuidado esta obra, en el idioma Zapo-
+<lb/>
+   teca, compuesta por el M. R. P. M. Fr. Christoual de Aguero, Predi-
+<lb/>
+   cador general, y Cathedratico en dicho idioma Zapoteco, cuyo
+<lb/>
+   titulo es: Miscelaneo Espiritual. Y es tan grande su doctrina co-
+<lb/>
+   mo lo es el Autor en letras, y erudicion fiendo el norte de etsa obra,
+<lb/>
+   y escritos; el ser en aprovechamiento, y educacion de estos pobres
+<lb/>
+   Naturales, y que tangan verdadero conocimiento de los misterios
+<lb/>
+   de nuestra fanta Fee. Y comencando a ver esta obra con obligacion d
+<lb/>
+   e cenfurarla, acabè con la preciffa de su alabanca, assi por hallar en
+<lb/>
+   ella muy gran vitalidad, y enseñanza à los ministros Evangelicos, que
+<lb/>
+   profesamos este idioma Zapoteco, como por el conocido apro-
+<lb/>
+   vechamiento à estos Naturales con obra tan heroica, y fidelísima
+<lb/>
+   traducción, con toda elegancia, y propriedad ; y dándome liciencia
+<lb/>
+   neustro glorío  Padre, y Doctor de ls Ygelfia S. Augustin, repetirê
+<lb/>
+   vnas palambras tuyas<!---suyas?-->, pues parece quando las escrivia, tenia presente
+<lb/>
+   esta obra, asegurando al Autor el premio de se trabajo; dize pues la lumbrera
+<lb/>
+   de la Yglefia, sobre aquellas palabras del Ecclefaift. [Da Eccl. 40.
+<lb/>
+   (?) accipe, (?) <!--is this an ampersand?--> iustufica animam tuam] verbum doctrine proximis im- Glos.
+<lb/>
+   pende, (?) bonorum operum exempla relinique; vt recipias premium
+<lb/>
+   vita eterne. <!--can we italicise?-->
+<lb/>
+   Y ferâ muy justo le tenga el Autor en esta vida: Siendo
+<lb/>
+   servido N. M. R. P. Provincial conceder la licencia, que pide para
+<lb/>
+   dar esta obra à la estampa, y que todos gozan de tan luzido trabajo.
+<lb/>
+   &amp;c.
+<lb/>
+  <head>Fr. Iuan de Robles<head>
   <pb n="13"/>
+  <!--No transcription here yet-->
   <pb n="14"/>
+  <head type="outline">APROBACION<head>
+  <head>APROBACION
+    <lb/>
+    De el P. FRAY JOSEPH DE LOS Angeles,
+    <lb/>
+    Predicador, y Profeffor de la lengua
+    <lb/>
+    Zapoteca, difcipulo de el Autor.<head>
+  </div>
+  NO puede fer mayor el aprieto, en que me ha puefto de mi Supe-
+<lb/>
+  rior el mandato, ni con él pude huir el empeño, de executarlo,
+<lb/>
+  ni la obediencia me permitiera evadirlo. Fiar de mi voluntad
+<lb/>
+  la cenfura,no admitiera; dexarlo al apremio de la obediencia,
+<lb/>
+  fue neceffario, para que acceptara; y affi obedecí, por compelerme la obe-
+<lb/>
+  diencia á aceptar. No porque en materia tan grande pueda imaginarme
+<lb/>
+  mas, quando como difcipulo de el Autor, fiempre me confieffo por el me-
+<lb/>
+  nor, y que no puedo fer algo , quando en los meritos no he falido de la na-
+<lb/>
+  da. Mal podre difcipulo atreverme á cenfurar, obras de mi Maeftro,ni dar
+<lb/>
+  cenfura â fus efcritos, fi con apremio,no me obligara el mandato de el Pre-
+<lb/>
+  lado ; y por fuerza no me oprimiera, la obediencia forçofa de fubdito? Em-
+<lb/>
+  pero difpoficion parece bien acordada , y acuerdo mas que difcreto de el
+<lb/>
+  Superior , que obediente mas que entendido ( entre tantos que en efte
+<lb/>
+  Emporio de letras fobran ) fueffe el que efte Libro aprobaffe. Y es, que co-
+<lb/>
+  mo la obediencia es ciega. Ciego quiere que fea el que obedece. Y affi me
+<lb/>
+  mandó aprobar. Que obras de vn Autor tan conocido por Sabio,y can ca-
+<lb/>
+  lificado de Docto , traen configo la Aprobación ; y eftân calificadas fola-
+<lb/>
+  mente con fer viftas. Parece que mirava eftas San Ambrofioi, en aquellas
+<lb/>
+  que la Sabiduría de Dios , le recreaba por buenas , quando dixo de la luz;
+<lb/>
+  que aviendola vifto Dios , le diò à fus lucimientos calificación de buena.
+<lb/>
+  Vidit Deus Lucem quod e flet bona. Aqui el Milanes Doctor, con fus palabras, à Genef. rl
+<lb/>
+  las obras de el Autor tan nacidas , que ellas fe vienen aplicadas. Bonerum Ambr. lib.
+<lb/>
+  operum proprium eft, vt externo commendatore non egeant. Las obras,que de fuyo 1. Exam. c.
+<lb/>
+  fon buenas, como la luz,y fon luzes,que hermofamente refplandecen, y fin 9.
+<lb/>
+  defecto perfectamente fe luzen,no necefitan de examinador, q̃ las aprue-
+<lb/>
+  be, de cenfurador, que las examine, ni calificador , que las abone : externo
+<lb/>
+  comme ndatore non egeant. Ellas tienen efta excelẽcia , en la bondad que go-
+<lb/>
+  zan, que traen configo la aprobación,que las califica,en la pureza con que
+<lb/>
+  luzen,la calificación que las aprueba ; y en la perfección con que refplan-
+<lb/>
+  decen, la recomendacion, que las abona. Son como la luz,que en fi mifma
+<lb/>
+  eftâ dando teftimonio de fu bondad , fin que para fu calificación , necefite
+<lb/>
+  <fw type="catchword" place="bottom-right">de--</fw>
+  <!--there is a paragraph symbol here too-->
   <pb n="15"/>
+  Idem.Ibid. de ajeno teftimonio. Añade Ambrofio : Suo enim vtitur teftimonio, non alieno
+<lb/>
+  fuffragio. Las obras de efte Libro, que fon luzes para la enfeñança , fon tan
+<lb/>
+  buenas , que por fi mefmas eftàn aprobadas , y fe traen la aprobación , que
+<lb/>
+  las califica, en la bondad con que refplandecen , fin que necefiten de exa-
+<lb/>
+  men que las apruebe, ni cenfura que las califique : externo !commendatore non
+<lb/>
+  egent. Y todo el Libro es vna luz,que eftà dando baftante teftimonio de fu
+<lb/>
+  bondad, fin que fea neceffario otro teftimonio para fu calificacion. Suo enim
+<lb/>
+  vtitur teftimonio, non alieno fuffragio. Y fiendo luz de tan fubidos creditos de
+<lb/>
+  buena, y aplaufos de calificada, que no admite ni aun atomos de imperfec-
+<lb/>
+  cion; como permitirá defectos de la cenfura? Bafta decir cuyas fon , pues
+<lb/>
+  fu Autor es tan conocido, que por fu credito fe vienen aprobadas ; y a ojos
+<lb/>
+  cerrados fe deben dar por buenas : razon tuvo el Superior de remitirme
+<lb/>
+  efte Libro , no porque conocieffe fuficiencia para la cenfura , ciega obe-
+<lb/>
+  diencia fi,para fu prueba; que es la obra toda luz , y quiere que los ciegos,
+<lb/>
+  como menefterofos,fe aprovechen,y á ojos cerrados la aprueben , y á cie-
+<lb/>
+  gas la califiquen; y tambien como difcipulo,que participé luzes de la doc-
+<lb/>
+  trina de tan gran Maeftro, y bebì atomos de la enfeñanza de tanto Sol. Y
+<lb/>
+  como fabe que fu enfeñança esfegura, y fu doctrina Catholica , y todas fus
+<lb/>
+  obras buenas ,quiere que como difcipulo , y ciego , las dé por calificadas:
+<lb/>
+  no por que eftas luzidas obras ,no pidan muchos ojos para ver , que fon
+<lb/>
+  para abrir ojos, y mirar; porque fon tales , que bafta verlas para aprobar-
+<lb/>
+  las,no verlas,para corregirlas,que obras que tienen tanto de bondad, que
+<lb/>
+  no admiren notas de correccion. Son à todas luzes buenas , y a todo buen
+<lb/>
+  fentimiento calificadas. Efte es el mio, y que obras tan luzidas, fon dignas
+<lb/>
+  que luego fe den à la eftampa,porque fon luzes para los Minifros,vtilidad
+<lb/>
+  de los Naturales,y extenfion de nueftra fanta Fè Catholica. Fecha en efte
+<lb/>
+  Convento de N.P. Santo Domingo de Oaxac, 3. De Julio de 1666. años.
+</div>
+  <head>Fr. Iofeph de los Angeles.<head> <!--should this be a header or just a normal line of text?-->
   <pb n="16"/>
+  F. Manuel Hurtado, Prior Prov-
+<lb/>
+  incial de efta nueftra Provincia de San
+<lb/>
+  Hipolito M. de Oaxac , del Orden de Pred-
+<lb/>
+  icadores. Viftos por mi los pareceres de los RR.
+<lb/>
+  PP. Pred icadores Generales, (á?) quienes cometi
+<lb/>
+  vieffen efte Libro de lengua Zapoteca, que com-
+<lb/>
+  pufo el R.P. M. Fr. Chriftoual dew Aguero,
+<lb/>
+  Cathedratico jubilado de el dicho Idioma, Predi-
+<lb/>
+  cador General en ella, y Vicario actual de nuef tra
+<lb/>
+  Casa de Theozapotlan . Por la presente , y por la
+<lb/>
+  Autoridad de nueftro Oficio, doy con mucho gusto
+<lb/>
+  licencia para que fe imprima; alcancando primero
+<lb/>
+  las licencias meceffarias. Fecha en efte N. Con-
+<lb/>
+  vento de N. P. Santo Domingo de Oaxac, en
+<lb/>
+  4. dias del mes de I ulio de 1666, años.
+<lb/>
+</div>
+  Fr. Manuel Hurtado.
+  <lb/>
+  Provincial.
+</div>
+Por mandado de N.M.R.P. Provincial.
+</div>
+Fr. Balthafar Marquez
+<lb/>
+Predicador General, y Not. Apoft .
   <pb n="17"/>
+  <head type="outline">APROBACION<head>
+  <head>APROBACION
+    <lb/>
+    Del R.P.M. Fr. Manuel Bayz, Prior
+    <lb/>
+    del Convento de N.P.S. Domingo So-
+    <lb/>
+    riano de esta Ciudad de Oazac.
+  </div>
+  Ill. mo Se ñor.
+</div>
+  En conformidad de el madato, y remision de V. Se ñoria Illu-
+<lb/>
+  strissima. He visto, y leyedo el Libro, que en lengua Zapoteca
+<lb/>
+  á compuesto M.P.R.M. Fr. Christoval de Aguero, Vica-
+<lb/>
+  rio de Theozapotlan, intitulado Miscelaneo Espiritual. Con el
+<lb/>
+  Autor se trai configo esta obra la Aprobacion; por ser tan conoci-
+<lb/>
+  das sus muchas letras, y virtud, y la erudicion singular en la lengua
+<lb/>
+  Zapoteca; á quien por Maestro de los que la professan puede dezir
+<lb/>
+  cada qual de los Minifstros de esta Nacion, lo que San Gregorio Na-
+<lb/>
+  zianzeno, al gran Basilio. Ego te, &amp; praceptorem vita, &amp; dogmatum
+<lb/>
+  Doctorem astimaui. La doctrina que contiene este Libro, es santa,
+<lb/>
+  muy espiritual, y provechosa, no ay nada en él, quecontradiga á la
+<lb/>
+  verdad, y buenas costumbres de lo que ense ña nuestra santa Fee Ca-
+<lb/>
+  tholica, antes es muy conforme á ella, y que ser á de muy granfruto,
+<lb/>
+  que se comunique á todos los Ministros, y Naturales de la Nacion
+<lb/>
+  Zapoteca, en que hallar án los unos mucha copia para predicar, y
+<lb/>
+  explicar á los Indios, en la lengua, con mucha propriedad, y elegan-
+<lb/>
+  cia, los misterios principales de nuestra santa Fee Catholica, y los
+<lb/>
+  otros muy gran consuelo para servir á Dios en la Fee que professan.
+<lb/>
+  Y alli juzgo, que no solamente se le podr á dar la licencia, que pide,
+<lb/>
+  sino mandar U. Se ñoria, que falga á luz con la mayor brevedad que
+<lb/>
+  fuere posible. Fecha en este Convento de N.P. Santo Domingo So-
+<lb/>
+  riano, 5. de Julio de 1666. a ñ os.
+</div>
+Fr. Manuel Bayz,
+<lb/>
+M. y Prior.
   <pb n="18"/>
+  NOSD. Fray Thomas de Monterroso,
+<lb/>
+  Oblispo de la s.rglesia cathedral de esta Ciudad de Antequera
+<lb/>
+  Ualle de Oaxac, del Consejo de su Magestad &amp; c. Hauiendo
+<lb/>
+  visto la Aprobacion de el R.P.M. Fray Manuel Layz, Prior del Con-
+<lb/>
+  vento de Santo Domingo Soriano de esta Ciudad, en virtuad de remis-
+<lb/>
+  sion, que la hizimos de un Libro, que el R.P.M. Pray Christoualde
+<lb/>
+  Aguero, del Orden de Predicadores, y Uicario de la Casa de Theozapo-
+<lb/>
+  tlan, á compuesto, intitulado MISCELANEO ESPIRITUAL, en lengua
+<lb/>
+  Zapoteca, y que en su Aprobacion dize el dicho P. Prior, ser de mucha
+<lb/>
+  utilidad, y consuelo, assi á los Ministros como á los Naturales, y no
+<lb/>
+  tener cosa, que contradiga á la verdad, y buenas costumbres de lo que
+<lb/>
+  ense ña nuestra santa Fee Catholica. Por tanto por la presente damos,
+<lb/>
+  y concedemos al dicho R.P.M. Fray Christoualde Aguero (por lo que
+<lb/>
+  nos toca) licencia, para que pueda hazer imprimir, y imprima a el di-
+<lb/>
+  cho Libro. Y le encargamos, que el Vocabulario, que tiene fecho en di-
+<lb/>
+  cha lenguas Zapoteca, con las demas obras, que con zelo del seruicio
+<lb/>
+  de Dios N. Se ñor, y bien de las almas, tiene trabajadas las saque á luz
+<lb/>
+  con la brevedad que le fuere posible, para que su doctrina se comuni-
+<lb/>
+  que á todos, para utilidad comun, y mejor seruscio de N. Se ñor. Dada
+<lb/>
+  en nuestro Palacio Episcopal de Anteguera, en cinco dias del mes de
+<lb/>
+  Julio, de mil y sescientos y sesenta y seis años.
+</div>
+Fr. Thomas Obispo
+<lb/>
+de Oaxaca.
+</div>
+Por mandado del Obispo mi se ñor.
+<lb/>
+B.D. Pedro de Torres Cortes
+<lb/>
+Secretario. <!--should these be in heading letters?-->
   <pb n="19"/>
   <pb n="20"/>
   <pb n="21"/>
