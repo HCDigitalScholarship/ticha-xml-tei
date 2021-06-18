@@ -360,34 +360,36 @@
 <<<<<<< HEAD
 
 =======
-  tisima, y Milagros generosamente obrados por esta gran señora, que
+  <choice><orig>tiſima</orig><reg type="spanish">tisima</reg></choice>, y Milagros <choice><orig>generoſamente</orig><reg type="spanish">generosamente</reg></choice> obrados por <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice> gran Señora, que
   <lb/>
-  son los manojos del ministerio santo. Y así traslado la letra de Nico-
+  <choice><orig>ſon</orig><reg type="spanish">son</reg></choice> los manojos del <choice><orig>miniſterio</orig><reg type="spanish">ministerio</reg></choice> <choice><orig>ſanto</orig><reg type="spanish">santo</reg></choice>. Y <choice><orig>aſsi</orig><reg type="spanish">así</reg></choice> traslado la letra de Nico-
   <lb/>
-  lao de Lyra. Per manipulos massa ministerij<!--Latin-->. Para que se tenga atecion<!--something on the e...-->
+  lao de Lyra. <foreign xml:lang="lat">Per manipulos <choice><orig>vaſſa</orig><reg type="spanish">vasa</reg></choice> <choice><orig>miniſterij</orig><reg type="spanish">ministerij</reg></choice>/<foreign>. Para que <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> tenga atecion<!--something on the e...-->
   <lb/>
   al provecho de los Naturales con mayor noticia de terminos tan claros
   <lb/>
-  con que explica el Autor misterios tan soberanos, cominando con su
+  con que explica el Autor <choice><orig>miſterios</orig><reg type="spanish">misterios</reg></choice> tan <choice><orig>ſoberanos</orig><reg type="spanish">soberanos</reg></choice>, cominando con <choice><orig>ſu</orig><reg type="spanish">su</reg></choice>
   <lb/>
-  elegancia al gusto, con su claridad al entendimiento; y así serà de eru-
+  elegancia al <choice><orig>guſto</orig><reg type="spanish">gusto</reg></choice>, con su claridad al entendimiento; y aſsi serà de eru-
   <lb/>
-  dicion grande a los ministros Evangelicos professores de este Idioma
+  dicion grande a los <choice><orig>Miniſtros</orig><reg type="spanish">Ministros</reg></choice> Evangelicos <choice><orig>profeſſores</orig><reg type="spanish">professores</reg></choice> de <choice><orig>eſte</orig><reg type="spanish">eſte</reg></choice> Idioma
   <lb/>
-  en la capacidad beberan como en christales, la doctrina clara, la ense-
+  Zapoteco, y à los Naturales de quienes es natiuo, pues como cortos <choice><orig>eſtos</orig><reg type="spanish">estos</reg></choice>
   <lb/>
-  ñanza pura, la erudicion flamante. Por lo cual, no solo deben grati-
+  en la capacidad beberan como en <choice><orig>chriſtales</orig><reg type="spanish">christales</reg></choice>, la doctrina clara, la <choice><orig>enſe</orig><reg type="spanish">ense</reg></choice>-
   <lb/>
-  tudes al Autoe, que lograrà en en la mejor, y mas segura Patria; mas aun
+  ñanza pura, la erudicion flamante. Por lo cual, no ſolo ſe deben grati-
   <lb/>
-  se le auia de mandar diese luego a la estampa tan insigne obra, digna
+  tudes al Autoe, que lograrà en en la mejor, y mas <choice><orig>ſegura</orig><reg type="spanish">segura</reg></choice> Patria; mas aun
   <lb/>
-  de eterna memoria. Así lo siento. Dada en culpa, a 2. de Jumio de
+  <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> le auia de mandar <choice><orig>dieſſe</orig><reg type="spanish">diese</reg></choice> luego a la <choice><orig>eſtampa</orig><reg type="spanish">estampa</reg></choice> tan <choice><orig>inſigne</orig><reg type="spanish">insigne</reg></choice> obra, digna
+  <lb/>
+  de eterna memoria. <choice><orig>Aſsi</orig><reg type="spanish">Así</reg></choice> lo siento. Dada en culpa, à 2. <!--does this need to be normalized to something?-->de Jumio de
   <lb/>
   1066 años.
 </div>
-<head> Fr. Alonfo de Medrano. <head>
-  <!---this person trasncribed some things into modern spanish so we have to change those for normalization-->
+<head> Fr. <choice><orig>Alonſo</orig><reg type="spanish">Alonso</reg></choice> de Medrano. <head>
+  <!---this person transcribed some things into modern spanish so we have to change those for normalization-->
   <!--there are also things writte on this page, but they are hard to read-->
   <fw type="catchword" place="bottom-right">APRO--</fw>
 >>>>>>> e0ab0dfae01ab0238735709fe426170b9a7e5163
@@ -461,130 +463,130 @@
     <lb/>
     De el P. FRAY JOSEPH DE LOS Angeles,
     <lb/>
-    Predicador, y Profeffor de la lengua
+    Predicador, y Profeſſor de la lengua
     <lb/>
-    Zapoteca, difcipulo de el Autor.<head>
+    Zapoteca, diſcipulo de el Autor.<head>
   </div>
-  NO puede fer mayor el aprieto, en que me ha puefto de mi Supe-
+  NO puede <choice><orig>ſer</orig><reg type="spanish">ser</reg></choice> mayor el aprieto, en que me ha <choice><orig>pueſto</orig><reg type="spanish">puesto</reg></choice> de mi Supe-
 <lb/>
   rior el mandato, ni con él pude huir el empeño, de executarlo,
 <lb/>
   ni la obediencia me permitiera evadirlo. Fiar de mi voluntad
 <lb/>
-  la cenfura,no admitiera; dexarlo al apremio de la obediencia,
+  la <choice><orig>cenſura</orig><reg type="spanish">censura</reg></choice>,no admitiera; dexarlo<!--normalize to dejarlo?--> al apremio de la obediencia,
 <lb/>
-  fue neceſſario, para que acceptara; y aſſi obedecí, por compelerme la obe-
+  fue <choice><orig>neceſſario</orig><reg type="spanish">necessario</reg></choice>, para que acceptara; y <choice><orig>aſſi</orig><reg type="spanish">así</reg></choice> obedecí, por compelerme la obe-
 <lb/>
   diencia á aceptar. No porque en materia tan grande pueda imaginarme
 <lb/>
-  mas, quando como diſcipulo de el Autor, ſiempre me confieffo por el me-
+  mas, quando como <choice><orig>diſcipulo</orig><reg type="spanish">discipulo</reg></choice> de el Autor, <choice><orig>ſiempre</orig><reg type="spanish">siempre</reg></choice> me <choice><orig>confieſſo</orig><reg type="spanish">confiesso</reg></choice> por el me-
 <lb/>
-  nor, y que no puedo fer algo , quando en los meritos no he falido de la na-
+  nor, y que no puedo <choice><orig>ſer</orig><reg type="spanish">ser</reg></choice> algo, quando en los meritos no he <choice><orig>ſalido</orig><reg type="spanish">salido</reg></choice> de la na-
 <lb/>
-  da. Mal podre difcipulo atreverme á cenſurar, obras de mi Maeſtro,ni dar
+  da. Mal podre <choice><orig>diſcipulo</orig><reg type="spanish">discipulo</reg></choice> atreverme á cenſurar, obras de mi <choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice>,ni dar
 <lb/>
-  cenſura â ſus eſcritos, ſi con apremio,no me obligara el mandato de el Pre-
+  cenſura â <choice><orig>ſus</orig><reg type="spanish">sus</reg></choice> <choice><orig>eſcritos</orig><reg type="spanish">escritos</reg></choice>, <choice><orig>ſi</orig><reg type="spanish">si</reg></choice> con apremio,no me obligara el mandato de el Pre-
 <lb/>
-  lado ; y por fuerza no me oprimiera, la obediencia forçofa de ſubdito? Em-
+  lado; y por fuerza no me oprimiera, la obediencia forçofa de <choice><orig>ſubdito</orig><reg type="spanish">subdito</reg></choice>? Em-
 <lb/>
-  pero difpoficion parece bien acordada , y acuerdo mas que diſcreto de el
+  pero <choice><orig>diſpoſicion</orig><reg type="spanish">disposicion</reg></choice> parece bien acordada, y acuerdo mas que <choice><orig>diſcreto</orig><reg type="spanish">discreto</reg></choice> de el
 <lb/>
-  Superior , que obediente mas que entendido ( entre tantos que en efte
+  Superior, que obediente mas que entendido (entre tantos que en <choice><orig>efte</orig><reg type="spanish">este</reg></choice>
 <lb/>
-  Emporio de letras ſobran ) fueffe el que eſte Libro aprobaffe. Y es, que co-
+  Emporio de letras <choice><orig>ſobran</orig><reg type="spanish">sobran</reg></choice>) <choice><orig>fueſſe</orig><reg type="spanish">fuesse</reg></choice> el que <choice><orig>eſte</orig><reg type="spanish">este</reg></choice> Libro <choice><orig>aprobaffe</orig><reg type="spanish">aprobasse</reg></choice>. Y es, que co-
 <lb/>
-  mo la obediencia es ciega. Ciego quiere que fea el que obedece. Y aſſi me
+  mo la obediencia es ciega. Ciego quiere que <choice><orig>fea</orig><reg type="spanish">sea</reg></choice> el que obedece. Y <choice><orig>aſſi</orig><reg type="spanish">así</reg></choice> me
 <lb/>
-  mandó aprobar. Que obras de vn Autor tan conocido por Sabio,y can ca-
+  mandó aprobar. Que obras de <choice><orig>vn</orig><reg type="spanish">un</reg></choice> Autor tan conocido por Sabio,y can ca-
 <lb/>
-  lificado de Docto , traen configo la Aprobación ; y eſtân calificadas ſola-
+  lificado de Docto, traen configo la Aprobación; y <choice><orig>eſtân</orig><reg type="spanish">estân</reg></choice> calificadas ſola-
 <lb/>
-  mente con fer viſtas. Parece que mirava eſtas San Ambrofioi, en aquellas
+  mente con fer <choice><orig>viſtas</orig><reg type="spanish">vistas</reg></choice>. Parece que mirava <choice><orig>eſtas</orig><reg type="spanish">estas</reg></choice> San Ambrofioi, en aquellas
 <lb/>
-  que la Sabiduría de Dios , le recreaba por buenas , quando dixo de la luz;
+  que la Sabiduría de Dios, le recreaba por buenas, quando <choice><orig>dixo</orig><reg type="spanish">dijo</reg></choice> de la luz;
 <lb/>
-  que aviendola viſto Dios , le diò à ſus lucimientos calificación de buena.
+  que aviendola <choice><orig>viſto</orig><reg type="spanish">visto</reg></choice> Dios, le diò à <choice><orig>ſus</orig><reg type="spanish">sus</reg></choice> lucimientos calificación de buena.
 <lb/>
-  Vidit Deus Lucem quod e flet bona. Aqui el Milanes Doctor, con ſus palabras, à Genef. rl
+  <foreign xml:lang="lat">Vidit Deus Lucem quod eſſet<!--not sure of the transcription...--> bona</<foreign>. Aqui el Milanes Doctor, con <choice><orig>ſus</orig><reg type="spanish">sus</reg></choice> palabras, à Genef. rl
 <lb/>
-  las obras de el Autor tan nacidas , que ellas ſe vienen aplicadas. Bonerum Ambr. lib.
+  las obras de el Autor tan nacidas, que ellas <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> vienen aplicadas. <foreign xml:lang="lat">Bonerum Ambr. lib.
 <lb/>
-  operum proprium eft, vt externo commendatore non egeant. Las obras,que de fuyo 1. Exam. c.
+  operum proprium <choice><orig>eſt</orig><reg type="spanish">est</reg></choice>, vt externo commendatore non egeant</foreign>. Las obras, que de fuyo 1. Exam. c.
 <lb/>
-  fon buenas, como la luz,y ſon luzes,que hermofamente refplandecen, y fin 9.
+  <choice><orig>fon</orig><reg type="spanish">son</reg></choice> buenas, como la luz,y ſon luzes, que <choice><orig>hermoſamente</orig><reg type="spanish">hermosamente</reg></choice> <choice><orig>reſplandecen</orig><reg type="spanish">resplandecen</reg></choice>, y fin 9.
 <lb/>
-  defecto perfectamente ſe luzen,no neceſitan de examinador, q̃ las aprue-
+  defecto perfectamente <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> luzen, no <choice><orig>neceſitan</orig><reg type="spanish">necesitan</reg></choice> de examinador, q̃ ,<!--que?-->las aprue-
 <lb/>
-  be, de cenfurador, que las examine, ni calificador , que las abone : externo
+  be, de <choice><orig>cenſurador</orig><reg type="spanish">censurador</reg></choice>, que las examine, ni calificador, que las abone: <foreign xml:lang="lat">externo
 <lb/>
-  comme ndatore non egeant. Ellas tienen efta excelẽcia , en la bondad que go-
+  comme ndatore non egeant/<foreign>. Ellas tienen <choice><orig>efta</orig><reg type="spanish">esta</reg></choice> excelẽcia, en la bondad que go-
 <lb/>
-  zan, que traen configo la aprobación,que las califica,en la pureza con que
+  zan, que traen configo la aprobación,que las califica, en la pureza con que
 <lb/>
-  luzen,la calificación que las aprueba ; y en la perfección con que refplan-
+  luzen,la calificación que las aprueba; y en la perfección con que <choice><orig>reſplan</orig><reg type="spanish">reſplan</reg></choice>-
 <lb/>
-  decen, la recomendacion, que las abona. Son como la luz,que en fi mifma
+  decen, la recomendacion, que las abona. Son como la luz, que en <choice><orig>ſi</orig><reg type="spanish">si</reg></choice> <choice><orig>miſma</orig><reg type="spanish">misma</reg></choice>
 <lb/>
-  eftâ dando teftimonio de fu bondad , fin que para fu calificación , necefite
+  <choice><orig>eſtâ</orig><reg type="spanish">eſta</reg></choice> dando teftimonio de <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> bondad, fin que para <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> calificación, <choice><orig>neceſite</orig><reg type="spanish">necesite</reg></choice>
 <lb/>
   <fw type="catchword" place="bottom-right">de--</fw>
   <!--there is a paragraph symbol here too-->
   <pb n="15"/>
-  Idem.Ibid. de ajeno teftimonio. Añade Ambrofio : Suo enim vtitur teftimonio, non alieno
+  Idem.Ibid. de ajeno <choice><orig>teſtimonio</orig><reg type="spanish">testimonio</reg></choice>. Añade Ambroſio: <foreign xml:lang="lat">Suo enim vtitur teſtimonio, non alieno
 <lb/>
-  fuffragio. Las obras de efte Libro, que fon luzes para la enfeñança , fon tan
+  <choice><orig>ſuſſragio</orig><reg type="spanish">suſſragio</reg></choice></foreign>. Las obras de <choice><orig>eſte</orig><reg type="spanish">este</reg></choice> Libro, que <choice><orig>ſon</orig><reg type="spanish">ſon</reg></choice> luzes para la <choice><orig>enſeñança</orig><reg type="spanish">enseñança</reg></choice>, <choice><orig>ſon</orig><reg type="spanish">son</reg></choice> tan
 <lb/>
-  buenas , que por fi mefmas eftàn aprobadas , y fe traen la aprobación , que
+  buenas, que por <choice><orig>ſi</orig><reg type="spanish">si</reg></choice> <choice><orig>meſmas</orig><reg type="spanish">mesmas</reg></choice> <choice><orig>eſtàn</orig><reg type="spanish">estàn</reg></choice> aprobadas, y <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> traen la aprobación, que
 <lb/>
-  las califica, en la bondad con que refplandecen , fin que necefiten de exa-
+  las califica, en la bondad con que <choice><orig>reſplandecen</orig><reg type="spanish">resplandecen</reg></choice>, <choice><orig>ſin</orig><reg type="spanish">sin</reg></choice> que <choice><orig>neceſiten</orig><reg type="spanish">necesiten</reg></choice> de exa-
 <lb/>
-  men que las apruebe, ni cenfura que las califique : externo !commendatore non
+  men que las apruebe, ni <choice><orig>cenſura</orig><reg type="spanish">censura</reg></choice> que las califique: <foreign xml:lang="lat">externo !commendatore non
 <lb/>
-  egent. Y todo el Libro es vna luz,que eftà dando baftante teftimonio de fu
+  egent./<foreign> Y todo el Libro es vna luz, que <choice><orig>eſtà</orig><reg type="spanish">esta</reg></choice> dando <choice><orig>baſtante</orig><reg type="spanish">bastante</reg></choice> <choice><orig>teſtimonio</orig><reg type="spanish">testimonio</reg></choice> de <choice><orig>ſu</orig><reg type="spanish">su</reg></choice>
 <lb/>
-  bondad, fin que fea neceffario otro teftimonio para fu calificacion. Suo enim
+  bondad, <choice><orig>ſin</orig><reg type="spanish">sin</reg></choice> que <choice><orig>ſea</orig><reg type="spanish">sea</reg></choice> <choice><orig>neceſſario</orig><reg type="spanish">necessario</reg></choice> otro <choice><orig>teſtimonio</orig><reg type="spanish">testimonio</reg></choice> para <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> calificacion. <foreign xml:lang="lat"<Suo enim
 <lb/>
-  vtitur teftimonio, non alieno fuffragio. Y fiendo luz de tan fubidos creditos de
+  vtitur <choice><orig>teſtimonio</orig><reg type="spanish">testimonio</reg></choice>, non alieno <choice><orig>ſuffragio</orig><reg type="spanish">suffragio</reg></choice>/<foreign>. Y <choice><orig>ſiendo</orig><reg type="spanish">siendo</reg></choice> luz de tan <choice><orig>ſubidos</orig><reg type="spanish">subidos</reg></choice> creditos de
 <lb/>
-  buena, y aplaufos de calificada, que no admite ni aun atomos de imperfec-
+  buena, y <choice><orig>aplauſos</orig><reg type="spanish">aplausos</reg></choice> de calificada, que no admite ni aun atomos de imperfec-
 <lb/>
-  cion; como permitirá defectos de la cenfura? Bafta decir cuyas fon , pues
+  cion; como permitirá defectos de la <choice><orig>cenſura</orig><reg type="spanish">censura</reg></choice>? Bafta decir cuyas <choice><orig>ſon</orig><reg type="spanish">son</reg></choice>, pues
 <lb/>
-  fu Autor es tan conocido, que por fu credito fe vienen aprobadas ; y a ojos
+  <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> Autor es tan conocido, que por <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> credito <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> vienen aprobadas; y à ojos
 <lb/>
-  cerrados fe deben dar por buenas : razon tuvo el Superior de remitirme
+  cerrados <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> deben dar por buenas: razon tuvo el Superior de remitirme
 <lb/>
-  efte Libro , no porque conocieffe fuficiencia para la cenfura , ciega obe-
+  <choice><orig>eſte</orig><reg type="spanish">este</reg></choice> Libro, no porque <choice><orig>conocieſſe<!--?--></orig><reg type="spanish">conociesse</reg></choice> fuficiencia para la <choice><orig>cenſura</orig><reg type="spanish">censura</reg></choice>, ciega obe-
 <lb/>
-  diencia fi,para fu prueba; que es la obra toda luz , y quiere que los ciegos,
+  diencia <choice><orig>ſi</orig><reg type="spanish">si</reg></choice>, para <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> prueba; que es la obra toda luz, y quiere que los ciegos,
 <lb/>
-  como menefterofos,fe aprovechen,y á ojos cerrados la aprueben , y á cie-
+  como <choice><orig>meneſteroſos</orig><reg type="spanish">menesterosos</reg></choice>, <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> aprovechen,y á ojos cerrados la aprueben, y á cie-
 <lb/>
-  gas la califiquen; y tambien como difcipulo,que participé luzes de la doc-
+  gas la califiquen; y tambien como <choice><orig>diſcipulo</orig><reg type="spanish">discipulo</reg></choice>, que participé luzes de la doc-
 <lb/>
-  trina de tan gran Maeftro, y bebì atomos de la enfeñanza de tanto Sol. Y
+  trina de tan gran <choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice>, y bebì atomos de la <choice><orig>enſeñanza</orig><reg type="spanish">enseñanza</reg></choice> de tanto Sol. Y
 <lb/>
-  como fabe que fu enfeñança esfegura, y fu doctrina Catholica , y todas fus
+  como <choice><orig>ſabe</orig><reg type="spanish">sabe</reg></choice> que <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> <choice><orig>enſeñança</orig><reg type="spanish">enseñança</reg></choice> <choice><orig>esſegura</orig><reg type="spanish">essegura</reg></choice>, y <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> doctrina Catholica, y todas <choice><orig>ſus</orig><reg type="spanish">sus</reg></choice>
 <lb/>
-  obras buenas ,quiere que como difcipulo , y ciego , las dé por calificadas:
+  obras buenas, quiere que como diſcipulo, y ciego, las dé por calificadas:
 <lb/>
-  no por que eftas luzidas obras ,no pidan muchos ojos para ver , que fon
+  no por que <choice><orig>eſtas</orig><reg type="spanish">estas</reg></choice> luzidas obras, no pidan muchos ojos para ver, que <choice><orig>ſon</orig><reg type="spanish">son</reg></choice>
 <lb/>
-  para abrir ojos, y mirar; porque fon tales , que bafta verlas para aprobar-
+  para abrir ojos, y mirar; porque <choice><orig>ſon</orig><reg type="spanish">son</reg></choice> tales, que <choice><orig>baſta</orig><reg type="spanish">basta</reg></choice> verlas para aprobar-
 <lb/>
-  las,no verlas,para corregirlas,que obras que tienen tanto de bondad, que
+  las, no verlas, para corregirlas, que obras que tienen tanto de bondad, que
 <lb/>
-  no admiren notas de correccion. Son à todas luzes buenas , y a todo buen
+  no admiren notas de correccion. Son à todas luzes buenas, y a todo buen
 <lb/>
-  fentimiento calificadas. Efte es el mio, y que obras tan luzidas, fon dignas
+  <choice><orig>ſentimiento</orig><reg type="spanish">sentimiento</reg></choice> calificadas. <choice><orig>Eſte</orig><reg type="spanish">Este</reg></choice> es el mio, y que obras tan luzidas, <choice><orig>ſon</orig><reg type="spanish">son</reg></choice> dignas
 <lb/>
-  que luego fe den à la eftampa,porque fon luzes para los Minifros,vtilidad
+  que luego <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> den à la <choice><orig>eſtampa</orig><reg type="spanish">estampa</reg></choice>, porque ſon luzes para los <choice><orig>Miniſtros</orig><reg type="spanish">Ministros</reg></choice>, vtilidad
 <lb/>
-  de los Naturales,y extenfion de nueftra fanta Fè Catholica. Fecha en efte
+  de los Naturales,y <choice><orig>extenſion</orig><reg type="spanish">extension</reg></choice> de <choice><orig>nueſtra</orig><reg type="spanish">nuestra</reg></choice> <choice><orig>ſanta</orig><reg type="spanish">santa</reg></choice> Fè Catholica. Fecha en <choice><orig>eſte</orig><reg type="spanish">este</reg></choice>
 <lb/>
   Convento de N.P. Santo Domingo de Oaxac, 3. De Julio de 1666. años.
 </div>
-  <head>Fr. Iofeph de los Angeles.<head> <!--should this be a header or just a normal line of text?-->
+  <head>Fr. Ioſeph de los Angeles.<head> <!--should this be a header or just a normal line of text?-->
   <pb n="16"/>
   F. Manuel Hurtado, Prior Prov-
 <lb/>
