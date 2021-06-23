@@ -12,9 +12,8 @@
 	<pb n="4"/>
 	<pb n="5"/>
 	<pb n="6"/>
-  </div>
   <!--something?-->
-  <div xml:id="miscelaneo-aguero1">
+  <!-- <div xml:id="miscelaneo-aguero1"> -->
   <head> DEDICATORIA,
   <lb/>
   A la <choice><orig>ſiempre</orig><reg type="spanish">siempre</reg></choice> <choice><orig>Puriſſima</orig><reg type="spanish">Purísima</reg></choice> Virgen MARIA
@@ -26,10 +25,9 @@
   y reverente dedica el Autor
   <lb/>
   <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> obra.
-  <head>
-  </div>
+  </head>
   <!--come back to number of sections-->
-  <div xml:id="miscelaneo-aguero1.1.1">
+  <!-- <div xml:id="miscelaneo-aguero1.1.1"> -->
   <choice><orig>MVY</orig><reg type="spanish">MUY</reg></choice> ageno, <choice><orig>ſino</orig><reg type="spanish">sino</reg></choice> de <choice><orig>razon</orig><reg type="spanish">razón</reg></choice>, de advertencia
   <choice><orig>fi</orig><reg type="spanish">si</reg></choice>, <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> halla (ò <choice><orig>Princeſa</orig><reg type="spanish">Princesa</reg></choice>
   <lb/>
@@ -57,7 +55,7 @@
   combidar à <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> <choice><orig>ſombrio</orig><reg type="spanish">sombrio</reg></choice>, y frondolo albergue à los pequeños, y <choice><orig>deſvalidos</orig><reg type="spanish">desvalidos</reg></choice>,
   <lb/>
   les es nativa la debilidad, propria la mudan ça, genuina la cayda, hereda-
-  <lb>
+  <lb/>
   <fw type="catchword" place="bottom-right">da</fw>
   <lb/>
 
@@ -279,7 +277,7 @@
   <lb/>
   las <choice><orig>coſas</orig><reg type="spanish">cosas</reg></choice> de la Fee, y facilitarlos mas en la devocion de vueſtro <choice><orig>ſantiſſimo</orig><reg type="spanish">santísimo</reg></choice>
   <lb/>
-  Roſario, y modo para rezarle conforme al <choice><orig>vſo</orig><reg type="spanish">uso <!--not sure about this one...-->/reg></choice> con que le reza la <choice><orig>Ygleſia</orig><reg type="spanish">Iglesia</reg></choice>.
+  Roſario, y modo para rezarle conforme al <choice><orig>vſo</orig><reg type="spanish">uso <!--not sure about this one...--></reg></choice> con que le reza la <choice><orig>Ygleſia</orig><reg type="spanish">Iglesia</reg></choice>.
   <lb/>
   Muy <choice><orig>ſeguro</orig><reg type="spanish">seguro</reg></choice> os puedo, <choice><orig>ò</orig><reg type="spanish">o</reg></choice> Virgen <choice><orig>Mageſtuoſa</orig><reg type="spanish">Magestuosa</reg></choice>, y Divina, humilmente recon-
   <lb/>
@@ -312,18 +310,15 @@
   <lb/>
   y à la de <choice><orig>vueſtra</orig><reg type="spanish">vuestra</reg></choice> Hijo <choice><orig>JESVS</orig><reg type="spanish">JESÚS</reg></choice>.
   <lb/>
-  </div>
   <!---something here?-->
   <choice><orig>Vueſtro</orig><reg type="spanish">Vuestro</reg></choice> indigno <choice><orig>ſiervo</orig><reg type="spanish">siervo</reg></choice>, <choice><orig>poſtrado</orig><reg type="spanish">postrado</reg></choice> à
   <choice><orig>vueſtras</orig><reg type="spanish">vuestras</reg></choice> virginales plantas.
-  </div>
-  <!---I think you can just write "div" on its own-->
   Fr. Chriſtoual de Aguero.
   <lb/>
   <pb n="10"/>
-  <div xml:id="miscelaneo-aguero1.1.2">
+  <!-- <div xml:id="miscelaneo-aguero1.1.2"> -->
   <!--how to label?-->
-  <head type="outline">APROBACION<head>
+  <head type="outline">APROBACION</head>
   <head>APROBACION
     <lb/>
     De el P. Presemtado Fray Alfono Medrano,
@@ -331,8 +326,7 @@
     Predicador General, y Prior de la Villa de
     <lb/>
     Cuilapa.
-  <head>
-  </div>
+  </head>
   Por <choice><orig>Comiſsion</orig><reg type="spanish">Comission</reg></choice> de <choice><orig>Nueſtros</orig><reg type="spanish">Nuestros</reg></choice> Muy RR PP. Pronouncial, y
   <lb/>
   Difinidores, he leydo <choice><orig>eſte</orig><reg type="spanish">este</reg></choice> Libro, cuyo titulo es: MICELANEO ES-
@@ -389,15 +383,12 @@
   <fw type="catchword" place="bottom-right"><choice><orig>tissi<!--should this be "tisi"?--></orig><reg type="spanish">normalizedWord</reg></choice>--</fw>
 <!--this transcription doesn't the original spanish 's', so we need to replace that here so we can normalize-->
   <pb n="11"/>
-<<<<<<< HEAD
-
-=======
   <choice><orig>tiſima</orig><reg type="spanish">tisima</reg></choice>, y Milagros <choice><orig>generoſamente</orig><reg type="spanish">generosamente</reg></choice> obrados por <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice> gran Señora, que
   <lb/>
   <choice><orig>ſon</orig><reg type="spanish">son</reg></choice> los manojos del <choice><orig>miniſterio</orig><reg type="spanish">ministerio</reg></choice> <choice><orig>ſanto</orig><reg type="spanish">santo</reg></choice>. Y
   <choice><orig>aſsi</orig><reg type="spanish">así</reg></choice> traslado la letra de Nico-
   <lb/>
-  lao de Lyra. <foreign xml:lang="lat">Per manipulos <choice><orig>vaſſa</orig><reg type="spanish">vasa</reg></choice> <choice><orig>miniſterij</orig><reg type="spanish">ministerij</reg></choice>/<foreign>. Para que <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> tenga atecion<!--something on the e...-->
+  lao de Lyra. <foreign xml:lang="lat">Per manipulos <choice><orig>vaſſa</orig><reg type="latin">vasa</reg></choice> <choice><orig>miniſterij</orig><reg type="latin">ministerij</reg></choice></foreign>. Para que <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> tenga atecion<!--something on the e...-->
   <lb/>
   al provecho de los Naturales con mayor noticia de terminos tan claros
   <lb/>
@@ -421,19 +412,17 @@
   de eterna memoria. <choice><orig>Aſsi</orig><reg type="spanish">Así</reg></choice> lo siento. Dada en culpa, à 2. <!--does this need to be normalized to something?-->de Jumio de
   <lb/>
   1066 años.
-</div>
-<head> Fr. <choice><orig>Alonſo</orig><reg type="spanish">Alonso</reg></choice> de Medrano. <head>
+<head> Fr. <choice><orig>Alonſo</orig><reg type="spanish">Alonso</reg></choice> de Medrano.</head>
   <!---this person transcribed some things into modern spanish so we have to change those for normalization-->
   <!--there are also things writte on this page, but they are hard to read-->
   <fw type="catchword" place="bottom-right">APRO--</fw>
->>>>>>> e0ab0dfae01ab0238735709fe426170b9a7e5163
   <pb n="12"/>
-  <head type="outline">APROBACION<head>
+  <head type="outline">APROBACION</head>
   <head>APROBACION
     <lb/> Del P. Fr. Ivan De Robles, Predicador
     <lb/>
-     General, y Vicario de Tlacuchahuaya.<head>
-   </div>
+     General, y Vicario de Tlacuchahuaya.
+  </head>
    Obediente al mandato de N. M. R. P. Fr. <choice><orig>Manvel</orig><reg type="spanish">Manuel</reg></choice>
 <lb/>
    Hurtado aparior Provincial de esta provincia de S. Hipo-
@@ -490,19 +479,18 @@
 <lb/>
    &amp;c.
 <lb/>
-  <head>Fr. <choice><orig>Iuan</orig><reg type="spanish">Juan</reg></choice> de Robles<head>
+  <head>Fr. <choice><orig>Iuan</orig><reg type="spanish">Juan</reg></choice> de Robles</head>
   <pb n="13"/>
   <!--No transcription here yet-->
   <pb n="14"/>
-  <head type="outline">APROBACION<head>
+  <head type="outline">APROBACION</head>
   <head>APROBACION
     <lb/>
     De el P. FRAY JOSEPH DE LOS Angeles,
     <lb/>
     Predicador, y Profeſſor de la lengua
     <lb/>
-    Zapoteca, diſcipulo de el Autor.<head>
-  </div>
+    Zapoteca, diſcipulo de el Autor.</head>
   NO puede <choice><orig>ſer</orig><reg type="spanish">ser</reg></choice> mayor el aprieto, en que me ha <choice><orig>pueſto</orig><reg type="spanish">puesto</reg></choice> de mi Supe-
 <lb/>
   rior el mandato, ni con él pude huir el empeño, de executarlo,
@@ -543,7 +531,7 @@
 <lb/>
   que aviendola <choice><orig>viſto</orig><reg type="spanish">visto</reg></choice> Dios, le diò à <choice><orig>ſus</orig><reg type="spanish">sus</reg></choice> lucimientos calificación de buena.
 <lb/>
-  <foreign xml:lang="lat">Vidit Deus Lucem quod eſſet<!--not sure of the transcription...--> bona</<foreign>. Aqui el Milanes Doctor, con <choice><orig>ſus</orig><reg type="spanish">sus</reg></choice> palabras, à Genef. rl
+  <foreign xml:lang="lat">Vidit Deus Lucem quod eſſet<!--not sure of the transcription...--> bona</foreign>. Aqui el Milanes Doctor, con <choice><orig>ſus</orig><reg type="spanish">sus</reg></choice> palabras, à Genef. rl
 <lb/>
   las obras de el Autor tan nacidas, que ellas <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> vienen aplicadas. <foreign xml:lang="lat">Bonerum Ambr. lib.
 <lb/>
@@ -555,7 +543,7 @@
 <lb/>
   be, de <choice><orig>cenſurador</orig><reg type="spanish">censurador</reg></choice>, que las examine, ni calificador, que las abone: <foreign xml:lang="lat">externo
 <lb/>
-  comme ndatore non egeant/<foreign>. Ellas tienen <choice><orig>efta</orig><reg type="spanish">esta</reg></choice> excelẽcia, en la bondad que go-
+  comme ndatore non egeant</foreign>. Ellas tienen <choice><orig>efta</orig><reg type="spanish">esta</reg></choice> excelẽcia, en la bondad que go-
 <lb/>
   zan, que traen configo la aprobación,que las califica, en la pureza con que
 <lb/>
@@ -580,12 +568,12 @@
 <lb/>
   men que las apruebe, ni <choice><orig>cenſura</orig><reg type="spanish">censura</reg></choice> que las califique: <foreign xml:lang="lat">externo !commendatore non
 <lb/>
-  egent./<foreign> Y todo el Libro es <choice><orig>vna</orig><reg type="spanish">una</reg></choice> luz, que <choice><orig>eſtà</orig><reg type="spanish">esta</reg></choice> dando <choice><orig>baſtante</orig><reg type="spanish">bastante</reg></choice> <choice><orig>teſtimonio</orig><reg type="spanish">testimonio</reg></choice> de <choice><orig>ſu</orig><reg type="spanish">su</reg></choice>
+  egent.</foreign> Y todo el Libro es <choice><orig>vna</orig><reg type="spanish">una</reg></choice> luz, que <choice><orig>eſtà</orig><reg type="spanish">esta</reg></choice> dando <choice><orig>baſtante</orig><reg type="spanish">bastante</reg></choice> <choice><orig>teſtimonio</orig><reg type="spanish">testimonio</reg></choice> de <choice><orig>ſu</orig><reg type="spanish">su</reg></choice>
 <lb/>
   bondad, <choice><orig>ſin</orig><reg type="spanish">sin</reg></choice> que <choice><orig>ſea</orig><reg type="spanish">sea</reg></choice> <choice><orig>neceſſario</orig><reg type="spanish">necessario</reg></choice> otro
-  <choice><orig>teſtimonio</orig><reg type="spanish">testimonio</reg></choice> para <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> calificacion. <foreign xml:lang="lat"<Suo enim
+  <choice><orig>teſtimonio</orig><reg type="spanish">testimonio</reg></choice> para <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> calificacion. <foreign xml:lang="lat">Suo enim
 <lb/>
-  vtitur <choice><orig>teſtimonio</orig><reg type="spanish">testimonio</reg></choice>, non alieno <choice><orig>ſuffragio</orig><reg type="spanish">suffragio</reg></choice>/<foreign>. Y <choice><orig>ſiendo</orig><reg type="spanish">siendo</reg></choice> luz de tan
+  vtitur <choice><orig>teſtimonio</orig><reg type="spanish">testimonio</reg></choice>, non alieno <choice><orig>ſuffragio</orig><reg type="spanish">suffragio</reg></choice></foreign>. Y <choice><orig>ſiendo</orig><reg type="spanish">siendo</reg></choice> luz de tan
   <choice><orig>ſubidos</orig><reg type="spanish">subidos</reg></choice> creditos de
 <lb/>
   buena, y <choice><orig>aplauſos</orig><reg type="spanish">aplausos</reg></choice> de calificada, que no admite ni aun atomos de imperfec-
@@ -627,8 +615,7 @@
   <choice><orig>eſte</orig><reg type="spanish">este</reg></choice>
 <lb/>
   Convento de N.P. Santo Domingo de Oaxac, 3. De Julio de 1666. años.
-</div>
-  <head>Fr. Ioſeph de los Angeles.<head> <!--should this be a header or just a normal line of text?-->
+  <head>Fr. Ioſeph de los Angeles.</head> <!--should this be a header or just a normal line of text?-->
   <pb n="16"/>
   F. Manuel Hurtado, Prior Prov-
 <lb/>
@@ -640,7 +627,7 @@
 <lb/>
   PP. Predicadores Generales, <choice><orig>â</orig><reg type="spanish">a</reg></choice> quienes cometi
 <lb/>
-  <choice><orig>vieſſen</orig><reg type="spanish">viessen</reg></choice> <choice><orig>eſte</orig><reg type="spanish"este</reg></choice> Libro de lengua Zapoteca, que com-
+  <choice><orig>vieſſen</orig><reg type="spanish">viessen</reg></choice> <choice><orig>eſte</orig><reg type="spanish">este</reg></choice> Libro de lengua Zapoteca, que com-
 <lb/>
   <choice><orig>puſo</orig><reg type="spanish">puso</reg></choice> el R.P. M. Fr. <choice><orig>Chriſtoual</orig><reg type="spanish">Christoual</reg></choice> de Aguero,
 <lb/>
@@ -660,28 +647,23 @@
 <lb/>
   4. dias del mes de <choice><orig>Iulio</orig><reg type="spanish">Julio</reg></choice> de 1666, años.
 <lb/>
-</div>
   Fr. Manuel Hurtado.
   <lb/>
   Provincial.
-</div>
 Por mandado de N.M.R.P. Provincial.
-</div>
 Fr. <choice><orig>Balthaſar</orig><reg type="spanish">Balthasar <!--is it Balthasar or Balthazar?--></reg></choice> Marquez
 <lb/>
 Predicador General, y Not. <choice><orig>Apoſt</orig><reg type="spanish">Apost</reg></choice>.
   <pb n="17"/>
-  <head type="outline">APROBACION<head>
-  <head>APROBACION
+  <head type="outline">APROBACION</head>
+  <head>APROBACION</head>
     <lb/>
     Del R.P.M. Fr. Manuel Bayz, Prior
     <lb/>
     del Convento de N.P.S. Domingo So-
     <lb/>
     riano de <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice> Ciudad de Oazac.
-  </div>
   Ill. mo Se ñor.
-</div>
   En conformidad de el madato, y <choice><orig>remiſion</orig><reg type="spanish">remision</reg></choice> de V. Se ñoria Illu-
 <lb/>
   <choice><orig>ſtriſſima</orig><reg type="spanish">strissima</reg></choice>. He <choice><orig>viſto</orig><reg type="spanish">visto</reg></choice>, y leyedo el Libro, que en lengua Zapoteca
@@ -701,7 +683,7 @@ Predicador General, y Not. <choice><orig>Apoſt</orig><reg type="spanish">Apost<
 <lb/>
   zianzeno, al gran <choice><orig>Baſilio</orig><reg type="spanish">Basilio</reg></choice>. <foreign xml:lang="lat"> Ego te, &amp; praceptorem vita, &amp; dogmatum
 <lb/>
-  Doctorem <choice><orig>aſtimaui</orig><reg type="spanish">astimaui</reg></choice>/<foreign>. La doctrina que contiene <choice><orig>eſte</orig><reg type="spanish">este</reg></choice> Libro, es <choice><orig>ſanta</orig><reg type="spanish">santa</reg></choice>,
+  Doctorem <choice><orig>aſtimaui</orig><reg type="spanish">astimaui</reg></choice></foreign>. La doctrina que contiene <choice><orig>eſte</orig><reg type="spanish">este</reg></choice> Libro, es <choice><orig>ſanta</orig><reg type="spanish">santa</reg></choice>,
 <lb/>
   muy <choice><orig>eſpiritual</orig><reg type="spanish">espiritual</reg></choice>, y <choice><orig>provechoſa</orig><reg type="spanish">provechosa</reg></choice>, no ay nada en él, quecontradiga á la
 <lb/>
@@ -726,7 +708,6 @@ Predicador General, y Not. <choice><orig>Apoſt</orig><reg type="spanish">Apost<
   fuere <choice><orig>poſible</orig><reg type="spanish">posible</reg></choice>. Fecha en <choice><orig>eſte</orig><reg type="spanish">este</reg></choice> Convento de N.P. Santo Domingo So-
 <lb/>
   riano, 5. de Julio de 1666. años.
-</div>
 Fr. Manuel Bayz,
 <lb/>
 M. y Prior.
@@ -773,11 +754,9 @@ M. y Prior.
 <lb/>
   <choice><orig>Iulio</orig><reg type="spanish">Julio</reg></choice>, de mil y <choice><orig>ſeſcientos</orig><reg type="spanish">sescientos</reg></choice> y <choice><orig>ſeſenta</orig><reg type="spanish">sesenta</reg></choice> y
   <choice><orig>ſeis</orig><reg type="spanish">seis</reg></choice> años.
-</div>
 Fr. Thomas <choice><orig>Obiſpo</orig><reg type="spanish">Obispo</reg></choice>
 <lb/>
 de Oaxaca.
-</div>
 Por mandado del <choice><orig>Obiſpo</orig><reg type="spanish">Obispo</reg></choice> mi <choice><orig>ſeñor</orig><reg type="spanish">señor <!--shoould this be capitalized?--></reg></choice>.
 <lb/>
 B.r D. Pedro de Torres Cortes
@@ -821,16 +800,14 @@ Secretario. <!--should these be in heading letters?-->
 <lb/>
   tos y <choice><orig>ſeſenta</orig><reg type="spanish">sesenta</reg></choice> y <choice><orig>ſeis</orig><reg type="spanish">seis</reg></choice> años.
   <!--there is a tiny marking above one of the letters that looks like an "or"-->
-</div>
 Doctor D. Nicolas del Puerto.
-</div>
 Por mandado del <choice><orig>señor</orig><reg type="spanish">normalizedWord</reg></choice> <choice><orig>Proviſor</orig><reg type="spanish">Provisor</reg></choice>.
 <lb/>
 Luis de Perea,
 <lb/>
 Not. <choice><orig>Apoſty</orig><reg type="spanish">Aposty</reg></choice> Publico.
   <pb n="20"/>
-  <head type="outline">D Ecreto del Ex mo Señor Marques de<head><!--how should this work?-->
+  <head type="outline">D Ecreto del Ex mo Señor Marques de</head><!--how should this work?-->
   <head>D Ecreto del Ex mo Señor Marques de
     <lb/>
     Manzeera, Virrey de <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice> Nueva <choice><orig>Eſpaña</orig><reg type="spanish">España</reg></choice>.
@@ -839,8 +816,8 @@ Not. <choice><orig>Apoſty</orig><reg type="spanish">Aposty</reg></choice> Publi
     <lb/>
     Al <choice><orig>ſeñor</orig><reg type="spanish">señor</reg></choice> Filcal
     <lb/>
-    Ex. Mo Señor.<head><!--Is there a way to center this on the page?-->
-  </div>
+    Ex. Mo Señor.
+  </head><!--Is there a way to center this on the page?-->
   El <choice><orig>Fiſcal</orig><reg type="spanish">Fiscal</reg></choice> de <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> <choice><orig>Mageſlad</orig><reg type="spanish">Mageslad</reg></choice>, á la
   <choice><orig>viſta</orig><reg type="spanish">vista</reg></choice> que se <!--"fe" with the old "s"--> le diô de eſte Memo-
 <lb/>
@@ -884,22 +861,19 @@ Not. <choice><orig>Apoſty</orig><reg type="spanish">Aposty</reg></choice> Publi
   déná la <choice><orig>prenſa</orig><reg type="spanish">prensa</reg></choice> en la for ma ordinaria. Mexico, y Septiembre 15. de
 <lb/>
   1666, años.
-  </div>
   Lic. Don Manuel de
 <lb/>
   <choice><orig>Eſcalente</orig><reg type="spanish">Escalente</reg></choice>, y Mendoza
 <lb/>
   <fw type="catchword" place="bottom-right">De--</fw>
   <pb n="21"/>
-  <head type="outline">Decreto de su Exa.<head><!--how should this work?-->
-  <head> Decreto de <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> Exa.
+  <head type="outline">Decreto de su Exa.</head><!--how should this work?-->
+  <head> Decreto de <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> Exa.</head>
   <lb/>
    Mexico 17. De Septiembre de 1666.
   <lb/>
    Al Doctor D. Miguel de Ybarra
- </div>
    Ex. mo Señor.
- </div>
   En virtud del Decreto de V.Ex a He
 <lb/>
   Reconocido el pedimiento del P. Fr.
@@ -921,14 +895,13 @@ Not. <choice><orig>Apoſty</orig><reg type="spanish">Aposty</reg></choice> Publi
   años
 <lb/>
    Doctor D. Miguel de Ybarra.
- </div>
    Decreto de <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> Exa.
    <lb/>
    Mexico 18. de Septiembre de 1666.
   <lb/>
    Con el parecer.
   <pb n="22"/>
-  <head type="outline">ALOSRR. PP. Miniſtros de<head><!--should I include the entire block of heding text here?-->
+  <head type="outline">ALOSRR. PP. Miniſtros de</head><!--should I include the entire block of heding text here?-->
   <head> ALOSRR. PP. Miniſtros de
     <lb/>
     lengua Zapoteca, de <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice> S. Provincia de
@@ -937,8 +910,7 @@ Not. <choice><orig>Apoſty</orig><reg type="spanish">Aposty</reg></choice> Publi
     <lb/>
     Explica el Autor <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> intento, y pide se admita
     <lb/>
-    <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> buen <choice><orig>deſeo</orig><reg type="spanish">deseo</reg></choice>, y voluntad.
-  </div>
+    <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> buen <choice><orig>deſeo</orig><reg type="spanish">deseo</reg></choice>, y voluntad.</head>
   No ignoro RR PP. Que La Acción De Dar
 <lb/>
   a la <choice><orig>eſtampa</orig><reg type="spanish">estampa</reg></choice> <choice><orig>eſte</orig><reg type="spanish">este</reg></choice> pequeño trabajo, que intitulo <choice><orig>Miſcelaneo</orig><reg type="spanish">Miscelaneo</reg></choice>
@@ -989,7 +961,7 @@ Not. <choice><orig>Apoſty</orig><reg type="spanish">Aposty</reg></choice> Publi
 <lb/>
   es querer echar velos a todo en Sol, y errar en camino abierto. <foreign xml:lang="lat">Velo Solem
 <lb/>
-  obducere/<foreign> (dize el adagio) <foreign xml:lang="lat"> &amp; toto coclo errare/<foreign>. Privilegio que por favor de el
+  obducere</foreign> (dize el adagio) <foreign xml:lang="lat"> &amp; toto coclo errare</foreign>. Privilegio que por favor de el
 <lb/>
   cielo ha gozado en todos tiempos <choice><orig>deſde</orig><reg type="spanish">desde</reg></choice> <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> primera fundación <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice>
   <choice><orig>ſanta</orig><reg type="spanish">santa</reg></choice>
@@ -1011,7 +983,7 @@ Not. <choice><orig>Apoſty</orig><reg type="spanish">Aposty</reg></choice> Publi
 <lb/>
   nen a <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> cargo el repartirles el pan regalado de ella: como de <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> hambre lo
 <lb/>
-  dixo Hieremias.<foreign xml:lang="lat">Paruuh petierunt panem, &amp; non erat qui frangerer eis/<foreign>. Y jun
+  dixo Hieremias.<foreign xml:lang="lat">Paruuh petierunt panem, &amp; non erat qui frangerer eis</foreign>. Y jun
 <lb/>
   -tamente <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> podían privar no <choice><orig>ſaliendo</orig><reg type="spanish">saliendo</reg></choice> á luz <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice> obra, de los frutos, gracias,
 <lb/>
@@ -1117,7 +1089,7 @@ Not. <choice><orig>Apoſty</orig><reg type="spanish">Aposty</reg></choice> Publi
 <lb/>
   los, en los que <choice><orig>eſtudian</orig><reg type="spanish">estudian</reg></choice>; que <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> puede dezir de ellos: <foreign xml:lang="lat">Que tot fenfus, quot
 <lb/>
-  capita./<foreign> A que <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> han juntado peticiones, y ruegos de los <choice><orig>miſmos</orig><reg type="spanish">mismos</reg></choice> Indios, en
+  capita.</foreign> A que <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> han juntado peticiones, y ruegos de los <choice><orig>miſmos</orig><reg type="spanish">mismos</reg></choice> Indios, en
 <lb/>
   orden à que les dé, o les permita hazer <choice><orig>traſlados</orig><reg type="spanish">traslados</reg></choice> de <choice><orig>eſtos</orig><reg type="spanish">estos</reg></choice> <choice><orig>Miſterios</orig><reg type="spanish">Misterios</reg></choice>, como
 <lb/>
@@ -1183,12 +1155,12 @@ Not. <choice><orig>Apoſty</orig><reg type="spanish">Aposty</reg></choice> Publi
   <pb n="27"/>
   <!--No transcription yet for this -> there are also some hand-writte parts...-->
   <pb n="28"/>
-  <head type="outline">Alaarij tôbiticha, nicolla-<head><!--should I include the entire block of heding text here?-->
+  <head type="outline">Alaarij tôbiticha, nicolla-</head>
+  <!--should I include the entire block of heding text here?-->
   <head> Alaarij tôbiticha, nicolla-
     <lb/> aba yôbibennizaa, ni ribaaqui côpabij-
     too, nipecaa yyeeni quijchi rijni looquiraani.
-    <head>
-    </div>
+  </head>
     QVIENNI lazito, tôbixtichaya lato rolloohuiicha cha-
 <lb/>
     huia benni zaa, ninoonaguellato Santa <choice><orig>Ygleſia</orig><reg type="spanish">Iglesia</reg></choice>, ni coro-
@@ -1219,7 +1191,7 @@ Not. <choice><orig>Apoſty</orig><reg type="spanish">Aposty</reg></choice> Publi
 <lb/>
     xiibaa nagaachi nallaanatete rinniio tonoo ticha Caftilla <foreign xml:lang="span">Los quin-
 <lb/>
-    zxe Miſterios del Santiſsimo Roſario/<foreign>. Ni zeelooticha ribiixi quela zaa.
+    zxe Miſterios del Santiſsimo Roſario</foreign>. Ni zeelooticha ribiixi quela zaa.
 <lb/>
     Xtennito rennaani. Xiibaa rolloohuini, rezeeni looni lootonoo, qui-
 <lb/>
@@ -1266,7 +1238,7 @@ Not. <choice><orig>Apoſty</orig><reg type="spanish">Aposty</reg></choice> Publi
 <lb/>
   yobini, <foreign xml:lang="span">Indulgencias del Santiſsimo Roſario, concedidas à ſus? Cofra-
 <lb/>
-  des, por los Summos Pontifices del la <choice><orig>Ygleſia</orig><reg type="spanish">Iglesia</reg></choice>/<foreign>. Nizeeloo Xtichato, ribiixi
+  des, por los Summos Pontifices del la <choice><orig>Ygleſia</orig><reg type="spanish">Iglesia</reg></choice></foreign>. Nizeeloo Xtichato, ribiixi
 <lb/>
   quelazaa Xtennito, rennaani quelahuechij, quelahuezaalachiroo,
 <lb/>
@@ -1377,7 +1349,7 @@ Not. <choice><orig>Apoſty</orig><reg type="spanish">Aposty</reg></choice> Publi
 <lb/>
   toobi looticha nachonno tete, ninaziilaa, looxticha tonoo benni
 <lb/>
-  <choice><orig>Caſtilla</orig><reg type="spanish">Castilla</reg></choice>. <foreign xml:lang="span">Cathezifmo de la Doctrina Chriſtianna/<foreign>. Nizeeloo Xtichato,
+  <choice><orig>Caſtilla</orig><reg type="spanish">Castilla</reg></choice>. <foreign xml:lang="span">Cathezifmo de la Doctrina Chriſtianna</foreign>. Nizeeloo Xtichato,
 <lb/>
   Ribiixi quela zaa Xtennito rennaani. Quela huezeete, quela huelle
 <lb/>
