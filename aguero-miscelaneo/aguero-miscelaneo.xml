@@ -2656,18 +2656,18 @@ A2
 <lb/>
 <fw type="catchword" place="bottom-right">looni-</fw>
 	<pb n="186"/>
-  <head type="outline"> En la lengua Zapoteca.             11<head><!--come back and do page numbers properly-->
-  <head> En la lengua Zapoteca.                  11<head>
+  <head type="outline"> En la lengua Zapoteca.<head><!--come back and do page numbers properly-->
+  <head> En la lengua Zapoteca.<head>
   <lb/>
   looni, quijaaquijebaala queete layoola, ni nenni loo ní aca
 <lb/>
-  nenni loo nacani.
+  nenni loo nacani. <note> * No ſe divide, <!--*?--> ni repar te, ni ſe participa <note>
 <lb/>
-  <choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Channahe: toochijzi nagaana naca ticha riini.
+  <choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Channahe: toochijzi nagaana <addition> [unclear text] <addition> naca ticha riini.
 <lb/>
   Xanacaxa rennaalo, yaca nariiti ziaani biitoo, ni tennni
 <lb/>
-  tenni naca xquela nacani. Hahuariixa chonnalii <choice><orig>Perſonas</orig><reg type="spanish">Personas</reg></choice>,
+  tenni naca xquela nacani. Hahuariixa <addition> hai [kai?] <addition> chonnalii <choice><orig>Perſonas</orig><reg type="spanish">Personas</reg></choice>,
 <lb/>
   loo yoobi Sancta Trinidad. Laa toobi toobi gaani biitoo Dios
 <lb/>
@@ -2683,9 +2683,10 @@ A2
 <lb/>
   llaa, laaxiyaa xiyaa, rigaaze, laa careeni, careeni riaa-
 <lb/>
-  ni loo quela raca, quela biitoo, quela gueezaguela xtennini,
+  ni loo quela raca, quela biitoo, quela gueezaguela <addition> [unclear text] <addition> xtennini,
 <lb/>
-  laa tichaquee, tebela cicarii niaacati, acalaala gaacatí. Nij-
+  laa tichaquee, tebela cicarii niaacati, acalaala gaacatí. Nij- <note> *Todo eſto quiere dezìr, q; no fuera pueſto en razon porq; fuera imperfeccion en
+  Dios, que huvieſe en vna perſona Divinaro ſaque ni vbieſſe ē orta. Lo qualſe ſi quiria, ſi fueran muchos Dioſes.<note>
 <lb/>
   axtenni loochicatini, zoaaca quicheela toobi quelabaa que-
 <lb/>
@@ -2707,7 +2708,7 @@ A2
 <lb/>
   nani.
 <lb/>
-  <choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Channa <choice><orig>Maeſtrohe</orig><reg type="spanish">Maestrohe</reg></choice>! Zelaazi huaxiia ticha na-
+  <choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Channa <choice><orig>Maeſtrohe</orig><reg type="spanish">Maestrohe</reg></choice>! Zelaazi <addition> un poco mas <addition> huaxiia ticha na-
 <lb/>
   alo, Xii nezaabina, quiennîna, Xí tichaxa cheeliipe lachi-
 <lb/>
@@ -2727,7 +2728,7 @@ A2
 <lb/>
   no riini, toobiliizi biitoo Dios quizaalacoca nacani. Cica loo
 <lb/>
-  xi anima ní nayoo, nayaazi lanni xpellalati benniaati, narii-
+  xi anima ní nayoo, <addition> [con?] <addition> nayaazi <addition> [inem?] <addition> lanni xpellalati benniaati, narii-
 <lb/>
   B2 <fw type="catchword" place="bottom-right">chonna-</fw>
 	<pb n="187"/>
@@ -5816,15 +5817,351 @@ A2
 <lb/>
     <fw type="catchword" place="bottom-right">raa</fw>
     <pb n="231"/>
+    <!--the bottom part of this transcription needs to be fixed on the website-->
+    laa quixijñe, laa nijtiloo pea caní, ni cocaayyelijo ani-
+<lb/>
+    ma benniati, zaa coxijhuini, zaayaaca coxijhuini, zaa zoo-
+<lb/>
+    baneeni quela gracia Dios, zaayaaca, zabeeca nijtilooni che-
+<lb/>
+    eni gabijlla nijaxtenni xquela huexijhuini,cooxe huaacaa,
+<lb/>
+    huanaaze cicapea caní lachitooni zayee xaacazij chijbaani
+<lb/>
+    lanni gabijlla, laa cheeni quijebaa tebeela catineeni quela
+<lb/>
+    gracia Dios, cooxe huacaaneeni pea cani, zayeezooni looni
+<lb/>
+    cachij catija.
+<lb/>
+    <choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Copallaxa naca yoobi Sacrameto narij lan-
+<lb/>
+    ni Sancta <choice><orig>Ygleſia</orig><reg type="spanish">Iglesia</reg></choice>?
+<lb/>
+    <choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice>. Cachetî naca, cotoobi naca, quela huerooba
+<lb/>
+    nizaquique patoo. Coroopa, quela huecaapea locaa pa-
+<lb/>
+    roo canì lachiñaa Cooquij Obispo Coyoona, yoobi Sacra-
+<lb/>
+    mento xpellalaani bijtoo <choice><orig>Jeſu</orig><reg type="spanish">Jesu</reg></choice> <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice>, chijbaloo becoogo.
+<lb/>
+    Cotaapa, quela huexooba tolla loo coopabijtoo, rennaani.
+<lb/>
+    Sacramento quela Pentiencia. Cooyo, quela ricapea benni
+<lb/>
+    guijcha, coxoopa, quela huenni <choice><orig>Miſſa</orig><reg type="spanish">Missa</reg></choice> quela Sacerdote, ni
+<lb/>
+    coote xillaa copabijtoo yoobi lachijñaa <choice><orig>Obiſpo</orig><reg type="spanish">Obispo</reg></choice>. Cooche,
+<lb/>
+    quela hueehaa gañaa, rennaani, Matrimonio.
+<lb/>
+    <head>
+<lb/>
+    Annaa zetanalla ticha nirollo-
+<lb/>
+    huini xquela nayaaloo Sacramento
+<lb/>
+    quela heurooba niza quique patoo.
+    <head>
+<lb/>
+    <choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Channa <choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice> nachonnohe, xij nacaxa,
+<lb/>
+    Sacramento queerennaani quela huerooba niza |qui-
+<lb/>
+    que patoo?
+<lb/>
+    <choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice>. Huanacalija,|Sacramento nachonno quee, to-
+<lb/>
+    obi quela coguijbi, quela huegaazeniza, ni raca nen-
+<lb/>
+    niloo loo quique benniaati, huachaaga ñeeni toopa chonna
+<lb/>
+    loo ticha nalaaya tete, ni riaaloo, nitillooxe chahui quitoo-
+<lb/>
+    bi Sacramento quee.
+<lb/>
+    <choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Connaxa niza naquijña, nijaxtenni gancanalij
+<lb/>
+    <fw type="catchword" place="bottom-right">que-</fw>
     <pb n="232"/>
+    <!--needs a transcription-->
     <pb n="233"/>
+    <!--needs a transcription-->
     <pb n="234"/>
+    <!--needs a transcription-->
     <pb n="235"/>
+    <!--needs a transcription-->
     <pb n="236"/>
+    <!--needs a transcription-->
     <pb n="237"/>
+    <!--this transcription needs to be corrected on the website-->
+    aquijzaaca xquela yyee <choice><orig>Chriſtiano</orig><reg type="spanish">Christiano</reg></choice>, cica coti huaa patoo y-
+<lb/>
+    yni nayoona tete, chii colle yobibiitoo lanni guechelayoo-
+<lb/>
+    riini, lachiñaa cooquii xtihui Herodes, zanniiti loo tollatiia
+<lb/>
+    canì, nachijba lanni anima xtennini, zayooni lanni quehui
+<lb/>
+    cachi quiiebaa, zaayaca corooba nizaquiqueni.
+<lb/>
+    <choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Channahe, copallaxa looquela hueroobani-
+<lb/>
+    za narii lanni Sancta <choice><orig>Ygleſia</orig><reg type="spanish">Iglesia</reg></choice>?
+<lb/>
+    <choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice>. Chonnaloo narii, cotoobilij raca loo yoobi
+<lb/>
+    pellalati xtenni benniaati, chii * rirooba nizaquique-
+<lb/>
+    ni, lanni Sancta <choice><orig>Ygleſia</orig><reg type="spanish">Iglesia</reg></choice>, laacani huenni loo raca cica ritoo-
+<lb/>
+    nana quixee quixee, Coroopa, raca loo yoobilijpe xi anima
+<lb/>
+    benniaati, chij * riaagoliica lachini, chii reyoona rellaaze
+<lb/>
+    xoo lachitooni, nijaxtenni pexiihuini loo Dios, chela loo-
+<lb/>
+    quela nachii lii lachi xtennini, ni nachiini, ni nohui teteloo
+<lb/>
+    lachini yoobi Dios, huarigoopea lachini quiraa xquela hue-
+<lb/>
+    xiihuini, chela huaricaabini loo quela rizaabiyanni lachi x-
+<lb/>
+    tennini, zooxooba liica xtollani, chela zazii xillaabaaneza-
+<lb/>
+    quiqueni, chii quicheela copabiitoo, laa zetoobila bennia-
+<lb/>
+    atilezaani, ni conniche xillaani yobini Sacramento nachon-
+<lb/>
+    noquee, * Coyoona naca yoobilij quela riini xi rinni ben-
+<lb/>
+    niaati chii raati huaaani, raati natiia teteni lachiñaa benni
+<lb/>
+    aguiizaaca xquela yee xi B. <choice><orig>Jeſu</orig><reg type="spanish">Jesu</reg></choice> <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice>, nijaxtenni quela
+<lb/>
+    rieelii lachi yobibiitoo, ni collaapi lachini, chela ni cocaabi
+<lb/>
+    ruani looni.
+<lb/>
+    <choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Channahe, xii quinniiona, huanaca Sacramē-
+<lb/>
+    to nalii quioona looquela huerooba niza cani, ni pezoo-
+<lb/>
+    leecalo annaa?
+<lb/>
+    <choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice>. Yaca xinni, toobizi quela huerooba nizaqui-
+<lb/>
+    que benniaati, ni raca quixee quixee lanni Sancta Ylge-
+<lb/>
+    <choice><orig>ſia</orig><reg type="spanish">sia</reg></choice>, nacaliica Sacramento nalii tete. Ciicani zetoopa loo, ci-
+<lb/>
+    caquee naziilaani, niiaxtenni laalaxa quela chiiña, laalaxa
+<lb/>
+    quela xillaabaaneza roo xquela gracia Dios, ni naquiiña
+<lb/>
+    quela huenniitiloo xtolla benniaati, ni ronni lii Sacramento
+<lb/>
+    quela hueroobaniza quiqueni, ronni gaazaaca zetoopa ni
+<lb/>
+    quee, loo ticharii naziilaani, quela huerooba nizalaatini nij-
+<lb/>
+    <fw type="catchword" place="bottom-right">ax-</fw>
     <pb n="238"/>
+    axtenni nacani Sacramento.
+  </div>
+    <head> Annaá zeetanalla xiticha Sa-
+      <lb/>
+      cramento, xquela huecaapea locuaa
+      <lb/>
+      patoo lachijñaa Cooquij <choice><orig>Obiſpo</orig><reg type="spanish">Obispo</reg></choice>. <head>
+    <choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Channa <choice><orig>Maeſtrohe</orig><reg type="spanish">Maestrohe</reg></choice>, xii nacaxa Sacramento
+<lb/>
+    que rennaani xquela huecaapea locaa patoo?
+<lb/>
+    <choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice>. Pijña xinni, huanacaliica Sacramento nachon-
+<lb/>
+    no quee, toobi quela cogaabi, quela cocaapea locuaa-
+<lb/>
+    patoo loo toochizi zaa, azeyte nallaayatete, rennaani, <!--G?--><choice><orig>Criſ</orig><reg type="spanish">Cris</reg></choice>-
+<lb/>
+    ma ni raca yoobi lachiñaa Cooquii <choice><orig>Obiſpo</orig><reg type="spanish">Obispo</reg></choice>, huañeeni, lo toobi loo,
+<lb/>
+    toobi cuee ticha nayoona tete ni richiiba rua yaa-
+<lb/>
+    nini, chii rigaabani, chii rocaa peaní locua patoo caní.
+<lb/>
+    <choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. * Connaxa xiyaa xquela huenni ñaa B. Dios,
+<lb/>
+    ni noo lanni guechelayoo riini, ni quigaa, ni quiquiiñe
+<lb/>
+    quela raca, quela riaaloo chaahui Sacramento riini?
+<lb/>
+    <choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice>. Hualiica yobi zaa azeyteni richooni, ni ri-
+<lb/>
+    riie loo yaga, rennaa benni <choice><orig>Caſtilla</orig><reg type="spanish">Castilla</reg></choice> Oliva, ni noocha,
+<lb/>
+    nanaaze ñeeni toobi loo yaala, cica naca yaala biitoo, ni na-
+<lb/>
+    xitete rillaani, rinniio tonoo, ticha <choice><orig>Caſtilla</orig><reg type="spanish">Castilla</reg></choice> <choice><orig>Balſamo</orig><reg type="spanish">Balsamo</reg></choice>. Loo
+<lb/>
+    quiropa loo xiyaarii guechelayoo, ni penni laaya yoobi
+<lb/>
+    Cooquii <choice><orig>Obiſpo</orig><reg type="spanish">Obispo</reg></choice>, raca quela rigaabi quela huecaapea lii, ni
+<lb/>
+    rocaa Cooquii <choice><orig>Obiſpo</orig><reg type="spanish">Obispo</reg></choice> loo locuaapatoo, chiiquee ronnini,
+<lb/>
+    rozeñaani toobi bennaabi Cruz. Chela rinniini toopa, chon-
+<lb/>
+    na loo ticha nayoona xtenni bijto <choice><orig>Jeſu</orig><reg type="spanish">Jesu</reg></choice> <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice>.
+<lb/>
+    <choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Connaxa nacaloo ticha nayoona, ni rinnij
+<lb/>
+    Cooquij <choice><orig>Obiſpo</orig><reg type="spanish">Obispo</reg></choice>, chij rocaapeani locua patoo?
+<lb/>
+    <choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice>. Cicarij naca ticha nallaayaquee, naa rocaa
+<lb/>
+    peaya locuaa xtennilo loo bennabi Cruz, Chela roo-
+<lb/>
+    tijpa rooguijoya lachitoolo, loo quela hueecaapea zaa na-
+<lb/>
+    yoona rijni, nooñeeni xquela coxaaca bijtoo, loo laa Dios
+<lb/>
+    <fw type="catchword" place="bottom-right">Bixoo-</fw>
     <pb n="239"/>
+    Bixoozela Dios xinnila Dios <choice><orig>Eſpiritu</orig><reg type="spanish">Espiritu</reg></choice> Sanctola, caca cica cica.
+<lb/>
+    <choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Tu naca xi hue, xi huenniche xillaa Sacramen-
+<lb/>
+    torij, tu naca xi huennini?
+<lb/>
+    <choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice>. Yoobilij Cooquij <choice><orig>Obiſpo</orig><reg type="spanish">Obispo</reg></choice>, chela tebela naapea ci-
+<lb/>
+    ca yoobi Cooquij Sancto Padre, ni racalooni quitoobi San
+<lb/>
+    cta <choice><orig>Ygleſia</orig><reg type="spanish">Yglesia</reg></choice>, tebe la zij guela cicani, zoaaca quezaa lachini, nij-
+<lb/>
+    ani zeechaacuee copabijtoo cozaani Conni Sacramento rijni,
+<lb/>
+    cocaapeani locuaa patoo, loo zaa nayoonaquee.
+<lb/>
+    <choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Tu nozaabi zijni Sacramento rijni?
+<lb/>
+    <choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice>. Quiraalij benniaati, ni pijcha ni corroba niza-
+<lb/>
+    quiqueni, laagaacani arogaa quicapea loolocuaa xtennini.
+<lb/>
+    <choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Zoaaca quezeezij, quezeeaate xillaa benniaa-
+<lb/>
+    ti Sacramento rijni, zoaaca coroopa liaaza quezeecaapea
+<lb/>
+    canì xilocuaanī?
+<lb/>
+    <choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice>. Agaaca, yacalijca quelani cica connija quijaha,
+<lb/>
+    huarocaa yyyelijbirri pea nayoona lijo anima benniati, cica
+<lb/>
+    yoobi quela huerooba nizaquiqueni, niquee agaaca, quezee-
+<lb/>
+    caapea loo xilocuaani toopa liaaza.
+<lb/>
+    <choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Xij quela nazaaca conni benniaati, xaanacaxa
+<lb/>
+    cooloo, cooqueñe lachi yobigaani, nijcani cacayaate xillaa-
+<lb/>
+    baanezani quela baa lebij, quela baa letoobi lezaaca Sacramé<!--ē>-->
+<lb/>
+    rorijni?
+<lb/>
+    <choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice>. Huanaquijña lennetete, cheeebijgaa, cheegallani
+<lb/>
+    loo Sacramento rijni loo quela naxij nayaa lachi, loo quela
+<lb/>
+    gracia bijtoo, quelani huanacalijni Sacramento xtennibenni
+<lb/>
+    nabaani, chela tebela huano xijti tolla quela huexijhui lijo la-
+<lb/>
+    chini, hualoo huanij rogaa nozaabi teteni, quibijxi guetta, quia-
+<lb/>
+    go lijca lachini, quegoopea lachitooni quiraa xquela huexij-
+<lb/>
+    huini, chela tebela noo copabijtoo, lazi huazaaca gaaca, nijro
+<lb/>
+    quiaa logaa cheeguexooba xtollani looni, chijque cheeni loo
+<lb/>
+    quela huecaapea locuaani. <!--I had to fix some things here that need to be updated in the website's transcription-->
+<lb/>
+    <choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Channahe, zoaaca queaani laa xi anima bennia-
+<lb/>
+    ati, laa queaani cheeni quijebaa, tebela queaani zijni Sacra-
+<lb/>
+    mento rijni?
+<lb/>
+    <choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice>. Yaca xinni, yacalijca, zaaqueani zijni zallaani, que-
+<lb/>
+    <fw type="catchword" place="bottom-right">lani</fw>
     <pb n="240"/>
+    lani yaca narij pea xijbaa, ni cozoo lenne Sancta <choice><orig>Ygleſia</orig><reg type="spanish">Iglesia</reg></choice> loo
+<lb/>
+    benniaati, nijani zijni Sacramentoquee. Toobica gaaca, tebe-
+<lb/>
+    la loo quela coguijte guela, loo quela huezaaca pequijte xten-
+<lb/>
+    nini queaani zijni Sacramento quee, quelani loo chijcani zoee-
+<lb/>
+    aani laani chela zayeeni gabijlla. Cani zaabeeca ya nozaabilen-
+<lb/>
+    ne tini zijni, hualijca huachahui huallaabi tete connini, tebela
+<lb/>
+    qui capea canî loo xilocuaani, nijaxtenni acanagaabati quiraa
+<lb/>
+    xillaa baaneza ciroo cixenne, xillaa xillaa * huiroo xquela na-
+<lb/>
+    zaaca gracia B. Dios, ni raca xillaanichijcatini.
+<lb/>
+    <choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Xij chijñaxa, xij quela nazaacaxa ronni Sacra-
+<lb/>
+    mento nachonno riimilijo anima xtenni benniaati?
+<lb/>
+    <choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice>. Hualoo huaniroto, zetañeeni xillaa * toto, xi-
+<lb/>
+    lla cueechequela gracia B. Dios, nijani quitaale quiaaxe-
+<lb/>
+    loo quela natijpa, quela naguijo lachi anima benni <choice><orig>Chriſtiano</orig><reg type="spanish">Christiano</reg></choice>.
+<lb/>
+    Peroopa zetaneeni zijaani bennaabi quela gocañee, quela hue-
+<lb/>
+    zij huellaa quija quijebaa, ni rigoo rillijzi B. Dios lijo lachitoo-
+<lb/>
+    ni, niiani huatíjpa cuaapi lachini, quicaabi ruani loo benni aguij-
+<lb/>
+    zaaca quiraalij tichala, loola libaanala xibaa nachonnola xque-
+<lb/>
+    la rieelij lachi B. Dios, chela nijani ya quichijbitini yachaachiti
+<lb/>
+    lachini, cozaabirua yannini quiraa ticha nayoona caní zaa cati
+<lb/>
+    huaa huaaxenì, zaa zaaca zij chijbaaní, tijñela baagola letija xo-
+<lb/>
+    ola, tormento roo tetela lachiñaa benni xquela yye, bennixco-
+<lb/>
+    tijlla quela rieelij lachi Sancta <choice><orig>Ygleſia</orig><reg type="spanish">Iglesia</reg></choice>, quiraa qnelanazaaca rij
+<lb/>
+    nooñee chahui Sacramēto nachonno xquela huecaapea patoo
+<lb/>
+    lachiñaa Cooquij <choice><orig>Obiſpo</orig><reg type="spanish">Obispo</reg></choice>.
+<lb/>
+    <head> Annaa zeeta nall ticha, ni rie-
+<lb/>
+      elee chahui xaanaca, nacaxa Sacra-
+<lb/>
+      mēto nachoono xpellalati nayoona
+<lb/>
+      B. <choice><orig>Ieſu</orig><reg type="spanish">Iesu</reg></choice> <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice>, chijba loobecoogo.<head>
+<lb/>
+    <choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Channa xi <choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice> nachonnoyahe, xi nacaxa
+<lb/>
+    <fw type="catchword" place="bottom-right">Sa-</fw>
     <pb n="241"/>
     <pb n="242"/>
     <pb n="243"/>
