@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../schema/TEISchema_Ticha.rnc" type="application/relax-ng-compact-syntax"?>
+<!--encode the main language of this document-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <text>
 
@@ -494,7 +495,7 @@
     <lb/>
 <<<<<<< HEAD
     Zapoteca, <choice><orig>diſcipulo</orig><reg type="spanish">discipulo</reg></choice> de el Autor.<head>
-  </div>
+  <div>
 =======
     Zapoteca, diſcipulo de el Autor.</head>
 >>>>>>> 45c725ea0fc094c6c843baa7ada0a61ff4572f47
@@ -1621,7 +1622,7 @@ A2
   <head>
 <lb/>
   Cotòbi Xijbaa.
-</div>
+<div>
 <lb/>
   Loocotòbi xiiba nirij collaabachahui quitòbi quique
 <lb/>
@@ -2006,7 +2007,7 @@ A2
 <lb/>
   mas xtennina quela nabaani celij quela gloria quiebaa cachii catiia.
 <lb/>
-</div>
+<div>
   Alaarij corôpa Xcuaa Xibigaa <choice><orig>Roſario</orig><reg type="spanish">Rosario</reg></choice>
 <lb/>
   Xonaaxito Santa Maria, nagueecheni Xijbaa quela na-
@@ -2149,7 +2150,7 @@ A2
     axtenni yòbi Pichanna too Bejoanna Xtenina <choice><orig>Ieſu</orig><reg type="spanish">Iesu</reg></choice> <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice>. Cacaci-
 <lb/>
     cacia <choice><orig>Ieſus</orig><reg type="spanish">Iesus</reg></choice>.
-  </div>
+  <div>
   Cooyoona Xijbaa.
 <lb/>
   Loo Cayoona Xiibaa nirii, cheeguenna chahui quiòbique
@@ -2609,7 +2610,7 @@ A2
     yoobillijzi ticha xquela Sancta
 <lb/>
     Trinidad.<head>
-  </div>
+  <div>
   <choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Naa lazilo Channa <choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice>, connaxa, palla-
 <lb/>
   xa naca loo xibaa xquela raca, loo xquela ciroo, bijtoo
@@ -2661,7 +2662,7 @@ A2
   <lb/>
   looni, quijaaquijebaala queete layoola, ni nenni loo ní aca
 <lb/>
-  nenni loo nacani. <note place="margin right"> * No ſe divide, <!--*?--> ni repar te, ni ſe participa </note>
+  nenni loo nacani. <note place="margin right"><foreign lang="span">* No ſe divide, <!--*?--> <lb/>ni repar <lb/>te, ni ſe <lb/>participa </foreign></note>
 <lb/>
   <choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Channahe: toochijzi nagaana <add place="above"> [?] </add> naca ticha riini.
 <lb/>
@@ -2685,8 +2686,8 @@ A2
 <lb/>
   ni loo quela raca, quela biitoo, quela gueezaguela <add place="above">[unclear text]</add> xtennini,
 <lb/>
-  laa tichaquee, tebela cicarii niaacati, acalaala gaacatí. Nij- <note place="margin right"> *Todo eſto quiere dezìr, q; no fuera pueſto en razon porq; fuera imperfeccion en
-  Dios, que huvieſe en vna perſona Divinaro ſaque ni vbieſſe ē orta. Lo qualſe ſi quiria, ſi fueran muchos Dioſes.</note>
+  laa tichaquee, tebela cicarii niaacati, acalaala gaacatí. Nij- <note place="margin right"> <foreign lang="span">*Todo <lb/>eſto quie-<lb/>re dezìr,<lb/> q; no fue-<lb/>ra pueſto <lb/>en razon <lb/>porq; fue-<lb/>ra imper-<lb/>feccion en
+  <lb/>Dios, que <lb/>huvieſe <lb/>en vna <lb/>perſona <lb/>Divinaro <lb/>ſa que no <lb/> vbieſſe ē <lb/>otra. <lb/>Lo qualſe ſi <lb/>quiria, ſi f<lb/>ueran <lb/>muchos <lb/>Dioſes.</foreign></note>
 <lb/>
   axtenni loochicatini, zoaaca quicheela toobi quelabaa que-
 <lb/>
@@ -2708,7 +2709,7 @@ A2
 <lb/>
   nani.
 <lb/>
-  <choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Channa <choice><orig>Maeſtrohe</orig><reg type="spanish">Maestrohe</reg></choice>! Zelaazi <addition> un poco mas <addition> huaxiia ticha na-
+  <choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Channa <choice><orig>Maeſtrohe</orig><reg type="spanish">Maestrohe</reg></choice>! Zelaazi <add place="above"> <foreign lang="span"> un poco mas </foreign></add> huaxiia ticha na-
 <lb/>
   alo, Xii nezaabina, quiennîna, Xí tichaxa cheeliipe lachi-
 <lb/>
@@ -2728,15 +2729,15 @@ A2
 <lb/>
   no riini, toobiliizi biitoo Dios quizaalacoca nacani. Cica loo
 <lb/>
-  xi anima ní nayoo, <add place="above"> [con?] </add> nayaazi <add place="above"> [inem?] </add> lanni xpellalati benniaati, narii-
+  xi anima ní nayoo, <add place="above"> [con?] </add> nayaazi <add place="above"> [inem?] </add>lanni xpellalati benniaati, narii-
 <lb/>
-  B2 <fw type="catchword" place="bottom-right">chonna-</fw>
+  <note place="bottom">B2 </note><fw type="catchword" place="bottom-right">chonna-</fw>
 	<pb n="187"/>
-  <head type="outline"> Cateciſmo <head>
-    <head> <choice><orig>Cateciſmo</orig><reg type="spanish">Catecismo</reg></choice> <head>
+  <head type="outline"> Cateciſmo </head>
+    <head> <choice><orig>Cateciſmo</orig><reg type="spanish">Catecismo</reg></choice></head>
     chonna quela Potencias, cica rennaa xticha tonoo. Ni ribijxi
 <lb/>
-    quela zaa xtennilo, rennaani, quela leetijpa leequijchi, quela
+    <add place="margin left"> [?]ojoa [yiulla?] <lb/> [eguna lachí<lb/> el [entonoimi]</add> quela zaa xtennilo, rennaani, quela leetijpa leequijchi, quela
 <lb/>
     nija ñaa xtenni anima, ni ronni xquela chijñani. Cotoobi laaque
 <lb/>
@@ -2746,7 +2747,7 @@ A2
 <lb/>
     cani, chela tobizi anima, quioona quela naquiichequee nacani.
 <lb/>
-    Ciicani bennaabi riini, huaxiia huayaachi tete nacani, cani, too-
+    Ciicani <add place="above">[C.M?]</add> bennaabi <add place="above"> [remelanza]</add> riini, huaxiia <add place="above"> [mul..?]huayaachi <add place="above"> [?] </add>tete nacani, cani, too-
 <lb/>
     chizi ritaago, looticha Sancta Trinidad. Quelani rinnijona, ci-
 <lb/>
@@ -2762,7 +2763,7 @@ A2
 <lb/>
     ticha ciroo nirij.
 <lb/>
-    <choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Zoaaca quicheela, laa chijbaro, laaquitaale quia-
+    <add place="margin left">6.a</add><choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Zoaaca <add place="above">pi</add>quicheela<add place="above">on ser</add>, laa chijbaro<add place="above">mas [se3?]</add>, laaquitaale quia-
 <lb/>
     axe looro xigaaba quioonalij <choice><orig>perſonas</orig><reg type="spanish">perſonas</reg></choice> Xquela bijtoo B.
 <lb/>
@@ -2770,29 +2771,29 @@ A2
 <lb/>
     <choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice>. Agaaca. Yacalijca.
 <lb/>
-    <choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Huanezaabitetena, huanacaa chijchi pealoona,
+    <add place="margin left">7.a</add><choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Huanezaabitetena, huanacaa chijchi pealoona,
 <lb/>
     quiennina, cacapea chahuina, xanacaxa nazijlaa toobitoo-
 <lb/>
     bigaa perſona caní, chela xanacaxa rillaa xquela perſonani, xanacaxa narijtenni, tenniloo zetoobini?
 <lb/>
-    <choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice>. Hualijca cica, huanezaabina quiennina quiroo-
+    <add place="margin left">[?]</add><choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice>. Hualijca cica, huanezaabina quiennina quiroo-
 <lb/>
     pa loo tichaquee.
 <lb/>
-    <choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Xaa nazijlaaxa toobi toobigaa persona nayoona canì?
+    <add place="margin left">8.a</add><choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Xaa nazijlaaxa toobi toobigaa persona nayoona canì?
 <lb/>
     <choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice>. Cica pinnijona quija. Cotoobilaa Dios Bixooze,
 <lb/>
     Coroopalaa Dios xinni. Coyoona laa Dios <choice><orig>Eſpiritu</orig><reg type="spanish">Espiritu</reg></choice> Santo.
 <lb/>
-    <choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Naa la zilonaa, channa <choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice>. Toobizi yoo-
+    <note place="margin left">9.a</note><choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Naa la zilonaa, channa <choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice>. Toobizi yoo-<add place="margin right"> 15[?]</add>
 <lb/>
-    goo, toobilijzipea naca quioona <choice><orig>perſonas</orig><reg type="spanish">personas</reg></choice> nachonno rijnî.
+    goo, toobilijzipea naca quioona <choice><orig>perſonas</orig><reg type="spanish">personas</reg></choice> nachonno rijnî.<add place="margin right"> a[?]</add>
 <lb/>
-    Toobizi quela nazaaca toobizi quela nachij natija, toobizique-
+    Toobizi quela nazaaca<add place="above">[binodo?]</add> toobizi quela nachij natija<add place="above">[?]</add>, toobizique-
 <lb/>
-    la naroo naxenne rootete, toobizi quela bijtoo nalij raapa quio-
+    la naroo <add place="above">[ima-binsivro?]</add>naxenne rootete, toobizi quela bijtoo nalij raapa quio-
 <lb/>
     onani. Cica naca toobini, nacalijpe zetoobini?
 <lb/>
@@ -2802,8 +2803,8 @@ A2
 <lb/>
     <fw type="catchword" place="bottom-right">cha-</fw>
 	<pb n="188"/>
-  <head type="outline"> En la lengua Zapoteca.<head>
-    <head> En la lengua Zapoteca. <head>
+  <head type="outline"> En la lengua Zapoteca.</head>
+    <head> En la lengua Zapoteca. </head>
     <lb/>
     cha xquela rieelij lachi Sancta <choice><orig>Ygleſia</orig><reg type="spanish">Iglesia</reg></choice><!--normalize the Y too?-->. Hualijca toobizi quela
 <lb/>
@@ -2877,8 +2878,8 @@ A2
 <lb/>
     <fw type="catchword" place="bottom-right"><choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice>-</fw>
 	<pb n="189"/>
-  <head type="outline"> Cateciſmo <head>
-  <head> <choice><orig>Cateciſmo</orig><reg type="spanish">Catecismo</reg></choice> <head>
+  <head type="outline"> Cateciſmo </head>
+  <head> <choice><orig>Cateciſmo</orig><reg type="spanish">Catecismo</reg></choice> </head>
   <choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice>. Alaarij Xinni, huayoo lij xipea, xineza xque-
 <lb/>
   la gueoonipea, chahui quela nallaa quela narij tenni ten-
@@ -2951,8 +2952,8 @@ A2
 <lb/>
   <fw type="catchword" place="bottom-right">opa-</fw>
   <pb n="190"/>
-  <head type="outline"> En la lengua Zapoteca.<head>
-  <head> En la lengua Zapoteca. <head>
+  <head type="outline"> En la lengua Zapoteca.</head>
+  <head> En la lengua Zapoteca. </head>
 <lb/>
   opa pichijgo *pellaa, cica loo toopa loo* baa xtennini, laa
 <lb/>
@@ -3026,8 +3027,8 @@ A2
 <lb/>
   <fw type="catchword" place="bottom-right">qui-</fw>
 	<pb n="191"/>
-  <head type="outline"> Cateciſmo <head>
-    <head> <choice><orig>Cateciſmo</orig><reg type="spanish">Catecismo</reg></choice> <head>
+  <head type="outline"> Cateciſmo </head>
+    <head> <choice><orig>Cateciſmo</orig><reg type="spanish">Catecismo</reg></choice> </head>
   quiroopa yoobigaani, chela nizeeguennachij ciroo xooteteni
 <lb/>
   Cachij Catija, tija chijno yyzaguela, Coyoonalij <choice><orig>perſona</orig><reg type="spanish">persona</reg></choice> nina-
@@ -3099,8 +3100,8 @@ A2
   ni, huaribaaquini looni quiraa ticha, quiraa neza, ni zoaaca que-
 <fw type="catchword" place="bottom-right">cheela</fw>
 	<pb n="192"/>
-  <head type="outline"> En la lengua Zapoteca <head>
-    <head> En la lengua Zapoteca <head>
+  <head type="outline"> En la lengua Zapoteca </head>
+    <head> En la lengua Zapoteca </head>
   chela lijni quela hueezijlla animas xtennini, chela ni zoaaca
 <lb/>
   choo, chaapini quijaa quehui quijebaa.
@@ -3173,8 +3174,8 @@ A2
 <lb/>
 <fw type="catchword" place="bottom-right">nini</fw>
 	<pb n="193"/>
-  <head type="outline"> Cateciſmo <head>
-    <head> <choice><orig>Cateciſmo</orig><reg type="spanish">Catecismo</reg></choice> <head>
+  <head type="outline"> Cateciſmo </head>
+    <head> <choice><orig>Cateciſmo</orig><reg type="spanish">Catecismo</reg></choice> </head>
   nini zeechaacuee quela nazaaca chela yanoolaziti quela rieelij,
 <lb/>
   lachi Xticha Dios lachitooni, laanicica zannijtilooteteteni za-
@@ -3249,8 +3250,8 @@ A2
   <!--just a note: there are some transcriptions that don't include accents on letters that appear in the printed text-->
   <!--I tried to fix as many as I could find but there might definitely be more that were missed -->
   <pb n="194"/>
-  <head type="outline"> En la lengua Zapoteca <head>
-    <head> En la lengua Zapoteca <head>
+  <head type="outline"> En la lengua Zapoteca </head>
+    <head> En la lengua Zapoteca </head>
   bibijtoo quizaala coca Dios, raapa cicani; rocueeza cicani que-
 <lb/>
   hui lanniquijebaa quela gloria roo, ni nicohui cica xillaa baa-
@@ -3323,8 +3324,8 @@ A2
 <lb/>
   <fw type="catchword" place="bottom-right">yoogo</fw>
 	<pb n="195"/>
-  <head type="outline"> Cateciſmo <head>
-    <head> <choice><orig>Cateciſmo</orig><reg type="spanish">Catecismo</reg></choice> <head>
+  <head type="outline"> Cateciſmo </head>
+    <head> <choice><orig>Cateciſmo</orig><reg type="spanish">Catecismo</reg></choice> </head>
   yoogoo xennepe benniaati rinnijo tonooticha Castilla, pecado
 <lb/>
   Original, hualijca loo chijcatini, zayeechoo anima xtennini loo
@@ -3397,8 +3398,8 @@ A2
 <lb/>
   <fw type="catchword" place="bottom-right">glo-</fw>
 	<pb n="196"/>
-  <head type="outline"> En la lengua Zapoteca <head>
-  <head> En la lengua Zapoteca <head>
+  <head type="outline"> En la lengua Zapoteca </head>
+  <head> En la lengua Zapoteca </head>
   gloria bitjoo nizaaca ni zijbaaneza yoobi xpellalaati nāyoon-
 <lb/>
   na, quiraa benni nazaaca caní?
@@ -3471,8 +3472,8 @@ A2
 <lb/>
 <fw type="catchword" place="bottom-right">quija</fw>
 	<pb n="197"/>
-  <head type="outline"> Cateciſmo <head>
-    <head> <choice><orig>Cateciſmo</orig><reg type="spanish">Catecismo</reg></choice> <head>
+  <head type="outline"> Cateciſmo </head>
+    <head> <choice><orig>Cateciſmo</orig><reg type="spanish">Catecismo</reg></choice> </head>
   quija, toobitanni zaayaca quillaatini, canihuanaca cica quito-
 <lb/>
   obini. Zoaaca chooni toobilanni yohe. Zaa huayeego cica natij-
@@ -3545,8 +3546,8 @@ A2
 <lb/>
   <fw type="catchword" place="bottom-right">ca,</fw>
 	<pb n="198"/>
-  <head type="outline"> En la lengua Zapoteca <head>
-  <head> En la lengua Zapoteca <head> <!--should I include these headers?-->
+  <head type="outline"> En la lengua Zapoteca </head>
+  <head> En la lengua Zapoteca </head> <!--should I include these headers?-->
     ca, te zazij xiilaa pellalati nachonno canì, zetoobi quela baa
 <lb/>
     ni, chahui, baa ni nazaaca, ni tenni tenni ni nacoobitete na-
@@ -3619,8 +3620,8 @@ A2
 <lb/>
     <fw type="catchword" place="bottom-right">zii,</fw>
 	<pb n="199"/>
-  <head type="outline"> Cateciſmo <head>
-  <head> <choice><orig>Cateciſmo</orig><reg type="spanish">Catecismo</reg></choice> <head>
+  <head type="outline"> Cateciſmo </head>
+  <head> <choice><orig>Cateciſmo</orig><reg type="spanish">Catecismo</reg></choice> </head>
     zii, quela chiibaa caní. Cotoobi loo, huateeteloo huateete
 <lb/>
     guetta, huachiiba zaabi quiiatete nacanni, quelani azootichij
@@ -3693,8 +3694,8 @@ A2
 <lb/>
     <fw type="catchword" place="bottom-right">quii</fw>
   <pb n="200"/>
-  <head type="outline"> En la lengua Zapoteca <head>
-  <head> En la lengua Zapoteca <head>
+  <head type="outline"> En la lengua Zapoteca </head>
+  <head> En la lengua Zapoteca </head>
     quij gabijlla ní raaqui, ni richoohuij Bezeeloo, huañee ben-
 <lb/>
     ni aguijzaaca, raaqui richoohuij gazaaca animas lanni quij
@@ -3767,8 +3768,8 @@ A2
   <lb/>
     <fw type="catchword" place="bottom-right">ni</fw>
     <pb n="201"/>
-    <head type="outline"> Cateciſmo <head>
-    <head> <choice><orig>Cateciſmo</orig><reg type="spanish">Catecismo</reg></choice> <head>
+    <head type="outline"> Cateciſmo </head>
+    <head> <choice><orig>Cateciſmo</orig><reg type="spanish">Catecismo</reg></choice> </head>
     ni guechelayoorijni. Cannaaxe narij xicuaa looquela
 <lb/>
     gloria lanni quijebaa, narij xicuaa xicuaa looquela zij lannì
@@ -3884,7 +3885,7 @@ A2
       too <choice><orig>Ieſu</orig><reg type="spanish">Iesu</reg></choice> <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice>, chela looquela co-
       <lb/>
       ca benni niguijoni lanni Sancta MARIA.
-      <head>
+    </head>
     <choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Connaxa pallaxa naca loo xibaa, ni nalla, nina-
 <lb/>
     gaaba looquela benniaati nayoona bitjoo B. <choice><orig>Jeſu</orig><reg type="spanish">Jesu</reg></choice> <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice>?
@@ -5116,7 +5117,7 @@ A2
 <lb/>
     <fw type="catchword" place="bottom-right">HV A-</fw>
     <pb n="221"/>
-    <head type="outline"> HVAZEETA NALLA AN-<head>
+    <head type="outline"> HVAZEETA NALLA AN-</head>
       <head> HVAZEETA NALLA AN-
         <lb/>
         naa zeechaacuee ticha, nina-
@@ -5125,7 +5126,7 @@ A2
         <lb/>
         rennaani Credo.
         <lb/>
-        <head>
+      </head>
    <choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Channa <choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice> nachonno he, huaanooro
 <lb/>
    ticha, huanooro libaana, huanoociro xibaa, ni cheelij-
@@ -5527,7 +5528,7 @@ A2
       toobixi Sacramento nachonno
 <lb/>
       Sancta <choice><orig>Ygleſia</orig><reg type="spanish">Iglesia</reg></choice>.
-      <head>
+    </head>
     <pb n="227"/>
     <choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Channa <choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice> nachonnohe, xijnacaxa
 <lb/>
@@ -5863,7 +5864,7 @@ A2
     huini xquela nayaaloo Sacramento
 <lb/>
     quela heurooba niza quique patoo.
-    <head>
+  </head>
 <lb/>
     <choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Channa <choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice> nachonnohe, xij nacaxa,
 <lb/>
@@ -5969,12 +5970,12 @@ A2
     <fw type="catchword" place="bottom-right">ax-</fw>
     <pb n="238"/>
     axtenni nacani Sacramento.
-  </div>
+  <div>
     <head> Annaá zeetanalla xiticha Sa-
       <lb/>
       cramento, xquela huecaapea locuaa
       <lb/>
-      patoo lachijñaa Cooquij <choice><orig>Obiſpo</orig><reg type="spanish">Obispo</reg></choice>. <head>
+      patoo lachijñaa Cooquij <choice><orig>Obiſpo</orig><reg type="spanish">Obispo</reg></choice>. </head>
     <choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Channa <choice><orig>Maeſtrohe</orig><reg type="spanish">Maestrohe</reg></choice>, xii nacaxa Sacramento
 <lb/>
     que rennaani xquela huecaapea locaa patoo?
@@ -6157,7 +6158,7 @@ A2
 <lb/>
       mēto nachoono xpellalati nayoona
 <lb/>
-      B. <choice><orig>Ieſu</orig><reg type="spanish">Iesu</reg></choice> <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice>, chijba loobecoogo.<head>
+      B. <choice><orig>Ieſu</orig><reg type="spanish">Iesu</reg></choice> <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice>, chijba loobecoogo.</head>
 <lb/>
     <choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Channa xi <choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice> nachonnoyahe, xi nacaxa
 <lb/>
