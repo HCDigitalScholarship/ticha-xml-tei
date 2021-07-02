@@ -2793,18 +2793,18 @@ A2
 <lb/>
     Toobizi quela nazaaca<add place="above">[binodo?]</add> toobizi quela nachij natija<add place="above">[?]</add>, toobizique-
 <lb/>
-    la naroo <add place="above">[ima-binsivro?]</add>naxenne rootete, toobizi quela bijtoo nalij raapa quio-
+    la naroo <add place="above">[ima-binsivro?]</add> naxenne rootete, toobizi quela bijtoo nalij raapa quio-
 <lb/>
-    onani. Cica naca toobini, nacalijpe zetoobini?
+    onani. Cica naca <add place="above"> [?] </add> toobini, nacalijpe zetoobini<add place="above"> [?] </add>?
 <lb/>
     <choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice>. Cozooba lazitiaagalo xinni, quelani nijaxtenni
 <lb/>
-    lazitoozi naagana naca ticha rijni. Quelani huarennaa ti
+    lazitoozi naagana <add place="below">[biticuil-osa?]</add> naca ticha rijni. Quelani huarennaa ti
 <lb/>
     <fw type="catchword" place="bottom-right">cha-</fw>
 	<pb n="188"/>
   <head type="outline"> En la lengua Zapoteca.</head>
-    <head> En la lengua Zapoteca. </head>
+    <head> En la lengua Zapoteca. <add>[9? g?]</add></head>
     <lb/>
     cha xquela rieelij lachi Sancta <choice><orig>Ygleſia</orig><reg type="spanish">Iglesia</reg></choice><!--normalize the Y too?-->. Hualijca toobizi quela
 <lb/>
@@ -2816,7 +2816,7 @@ A2
 <lb/>
     Dios xinni ririjexee zijllani, ràcheràlle nacaachijchi nacaachini
 <lb/>
-    loo xquela rienni naxeenazijlla, naroo naxenne, nayaaxe naguij
+    <add place="margin left">99</add>loo xquela rienni naxeenazijlla, naroo naxenne, nayaaxe naguij
 <lb/>
     lletete Xtenni Dios Bixooze chela yooblijpe Dios <choice><orig>Eſpiritu</orig><reg type="spanish">Espiritu</reg></choice> Sa-
 <lb/>
@@ -2830,7 +2830,7 @@ A2
 <lb/>
     Bixoozela, Dios Xinnila, Yacati Dios <choice><orig>Eſpiritu</orig><reg type="spanish">Espiritu</reg></choice> Sancto. Quela-
 <lb/>
-    ni yaca narij nijroti, yacanazooba guelooti toobi <choice><orig>perſona</orig><reg type="spanish">persona</reg></choice>, yaca-
+    ni yaca narij nijroti, yacanazooba guelooti <add place="above">[mimena?]</add>toobi <choice><orig>perſona</orig><reg type="spanish">persona</reg></choice>, yaca-
 <lb/>
     zetoobila looni, Ya rennaati cicaniquee ticha Xquela rieelij la-
 <lb/>
@@ -2838,23 +2838,23 @@ A2
 <lb/>
     hui curubi ciroonayoogo nallaapa nacalij quioona perſonas na-
 <lb/>
-    chonno rijni. Cica nazaabi chij, nazaabi tija, cica nabaani celij
+    chonno rijni. Cica nazaabi chij<add place="above">[fisono?]</add>, nazaabi tija,<add place="above">cleano</add> cica nabaani celij
 <lb/>
-    tija chijño yyzaguela Dios Bixooze, Yacozoolooti xquela raca
+    tija chijño yyzaguela Dios Bixooze, Yacozoolooti xquela raca<add place="margin right">metubo pñ[?]c[?]<lb/>pio</add>
 <lb/>
     xeezijllani, cicalaniquee naca Dios Xinni, cicape niquee Dios
 <lb/>
     <choice><orig>Eſpiritu</orig><reg type="spanish">Espiritu</reg></choice> Sancto. Huanoo ñee celij cachij Catija Dios Bixooze
 <lb/>
-    yoobilijpe Dios Xinni, huarijñee, huazoobañee celij Catija Dios
+    yoobilijpe Dios Xinni, huarijñee, huazoobañee celij Catija Dios<add place="margin right">las[?]<lb/>[?]n [personas?]<lb/>3 [personas?]</add>
 <lb/>
     Bixoozela Dios Xinnila yoobilijpe Dios <choice><orig>Eſpiritu</orig><reg type="spanish">Espiritu</reg></choice> Sancto.
 <lb/>
-    <choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Channahe, naalo naa, te, cica nacape quioona per-
+    <add place="margin left">â</add><choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Channahe, naalo naa, te, cica nacape <add place="above">[mirina?]</add>quioona per-
 <lb/>
     sonas nachonno rijnitoobilijzi bijtoo Dios quizaala coca ci-
 <lb/>
-    cape goozeetelo naa nobaa, zoaaca quinnijona, huanaca pe Dios
+    cape goozeetelo naa nobaa, zoaaca quinnijona, huanaca pe Dios<add place="margin right">[es[?]mismo?]</add><!--I think there is a question mark written at the end of the word-->
 <lb/>
     Bixooze Dios Xinni. Chela yoobipe Dios Xinni huanacapení
 <lb/>
@@ -2880,13 +2880,13 @@ A2
 	<pb n="189"/>
   <head type="outline"> Cateciſmo </head>
   <head> <choice><orig>Cateciſmo</orig><reg type="spanish">Catecismo</reg></choice> </head>
-  <choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice>. Alaarij Xinni, huayoo lij xipea, xineza xque-
+  <choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice>. Alaarij Xinni, huayoo lij xipea, <add place="above">junata,</add>xineza<add place="above"><foreign lang="span">y Sistinecion</foreign></add> xque-
 <lb/>
   la gueoonipea, chahui quela nallaa quela narij tenni ten-
 <lb/>
   ni quioona <choice><orig>perſonas</orig><reg type="spanish">personas</reg></choice> nachonno rijni.
 <lb/>
-  <choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Connaxapea, connaxaneza connaxa bennaabi
+  <add place="margin left">12</add><choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Connaxapea, connaxaneza connaxa bennaabi
 <lb/>
   nì chaoonoo, chaoonallana, nijaxtenni queoonipea cha-
 <lb/>
@@ -2896,6 +2896,7 @@ A2
 <lb/>
   huanacalijcani toobi perſona nayoonatete, ní yaca ririje
 <lb/>
+  <note place="margin left"><foreign lang="span">La rays<lb/>tronco, ó<lb/>principo.<lb/>Elorigen<lb/>3 y[o?]ëira de<lb/>todo elſer</foreign></note>
   tini, Yaca riaaletini loo zetoobi <choice><orig>perſona</orig><reg type="spanish">persona</reg></choice>. Cani yoobicani
 <lb/>
   huanacapeni *pichijgo* pellaa, rua ririje riaalelij zetoopa-
@@ -2912,17 +2913,17 @@ A2
 <lb/>
   <choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice>. Alaarijni, nijaxtenni Yoobilijpe Dios Xinni,
 <lb/>
-  hua raachebaa hua raalle lannani, huaririje nachijchi na-
+  hua raachebaa <add place="above">[naser?]</add>hua raalle lannani, huaririje nachijchi na-
 <lb/>
   caachini loo yoobilij xquela rienni naxee nazijlla Yoobilij
 <lb/>
-  Dios Bixooze, cica toobi quije huannatoo, cicalo huàalijpe quitoobi
+  Dios Bixooze, cica toobi quije huannatoo<add place="above">[?]cle</add>, cicalo huàalijpe quitoobi
 <lb/>
   xquela naca bijtooni, nìquee nalijcani xinni gannani chela
 <lb/>
   nazij laani Verbo, nì zeeloo ticha rennaani ticha que-
 <lb/>
-  la rienni nachij natija xtennini.
+  <add place="margin left">ab q[?]rnime <lb/>14 -</add>la rienni nachij natija xtennini.
 <lb/>
   <choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Connaxa naca xipea xineza, connaxi benna-
 <lb/>
@@ -2944,18 +2945,18 @@ A2
 <lb/>
   bigaani, Cachij catija.
 <lb/>
-  <choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Channahe! huaririje, huariaale Coyoona
+  <add place="margin left">19</add><choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Channahe! huaririje, huariaale Coyoona
 <lb/>
   <choice><orig>perſona</orig><reg type="spanish">persona</reg></choice> rij xquela Sancta Trinidad, ní laa <choice><orig>Eſpiritu</orig><reg type="spanish">Espiritu</reg></choice> San-
 <lb/>
   cto loo Dios Bixooze, chelañee los Dios Xinni, cica loo to-
 <lb/>
-  <fw type="catchword" place="bottom-right">opa-</fw>
+  <add>[?]</add><fw type="catchword" place="bottom-right">opa-</fw>
   <pb n="190"/>
   <head type="outline"> En la lengua Zapoteca.</head>
   <head> En la lengua Zapoteca. </head>
 <lb/>
-  opa pichijgo *pellaa, cica loo toopa loo* baa xtennini, laa
+  opa pichijgo *pellaa, cica loo toopa loo* baa xtennini, laa <note place="margin right">* Aſsi ſe<lb/>llama el<lb/>principio.<lb/>La rays y<lb/>orgien.</note>
 <lb/>
   toobilijzi pichijgo, toobilijzi loo baa Xtennini, naca quiro-
 <lb/>
@@ -2971,8 +2972,7 @@ A2
 <lb/>
   <choice><orig>Eſpiritu</orig><reg type="spanish">Espiritu</reg></choice> Sancto Zaabeca toopa nachij nacani quelani cannaa
 <lb/>
-  xezi loo toobilizipe quela connachij naxee nazijlla, nì narij
-<lb/>
+  xezi loo toobilizipe quela connachij naxee nazijlla, nì narij<note place="margin right">Anunque<lb/>ſon dos a-<lb/>mantes,<lb/>no ſondos<lb/>principios<lb/>fiſtintos<lb/>de amor.<lb/></note>
   lootobizii quela racalachi nachii natiia, xtenni quiroopa per-
 <lb/>
   <choice><orig>ſonas</orig><reg type="spanish">sonas</reg></choice> nachonnoquee, huayaanii ririie, huabaa huallaana, hua
@@ -2997,7 +2997,7 @@ A2
 <lb/>
   ni yoobiliipe <choice><orig>Eſpiritu</orig><reg type="spanish">Espiritu</reg></choice> Sancto, nayoonarii, aca ririietini,
 <lb/>
-  aca riaaletini liioo lanni Sancta Trinidad, cica toobi lohuaa
+  aca riaaletini liioo lanni Sancta Trinidad, cica toobi lohuaa<add place="margin right">eme[g?]an[ſ?]a</add>
 <lb/>
   liipe letaago letoobi teteloo pichiigo xtennini. Cica raache
 <lb/>
@@ -3039,7 +3039,7 @@ A2
 <lb/>
   cica connaabalo naaquija.
 <lb/>
-  <choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Channahe! Xij quiennina, xij cheelijxa lachina,
+  <add place="margin left">17</add><choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Channahe! Xij quiennina, xij cheelijxa lachina,
 <lb/>
   loo cooyo Xibaa, xquela rieelij lachi B. Dios? rennaani che-
 <lb/>
@@ -3047,9 +3047,9 @@ A2
 <lb/>
   <choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice>. Quiennilo xinni, chonnaloo, chonna cueeticha
 <lb/>
-  cheelij lachilo loo cooyo xibaa niquee. Cotoobi loo
+  cheelij lachilo loo cooyo xibaa niquee. Cotoobi loo cheelij
 <lb/>
-  cheelij lachilo, Yoobilijpe Dios, quizaala coca, quizaala huenni, qui-
+  <add place="margin left">Js. JE[ſ?]o crio el<lb/>mundo, t todo</add>lachilo, Yoobilijpe Dios, quizaala coca, quizaala huenni, qui-
 <lb/>
   zaala huezaa nacani, nipezaa pechijñani quizaa xcuaa quijebaa-
 <lb/>
@@ -3061,7 +3061,7 @@ A2
 <lb/>
   Coroopaloo cheelij lachilo, cicaloo Xtichazi B. Dios, corijxtij,
 <lb/>
-  corij xchijgo, corij xilannipe quiraa xiyaa xquela huenni ñaani,
+  <add place="margin left">[L]io el munnîdo<lb/>en tiu[qiqua?]</add>corij xchijgo, corij xilannipe quiraa xiyaa xquela huenni ñaani,
 <lb/>
   chij huanijroti quijaloogaa pezaa pechijñani quitoobi cabijla-
 <lb/>
@@ -3071,9 +3071,9 @@ A2
 <lb/>
   Coyoonaloo, cheelij lachilo cica loo chijcani, chij coca ruabaa
 <lb/>
-  coca rua lanna, chij cuyaloo quitoobi quijebaala, quitoobila-
+  <add place="margin left">[?] lo caio de la<lb/>nata</add>coca rua lanna, chij cuyaloo quitoobi quijebaala, quitoobila-
 <lb/>
-  yoola, acaxi pixoohuiti, aca piquijñeti, acaxi pigaatiloo yoobi
+  yoola, acaxi <add place="above"><foreign lang="span">nada</foreign></add>pixoohuiti, aca piquijñeti, acaxi pigaatiloo yoobi
 <lb/>
   Dios. Cani xillaacica xticha yobini cuyaapi zaabi xiyaanij quije-
 <lb/>
@@ -3083,7 +3083,7 @@ A2
 <lb/>
   chaaloo quitoobi cabij gueechela yoorijni.
 <lb/>
-  <choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Xijtichaxa quiennina, xij cheelijxa lachina, loo
+  <add place="margin left">18</add><choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Xijtichaxa quiennina, xij cheelijxa lachina, loo
 <lb/>
   coxoopa xibaa, rennaani, cheelij lachilo, yoobibijtoo Dios,
 <lb/>
@@ -3097,24 +3097,24 @@ A2
 <lb/>
   nijti looni quiraa xquela huexijhuini, chela huarolloohui cica-
 <lb/>
-  ni, huaribaaquini looni quiraa ticha, quiraa neza, ni zoaaca que-
+  ni, huaribaaquini looni quiraa ticha, quiraa <add place="below">[*neziol?]</add> neneza, ni zoaaca que-
 <fw type="catchword" place="bottom-right">cheela</fw>
 	<pb n="192"/>
   <head type="outline"> En la lengua Zapoteca </head>
     <head> En la lengua Zapoteca </head>
   chela lijni quela hueezijlla animas xtennini, chela ni zoaaca
 <lb/>
-  choo, chaapini quijaa quehui quijebaa.
+  <add place="margin left">[taux?]</add>choo, chaapini quijaa quehui quijebaa.
 <lb/>
-  <choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Channahe! Huanezaabitetena, huenniloo quien-
+  <add place="margin left">19</add><choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Channahe! Huanezaabitetena, huenniloo quien-
 <lb/>
-  nina huenniloo cheelijalachina acaxiquigaanati lachitoona
+  nina huenniloo cheelijalachina acaxiquigaanati lachitoona<add place="margin right">[Judil?]</add>
 <lb/>
   lootochaquee rennaani, hue rohuicica xillaa bitjoo Dios bennia-
 <lb/>
   atiquela gracia xtennini, hua rollohuini, huaribaaquini looní
 <lb/>
-  quiraalij xineza quijebaa. Quela lenne cheelij lachina, cicarij
+  <add place="margin left">[dM?]</add>quiraalij xineza quijebaa. Quela lenne cheelij lachina, cicarij
 <lb/>
   ronni rozaaca bitjoo Dios quiraalijca benniaati?
 <lb/>
@@ -3124,7 +3124,7 @@ A2
 <lb/>
   Dios tonoo quela gracia xteninini, quelani Curubi nagaachina-
 <lb/>
-  llaana, Curubi nayeego nacaloo ticharijni. Canihuanezaabite-
+  llaana, Curubi <add place="above">[mila?]</add>nayeego nacaloo ticharijni. Canihuanezaabite-
 <lb/>
   tena, nazooxoolicapea loona quilleezaguelana quezaabixticha
 <lb/>
@@ -3136,11 +3136,11 @@ A2
 <lb/>
   gracia caní, zollohuilijcani looxì animas tonoo xï nezaalijzee
 <lb/>
-  quijbaa. Nijaxtennixî Bejoannalij tonoo, xi bitjoo xi Dios na-
+  quijbaa.<add place="above">e</add> Nijaxtennixî Bejoannalij tonoo, xi bitjoo xi Dios na-
 <lb/>
   lij tonoo nacani.
 <lb/>
-  <choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Channa <choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice>. Connaxa pallaxa nacaloo ti-
+  <add place="margin left">20</add><choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Channa <choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice>. Connaxa pallaxa nacaloo ti-
 <lb/>
   cha, loo nezaquee, ni rollohui bitjoo, niribaaquini loo ben-
 <lb/>
@@ -3158,30 +3158,31 @@ A2
 <lb/>
   nabaanina lanniqueechelayoorijni. Hualijca quiroopaloo neza
 <lb/>
-  rijni, *huanaquijña lennetete* quichaaga,* quicheelalijbilijo
+  rijni, *huanaquijña lennetete* quichaaga,* quicheelalijbilijo<note place="margin right"><foreign lang="span">Convîene<lb/>eſten uni-<lb/>dos, y eſta-<lb/>vonados<lb/>eſtos dos<lb/>caminos.</foreign></note>
 <lb/>
   lachitoo benniaati, nijanilaa anima xtennini, quelanizaabeeca
 <lb/>
   cheelijpe lachinî quiraalijca xibaa quiraalijca Xticha Dios che-
 <lb/>
-  la zetoobineza zaani queaanicapachahuini Xticha Dios, quea-
+  <add place="margin left">[?] y <lb/> [rar?]</add>la zetoobineza zaani queaanicapachahuini Xticha Dios, quea-
 <lb/>
   anicannachij quitoobi lachini xibijtooni chela benniaati lezaa-
 <lb/>
   ni, cica nachij lachi yoobigaani, aca xi lezaaca quela rijeelachi
 <lb/>
-  Xtennini, zanniti looni, zayeenigabijlla. Chela zaabeeca con-
+  Xtennini, zanniti looni, zayeenigabijlla. <note place="below">C</note>Chela zaabeeca con-
 <lb/>
 <fw type="catchword" place="bottom-right">nini</fw>
 	<pb n="193"/>
-  <head type="outline"> Cateciſmo </head>
+  <add place="margin left">16</add><head type="outline"> Cateciſmo </head>
     <head> <choice><orig>Cateciſmo</orig><reg type="spanish">Catecismo</reg></choice> </head>
   nini zeechaacuee quela nazaaca chela yanoolaziti quela rieelij,
 <lb/>
-  lachi Xticha Dios lachitooni, laanicica zannijtilooteteteni za-
+  <add place="margin left">La Feces</add>lachi Xticha Dios lachitooni, laanicica zannijtilooteteteni za-
 <lb/>
   yeenigabijlla, nijaxtenni yoobi quela rieelij lachi Dios cica ren-
 <lb/>
+  <note place="margin left">*El fūda <!--not sure about the accent on the u--><lb/>mento, ò<lb/>cimiento,<lb/>gray[z?].<lb/>
   naa Sancta <choice><orig>Ygleſia</orig><reg type="spanish">Iglesia</reg></choice>, nacalijca quitoobi *Xtij Xchijgo qui-
 <lb/>
   toobi xî lannipe quraalij quela nazaaca quela nazoo chahui ani-
@@ -3202,7 +3203,7 @@ A2
 <lb/>
   quelani quìraa Sacramentos quee, nooñeeni nacheelañeeniqui-
 <lb/>
-  raabàaletoobi, baaleaaca xquela <choice><orig>Paſſion</orig><reg type="spanish">Passion</reg></choice>, xquela cootihuaa Xin-
+  <add place="margin left">[?]usito</add>raabàaletoobi, baaleaaca xquela <choice><orig>Paſſion</orig><reg type="spanish">Passion</reg></choice>, xquela cootihuaa Xin-
 <lb/>
   ni Dios lanni yaga Cruz, huañee quiraalebij lezaaca ticha con-
 <lb/>
@@ -3210,13 +3211,13 @@ A2
 <lb/>
   lanni gueechelayoorijni.
 <lb/>
-  <choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Channahe, zoozijllaa bijtoo Dios quiraalijca ben-
+  <add place="margin left">21</add><choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Channahe, zoozijllaa<add place="above">Salvador</add> bijtoo Dios<add place="above">a</add>quiraalijca<add place="above">todo</add> ben-
 <lb/>
   niaati, ninarijnabaaninilannigueechelayoo nirij, huañee ni-
 <lb/>
   noo loozetoobixcuaa layoo?
 <lb/>
-  <choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice>. Yacaxinni Cannaaxe zoozijllaalijni benni na-
+  <choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice>. Yacaxinni Cannaaxe zoozijllaalijni <add place="above">se [jouedey?] salvar</add>benni na-
 <lb/>
   caanazaa nabaanini lanni gueechelayiirijni, quelani qui
 <lb/>
@@ -3236,13 +3237,13 @@ A2
 <lb/>
   ani. Connaxa nizaani, huananna yobini.
 <lb/>
-  <choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Channahe! Xiticha rolloohui cooche xibaa x-
+  <add place="margin left">22</add><choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Channahe! Xiticha rolloohui cooche xibaa x-
 <lb/>
   quela rieelij lachi Dios, rennaani, cheelij lachilo, yoobi coo-
 <lb/>
   quij bitjoo Dios, nacalijcani hueoonibaaneza, hueexillaaroo
 <lb/>
-  loo benniaatiquela gloria Xtennini?
+  loo benniaatiquela gloria Xtennini?<add>[sleni bicedor?]</add>
 <lb/>
   <choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice>. Cooche xibaa nirij rennaani. Cheeli lachilo yoobibijtoo
 <lb/>
@@ -3262,7 +3263,7 @@ A2
 <lb/>
   huini quichij xibaa Mandamiento Xtennini.
 <lb/>
-  <choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Xaazeexa, xinazaaloo tichaquee, xi rennaaxa
+ <add place="margin left">3</add><choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Xaazeexa, xinazaaloo tichaquee, xi rennaaxa<add place="margin right">q. es la olo[?]<lb/>ÿ en q.[?]on[s?]<lb/></add>
 <lb/>
   quela gloria, xaa caatexa benniaati xillaa roo canî?
 <lb/>
@@ -3280,7 +3281,7 @@ A2
 <lb/>
   que lachini, zijbaazij lannani Cachij Catija.
 <lb/>
-  <choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Channahe! Yapaxa raacayaate xillaa anima ben-
+  <add place="margin left">4</add><choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Channahe! Yapaxa raacayaate xillaa anima ben-
 <lb/>
   niaati, quela gloria rijni, pearaatini, pearigoona gaani lanni
 <lb/>
@@ -3290,11 +3291,11 @@ A2
 <lb/>
   <choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice>. Pijña lazi xtichaya xinni quelani tebela benni
 <lb/>
-  cooticanî huanooñee anima xtennini xquela
+  cooticanî huanooñee anima xtennini xquela<note place="margin right">*Satisfa <lb/>cer</note>
 <lb/>
   gracia B. Dios, chelayaca xtollani, Yaca xquela quija, pennini
 <lb/>
-  quela penitencia, *peooni lezaacani looyobibijtoo Dios* lebij
+  quela penitencia, *peooni lezaacani looyobibijtoo Dios* lebij <note place="margin right">Eſto es<lb/>ſegun el<lb/>tanto de<lb/>la culpa-<lb/></note>
 <lb/>
   leaago xquela pexijhuini looni, hualicaloo chijcatini, pearaati-
 <lb/>
@@ -3306,11 +3307,11 @@ A2
 <lb/>
   ria xtennini.
 <lb/>
-  <choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Chela tebela, nacañee anima xtennini lootolla,
+<add place="margin left">29</add><choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Chela tebela, nacañee anima xtennini lootolla,
 <lb/>
   teela xquela huexijhuini, Y acanoo laziti xquela gracia Dios
 <lb/>
-  lachitooni, xijgaacaxani, caaxa cheeni, chij catini?
+  lachitooni, xijgaacaxani, caaxa cheeni, chij catini? <note place="margin right"><foreign lang="span">* Antes<lb/>de tener<lb/>vſo dera-<lb/>zon, luz<lb/>de e[?]ten-<lb/>dimbento.</foreign></note>
 <lb/>
   <choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice>. Alaa cicarij naca, quelani rebela gaatini, quigo-
 <lb/>
@@ -3320,7 +3321,7 @@ A2
 <lb/>
   aguijzaacala guechelaycorijni, cannaaxe nachijba ñeeni tolla
 <lb/>
-  nijro Xchijgo quiraa tolla, nizza chijba tija, niraa leñee quiraa
+<add place="margin left">[de?] [?]inal</add>nijro Xchijgo quiraa tolla, nizza chijba<add place="below">C2</add> tija, niraa leñee quiraa
 <lb/>
   <fw type="catchword" place="bottom-right">yoogo</fw>
 	<pb n="195"/>
