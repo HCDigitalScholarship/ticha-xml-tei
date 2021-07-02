@@ -956,7 +956,7 @@
                         <reg type="spanish">sin</reg></choice>
             <choice><orig>juſta</orig>
                         <reg type="spanish">justa</reg></choice>
-            <choice><orig>cauſa</orig><reg>causa</reg></choice>
+            <choice><orig>cauſa</orig><reg type="spanish">causa</reg></choice>
             entre
             <lb/>los hombres celebrada). El
             <lb/>atribuir la gloria
@@ -1048,7 +1048,7 @@
                <reg type="spanish">habiendo</reg></choice>
             yo
             <choice><orig>ſentido</orig>
-               <reg>sentido</reg></choice>
+               <reg type="spanish">sentido</reg></choice>
             en mi pecho
             <lb/><choice><orig>vn</orig><reg type="spanish">un</reg></choice>
             <choice><orig>enagenamiento</orig>
@@ -1533,7 +1533,7 @@
                <choice><orig>eſta</orig>
                   <reg type="spanish">esta</reg></choice>
                <choice><orig>ſolicita</orig>
-                  <reg>solícita</reg></choice>
+                  <reg type="spanish">solícita</reg></choice>
                diligencia,
                <choice><orig>vencio</orig>
                   <reg type="spanish">venció</reg></choice>
@@ -1685,10 +1685,10 @@
                <fw type="catchword" place="bottom-right">
                 <hi rend="bold">ſeare</hi>
                </fw></orig>
-               <reg>des
+               <reg type="spanish">des
                <fw type="catchword" place="bottom-right">
                 <hi rend="bold">seare</hi>
-               </fw></reg></choice> <!-- XMFM I'm not sure if I have done this correctly, deseare -->
+               </fw></reg></choice>
 
                 <pb break="yes" type="arte" n="15"/>
                <pb break="yes" type="pdf" facs="http://archive.org/stream/arteenlenguazapo00juan#page/n15/mode/1up"/>
@@ -1727,7 +1727,7 @@
                <choice><orig>ſin</orig>
                   <reg type="spanish">sin</reg></choice>
                <choice><orig>eſtrope<pc type="hyphen">-</pc><lb break="no"/>çar</orig>
-               <reg>trope<pc type="hyphen">-</pc><lb break="no"/>zar</reg></choice>
+               <reg type="spanish">trope<pc type="hyphen">-</pc><lb break="no"/>zar</reg></choice>
                o caer. Y por
                <choice><orig>eſto</orig>
                   <reg type="spanish">esto</reg></choice>
@@ -25416,7 +25416,7 @@
                                 <choice><orig>boz</orig>
                                    <reg type="spanish">voz</reg></choice>
                                 <choice><orig>pueſta</orig>
-                                   <reg>puesta</reg></choice>
+                                   <reg type="spanish">puesta</reg></choice>
                                 arriba,
                                 vide
                                 <lb/>arras en
@@ -25810,7 +25810,7 @@
                   <choice><orig>ſi</orig>
                      <reg type="spanish">si</reg></choice>
                   <choice><orig>dezimos</orig>
-                     <reg>decimos</reg></choice>
+                     <reg type="spanish">decimos</reg></choice>
                   <choice><orig>treyn<lb break="no"/>ta</orig>
                      <reg type="spanish">trein<lb break="no"/>ta</reg></choice>,
                   o contamos quarenta o cinquenta, con
