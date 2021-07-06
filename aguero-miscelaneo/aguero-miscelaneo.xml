@@ -5668,8 +5668,11 @@ A2
 <lb/>
     <fw type="catchword" place="bottom-right">chijba</fw>
     <pb n="228"/>
-    <!--pick up here - also go back and normalize the Spanish comments-->
+<add place="top"><!--top right?-->[mas o menos?]</add>
+<lb/>
     chijba rua yanni coopa bijtoo, quiroopa loonoi huenniloo na-
+<lb/>
+<add place="margin right">[x?z?]a</add>
 <lb/>
     rij lanní guechelayoorijni, quelanihua titonna pizaaloona niaa
 <lb/>
@@ -5681,7 +5684,11 @@ A2
 <lb/>
     lanni Sancta <choice><orig>Ygleſia</orig><reg type="spanish">Iglesia</reg></choice>.
 <lb/>
+    <add place="margin left">[?]a</add>
     <choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Channa, zoaacala laa huazaaca gaacala, tebela
+    <note place="margin right"><foreign lang="span">[xù ſu?] [?]<lb/>luntad.<lb/>[?]Traſtro<lb/>cadamē[t?]e<lb/>3  Apoco<lb/>mas ó me-<lb/>nos<lb/>
+    4 que eſta diputado.<lb/>5 Para la <lb/>adminiſ-<lb/>tracìon.<lb/>6 Cōtoda<lb/>voluntad.<lb/>Con [l?]lado<lb/>conſenti-<lb/>
+    miento, e-<lb/>ſto es, con<lb/>todaintē-<lb/>cion.</foreign></note>
 <lb/>
     quinnij 1 peazi lachi zeechaacnee benniaati, laa quinnij
 <lb/>
@@ -5701,6 +5708,7 @@ A2
 <lb/>
     mentos caní, loo quitoobi xi leaaca lachini, loo quitoobi xilijzi
 <lb/>
+    <add place="margin left">[?]cion</add>
     6 guela anima xtenneini, cicato, ni penni yoobi B. <choice><orig>Ieſu</orig><reg type="spanish">Iesu</reg></choice> <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice>,
 <lb/>
     chij pezaani, chij penni chahuini Sarcramentosquee, chela cica-
@@ -5723,6 +5731,7 @@ A2
 <lb/>
     nizij xillaabaaneza benni <choice><orig>Chriſtianos</orig><reg type="spanish">Christianos</reg></choice>.
 <lb/>
+    <add place="margin left">[?].6.</add>
     <choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Xij pexa naquiiña, xijroxa quela nazaaca zij-
 <lb/>
     baaneza coopabijtoo, niroteete, ni rohui zillaani Sacra-
@@ -5739,7 +5748,7 @@ A2
 <lb/>
     nayoona bitoo, chela coteete cica xillaani, ni, loo benniaati
 <lb/>
-    <fw type="catchword" place="bottom-right">C</fw><!--not sure what this catchword is...-->
+    <fw type="catchword" place="bottom-right">Cir</fw><!--not sure how many of the letters are in the catchword...-->
     <pb n="229"/>
     Cirootete coxijhuini loo Dios, niquee, nazooxoo lijcapea loo
 <lb/>
@@ -5753,6 +5762,7 @@ A2
 <lb/>
     bijtoo huiña tolla benniaati huanoozaabini cheenijro, chee
 <lb/>
+    <note place="margin left"><foreign lang="span">De[v?]e ir.<lb/>primero,<lb/>à confeſ-<lb/>ſarſe.</foreign></note>
     guelooni looni looquela huexooba tolla xtennini. Chela zaa-
 <lb/>
     beeca nozaabini cicarij connini, cazooba cazooba liaaza chee-
@@ -5773,6 +5783,7 @@ A2
 <lb/>
     tebela noo xtolla quela huexijhui lijo lachini.
 <lb/>
+    <add place="margin left">7a<lb/>
     <choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Channa <choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice> nachonnohe! Xij chijñaxa ron-
 <lb/>
     no, xi xillaa nayoonaxa, xij quela baa letoobi, baa leaacaxa
@@ -5789,6 +5800,7 @@ A2
 <lb/>
     zeexij baanezani Sacrametno caní. Chela huarotánleni, huaro-
 <lb/>
+    <add place="margin left">[augnacintar?]</add>
     zaaxi looni quela gracia caní, lijo anima, tebela huazaacana ca-
 <lb/>
     ní, huanooneeni quela naxij nayaa, quela nazoo chahui xtennini
@@ -5797,6 +5809,8 @@ A2
 <lb/>
     gaani, noosieenî, nayaazi ñeeni ziaani bennaabi quela cocañee,
 <lb/>
+    <note place="margin left">[[?]uirioz?]<note>
+      <!--pick up here-->
     quela huezij huellaa, quela connachij quela hueexillaa, quela
 <lb/>
     huenni baaneza roo Xtenni B. Dios, ni raca xillaabaaneza ani-
