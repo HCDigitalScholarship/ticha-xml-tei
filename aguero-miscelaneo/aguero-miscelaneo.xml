@@ -8,13 +8,126 @@
 	<pb n="cover"/>
 	<pb n="cover-inside"/>
 	<pb n="1"/>
+  EX HOC. CO LLIGO
+  <lb/>
+  EX-LIBRIS
+  <lb/>
+  DOCTORIS.
+  <lb/>
+  N. LEON.
+  <lb/>
+  John Carter Brown
+<lb/>
+  Library
+<lb/>
+  Brown University
 	<pb n="2"/>
 	<pb n="3"/>
 	<pb n="4"/>
+  <!--These are margina,ia: 63 Confirmasion
+  Bulas 113.6 del 101 Statica Sra. Confesar-->
+  MISCELANEO
+<lb/>
+  ESPIRITVAL,
+<lb/>
+  EN EL IDIOMA ZAPOTECO,
+<lb/>
+  QVE ADMINISTRA LA PROVINCIA DE OAXAC,
+<lb/>
+  de la Orden de Predicadores.
+<lb/>
+  EN QVE SE CONTIENEN LOS QVINZE MISTERIOS
+<lb/>
+  del Santiſsimo ROSARIO, con ſus Ofrecimientos en cada vno. Las mas
+<lb/>
+  principales INDVLGENCIAS, que ganan ſus Cofrades. Con diez y ſeis
+<lb/>
+  EXEMPLOS de lo miſmo. Algunas ORACIONES deuotas, para la
+<lb/>
+  Uida, y para la Muerte. El CATHECISMO de toda la
+<lb/>
+  DOCTRINA Chriſtiana, Con un CONFESSIONARIO
+<lb/>
+  para los que empiecan a aprender el
+<lb/>
+  dicho Idioma.
+<lb/>
+  DEDICADO,
+<lb/>
+  A LA PEINCESA DEL CIELO, Y SIEMPRE VIRGEN
+<lb/>
+  MARIA Madre de Dios, y Señora Nueſtra.
+<lb/>
+  POR
+<lb/>
+  El P. M. Fr. Chriſtoual de Aguero, Cathedratico, y Predicador
+<lb/>
+  General, que fue del dicho Ydioma, en ſu illuſtre Conuento de
+<lb/>
+  Oaxac, y Uicario actual del Pueblo de Theozapotlan.
+<lb/>
+  Año de 1666.
+<lb/>
+  CON LICENCIA. EN MEXICO.
+<lb/>
+  Por la Viuda de Bernardo Calderon, en la calle de San Auguſtin.
+  <!--marginalia-->109 Perficionar
 	<pb n="5"/>
+  Conformasion 63
+<lb/>
+  Misterios del Sto. Rosario f[t?]el 9(word?)
+<lb/>
+  ofrecimiendo de todo el Rosario fel 3 buelta
+<lb/>
+  Orasion de Sto. Thomas para la hora deia(word?) miente del 9.
+<lb/>
+  Orasion del Mismo Sto. para antes de comulgar fel(word? 11 buelta
+<lb/>
+  Otra orasion para des(word?) sues(word?) de comulgar fel 12
+<lb/>
+  Medilacienes(word?) otras del Rosario fol. 14.
+<lb/>
+  Indielgencias(word?) del Rosario fol 129.
+<lb/>
+  Protestasion de la fee. 27
+<lb/>
+  exemplos 28.                   Confirmasion 63
+<lb/>
+  exemplo 1° fol 29 Buelta de esta manubo(word?) dera(word?)pecador, y le pidie la Virgen limpiezo
+<lb/>
+  exemplo 2° fol 30 buelta de conladron q se librao del demonio por avorezado  14 a sina(word?) (word?) (word?)
+<lb/>
+  exemplo 3°fol 32 del en demoniado q saco Sto. Demo 19(word?) demonios
+<lb/>
+  exemplo 4° fol 31(word?) buelta de una Pastora q rezaba el Rosario, y se fue al cielo
+<lb/>
+  exemplo 9° fol 37 buelta de una Doncella c(word?) a sintio la virgen en la muerte(word?)
+<lb/>
+  exemplo 6° fol 12 buelta de uno q liberto de unos (word?) (word?) rosario el rosario
+<lb/>
+  exo--7° fol 40 buelta de bn(word?) homore que decia el (word?) (word?) pico(word?) (word?)
+<lb/>
+  exo--8° fol 49 de un joven q empobrecio y se dice a (word?) (word?)
+<lb/>
+  exo--9° fol 47 de Carlos hijo del Sto. Brigida
+<lb/>
+  exo--10 fol 49 buelto de una Suyer(word?) q encerraron viva uno (word?)
+<lb/>
+  exo--11 fol 42 de cophio(word?) remesibo(word?) para el Rosario
+<lb/>
+  exo--12 fol 47 buelta de vigilante(word?) del Cister(word?) que hallaron un (word?) (word?)
+<lb/>
+  exo--13  fol 49 de dos Doncellas una murio, y la chalipe de (word?)
+<lb/>
+  exo--14 fol 60 buelta de sus (word?) q se usito(word?)
+<lb/>
+  exo--15 fol 62 de 3 indios sus(word?) (word?)
+<lb/>
+  exo--16 fol 63 de este anoca q se ecnaron a aveza (word?)
 	<pb n="6"/>
   <!--something?-->
   <!-- <div xml:id="miscelaneo-aguero1"> -->
+  <add place="margin right">Confirmation 63<lb/>Con[?]rision f[A?]98</add>
   <head> DEDICATORIA,
   <lb/>
   A la <choice><orig>ſiempre</orig><reg type="spanish">siempre</reg></choice> <choice><orig>Puriſſima</orig><reg type="spanish">Purísima</reg></choice> Virgen MARIA
@@ -345,7 +458,11 @@
   cap. 4 donde manda <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> <choice><orig>Mageſtad</orig><reg type="spanish">Magestad</reg></choice> à <choice><orig>Moyſes</orig><reg type="spanish">Moisés</reg></choice>, que
   <choice><orig>numeraſe</orig><reg type="spanish">numerase</reg></choice> <choice><orig>ſus</orig><reg type="spanish">sus</reg></choice> mini-
   <lb/>
-  <choice><orig>stros</orig><reg type="spanish">stros</reg></choice>. Parece que veo <choice><orig>eſtampado</orig><reg type="spanish">estampado</reg></choice> el effecto de <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice> <choice><orig>numeracion</orig><reg type="spanish">numeración</reg></choice> <choice><orig>ſo</orig><reg type="spanish">so</reg></choice>-
+  <choice><orig>stros</orig><reg type="spanish">stros</reg></choice>:<foreign lang="lat">Numera omnes qui ingrediuntur, &amp; miniſtrant in Tabernacu-<note place="margin right">Num,c.4</note>
+  <lb/>
+  lo faederis</foreign>
+  Parece que veo <choice><orig>eſtampado</orig><reg type="spanish">estampado</reg></choice> el effecto de <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice>
+  <choice><orig>numeracion</orig><reg type="spanish">numeración</reg></choice> <choice><orig>ſo</orig><reg type="spanish">so</reg></choice>-
   <lb/>
   licitada de Dios, en el Autor de <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice> nueva obra, pues como emiente
   <lb/>
@@ -362,6 +479,7 @@
   cogido de las <choice><orig>eſpigas</orig><reg type="spanish">espigas</reg></choice> del trabajo de lo fatigable del <choice><orig>eſtudio</orig><reg type="spanish">estudio</reg></choice> de lo repitido
   <lb/>
   de las vigilas. <choice><orig>Aſsi</orig><reg type="spanish">Así</reg></choice> lo <choice><orig>dixo</orig><reg type="spanish">dijo</reg></choice> en Leuitiso cap. 23. <foreign xml:lang="lat">Feretis manipulos <choice><orig>ſpi</orig><reg type="spanish">spi</reg></choice>-
+  <note place="margin right">Lep.c.23.</note>
   <lb/>
   carum primitas <choice><orig>meſſis</orig><reg type="spanish">messis <!--is this correct>--></reg></choice> <choice><orig>veſtrae</orig><reg type="spanish">vestrae</reg></choice> ad Sacerdotem.</foreign> <choice><orig>Aſsi</orig><reg type="spanish">Así</reg></choice> es, pues dand-
   <lb/>
@@ -415,10 +533,28 @@
   1066 años.
 <head> Fr. <choice><orig>Alonſo</orig><reg type="spanish">Alonso</reg></choice> de Medrano.</head>
   <!---this person transcribed some things into modern spanish so we have to change those for normalization-->
-  <!--there are also things writte on this page, but they are hard to read-->
+  <add>[?] Juanros[?] voc[qual?] [?] A393. b[?]<lb/>
+  [Zie?] nina vocab 170<lb/>
+  Sacramento f 91<lb/>
+  [So?] utismo [96?]
+  Con[ri]rmasion 63<lb/>
+  Cucharistia 69<lb/>
+  Penitencia 84<lb/>
+  [?] ision, y [stnision?] 9d<lb/>
+  Condesion 99.<lb/>
+  [?]isracion c indulgencias 109<lb/>
+  xtenna Uncion 121<lb/>
+  Sacramento [oeladen?] 1241<lb/>
+  [?][mmio?] 124<lb/>
+  [?]mientos 13a<lb/>
+  1.133 2.[do?] 147.3.0 194.40 19[C?]..9c162..60109<lb/><!--this should be re-checked-->
+  70 [?] 8[?] 182. 90 188. ylo158 [suee?] w[uga?] 193<lb/>
+  Los ciaidos Cuoitales 7. [te?] 200 y lo ultime de la Oacion 218</add>
+
   <fw type="catchword" place="bottom-right">APRO--</fw>
   <pb n="12"/>
   <head type="outline">APROBACION</head>
+  <add place="margin right">[f?]ol 98 Dor[t?]<lb/>in[?]<lb/>[?] [inaas?]</add>
   <head>APROBACION
     <lb/> Del P. Fr. Ivan De Robles, Predicador
     <lb/>
@@ -466,9 +602,9 @@
 <lb/>
    <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice> obra, <choice><orig>aſegurando</orig><reg type="spanish">asegurando</reg></choice> al Autor el premio de se trabajo; <choice><orig>dize</orig><reg type="spanish">dice</reg></choice> pues la lumbrera
 <lb/>
-   de la <choice><orig>Ygleſia</orig><reg type="spanish">Iglesia</reg></choice>, sobre aquellas palabras del Ecclefaift. <foreign xml:lang="lat">[Da Eccl. 40.
+   de la <choice><orig>Ygleſia</orig><reg type="spanish">Iglesia</reg></choice>, sobre aquellas palabras de el <choice><orig>Eccleſaiſt</orig><reg type="spanish">Ecclesaist</reg></choice>. <foreign xml:lang="lat">[Da <note place="margin right">Eccl. 40.<lb/>Gloſ</note>
 <lb/>
-   &amp; accipe, &amp; <choice><orig>iuſtufica</orig><reg type="spanish">iustufica</reg></choice> animam tuam] verbum doctrine proximis im- Glos.
+   &amp; accipe, &amp; <choice><orig>iuſtufica</orig><reg type="spanish">iustufica</reg></choice> animam tuam] verbum doctrine proximis im-
 <lb/>
    pende, &amp; bonorum operum exempla relinique; vt recipias premium
 <lb/>
@@ -482,9 +618,65 @@
 <lb/>
    &amp;c.
 <lb/>
-  <head>Fr. <choice><orig>Iuan</orig><reg type="spanish">Juan</reg></choice> de Robles</head>
+  <head>Fr. <choice><orig>Iuan</orig><reg type="spanish">Juan</reg></choice><add place="bottom">[P?]<!--parahraph symbol, I think?--> de Robles</head>
   <pb n="13"/>
-  <!--No transcription here yet-->
+  <head type="outline">APROBACION</head>
+  <head>APROBACION</head>
+  DEL P. Predicador General Frau Iacintho de
+<lb/>
+  Bilches, Vicario de la Villa de Xalapa.
+<lb/>
+  POR orden, y mandato de N. M. R. P. Fray MANVEL
+<lb/>
+  HVRTADO, Prior Provincial de <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice> Provincia de San Hipolito
+<lb/>
+  Martyr de Oaxaca, Orden de Predicadores, y de NN. Muy RR.
+<lb/>
+  PP. <choice><orig>Diſinidores</orig><reg type="spanish">Disinidores</reg></choice>. he <choice><orig>viſto</orig><reg type="spanish">visto</reg></choice>, y leydo con particular <choice><orig>guſto</orig><reg type="spanish">gusto</reg></choice>
+  <choice><orig>eſte</orig><reg type="spanish">este</reg></choice> MISCELANEO
+<lb/>
+  ESPIRITVAL, en Idioma Zapoteco, que ha <choice><orig>diſpueſto</orig><reg type="spanish">dispuesto</reg></choice> el M. R. P. M. Fr.
+<lb/>
+  <choice><orig>Chriſtoual</orig><reg type="spanish">Christoual</reg></choice> de Aguero. Y quando me han <choice><orig>ſeñalado</orig><reg type="spanish">señalado</reg></choice> <choice><orig>cenſor</orig><reg type="spanish">censor</reg></choice>,
+  <choice><orig>quiſiera</orig><reg type="spanish">quisiera</reg></choice> in-
+<lb/>
+  t5roducirme a <choice><orig>encomiaſta</orig><reg type="spanish">encomiasta</reg></choice>; pues merece muy bien el <choice><orig>aplauſo</orig><reg type="spanish">aplauso</reg></choice>, quien <choice><orig>deſ</orig><reg type="spanish">des</reg></choice>-
+<lb/>
+  de <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> niñes <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> ha dedicado al de <choice><orig>ſuelo</orig><reg type="spanish">suelo</reg></choice>: para
+  <choice><orig>conftituirſe</orig><reg type="spanish">conftituirse</reg></choice>, no <choice><orig>ſolo</orig><reg type="spanish">solo</reg></choice> <choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice>
+<lb/>
+  Theologo, Predicador en lo <choice><orig>Caſtellano</orig><reg type="spanish">Castellano</reg></choice> <choice><orig>eruditiſmo</orig><reg type="spanish">eruditismo</reg></choice>, <choice><orig>eloquentiſsimo</orig><reg type="spanish">eloquentissimo</reg></choice>
+<lb/>
+  Latino; <choice><orig>ſino</orig><reg type="spanish">sino</reg></choice> que tambien <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> ha dado al Idioma <choice><orig>ampliſsimo</orig><reg type="spanish">amplissimo</reg></choice> Zapoteco.
+<lb/>
+  con tanto affecto que <choice><orig>ſin</orig><reg type="spanish">sin</reg></choice> agrauio, es en el, Cathedratico <choice><orig>preſtantiſsi</orig><reg type="spanish">prestantissi</reg></choice>-
+<lb/>
+  mo. Cumpliendo charitatiuamente con el repartir de el pan, y <choice><orig>deſme</orig><reg type="spanish">desme</reg></choice>
+<lb/>
+  <choice><orig>nuſarlo</orig><reg type="spanish">nusarlo</reg></choice> a los parvulos del Euangelio, tan <choice><orig>ſelecta</orig><reg type="spanish">selecta</reg></choice>, y doctamente, que <choice><orig>ſe</orig><reg type="spanish">se</reg></choice>
+<lb/>
+  lo ha dado, y da en <choice><orig>eſte</orig><reg type="spanish">este</reg></choice> tratado, con leche, y flor, pues <choice><orig>haſta</orig><reg type="spanish">hasta</reg></choice> los niños que
+<lb/>
+  la maan le entenden: Ille regit dictis animos, &amp; pectora mulcet.
+<lb/>
+  No es la menor gloria de <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice> <choice><orig>eſcrito</orig><reg type="spanish">escrito</reg></choice> <choice><orig>ſalsr</orig><reg type="spanish">salsr</reg></choice> hecho viua imagen de <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> Au-
+<lb/>
+  tor pues auiendole de llorar en los <choice><orig>ſiglos</orig><reg type="spanish">siglos</reg></choice> futuros, <choice><orig>ſi</orig><reg type="spanish">si</reg></choice> le perdieren muer-
+<lb/>
+  to, la hallarán los Naturales, y <choice><orig>ſus</orig><reg type="spanish">sus</reg></choice> <choice><orig>Miniſtros</orig><reg type="spanish">Ministros</reg></choice> en <choice><orig>eſte</orig><reg type="spanish">este</reg></choice> tratado viuo; re-
+<lb/>
+  <choice><orig>tratandoſe</orig><reg type="spanish">tratandose</reg></choice> al exemplar de los <choice><orig>eſcritos</orig><reg type="spanish">escritos</reg></choice> del <choice><orig>Apoſtol</orig><reg type="spanish">Apostol</reg></choice>, que pondera S. Am-
+<lb/>
+  <choice><orig>broſio</orig><reg type="spanish">brosio</reg></choice> <choice><orig>Epiſt</orig><reg type="spanish">Epist</reg></choice>. S. as. Sabinum. <choice><orig>Epiſtola</orig><reg type="spanish">Epistola</reg></choice> Pauli quaedam effigies erat eius prefentia, &amp; forma, &amp;c. La Imprenta
+  <choice><orig>ſerá</orig><reg type="spanish">será</reg></choice> general beneficio en <choice><orig>eſte</orig><reg type="spanish">este</reg></choice>
+<lb/>
+  <choice><orig>Obiſpado</orig><reg type="spanish">Obispado</reg></choice>, a <choice><orig>Miniſtros</orig><reg type="spanish">Ministros</reg></choice>, y Naturales; y el <choice><orig>virtuoſo</orig><reg type="spanish">virtuoso</reg></choice> zelo del P. M. <choice><orig>ſi</orig><reg type="spanish">si</reg></choice> con
+<lb/>
+  tanta notoriedad a lixudo predicando tantos años ha. En original; <choice><orig>ſe</orig><reg type="spanish">se</reg></choice>
+<lb/>
+  dilatará profiguo en adelante <choice><orig>glorioſamente</orig><reg type="spanish">gloriosamente</reg></choice> en <choice><orig>eſtampa</orig><reg type="spanish">estampa</reg></choice>. Villa de Xalapa, Iunio 4. de 1666.
+<lb/>
+  Fr. Jancintho de Bilches.
   <pb n="14"/>
   <head type="outline">APROBACION</head>
   <head>APROBACION
@@ -540,7 +732,7 @@
   que aviendola <choice><orig>viſto</orig><reg type="spanish">visto</reg></choice> Dios, le diò à <choice><orig>ſus</orig><reg type="spanish">sus</reg></choice> lucimientos calificación de buena.
 <lb/>
 <<<<<<< HEAD
-  <foreign xml:lang="lat">Vidit Deus Lucem quod <choice><orig>eſſet</orig><reg type="spanish">esset</reg></choice><!--not sure of the transcription...--> bona</<foreign>. Aqui el Milanes Doctor, con <choice><orig>ſus</orig><reg type="spanish">sus</reg></choice> palabras, à Genef. rl
+  <foreign xml:lang="lat">Vidit Deus Lucem quod <choice><orig>eſſet</orig><reg type="spanish">esset</reg></choice><!--not sure of the transcription...--> bona</<foreign>. Aqui el Milanes Doctor, con <choice><orig>ſus</orig><reg type="spanish">sus</reg></choice> palabras, à <note place="margin right">Genef. rl<lb/>Ambr. lib.<lb/>1. exam. c.<lb/>9.</note>
 =======
   <foreign xml:lang="lat">Vidit Deus Lucem quod eſſet<!--not sure of the transcription...--> bona</foreign>. Aqui el Milanes Doctor, con <choice><orig>ſus</orig><reg type="spanish">sus</reg></choice> palabras, à Genef. rl
 >>>>>>> 45c725ea0fc094c6c843baa7ada0a61ff4572f47
@@ -563,13 +755,13 @@
 <lb/>
   decen, la recomendacion, que las abona. Son como la luz, que en <choice><orig>ſi</orig><reg type="spanish">si</reg></choice> <choice><orig>miſma</orig><reg type="spanish">misma</reg></choice>
 <lb/>
-  <choice><orig>eſtâ</orig><reg type="spanish">eſta</reg></choice> dando <choice><orig>teſtimonio</orig><reg type="spanish">testimonio</reg></choice> de <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> bondad, fin que para
+  <choice><orig>eſtâ</orig><reg type="spanish">eſta</reg></choice> dando <choice><orig>teſtimonio</orig><reg type="spanish">testimonio</reg></choice> de <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> bondad, fin que para<note place="below">[P?]</add>
   <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> calificación, <choice><orig>neceſite</orig><reg type="spanish">necesite</reg></choice>
 <lb/>
   <fw type="catchword" place="bottom-right">de--</fw>
   <!--there is a paragraph symbol here too-->
   <pb n="15"/>
-  Idem.Ibid. de ajeno <choice><orig>teſtimonio</orig><reg type="spanish">testimonio</reg></choice>. Añade <choice><orig>Ambroſio</orig><reg type="spanish">Ambrosio</reg></choice>: <foreign xml:lang="lat">Suo enim vtitur <choice><orig>teſtimonio</orig><reg type="spanish">testimonio</reg></choice>, non alieno
+  <note place="margin left">Idem.Ibid.</note> de ajeno <choice><orig>teſtimonio</orig><reg type="spanish">testimonio</reg></choice>. Añade <choice><orig>Ambroſio</orig><reg type="spanish">Ambrosio</reg></choice>: <foreign xml:lang="lat">Suo enim vtitur <choice><orig>teſtimonio</orig><reg type="spanish">testimonio</reg></choice>, non alieno
 <lb/>
   <choice><orig>ſuſſragio</orig><reg type="spanish">suſſragio</reg></choice></foreign>. Las obras de <choice><orig>eſte</orig><reg type="spanish">este</reg></choice> Libro, que <choice><orig>ſon</orig><reg type="spanish">ſon</reg></choice> luzes para la
   <choice><orig>enſeñança</orig><reg type="spanish">enseñança</reg></choice>, <choice><orig>ſon</orig><reg type="spanish">son</reg></choice> tan
@@ -699,7 +891,7 @@ Predicador General, y Not. <choice><orig>Apoſt</orig><reg type="spanish">Apost<
 <lb/>
   cada <choice><orig>qual</orig><reg type="spanish">cual</reg></choice> de los <choice><orig>Miniſtros</orig><reg type="spanish">Ministros</reg></choice> de <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice> <choice><orig>Nacion</orig><reg type="spanish">Nación</reg></choice>, lo que San Gregorio Na-
 <lb/>
-  zianzeno, al gran <choice><orig>Baſilio</orig><reg type="spanish">Basilio</reg></choice>. <foreign xml:lang="lat"> Ego te, &amp; praceptorem vita, &amp; dogmatum
+  <note place="margin left">Epiſt.26.</note>zianzeno, al gran <choice><orig>Baſilio</orig><reg type="spanish">Basilio</reg></choice>. <foreign xml:lang="lat"> Ego te, &amp; praceptorem vita, &amp; dogmatum
 <lb/>
   Doctorem aſtimaui</foreign>. La doctrina que contiene <choice><orig>eſte</orig><reg type="spanish">este</reg></choice> Libro, es <choice><orig>ſanta</orig><reg type="spanish">santa</reg></choice>,
 <lb/>
@@ -881,7 +1073,7 @@ Not. <choice><orig>Apoſty</orig><reg type="spanish">Aposty</reg></choice> Publi
   1666, años.
   Lic. Don Manuel de
 <lb/>
-  <choice><orig>Eſcalente</orig><reg type="spanish">Escalente</reg></choice>, y Mendoza
+  <choice><orig>Eſcalente</orig><reg type="spanish">Escalente</reg></choice>,<add place="below">PP<!--paragraph sign?--></add> y Mendoza
 <lb/>
   <fw type="catchword" place="bottom-right">De--</fw>
   <pb n="21"/>
@@ -986,7 +1178,7 @@ Not. <choice><orig>Apoſty</orig><reg type="spanish">Aposty</reg></choice> Publi
 <lb/>
   Provincia. Diganlo aquellos grandes, y señalados <choice><orig>Miniſtros</orig><reg type="spanish">Ministros</reg></choice> Evangelicos,
 <lb/>
-  aquellos Ferias, Grijelos, aquellos Villalobos, aquellos Pozos.
+  aquellos Ferias, Grijelos, aquellos<add place="below">PP2</add> Villalobos, aquellos Pozos.
 <lb/>
   <!--there is also the paragraph symbol at the ed of this text-->
   <fw type="catchword" place="bottom-right">aque--</fw>
@@ -1030,7 +1222,7 @@ Not. <choice><orig>Apoſty</orig><reg type="spanish">Aposty</reg></choice> Publi
   dido <choice><orig>ſegun</orig><reg type="spanish">segun</reg></choice> lo que permite el <choice><orig>fraſis</orig><reg type="spanish">frasis</reg></choice> <!--?-->, y modo de hablar de los Indios, con el
 <lb/>
   que tiene <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice> <choice><orig>ſanta</orig><reg type="spanish">santa</reg></choice> Provincia, y por donde <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> rezan en
-  <choice><orig>nueſtro</orig><reg type="spanish">nuestro</reg></choice> Convento
+  <choice><orig>nueſtro</orig><reg type="spanish">nuestro</reg></choice> Convento <add place="margin right">ofaecimis[n]<lb/>to comum<lb/>de sto[g?] oni<lb/>ngo</add>
 <lb/>
   principal de la Cuidad de Oaxaca. Y aunque no van con la <choice><orig>meſma</orig><reg type="spanish">misma</reg></choice> preci-
 <lb/>
@@ -1047,6 +1239,7 @@ Not. <choice><orig>Apoſty</orig><reg type="spanish">Aposty</reg></choice> Publi
   cias, concedidas por los Summos Pontifices, que ganan los Cofrades de
 <lb/>
   <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice> <choice><orig>ſanta</orig><reg type="spanish">santa</reg></choice> Cofradia. Item, van diez y ſeis Exemplos, <choice><orig>ò</orig><reg type="spanish">o</reg></choice> Milagros, de los que
+  <add place="margin right">FAlonzo se[?]<lb/>nandez sti<lb/>tonia, ô ana<lb/>les del [?]<lb/>o</add>
 <lb/>
   la Reyna de los Cielos ha obrado con <choice><orig>ſus</orig><reg type="spanish">sus</reg></choice> devotos, por medio de <choice><orig>eſta</orig><reg type="spanish">normalizedWord</reg></choice> <choice><orig>ſanta</orig><reg type="spanish">santa</reg></choice>
 <lb/>
@@ -1260,6 +1453,8 @@ Not. <choice><orig>Apoſty</orig><reg type="spanish">Aposty</reg></choice> Publi
 <lb/>
   <fw type="catchword" place="bottom-right">Evan-</fw>
   <pb n="27"/>
+<add place="top">Vide vocabulario todos tol 4os particulas se, de, [?], tete<lb/>
+lijgaa</add>
   Evangelicos, <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice> lengua, <choice><orig>ſino</orig><reg type="spanish">sino</reg></choice> para ayudar algo á los Predicadores del
 <lb/>
   Evangelico en ella, para el mayor bien, ya provechamiéto de los Indios,
@@ -1280,7 +1475,24 @@ Not. <choice><orig>Apoſty</orig><reg type="spanish">Aposty</reg></choice> Publi
 <lb/>
   <div>
   Fr. <choice><orig>Chriſtoual</orig><reg type="spanish">Christoual</reg></choice> de Aguero.
-  <!--There is a large written [portion below this on this page]-->
+  Ca, y [gua?] sinificu[ra?] [Z?Y?]a pospuesios h[i?]a [allre?]puesto<lb/>Algunas particulas son restrietivas, otias [sixvemi?] soli<lb/>
+  por ornato como ti ca gaa La cica to, y xa q[icra?]<lb/>usa muchas vezes [df[?]utia?]<lb/>
+  niquee, nicanij, que, caa,[EE?] cliffe uia [ilud?] de esta lengua y ese<lb/>
+  demonsinativo este [?] este [?] xij nizij, o rini.)<lb/>
+  recipoco, [ipse?]met pe, yea yoópe lomi[?]m[l?] la, y laca<lb/>
+  [?] lij te tete [?] total[?] pon puesto<lb/>
+  te [[?]bnpers?] [birninutivvs?] Ao Vocabulario Co ciá guici guia to &amp;a<lb/>
+  Lexnimos modification 27 o Vocabulario raa ca antepuesto raati, tij ri<lb/>
+  pois [leestros?], ti taa catonia, taa taati tagoa [?] meniso el acento<lb/>
+  Còxa <add place="above">còxe</add>solamente <add place="above">o [sis?]</add>[sts?] Tan [seiastrate?] [vombuna[?]so?] 393 E[?]<add place="above">[Cano[?]be?]</add>
+  Xilla[?]i pixarani coxe coxe como<lb/>
+  [?] Mo[?]ſientíoos               [cater? caler?]<lb/>
+  si [?] coxe tol 379 siemp[x?]e zeelij, [ciehe?], camí chij [enni?] queela chagaj<lb/>
+  hasta satee voeno 214<lb/>
+  unq. [you? yao?] [?] [?]cebuloa[?] [cate?] [?] [deuse? deuie?] uuelo [?]<lb/>
+  cate gollaní resseni nascido. vie a v[?]. 289 [busta?]<add place="below">f[?][94?]<lb/>
+  [?] [una?] vez 327</add>
+
   <pb n="28"/>
   <head type="outline">Alaarij tôbiticha, nicolla-</head>
   <!--should I include the entire block of heding text here?-->
@@ -1330,6 +1542,8 @@ Not. <choice><orig>Apoſty</orig><reg type="spanish">Aposty</reg></choice> Publi
 <lb/>
     cooquiina, xibejoannana xihueeziillaalij nachonnona <choice><orig>Ieſu</orig><reg type="spanish">Iesu</reg></choice> <!--is there a way to normalize this name in Zapotec(s)?--> <choice><orig>Chriſto</orig><reg type="spanish">Cristo</reg></choice>.
 <lb/>
+<add place="margin right">[todo?] el tien en</add>
+<lb/>
     Xinni Dios, petòbiloo coriinabaanini lanni guechelayooriini, col-
 <lb/>
     laala pieetezaabini quiiebaa, còca benniaatini, coca niquiioni liioo
@@ -1338,17 +1552,16 @@ Not. <choice><orig>Apoſty</orig><reg type="spanish">Aposty</reg></choice> Publi
 <lb/>
     liicocooni yoona xiñaa nachiini chela Bejoanna nachonno Xtenni
 <lb/>
-    Angeles Xtennibenniaatila. Callo cozoocaani lanni yaga cruz rua
+    Angeles Xtennibenniaatila. Callo cozoocaani lanni yaga cruz rua <add place="margin right">hasta 1 pade</add>
 <lb/>
     cotihuaa cotihuaaxeni cotinatiia teteniniia Xtenni coziillaa liini
 <lb/>
     quitobicabij quechelayoo iriini quebeecicani animas Xtennibenni-
 <lb/>
-    aati loo xooga guiiba, xooga tooxo, laaya nagueeza bezeeloo. Laani-
+    aati loo xooga guiiba, xooga tooxo, laaya nagueeza bezeeloo. Laani-<add place="margin right">dientes<lb/>brabos</add>
 <lb/>
-    cica nayooyyee chahni lanni quiichi huiini riini pallaati xillaabaane-
+    cica nayooyyee chahni lanni quiichi huiini <note place="bottom">A</note>riini pallaati xillaabaane-
 <lb/>
-    A
     <fw type="catchword" place="bottom-right">za.-</fw>
   <pb n="29"/>
   zaroo, baaneza xenne, xillaa xillaahniroo, xillaa xitootoxicueeche
@@ -1357,7 +1570,7 @@ Not. <choice><orig>Apoſty</orig><reg type="spanish">Aposty</reg></choice> Publi
 <lb/>
   Dios, ni raate recheela quiraa lij Cofrades, ni caayee laa Xtennini
 <lb/>
-  lanni Xquiichi quela Cofradia yobi xonaaxi nachonno Sāta Maria
+  <add place="margin left">indulgenci<lb/>as</add>lanni Xquiichi quela Cofradia yobi xonaaxi nachonno Sāta Maria
 <lb/>
   xinaalij coxanna nayoona yobi, B, <choice><orig>Ieſu</orig><reg type="spanish">Jesu</reg></choice> <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice> xinni Dios, laaca
 <lb/>
@@ -1371,7 +1584,9 @@ Not. <choice><orig>Apoſty</orig><reg type="spanish">Aposty</reg></choice> Publi
 <lb/>
   Xtenni cooquiihuiia too Santos Padres, ni racalooni, nooquiiche
 <lb/>
-  peani quitòbiliipe Santa <choice><orig>Ygleſia</orig><reg type="spanish">Iglesia</reg></choice>. Laagaaca quela rennaapealij Xtenni
+  peani quitòbiliipe Santa <choice><orig>Ygleſia</orig><reg type="spanish">Iglesia</reg></choice>. Laagaacani huarezaa eigalachini,<add place="margin right">[?]</add>
+<lb/>
+  huariziiguela cigani loo quela zooaaca quela rennaapealij Xtenni
 <lb/>
   biitoo, B, <choice><orig>Ieſu</orig><reg type="spanish">Jesu</reg></choice> <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice>. Nachiiba lachi ñaani cacayaate xillaabaaneza
 <lb/>
@@ -1413,7 +1628,7 @@ Not. <choice><orig>Apoſty</orig><reg type="spanish">Aposty</reg></choice> Publi
 <lb/>
   pi, zaayeeleechahui, zeelaazitoziga quetelanni quichiriini. Laa-
 <lb/>
-  nicica nayooyyeechahui lanni yòbica quichiriica, chiiñobitobi be-
+  nicica nayooyyeechahui lanni yòbica quichiriica, chiiñobitobi be-<add place="margin right">16</add>
 <lb/>
   naabi quela huechaaga yaharoo, nachi nachiibi tete, nayaapi nayaa-
 <lb/>
@@ -1422,7 +1637,7 @@ Not. <choice><orig>Apoſty</orig><reg type="spanish">Aposty</reg></choice> Publi
   ni benniaati ni coca xillaanini, ni pii ña guelani, pigaa-
 <lb/>
   A<!--?-->
-<fw type="catchword" place="bottom-right">ba--</fw>
+<fw type="catchword" place="bottom-right">ba--</fw><add place="below">son contrados</add>
   <pb n="30"/>
   ba ñeeni quela Cofradia Xtennni Santo <choice><orig>Roſario</orig><reg type="spanish">Rosario</reg></choice>. Laaca loobennaa-
 <lb/>
@@ -1442,7 +1657,7 @@ Not. <choice><orig>Apoſty</orig><reg type="spanish">Aposty</reg></choice> Publi
 <lb/>
   quela nagaaba ñeeni loquela Santa Cofradia bigaa <choice><orig>Roſario</orig><reg type="spanish">Rosario</reg></choice> quee-
 <lb/>
-  laanicica noyooyyeechahui lanni yobica quiichi riini ziaanitij laaya <!--?-->ornsiones
+  laanicica noyooyyeechahui lanni yobica quiichi riini ziaanitij laaya <add place="margin right">ornsíones</add>
 <lb/>
   nachonno, tiinatoo nag òochi, nabaa nayyxitete, ni pechaa, ni pezo-
 <lb/>
@@ -1456,7 +1671,7 @@ Not. <choice><orig>Apoſty</orig><reg type="spanish">Aposty</reg></choice> Publi
 <lb/>
   tipeaquela cotiXtennito, chij arogaa toogi xipij ruato, quioolo lachi-
 <lb/>
-  to, niiani quigoona ñeeto Xquela pechaapiaanij biltoo. Zeechaaga
+  to, niiani quigoona ñeeto Xquela pechaapiaanij biltoo. Zeechaaga <add place="margin right">[rayocleliaz?]<lb/>[SeI?]</add>
 <lb/>
   cuela naquii ña collato, quinniito loonarij nabaanito, tebela zooaaca
 <lb/>
@@ -1472,7 +1687,7 @@ Not. <choice><orig>Apoſty</orig><reg type="spanish">Aposty</reg></choice> Publi
 <lb/>
   ziigaachito Xtichani, quela conni xonnij nallaabitolooni celij.
 <lb/>
-  Pizaacani, nacaa, nayooyye echahui lanni y òbiquiichi riini, zee-
+  <add place="margin left">[mte?]</add>Pizaacani, nacaa, nayooyye echahui lanni y òbiquiichi riini, zee-
 <lb/>
   toobi looticha nachonno tete, ninaziilaa, looxticha tonoo benni
 <lb/>
@@ -1492,9 +1707,7 @@ Not. <choice><orig>Apoſty</orig><reg type="spanish">Aposty</reg></choice> Publi
 <lb/>
   hueziillaa anima Xtennini, calla quechi ña yytani loo Xquehui yòbi
 <lb/>
-  Dios lanniquiiebaa.
-<lb/>
-A2
+  Dios lanniquiiebaa.<add place="below">A2</add>
 <lb/>
 <fw type="catchword" place="bottom-right">Hua--</fw>
   <pb n="31"/>
@@ -1502,7 +1715,7 @@ A2
 <lb/>
   quiichi riini, cur úbinazaaca nachono, curubi huenni loo tete naca-
 <lb/>
-  ni, cirootete nayaanij ci cayobi Xcoocho cuiicha, ni riyootij, riyo-
+  <add place="margin left">rincemas</add>ni, cirootete nayaanij ci cayobi Xcoocho<add place="above">Eaya</add> cuiicha, ni riyootij, riyo-
 <lb/>
   oguetta looquizaal àte quizaa Xpeche, Xcaahui cabii layoo, huana-
 <lb/>
@@ -1518,7 +1731,7 @@ A2
 <lb/>
   naa ticha naaoo nagoochi, canaana taa nayoolle, cannaaxeticha
 <lb/>
-  nallaahui nacani, nizooaaca quinnij chahui quiraato zaa niguiiola,
+  <add place="margin left">[Universal?]</add>nallaahui nacani, nizooaaca quinnij chahui quiraato zaa niguiiola,
 <lb/>
   zaagonnaala zaa Pirooze pigaanala, zaa pinnihuiinila, zaa ni hua-
 <lb/>
@@ -1540,13 +1753,13 @@ A2
 <lb/>
   to, yaquibeeteto yagaacato leeaa cani ziaani liaaza cozoohuiziina la-
 <lb/>
-  chito, cocuaa cochii ño liio animas Xtennito, xaazeexa xinazaa loo
+  chito, cocuaa cochii ño liio animas Xtennito, xaazeexa xinazaa loo<add place="margin right">[cees?]<lb/>[Iesion?]</add>
 <lb/>
   ticharii? Xii rolloohuiza, xi roogoonipeaxa xii roziiguiichaxani laa-
 <lb/>
   to? Quelani xillaacica niiaxtenni cirooxootete rizaabi yaani lachia
 <lb/>
-  chaapi zaabi baalanna biitoo, B, Dios, chelanii axtenni quicaa liibi
+  <add place="margin left">Caxono<lb/>Chapi [chea?]</add>chaapi zaabi baalanna biitoo, B, Dios, chelanii axtenni quicaa liibi
 <lb/>
   liioo lachito ticha quela rieelii lachi nayoona Xtennini, cheala niiax-
 <lb/>
@@ -1554,7 +1767,7 @@ A2
 <lb/>
   Dios, chela loo Xquela chii ña xonaaxi too Santa Maria, petoopa pe-
 <lb/>
-  chaagaya, pecaayy èa pezoo Xcuaa ehahuia quiraa ticha yoo lanni
+  <add place="margin left">Junte,</add>chaagaya, pecaayy èa pezoo Xcuaa ehahuia quiraa ticha yoo lanni
 <lb/>
   quiichi riini.
 <lb/>
@@ -1599,7 +1812,7 @@ A2
 <lb/>
   tollaquee raca, niiaxtenni aca ràpa lazito tòbi quiichi libro, ni nayaa-
 <lb/>
-  loo looticha zaa, loo ticha xiyaato, ticha colleto, ticha rinniito. Ri-
+  loo looticha zaa, loo ticha xiyaato, ticha colleto, ticha rinniito. Ri-<add place="margin right">aqui</add>
 <lb/>
   ca quecheelato, rua cozeete chahuito quiraaticha caní, quelani za-
 <lb/>
@@ -1615,17 +1828,17 @@ A2
 <lb/>
   lachito quela zeella, quela coxenneroo.
 <lb/>
-  annaa yaca zoaaca gaacaa cicarij. Quelani, huaronni looya loo,
+  annaa yaca zoaaca gaacaa cicarij. Quelani, huaronni looya loo,<add place="margin right">hago [?]cccent<lb/>[aDs?]</add>
 <lb/>
   B, Dios, zaziiña lazilachito, zaayaanii animas Xtennito, quelani pe-
 <lb/>
   zaalii lachi xillaa yòbi, B, Dios, lanniquiichi riini, cotiixe chahuia lo-
 <lb/>
-  oto, tobi neza yoo, nezabee neza nenni loo, ruazaato, rua cheeto,
+  oto, tobi neza yoo, nezabee neza nenni loo, ruazaato, rua cheeto,<add place="margin right">   [sean?]<lb/>[he?] ablare</add>
 <lb/>
   pezooxcuaaya ticha lahui quinniito, collooyyea pezoo leea ticha
 <lb/>
-  xonnii, ni cuaaquito loo, B, Dios chill cheeguenni xoniito looni.
+  xonnii, ni cuaaquito loo, B, Dios chill cheeguenni xoniito looni.<add place="margin right">[?]yudios</add>
 <lb/>
   Tebela zeechaacuee lato yaca nonnato yyè, niia collaabato qui-
 <lb/>
@@ -1650,7 +1863,7 @@ A2
 <lb/>
   raa ticha quee. Chela cicarii tebela cayuhui cayaaoa gàca zooaaca
 <lb/>
-  cooquerrenii, queere cahi lachito, zooaaca quicaa yyè  lanni quiti
+  <add place="margin left">[?]<lb/>zon m[?]<lb/>[?]ivo [aerinea?]</add>cooquerrenii, queere cahi lachito, zooaaca quicaa yyè  lanni quiti
 <lb/>
   quiichi larito zeechaa cuee ticha yoonacani. Niiani zaayeeguenna
 <lb/>
@@ -1684,7 +1897,7 @@ A2
 <lb/>
   catii ti cozaabiquique ñaatolooni, nijani queechii quezaa ciagalachini
 <lb/>
-  naa, tootoo quela pecoocho piaanii Xtennini, niiani queooni pea-
+  <add place="margin left">[?]nuo</add>naa, tootoo quela pecoocho piaanii Xtennini, niiani queooni pea-
 <lb/>
   chahuia, queaacapealiia pallalooxa quela ruaticha baalannatoo ba-
 <lb/>
@@ -1694,7 +1907,7 @@ A2
 <lb/>
   ona chiiñani naa, lanni guechelayooriini. Zaayaca xi lezaaca tetea
 <lb/>
-  looni. Chela niiani ceeliipe, chiila guelala queoochii gueriia looni
+  looni. Chela niiani ceeliipe, chiila guelala queoochii gueriia looni<add place="margin right">[j3?]</add>
 <lb/>
   baabii baazaaca quela connachii Xtennia, queguiixea, queoozaalla,
 <lb/>
@@ -1710,7 +1923,7 @@ A2
 <lb/>
   aca letoobi lezaaca anima Xtennini, lanni Xquehui lichini
 <lb/>
-  quiiebaa.
+  quiiebaa.<add place="below">[guerini?] n[?]oando</add>
 <lb/>
   <fw type="catchword" place="bottom-right">ALA.-</fw>
   <pb n="34"/>
@@ -7332,8 +7545,8 @@ A2
 <lb/>
     roopa loo xiyaa canì, naca cicarij quelani yoobi Sacramento
 <lb/>
-  <note place="margin left"><foreign lang="span"> à Imagen<lb/>2 q; mue-<lb/>ſtra.<lb/>3 Todos e-<lb/>ſtos tres<lb/>
-  Verbales<lb/>quieren<lb/>dezir, q; deſpiertā<lb/><add place="margin left">[olo?]</add>4 De todo<lb/>punto ſe <lb/>derramò.<lb/>5 Ni vna<lb/>gota que-<lb/>dó.</foreign></note>
+  <note place="margin left"><foreign lang="span"> à Imagen<lb/>2<choice><orig>q;</orig><reg type="spanish">que</reg></choice>mue-<lb/>ſtra.<lb/>3 Todos e-<lb/>ſtos tres<lb/>
+  Verbales<lb/>quieren<lb/>dezir,<choice><orig>q;</orig><reg type="spanish">que</reg></choice>deſpiertā<lb/><add place="margin left">[olo?]</add>4 De todo<lb/>punto ſe <lb/>derramò.<lb/>5 Ni vna<lb/>gota que-<lb/>dó.</foreign></note>
     nayoona rijni, naca lijpeni toobi lohuaa 1 nachonno, ni rollo-
 <lb/>
     huaani ni 2 rolloo huilijni xquela cooti huaa yoobibijtoo B.
@@ -7477,7 +7690,7 @@ A2
 <lb/>
     <note place="margin left"><foreign lang="span">Blanca.<lb/>Alinſtā<lb/>se.<lb/>3 ſe con-<lb/>vierte.<lb/>4 la ſub-ſtancia.<lb/>
     5 De que<lb/> eſta veſti<lb/>do.<lb/>6 muy a-<lb/>justadas<lb/>palabras.<lb/>Todo eſto<lb/>esparade<lb/>
-    zir, q; ſe<lb/><add>7</add>llamatrā<lb/>ſubſtācia-<lb/>cion eſte<lb/>Sacramē<lb/>to.</foreign>
+    zir,<choice><orig>q;</orig><reg type="spanish">que</reg></choice>ſe<lb/><add>7</add>llamatrā<lb/>ſubſtācia-<lb/>cion eſte<lb/>Sacramē<lb/>to.</foreign>
     lanni guetta ni penni laayani, ni chijba lachiñaani, looquela
 <lb/>
     cozaa nijbini, cica rizaa nijbi benniaati chij rieeni, chij riyo-
@@ -7634,7 +7847,7 @@ A2
 <lb/>
     <choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice>. Hualijca, cica naca quiraa tichaquee, quelani
 <lb/>
-    <note place="margin left"><foreign place="span">Eſtan<lb/>juntas, y<lb/>vnidas to<lb/>das las co<lb/>ſas q; per<lb/>tencē al<lb/>ſer de <lb/>
+    <note place="margin left"><foreign place="span">Eſtan<lb/>juntas, y<lb/>vnidas to<lb/>das las co<lb/>ſas<choice><orig>q;</orig><reg type="spanish">que</reg></choice>per<lb/>tencē al<lb/>ſer de <lb/>
     Chriſto en<lb/>quanto<lb/>Dios, y en<lb/>quanto hō<lb/>bre.<lb/></foreign></note>
     * nachaaga toope narij lanni yoobi <choice><orig>Hoſtia</orig><reg type="spanish">Hostia</reg></choice> quizaa loo ni-
 <lb/>
@@ -8137,7 +8350,7 @@ zas, y mo<lb/>uimiētos<lb/>eſpiritua<lb/>les, ſe diſ<lb/>puſo.<lb/></foreig
 <lb/>
     narii nabaani benniaati cani, huanozaabi cicani laacaloo x-
 <lb/>
-    <note place="margin left"><foreign>* En que<lb/>tiempo, ó<lb/>en q; dia.</foreign></note>
+    <note place="margin left"><foreign>* En que<lb/>tiempo, ó<lb/>en<choice><orig>q;</orig><reg type="spanish">que</reg></choice>dia.</foreign></note>
     ticha pea Dios, zii cicani xillaa nachonno riini, cani niiax-
 <lb/>
     tenni yoobibiitoo <choice><orig>Ieſu</orig><reg type="spanish">Iesu</reg></choice> <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice>, aconnaatini, yacapelloo-
@@ -13073,7 +13286,7 @@ zas, y mo<lb/>uimiētos<lb/>eſpiritua<lb/>les, ſe diſ<lb/>puſo.<lb/></foreig
 <lb/>
     de la Extrema Vncio dentro yobibijtoo qujetoobi queraa
 <lb/>
-    del alma q; lo recibe. Por lo qual xquela nabaanilo, xoho, zaa
+    del alma<choice><orig>q;</orig><reg type="spanish">que</reg></choice>lo recibe. Por lo qual xquela nabaanilo, xoho, zaa
 <lb/>
     hijo, dale michas gracias á ſu gaatilo, huabaa huachahi
 <lb/>
@@ -13145,7 +13358,7 @@ zas, y mo<lb/>uimiētos<lb/>eſpiritua<lb/>les, ſe diſ<lb/>puſo.<lb/></foreig
 <lb/>
     <choice><orig>enſermedad</orig><reg type="spanish">ensermedad</reg></choice> en que <choice><orig>eſtás</orig><reg type="spanish">estás</reg></choice>, <choice><orig>ſino</orig><reg type="spanish">sino</reg></choice> quiraa quela nazaacarij, che
 <lb/>
-    que <choice><orig>eſcapes</orig><reg type="spanish">escapes</reg></choice> della, te <choice><orig>aſseguro</orig><reg type="spanish">asseguro</reg></choice>, q; la zeezianni looro zeetañe
+    que <choice><orig>eſcapes</orig><reg type="spanish">escapes</reg></choice> della, te <choice><orig>aſseguro</orig><reg type="spanish">asseguro</reg></choice>,<choice><orig>q;</orig><reg type="spanish">que</reg></choice>la zeezianni looro zeetañe
 <lb/>
     <choice><orig>deſde</orig><reg type="spanish">desde</reg></choice> agora por medio <choice><orig>deſte</orig><reg type="spanish">deste</reg></choice> Sa- lijooanima Sacramento rij la
 <lb/>
