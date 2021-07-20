@@ -133,7 +133,7 @@ Use the green-highlighted formatting for XML tags, not the red ones. Note that t
 
 ## Editor tools
 
-Use [Atom](https://atom.io/) to edit TEI files. Atom is "hackable" text editor which means we can install packages that allow it to help us edit TEI files more easily and with fewer mistakes.
+Use [Atom](https://atom.io/) to edit TEI files. Atom is a "hackable" text editor which means we can install packages that allow it to help us edit TEI files more easily and with fewer mistakes.
 
 ### Snippets
 
