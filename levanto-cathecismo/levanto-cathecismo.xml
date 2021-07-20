@@ -2,10 +2,10 @@
 <?xml-model href="TEISchema_current.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <text>
-    <div xml:lang="esp" xml:id="levanto1">
+    <div xml:lang="esp" xml:id="levanto-cathecismo1">
       <head type="outline">[Front matter]</head>
       <!-- frontmatter -->
-      <div xml:id="levanto1.1">
+      <div xml:id="levanto-cathecismo1.1">
         <head type="outline">[Cover of book and preliminary pages]</head>
         <pb n="1"/>
         <!-- cover -->
@@ -16,9 +16,9 @@
         <pb n="4"/>
       </div>
       <!-- levanto1.1 -->
-      <div xml:id="levanto1.2">
+      <div xml:id="levanto-cathecismo1.2">
         <head type="outline">[Title page]</head>
-        <div xml:id="levanto1.2.1">
+        <div xml:id="levanto-cathecismo1.2.1">
           <head type="outline">[Title]</head>
           <head rend="center">
             <choice><orig>C A T H E C I S M O</orig><reg type="spanish">C A T E C I S M O</reg></choice>
@@ -31,7 +31,7 @@
             DISPUESTO
           </head>
         </div>
-        <div xml:id="levanto1.2.2">
+        <div xml:id="levanto-cathecismo1.2.2">
           <head type="outline">[Author]</head>
           <p rend="center">
             <i>
@@ -45,7 +45,7 @@
           </p>
         </div>
         <!-- woodcut -->
-        <div xml:id="levanto1.2.3">
+        <div xml:id="levanto-cathecismo1.2.3">
           <head type="outline">[Printing information]</head>
           <p rend="center">
             <choice><orig>Reimpreffo</orig><reg type="spanish">Reimpreso</reg></choice> en la Imprenta del Colegio Real de San
@@ -58,7 +58,7 @@
         <pb n="6"/>
       </div>
       <!-- levanto1.2 -->
-      <div xml:id="levanto1.3">
+      <div xml:id="levanto-cathecismo1.3">
         <head type="outline">Parecer del R. Padre Predicador Fray Miguel Pantaleon...</head>
         <head type="levanto">
           PARECER
@@ -510,7 +510,7 @@
         <pb n="9"/>
       </div>
       <!-- levanto 1.3 -->
-      <div xml:id="levanto1.4">
+      <div xml:id="levanto-cathecismo1.4">
         <!-- second front matter letter -->
         <head type="outline">Sentir del R. P. Predicador General, y Procurador Fr. Nicolas de Gasca...</head>
         <head type="levanto">
@@ -638,7 +638,7 @@
         <pb n="10"/>
       </div>
       <!-- levanto1.4 -->
-      <div xml:id="levanto1.5">
+      <div xml:id="levanto-cathecismo1.5">
         <head type="outline">Aprobacion del R. P. Predicador General Fray Manuel de Lascari...</head>
         <head type="levanto">
           APROBACION
@@ -765,7 +765,7 @@
         <pb n="11"/>
       </div>
       <!-- levanto1.5 -->
-      <div xml:id="levanto1.6">
+      <div xml:id="levanto-cathecismo1.6">
         <head type="outline">Censura del R. P. Predicador General Fray Antonio de Medina...</head>
         <head type="levanto">
           CENSURA
@@ -953,13 +953,13 @@
         <pb n="13"/>
       </div>
       <!-- levanto1.6 -->
-      <div xml:id="levanto1.7">
+      <div xml:id="levanto-cathecismo1.7">
         <head type="outline">Suma de las Licencias</head>
         <head type="levanto">
           <i>SUMA DE LAS LICENCIAS.</i>
         </head>
         <!-- body of this page is in smaller text -->
-        <div xml:id="levanto1.7.1">
+        <div xml:id="levanto-cathecismo1.7.1">
           <head type="outline">El Excimô Señor D. Juan de Acuña...</head>
           <p>
             EL Excmô Señor D. Juan de Acuña Marques de
@@ -1004,7 +1004,7 @@
           </p>
         </div>
         <!-- ruled line -->
-        <div xml:id="levanto1.7.2">
+        <div xml:id="levanto-cathecismo1.7.2">
           <head type="outline">El Lic. D. Geronymo de Morales Sigala...</head>
           <p>
             EL Lic. D. Geronymo de Morales Sigala, Canonigo Lectoral de la San
@@ -1057,7 +1057,7 @@
           </p>
         </div>
         <!-- ruled line -->
-        <div xml:id="levanto1.7.3">
+        <div xml:id="levanto-cathecismo1.7.3">
           <head type="outline">El Mrô Fr. Dionysio Levanto...</head>
           <p>
             EL <choice><orig>Mrô</orig><reg type="spanish">Maestro</reg></choice>
@@ -1124,7 +1124,7 @@
         <pb n="14"/>
       </div>
       <!-- levanto1.7 -->
-      <div xml:id="levanto1.8">
+      <div xml:id="levanto-cathecismo1.8">
         <head type="outline">Al que Leyere</head>
         <head type="levanto" rend="center">AL QUE LEYERE</head>
         <p>
@@ -1313,7 +1313,7 @@
         <pb n="16"/>
       </div>
       <!-- levanto1.8 -->
-      <div xml:id="levanto1.9">
+      <div xml:id="levanto-cathecismo1.9">
         <head type="outline">[Introduction]</head>
         <cb n="1"/>
         <p>
@@ -1404,7 +1404,7 @@
       <!-- levanto1.9 -->
     </div>
     <!-- levanto1 -->
-    <div xml:id="levanto2">
+    <div xml:id="levanto-cathecismo2">
       <head type="outline">Cathecismo de la Doctrina Christiana, en lengua Zapoteca de el Valle</head>
       <head type="levanto" xml:lang="esp">
         CATHECISMO DE
@@ -1413,7 +1413,7 @@
         <lb/>
         Zaapoteca de el Valle.
       </head>
-      <div xml:id="levanto2.1">
+      <div xml:id="levanto-cathecismo2.1">
         <head type="outline">Todo Fiel Christiano &amp;c.</head>
         <head type="levanto" xml:lang="esp" rend="italic">Todo Fiel <choice><orig>Chriſtiano</orig><reg type="spanish">Christiano</reg></choice>, &amp;c.</head>
         <lb/>
@@ -1467,7 +1467,7 @@
         <lb/>
       </div>
       <!-- levanto2.1 -->
-      <div xml:id="levanto2.2">
+      <div xml:id="levanto-cathecismo2.2">
         <head type="outline">Por la Señal de la Santa Cruz, &amp;c.</head>
         <head>
           <foreign xml:lang="esp">
@@ -1500,7 +1500,7 @@
         <lb/>
       </div>
       <!-- levanto2.2 -->
-      <div xml:id="levanto2.3">
+      <div xml:id="levanto-cathecismo2.3">
         <head type="outline">Padre Nuestro, que estas en los Cielos, &amp;c</head>
         <head>
           <foreign xml:lang="esp">
@@ -1535,7 +1535,7 @@
         <lb/>
       </div>
       <!-- levanto2.3 -->
-      <div xml:id="levanto2.4">
+      <div xml:id="levanto-cathecismo2.4">
         <head type="outline">Dios Te Salve Maria Llena eres de gracia, &amp;c.</head>
         <head>
           <foreign xml:lang="esp">
@@ -1576,7 +1576,7 @@
         <lb/>
       </div>
       <!-- levanto2.4 -->
-      <div xml:id="levanto2.5">
+      <div xml:id="levanto-cathecismo2.5">
         <head type="outline">Dios Te Salve Reyna, y Madre de <choice><orig>Miſericordia</orig><reg type="spanish">Misericordia</reg></choice>, &amp;c.</head>
         <head>
           <foreign xml:lang="esp">
@@ -1630,7 +1630,7 @@
         <lb/>
       </div>
       <!-- levanto2.5 -->
-      <div xml:id="levanto2.6">
+      <div xml:id="levanto-cathecismo2.6">
         <head type="outline">Creo en Dios Padre Todopode <choice><orig>Roſo</orig><reg type="spanish">Roso</reg></choice>, &amp;c.</head>
         <head>
           <foreign xml:lang="esp">
@@ -1711,7 +1711,7 @@
         <lb rend="center"/>
       </div>
       <!-- levanto2.6 -->
-      <div xml:id="levanto2.7">
+      <div xml:id="levanto-cathecismo2.7">
         <head type="outline">Los Articulos de la <choice><orig>Fee</orig><reg type="spanish">Fe</reg></choice>, Son <choice><orig>Catorze</orig><reg type="spanish">Catorce</reg></choice>, &amp;c.</head>
         <head>
           <foreign xml:lang="esp">
@@ -1740,7 +1740,7 @@
         <foreign xml:lang="esp">Dios</foreign>
         ni xQuellaniguiioni.
         <lb/>
-        <div xml:id="levanto2.7.1">
+        <div xml:id="levanto-cathecismo2.7.1">
           <head type="outline">Los Que <choice><orig>Pertenecan</orig><reg type="spanish">Pertenecen</reg></choice> a la Divinidad, <choice><orig>ſon</orig><reg type="spanish">son</reg></choice> <choice><orig>eſtos</orig><reg type="spanish">estos</reg></choice></head>
           <head>
             <foreign xml:lang="esp">
@@ -1805,7 +1805,7 @@
           <lb/>
         </div>
         <!-- levanto2.7.1 -->
-        <div xml:id="levanto2.7.2">
+        <div xml:id="levanto-cathecismo2.7.2">
           <head type="outline">Los Que Pertenecen a la San: Ta Humanidad, &amp;c.</head>
           <head>
             <foreign xml:lang="esp">
@@ -1926,7 +1926,7 @@
         <!-- levanto2.7.2 -->
       </div>
       <!-- levanto2.7 -->
-      <div xml:id="levanto2.8">
+      <div xml:id="levanto-cathecismo2.8">
         <head type="outline">Los Mandamientos de la Ley de Dios <choice><orig>ſon</orig><reg type="spanish">son</reg></choice> Diez</head>
         <head rend="center">
           <foreign xml:lang="esp">
@@ -2025,7 +2025,7 @@
         <lb/>
       </div>
       <!-- levanto2.8 -->
-      <div xml:id="levanto2.9">
+      <div xml:id="levanto-cathecismo2.9">
         <head type="outline">Los Mandamientos de la Santa Madre <choice><orig>Iglefia</orig><reg type="spanish">Iglesia</reg></choice>, &amp;c.</head>
         <head rend="center" xml:lang="esp">
           LOS MANDAMIENTOS DE LA SANTA
@@ -2099,7 +2099,7 @@
         <lb/>
       </div>
       <!-- levanto2.9 -->
-      <div xml:id="levanto2.10">
+      <div xml:id="levanto-cathecismo2.10">
         <head type="outline">Los Sacramentos de la Santa Madre <choice><orig>Iglesſia</orig><reg type="spanish">Iglesia</reg></choice>, &amp;c.</head>
         <head xml:lang="esp" rend="center">
           LOS SACRAMENTOS DE LA SANTA MA
@@ -2167,7 +2167,7 @@
         <lb/>
       </div>
       <!-- levanto2.10 -->
-      <div xml:id="levanto2.11">
+      <div xml:id="levanto-cathecismo2.11">
         <head type="outline">Las Obras de Misericordia Son <choice><orig>Catorze</orig><reg type="spanish">Catorce</reg></choice>, &amp;c.</head>
         <head>
           <pc rend="center">
@@ -2285,7 +2285,7 @@
         <lb/>
       </div>
       <!-- levanto2.11 -->
-      <div xml:id="levanto2.12">
+      <div xml:id="levanto-cathecismo2.12">
         <head type="outline">Los Pecados Mortales Son <choice><orig>ſiete</orig><reg type="spanish">siete</reg></choice>, &amp;c</head>
         <head>
           <foreign xml:lang="esp">
@@ -2340,7 +2340,7 @@
         <lb/>
       </div>
       <!-- levanto2.12 -->
-      <div xml:id="levanto2.13">
+      <div xml:id="levanto-cathecismo2.13">
         <head type="outline">Contra Estos Siete Vicios <choice><orig>Ay</orig><reg type="spanish">Hay</reg></choice>: Siete Virtudes, &amp;c.</head>
         <head>
           <foreign xml:lang="esp">
@@ -2415,7 +2415,7 @@
         .
       </div>
       <!-- levanto2.13 -->
-      <div xml:id="levanto2.14">
+      <div xml:id="levanto-cathecismo2.14">
         <head type="outline">Los Enemigos <choice><orig>de el</orig><reg type="spanish">del</reg></choice> Alma, Son Tres, &amp;c.</head>
         <head>
           <foreign xml:lang="esp">
@@ -2451,7 +2451,7 @@
         <lb/>
       </div>
       <!-- levanto2.14 -->
-      <div xml:id="levanto2.15">
+      <div xml:id="levanto-cathecismo2.15">
         <head type="outline">Las Virtudes, que Hemos de Tener, <choice><orig>ſon</orig><reg type="spanish">son</reg></choice> <choice><orig>ſiete</orig><reg type="spanish">siete</reg></choice>, &amp;c.</head>
         <head>
           <foreign xml:lang="esp">
@@ -2483,7 +2483,7 @@
         <lb/>
         benniaati ruarii guechelayoo.
         <lb/>
-        <div xml:id="levanto2.15.1">
+        <div xml:id="levanto-cathecismo2.15.1">
           <head type="outline">Las Virtudes <choice><orig>Theologales</orig><reg type="spanish">Teologales</reg></choice>, Son Tres, &amp;c.</head>
           <head>
             <foreign xml:lang="esp">
@@ -2521,7 +2521,7 @@
           <lb/>
         </div>
         <!-- levanto2.15.1 -->
-        <div xml:id="levanto2.15.2">
+        <div xml:id="levanto-cathecismo2.15.2">
           <head type="outline">Las Virtudes Cardinales, Son <choice><orig>Quatro</orig><reg type="spanish">Cuatro</reg></choice>, &amp;c.</head>
           <head>
             <foreign xml:lang="esp">
@@ -2577,7 +2577,7 @@
         <!-- levanto2.15.2 -->
       </div>
       <!-- levanto2.15 -->
-      <div xml:id="levanto2.16">
+      <div xml:id="levanto-cathecismo2.16">
         <head type="outline">Las Potencias del Alma Son Tres, &amp;c.</head>
         <head>
           <foreign xml:lang="esp">
@@ -2610,7 +2610,7 @@
         <lb/>
       </div>
       <!-- levanto2.16 -->
-      <div xml:id="levanto2.17">
+      <div xml:id="levanto-cathecismo2.17">
         <head type="outline">Los Sentidos Corporales Son Cinco, &amp;c.</head>
         <head>
           <foreign xml:lang="esp">
@@ -2647,7 +2647,7 @@
         <lb/>
       </div>
       <!-- levanto2.17 -->
-      <div xml:id="levanto2.18">
+      <div xml:id="levanto-cathecismo2.18">
         <head type="outline">Los Dones <choice><orig>de el</orig><reg type="spanish">del</reg></choice> <choice><orig>Espiritu</orig><reg type="spanish">Espíritu</reg></choice> Santo <choice><orig>ſon</orig><reg type="spanish">son</reg></choice>
         <choice><orig>ſiete</orig><reg type="spanish">siete</reg></choice>, &amp;c.</head>
         <head>
@@ -2712,7 +2712,7 @@
           <lb/>
           mor de Dios.
         </foreign>
-        <div xml:id="levanto2.18.1">
+        <div xml:id="levanto-cathecismo2.18.1">
           <head type="outline"><choice><orig>Explicacion</orig><reg type="spanish">Explicación</reg></choice></head>
           <head>
             <foreign xml:lang="esp"><choice><orig>EXPLICACION</orig><reg type="spanish">EXPLICACIÓN</reg></choice>.</foreign>
@@ -2733,7 +2733,7 @@
         <!-- levanto2.18.1 -->
       </div>
       <!-- levanto2.18 -->
-      <div xml:id="levanto2.19">
+      <div xml:id="levanto-cathecismo2.19">
         <head type="outline">Las Bienaventuranzas Son Ocho, &amp;c.</head>
         <head>
           <foreign xml:lang="esp">
@@ -2820,7 +2820,7 @@
         <lb/>
       </div>
       <!-- levanto2.19 -->
-      <div xml:id="levanto2.20">
+      <div xml:id="levanto-cathecismo2.20">
         <head type="outline">Los <choice><orig>Novissimos</orig><reg type="spanish">Novísimos</reg></choice> <choice><orig>De El</orig><reg type="spanish">Del</reg></choice>Hombre</head>
         <head type="levanto" rend="center">
           <foreign xml:lang="esp">
@@ -2868,7 +2868,7 @@
         <pb n="30"/>
       </div>
       <!-- levanto2.20 -->
-      <div xml:id="levanto2.21">
+      <div xml:id="levanto-cathecismo2.21">
         <head type="outline">Nueve Remedios, para Quitar los Pecados Veniales</head>
         <head type="levanto" rend="center">
           <foreign xml:lang="esp">
@@ -2940,7 +2940,7 @@
         <lb/>
       </div>
       <!-- levanto2.21 -->
-      <div xml:id="levanto2.22">
+      <div xml:id="levanto-cathecismo2.22">
         <head type="outline">Yo Pecador Me Confiesso a Dios</head>
         <head type="levanto" rend="center">
           <foreign xml:lang="esp">
@@ -3016,7 +3016,7 @@
         <lb/>
       </div>
       <!-- levanto2.22 -->
-      <div xml:id="levanto2.23">
+      <div xml:id="levanto-cathecismo2.23">
         <head type="outline">Confiteor Deo, &amp;c. del Orden de Predicadores.</head>
         <head type="levanto" rend="center">
           <foreign xml:lang="esp" rend="italics">
@@ -3080,7 +3080,7 @@
         <lb/>
       </div>
       <!-- levanto2.23 -->
-      <div xml:id="levanto2.24">
+      <div xml:id="levanto-cathecismo2.24">
         <head type="outline">Acto de Contricion</head>
         <head type="levanto" rend="center">
           <foreign xml:lang="esp" rend="italics">ACTO DE CONTRICIÓN.</foreign>
@@ -3138,7 +3138,7 @@
       <!-- levanto2.24 -->
     </div>
     <!-- levanto2 -->
-    <div xml:id="levanto3">
+    <div xml:id="levanto-cathecismo3">
       <head type="outline">Explicacion de la Doctrina Christiana</head>
       <head type="levanto" rend="center">
         <foreign xml:lang="esp">
@@ -3192,7 +3192,7 @@
         <cb n=""/>
       </div>
       <!-- Intro to doctrinal section -->
-      <div xml:id="levanto3.1.P">
+      <div xml:id="levanto-cathecismo3.1.P">
         <head type="outline">Decid Niño como os llamais?</head>
         <cb n="1"/>
         <foreign xml:lang="esp" rend="italics">
@@ -3209,7 +3209,7 @@
         <cb n=""/>
       </div>
       <!-- levanto3.1.P -->
-      <div xml:id="levanto3.1.R">
+      <div xml:id="levanto-cathecismo3.1.R">
         <cb n="1"/>
         <foreign xml:lang="esp" rend="italics">
           <lb/>
@@ -3227,7 +3227,7 @@
         <cb n=""/>
       </div>
       <!-- levanto3.1.R -->
-      <div xml:id="levanto3.2.P">
+      <div xml:id="levanto-cathecismo3.2.P">
         <cb n="1"/>
         <foreign xml:lang="esp" rend="italics">
           <lb/>
@@ -5453,7 +5453,7 @@
       </head>
     </div>
     <!-- Levanto 3 -->
-    <div xml:id="levanto4">
+    <div xml:id="levanto-cathecismo4">
       <!-- Avery Aghazarian's section -->
       <pb n="46"/>
       <!-- decoration -->
@@ -5469,12 +5469,12 @@
         <lb/>
       </head>
       <!-- decoration -->
-      <div xml:id="levanto4.1">
+      <div xml:id="levanto-cathecismo4.1">
         <head type="outline">Mysterios gozosos.</head>
         <head type="levanto" xml:lang="esp" rend="center">
           MYSTERIOS GOZOSOS
         </head>
-        <div xml:id="levanto4.1.1">
+        <div xml:id="levanto-cathecismo4.1.1">
           <head type="outline">Deprecacion.</head>
           <head type="levanto" xml:lang="esp" rend="center italics">
             D<choice><orig>DEPRECACION</orig><reg type="spanish">DEPRECACIÓN</reg></choice>.
@@ -5487,7 +5487,7 @@
           <lb/>
           Loo becoogo, xi Coquiia.
         </div>
-        <div xml:id="levanto4.1.2">
+        <div xml:id="levanto-cathecismo4.1.2">
           <head type="outline">Mysterio Primero. De la encarnacion.</head>
           <head type="levanto" xml:lang="esp" rend="center italics">
             <choice><orig>MYSTERIO</orig><reg type="spanish">MISTERIO</reg></choice> PRIMERO
@@ -5516,7 +5516,7 @@
           Coroopa liica Perſona.
           <lb/>
         </div>
-        <div xml:id="levanto4.1.3">
+        <div xml:id="levanto-cathecismo4.1.3">
           <head type="outline">Mysterio Segundo. De la Visitacion.</head>
           <head type="levanto" xml:lang="esp" rend="center italics">
             <choice><orig>MYSTERIO</orig><reg type="spanish">MISTERIO</reg></choice> SEGUNDO
@@ -5541,7 +5541,7 @@
           Quella gracia xiBiitooni.
           <lb/>
         </div>
-        <div xml:id="levanto4.1.4">
+        <div xml:id="levanto-cathecismo4.1.4">
           <head type="outline">Mysterio Tercero. Del Nacimiento del Hijo de Dios.</head>
           <head type="levanto" xml:lang="esp" rend="center italics">
             <choice><orig>MYSTERIO</orig><reg type="spanish">MISTERIO</reg></choice> TERCERO
@@ -5574,7 +5574,7 @@
         </fw>
         <!-- Claire Benham's section -->
         <pb n="48"/>
-        <div xml:id="levanto4.1.5">
+        <div xml:id="levanto-cathecismo4.1.5">
           <head type="outline"><choice><orig>Mysterio</orig><reg type="spanish">Misterio</reg></choice> <choice><orig>Quarto</orig><reg type="spanish">Cuarto</reg></choice>. De la <choice><orig>Presentacion</orig><reg type="spanish">Presentación</reg></choice> en el Templo.</head>
           <head type="levanto" xml:lang="esp" rend="center italics">
             <choice><orig>MYSTERIO</orig><reg type="spanish">MISTERIO</reg></choice> <choice><orig>QUARTO</orig><reg type="spanish">CUARTO</reg></choice>
@@ -5599,7 +5599,7 @@
           Loo coxaana xquellaquiia.
           <lb/>
         </div>
-        <div xml:id="levanto4.1.6">
+        <div xml:id="levanto-cathecismo4.1.6">
           <head type="outline"><choice><orig>Mysterio</orig><reg type="spanish">Misterio</reg></choice> Quinto. Del Niño Perdido, y Hallado.</head>
           <head type="levanto" xml:lang="esp" rend="center italics">
             <choice><orig>MYSTERIO</orig><reg type="spanish">MISTERIO</reg></choice> QUINTO.
@@ -5627,7 +5627,7 @@
           Rozeeteni ticha naaxi.
           <lb/>
         </div>
-        <div xml:id="levanto4.1.7">
+        <div xml:id="levanto-cathecismo4.1.7">
           <head type="outline"><choice><orig>Deprecacion</orig><reg type="spanish">Deprecación</reg></choice> a la <choice><orig>Santissma</orig><reg type="spanish">Santísima</reg></choice> Virgen.</head>
           <head type="levanto" xml:lang="esp" rend="center italics">
             <choice><orig>DEPRECACION</orig><reg type="spanish">DEPRECACIÓN</reg></choice>
@@ -5650,7 +5650,7 @@
           </fw>
           <pb n="49"/>
           <lb/>
-          <div xml:id="levanto4.1.7.1">
+          <div xml:id="levanto-cathecismo4.1.7.1">
             <head type="outline">Ave Filia Dei Patris, &amp;c.</head>
             <head type="levanto" xml:lang="esp" rend="center italics">Ave Filia Dei Patris, &amp;c.</head>
             Annaa Channa Maria he!
@@ -5661,7 +5661,7 @@
             Xicoogo Quionii Baalii
             <lb/>
           </div>
-          <div xml:id="levanto4.1.7.2">
+          <div xml:id="levanto-cathecismo4.1.7.2">
             <head type="outline">Maria Mater gratiæ, &amp;c.</head>
             <head type="levanto" xml:lang="esp" rend="center italics">
               Maria Mater gratiæ, &amp;c.
@@ -5683,7 +5683,7 @@
           </div>
         </div>
       </div>
-      <div xml:id="levanto4.2">
+      <div xml:id="levanto-cathecismo4.2">
         <head type="outline"><choice><orig>Mysterios</orig><reg type="spanish">Misterios</reg></choice> Dolorosos.</head>
         <head type="levanto" xml:lang="esp" rend="center italics">
           <choice><orig>MYSTERIOS</orig><reg type="spanish">MISTERIOS</reg></choice>
@@ -5697,7 +5697,7 @@
         </fw>
         <lb/>
         <pb n="50"/>
-        <div xml:id="levanto4.2.1">
+        <div xml:id="levanto-cathecismo4.2.1">
           <head type="outline"><choice><orig>Deprecacion</orig><reg type="spanish">Deprecación</reg></choice> a la <choice><orig>Santissima</orig><reg type="spanish">Santísima</reg></choice> Virgen.</head>
           <head type="levanto" xml:lang="esp" rend="center italics">
             <choice><orig>DEPRECACION</orig><reg type="spanish">DEPRECACIÓN</reg></choice>
@@ -5717,7 +5717,7 @@
           <lb/>
         </div>
         <!-- levanto4.2.1 -->
-        <div xml:id="levanto4.2.2">
+        <div xml:id="levanto-cathecismo4.2.2">
           <head type="outline"><choice><orig>Mysterio</orig><reg type="spanish">Misterio</reg></choice> Primero. La <choice><orig>Oracion</orig><reg type="spanish">Oración</reg></choice> del Huerto.</head>
           <head type="levanto" xml:lang="esp" rend="center italics">
             La <choice><orig>Oracion</orig><reg type="spanish">Oración</reg></choice> del Huerto.
@@ -5740,7 +5740,7 @@
           Ciica niça loona looni.
           <lb/>
         </div>
-        <div xml:id="levanto4.2.3">
+        <div xml:id="levanto-cathecismo4.2.3">
           <head type="outline"><choice><orig>Mysterio</orig><reg type="spanish">Misterio</reg></choice> Segundo. De los Azotes <choice><orig>ȃ</orig><reg type="spanish">a</reg></choice> la Columna.</head>
           <head type="levanto" xml:lang="esp" rend="center italics">
             <choice><orig>MYSTERIO</orig><reg type="spanish">MISTERIO</reg></choice> SEGUNDO.
@@ -5769,7 +5769,7 @@
           Ni zoochahui layoo zaaca.
           <lb/>
         </div>
-        <div xml:id="levanto4.2.4">
+        <div xml:id="levanto-cathecismo4.2.4">
           <head type="outline"><choice><orig>Mysterio</orig><reg type="spanish">Misterio</reg></choice> Tercero. De la <choice><orig>Coronacion</orig><reg type="spanish">Coronación</reg></choice> de Espinas.</head>
           <head type="levanto" xml:lang="esp" rend="center italics">
             <choice><orig>MYSTERIO</orig><reg type="spanish">MISTERIO</reg></choice> TERCERO.
@@ -5798,7 +5798,7 @@
           tobi coba quii.
           <lb/>
         </div>
-        <div xml:id="levanto4.2.5">
+        <div xml:id="levanto-cathecismo4.2.5">
           <head type="outline"><choice><orig>Mysterio</orig><reg type="spanish">Misterio</reg></choice> <choice><orig>Quarto</orig><reg type="spanish">Cuarto</reg></choice>. De la Cruz <choice><orig>ácuetas</orig><reg type="spanish">a cuestas</reg></choice>.</head>
           <head type="levanto" xml:lang="esp" rend="center italics">
             <choice><orig>MYSTERIO</orig><reg type="spanish">MISTERIO</reg></choice> <choice><orig>QUARTO</orig><reg type="spanish">CUARTO</reg></choice>.
@@ -5823,7 +5823,7 @@
           Huazii, huachiibaa riñaani,
           <lb/>
         </div>
-        <div xml:id="levanto4.2.6">
+        <div xml:id="levanto-cathecismo4.2.6">
           <head type="outline"><choice><orig>Mysterio</orig><reg type="spanish">Misterio</reg></choice> Quinto. De la <choice><orig>Crucifixion</orig><reg type="spanish">Crucifixión</reg></choice> del Señor.</head>
           <head type="levanto" xml:lang="esp" rend="center italics">
             <choice><orig>MYSTERIO</orig><reg type="spanish">MISTERIO</reg></choice> QUINTO.
@@ -5854,7 +5854,7 @@
           Loo Jesvs quebaaniñeena.
           <lb/>
         </div>
-        <div xml:id="levanto4.2.7">
+        <div xml:id="levanto-cathecismo4.2.7">
           <head type="outline"><choice><orig>Deprecacion</orig><reg type="spanish">Deprecación</reg></choice> a la Virgen Nuestra Señora.</head>
           <head type="levanto" xml:lang="esp" rend="center italics">
             <choice><orig>Deprecacion</orig><reg type="spanish">Deprecación</reg></choice> <choice><orig>â</orig><reg type="spanish">a</reg></choice> la Virgen <choice><orig>Nueſtra</orig><reg type="spanish">Nuestra</reg></choice> Señora.
@@ -5875,13 +5875,13 @@
         </div>
       </div>
       <!-- levanto4.2 -->
-      <div xml:id="levanto4.3">
+      <div xml:id="levanto-cathecismo4.3">
         <head type="outline"><choice><orig>Mysterios</orig><reg type="spanish">Misterios</reg></choice> Gloriosos.</head>
         <head type="levanto" xml:lang="esp" rend="center">
           <choice><orig>MYSTERIOS</orig><reg type="spanish">MISTERIOS</reg></choice> GLORIOSOS.
           <lb/>
         </head>
-        <div xml:id="levanto4.3.1">
+        <div xml:id="levanto-cathecismo4.3.1">
           <head type="outline"><choice><orig>Deprecacion</orig><reg type="spanish">Deprecación</reg></choice> <choice><orig>ȃ</orig><reg type="spanish">a</reg></choice> la <choice><orig>Santissima</orig><reg type="spanish">Santísima</reg></choice> Virgen.</head>
           <head type="levanto" xml:lang="esp" rend="center italics">
             <choice><orig>Deprecacion</orig><reg type="spanish">Deprecaciín</reg></choice> <choice><orig>â</orig><reg type="spanish">a</reg></choice> la <choice><orig>Santiſsima</orig><reg type="spanish">Santísima</reg></choice> Virgen.
@@ -5898,7 +5898,7 @@
           <lb/>
           <lb/>
         </div>
-        <div xml:id="levanto4.3.2">
+        <div xml:id="levanto-cathecismo4.3.2">
           <head type="outline"><choice><orig>Mysterio</orig><reg type="spanish">Misterio</reg></choice> Primero. <choice><orig>Del</orig><reg type="spanish">De</reg></choice> la <choice><orig>Resurreccion</orig><reg type="spanish">Resurrección</reg></choice> de <choice><orig>Christo</orig><reg type="spanish">Cristo</reg></choice>.</head>
           <head type="levanto" xml:lang="esp" rend="center italics">
             <choice><orig>MYSTERIO</orig><reg type="spanish">MISTERIO</reg></choice> PRIMERO.
@@ -5927,7 +5927,7 @@
           Xiñaalii quellanazaaca.
           <lb/>
         </div>
-        <div xml:id="levanto4.3.3">
+        <div xml:id="levanto-cathecismo4.3.3">
           <head type="outline"><choice><orig>Mysterio</orig><reg type="spanish">Misterio</reg></choice> Segundo. De la <choice><orig>Ascension</orig><reg type="spanish">Ascensión</reg></choice> de <choice><orig>Christo</orig><reg type="spanish">Cristo</reg></choice> <choice><orig>á</orig><reg type="spanish">a</reg></choice> los Cielos.</head>
           <head type="levanto" xml:lang="esp" rend="center italics">
             <choice><orig>MYSTERIO</orig><reg type="spanish">MISTERIO</reg></choice> SEGUNDO.
@@ -5955,7 +5955,7 @@
           Bennibaatoo ciilla eela.
           <lb/>
         </div>
-        <div xml:id="levanto4.3.4">
+        <div xml:id="levanto-cathecismo4.3.4">
           <head type="outline"><choice><orig>Mysterio</orig><reg type="spanish">Misterio</reg></choice> Tercero. De las Venida del Espiritu Santo.</head>
           <head type="levanto" xml:lang="esp" rend="center italics">
             <choice><orig>MYSTERIO</orig><reg type="spanish">MISTERIO</reg></choice> TERCERO.
@@ -5986,7 +5986,7 @@
           Quiaache xillaa xianiini:
           <lb/>
         </div>
-        <div xml:id="levanto4.3.5">
+        <div xml:id="levanto-cathecismo4.3.5">
           <head type="outline"><choice><orig>Mysterio</orig><reg type="spanish">Misterio</reg></choice> <choice><orig>Quarto</orig><reg type="spanish">Cuarto</reg></choice>. De la <choice><orig>Assumpcion</orig><reg type="spanish">Asunción</reg></choice> de Nuestra Señora.</head>
           <head type="levanto" xml:lang="esp" rend="center italics">
             <choice><orig>MYSTERIO</orig><reg type="spanish">MISTERIO</reg></choice> QUARTO.
@@ -6011,7 +6011,7 @@
           Nateete ciroo quiraani.
           <lb/>
         </div>
-        <div xml:id="levanto4.3.6">
+        <div xml:id="levanto-cathecismo4.3.6">
           <head type="outline"><choice><orig>Mysterio</orig><reg type="spanish">Misterio</reg></choice> Quinto. De la <choice><orig>Coronacion</orig><reg type="spanish">Coronación</reg></choice> de Nuestra Señora.</head>
           <head type="levanto" xml:lang="esp" rend="center italics">
             <choice><orig>MYSTERIO</orig><reg type="spanish">MISTERIO</reg></choice> QUINTO.
@@ -6038,7 +6038,7 @@
         </div>
         <fw type="catchword" place="bottom-right">DE</fw>
         <pb n="55"/>
-        <div xml:id="levanto4.3.7">
+        <div xml:id="levanto-cathecismo4.3.7">
           <head type="outline"><choice><orig>Deprecacion</orig><reg type="spanish">Deprecación</reg></choice>. A la Virgen Nuestra Señora.</head>
           <head type="levanto" xml:lang="esp" rend="center italics">
             <choice><orig>DEPRECACION</orig><reg type="spanish">DEPRECACIÓN</reg></choice>
