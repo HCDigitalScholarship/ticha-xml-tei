@@ -50,13 +50,27 @@ Line breaks cannot be encoded by simply hitting enter in your text editor, and h
 
 ### Headings
 
+Headings can be marked with the <head> tag. In general, headings should not appear on the same line as non-heading text.
+
+There are two types of headings: outline and normal. Normal headings appear in the HTML output:
+
 ```xml
 <head>2.a Conjugacion</head>
+```
+
+Outline headings appear only in the outline:
+```xml
+<head type="outline">3.2 [2.a Conjugacion]</head>
+```
+
+Usually both are seen together so a corresponding heading in the document has a heading in the automatically-generated outline:
+
+```xml
+<head>2.a Conjugacion</head>
+<head type="outline">3.2 [2.a Conjugacion]</head>
 <lb/>
 La 2.a  Conjugacion solo tiene tres verbos irregulares
 ```
-
-Headings can be marked with the <head> tag. In general, headings should not appear on the same line as non-heading text.
 
 ### Foreign languages
 
