@@ -1512,9 +1512,8 @@
     </div>
     <!--levanto-arte 1.3.1.9.4.3-->
     <div xml:id="levanto-arte1.3.1.9.4.4">
-    <head type="outline"> <choice><orig>Quarta</orig><reg type="spanish">Cuarta</reg></choice>
-        <choice><orig>Conjugacion</orig><reg type="spanish">Conjugación</reg></choice>
-    </head>
+    <head type="outline"> <choice><orig>Quarta</orig><reg type="spanish">Cuarta</reg></choice>Conjugacion</head>
+    <head><choice><orig>Quarta</orig><reg type="spanish">Cuarta</reg></choice><choice><orig>Conjugacion</orig><reg type="spanish">Conjugación</reg></choice></head>
     En esta se forman de los adjetivos de los verbos pasivos y neu-
     <lb/>
     tros, de los pasivos, el <foreign xml:lang="zap">Ri</foreign> vuelto en
@@ -1861,6 +1860,7 @@
     <head> <choice><orig>Preterito</orig><reg type="spanish">Pretérito</reg></choice> Perfecto de <choice><orig>Yndicativo</orig><reg type="spanish">Indicativo</reg></choice> </head>
     <div xml:id="levanto-arte1.3.2.1.1">
     <head type="outline"> [Primer <choice><orig>Preterito</orig><reg type="spanish">Pretérito</reg></choice>] </head>
+    <head> [Primer <choice><orig>Preterito</orig><reg type="spanish">Pretérito</reg></choice>] </head>
     <lb/>
     <choice><orig>Singu.l</orig><reg type="spanish">Singular</reg></choice> <foreign xml:lang="zap">Pechelaya</foreign>----------Yo hallé
     <lb/>
@@ -1918,6 +1918,7 @@
     <!--levanto-arte 1.3.2.2-->
     <div xml:id="levanto-arte1.3.2.3">
     <head type="outline"> [<choice><orig>Ymperativo</orig><reg type="spanish">Imperativo</reg></choice>] </head>
+    <head> [<choice><orig>Ymperativo</orig><reg type="spanish">Imperativo</reg></choice>] </head>
     <div xml:id="levanto-arte1.3.2.3.1">
     <head type="outline"> <choice><orig>Ymperativo</orig><reg type="spanish">Imperativo</reg></choice> de Singular </head>
     <head> <choice><orig>Ymperativo</orig><reg type="spanish">Imperativo</reg></choice> de Singular </head>
@@ -1952,18 +1953,22 @@
     <!--levanto-arte 1.3.2.4-->
     <div xml:id="levanto-arte1.3.2.5">
     <head type="outline"> [<choice><orig>Preterito</orig><reg type="spanish">Pretérito</reg></choice> imperfecto] </head>
+    <head> [<choice><orig>Preterito</orig><reg type="spanish">Pretérito</reg></choice> imperfecto] </head>
     <div xml:id="levanto-arte1.3.2.5.1">
     <head type="outline"> <choice><orig>Preterito</orig><reg type="spanish">Pretérito</reg></choice> imperfecto de Subjuntivo </head>
+    <head> <choice><orig>Preterito</orig><reg type="spanish">Pretérito</reg></choice> imperfecto de Subjuntivo </head>
     </div>
     <!--levanto-arte 1.3.2.5.1-->
     <div xml:id="levanto-arte1.3.2.5.2">
     <head type="outline"> <choice><orig>Preterito</orig><reg type="spanish">Pretérito</reg></choice> imperfecto de Obtativo </head>
+    <head> <choice><orig>Preterito</orig><reg type="spanish">Pretérito</reg></choice> imperfecto de Obtativo </head>
     </div>
     <!-- levanto-arte 1.3.2.5.2-->
     </div>
     <!--levanto-arte 1.3.2.5-->
     <div xml:id="levanto-arte1.3.2.6">
     <head type="outline"> <choice><orig>Ynfinitivo</orig><reg type="spanish">Infinitivo</reg></choice> </head>
+    <head> <choice><orig>Ynfinitivo</orig><reg type="spanish">Infinitivo</reg></choice> </head>
     </div>
     <!--levanto-arte 1.3.2.6-->
     <div xml:id="levanto-arte1.3.2.7">
@@ -2135,7 +2140,7 @@
     <!--levanto-arte 1.3.2.14-->
     <div xml:id="levanto-arte1.3.2.15">
     <head type="outline"><choice><orig>Preterito</orig><reg type="spanish">Pretérito</reg></choice> Perfecto</head>
-    ____ <choice><orig>Preterito</orig><reg type="spanish">Pretérito</reg></choice> Perfecto____
+    <head>____<choice><orig>Preterito</orig><reg type="spanish">Pretérito</reg></choice> Perfecto____</head>
     <lb/>
     Sing^x <foreign xml:lang="zap">Peelea</foreign> . . . Yo vine actualmente
     <lb/>
@@ -2470,6 +2475,7 @@
     <!--levanto-arte 1.3.3.3-->
     <div xml:id="levanto-arte1.3.3.4">
     <head type="outline"><choice><orig>Ymperativo</orig><reg type="spanish">Imperativo</reg></choice></head>
+    <head><choice><orig>Ymperativo</orig><reg type="spanish">Imperativo</reg></choice></head>
     <lb/>
     <choice><orig>Ymperativo</orig><reg type="spanish">Imperativo</reg></choice>
     <lb/>
@@ -2504,8 +2510,10 @@
     <!--levanto-arte 1.3.3.5-->
     <div xml:id="levanto-arte1.3.3.6">
     <head type="outline">[Preterito <choice><orig>Ymperfecto</orig><reg type="spanish">Imperfecto</reg></choice>]</head>
+    <head>[Preterito <choice><orig>Ymperfecto</orig><reg type="spanish">Imperfecto</reg></choice>]</head>
   <div xml:id="levanto-arte1.3.3.6.1">
     <head type="outline">Preterito <choice><orig>Ymperfecto</orig><reg type="spanish">Imperfecto</reg></choice> de Subjunctivo</head>
+    <head>Preterito <choice><orig>Ymperfecto</orig><reg type="spanish">Imperfecto</reg></choice> de Subjunctivo</head>
     </div>
     <!--levanto-arte 1.3.3.6.1-->
     <div xml:id="levanto-arte1.3.3.6.2">
@@ -2516,10 +2524,12 @@
     <!--levanto-arte 1.3.3.6-->
     <div xml:id="levanto-arte1.3.3.7">
     <head type="outline"><choice><orig>Ynfinitivo</orig><reg type="spanish">Infinitivo</reg></choice></head>
+    <head><choice><orig>Ynfinitivo</orig><reg type="spanish">Infinitivo</reg></choice></head>
     </div>
     <!--levanto-arte 1.3.3.7-->
     <div xml:id="levanto-arte1.3.3.8">
     <head type="outline">Preterito imperfecto y <choice><orig>Plusquam</orig><reg type="spanish">Pluscuam</reg></choice> perfecto</head>
+    <head>Preterito imperfecto y <choice><orig>Plusquam</orig><reg type="spanish">Pluscuam</reg></choice> perfecto</head>
     </div>
     <!--levanto-arte 1.3.3.8-->
     <div xml:id="levanto-arte1.3.3.9">
@@ -2852,6 +2862,7 @@
     <!--levanto-arte 1.3.3.15.3-->
     <div xml:id="levanto-arte1.3.3.15.4">
     <head type="outline"><choice><orig>Quarta</orig><reg type="spanish">Cuarta</reg></choice> Regla</head>
+    <head><choice><orig>Quarta</orig><reg type="spanish">Cuarta</reg></choice> Regla</head>
     </div>
     <!--levanto-arte 1.3.3.15.4-->
     <div xml:id="levanto-arte1.3.3.15.5">
@@ -3178,6 +3189,7 @@
     <!--levanto-arte 1.3.3.17.9-->
     <div xml:id="levanto-arte1.3.3.17.10">
     <head type="outline"><choice><orig>Ymperativo</orig><reg type="spanish">Imperativo</reg></choice></head>
+    <head><choice><orig>Ymperativo</orig><reg type="spanish">Imperativo</reg></choice></head>
     </div>
     <!--levanto-arte 1.3.3.17.10-->
     <div xml:id="levanto-arte1.3.3.17.11">
@@ -3296,6 +3308,7 @@
     <!--levanto-arte 1.3.4.5-->
     <div xml:id="levanto-arte1.3.4.6">
     <head type="outline"><choice><orig>Ymperativo</orig><reg type="spanish">Imperativo</reg></choice></head>
+    <head><choice><orig>Ymperativo</orig><reg type="spanish">Imperativo</reg></choice></head>
     </div>
     <!--levanto-arte 1.3.4.6-->
     <div xml:id="levanto-arte1.3.4.7">
@@ -6317,7 +6330,7 @@
     <!-- levanto-arte 5.3 -->
     <div xml:id="levanto-arte5.4">
     <head type="outline"><choice><orig>Quarto</orig><reg type="spanish">Cuarto</reg></choice> Mandamiento</head>
-    <choice><orig>Quarto</orig><reg type="spanish">Cuarto</reg></choice> Mandamiento.
+    <head><choice><orig>Quarto</orig><reg type="spanish">Cuarto</reg></choice> Mandamiento.</head>
     <lb/>
   Has honrnado a tu Padre, y Madre?
   <lb/>
