@@ -147,6 +147,8 @@ since the head and foreign tags overlap. To repair that, you'd have to do someth
 yohoto quella rirabaniza, cocalo rtijalaaya, laa</foreign>
 ```
 
+Don't nest <pb/> tags inside <choice> tags.
+
 ## Standard XML style for Ticha documents
 
 In XML, things like spaces and which type of quotes used don't matter. But to keep all our XML documents looking uniform, we use a standard style for all XML tags:
