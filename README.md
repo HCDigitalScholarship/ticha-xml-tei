@@ -50,7 +50,7 @@ Line breaks cannot be encoded by simply hitting enter in your text editor, and h
 
 ### Headings
 
-Headings can be marked with the <head> tag. In general, headings should not appear on the same line as non-heading text.
+Headings can be marked with the `<head>` tag. In general, headings should not appear on the same line as non-heading text.
 
 There are two types of headings: outline and normal. Normal headings appear in the HTML output:
 
@@ -73,7 +73,7 @@ La 2.a  Conjugacion solo tiene tres verbos irregulares
 ```
 
 Outline headings should not contain choice tags. Their content should be the normalized text of the heading. Normal headings should contain choice tags that normalize text as appropriate.
-  
+
 ```xml
 <head type="outline">Quenta en Zaapoteco</head>
 <head>
@@ -88,7 +88,7 @@ Outline headings should not contain choice tags. Their content should be the nor
   </choice>
 </head>
 ```
-  
+
 This way, headings in the text have normalized and original versions available, and the automatically-generated outline appears in a normalized transcription.
 
 ### Foreign languages
@@ -97,7 +97,7 @@ This way, headings in the text have normalized and original versions available, 
 Primeramente esta particula <foreign xml:lang="zap">Ca</foreign>, se usa de ella en esta
 ```
 
-Foreign languages are marked with the <foreign> tag. This one is a little harder than the others, since it is likely to be the first tag you need which has "attributes."
+Foreign languages are marked with the `<foreign>` tag. This one is a little harder than the others, since it is likely to be the first tag you need which has "attributes."
 
 The attribute we're interested in is the `xml:lang` attribute, which tells what foreign language the span of text is in. This seems a little weird for highly bilingual texts like many that we're working with, since we have to decide what the non-foreign language should be, but typically we'll choose a particular language to consider unmarked in each text, and mark everything else in foreign tags. For Zapotec, the attribute should be `xml:lang="zap"`, for Latin `xml:lang="lat"`, and for Spanish `xml:lang="esp"`.
 
@@ -105,7 +105,7 @@ Two important things to remember about foreign tags are that the foreign text sh
 
 ### Normalization
 
-To make these texts more accessible, we can encode a modern Spanish version of the transcription using the <choice> tag. While viewing the text, someone can then choose to view the original transcription or the modernized transcription by clicking on the tabs directly above the transcription (https://ticha.haverford.edu/en/texts/levanto-arte/101/original/). Currently, the Levanto Arte has a modern Spanish normalization.
+To make these texts more accessible, we can encode a modern Spanish version of the transcription using the `<choice>` tag. While viewing the text, someone can then choose to view the original transcription or the modernized transcription by clicking on the tabs directly above the transcription (https://ticha.haverford.edu/en/texts/levanto-arte/101/original/). Currently, the Levanto Arte has a modern Spanish normalization.
 
 ```xml
 <choice><orig>Como</orig><reg type="spanish">¿Cómo</reg></choice>
@@ -147,7 +147,7 @@ since the head and foreign tags overlap. To repair that, you'd have to do someth
 yohoto quella rirabaniza, cocalo rtijalaaya, laa</foreign>
 ```
 
-Don't nest <pb/> tags inside <choice> tags.
+Don't nest `<pb/>` tags inside `<choice>` tags.
 
 ## Standard XML style for Ticha documents
 
