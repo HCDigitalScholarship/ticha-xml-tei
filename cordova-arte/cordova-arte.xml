@@ -343,21 +343,12 @@
                libre<lb break="no"/>mente pueda imprimir
                <choice><orig>eldicho</orig>
                   <reg type="spanish">el dicho</reg></choice>
-               Arte, de lengua
-               <choice>
-                  <orig>Za
+               Arte, de lengua za<lb break="no"/>poteca,
                <fw type="catchword" place="bottom-right">
-                        <hi rend="bold"> † 2 poteca,</hi>
-                     </fw>
+                 <hi rend="bold"> † 2 poteca,</hi>
+               </fw>
                <pb break="yes" type="arte" n="7"/>
                <pb break="yes" type="pdf" facs="http://archive.org/stream/arteenlenguazapo00juan#page/n7/mode/1up"/>
-               <lb break="no"/>poteca,</orig>
-               <reg type="spanish">za<lb break="no"/>poteca,
-               <fw type="catchword" place="bottom-right">
-                        <hi rend="bold"> † 2 poteca,</hi>
-                     </fw>
-               <pb break="yes" type="arte" n="7"/>
-               <pb break="yes" type="pdf" facs="http://archive.org/stream/arteenlenguazapo00juan#page/n7/mode/1up"/></reg></choice>
                conforme al original
                <choice><orig>q̃</orig>
                   <reg type="spanish">que</reg></choice>
