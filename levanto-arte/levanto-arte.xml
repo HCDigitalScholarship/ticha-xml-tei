@@ -5018,13 +5018,7 @@
     </div>
     <!-- levanto-arte 3.3 -->
     <div xml:id="levanto-arte3.4">
-      <head type="outline">
-        <choice>
-          <orig>Presentacion</orig>
-          <reg type="spanish">Presentación</reg>
-        </choice>
-        para contraer Matrimonio
-      </head>
+      <head type="outline">Presentación</head>
       <head>
         <choice>
           <orig>Presentacion</orig>
@@ -5125,7 +5119,8 @@
       </div>
       <!--arte-levanto 3.4.1-->
       <div xml:id="levanto-arte3.4.2">
-      <head type="outline"> <choice> <orig>Ynterrogatorio</orig> <reg type="spanish">Interrogatorio</reg> </choice> <choice> <orig>ã</orig> <reg type="spanish">a</reg> </choice> los testigos </head>
+      <head type="outline">Interrogatorio a los testigos</head>
+      <head> <choice> <orig>Ynterrogatorio</orig> <reg type="spanish">Interrogatorio</reg> </choice> <choice> <orig>ã</orig> <reg type="spanish">a</reg> </choice> los testigos </head>
       <lb/>
       <choice> <orig>Haces</orig> <reg type="spanish">¿Haces</reg> </choice> juramento de responder la verdad, <choice> <orig>ã</orig> <reg type="spanish">a</reg> </choice> todo lo
       <lb/>
