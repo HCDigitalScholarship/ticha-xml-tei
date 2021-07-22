@@ -150,14 +150,7 @@
              <div xml:id="cordova-arte1.3">
             <head type="outline">[Licencias]</head>
             <div xml:id="cordova-arte1.3.1" part="N" org="uniform" sample="complete">
-             <head type="outline">Licencia del muy
-                <choice><orig>excellente</orig>
-                <reg type="spanish">excelente</reg>
-                </choice> <choice><orig>ſeñor</orig>
-                   <reg type="spanish">señor</reg></choice>
-                <choice><orig>Viſorey</orig>
-                      <reg type="spanish">Virrey</reg>
-                </choice> [Don <choice><orig>Martin</orig><reg type="spanish">Martín</reg></choice> Enriquez].</head>
+             <head type="outline">Licencia del muy excelente señor Virrey [Don Martín Enriquez].</head>
              <head type="cordova"><choice><orig>L I C E N C I A</orig><reg type="spacing">LICENCIA</reg></choice>
                 <choice><orig>D E L</orig><reg type="spacing">DEL</reg></choice>
              <lb/>muy
@@ -2598,7 +2591,7 @@
                   </div>
 
                   <div xml:id="cordova-arte2.3.2">
-                     <head type="outline">Nombres <choice><orig>apellativos</orig><reg type="spanish">apelativo</reg></choice> o comunes</head>
+                     <head type="outline">Nombres apelativo o comunes</head>
                      <head type="cordova">
                         <choice><orig>N O M B R E S   A P E L L A T I V O S</orig>
                            <reg type="spacing">NOMBRES APELLATIVOS</reg>
@@ -4851,8 +4844,7 @@
 
                </div>
                <div xml:id="cordova-arte2.3.18" part="N" org="uniform" sample="complete">
-                  <head type="outline">Nombres instrumentales o
-                     <choice><orig>effectivos</orig><reg type="spanish">efectivos</reg></choice></head>
+                  <head type="outline">Nombres instrumentales o efectivos</head>
                   <head type="cordova">NOMBRES <choice><orig>INSTRVMEN</orig><reg type="spanish">INSTRUMEN</reg></choice><lb/>tales o
                      <choice><orig>effectiuos</orig><reg type="spanish">efectivos</reg></choice>.</head>
                   <p><pc>¶</pc>Llamamos por
@@ -7701,9 +7693,7 @@
                   <head type="outline">Verbos Activos</head>
                   <head type="cordova"><choice><orig>SIGVENSE</orig><reg type="spanish">SIGUEN SE</reg></choice> LOS VERBOS</head>
                   <div xml:id="cordova-arte2.6.4.1">
-                     <head type="outline">La primera
-                        <choice><orig>conjugacion</orig>
-                           <reg type="spanish">conjugación</reg></choice></head>
+                     <head type="outline">La primera conjugación</head>
                      <head type="cordova"><choice><orig>actiuos</orig>
                         <reg type="spanish">activos</reg></choice> de la primera
                         <choice><orig>congu<lb break="no"/>cion</orig>
@@ -13187,14 +13177,14 @@
             </div>
             <div xml:id="cordova-arte2.7">
                <head type="outline">Materia de los participios</head>
+               <head type="cordova">
+                   <choice>
+                       <orig>M A T E R I A  de los participios</orig>
+                       <reg type="spacing">MATERIA de los participios</reg>
+                   </choice>
+               </head>
                <div xml:id="cordova-arte2.7.1">
                   <head type="outline">[Introducción]</head>
-                  <head type="outline">
-                      <choice>
-                          <orig>M A T E R I A  de los participios</orig>
-                          <reg type="spacing">MATERIA de los participios</reg>
-                      </choice>
-                  </head>
                   <p>
                      <choice><orig>YAuiendo</orig><reg type="spanish">Habiendo</reg></choice> ya
                      <choice><orig>ſatisfecho</orig><reg type="spanish">satisfecho</reg></choice>
@@ -15800,7 +15790,7 @@
                     </p>
                  </div>
                  <div xml:id="cordova-arte2.12.9">
-                    <head type="outline"><foreign xml:lang="cvz">Cazoba</foreign> <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign> <foreign xml:lang="cvz">caçoba</foreign> 8</head>
+                    <head type="outline">Cazoba vel caçoba 8</head>
                     <head type="cordova"><foreign xml:lang="cvz"><choice><orig>C A Z O B A</orig><reg type="spacing">CAZOBA</reg></choice></foreign>.   <foreign xml:lang="lat"><choice><abbr>L</abbr><expan>vel</expan></choice></foreign>.   <foreign xml:lang="cvz">C A <choice><orig>C,</orig><reg type="typography">Ç</reg></choice> O B A</foreign>.</head>
                     <p>8
                     </p>
@@ -16317,7 +16307,7 @@
                     </p>
                  </div>
                  <div xml:id="cordova-arte2.12.18">
-                    <head type="outline"><foreign xml:lang="cvz">Coopa</foreign> <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign> <foreign xml:lang="cvz">cooba</foreign> 17</head>
+                    <head type="outline">Coopa vel cooba 17</head>
                     <head type="cordova"><foreign xml:lang="cvz"><choice><orig>C O O P A</orig><reg type="spacing">COOPA</reg></choice></foreign>.   <foreign xml:lang="lat"><choice><abbr>L</abbr><expan>vel</expan></choice></foreign>.   <foreign xml:lang="cvz">C O O B A</foreign>.</head>
                     <p>17
                     </p>
@@ -16423,7 +16413,7 @@
                     </p>
                  </div>
                  <div xml:id="cordova-arte2.12.21">
-                    <head type="outline"><foreign xml:lang="cvz">Gaa</foreign> 20</head>
+                    <head type="outline">Gaa 20</head>
                     <head type="cordova"><foreign xml:lang="cvz"><choice><orig>G A A</orig><reg type="spacing">GAA</reg></choice></foreign>.</head>
                     <p>20
                     </p>
@@ -16478,9 +16468,7 @@
                     </p>
                  </div>
                  <div xml:id="cordova-arte2.12.22">
-                    <head type="outline"><foreign xml:lang="cvz">Gene</foreign>
-                       <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign>
-                       <foreign xml:lang="cvz">xene</foreign> 21</head>
+                    <head type="outline">Gene vel xene 21</head>
                     <head type="cordova"><foreign xml:lang="cvz"><choice><orig>G E N E</orig><reg type="spacing">GENE</reg></choice></foreign>.
                        <foreign xml:lang="lat"><choice><abbr>L</abbr><expan>vel</expan></choice></foreign>. <foreign xml:lang="cvz">X E N E</foreign>. </head>
                     <p>21
@@ -17176,7 +17164,7 @@
                     </p>
                  </div>
                  <div xml:id="cordova-arte2.12.36">
-                    <head type="outline"><foreign xml:lang="cvz">Niyele</foreign> <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign> <foreign xml:lang="cvz">niele</foreign> 35</head>
+                    <head type="outline">Niyele vel niele 35</head>
                     <head type="cordova"><foreign xml:lang="cvz">N I Y E L E</foreign>.   <foreign xml:lang="lat"><choice><abbr>L</abbr><expan>vel</expan></choice></foreign>,   <foreign xml:lang="cvz">N I E L E</foreign>.</head>
                     <p>35
                     </p>
@@ -18015,7 +18003,7 @@
                     </p>
                  </div>
                  <div xml:id="cordova-arte2.12.55">
-                    <head type="outline"><foreign xml:lang="cvz">Tini</foreign> <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign> <foreign xml:lang="cvz">teni</foreign> 53</head>
+                    <head type="outline">Tini vel teni 53</head>
                     <head type="cordova"><foreign xml:lang="cvz">T I N I</foreign>.   <foreign xml:lang="lat"><choice><abbr>L</abbr><expan>vel</expan></choice></foreign>.   <foreign xml:lang="cvz">T E N I</foreign>.</head>
                     <p>53
                     </p>
@@ -18465,7 +18453,7 @@
                     </p>
                  </div>
                  <div xml:id="cordova-arte2.12.66">
-                    <head type="outline"><foreign xml:lang="cvz">Xe</foreign> <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign> <foreign xml:lang="cvz">xee</foreign> 64</head>
+                    <head type="outline">Xe vel xee 64</head>
                     <head type="cordova"><foreign xml:lang="cvz"><choice><orig>X E</orig><reg type="spacing">XE</reg></choice></foreign>.   <foreign xml:lang="lat"><choice><abbr>L</abbr><expan>vel</expan></choice></foreign>.   <foreign xml:lang="cvz">X E E</foreign>.</head>
                     <p>64
                     </p>
@@ -18484,7 +18472,7 @@
                     </p>
                  </div>
                  <div xml:id="cordova-arte2.12.67">
-                    <head type="outline"><foreign xml:lang="cvz">Xene</foreign> <foreign xml:lang="lat" ana="vel"><choice><abbr>l</abbr><expan>vel</expan></choice></foreign> <foreign xml:lang="cvz">xeni</foreign> 65</head>
+                    <head type="outline">Xene vel xeni 65</head>
                     <head type="cordova"><foreign xml:lang="cvz"><choice><orig>X E N E</orig><reg type="spacing">XENE</reg></choice></foreign>.   <foreign xml:lang="lat"><choice><abbr>L</abbr><expan>vel</expan></choice></foreign>.   <foreign xml:lang="cvz">X E N I</foreign>.</head>
                     <p>65
                     </p>
@@ -21746,12 +21734,12 @@
                              </p>
                           </div>
                           <div xml:id="cordova-arte2.14.3.1.7.4">
-                             <head type="outline">del preterito de la <choice><orig>boz</orig><reg type="spanish">voz</reg></choice> passiva</head>
-                             <head type="cordova"><choice><orig>P A R T I C I P I O S.<lb/>PArticipios del preterito de la <choice><orig>boz</orig><reg type="spanish">voz</reg></choice>
-                                <choice><orig>paſsiua</orig>
-                                   <reg type="spanish">pasiva</reg></choice>.</orig><reg type="spacing">PARTICIPIOS. PArticipios del preterito de la <choice><orig>boz</orig><reg type="spanish">voz</reg></choice>
-                                      <choice><orig>paſsiua</orig>
-                  <reg type="spanish">pasiva</reg></choice>.</reg><reg type="spanish">PARTICIPIOS. PArticipios del pretérito del a voz pasiva.</reg></choice></head>
+                             <head type="outline">PARTICIPIOS PArticipios del preterito de la voz passiva</head>
+                             <head type="cordova"><choice><orig>P A R T I C I P I O S</orig><reg type="spacing">PARTICIPIOS</reg></choice>.<lb/>PArticipios del preterito de la <choice><orig>boz</orig><reg type="spanish">voz</reg></choice>
+                              <choice>
+                                <orig>paſsiua</orig>
+                                <reg type="spanish">pasiva</reg>
+                              </choice>.</head>
                              <p><choice><orig>Eſtos</orig><reg type="spanish">Estos</reg></choice>
                                 <lb/><choice><orig>ſon</orig><reg type="spanish">son</reg></choice> todos los preteritos perfectos del indicati<pc type="hyphen">-</pc>
                                 <lb break="no"/>uo de los verbos <choice><orig>paſsiuos</orig>
@@ -26223,8 +26211,7 @@
                </p>
             </div>
             <div xml:id="cordova-arte3.2">
-               <head type="outline">La <choice><orig>quenta</orig>
-                     <reg type="spanish">cuenta</reg></choice> comun</head>
+               <head type="outline">La cuenta comun</head>
                <head type="cordova"><hi rend="bold"><choice><orig>SIGVESE LA<lb/>quenta comun.</orig><reg type="spacing">SIGVESE LA quenta comun.</reg><reg type="spanish">SIGUESE LA cuenta común</reg></choice></hi></head>
                <div xml:id="cordova-arte3.2.1">
                   <head type="outline">[Lista de números]</head>
@@ -27540,8 +27527,7 @@
                </div>
             </div>
             <div xml:id="cordova-arte3.3">
-               <head type="outline">La <choice><orig>quenta</orig>
-                     <reg type="spanish">cuenta</reg></choice> para contar años</head>
+               <head type="outline">La cuenta para contar años</head>
                <head type="cordova"><choice><orig>S I G V E S E   L A   Q V E N T A<lb/>  para contar años.</orig><reg type="spacing">SIGVESE LA QVENTA para contar años.</reg><reg type="spanish">SIGUESE LA CUENTA para contar años.</reg></choice></head>
                <div xml:id="cordova-arte3.3.1">
                   <head type="outline">[Introducción]</head>
@@ -27604,7 +27590,7 @@
                   </p>
                </div>
                <div xml:id="cordova-arte3.3.2">
-                  <head type="outline"><choice><orig>Quenta de años passados</orig><reg type="spanish">Cuenta de años pasados</reg></choice></head>
+                  <head type="outline">Cuenta de años pasados</head>
                   <head type="cordova"><choice><orig>QVENTA DE ANOS<lb/>paſſados</orig><reg type="spanish">QUENTA DE AÑOS<lb/>pasados</reg></choice>.</head>
                   <p><pc>¶</pc><choice><orig>Eſte año en que eſtamos</orig>
                      <reg type="spanish">Este año en que estamos</reg></choice>.
@@ -27716,7 +27702,7 @@
                   </p>
                </div>
                <div xml:id="cordova-arte3.3.3">
-                  <head type="outline"><choice><orig>Quenta</orig><reg type="spanish">Cuenta</reg></choice> de los años venideros</head>
+                  <head type="outline">Cuenta de los años venideros</head>
                   <head type="cordova"><pc>¶</pc><choice><orig>Quenta</orig><reg type="spanish">Cuenta</reg></choice> de los años venideros.</head>
                   <p><pc>¶</pc><choice><orig>Eſte año en que eſtamos</orig><reg type="spanish">Este año en que estamos</reg></choice>.
                      <foreign xml:lang="cvz">Yza yánná</foreign>,
@@ -27865,7 +27851,7 @@
                </div>
             </div>
             <div xml:id="cordova-arte3.4">
-               <head type="outline"><choice><orig>Quenta</orig><reg type="spanish">Cuenta</reg></choice> de los meses</head>
+               <head type="outline">Cuenta de los meses</head>
                <head type="cordova"><choice><orig>QVENTA</orig><reg type="spanish">CUENTA</reg></choice> de los
                   <choice><orig>meſes</orig><reg type="spanish">meses</reg></choice>.</head>
                <p><pc>¶</pc><choice><orig>Enel</orig>
@@ -27892,7 +27878,7 @@
                </p>
             </div>
             <div xml:id="cordova-arte3.5">
-               <head type="outline"><choice><orig>Quenta</orig><reg type="spanish">Cuenta</reg></choice> de los días</head>
+               <head type="outline">Cuenta de los días</head>
                <head type="cordova"><choice><orig>QVENTA</orig><reg type="spanish">CUENTA</reg></choice> DE<lb/>los
                   <choice><orig>dias</orig><reg type="spanish">días</reg></choice>.</head>
                <div xml:id="cordova-arte3.5.1">
@@ -27920,7 +27906,7 @@
                   </p>
                </div>
                <div xml:id="cordova-arte3.5.2">
-                  <head type="outline">Los <choice><orig>dias passados</orig><reg type="spanish">días pasados</reg></choice></head>
+                  <head type="outline">Los días pasados</head>
                   <p><pc>¶</pc>Los <choice><orig>dias paſſados quentan por el modo ſiguiente</orig>
                      <reg type="spanish">días pasados cuentan por el modo siguiente</reg></choice>,
                      <lb/>y tampoco
