@@ -63,14 +63,33 @@ Outline headings appear only in the outline:
 <head type="outline">3.2 [2.a Conjugacion]</head>
 ```
 
-Usually both are seen together so a corresponding heading in the document has a heading in the automatically-generated outline:
+Usually both are seen together. This means that a heading in the HTML output will have a corresponding heading in the automatically-generated outline:
 
 ```xml
 <head>2.a Conjugacion</head>
-<head type="outline">3.2 [2.a Conjugacion]</head>
+<head type="outline">2.a Conjugación</head>
 <lb/>
 La 2.a  Conjugacion solo tiene tres verbos irregulares
 ```
+
+Outline headings should not contain choice tags. Their content should be the normalized text of the heading. Normal headings should contain choice tags that normalize text as appropriate.
+  
+```xml
+<head type="outline">Quenta en Zaapoteco</head>
+<head>
+  <choice>
+    <orig>Quenta</orig>
+    <reg type="spanish">Cuenta</reg>
+  </choice>
+  en
+  <choice>
+    <orig>Zaapoteco</orig>
+    <reg type="spanish">Zapoteco</reg>
+  </choice>
+</head>
+```
+  
+This way, headings in the text have normalized and original versions available, and the automatically-generated outline appears in a normalized transcription.
 
 ### Foreign languages
 
