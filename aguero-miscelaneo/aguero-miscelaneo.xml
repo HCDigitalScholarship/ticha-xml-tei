@@ -3003,7 +3003,7 @@ lijgaa</add>
   <pb n="50"/>
   En lengua Zapoteca
 <lb/>
-  Oracion de S. Thomas; para la hora de la muerte.
+  <foreign xml:lang="span">Oracion de S. Thomas; para la hora de la muerte.</foreign>
 <lb/>
   Alaarij zetôbi tij lâya nachonno tete, ni
 <lb/>
@@ -3344,7 +3344,7 @@ lijgaa</add>
   <pb n="55"/>
   Oracion de S. Thomas:
 <lb/>
-  Oracion de D. Thomas; antes de la Comunion.
+  <foreign xml:lang="span">Oracion de D. Thomas; antes de la Comunion.</foreign>
 <lb/>
   Ala arij tobi tij laaya nachonno tete ni
 <lb/>
@@ -3464,7 +3464,7 @@ lijgaa</add>
 <lb/>
   Yyzaguela. Cacacicacica <choice><orig>Ieſus</orig><reg type="spanish">Iesus</reg></choice>.
 <lb/>
-  Oracion de S. Thomas <choice><orig>deſpues</orig><reg type="spanish">despues</reg></choice> de la Comunion.
+  <foreign xml:lang="span">Oracion de S. Thomas <choice><orig>deſpues</orig><reg type="spanish">despues</reg></choice> de la Comunion.</foreign>
 <lb/>
   Alaarij zeetobi tij laaya nachonno tete,
 <lb/>
@@ -3684,13 +3684,13 @@ lijgaa</add>
 <lb/>
   MISTERIOS GOZOSOS.
 <lb/>
-  <choice><orig>Verſ</orig><reg type="spanish">Vers</reg></choice>. Deus in adiutorium meum intende.
+  <choice><orig>Verſ</orig><reg type="spanish">Vers</reg></choice>. <foreign xml:lang="lat">Deus in adiutorium meum intende.</foreign>
 <lb/>
-  <choice><orig>Reſp</orig><reg type="spanish">Resp</reg></choice>. Domine ad adiu vandum me <choice><orig>feſtina</orig><reg type="spanish">festina</reg></choice>.
+  <choice><orig>Reſp</orig><reg type="spanish">Resp</reg></choice>. <foreign xml:lang="lat">Domine ad adiu vandum me <choice><orig>feſtina</orig><reg type="spanish">festina</reg></choice>.</foreign>
 <lb/>
-  <choice><orig>Verſ</orig><reg type="spanish">Vers</reg></choice>. Gloria Patri, &amp; Filio, &amp; Spiritui Sancto.
+  <choice><orig>Verſ</orig><reg type="spanish">Vers</reg></choice>. <foreign xml:lang="lat">Gloria Patri, &amp; Filio, &amp; Spiritui Sancto.</foreign>
 <lb/>
-  <choice><orig>Reſp</orig><reg type="spanish">Resp</reg></choice>. Sicut erat in principio, &amp; uunc[word?], &amp;<choice><orig>ſemper</orig><reg type="spanish">semper</reg></choice>, &amp; <choice><orig>inſecu</orig><reg type="spanish">insecu</reg></choice>-
+  <choice><orig>Reſp</orig><reg type="spanish">Resp</reg></choice>. <foreign xml:lang="lat">Sicut erat in principio, &amp; uunc[word?], &amp;<choice><orig>ſemper</orig><reg type="spanish">semper</reg></choice>, &amp; <choice><orig>inſecu</orig><reg type="spanish">insecu</reg></choice>-</foreign>
 <lb/>
   la <choice><orig>ſeculorum</orig><reg type="spanish">seculorum</reg></choice>. Amen
 <lb/>
@@ -3772,9 +3772,9 @@ lijgaa</add>
 <lb/>
   Tij laaya. Anaa Channa Mariahe, côllani chii liaaza.
 <lb/>
-  Tij laaya. Gloria Patri, &amp; Filo, &amp; Spiritual Sancto. Stcut crat in
+  Tij laaya. <foreign xml:lang="lat">Gloria Patri, &amp; Filo, &amp; Spiritual Sancto. Stcut crat in
 <lb/>
-  principio &amp; nune &amp; <choice><orig>ſemper</orig><reg type="spanish">semper</reg></choice>, &amp; in <choice><orig>ſecula</orig><reg type="spanish">secula</reg></choice> <choice><orig>ſaculorum</orig><reg type="spanish">saculorum</reg></choice>. Amen. Cô-
+  principio &amp; nune &amp; <choice><orig>ſemper</orig><reg type="spanish">semper</reg></choice>, &amp; in <choice><orig>ſecula</orig><reg type="spanish">secula</reg></choice> <choice><orig>ſaculorum</orig><reg type="spanish">saculorum</reg></choice>. Amen.</foreign> Cô-
 <lb/>
   llani zeroobizi liaaza.
 <lb/>
@@ -3858,7 +3858,7 @@ lijgaa</add>
 <lb/>
   Annaa Channa Mariahe! &amp;c.
 <lb/>
-  Gloria Patri &amp; Filio &amp; Spiritui Sancto, &amp;e.
+  <foreign xml:lang="lat">Gloria Patri &amp; Filio &amp; Spiritui Sancto, &amp;e.</foreign>
 <lb/>
   Ticha Xonij loo Dios.
 <lb/>
@@ -3962,7 +3962,7 @@ lijgaa</add>
 <lb/>
   Anna Chanua Mariahe! chij liaaza.
 <lb/>
-  Gloria Patri &amp; Filio &amp; Spiritui Sancto, &amp;c.
+  <foreign xml:lang="span">Gloria Patri &amp; Filio &amp; Spiritui Sancto, &amp;c.</foreign>
 <lb/>
   Ticha Xonnij loo Dios.
 <lb/>
@@ -4062,7 +4062,7 @@ lijgaa</add>
 <lb/>
   Anna Chana Maria he!
 <lb/>
-  Gloria Patra &amp; Filio &amp; Spiritui Sancto, &amp;c.
+  <foreign xml:lang="lat">Gloria Patra &amp; Filio &amp; Spiritui Sancto, &amp;c.</foreign>
 <lb/>
   Ticha Xonij loo Dios.
 <lb/>
@@ -4148,7 +4148,7 @@ lijgaa</add>
 <lb/>
   Anna channa Mariahe!
 <lb/>
-  Gloria Patri &mp; Filio &amp; Spiritui Sancto, &amp;c.
+  <foreign xml:lang="lat">Gloria Patri &mp; Filio &amp; Spiritui Sancto, &amp;c.</foreign>
 <lb/>
   Ticha Xonij loo Dios.
 <lb/>
@@ -4212,7 +4212,7 @@ lijgaa</add>
 <lb/>
   tila benni <choice><orig>Chriſtiano</orig><reg type="spanish">Christiano</reg></choice>, côlla quitoobi queue lachini, zoaate quechee-
 <lb/>
-  labaa nezani, quela Indulgencia plennaria nizeeloo ticha rennàni,
+  labaa nezani, quela <foreign xml:lang="span">Indulgencia plennaria</foreign> nizeeloo ticha rennàni,
 <lb/>
   quela huenniitilloo, quelaquiia ni nozaabi quiixe benniquee niiax-
 <lb/>
@@ -4258,7 +4258,7 @@ lijgaa</add>
 <lb/>
   MISTERIOS DOLOROSOS.
 <lb/>
-  Deus in adiutorium meum intende, &amp;c.
+  <foreign xml:lang="lat">Deus in adiutorium meum intende, &amp;c.</foreign>
 <lb/>
   Alaarij coroopa loo coroopa xcuaa Xibaa bigaaquiie
 <lb/>
@@ -4344,7 +4344,7 @@ lijgaa</add>
 <lb/>
   Annaa Channa Mariahe!
 <lb/>
-  Gloria Patri &amp; Filio &amp; Spiritui Sancto, &amp;c.
+  <foreign xml:lang="lat">Gloria Patri &amp; Filio &amp; Spiritui Sancto, &amp;c.</foreign>
 <lb/>
   Ticha Xonnij loo Dios.
 <lb/>
