@@ -617,7 +617,7 @@
 <lb/>
    &amp;c.
 <lb/>
-  <head>Fr. <choice><orig>Iuan</orig><reg type="spanish">Juan</reg></choice><add place="bottom">[P?]<!--parahraph symbol, I think?--> de Robles</head>
+  <head>Fr. <choice><orig>Iuan</orig><reg type="spanish">Juan</reg></choice><add place="bottom">[P?]<!--paragraph symbol, I think?--> de Robles</add></head>
   <pb n="13"/>
   <head type="outline">APROBACION</head>
   <head>APROBACION</head>
@@ -684,12 +684,8 @@
     <lb/>
     Predicador, y <choice><orig>Profeſſor</orig><reg type="spanish">Professor</reg></choice> de la lengua
     <lb/>
-<<<<<<< HEAD
-    Zapoteca, <choice><orig>diſcipulo</orig><reg type="spanish">discipulo</reg></choice> de el Autor.<head>
-  <div>
-=======
-    Zapoteca, diſcipulo de el Autor.</head>
->>>>>>> 45c725ea0fc094c6c843baa7ada0a61ff4572f47
+    Zapoteca, <choice><orig>diſcipulo</orig><reg type="spanish">discipulo</reg></choice> de el Autor.</head>
+  <div/>
   NO puede <choice><orig>ſer</orig><reg type="spanish">ser</reg></choice> mayor el aprieto, en que me ha <choice><orig>pueſto</orig><reg type="spanish">puesto</reg></choice> de mi Supe-
 <lb/>
   rior el mandato, ni con él pude huir el empeño, de executarlo,
@@ -730,11 +726,7 @@
 <lb/>
   que aviendola <choice><orig>viſto</orig><reg type="spanish">visto</reg></choice> Dios, le diò à <choice><orig>ſus</orig><reg type="spanish">sus</reg></choice> lucimientos calificación de buena.
 <lb/>
-<<<<<<< HEAD
-  <foreign xml:lang="lat">Vidit Deus Lucem quod <choice><orig>eſſet</orig><reg type="spanish">esset</reg></choice><!--not sure of the transcription...--> bona</<foreign>. Aqui el Milanes Doctor, con <choice><orig>ſus</orig><reg type="spanish">sus</reg></choice> palabras, à <note place="margin right">Genef. rl<lb/>Ambr. lib.<lb/>1. exam. c.<lb/>9.</note>
-=======
-  <foreign xml:lang="lat">Vidit Deus Lucem quod eſſet<!--not sure of the transcription...--> bona</foreign>. Aqui el Milanes Doctor, con <choice><orig>ſus</orig><reg type="spanish">sus</reg></choice> palabras, à Genef. rl
->>>>>>> 45c725ea0fc094c6c843baa7ada0a61ff4572f47
+  <foreign xml:lang="lat">Vidit Deus Lucem quod <choice><orig>eſſet</orig><reg type="spanish">esset</reg></choice><!--not sure of the transcription...--> bona</foreign>. Aqui el Milanes Doctor, con <choice><orig>ſus</orig><reg type="spanish">sus</reg></choice> palabras, à <note place="margin right">Genef. rl<lb/>Ambr. lib.<lb/>1. exam. c.<lb/>9.</note>
 <lb/>
   las obras de el Autor tan nacidas, que ellas <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> vienen aplicadas. <foreign xml:lang="lat">Bonerum Ambr. lib.
 <lb/>
@@ -754,7 +746,7 @@
 <lb/>
   decen, la recomendacion, que las abona. Son como la luz, que en <choice><orig>ſi</orig><reg type="spanish">si</reg></choice> <choice><orig>miſma</orig><reg type="spanish">misma</reg></choice>
 <lb/>
-  <choice><orig>eſtâ</orig><reg type="spanish">eſta</reg></choice> dando <choice><orig>teſtimonio</orig><reg type="spanish">testimonio</reg></choice> de <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> bondad, fin que para<note place="below">[P?]</add>
+  <choice><orig>eſtâ</orig><reg type="spanish">eſta</reg></choice> dando <choice><orig>teſtimonio</orig><reg type="spanish">testimonio</reg></choice> de <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> bondad, fin que para<note place="below">[P?]</note>
   <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> calificación, <choice><orig>neceſite</orig><reg type="spanish">necesite</reg></choice>
 <lb/>
   <fw type="catchword" place="bottom-right">de--</fw>
@@ -772,12 +764,8 @@
 <lb/>
   men que las apruebe, ni <choice><orig>cenſura</orig><reg type="spanish">censura</reg></choice> que las califique: <foreign xml:lang="lat">externo !commendatore non
 <lb/>
-<<<<<<< HEAD
-  egent./<foreign> Y todo el Libro es <choice><orig>vna</orig><reg type="spanish">una</reg></choice> luz, que <choice><orig>eſtà</orig><reg type="spanish">esta</reg></choice> dando <choice><orig>baſtante</orig><reg type="spanish">bastante</reg></choice>
+  egent.</foreign> Y todo el Libro es <choice><orig>vna</orig><reg type="spanish">una</reg></choice> luz, que <choice><orig>eſtà</orig><reg type="spanish">esta</reg></choice> dando <choice><orig>baſtante</orig><reg type="spanish">bastante</reg></choice>
   <choice><orig>teſtimonio</orig><reg type="spanish">testimonio</reg></choice> de <choice><orig>ſu</orig><reg type="spanish">su</reg></choice>
-=======
-  egent.</foreign> Y todo el Libro es <choice><orig>vna</orig><reg type="spanish">una</reg></choice> luz, que <choice><orig>eſtà</orig><reg type="spanish">esta</reg></choice> dando <choice><orig>baſtante</orig><reg type="spanish">bastante</reg></choice> <choice><orig>teſtimonio</orig><reg type="spanish">testimonio</reg></choice> de <choice><orig>ſu</orig><reg type="spanish">su</reg></choice>
->>>>>>> 45c725ea0fc094c6c843baa7ada0a61ff4572f47
 <lb/>
   bondad, <choice><orig>ſin</orig><reg type="spanish">sin</reg></choice> que <choice><orig>ſea</orig><reg type="spanish">sea</reg></choice> <choice><orig>neceſſario</orig><reg type="spanish">necessario</reg></choice> otro
   <choice><orig>teſtimonio</orig><reg type="spanish">testimonio</reg></choice> para <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> calificacion. <foreign xml:lang="lat">Suo enim
@@ -1468,11 +1456,11 @@ lijgaa</add>
 <lb/>
   <choice><orig>miniſterio</orig><reg type="spanish">ministerio</reg></choice>.
 <lb/>
-  <div>
+  <div/>
 <!--can this be a header?-->
   Cuyo menor hermano es.
 <lb/>
-  <div>
+  <div/>
   Fr. <choice><orig>Chriſtoual</orig><reg type="spanish">Christoual</reg></choice> de Aguero.
   Ca, y [gua?] sinificu[ra?] [Z?Y?]a pospuesios h[i?]a [allre?]puesto<lb/>Algunas particulas son restrietivas, otias [sixvemi?] soli<lb/>
   por ornato como ti ca gaa La cica to, y xa q[icra?]<lb/>usa muchas vezes [df[?]utia?]<lb/>
@@ -1928,7 +1916,7 @@ lijgaa</add>
   <pb n="34"/>
   Fol. I.
 <lb/>
-  <head type="outline"> ALAARIJLAACA <head>
+  <head type="outline"> ALAARIJLAACA </head>
     <head> ALAARIJLAACA
 <lb/>
   yôbi quichijño xijba bigaa quije Roſa-
@@ -1940,10 +1928,10 @@ lijgaa</add>
   Xiibaa quela huezaacalachi. Rennaani MISTERIOS
 <lb/>
   Gozosos.
-  <head>
+</head>
 <lb/>
   Cotòbi Xijbaa.
-<div>
+<div/>
 <lb/>
   Loocotòbi xiiba nirij collaabachahui quitòbi quique
 <lb/>
@@ -1985,8 +1973,8 @@ lijgaa</add>
 <lb/>
   <fw type="catchword" place="bottom-right">to-</fw>
   <pb n="35"/>
-  <head type="outline"> Miſterios del Roſario: <head>
-    <head> <choice><orig>Miſterios</orig><reg type="spanish">Misterios</reg></choice> del <choice><orig>Roſario</orig><reg type="spanish">Rosario</reg></choice>:<head>
+  <head type="outline"> Miſterios del Roſario: </head>
+    <head> <choice><orig>Miſterios</orig><reg type="spanish">Misterios</reg></choice> del <choice><orig>Roſario</orig><reg type="spanish">Rosario</reg></choice>:</head>
 <lb/>
   tonoo benni huexiihui, looxquela cocabeniaati xinnigannolo <choice><orig>Ieſu</orig><reg type="spanish">Iesu</reg></choice>
 <lb/>
@@ -2058,8 +2046,8 @@ lijgaa</add>
 <lb/>
   <fw type="catchword" place="bottom-right">huen-</fw>
   <pb n="36"/>
-    <head type="outline"> En lengua Zapoteca. <head>
-      <head> En lengua Zapoteca. <head>
+    <head type="outline"> En lengua Zapoteca. </head>
+      <head> En lengua Zapoteca. </head>
   <lb/>
     huenni loo quitoonana quehuiia liina lennaa nachono, quela raca-
   <lb/>
@@ -2128,11 +2116,11 @@ lijgaa</add>
     <fw type="catchword" place="bottom-right">B                                                         Co-</fw>
   <lb/>
   <pb n="37"/>
-  <head type="outline"> Miſterios del Roſario: <head>
+  <head type="outline"> Miſterios del Roſario: </head>
   <head> <choice><orig>Miſterios</orig><reg type="spanish">Misterios</reg></choice> del <choice><orig>Roſario</orig><reg type="spanish">Rosario</reg></choice>:
     <lb/>
     Cotaapa Xijbaa.
-    <head>
+  </head>
     <lb/>
     Loo cotaapa Xiibaa nirij collaaba chahui quique lachito, tobi
 <lb/>
@@ -2198,10 +2186,10 @@ lijgaa</add>
 <lb/>
     cacicacica <choice><orig>Ieſus</orig><reg type="spanish">Iesus</reg></choice>.
 <lb/>
-    <fw type="catchword" place="bottom-right">Co-<fw>
+    <fw type="catchword" place="bottom-right">Co-</fw>
   <pb n="38"/>
-  <head type="outline"> En Lengua Zapoteca. <head>
-    <head> En Lengua Zapoteca.                                        3 <!--come back to this page number/format correctly-->
+  <head type="outline"> En Lengua Zapoteca. </head>
+    En Lengua Zapoteca.                                        3 <!--come back to this page number/format correctly-->
       <lb/>
       Cooyo Xijbaa.
       <lb/>
@@ -2269,13 +2257,13 @@ lijgaa</add>
 <lb/>
     <choice><orig>Roſario</orig><reg type="spanish">Rosario</reg></choice> Xtennini
 <lb/>
-      <fw type="catchword" place="bottom-right">B2                        La--<fw>
+      <fw type="catchword" place="bottom-right">B2                        La--</fw>
 <lb/>
   <pb n="39"/>
   <!--written above on this page: "Obecimiento de todo el 55.mo Rosario"-->
-  <head type="outline"> Miſterios del Roſario:<head>
+  <head type="outline"> Miſterios del Roſario:</head>
 <add place="top">Obecimiento de todo el SS.mo Rosario</add>
-    <head> <choice><orig>Miſterios</orig><reg type="spanish">Misterios</reg></choice> del <choice><orig>Roſario</orig><reg type="spanish">Rosario</reg></choice>:<head>
+    <head> <choice><orig>Miſterios</orig><reg type="spanish">Misterios</reg></choice> del <choice><orig>Roſario</orig><reg type="spanish">Rosario</reg></choice>:</head>
       <lb/>
   Laanicica huaretoota yoo lachina loo yobina Xonaaxi coconi-
 <lb/>
@@ -2329,7 +2317,7 @@ lijgaa</add>
 <lb/>
   mas xtennina quela nabaani celij quela gloria quiebaa cachii catiia.
 <lb/>
-<div>
+<div/>
   Alaarij corôpa Xcuaa<add place="above">par[i?]</add> Xibigaa <choice><orig>Roſario</orig><reg type="spanish">Rosario</reg></choice>
 <lb/>
   Xonaaxito Santa Maria, nagueecheni <add place="above">contiene</add>Xijbaa quela na-
@@ -2340,10 +2328,10 @@ lijgaa</add>
 <lb/>
   Cotòbi Xijbaa.
 <lb/>
-  <fw type="catchword" place="bottom-right">Loo-<fw>
+  <fw type="catchword" place="bottom-right">Loo-</fw>
   <pb n="40"/>
-  <head type="outline"> En lengua Zapoteca.                     4<head>  <!--get page numbers encoded correctly-->
-    <head> En lengua Zapoteca.                               4<head>
+  <head type="outline"> En lengua Zapoteca.                     4</head>  <!--get page numbers encoded correctly-->
+    <head> En lengua Zapoteca.                               4</head>
   Loo Cotòbi Xiibaa nirij, collaaba chahuichiiloo, chij lachito,
 <lb/>
   quela nazii nachiibaa, quela lietii lieexaaxa lachila, quela na-
@@ -2408,16 +2396,16 @@ lijgaa</add>
 <lb/>
   chiiba quique petona quela zij quela chiba narii lanni gueche layo-
 <lb/>
-  <fw type="catchword" place="bottom-right">ori-<fw>
+  <fw type="catchword" place="bottom-right">ori-</fw>
   <pb n="41"/>
-  <head type="outline"> Miſterios del Roſario: <head>
-    <head> <choice><orig>Miſterios</orig><reg type="spanish">Misterios</reg></choice> del Roſario: <head>
+  <head type="outline"> Miſterios del Roſario: </head>
+    <head> <choice><orig>Miſterios</orig><reg type="spanish">Misterios</reg></choice> del Roſario: </head>
     <lb/>
     oriini. Niiaxtenni yòbi Pichaanatoo Bejoanna Xtennuna <choice><orig>Ieſu</orig><reg type="spanish">Iesu</reg></choice> Chri-
 <lb/>
     <choice><orig>ſto</orig><reg type="spanish">sto</reg></choice>. Cacacicacica <choice><orig>Ieſus</orig><reg type="spanish">Iesus</reg></choice>.
 <lb/>
-    <head> Coroopa Xijbaa. <head>
+    <head> Coroopa Xijbaa. </head>
 <lb/>
     Loo Cooropa Xiibaa nirij, cozaa collaabachahui quitôbi qui-
 <lb/>
@@ -2472,14 +2460,14 @@ lijgaa</add>
     axtenni yòbi Pichanna too Bejoanna Xtenina <choice><orig>Ieſu</orig><reg type="spanish">Iesu</reg></choice> <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice>. Cacaci-
 <lb/>
     cacia <choice><orig>Ieſus</orig><reg type="spanish">Iesus</reg></choice>.
-  <div>
+  <div/>
   Cooyoona Xijbaa.
 <lb/>
   Loo Cayoona Xiibaa nirii, cheeguenna chahui quiòbique
 <lb/>
   lachito, zetòbi quela zii quela chiiba roo, quela letiia, quela
 <lb/>
-<fw type="catchword" place="bottom-right">tor-<fw>
+<fw type="catchword" place="bottom-right">tor-</fw>
   <pb n="42"/>
   tormento roo, ni coxaaca xinni Dios, quelani niiaxtenni chaaxilo-
 <lb/>
@@ -2545,7 +2533,7 @@ lijgaa</add>
 <lb/>
   ni coxaaca Xinni Dios, chij piia <add place="above">[calgo?]</add><add place="below">cargo</add>pechaanini yaga Cruz naroo tete, ni
 <lb/>
-  <fw type="catchword" place="bottom-right">pee-<fw>
+  <fw type="catchword" place="bottom-right">pee-</fw>
   <pb n="43"/>
   <add place="above">p</add>peegooa benni Iudios loo xiique nataa nareenini. Quelani niiaxten-
 <lb/>
@@ -2613,7 +2601,7 @@ lijgaa</add>
 <lb/>
   Dios petoobi loo cozoocaaziichiibani lani yaga Cruz, callooti coti
 <lb/>
-  <fw type="catchword" place="bottom-right">huaa<fw>
+  <fw type="catchword" place="bottom-right">huaa</fw>
   <pb n="44"/>
   En Lengua Zapoteca
 <lb/>
@@ -2676,7 +2664,7 @@ lijgaa</add>
   Xchiiña Xquela bitooni, huayeego cica quiña quiie, quiiña baa, rua
 <lb/>
   pigaachini, peaaza zoo Xpella latiyoonani, ni nahaxe yaatini lanni
-<fw type="catchword" place="bottom-right">qui-<fw>
+<fw type="catchword" place="bottom-right">qui-</fw>
   <pb n="45"/>
   <choice><orig>Miſterios</orig><reg type="spanish">Misterios</reg></choice> del <choice><orig>Roſario</orig><reg type="spanish">Rosario</reg></choice>:
 <lb/>
@@ -2743,7 +2731,7 @@ lijgaa</add>
   <choice><orig>Ieruſalem</orig><reg type="spanish">Ierusalem</reg></choice> ruanigaana, huazoocanna, huazooba cohuiia pizaa loo
 <lb/>
   quiraani, huenni loo peaapi lij yoobi Xiqueezii llaaliina <choice><orig>Ieſu</orig><reg type="spanish">Iesu</reg></choice> <choice><orig>Chriſ</orig><reg type="spanish">Chris</reg></choice>-
-  <fw type="catchword" place="bottom-right">to<fw>
+  <fw type="catchword" place="bottom-right">to</fw>
   <pb n="46"/>
   En Lengua Zapoteca
 <lb/>
@@ -2813,7 +2801,7 @@ lijgaa</add>
 <lb/>
   Xtennini liioo lachitooni, chiiquee piaani tete animas Xtennini,
 <lb/>
-  <fw type="catchword" place="bottom-right">pea-<fw>
+  <fw type="catchword" place="bottom-right">pea-</fw>
   <pb n="47"/>
   peaaca naziiña tete quique lachini, peaacani hueechiño <add place="above">Do [te?]</add>ticha, huee-
 <lb/>
@@ -2881,7 +2869,7 @@ lijgaa</add>
 <lb/>
   chitooni chiquee peaapi chiichi peaapi cachini quieebaa rua tia-
 <lb/>
-  <fw type="catchword" place="bottom-right">ha-<fw>
+  <fw type="catchword" place="bottom-right">ha-</fw>
   <pb n="48"/>
   En lengua Zapoteca.
 <lb/>
@@ -2951,7 +2939,7 @@ lijgaa</add>
 <lb/>
   cha, huechiiga loo taa, loo becoogo Dios, Laapi zii, laapi chibaa
 <lb/>
-  <fw type="catchword" place="bottom-right">Xte-<fw>
+  <fw type="catchword" place="bottom-right">Xte-</fw>
   <pb n="49"/>
   <choice><orig>Miſterios</orig><reg type="spanish">Misterios</reg></choice> del <choice><orig>Roſario</orig><reg type="spanish">Rosario</reg></choice>:
 <lb/>
@@ -2999,7 +2987,7 @@ lijgaa</add>
 <lb/>
   lachi Xtennini.<add>Jol B[?]b</add>
 <lb/>
-  <fw type="catchword" place="bottom-right">Oracion<fw>
+  <fw type="catchword" place="bottom-right">Oracion</fw>
   <pb n="50"/>
   En lengua Zapoteca
 <lb/>
@@ -3060,7 +3048,7 @@ lijgaa</add>
   Acalaati coxiiguelalo. Ya connaatilo zooba gaaca xticha Dios, ni
 <lb/>
   tolloo ni colliizi cicani liioo lachitoolo niiani quiiaani chahuila-
-  <fw type="catchword" place="bottom-right">chi-<fw><add>lo</add>
+  <fw type="catchword" place="bottom-right">chi-</fw><add>lo</add>
   <pb n="51"/>
   Oracion de S. Thomas
 <lb/>
@@ -3132,7 +3120,7 @@ lijgaa</add>
 <lb/>
   cahueete zoobani, calaate zaani, cannaa coxooba lenne lachina,
 <lb/>
-<fw type="catchword" place="bottom-right">que-<fw>
+<fw type="catchword" place="bottom-right">que-</fw>
   <pb n="52"/>
   quela huaagola, quela cohueela quela raazila, zaa yacati naquiiña
 <lb/>
@@ -3204,7 +3192,7 @@ lijgaa</add>
 <lb/>
   in
 <lb/>
-  <fw type="catchword" place="bottom-right">Xte-<fw>
+  <fw type="catchword" place="bottom-right">Xte-</fw>
   <pb n="53"/>
   Xtennia xaagoocaxa pezaa pechiiña biitoo, B, Dios lohuy, queelani
 <lb/>
@@ -3273,7 +3261,7 @@ lijgaa</add>
 <lb/>
   xiihui lachitoolo benniquee ziaani quela huexiihui, zaayaca ni pen-
 <lb/>
-  <fw type="catchword" place="bottom-right">ni<fw>
+  <fw type="catchword" place="bottom-right">ni</fw>
   <pb n="54"/>
   nini, yaca ni pexiihuini, Xticha yobini coxiiguiielo, penni lachi xii-
 <lb/>
@@ -3341,7 +3329,7 @@ lijgaa</add>
 <lb/>
   Cacacicacica <choice><orig>Ieſus</orig><reg type="spanish">Iesus</reg></choice>.<add place="below">D2</add>
 <lb/>
-  <fw type="catchword" place="bottom-right">Oracion<fw>
+  <fw type="catchword" place="bottom-right">Oracion</fw>
   <pb n="55"/>
   <add place="above">20A</add>
   Oracion de S. Thomas:
@@ -3406,7 +3394,7 @@ lijgaa</add>
 <lb/>
   la naayoho lachinalij, looquela huiiña quela huellaazelachi, looque-
 <lb/>
-  <fw type="catchword" place="bottom-right">la<fw>
+  <fw type="catchword" place="bottom-right">la</fw>
   <pb n="56"/>
   la huiiaago lachitoonalij niiaxtenni pexiihui looyobina. Looquela
 <lb/>
@@ -3472,7 +3460,7 @@ lijgaa</add>
 <lb/>
   ni colla, ni quinij chij loo, chij lachi, benniaati, chij hua-
 <lb/>
-  <fw type="catchword" place="bottom-right">lloo-<fw>
+  <fw type="catchword" place="bottom-right">lloo-</fw>
 	<pb n="57"/>
   Oracion<add place="above">211</add> de S. Thomas:
 <lb/>
@@ -3542,7 +3530,7 @@ lijgaa</add>
 <lb/>
   hui riini, ni nacaloo niiani, nacani pichiigo pellaaquiraa tollaquee.
 <lb/>
-  <fw type="catchword" place="bottom-right">La-<fw>
+  <fw type="catchword" place="bottom-right">La-</fw>
 	<pb n="58"/>
   Laanicica Xticha Sacramento, nayoonarij, quitaalle quiaaxeloo li-
 <lb/>
@@ -3620,7 +3608,7 @@ lijgaa</add>
 <lb/>
   Cacacicacica <choice><orig>Ieſus</orig><reg type="spanish">Iesus</reg></choice>.
 <lb/>
-  <fw type="catchword" place="bottom-right">Ala-<fw>
+  <fw type="catchword" place="bottom-right">Ala-</fw>
 	<pb n="59"/>
   <choice><orig>Miſterios</orig><reg type="spanish">Misterios</reg></choice> del <choice><orig>Roſario</orig><reg type="spanish">Rosario</reg></choice>:
 <lb/>
@@ -3680,7 +3668,7 @@ lijgaa</add>
 <lb/>
   <add place="margin left">[?]</add>chela chii cuyaapi yòbini queehui lanni quiiebaa.
 <lb/>
-  <fw type="catchword" place="bottom-right">MISTE-<fw>
+  <fw type="catchword" place="bottom-right">MISTE-</fw>
 	<pb n="60"/>
   En lengua Zapoteca.
 <lb/>
@@ -3746,7 +3734,7 @@ lijgaa</add>
 <lb/>
   aga Xonnaaxi too Santa Maria, ticha riini<add place="bottom">E</add> toochicii piicha pigaana
 <lb/>
-  <fw type="catchword" place="bottom-right">lachi-<fw>
+  <fw type="catchword" place="bottom-right">lachi-</fw>
 	<pb n="61"/>
   lachitooni, pellaaba lachini, connaxa palaxa naca loo ticha quela
 <lb/>
@@ -3814,7 +3802,7 @@ lijgaa</add>
 <lb/>
   yobini, ni laa Santa <choice><orig>Yſabel</orig><reg type="spanish">Isabel</reg></choice>, rinnio tonoo Prima Xtennini, nizooba
 <lb/>
-  <fw type="catchword" place="bottom-right">lan-<fw>
+  <fw type="catchword" place="bottom-right">lan-</fw>
   <pb n="62"/>
   lanni tanni, nilaa Judea, chela zaabeeca chapati nataa nachii na-
 <lb/>
@@ -3886,7 +3874,7 @@ lijgaa</add>
 <lb/>
   ca cica.
 <lb/>
-  <fw type="catchword" place="bottom-right">Co-<fw>
+  <fw type="catchword" place="bottom-right">Co-</fw>
 	<pb n="63"/>
   <choice><orig>Miſterios</orig><reg type="spanish">Misterios</reg></choice> <choice><orig>Gozoſos</orig><reg type="spanish">Gozosos</reg></choice>.
 <lb/>
@@ -3956,7 +3944,7 @@ lijgaa</add>
 <lb/>
   xe yaaleni, lanni yohoguiixiquee.
 <lb/>
-  <fw type="catchword" place="bottom-right">Bixo-<fw>
+  <fw type="catchword" place="bottom-right">Bixo-</fw>
   <pb n="64"/>
   En Langua Zapoteca
 <lb/>
@@ -4026,7 +4014,7 @@ lijgaa</add>
 <lb/>
   chiinani loo yootoo xilichi Dios, ruanigaa cuyooni, penni xonniini
 <lb/>
-  <fw type="catchword" place="bottom-right">loo-<fw>
+  <fw type="catchword" place="bottom-right">loo-</fw>
   <pb n="65"/>
   <choice><orig>Miſterios</orig><reg type="spanish">Misterios</reg></choice> <choice><orig>Gozoſos</orig><reg type="spanish">Gozosos</reg></choice>:
 <lb/>
@@ -4096,7 +4084,7 @@ lijgaa</add>
 <lb/>
   pieete tôbi zaharoo, tôbi lannii naxenne lanni yoo too, ni zooba
 <lb/>
-  <fw type="catchword" place="bottom-right">lan-<fw>
+  <fw type="catchword" place="bottom-right">lan-</fw>
   <pb n="66"/>
   lanni gueche <choice><orig>Jeruſalem</orig><reg type="spanish">Jerusalem</reg></choice> rinniio tonoo xi <choice><orig>Paſqua</orig><reg type="spanish">Pasqua</reg></choice> biitoo chiiquee
 <lb/>
@@ -4150,7 +4138,7 @@ lijgaa</add>
 <lb/>
   Anna channa Mariahe!
 <lb/>
-  <foreign xml:lang="lat">Gloria Patri &mp; Filio &amp; Spiritui Sancto, &amp;c.</foreign>
+  <foreign xml:lang="lat">Gloria Patri &amp; Filio &amp; Spiritui Sancto, &amp;c.</foreign>
 <lb/>
   Ticha Xonij loo Dios.
 <lb/>
@@ -4162,7 +4150,7 @@ lijgaa</add>
 <lb/>
   cheela Xinni ganna nachiini <choice><orig>Jeſus</orig><reg type="spanish">Jesus</reg></choice> peaayo chiigaa lanni yoo tooxi-
 <lb/>
-  <fw type="catchword" place="bottom-right">li-<fw>
+  <fw type="catchword" place="bottom-right">li-</fw>
   <pb n="67"/>
   <choice><orig>Miſterios</orig><reg type="spanish">Misterios</reg></choice> <choice><orig>Gozoſos</orig><reg type="spanish">Gozosos</reg></choice>:
 <lb/>
@@ -4228,7 +4216,7 @@ lijgaa</add>
 <lb/>
   xooze.
 <lb/>
-  <fw type="catchword" place="bottom-right">Annaa-<fw>
+  <fw type="catchword" place="bottom-right">Annaa-</fw>
   <pb n="68"/>
   Annaa Channa Mariahe! xiñaa coxanna
 <lb/>
@@ -4284,7 +4272,7 @@ lijgaa</add>
 <lb/>
   chonnolo <choice><orig>Jeſus</orig><reg type="spanish">Jesus</reg></choice>, quichiibitoopa <choice><orig>Apoſtoles</orig><reg type="spanish">Apostoles</reg></choice><add place="below">F</add>, xi <choice><orig>Diſipulos</orig><reg type="spanish">Disipulos</reg></choice> nachii liini,
 <lb/>
-  <fw type="catchword" place="bottom-right">che-<fw>
+  <fw type="catchword" place="bottom-right">che-</fw>
   <pb n="69"/>
   <choice><orig>Miſterios</orig><reg type="spanish">Misterios</reg></choice> <choice><orig>Doloroſos</orig><reg type="spanish">Dolorosos</reg></choice>:
 <lb/>
@@ -4354,7 +4342,7 @@ lijgaa</add>
 <lb/>
   ni côcaciga lachilo cheetii cheexaaca lachi xinni gannalo <choice><orig>Ieſu</orig><reg type="spanish">Iesu</reg></choice>
 <lb/>
-  <fw type="catchword" place="bottom-right">Chri-<fw>
+  <fw type="catchword" place="bottom-right">Chri-</fw>
   <pb n="70"/>
   <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice>. Zooquixii rinni nabaana nooni, rua rizoo nizaioona xten-
 <lb/>
@@ -4424,7 +4412,7 @@ lijgaa</add>
 <lb/>
   Bixooze tonoohe! chiibalo quiiebaa.<add place="below">F2</add>
 <lb/>
-  <fw type="catchword" place="bottom-right">Ann-<fw>
+  <fw type="catchword" place="bottom-right">Ann-</fw>
   <pb n="71"/>
   <choice><orig>Miſterios</orig><reg type="spanish">Misterios</reg></choice> <choice><orig>Doloroſos</orig><reg type="spanish">Dolorosos</reg></choice>.
 <lb/>
@@ -4496,7 +4484,7 @@ lijgaa</add>
 <lb/>
   ruani, loo quela huczaaca loo huezaaca lachi xaata Xtennini, cotij-
 <lb/>
-  <fw type="catchword" place="bottom-right">ñeni-<fw>
+  <fw type="catchword" place="bottom-right">ñeni-</fw>
   <pb n="72"/>
   En lengua Zapoteca.
 <lb/>
@@ -4566,7 +4554,7 @@ lijgaa</add>
 <lb/>
   latos laa Barrabas, caatihua Xinni Dios. Laatichaquee coxiiguela
 <lb/>
-  <fw type="catchword" place="bottom-right">Juez<fw>
+  <fw type="catchword" place="bottom-right">Juez</fw>
   <pb n="73"/>
   <choice><orig>Miſterios</orig><reg type="spanish">Misterios</reg></choice> <choice><orig>Doloriſos</orig><reg type="spanish">Dolorisos</reg></choice>:
 <lb/>
@@ -4638,7 +4626,7 @@ lijgaa</add>
 <lb/>
   cacica.
 <lb/>
-  <fw type="catchword" place="bottom-right">Coo-<fw>
+  <fw type="catchword" place="bottom-right">Coo-</fw>
   <pb n="74"/>
   En lengua Zapoteca.
 <lb/>
@@ -4708,7 +4696,7 @@ lijgaa</add>
 <lb/>
   Annaa Channa Mariahe! chij liaaza.
 <lb/>
-  <fw type="catchword" place="bottom-right">Glo-<fw>
+  <fw type="catchword" place="bottom-right">Glo-</fw>
   <pb n="75"/>
   <choice><orig>Miſterios</orig><reg type="spanish">Misterios</reg></choice> <choice><orig>Glorioſos</orig><reg type="spanish">Gloriosos</reg></choice>:
 <lb/>
@@ -4772,7 +4760,7 @@ lijgaa</add>
 <lb/>
   chij huagoonala Xinni Dios lanni yaya Cruz, pea piriie ga ani-
 <lb/>
-  <fw type="catchword" place="bottom-right">ma<fw>
+  <fw type="catchword" place="bottom-right">ma</fw>
   <pb n="76"/>
   En lengua Zapoteca.
 <lb/>
@@ -4844,7 +4832,7 @@ lijgaa</add>
 <lb/>
   china, quela rizaabiyanni lachi tonoo quela <note place="below">G</note> ccoquii quiiebaa, no co-
 <lb/>
-  <fw type="catchword" place="bottom-right">lii-<fw>
+  <fw type="catchword" place="bottom-right">lii-</fw>
   <pb n="77"/>
   <choice><orig>Miſterios</orig><reg type="spanish">Misterios</reg></choice> <choice><orig>Glorioſos</orig><reg type="spanish">Gloriosos</reg></choice>:
 <lb/>
@@ -4916,7 +4904,7 @@ lijgaa</add>
 <lb/>
   benni nabaanila, benni cootila guechelayooriini.
 <lb/>
-  <fw type="catchword" place="bottom-right">Bixoo-<fw>
+  <fw type="catchword" place="bottom-right">Bixoo-</fw>
   <pb n="78"/>
   Bixooze tonoohe! toobi liaaza.
 <lb/>
@@ -4984,9 +4972,9 @@ lijgaa</add>
 <lb/>
   hu châga yahoo loo benniaati, chela niiaaxtenni ya quichiibiti ya
 <lb/>
-  quiaachiti lachini, chij cooni libaana looni<add place="below">, pizaaani coca xillaani
+  quiaachiti lachini, chij cooni libaana looni<add place="below">G2</add>, pizaaani coca xillaani
 <lb/>
-  <fw type="catchword" place="bottom-right">que-<fw>
+  <fw type="catchword" place="bottom-right">que-</fw>
   <pb n="79"/>
   quela naguiio natiipa, quela narooba, naxeenne lachi quelahuechiiño
 <lb/>
@@ -5056,7 +5044,7 @@ lijgaa</add>
 <lb/>
   ze xoo lachini. chela yôbi Xonaaxi connini looni, ziaani ticha too-
 <lb/>
-  <fw type="catchword" place="bottom-right">ba,<fw>
+  <fw type="catchword" place="bottom-right">ba,</fw>
   <pb n="80"/>
 
   <pb n="81"/>
@@ -5382,7 +5370,7 @@ lijgaa</add>
 <lb/>
     xanacaxạnaca<add place="below">o[?][elr?]</add> yoobi quelalii quela<add place="below">A</add> too xtenni biitoo B.Dios
 <lb/>
-    <fw type="catchword" place="bottom-right">Xij<fw>
+    <fw type="catchword" place="bottom-right">Xij</fw>
   <pb n="177"/>
   <add place="margin left">
 <lb/>
@@ -5393,7 +5381,7 @@ lijgaa</add>
 <lb/>
   Lecaabi <choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice>. Quela cheelij lachini quiraa xticha Dios,
 <lb/>
-  looquela rielij lachi nalii, ni cozaa<add place="above">salio<add> quijebaa, ni naca xtenni
+  looquela rielij lachi nalii, ni cozaa<add place="above">salio</add> quijebaa, ni naca xtenni
 <lb/>
   yoobibijtoo.
 <lb/>
@@ -5458,7 +5446,7 @@ lijgaa</add>
 <lb/>
   bela yaca rapatini, yaca rizijbaanezatini ticha quela rieelij lachi
 <lb/>
-  <fw type="catchword" place="bottom-right">cani,<fw>
+  <fw type="catchword" place="bottom-right">cani,</fw>
   <pb n="178"/>
   canî ninaca xtenni bijtoo chela nicozaa quijebaa, niritectegue-
 <lb/>
@@ -5674,7 +5662,7 @@ lijgaa</add>
   zaani.
   <pb n="181"/>
   <head type="outline">Cateciſmo-</head>
-  <head> Cateciſmo <head><add place="below">[saloa[?]se]</add>
+  <head> Cateciſmo </head><add place="below">[saloa[?]se]</add>
   <add place="margin left">16.a</add><choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice> Channahe! Zoaaca laaxi anima tutibenniaati. Laa-
 <lb/>
   zoaaca quecheelani xquela gracia, bijtoo Dios ni cuee na-
@@ -5747,8 +5735,8 @@ lijgaa</add>
 <lb/>
   <fw type="catchword" place="bottom-right">na-</fw>
 	<pb n="182"/>
-  <head type="outline">En la lengua Zapoteca           7<head>
-  <head> En la lengua Zapoteca <head>
+  <head type="outline">En la lengua Zapoteca           7</head>
+  <head> En la lengua Zapoteca </head>
 <lb/>
   nacani. Cica rollohui xibaa nachonno, rinnijo tonoo ticha Ca-
 <lb/>
@@ -5822,8 +5810,8 @@ lijgaa</add>
 <lb/>
   <fw type="catchword" place="bottom-right">na-</fw>
 	<pb n="183"/>
-  <head type="outline"> Cateciſmo <head>
-  <head> Cateciſmo <head>
+  <head type="outline"> Cateciſmo </head>
+  <head> Cateciſmo </head>
     <add place="margin left">20.a</add>na yaanij lachi xtenni benniaati, na quijña quela riennicha-
 <lb/>
     hui, xibaa cani?
@@ -5878,11 +5866,11 @@ lijgaa</add>
 <lb/>
     ca toobi toobigaa xtichani cicato naquijña quelahueezijllaa
 <lb/>
-    <note place="margin left">"span"> *No <choice><orig>ſe</orig><reg type="spanish">se</reg></choice><lb/>atreua á<lb/>querer<lb/><choice><orig>deſatar</orig><reg type="spanish">desatar</reg></choice>,<lb/>y decla-<lb/>rar lo
+    <note place="margin left"><foreign xml:lang="span"> *No <choice><orig>ſe</orig><reg type="spanish">se</reg></choice><lb/>atreua á<lb/>querer<lb/><choice><orig>deſatar</orig><reg type="spanish">desatar</reg></choice>,<lb/>y decla-<lb/>rar lo
     <choice><orig>q;</orig><reg type="spanish">que</reg></choice><lb/>no alcan<lb/>za</foreign></note>
     anìma Xtennini. Tebela zeechaacuee looticha cani, cozaa-
     <!--not sure if the marginalia should go here-->
-    <note place="margin right"> "span">No <choice><orig>ſe</orig><reg type="spanish">se</reg></choice><lb/>atreua<lb/>querer<lb/>defatar,<lb/>y decla-<lb/>rar lo <choice><orig><choice><orig>q;</orig><reg type="spanish">que</reg>
+    <note place="margin right"><foreign xml:lang="span"> No <choice><orig>ſe</orig><reg type="spanish">se</reg></choice><lb/>atreua<lb/>querer<lb/>defatar,<lb/>y decla-<lb/>rar lo <choice><orig><choice><orig>q;</orig><reg type="spanish">que</reg>
   </choice></orig><reg type="spanish">que</reg></choice><lb/>no alcan<lb/>za.</foreign></note>
 <lb/>
     ca nagaanani, quelani riteeteloo, riteete guetta, quela naroo
@@ -5901,8 +5889,8 @@ lijgaa</add>
 <lb/>
     <fw type="catchword" place="bottom-right">Diſ-</fw>
   <pb n="184"/>
-  <head type="outline"> En la lengua Zapoteca.<head><add place="top">o</add>
-  <head> En la lengua Zapoteca. <head> <!--make sure thise changes to the header (I added the words to the transcription) make their way to the transcription-->
+  <head type="outline"> En la lengua Zapoteca.</head><add place="top">o</add>
+  <head> En la lengua Zapoteca. </head> <!--make sure thise changes to the header (I added the words to the transcription) make their way to the transcription-->
 <lb/>
     <choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Channa he! Xij gaacaxa loo benni zeela<add place="above">te[?]me</add>, loo<add place="Margin right">21.a</add>
 <lb/>
@@ -5977,8 +5965,8 @@ lijgaa</add>
 <lb/>
     B                 <fw type="catchword" place="bottom-right">quee-</fw>
   <pb n="185"/>
-  <head type="outline">[010]       <choice><orig>Cateciſmo</orig><reg type="spanish">Catecismo</reg></choice> <head>
-  <head> [010]       <choice><orig>Cateciſmo</orig><reg type="spanish">Catecismo</reg></choice><head>
+  <head type="outline">[010]       <choice><orig>Cateciſmo</orig><reg type="spanish">Catecismo</reg></choice> </head>
+  <head> [010]       <choice><orig>Cateciſmo</orig><reg type="spanish">Catecismo</reg></choice></head>
   quela lenne gaaca peani, pallaacaxa naca quela leaa,
   quela<add place="below">t[?]</add> richaaba <add place="below">c[?]nzzate p[?]za</add>lachi xtennini.
   <head> Alaarij xibaa rolloohuini<add place="above">[?] 12 [of] J be .[?] Thermas[o?]</add> qui-
@@ -5989,8 +5977,8 @@ lijgaa</add>
 <lb/>
     yoobillijzi ticha xquela Sancta
 <lb/>
-    Trinidad.<head>
-  <div>
+    Trinidad.</head>
+  <div/>
   <add place="margin right">a</add><choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Naa lazilo Channa <choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice>, connaxa, palla-
 <lb/>
   xa naca loo xibaa xquela raca, loo xquela ciroo, bijtoo
@@ -6037,12 +6025,12 @@ lijgaa</add>
 <lb/>
 <fw type="catchword" place="bottom-right">looni-</fw>
 	<pb n="186"/>
-  <head type="outline"> En la lengua Zapoteca.<head><!--come back and do page numbers properly-->
-  <head> En la lengua Zapoteca.<head>
+  <head type="outline"> En la lengua Zapoteca.</head><!--come back and do page numbers properly-->
+  <head> En la lengua Zapoteca.</head>
   <lb/>
   looni, quijaaquijebaala queete layoola, ni nenni loo ní aca
 <lb/>
-  nenni loo nacani. <note place="margin right">"span">* No <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> divide, <!--*?--> <lb/>ni repar <lb/>te, ni <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> <lb/>participa </foreign></note>
+  nenni loo nacani. <note place="margin right"><foreign xml:lang="span">* No <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> divide, <!--*?--> <lb/>ni repar <lb/>te, ni <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> <lb/>participa </foreign></note>
 <lb/>
   <choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Channahe: toochijzi nagaana <add place="above"> [?] </add> naca ticha riini.
 <lb/>
@@ -6130,7 +6118,7 @@ lijgaa</add>
 <lb/>
     cani, chela tobizi anima, quioona quela naquiichequee nacani.
 <lb/>
-    Ciicani <add place="above">[C.M?]</add> bennaabi <add place="above"> [remelanza]</add> riini, huaxiia <add place="above"> [mul..?]huayaachi <add place="above"> [?] </add>tete nacani, cani, too-
+    Ciicani <add place="above">[C.M?]</add> bennaabi <add place="above"> [remelanza]</add> riini, huaxiia <add place="above"> [mul..?]</add> huayaachi <add place="above"> [?] </add>tete nacani, cani, too-
 <lb/>
     chizi ritaago, looticha Sancta Trinidad. Quelani rinnijona, ci-
 <lb/>
@@ -8580,7 +8568,7 @@ lijgaa</add>
 <lb/>
     xinni Dios.
 <lb/>
-  <div>
+  <div/>
     <fw type="catchword" place="bottom-right">HVA-</fw>
     <pb n="221"/>
     <add>PMe [Fl?] de [sse?] Thomas <choice><orig>ſel.</orig><reg type="spanish">sel.</reg></choice> 28</add>
@@ -9200,7 +9188,8 @@ lijgaa</add>
 <lb/>
     tebela noo xtolla quela huexijhui lijo lachini.
 <lb/>
-    <add place="margin left">7a<lb/>
+    <add place="margin left">7a</add>
+<lb/>
     <choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Channa <choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice> nachonnohe! Xij chijñaxa ron-
 <lb/>
     no, xi xillaa nayoonaxa, xij quela baa letoobi, baa leaacaxa
@@ -9226,7 +9215,7 @@ lijgaa</add>
 <lb/>
     gaani, noosieenî, nayaazi ñeeni ziaani bennaabi quela cocañee,
 <lb/>
-    <note place="margin left">[[?]uirioz?]<note>
+    <note place="margin left">[[?]uirioz?]</note>
     quela huezij huellaa, quela connachij quela hueexillaa, quela
 <lb/>
     huenni baaneza roo Xtenni B. Dios, ni raca xillaabaaneza ani-
@@ -9470,7 +9459,7 @@ lijgaa</add>
     <pb n="238"/>
   <lb/><add>Lie 20 e [tnt?] [?]</add>
     axtenni nacani <add place="bottom">[?} de <choice><orig>ſto</orig><reg type="spanish">sto</reg></choice> Thomas [?] 39</add>Sacramento.
-  <div>
+  <div/>
     <head> Annaá zeetanalla xiticha Sa-
       <lb/>
       cramento, xquela huecaapea locuaa
@@ -9988,7 +9977,7 @@ lijgaa</add>
     5 De que<lb/> <choice><orig>eſta</orig><reg type="spanish">esta</reg></choice> <choice><orig>veſti</orig><reg type="spanish">vesti</reg></choice><lb/>do.<lb/>6 muy a-<lb/>justadas<lb/>palabras.<lb/>Todo
     <choice><orig>eſto</orig><reg type="spanish">esto</reg></choice><lb/>esparade<lb/>
     zir,<choice><orig>q;</orig><reg type="spanish">que</reg></choice><choice><orig>ſe</orig><reg type="spanish">se</reg></choice><lb/><add>7</add>llamatrā<lb/><choice><orig>ſubſtācia</orig><reg type="spanish">substācia</reg></choice>-<lb/>cion
-    <choice><orig>eſte</orig><reg type="spanish">este</reg></choice><lb/>Sacramē<lb/>to.</foreign>
+    <choice><orig>eſte</orig><reg type="spanish">este</reg></choice><lb/>Sacramē<lb/>to.</foreign></note>
     lanni guetta ni penni laayani, ni chijba lachiñaani, looquela
 <lb/>
     cozaa nijbini, cica rizaa nijbi benniaati chij rieeni, chij riyo-
@@ -10285,7 +10274,7 @@ lijgaa</add>
     <pb n="249"/>
     <note place="margin left"><foreign xml:lang="span">1 Laper-<lb/><choice><orig>ſeuer</orig><reg type="spanish">seuer</reg></choice> an-<lb/>cia, y con-<lb/>tinuidad<lb/>e la gra-<lb/>cia.<lb/>2 La vniō<lb/>con Chri-<lb/><choice><orig>ſto</orig><reg type="spanish">sto</reg></choice> por a-<lb/>
     mor y fee<lb/>3 Todos e-<lb/><choice><orig>ſtos</orig><reg type="spanish">stos</reg></choice> bene-<lb/>ficios, y<lb/>honras<lb/>4grandes<lb/>dones.<lb/>otroa mu-<lb/>chos muy<lb/>abundo-<lb/><choice><orig>ſos</orig><reg type="spanish">sos</reg></choice>, y mul<lb/>tiplicados<lb/>
-    5 no ay<lb/>tiēpo pa-<lb/>ra cōtar-<lb/>los<lb/>6 de <choice><orig>diſ</orig><reg type="spanish">dis</reg></choice>-<lb/><choice><orig>puſiere</orig><reg type="spanish">pusiere</reg></choice> y<lb/>aparejare<lb/.7 Todo e-<lb/>sto cs[es?] pa-<lb/>ra
+    5 no ay<lb/>tiēpo pa-<lb/>ra cōtar-<lb/>los<lb/>6 de <choice><orig>diſ</orig><reg type="spanish">dis</reg></choice>-<lb/><choice><orig>puſiere</orig><reg type="spanish">pusiere</reg></choice> y<lb/>aparejare<lb/>7 Todo e-<lb/>sto cs[es?] pa-<lb/>ra
     <choice><orig>ſgnifi</orig><reg type="spanish">sgnifi</reg></choice>-<lb/>car la pri<lb/>mera gracia.
     1 Agradales, y meritoriòs. 2 Sus caminos, y operaciones. 3<lb/>noes efecto, ni le pertenece. 4[.?] Infunde. 5 <choice><orig>Eſse</orig><reg type="spanish">Esse</reg></choice> es oficio, y pertenencia del<lb/>Sacramento de la Penitencìa.
     6 <choice><orig>Eſta</orig><reg type="spanish">Esta</reg></choice> es <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> virtud.<lb/></foreign></note>
@@ -10379,7 +10368,7 @@ zas, y mo<lb/>uimiētos<lb/><choice><orig>eſpiritua</orig><reg type="spanish">e
 <lb/>
     chonno xpellalati bijtoo B. <choice><orig>Jeſu</orig><reg type="spanish">Jesu</reg></choice> <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice>, zoaaca gaacayaate xi-
 <lb/>
-    llaa baanezani cotoobiloo quela gracia caní ni hualoo huanij- <note place="margin right">*Lo que<lb/><choice><orig>reſulta</orig><reg type="spanish">resulta</reg></choice>, ó<lb/>lo que co-<lb/><choice><orig>rreſpōde</orig><reg type="spanish">rrespōde</reg></choice><lb/>á la Comu<lb/>nion.<lb/>1 que in-<lb/>funde.<lb/>
+    llaa baanezani cotoobiloo quela gracia caní ni hualoo huanij- <note place="margin right"><foreign xml:lang="span">*Lo que<lb/><choice><orig>reſulta</orig><reg type="spanish">resulta</reg></choice>, ó<lb/>lo que co-<lb/><choice><orig>rreſpōde</orig><reg type="spanish">rrespōde</reg></choice><lb/>á la Comu<lb/>nion.<lb/>1 que in-<lb/>funde.<lb/>
     2 tan <choice><orig>ſola</orig><reg type="spanish">sola</reg></choice><lb/>mente.<lb/>3 que va-<lb/>ya por fu-<lb/>er za  en<lb/>gracoa.<lb/>4 Todas e-<lb/><choice><orig>ſtos</orig><reg type="spanish">stos</reg></choice> ver-<lb/>bos qiue-<lb/>ren dezir<lb/>
     <choice><orig>diſtraerſe</orig><reg type="spanish">distraerse</reg></choice><lb/>ò divertir<lb/><choice><orig>ſe</orig><reg type="spanish">se</reg></choice>.<add>[?]</add><lb/>
     5 todo eſto <lb/>es para de<lb/>zir rega-<lb/>los, fulza<lb/>ras, y bie</foreign></note>
@@ -11513,7 +11502,7 @@ zas, y mo<lb/>uimiētos<lb/><choice><orig>eſpiritua</orig><reg type="spanish">e
 <lb/>
     nallaaze, nayaachi tete?
 <lb/>
-    <choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice>. Pijña xinni, lazigaa nagaana<add place="above">[c[?]eur[?]?] naca ticharijni, hua-
+    <choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice>. Pijña xinni, lazigaa nagaana<add place="above">[c[?]eur[?]?]</add> naca ticharijni, hua-
 <lb/>
     lijca, tenni tenni xiyaa xiyaanaca quiroopa loo nirij, que-
 <lb/>
@@ -11652,7 +11641,7 @@ zas, y mo<lb/>uimiētos<lb/><choice><orig>eſpiritua</orig><reg type="spanish">e
 <lb/>
     rollaaba cicani lachi quiraa ticha quijebaa, ni rogoozeete xque-
 <lb/>
-    <note place="margin right"><foreign lanf="span">1 <choice><orig>Baſtara</orig><reg type="spanish">Bastara</reg></choice></foreign>/note>la rieelij lachi Sancta <choice><orig>Ygleſia</orig><reg type="spanish">Iglesia</reg></choice>, tebela cicarij cheebiiga, cheega-
+    <note place="margin right"><foreign lanf="span">1 <choice><orig>Baſtara</orig><reg type="spanish">Bastara</reg></choice></foreign>/note>la rieelij lachi Sancta <choice><orig>Ygleſia</orig><reg type="spanish">Iglesia</reg></choice></note>, tebela cicarij cheebiiga, cheega-
 <lb/>
     lani loo Sacramento quela huexooba tolla, naalo naa, laapeati
 <lb/>
@@ -11836,7 +11825,7 @@ zas, y mo<lb/>uimiētos<lb/><choice><orig>eſpiritua</orig><reg type="spanish">e
   <add place="top">[Ant?] [?] [?][quer?]</add>
     laa anima xtennini, tebela yaca nayaaziti lachitooni?
     <note place="margin right"><foreign xml:lang="span"> 1 Dones<lb/>grandes,<lb/>y merce-<lb/>desincom<lb/>parables.<lb/>2 Cada<lb/>parte de<lb/>que <choice><orig>ſe</orig><reg type="spanish">se</reg></choice> cō-<lb/>pone el hō<lb/>bre.<lb/>
-    3 Elretor<lb/>ro,<choice><orig>ó</orig><reg type="spanish">o</reg></choice>mere<lb/>cimientos<lb/>de <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> mu-<lb/>erte, yo-<add>4</add></lb/>tras mu-<lb/>chas co-<lb/><choice><orig>ſasque</orig><reg type="spanish">sasque</reg></choice> en<lb/>
+    3 Elretor<lb/>ro,<choice><orig>ó</orig><reg type="spanish">o</reg></choice>mere<lb/>cimientos<lb/>de <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> mu-<lb/>erte, yo-<add>4</add><lb/>tras mu-<lb/>chas co-<lb/><choice><orig>ſasque</orig><reg type="spanish">sasque</reg></choice> en<lb/>
     <choice><orig>ſeña</orig><reg type="spanish">seña</reg></choice> la fè.<lb/>4 Por in-<lb/><choice><orig>ſtantes</orig><reg type="spanish">stantes</reg></choice>, y<lb/>
     continua-<lb/>mente.<lb/>5 Cō [abin?]<lb/>co con im-<lb/>portuna-<lb/>cíon, y per<lb/><choice><orig>ſeceran</orig><reg type="spanish">seceran</reg></choice>[?]-<lb/>cia.</foreign></note>
 <lb/>
@@ -12158,7 +12147,8 @@ car.<lb/>6 Aūque<lb/>7 No im-<lb/>porta.<lb/></foreign></note>
 <lb/>
     <add place="margin left">2</add><choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Zoaaca gaaca quela huexooba tolla rijni, tebela
 <lb/>
-    <add place="margin left">[?]uente<lb/>zijto zooba benni roxooba xtollani chela loo zetoobi laate
+    <add place="margin left">[?]uente</add>
+    <lb/>zijto zooba benni roxooba xtollani chela loo zetoobi laate
 <lb/>
     narij yoobi coopabijtoo huijña tolla xtennini, laa zoaaca qui-
 <lb/>
@@ -13107,7 +13097,7 @@ y <choice><orig>arbolſeco</orig><reg type="spanish">arbolseco</reg></choice><lb
 <lb/>
     <add place="margin left">holahiziena</add>zoo nionnini, laaniozooba tiagani, cicani connaa bixooze, laa
 <lb/>
-    <add place="margin left">emmutiom<lb/>[?]er[?]<lb/>yobicani, zoaaca cochaagani quela penitencia quee, naapeani
+    <add place="margin left">emmutiom<lb/>[?]er[?]<lb/></add>yobicani, zoaaca cochaagani quela penitencia quee, naapeani
 <lb/>
     gaaca zetoobila cicani zaaca loo connini, laa zonnitiloo teteni
 <lb/>
@@ -13231,7 +13221,7 @@ y <choice><orig>arbolſeco</orig><reg type="spanish">arbolseco</reg></choice><lb
 <lb/>
     <fw type="catchword" place="bottom-right">ni.</fw>
     <pb n="289"/>
-    <add>P.a las Bulas<add>
+    <add>P.a las Bulas</add>
 <lb/>
     ni Pizaacani, nijaxtenni quela huenni nazaaca quiraalij Santos,
 <lb/>
@@ -13744,7 +13734,7 @@ y <choice><orig>arbolſeco</orig><reg type="spanish">arbolseco</reg></choice><lb
 <lb/>
     cha lachijñaa Coopabijtoo.
 <lb/>
-    <add>f Juanbe<add place="below">[Mitad?] Stw Thomas fol. 69</add>
+    <add>f Juanbe</add><add place="below">[Mitad?] Stw Thomas fol. 69</add>
 <lb/>
     <choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Channa <choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice> nachonnohe, xij nacaxa Sa-<add place="margin right">1a</add>
 <lb/>
@@ -13887,7 +13877,7 @@ y <choice><orig>arbolſeco</orig><reg type="spanish">arbolseco</reg></choice><lb
 <lb/>
     tijipa raca lachini, nijani cueetijpa 2 cueexooni, cueenijtiniloo <note place="margin right"><foreign xml:lang="span">2 para<choice><orig>q;</orig><reg type="spanish">que</reg></choice><lb/>pueda re-<lb/><choice><orig>ſiſlir</orig><reg type="spanish">sislir</reg></choice> con<lb/>
     anímo, y<lb/>fortaleza<lb/>3 à las te-<lb/>taciones<lb/>del demo-<lb/>niom con<choice><orig>q;</orig><reg type="spanish">que</reg></choice><lb/>tienta.<lb/>4 Por <choice><orig>eſ</orig><reg type="spanish">es</reg></choice>-<lb/>tos bienes<lb/>y
-    <choice><orig>eſtas</orig><reg type="spanish">estas</reg></choice><lb/>virtudes.</foreign><note>
+    <choice><orig>eſtas</orig><reg type="spanish">estas</reg></choice><lb/>virtudes.</foreign></note>
 <lb/>
     quiraa ticha tee, 3 ticha ganna ni rigoo Bezeeloo xquela yyeni
 <lb/>
@@ -14454,7 +14444,7 @@ y <choice><orig>arbolſeco</orig><reg type="spanish">arbolseco</reg></choice><lb
     <pb n="319"/>
     loo xguecheni, ni cotijxelee chahuini, ni penni nohuini xaana-
 <lb/>
-    <note place="margin left"><foreign xml:lang="span">1 <choice><orig>rebuſa</orig><reg type="spanish">rebusa</reg></choice>-<lb/>ron.</lb>2 <choice><orig>Eſtos</orig><reg type="spanish">Estos</reg></choice><lb/>tres ver-<lb/>bos quie-<lb/>ren dezir<lb/>
+    <note place="margin left"><foreign xml:lang="span">1 <choice><orig>rebuſa</orig><reg type="spanish">rebusa</reg></choice>-<lb/>ron.<lb/>2 <choice><orig>Eſtos</orig><reg type="spanish">Estos</reg></choice><lb/>tres ver-<lb/>bos quie-<lb/>ren dezir<lb/>
     hizieron<lb/><choice><orig>reſiſtēcia</orig><reg type="spanish">resistēcia</reg></choice>,<lb/>y repugna<lb/>[r?]an fuerte<lb/>mente la<lb/>Fè Cato-<lb/>lica.<lb/>3 Se enfa<lb/>dan, y re-<lb/>
     ciben ha<lb/><choice><orig>ſtio</orig><reg type="spanish">stio</reg></choice>.<lb/>4 Se amo-<lb/>hinan, y a <lb/>borrecen.<lb/>5 Sus pa-<lb/>rientes.</foreign></note>
     ca nacaxa quiraa xijbaa quela rieelii lachi canì, 1 acapechee-
@@ -14532,7 +14522,7 @@ y <choice><orig>arbolſeco</orig><reg type="spanish">arbolseco</reg></choice><lb
     <pb n="320"/>
     rezeaacanibenni cachee benni cayaa lachini, cica benni Here-
 <lb/>
-    jes, ni connija quijaa, laa cica benni Gentiles, ni rozaani ni ro-<add place="margin right"><foreign xml:lang="span">Adorar</foreign></note>
+    jes, ni connija quijaa, laa cica benni Gentiles, ni rozaani ni ro-<add place="margin right"><foreign xml:lang="span">Adorar</foreign></add>
 <lb/>
     zeeteni Bijtoo quije, Bijtoo yaaga xtenni bezeeloo.
 <lb/>
