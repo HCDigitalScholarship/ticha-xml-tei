@@ -3132,7 +3132,7 @@ lijgaa</add>
 <lb/>
   cahueete zoobani, calaate zaani, cannaa coxooba lenne lachina,
 <lb/>
-  que-
+<fw type="catchword" place="bottom-right">que-<fw>
   <pb n="52"/>
   quela huaagola, quela cohueela quela raazila, zaa yacati naquiiña
 <lb/>
@@ -4162,7 +4162,7 @@ lijgaa</add>
 <lb/>
   cheela Xinni ganna nachiini <choice><orig>Jeſus</orig><reg type="spanish">Jesus</reg></choice> peaayo chiigaa lanni yoo tooxi-
 <lb/>
-  li.
+  <fw type="catchword" place="bottom-right">li-<fw>
   <pb n="67"/>
   <choice><orig>Miſterios</orig><reg type="spanish">Misterios</reg></choice> <choice><orig>Gozoſos</orig><reg type="spanish">Gozosos</reg></choice>:
 <lb/>
@@ -4228,7 +4228,7 @@ lijgaa</add>
 <lb/>
   xooze.
 <lb/>
-  Annaa
+  <fw type="catchword" place="bottom-right">Annaa-<fw>
   <pb n="68"/>
   Annaa Channa Mariahe! xiñaa coxanna
 <lb/>
@@ -4284,7 +4284,7 @@ lijgaa</add>
 <lb/>
   chonnolo <choice><orig>Jeſus</orig><reg type="spanish">Jesus</reg></choice>, quichiibitoopa <choice><orig>Apoſtoles</orig><reg type="spanish">Apostoles</reg></choice><add place="below">F</add>, xi <choice><orig>Diſipulos</orig><reg type="spanish">Disipulos</reg></choice> nachii liini,
 <lb/>
-  che-
+  <fw type="catchword" place="bottom-right">che-<fw>
   <pb n="69"/>
   <choice><orig>Miſterios</orig><reg type="spanish">Misterios</reg></choice> <choice><orig>Doloroſos</orig><reg type="spanish">Dolorosos</reg></choice>:
 <lb/>
@@ -4354,7 +4354,7 @@ lijgaa</add>
 <lb/>
   ni côcaciga lachilo cheetii cheexaaca lachi xinni gannalo <choice><orig>Ieſu</orig><reg type="spanish">Iesu</reg></choice>
 <lb/>
-  Chri-
+  <fw type="catchword" place="bottom-right">Chri-<fw>
   <pb n="70"/>
   <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice>. Zooquixii rinni nabaana nooni, rua rizoo nizaioona xten-
 <lb/>
@@ -4424,7 +4424,7 @@ lijgaa</add>
 <lb/>
   Bixooze tonoohe! chiibalo quiiebaa.<add place="below">F2</add>
 <lb/>
-  Ann-
+  <fw type="catchword" place="bottom-right">Ann-<fw>
   <pb n="71"/>
   <choice><orig>Miſterios</orig><reg type="spanish">Misterios</reg></choice> <choice><orig>Doloroſos</orig><reg type="spanish">Dolorosos</reg></choice>.
 <lb/>
@@ -4496,7 +4496,7 @@ lijgaa</add>
 <lb/>
   ruani, loo quela huczaaca loo huezaaca lachi xaata Xtennini, cotij-
 <lb/>
-  ñeni-
+  <fw type="catchword" place="bottom-right">ñeni-<fw>
   <pb n="72"/>
   En lengua Zapoteca.
 <lb/>
@@ -4566,7 +4566,7 @@ lijgaa</add>
 <lb/>
   latos laa Barrabas, caatihua Xinni Dios. Laatichaquee coxiiguela
 <lb/>
-  Juez
+  <fw type="catchword" place="bottom-right">Juez<fw>
   <pb n="73"/>
   <choice><orig>Miſterios</orig><reg type="spanish">Misterios</reg></choice> <choice><orig>Doloriſos</orig><reg type="spanish">Dolorisos</reg></choice>:
 <lb/>
@@ -4638,7 +4638,7 @@ lijgaa</add>
 <lb/>
   cacica.
 <lb/>
-  Coo-
+  <fw type="catchword" place="bottom-right">Coo-<fw>
   <pb n="74"/>
   En lengua Zapoteca.
 <lb/>
@@ -4708,7 +4708,7 @@ lijgaa</add>
 <lb/>
   Annaa Channa Mariahe! chij liaaza.
 <lb/>
-  Glo-
+  <fw type="catchword" place="bottom-right">Glo-<fw>
   <pb n="75"/>
   <choice><orig>Miſterios</orig><reg type="spanish">Misterios</reg></choice> <choice><orig>Glorioſos</orig><reg type="spanish">Gloriosos</reg></choice>:
 <lb/>
@@ -4772,7 +4772,7 @@ lijgaa</add>
 <lb/>
   chij huagoonala Xinni Dios lanni yaya Cruz, pea piriie ga ani-
 <lb/>
-  ma
+  <fw type="catchword" place="bottom-right">ma<fw>
   <pb n="76"/>
   En lengua Zapoteca.
 <lb/>
@@ -4842,9 +4842,9 @@ lijgaa</add>
 <lb/>
   tonoo, chaanoo, chaoonallana, chaooguelaagaxoo, quitoobi la-
 <lb/>
-  china, quela rizaabiyanni lachi tonoo quela ccoquii quiiebaa, no co-
+  china, quela rizaabiyanni lachi tonoo quela <note place="below">G</note> ccoquii quiiebaa, no co-
 <lb/>
-  lii-
+  <fw type="catchword" place="bottom-right">lii-<fw>
   <pb n="77"/>
   <choice><orig>Miſterios</orig><reg type="spanish">Misterios</reg></choice> <choice><orig>Glorioſos</orig><reg type="spanish">Gloriosos</reg></choice>:
 <lb/>
@@ -4856,9 +4856,9 @@ lijgaa</add>
 <lb/>
   Coroopa Xibaa.
 <lb/>
-  LOo Coroopa Xibaa nirij collaaba lachilo, cica chij zaabeeca pe-
+  <add place="margin left">pre[p?]pec[xax?]ſe</add>LOo Coroopa Xibaa nirij collaaba lachilo, cica chij zaabeeca pe-
 <lb/>
-  baani Xinni Dios lahui benni cooti, aca piooba peaapini quiie-
+  baani Xinni Dios lahui benni cooti, aca piooba<add place="above">x</add> peaapini quiie-
 <lb/>
   baa. cani niiaxtenni nachii ciroo lachini benniaati, colleeza zee ci-
 <lb/>
@@ -4866,7 +4866,7 @@ lijgaa</add>
 <lb/>
   chela loochiiquee, huayaani liaaza coca pitagueloohui loonl looqui-
 <lb/>
-  raa <choice><orig>Apoſtoles</orig><reg type="spanish">Apostoles</reg></choice> pegoorooba pegooxenneni lachitooni looquelahua-
+  raa <choice><orig>Apoſtoles</orig><reg type="spanish">Apostoles</reg></choice> pegoorooba<add place="above">[ytoxsaz?]</add> pegooxenneni<add place="above">congo [s?]an</add> lachitooni looquelahua-
 <lb/>
   goona huazaana, looquelabiilla, huizaabi, ni peaanani lanni gueche,
 <lb/>
@@ -4916,7 +4916,7 @@ lijgaa</add>
 <lb/>
   benni nabaanila, benni cootila guechelayooriini.
 <lb/>
-  Bixoo-
+  <fw type="catchword" place="bottom-right">Bixoo-<fw>
   <pb n="78"/>
   Bixooze tonoohe! toobi liaaza.
 <lb/>
@@ -4940,7 +4940,7 @@ lijgaa</add>
 <lb/>
   biitoo <choice><orig>Ieſu</orig><reg type="spanish">Iesu</reg></choice> <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice>. Cacacicacica.
 <lb/>
-  Coyppna Xibaa.
+  Coyoona Xibaa.
 <lb/>
   LOo Coyoona Xibaa nirij collaaba lachilo cica chij pezaa cochin
 <lb/>
@@ -4952,7 +4952,7 @@ lijgaa</add>
 <lb/>
   yaaca quirani tôbi lanni yoho rennaani. Cenaculo rua cotaago
 <lb/>
-  Xchee yòbi Bejoannana <choice><orig>Ieſu</orig><reg type="spanish">Iesu</reg></choice> <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice>, lanni guela chij pigaani lachi-
+  Xchee yòbi Bejoannana <choice><orig>Ieſu</orig><reg type="spanish">Iesu</reg></choice> <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice>, lanni guela chij pigaani<add place="above">ſes p[a?]ciſo</add> lachi-
 <lb/>
   ñaa Judios. Ruanigaana huanootoopa, noochaaga chahui quiraani,
 <lb/>
@@ -4962,7 +4962,7 @@ lijgaa</add>
 <lb/>
   chiiquee. Huateetela cochii cubiichaquee. Huazoo huazaagaa, pea-
 <lb/>
-  aza peaagaa, conniitiipa pizeechi xoo quiiebaa, cacaaliini cica tôbi
+  aza peaagaa<add place="above">z</add>, conniitiipa pizeechi<add place="above">2</add> xoo quiiebaa, cacaaliini cica tôbi
 <lb/>
   pexoo peetooxo, quitoobi yoho canî, rua narii yooni xonnii yôgo
 <lb/>
@@ -4984,13 +4984,13 @@ lijgaa</add>
 <lb/>
   hu châga yahoo loo benniaati, chela niiaaxtenni ya quichiibiti ya
 <lb/>
-  quiaachiti lachini, chij cooni libaana looni, pizaaani coca xillaani
+  quiaachiti lachini, chij cooni libaana looni<add place="below">, pizaaani coca xillaani
 <lb/>
-  que,
+  <fw type="catchword" place="bottom-right">que-<fw>
   <pb n="79"/>
   quela naguiio natiipa, quela narooba, naxeenne lachi quelahuechiiño
 <lb/>
-  ticha quela hueziira libaana, quela nabeeche ruani, quela nachiilla
+  <add place="margin left">[plus sign?]</add>ticha quela hueziira libaana, quela nabeeche ruani, quela nachiilla
 <lb/>
   lachini, niiaxtenni cica xi huele, xi <choice><orig>Maeſtros</orig><reg type="spanish">Maestros</reg></choice> guechelayoo, zogoo
 <lb/>
@@ -5056,7 +5056,7 @@ lijgaa</add>
 <lb/>
   ze xoo lachini. chela yôbi Xonaaxi connini looni, ziaani ticha too-
 <lb/>
-  ba,
+  <fw type="catchword" place="bottom-right">ba,<fw>
   <pb n="80"/>
 
   <pb n="81"/>
