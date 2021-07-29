@@ -4418,7 +4418,7 @@ lijgaa</add>
 <lb/>
   Annaa Channa Mariahe!
 <lb/>
-  Gloria Patri &amp; Filio &amp; Spiritui Sancto, &amp;c.
+  <foreign xml:lang="span">Gloria Patri &amp; Filio &amp; Spiritui Sancto, &amp;c.</foreign>
 <lb/>
   Ticha Xonij loo Dios.
 <lb/>
@@ -4508,7 +4508,7 @@ lijgaa</add>
 <lb/>
   Anna channa Mariahe!
 <lb/>
-  Gloria Patri &amp; Ftlio &amp; Spiritui Sancto, &amp;c.
+  <foreign xml:lang="span">Gloria Patri &amp; Ftlio &amp; Spiritui Sancto, &amp;c.</foreign>
 <lb/>
   Ticha Xonij loo Dios.
 <lb/>
@@ -4600,7 +4600,7 @@ lijgaa</add>
 <lb/>
   Anna Chana Maria he! chij liaaza.
 <lb/>
-  Gloria Patri &amp; Filio &amp; Spiritui Sancto, &amp;c.
+  <foreign xml:lang="span">Gloria Patri &amp; Filio &amp; Spiritui Sancto, &amp;c.</foreign>
 <lb/>
   Ticha Xonij loo Dios.
 <lb/>
@@ -4700,7 +4700,7 @@ lijgaa</add>
   <pb n="75"/>
   <choice><orig>Miſterios</orig><reg type="spanish">Misterios</reg></choice> <choice><orig>Glorioſos</orig><reg type="spanish">Gloriosos</reg></choice>:
 <lb/>
-  Gloria Patri &amp; Filio &amp; Spiritui Sancto, &amp;c.
+  <foreign xml:lang="span">Gloria Patri &amp; Filio &amp; Spiritui Sancto, &amp;c.<!--is this Spanish?--></foreign>
 <lb/>
   Ticha Xonij loo Dios.
 <lb/>
@@ -4738,7 +4738,7 @@ lijgaa</add>
 <lb/>
   MISTERIOS GLORIOSOS.
 <lb/>
-  Deus in adiutorium meun intende, &amp;c.
+  <foreign xml:lang="lat">Deus in adiutorium meun intende, &amp;c.</foreign>
 <lb/>
   Alaarij coyoona loo, coyoona xcuaa Xibaa bigaaquije
 <lb/>
@@ -4816,7 +4816,7 @@ lijgaa</add>
 <lb/>
   Anna channa Mariahe! chij liaaza.
 <lb/>
-  Gloria Patri &amp; Filio &amp; Spiritui Sancto, &amp;c.
+  <foreign xml:lang="span">Gloria Patri &amp; Filio &amp; Spiritui Sancto, &amp;c.</foreign>
 <lb/>
   Ticha Xonij loo Dios.
 <lb/>
@@ -4910,7 +4910,7 @@ lijgaa</add>
 <lb/>
   Anna Channa Mariahe! chij liaaza.
 <lb/>
-  Gloria Patri &amp; Filio &amp; Spiritui Sancto, &amp;c.
+  <foreign xml:lang="span">Gloria Patri &amp; Filio &amp; Spiritui Sancto, &amp;c.</foreign>
 <lb/>
   Ticha Xonnij loo Dios.
 <lb/>
@@ -4990,7 +4990,7 @@ lijgaa</add>
 <lb/>
   Annaa Channa Mariahe! chij liaaza.
 <lb/>
-  Gloria Patri &amp; Filio &amp; Spiritui Sancto, &amp;c.
+  <foreign xml:lang="span">Gloria Patri &amp; Filio &amp; Spiritui Sancto, &amp;c.</foreign>
 <lb/>
   Ticha Xonij loo Dios.
 <lb/>
@@ -5078,7 +5078,7 @@ lijgaa</add>
 <lb/>
   Anna Chana Marie he! chij liaaza.
 <lb/>
-  Gloria Patri &amp; Pilio &amp; Spiritual Sancto, &amp;c.
+  <foreign xml:lang="span">Gloria Patri &amp; Pilio &amp; Spiritual Sancto, &amp;c.</foreign>
 <lb/>
   Ticha Xonij loo Dios.
 <lb/>
@@ -5114,7 +5114,7 @@ lijgaa</add>
 <lb/>
   naaxi looni hualiica chij huaxaaleca quiiñabaa nachonnoquee,
 <lb/>
-  peo-
+  <fw type="catchword" place="bottom-right">peo-</fw>
   <pb n="81"/>
   <choice><orig>Miſterios</orig><reg type="spanish">Misterios</reg></choice> <choice><orig>Glorioſos</orig><reg type="spanish">Gloriosos</reg></choice>:
 <lb/>
@@ -5172,7 +5172,7 @@ lijgaa</add>
 <lb/>
   Annaa Channa Mariahe! chij liaaza.
 <lb/>
-  Gloria Patri &amp; Filio &amp; Spiritui Sancto, &amp;c.
+  <foreign xml:lang="span">loria Patri &amp; Filio &amp; Spiritui Sancto, &amp;c.</foreign>
 <lb/>
   Ticha Xonij loo Dios.
 <lb/>
@@ -5186,7 +5186,7 @@ lijgaa</add>
 <lb/>
   <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice> toobi laapa nachono quitoobi quela gloria quiibaa, ni co-
 <lb/>
-  caxi-
+  <fw type="catchword" place="bottom-right">caxi-</fw>
   <pb n="82"/>
   En lengua Zapoteca.
 <lb/>
@@ -5232,7 +5232,7 @@ lijgaa</add>
 <lb/>
   nayoona Xtennini. cica ni pezaalachi ziaani Cooquii huiia too ren-
 <lb/>
-  naani Santo Padre, ni racaloo rinnij peani quitoobiliipe xiñaana
+  naani Santo Padre, ni racaloo<add place="above">[preci?] diz</add> rinnij<add place="above">mendaz</add> peani quitoobiliipe xiñaana
 <lb/>
   Santa <choice><orig>Ygleſia</orig><reg type="spanish">Iglesia</reg></choice>.
 <lb/>
@@ -5254,7 +5254,7 @@ lijgaa</add>
 <lb/>
   Chela zee toobi Coquij huiia too, ni laa INNOCENCIO OCTAVO. Pe-
 <lb/>
-  zaa-
+  <fw type="catchword" place="bottom-right">zaa-</fw>
   <pb n="83"/>
   Indulgencias:
 <lb/>
@@ -5280,7 +5280,7 @@ lijgaa</add>
 <lb/>
   Quitoobiloo quichaaganiia quelaquiia lebij lezaaca quiraa Xquela
 <lb/>
-  Huexiihuini, riniio tonoo Indulgencia plenaria. cica ni pezaalachi
+  Huexiihuini, riniio tonoo <foreign xml:lang="span">Indulgencia plenaria.</foreign> cica ni pezaalachi
 <lb/>
   xilla Cooquii huiia too, ni laa PAVLO QVARTO.
 <lb/>
@@ -5324,9 +5324,9 @@ lijgaa</add>
 <lb/>
   <choice><orig>ſu</orig><reg type="spanish">su</reg></choice> <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice>. hualiica chiicatini, zoaatequecheela baa nezani, zoaala
 <lb/>
-  xillaa teteni quitoobi quela Indulgencia plenaria. chela quitoobi
+  xillaa teteni quitoobi quela <foreign xml:lang="span">Indulgencia plenaria</foreign>. chela quitoobi
 <lb/>
-  que-
+  <fw type="catchword" place="bottom-right">que-</fw>
   <pb n="84"/>
   En Lengua Zapoteca
 <lb/>
@@ -5396,7 +5396,7 @@ lijgaa</add>
 <lb/>
   ñor. Huanniaana Bixooze cottaxa pallaxa naca tollaquee ziicani qui-
 <lb/>
-  raa
+  <fw type="catchword" place="bottom-right">raa-</fw>
   <pb n="85"/>
   Indulgencias
 <lb/>
@@ -5466,7 +5466,7 @@ lijgaa</add>
 <lb/>
   nana Dios quiraalij beni Cofrades, xticha quela huezaabi quique-
 <lb/>
-  ñaa
+  <fw type="catchword" place="bottom-right">ñaa-</fw>
   <pb n="86"/>
   ñaa Xonaani too Santa Maria. Laaniia canî rillaabaya laato, tryoo-
 <lb/>
@@ -5492,7 +5492,7 @@ lijgaa</add>
 <lb/>
   ta Maria lanni Xqueehui lichini quiiebaa.
 <lb/>
-  PROTESRACION DE LA FEE
+  PROTESR<add place="above">[R crossed out]T</add>ACION DE LA FEE
 <lb/>
   Alaarij tôbi laya nachonno quela ricaabirua anima ben
 <lb/>
@@ -5532,7 +5532,7 @@ lijgaa</add>
 <lb/>
   looni, Xquelahuezii pea lachia, Xquela cobiixi guette lachia, niiax-
 <lb/>
-  te
+  <fw type="catchword" place="bottom-right">te-</fw>
   <pb n="87"/>
   <choice><orig>Proteſtacion</orig><reg type="spanish">Protestacion</reg></choice> de la Fee:
 <lb/>
@@ -5602,7 +5602,7 @@ lijgaa</add>
 <lb/>
   cirootete lachi quitôbi quela quioona baa Santa Trinidad anima
 <lb/>
-  Xten-
+  <fw type="catchword" place="bottom-right">Xten-</fw>
   <pb n="88"/>
   En lengua Zapoteca.
 <lb/>
@@ -5674,7 +5674,7 @@ lijgaa</add>
 <lb/>
   nacueeta nachii guero tiaagani, aca piennitia Xtichani, canni oriitii-
 <lb/>
-  pa,
+  <fw type="catchword" place="bottom-right">pa,</fw>
   <pb n="89"/>
   <choice><orig>Proteſtacion</orig><reg type="spanish">Protestacion</reg></choice> de la Fee:
 <lb/>
@@ -5748,7 +5748,7 @@ lijgaa</add>
 <lb/>
   qui cicaya, cica huiia quiia huiia ticha, cica Procurador Xtennia xi
 <lb/>
-  An-
+  <fw type="catchword" place="bottom-right">An-</fw>
   <pb n="90"/>
   En lengua Zapoteca.
 <lb/>
@@ -5820,11 +5820,145 @@ lijgaa</add>
 <lb/>
   naliia, tezeeyoonia lachilo, niiani ya cozaa nañaatilo naa, ya coochii
 <lb/>
-  tij,
+  <fw type="catchword" place="bottom-right">tij</fw>
   <pb n="91"/>
-<!--no transcription yet-->
+  tij, cochiizoolo naa loo nayyxi Xtennilo, annaa huariguiillea
+<lb/>
+  yobilo, huarizaabi yanni lachia quela conncachij Xtennilo, ni hua-
+<lb/>
+  yaani liaaza cotiillelonnaa, coxennilo naa, chij pexiihuitetea loolo.
+<lb/>
+  laanicia huaracape lachitooya, huarizaabi yanni lachia, quiraa ti-
+<lb/>
+  chariini, Xquela rieelij lachi ios, chela Xquela hueooni pea cha-
+<lb/>
+  hui quiraa Xquela huexiihui, celiipe quicaatiipa quiche liibi lachia,
+<lb/>
+  chela tebela zoochii, zotoola zacaahui, zayaachi lachia, laa zaxiiñe
+<lb/>
+  Xquela riennia, laa zanniiti Xquela nonni pea lachitooya, chela chii-
+<lb/>
+  quee quitaguecaa tee tiaaga coziiquiie Bezeelo naa cooquilleni,
+<lb/>
+  coogooziiguela lachini, laa coogooniiruani naa, Xitila tichatee ti-
+<lb/>
+  chaganna, ticha aguiizaaca Xtennini, ni ritiillañeeni loo quizaa Xti-
+<lb/>
+  cha Xquela rieeliilachi yobi Dios, annaa huayaaniicica anima Xten-
+<lb/>
+  nia, rinniia aca riziiguelatia, aca ricaabitia loo xitila Xtichani, chela
+<lb/>
+  tebela canniia, quichiiba ruaya xitila ticha ahuiizaaca canî, cica te-
+<lb/>
+  bela yaca ninniitia, yaca nichiibati ruaya racalachia, ricaabia loo xi
+<lb/>
+  Cooquiia Dios, cannaaxe loo yobini laaya, loo yobini càtia. cannaa-
+<lb/>
+  xe lij Santa <choice><orig>Ygleſia</orig><reg type="spanish">Iglesia</reg></choice> zaroogo pij lachitooya zagoona Xquela nabaa-
+<lb/>
+  nia, niiani cheequexiibaaneza anima Xtennia quela nabaani celij,
+<lb/>
+  quela gloria lanni queehui quiiebaa, rua late canna cohuiia looya
+<lb/>
+  lennaa nabaa nayyxi nahuiie naguiite yobi xi Cooquiia xi Bejoan-
+<lb/>
+  naya, xi huezaaya, xi hueziillaa lij nachonnoya <choice><orig>Ieſu</orig><reg type="spanish">Iesu</reg></choice> <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice>. Cacaci-
+<lb/>
+  cacica.
+<lb/>
+  EXEMPLOS DEL ROSARIO.
+<lb/>
+  Y de la devocion de MARIA <choice><orig>Santiſſima</orig><reg type="spanish">Santissima</reg></choice>
+<lb/>
+  Señora <choice><orig>Nueſtra</orig><reg type="spanish">Nuestra</reg></choice>. En lengua Zapoteca.
+<lb/>
+<add place="margin left">Pla[r?]o limpioſo almoa [lirngia?]</add>
+  <foreign xml:lang="span">Para los doze <choice><orig>Meſes</orig><reg type="spanish">Meses</reg></choice> del Año.</foreign> <add>para [vera?] [?]clas[?]</add>
+<lb/>
+  <add place="margin left">[?] Alonzo<lb/>Hernandes<lb/>fol 196</add>
+    HVayye cochij colaaza, corij nabaani toobi<add place="above">[dix?]</add> benni<add place="above">[inerncedo?]</add> Pigaana lan-
+<lb/>
+  ni guechelayoo riini, laacani benni aguiizaca tete cocani tôbi
+<lb/>
+  chij, tôbi chij zeenoo, zeenallani, zeegueilaaga Xoo quitôbiquique
+<lb/>
+  lachini xixoola baa toola pellalati, xibaa, xiyoole xquiite gannague-
+<lb/>
+  che-
+
   <pb n="92"/>
-<!--no transcription yet-->
+  En lengua Zapoteca.
+  <add place="margin right">38<lb/>L8<lb/>L7</add>
+<lb/>
+  chelayoo rijni. cijccani, zaabeeca benni huexijhuitetenacani, hua-<add place="above">38</add>
+<lb/>
+  lijca cazooba chij penni xonniini pechaagalooni yobi xonaaxi na-
+<lb/>
+  yoona Santa Maria, xiñaa Dios, caticati pichiiba ruani tij laaya na-
+<lb/>
+  chonno Xtennini, rennaani annaa channa Mariahe! chela qui-
+<lb/>
+  toobi lijca lachini pillani bigaa quije <choice><orig>Roſſario</orig><reg type="spanish">Rossario</reg></choice>, pellaaba lachini Xi-
+<lb/>
+  baa nayoona nooñeeni Xtenni B. <choice><orig>Ieſu</orig><reg type="spanish">Iesu</reg></choice> <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice> ni peloohuijcha na-
+<lb/>
+  chij natooni yobi lijca xonaaxi Santa MAria, aca tobiti chij, quea-
+<lb/>
+  ani connini cicarij, yacooxe<add place="above">no tubotio</add>lazitini<add place="above">xiexa</add>, ya<add place="above">ni</add> pichaabatini<add place="above">secanso</add> looquela
+<lb/>
+  huenni xonij loo xonaaxi. chela alaarij, cicarij gooca, quelani coto-
+<lb/>
+  obi liaaza pirijeti benniquee looguijchaa, rua guijxitoo,
+<lb/>
+  chela ruanigaa nacannazaacicani, carizigaa cocapetoobitete
+<lb/>
+  lachini, peraa Xquela natijpani, quelani coxaacani tobi quela<add place="above">nio[?]izderq[?]serbae</add> cobij-
+<lb/>
+  ña roo, collanna teteni, cotiiñe xoo lachini quela huaago, ni quiti-
+<lb/>
+  ipa lazi xpella latini. chela chiique zooyaha<add place="above">[?]iexepezate ta [i?] in[?][binse?]</add>, zooquiia piiñatii, piiña
+<lb/>
+  quetta yobi xonaaxitoo Santa Maria, lanni guiixitoo quee, pitague
+<lb/>
+  loohuilooni loobenni pirooze cani, ñeeni pitazoo ruanigaa, ziaani
+<lb/>
+  chaapa cocooni nayooni, ni nooñee yobi xonaaxi lanni quiiebaa.
+<lb/>
+  Chela alaarij nachiiba cica lachiñaa nataa nabaana xtennini topa
+<lb/>
+  chonna guenna<add place="above">la benca lana</add>, late noo topàchonna loo quela huaago nazaaca <add place="margin right">Adoma[?]lai<lb/>B. ſiepta que[?]<lb/>[?]</add>
+<lb/>
+  tete, ni nabaa nayyxi nacani, chela ni naeete<add place="above">Nabaezo</add>, ni nayyzo<add palce="above">B.</add> rillaa. Ci-
+<lb/>
+  icani yobi guenna latenoo quela huaago nachaahui riini, nachaaba
+<lb/>
+  nayyo tetenacani, naquiihui teteriñaani. Cirootete cobiixi pica-
+<lb/>
+  aze lachi, cuyee tij cuyee zooba lachitoo benni quee, chiiquee con-
+<lb/>
+  naa yobi Xonaaxitoo Santa MAria looni ea xinni lachiia Cofrade
+<lb/>
+  Xtennia, cocaalazi quela huaago riini, ni zeelegueñeea loolo, que-
+<lb/>
+  lani rillanna tetelo, chelanaa riñaaziichibaaya lohuy, niia Xtenni
+<lb/>
+  Xillaania nacalo, cotaago, chiique cocaaci benniquee. hachana xo-
+<lb/>
+  naaxi cooquii quijebaa he hualii rinnia, que la huaago riini, nayoo
+<lb/>
+  nachiiba cica lachilo, huachaahui huazaacatete nacani, huaxi,
+<lb/>
+  huayyzo rillaani, ciicani yobi guenna late nooni huachaaba hua-
+<lb/>
+  choolo nacani huateehui, huaquiihui, hua ribiixi ri-
+<lb/>
+  caaze tete lachitooya riñaaya quela huaago quee, niquee
+<lb/>
+  channa nachonno, conniitiloo cicalo nipe xiihuia acagaagotia, ya
+<lb/>
+  conniixe la ziruatia quela huaago riini. chiique cozennaa Xona-
+<lb/>
+  axitoo
   <pb n="93"/>
 <!--no transcription yet-->
   <pb n="94"/>
