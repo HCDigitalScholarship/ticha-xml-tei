@@ -3191,6 +3191,7 @@
         .
         <cb n=""/>
       </div>
+      <div xml:id="levanto-cathecismo3.1">
       <!-- Intro to doctrinal section -->
       <div xml:id="levanto-cathecismo3.1.P">
         <head type="outline">Decid Niño como os llamais?</head>
@@ -5451,6 +5452,7 @@
           DOCTRINA CHRISTIANA.
         </foreign>
       </head>
+    </div>
     </div>
     <!-- Levanto 3 -->
     <div xml:id="levanto-cathecismo4">
