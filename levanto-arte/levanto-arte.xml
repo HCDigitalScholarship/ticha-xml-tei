@@ -891,7 +891,9 @@
     ora de ayudaryo= <foreign xml:lang="zap">huayalabea cacanielo</foreign>
     llegada es
     <lb/>
-    la ora de ayudar ai: <foreign xml:lang="zap">huayalabea gacaneeeni</foreign> lle-
+    la ora de ayudar
+    <choice><orig>ai</orig><reg type="spanish">hay</reg></choice>: 
+    <foreign xml:lang="zap">huayalabea gacaneeeni</foreign> lle-
     <lb/>
     gada es la ora de ayudar aquel.
     <lb/>
