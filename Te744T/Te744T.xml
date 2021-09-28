@@ -2,13 +2,27 @@
 <?xml-model href="../schema/TEISchema_Ticha.rnc" type="application/relax-ng-compact-syntax"?>
 <!--encode the main language of this document-->
 <!-- comments -->
+<<<<<<< HEAD
 <!-- Laura -->
+=======
+<<<<<<< HEAD
+<!-- hello, have a great day -->
+=======
+<!-- comment from Will -->
+<!-- comment from Nuria -->
+<!-- comment from Al -->
+>>>>>>> d8f9ae4e1f489886b74c606abfe7cd0cce7c55f9
+>>>>>>> 9670fc213657a512bdd0624a53d07f70ec0e7a2f
 <!-- Translation of Testament from San Sebastián Teitipac, 1744 -->
 <!-- Sarah's test comment -->
+<<<<<<< HEAD
+<!-- comment-Hannah -->
+=======
 <!-- Eric test comment -->
+>>>>>>> 6ed2277e878e3b9efdab4924a49156da9cf633b9
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <text>
-    <pb n="1"/><br>
+    <pb n="1"/><br> <!--comment-->
     En el nombre de la Santissima Trinidad, Dios Padre: Dios
     <br>
     Hijo: Dios
