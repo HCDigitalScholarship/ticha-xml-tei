@@ -2,6 +2,7 @@
 <?xml-model href="../schema/TEISchema_Ticha.rnc" type="application/relax-ng-compact-syntax"?>
 <!--encode the main language of this document-->
 <!-- comments -->
+<!-- Laura understands computers! -->
 <!-- Translation of Testament from San Sebastián Teitipac, 1744 -->
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <text>
