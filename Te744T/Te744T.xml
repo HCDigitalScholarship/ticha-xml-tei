@@ -3,9 +3,14 @@
 <!--encode the main language of this document-->
 <!-- comments -->
 <!-- comment from Will -->
+<!-- comment from Nuria -->
 <!-- Translation of Testament from San Sebastián Teitipac, 1744 -->
 <!-- Sarah's test comment -->
+<<<<<<< HEAD
 <!-- comment-Hannah -->
+=======
+<!-- Eric test comment -->
+>>>>>>> 6ed2277e878e3b9efdab4924a49156da9cf633b9
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <text>
     <pb n="1"/><br>
