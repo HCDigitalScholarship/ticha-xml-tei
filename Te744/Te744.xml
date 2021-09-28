@@ -2,8 +2,12 @@
 <?xml-model href="../schema/TEISchema_Ticha.rnc" type="application/relax-ng-compact-syntax"?>
 <!--encode the main language of this document-->
 <!-- Testament from San Sebastián Teitipac, 1744 -->
+<!--test-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 <text>
+<!--1-->
+<!--2-->
+<!--3-->
 
     </text>
 </TEI>
