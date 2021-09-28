@@ -1,18 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../schema/TEISchema_Ticha.rnc" type="application/relax-ng-compact-syntax"?>
 <!--encode the main language of this document-->
-<!-- comments -->
-<!-- hello from Gemma -->
-<!-- hello, have a great day -->
-<!-- comment from Will!!!!!!!!!! -->
-<!-- comment from Nuria -->
-<!-- comment from Al -->
 <!-- Translation of Testament from San Sebastián Teitipac, 1744 -->
-<!-- Sarah's test comment -->
-<!-- comment-Hannah -->
-<!-- Translation of Testament from San Sebastián Teitipac, 1744 -->
-<!-- Sarah's test comment -->
-<!-- Eric test comment -->
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <text>
     <pb n="1"/><br> <!--comment-->
