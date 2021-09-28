@@ -2,30 +2,19 @@
 <?xml-model href="../schema/TEISchema_Ticha.rnc" type="application/relax-ng-compact-syntax"?>
 <!--encode the main language of this document-->
 <!-- Testament from San Sebastián Teitipac, 1744 -->
-<!--test-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 <text>
-<!--1-->
+<!--Josh-->
 Laa stissima trinidad Dios bixoce Dios xini Dios espiritu<lb/>
-<!--3-->
-<!--4 Gemma lines 4-4 through 4-9-->
-Chela Rinnia napaya cuenta xiteni Resurecion gallabichi p[e][sos<lb/>
-sos — — — — — — — — 3ps<lb/>
-huane gallabichonna bibra? Zera — — — 23tt<lb/>
-chelarinnia napaya ceetobicue layoo xaatani quieyaza na<lb/>
-nitapabee nachiagavizaa queto lucas larita neza sochi na<lb/>
-chiagavizaa queto pasqualmendes Riananexinichiapaya<lb/>
-<!--elle-->
-<!--nuria-->
+
+<!--Nuria-->
 chela rinnia cocachi leeche laya xipella latia missa vigilla <lb/>
-<!--elle--> Cruz  Chelarinnia napaya cetobicue layoo gochi nachiaga <lb/>
 
-
-<!--2-->
-<!--elle--> bizaa Bernabel Luis nezaa sotiola nachi yaga bizaa queto ma <lb/>
-<!--2-->
-<!--3-->
 <!--elle-->
+Cruz Chelarinnia napaya cetobicue layoo gochi nachiaga<lb/>
+
+<!--Caroline-->
+
 <!--Naomi-->
 Chelarinnia napaya cetoobi cuelayoo gochi nacani tiuabiaaly <lb/>
 Surco roteteya batoohuini sobrino xiteniya Manuel de la Cruz <lb/>
@@ -33,8 +22,11 @@ nachiaga vizaa quetoo Balthasar hernandes nachiaga vizaa que[too] <lb/>
 Zoo Marcosbaleriano nachiaga vizaa queeloo Mathias Domin <lb/>
 go nezaa sochi - Chelarinnia napaya ceegalle bichi sa <lb/>
 Co layoo xizani phelipelopes zennani yochini to mines gali <lb/>
+<!--Hannah-->
+
 <!--Savannah-->
 Chela rinnia napaya Cetoobi cuelayoo betoo Miguel Ernand[es] <lb/>
+
 <!--Sarah: Lines 2-24-3-4 -->
 Agustina(?) delaCruz ----- ----- ----- -----<lb/>
 Chela rinnia napaya Cetobi cuelayoo(?) bezo quezo mattzeo Lo<lb/>
@@ -43,19 +35,35 @@ nalani chonnabee por xo papesos — 6ps rianane xini chia<lb/>
 paya Manuela Agustina dela Cruz — — —<lb/>
 chela rinnia cetobi cue Layoo betoo queto Balthasar ernandes<lb/>
 ninaa techilichi pedao mrn[?] puente roteteya[space?]bizaanaya<lb/>
-<!--3-->
-<!--3 lines 3-11 to 3-16-->
+
+<!--Bella-->
+
+<!--Al-->
 Las lorenso rianane lechelaya petrona dela Cruz —<lb/>
 Chela rinnia cetobi cue la yo[?] beto queto ygna Ciomendos[?]<lb/>
 Rianane la?axinichiapayay manuela Agustina Dela Cruz<lb/>
 Chela rinnia napaya tobinezaamanibicksnia gona riananee<lb/>
 xini chiapaya Manuela Agustina dela Cruz<lb/>
 Chela rinnia Cetobi mani desilla riananelechalaya petrona<lb/>
-<!--4-->
-<!--5-->
-<!--6-->
+
+<!--Halle-->
+
+<!--Laura-->
+
+<!--4 Gemma lines 4-4 through 4-9-->
+Chela Rinnia napaya cuenta xiteni Resurecion gallabichi p[e][sos<lb/>
+sos — — — — — — — — 3ps<lb/>
+huane gallabichonna bibra? Zera — — — 23tt<lb/>
+chelarinnia napaya ceetobicue layoo xaatani quieyaza na<lb/>
+nitapabee nachiagavizaa queto lucas larita neza sochi na<lb/>
+chiagavizaa queto pasqualmendes Riananexinichiapaya<lb/>
+
+<!--?-->
+bizaa Bernabel Luis nezaa sotiola nachi yaga bizaa queto ma <lb/>
+
+<!--Eric-->
+
 <!--John-->
-<!--7 lines 4-16 to 4-22-->
 ChelaRinnia rebalarati xini chia paya Manuel<lb/>
 Agustina de la Cruz sobrino xiteniya quira xi quichia<lb/>
 dor delaCruz sobrino xitenia guira xigurizo<lb/>
@@ -63,6 +71,8 @@ ya-Chelarinnia queza lachi Regidor antono hernandes<lb/>
 huane primo xitenia Juan de la Cruz ga calasini alpas<lb/>
 xitenia gannani quigachi pella latia huane<lb/>
 que sinigono quira becogohuane qu<lb/>
+
+<!--Will-->
 
     </text>
 </TEI>
