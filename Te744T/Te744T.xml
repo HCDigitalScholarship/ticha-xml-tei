@@ -2,11 +2,7 @@
 <?xml-model href="../schema/TEISchema_Ticha.rnc" type="application/relax-ng-compact-syntax"?>
 <!--encode the main language of this document-->
 <!-- comments -->
-<<<<<<< HEAD
-<!-- Laura understands computers! -->
-=======
-<!-- comment from Will -->
->>>>>>> 1a34bf4bfb14288fbc249d2891dac65045dbf642
+<!-- Laura -->
 <!-- Translation of Testament from San Sebastián Teitipac, 1744 -->
 <!-- Sarah's test comment -->
 <!-- Eric test comment -->
