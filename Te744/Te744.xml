@@ -2,6 +2,7 @@
 <?xml-model href="../schema/TEISchema_Ticha.rnc" type="application/relax-ng-compact-syntax"?>
 <!--encode the main language of this document-->
 <!-- another comment from Mike Z testing VSCode and Github -->
+<!-- yet another comment from Mike Z testing out VSCode -->
 <!-- Testament from San Sebastián Teitipac, 1744 -->
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 <text>
