@@ -9820,14 +9820,14 @@ lijgaa</add>
   ronni looya, ribeeza quitoobi quique lachia, roti guelalia ro zaabi
 <lb/>
   Xti-
-  <pb n="147"/> <!--need to normalize and encode marginalia for this-->
+  <pb n="147"/>
   Exemplos.
 <lb/>
   Xtichaya loo yoobini, zoaacañeeni zoeezii zoeelaani naa, zannaa
 <lb/>
   zij chiibaani naa, loo quela nuhui quela nenne, loo quela nachiiña
 <lb/>
-  lachi Xtennia. Cinniicani, ciaabicani tocha riini, ni perooba quique,
+  <add place="margin left">+</add>lachi Xtennia. Cinniicani, ciaabicani tocha riini, ni perooba quique,
 <lb/>
   ni pexenne lachini. Chiiquee, zeetini rua toobi youtube Xtenni xona
 <lb/>
@@ -9835,6 +9835,7 @@ lijgaa</add>
 <lb/>
   la huanaha huanaachi, corii zeeni cozooba chii loo chii lachini, co-
 <lb/>
+  <note place="margin left">6 De dia, <lb/> y de noche. <lb/> [+?] <lb/> 7 Con per<lb/>ceuerācia y<lb/>ainco.</note>
   caa chichini tua chii, tua guela, chela cooxe lanni quirua cubiicha
 <lb/>
   pecuaanani guetta, cannaaxe 6 techiila, teelala cozooba conni
@@ -9855,6 +9856,7 @@ lijgaa</add>
 <lb/>
   nnini, cicarii connini, petoobi zoo 8 cotaagoni guecza connaani
 <lb/>
+<note place="margin left"> 8 Todo eſ-<lb/>to quire de<lb/>zir miētras<lb/>eſtubo en e-<lb/>xercicios de<lb/>Oracion, y<lb/>Santidad.</note>
   guela; petoobi zoo pihuini piaago lachini, loo Xonaaxi Santa Ma-
 <lb/>
   ria, chela huaayaacala quinoa looni quee, chela huazaala huatee-
@@ -9871,7 +9873,7 @@ lijgaa</add>
 <lb/>
   roquiia loogaa, quibaapi liica rualo, quibaapi liica lachilola, yobi
 <lb/>
-  Ieſu xpto ni coroona ni pezaana xiihui lachilo loo chiquee lachiñaa
+  <choice><orig>Ieſu</orig><reg type="spanish">Iesu</reg></choice> xpto ni coroona ni pezaana xiihui lachilo loo chiquee lachiñaa
 <lb/>
   bezeeloo, huanaca liicani Xini Dios loo quela, benniati nalij
 <lb/>
@@ -9879,7 +9881,7 @@ lijgaa</add>
 <lb/>
   niguioni lanni naxiinayaa lanni nayoona Xtennia. Quelani yoobi,
 <lb/>
-  Pichanna, yoobi biitoo Ieſu Xpto, riini, cirootete huechii, huezaa,
+  Pichanna, yoobi biitoo <choice><orig>Ieſu</orig><reg type="spanish">Iesu</reg></choice> Xpto, riini, cirootete huechii, huezaa,
 <lb/>
   lachiroo nacani, zannaa zii chiibaani Anima naxiihui Xtennilo. za
 <lb/>
