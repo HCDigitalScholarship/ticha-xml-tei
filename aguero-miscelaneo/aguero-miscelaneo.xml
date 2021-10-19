@@ -9109,7 +9109,7 @@ lijgaa</add>
   <add place="margin left">[?]nand<add place="above">[oz?]</add>[fel?].[li9?]</add>
   DEL ROSARIO; EN LENGVA ZAPOTECA.
 <lb/>
-  <add place="margin left">cl[?]misma<add place="above">[+?]</add>ALarij huayye cochii collaaza, corii nabaani toobi benni gon,
+  <add place="margin left">cl[?]misma<add place="above">[+?]</add></add>ALarij huayye cochii collaaza, corii nabaani toobi benni gon,
 <lb/>
   naa nayoona lachi, laani<add place="above">[+?]</add> celij celij, toobi chij, toobi guela co-
 <lb/>
@@ -9307,7 +9307,7 @@ lijgaa</add>
 <lb/>
   ala pizza looya, cica piriieti, cozaati loo pellalati anima Xtennia co-
 <lb/>
-  xaaca-
+  <fw type="catchword" place="bottom-right">xaaca-</fw>
 <lb/>
   <pb n="140"/>
   En lengua Zapoteca.
@@ -9369,7 +9369,8 @@ lijgaa</add>
   layoo rijni.
 <lb/>
   <add place="left">exemplo de Teophilo q[?] perdio los bienes de fortuna y por [V?] [?] dela<lb/>
-  Virgen fue[?]stin[?]</add> EXEMPLO XI.<add> <!--need to finish this--> 
+  Virgen fue[?]stin[?]</add> EXEMPLO XI.<add> [?]oo [usuannjuo?] [cirdao?] aviendo<lb/>
+  [entre[?]ando?] [sualma?] aldernanio por ello.</add>
 <lb/>
   HUayye cochin colaaza, toobi lanni gueche roo, corii nabaani
 <lb/>
@@ -9377,11 +9378,13 @@ lijgaa</add>
 <lb/>
   oni, cozoni coopa quizaa guichaa Xtennini toobi youtube roo ni
 <lb/>
-  noo lanni guechequee. HUaliica chiila, guelala collaaqui chiichi, la-
+  noo lanni guechequee. HUaliica chiila, guelala<note palce="below">P</note> collaaqui chiichi, la-
 <lb/>
-  chini
+  <fw type="catchword" place="bottom-right">chini</fw>
 
   <pb n="141"/>
+  <add palce="margin left">Li xicenziado [?]nt Xinen[?]</add>
+<lb/>
   Exemplos
 <lb/>
   chini, pe[?]aa lootiipa Anima Xtennini, Xquela connalii, xquela co-
@@ -9416,6 +9419,7 @@ lijgaa</add>
 <lb/>
   chi <choice><orig>Obiſpo</orig><reg type="spanish">Obispo</reg></choice>, pezooni coopa quichaa yootoo zetoobilla benni cani,
 <lb/>
+  <note place="margin left">1 Ieenca-<lb/>go y lo diſ-<lb/>piuo.</note>
   nacazi benni loo gueche, lachiñaani pegaapa xiihuini quichaa yoo-
 <lb/>
   too chela 1 pecaapeani, pegoona; guelani yobini loo quiraa chii-
@@ -9432,12 +9436,14 @@ lijgaa</add>
 <lb/>
   llaaze lachi Xtennini, connaani. Ha chibaa ciganaa, toobi benni zij
 <lb/>
+  <note place="margin left">2 Donde <lb/> yre à eſtar.</note>
   chiiba, toobi, benni nooaguezatee peaacaya, caarochaa 2 caaya,
 <lb/>
   caaroola gueche chaa 3 guechoo ziito lachia, rua late yazootichii
 <lb/>
   canna bee naa lanni gueche layoo riini, quelani huatuhuitete coxaa-
 <lb/>
+  <note place="margin left">3 Dōde me<lb/>apartare le<lb/>xos.</note>
   caya, penni coquii <choice><orig>Obiſpo</orig><reg type="spanish">Obispo</reg></choice> Bejoannaya, loo quela pebeeni xquela
 <lb/>
   chiiñaya, pechaagani naa benni narii Xpaa xilannaya, xqueeza, X-
@@ -9452,8 +9458,7 @@ lijgaa</add>
 <lb/>
   que, zeetilleni, zeegueyoobini tetutila benniati quicheela, ni zoaaca
 <lb/>
-  nnaani
-
+  <fw type="catchword" place="bottom-right">nnaani</fw>
   <pb n="142"/>
   En lengua Zapoteca
 <lb/>
@@ -9521,9 +9526,9 @@ lijgaa</add>
 <lb/>
   caaloolo Cruz, ya zennitilo bitoo, ya cheeguenna lachitilo tuti Sāto
 <lb/>
-  noo quiiebaa. Cocaabi benniquee. Yahoo gaacacica, zooba cica re-
+  noo quiiebaa. Cocaabi benniquee. Yoho<note place="below">P2</note> gaacacica, zooba cica re-
 <lb/>
-  nnalo.
+  <fw type="catchword" place="bottom-right">nnalo</fw>
 
   <pb n="143"/>
   Exemplos.
@@ -9532,7 +9537,7 @@ lijgaa</add>
 <lb/>
   anezoo rua yobi latequee ziaani benniaati, racconi lari noola, na-
 <lb/>
-  quiichitete, 4 ni ritaahui, ni riiaapa quitoobi zooni quiraani zoo-
+  <note place="margin left">[+ ?] Con que<lb/>ſe cubria.</note> quiichitete, 4 ni ritaahui, ni riiaapa quitoobi zooni quiraani zoo-
 <lb/>
   ba bechehaa tiiani, chela late quiraani, nazooba ziaanini cica naca
 <lb/>
@@ -9596,7 +9601,7 @@ lijgaa</add>
 <lb/>
   yaani looro, quela rua ticha baa lanna xenne coziitaa [le?]looya Xte-
 <lb/>
-  nnini
+  <fw type="catchword" place="bottom-right">nnini</fw>
 
   <pb n="144"/>
   En Lengua Zapoteca.
@@ -9669,7 +9674,7 @@ lijgaa</add>
 <lb/>
   cani, coxeelani cochiiña, ni cheeguetii, cheeguctooani Theophilo
 <lb/>
-  lanni
+  <fw type="catchword" place="bottom-right">lanni</fw>
 
   <pb n="145"/>
   Exemplos
@@ -9686,6 +9691,7 @@ lijgaa</add>
 <lb/>
   nnatini, xiixanacaa looni connani hualiica quela * piicha pilliie,
 <lb/>
+  <note place="margin left">[*?] Como ſi <lb/> dixera eſta<lb/> fue inconſi-<lb/>deracion, y<lb/>culpa [mani?]</note>
   quela pigaana lachitooya coca, acapellaabati, lachia, palla looxa
 <lb/>
   quela nazaaca ticha riini quichiiloo, quitaabi niia niitiloo, quizaa
@@ -9716,6 +9722,7 @@ lijgaa</add>
 <lb/>
   naha huanachi, huanachiibitete pezaaca quiraa beniaati quiraa X-
 <lb/>
+  <note place="margin left">5 Ningu-<lb/>no ſe atre-<lb/>pio</note>
   tichani. Acaru toobiti 5 cuyaaxe, las cordoba xiihui lachini, cuee
 <lb/>
   tiipa, cuee xooni looni. Cicarij coca, cicarii coriini, alaati z chiite-
@@ -9740,19 +9747,444 @@ lijgaa</add>
 <lb/>
   arogaa cooyobigaani lachiñaa bezeeloo. Coloo coliizini liio Anima
 <lb/>
-  Xten-
+  <fw type="catchword" place="bottom-right">Xten-</fw>
   <pb n="146"/>
-
+  En lengua Zapoteca. <add place="margin right"> 57 </add> <!--be consostent with encoding written page numbers-->
+<lb/>
+  Xtennini, quela pechaa piaanii xquela Gracia nachonnoni, ni que-
+<lb/>
+  oo nipea chahuini pallalooxa quela tollala, teela pallaacatixa quela
+<lb/>
+  aguiizaa capennini, pexiihuini. niiani queyoona quellaaze lachini,
+<lb/>
+  quiaagolii lachitooni, connini quela Penitencia nalii. Hualiica chii-
+<lb/>
+  que cobiixi guettatete lachini, pigoonaguela, cozoobigaa ziito le-
+<lb/>
+  toola lecahui, lexiiñe lecaala nazaabi loo Anima Xtennini. Chela
+<lb/>
+  cicarij cozooloo coreechehuii huiiñani cozooloo connii lazeni, co-
+<lb/>
+  nnaani. [!?] Ha chiibaa cicatetenaa, toobi benni zii chiibaa, nacaya.
+<lb/>
+  Quelani caxaa chaaya annaa? caa chaa quexooñea, caa chaa gue-
+<lb/>
+  llaachea annaa? tuxa cabia, tuxa canniia, tuqueyoonia lachini, ni
+<lb/>
+  gacañeeni, ni quezii quelaani na loo lieetii lieexaaca lachi, ni ri-
+<lb/>
+  beezaya anna hualii Xtolla naa gooca yaruxa quichela quiaa quieba-
+<lb/>
+  ala quite layoola ni quiñaa zii chiibaani naa? pezaana tetea <choice><orig>Ieſu</orig><reg type="spanish">Iesu</reg></choice> X-
+<lb/>
+  pto coroonatete lachia Santa Maria, xiñaani, penni yobigàaya xi-
+<lb/>
+  chooco pinniini bezeeloo, cocala <choice><orig>Eſcriptura</orig><reg type="spanish">Escriptura</reg></choice>, rua cuyooyye, laa X-
+<lb/>
+  tennia niiani zoo liibi, zoo chiichi ticha riini, lachiñaani noo quiichi
+<lb/>
+  que, cachii catiia gaacaya xillaanini, quelani, acaru quicheelati, ni
+<lb/>
+  quebenni quiichi quee loo xooga guiiba, xooga tooxo Xtennini. Ci-
+<lb/>
+  carii naca ticha, ni cati cati, rinniini, richiiba ruani. cani x ticha yo-
+<lb/>
+  bi Bitoo Dios coca. Huacaabeeche yonnani, huarjeete cica niza
+<lb/>
+  huiiña, ni zagobeeche xaagani, pizaaloolani, zetoobi liaaza cozee-
+<lb/>
+  nnaa lachini. cozeechiiba ticha ruani, connaani, hualii zaabeeca pe-
+<lb/>
+  xiihuia, cirootete pexiihuia pezaanaya, coroonatete lachia cooquii
+<lb/>
+  biitoo Xtennia <choice><orig>Ieſu</orig><reg type="spanish">Iesu</reg></choice> Xpto, xinni Dios ñeegaa xinni Coxanna Santa
+<lb/>
+  Maria, ni coxanna liicani qla benniati neyoona Xtenni xicha Dios
+<lb/>
+  <choice><orig>Eſpiritu</orig><reg type="spanish">Espiritu</reg></choice> Santo, huanacaca, huayoozeecica celij Xquela cocooniyo-
+<lb/>
+  nnani. Ciicani annaa chaaya loo yobi Xonaaxi riini, chela loo yobi-
+<lb/>
+  ni toobizi caayoo tetea, coxooba quitoobi liica lachia, cazeenia,
+<lb/>
+  cabeeche haa tiipaya, queyoonia lachini cannaabaya quela coca-
+<lb/>
+  ñee Xtennini, quela ni zaabeeca cirootete pexiihuia looni, chii co-
+<lb/>
+  roona lachia quiroopani Xinnini ñegaa yobini. Cani xonaaxi nabaa
+<lb/>
+  nallaana riini, xiñaa benni huexiihui nacani, peche connii Piziia co-
+<lb/>
+  nnii Xtennini quirani pezoo Bitoo Dios, lanni Santa <choice><orig>Ygleſia</orig><reg type="spanish">Iglesia</reg></choice>, annaa
+<lb/>
+  ronni looya, ribeeza quitoobi quique lachia, roti guelalia ro zaabi
+<lb/>
+  <fw type="catchword" place="bottom-right">Xti-</fw>
   <pb n="147"/>
-
+  Exemplos.
+<lb/>
+  Xtichaya loo yoobini, zoaacañeeni zoeezii zoeelaani naa, zannaa
+<lb/>
+  zij chiibaani naa, loo quela nuhui quela nenne, loo quela nachiiña
+<lb/>
+  <add place="margin left">+</add>lachi Xtennia. Cinniicani, ciaabicani tocha riini, ni perooba quique,
+<lb/>
+  ni pexenne lachini. Chiiquee, zeetini rua toobi youtube Xtenni xona
+<lb/>
+  axi Santa Maria, ni noo lanni guechequee, ruanigaa cuyootini, che-
+<lb/>
+  la huanaha huanaachi, corii zeeni cozooba chii loo chii lachini, co-
+<lb/>
+  <note place="margin left">6 De dia, <lb/> y de noche. <lb/> [+?] <lb/> 7 Con per<lb/>ceuerācia y<lb/>ainco.</note>
+  caa chichini tua chii, tua guela, chela cooxe lanni quirua cubiicha
+<lb/>
+  pecuaanani guetta, cannaaxe 6 techiila, teelala cozooba conni
+<lb/>
+  xonniini loo yoobi Xonaaxi cooquii quiiebaa Santa Maria, coxe
+<lb/>
+  7 huanuhui huatiiti rozaabi quique ñaani loo taa, loo becoogo X-
+<lb/>
+  tennini, reyoonnini lachitooni, riguiiñe teteni quela huezii huellaa,
+<lb/>
+  quela cocañee Xtennini, niiani, quechii quezalii ciga lachi xillaani
+<lb/>
+  quebeeni, que caa quegoobani, queñaa zeñaani yoobini loo xooga
+<lb/>
+  guiiba, laaya tooxo pella roo gabiilla bezeeloo, ni penni xiBejoanna
+<lb/>
+  ni chii pezaanani Xpto, Xinini, ñeegaa yobini xiñaani. Cicarii pe-
+<lb/>
+  nnini, cicarii connini, petoobi zoo 8 cotaagoni guecza connaani
+<lb/>
+<note place="margin left"> 8 Todo eſ-<lb/>to quire de<lb/>zir miētras<lb/>eſtubo en e-<lb/>xercicios de<lb/>Oracion, y<lb/>Santidad.</note>
+  guela; petoobi zoo pihuini piaago lachini, loo Xonaaxi Santa Ma-
+<lb/>
+  ria, chela huaayaacala quinoa looni quee, chela huazaala huatee-
+<lb/>
+  telatuachii tuaguelaquee, Alarii chiiquee cica cooloeela gueelati-
+<lb/>
+  naca, pitagueloohui loo yoobi Xonaaxi nachonno Santa Maria loo
+<lb/>
+  yobini laagaacani curubi ciroo nachaa naguii, nachaacha, nareeni
+<lb/>
+  riñaa looni, huabaatete riaaqui riaanii quitoobi zoobennini, chela
+<lb/>
+  cicarii connaani looni. Annaa xinnihe! huanaquiiñe lennetete, nii-
+<lb/>
+  roquiia loogaa, quibaapi liica rualo, quibaapi liica lachilola, yobi
+<lb/>
+  <choice><orig>Ieſu</orig><reg type="spanish">Iesu</reg></choice> xpto ni coroona ni pezaana xiihui lachilo loo chiquee lachiñaa
+<lb/>
+  bezeeloo, huanaca liicani Xini Dios loo quela, benniati nalij
+<lb/>
+  Xtennini, ni coxiicica yoobini, chii gueloo coca benniatini, coca
+<lb/>
+  niguioni lanni naxiinayaa lanni nayoona Xtennia. Quelani yoobi,
+<lb/>
+  Pichanna, yoobi biitoo <choice><orig>Ieſu</orig><reg type="spanish">Iesu</reg></choice> Xpto, riini, cirootete huechii, huezaa,
+<lb/>
+  lachiroo nacani, zannaa zii chiibaani Anima naxiihui Xtennilo. za
+<lb/>
+  ziini, zonni nachononi, Xquela huiiña, xquela huellaaze lachilo,
+<lb/>
+  chela zoeechii gueriini loolo baanezaroo, lebii lezaaca, legaa leroo-
+<lb/>
+  pa niza huiiña, niza gobeeche ririie pizaaloolo, rieete zaabi xaaga-
+<lb/>
+  lo
   <pb n="148"/>
-
+  En lengua Zapoteca.
+<lb/>
+  lo, loo quela Penitencia, Xtennilo quelani xillaazica niia Xtenni co-
+<lb/>
+  ziillaa cicani quebee tetenni benni huexiihui looqui gabiilla, pieete
+  <note place="margin right">1 Nota eſ-<lb/>tos verbos,<lb/>para decla-<lb/>rar algo de<lb/>la vnton by<lb/>poſtaticadel<lb/>VerboDivi-<lb/>no.</note>
+<lb/>
+  zigani quiiebaa, coca benniaatini, coca niguiioni, 1 coxii quicha-
+<lb/>
+  aga, coxiiquicheela liibi, quela pellalaati nayoona Xtennini loo X-
+<lb/>
+  quela <choice><orig>Perſona</orig><reg type="spanish">Persona</reg></choice>, narooni, lanni nachonno Xtennia. chiiquee hualo-
+<lb/>
+  oxela conni Xonaaxi Santa Maria, quinoa ticha nayoonaque yoo-
+<lb/>
+  bi benni cani, huanaha huanachitete, 2 huanotaa notooni qui-<note place="margin right">2 Baxa, y<lb/>rendida la<lb/>cabeça.</note>
+<lb/>
+  quenni, chela huahuii huahuiiña cicalachini, cozooloo, collaapi lii-
+<lb/>
+  calachitooni, pichiiba ruani yobitii laaya nachonno, Xquela rieelii-
+<lb/>
+  lachi Santa <choice><orig>Ygleſia</orig><reg type="spanish">Iglesia</reg></choice>, rennaani. Huariielii lachia Dios, Bixooze qui-
+<lb/>
+  zaa la coca quizaala huezaa chela huarozeete liia, huariieeliipe la-
+<lb/>
+  chia, huariziigaa; rizii gaachitete. yoobi Xini gannani <choice><orig>Ieſu</orig><reg type="spanish">Iesu</reg></choice> <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice>
+<lb/>
+  laagaacani coxannaxee ziilla, coxanna chiichicaachi yobini lanni X-
+<lb/>
+  quela rienni nayoonani, loo quela huellaaba lachi loo quela hueo-
+<lb/>
+  nipea nayaani quitoobi Xquela raca naroo naxenne, naxee naziilla
+<lb/>
+  yoobini, petoobi nahaxe baa eela, baa caahui, chii arogaa chaapi-
+<lb/>
+  zaabi xiaanii quiiebaa, caapechaa layoo. Chela yobi pochanna too
+<lb/>
+  nachonnorii, ni laa <choice><orig>Ieſus</orig><reg type="spanish">Iesus</reg></choice> xinni Dios, loo cozii, loo pij, loo eeta gue-
+<lb/>
+  chela yoorini, coca gazaacani xinni ganna nachonnolo, ha channa
+<lb/>
+  Xonaxitoo Santa Mariahe! ni coxanna liicalo quela benniaati na-
+<lb/>
+  yoona Xtennini, Xtichape Dios <choice><orig>Eſpiritu</orig><reg type="spanish">Espiritu</reg></choice> Santo, huanacaca celij,
+<lb/>
+  cocooni yonnalo, niiaxtenni, coziilla cicani tonnoo benni huexiihui
+<lb/>
+  loo xiriini nachoononi, ni coxiiquibiichini, lanni yaga Cruz, rua
+<lb/>
+  cotihuaa, huaaxeni lachiñaa Judios, Xquela yyeeni. Cicarii ricaa-
+<lb/>
+  bi ruaya, ribaapiliica lachia, chela aca toobiti ticharii la zechacuee
+<lb/>
+  loo ni rieeliipe lachi Santa <choice><orig>Ygleſia</orig><reg type="spanish">Iglesia</reg></choice>, rocha laa rigaana lachia, la ri-
+<lb/>
+  nnia, te nalii, te aca nalii nacani yaca channa, yacaliica. Quiraani
+<lb/>
+  ronni nachiichi nacaachiia rooni nachonno tetea, rigoo rigueeche,
+<lb/>
+  lachitooya, cica nayoo lanni xquerenii, querecachi biitoo chela ci-
+<lb/>
+  ca nacaa yyeelanni quiiti quiichi yonna Xtennini, loo quela nalii ti-
+<lb/>
+  cha riini, cuaaqui cochiigacigaloonaa, channa xonaaxi nachonno
+<lb/>
+  he[’?] loo xinni nachiilo <choice><orig>Ieſu</orig><reg type="spanish">Iesu</reg></choice> <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice>, yoho xinni, cacacica, cocaabi,
+<lb/>
+  Xonaaxi zonnia cica rennaalo, Chelapea colooxe conniigaa Xona-
+<lb/>
+  axi tichaque pezeezaabi gaatini, pezeeniiti<note place="below">Q</note> loogaani. chiique coo-
+<lb/>
+  <fw type="catchword" place="bottom-right">xepea</fw>
   <pb n="149"/>
-
+  Exemplos.
+<lb/>
+  xepeaana cica Theophilo, lanni yootooque, chonna chii, chonna
+<lb/>
+  guela looquela huenni xonnii, looquela huenni Oracion, Xtennini,
+<lb/>
+  loo B. Dios, ñegaa loo yobi Xonaaxi, connaa huacaa quiñaaba ti-
+<lb/>
+  tini loo quiroopani, quela huezaa lachiroo Xtennini chela chij pea-
+<lb/>
+  ayo chijgaachijcahuiiche, nacani. Alaarij, zetoobi liaazagaa coca
+<lb/>
+  pezeeyytazaabi yobi Xonaaxi nachonno cooquii quiiebaa S. M[à?]ria,
+<lb/>
+  quiiaa loo xquehui nayaanii biitoo, peoozenni, peooloohui looni
+<lb/>
+  loo Theophilo, peloohuii chanachii natooni yobini. Connaani ha
+<lb/>
+  Benniati, xillaani bitoohe! Alaarij, hualii rinnia lohui. Quelanni nij-
+<lb/>
+  axtenni Xquela huezaabi quique ñaaya loo taa loo becoogo <choice><orig>Ieſu</orig><reg type="spanish">Iesu</reg></choice>-
+<lb/>
+  <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice>, xinnia loo Xquela hueyoonia lachini, peziiciga lachini, lo-
+<lb/>
+  huy, conna pehuiiaciga pizaalooni, nizahuiiña, nizagobeeche ni
+<lb/>
+  piriie loolo, ni cochiiba xaagalo, petoobi annaa, chela pezoobacica
+<lb/>
+  tiaagani ticha yonna, ticha laaze Xtennilo, ni cotiiñe, ni connaaba
+<lb/>
+  xillaalo looni, quela huenniitiloo Xquela huexiihuilo loo ticha riini
+<lb/>
+  rezceniia lohuy, loo laa, loo ticha Xtennini, zanniitiloo, zagonna-
+<lb/>
+  tete quinoa Xquela aguiizaacalo, quinoa xquela huexiihuilo cica, ni
+<lb/>
+  pennilo, cicani cotiilje, ni coxanna lachilo, chij pezaanalo yobini,
+<lb/>
+  ñeegaa, naa xiñaani loo Bezeeloo zazoobape tichariini. Tebela co-
+<lb/>
+  oxe cheenoo, chee nallalo, tebebela cooxe capa chiichi capa cachilo
+<lb/>
+  <note place="margin left">3 Prome-<lb/>riſte.</note>
+  capa quiie xillalo, quiraa ticha ni cocaabi rualo, ni 3 colooquii, la-
+<lb/>
+  chilo, zonnnilo, zozaala zollaabiguela lachilo, loo nachonno yobi-
+<lb/>
+  ni, chela loo naa, xiñaani, calagalatipea, quela cooti, quela letoobi
+<lb/>
+  leaache Xtennilo lanni guechelayooriini. Loo chiicatini, cozennaa
+<lb/>
+  Theophilo, loo yobi Xonaaxi. Ha channa celij cocooni nayoona-
+<lb/>
+  he! ha xiñaa bitoo <choice><orig>Ieſu</orig><reg type="spanish">Iesu</reg></choice> <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice>, xi Bejoannayahe! Hualiilagaa zon-
+<lb/>
+  nia, cica rennaalo, quitoobi chee chij quitaguela quibaania zonni,
+<lb/>
+  nachiichii nacaachia, zonni bichiichi tooya quiraa xticha nachon-
+<lb/>
+  nolo, acatoobiti tichaquee, laa caguiichea, laa caguiite guelaya, laa
+<lb/>
+  cogoochayooa, conniiti niiaya, yaca channahe! quiraani zagooque
+<lb/>
+  re nij quere cachi lachitooya, zacaayyee quiraani lanni xiquiiti qui-
+<lb/>
+  chi laria niia cazii chii, cazii chonnoya, ni calagaatia, calaquebiia
+<lb/>
+  lanni guechelayoo riini. Ciicani naa, ha huezaa lachilohe, ha huezi[l]
+<lb/>
+  huellaalohe, he quela naaxi quiiebaahe! benni huexiihui cirootete
+<lb/>
+  <fw type="catchword" place="bottom-right">naca</fw>
   <pb n="150"/>
-
+  En Lengua Zapoteca
+<lb/>
+  nacaya, coguiiche gueeza huezaanii guela huegoochayoo huennii-
+<lb/>
+  ti niia, huexiiñetii, huecaana ticha bitoo nacaya, benneyoocho, be-
+<lb/>
+  nne xiiñe, guenna nachaaba peaacaya. Canni annaa 4 catii-<note place="margin right">[?] Pecho por<lb/>tierra.</note>
+<lb/>
+  cataago layoo lachitooya huarahayootetea loo yobina, tezeeguii-
+<lb/>
+  ñea, tezeennabaya xillaya, quela huezaa lachi Xtennilo, quelani,
+  <note place="margin right">5 Eſtas<lb/>veſtida de<lb/>plumas co-<lb/>mo el Agui-<lb/>la; que quie<lb/>re dezir ana<lb/>parar y fa-<lb/>vorecer an-<lb/>te Dios.</note>
+<lb/>
+  yoobicalo nacalo peche connii piziia connii Xtennia, 5 toobe no-
+<lb/>
+  oa, toobe naazelo, zollaache; xillaxi loeelo, zollaache quite pecho-
+<lb/>
+  lo naa xana guiixitoola loo ta loo becoogo Dios, huanacaliicalo
+<lb/>
+  quitoobi, quela huenniloo, quela cobeezaguela lachitooya, huana-
+<lb/>
+  capelo, channa Xonaaxihe, toobi quiia cayaapia, toobi guela caya-
+<lb/>
+  azia, quie colleea, yaga quiliibia, looquela zij Xtennia, loo richarii,
+<lb/>
+  annaa huarizii baanezaya quela connachii, quela connachonno qla
+<lb/>
+  natoonagoochi Xtennilo, ni peloohuilo looya, quelani xticha yobi-
+<lb/>
+  na penniitiloo cica xinni nachiilo <choice><orig>Ieſu</orig><reg type="spanish">Iesu</reg></choice> <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice>, 6 peeche pecaanini
+<lb/>
+  Xquela huexiihuia. Huaroonipea chahuia colooxe tichariini. Cica-<note place="margin right"> 6 Callo, y <lb/>diſsimulo.</note>
+<lb/>
+  ni, huanooro quela zijrotiia Anima Xtennia, quelani cooxe noo
+<lb/>
+  cica lachiñaa bezeeloo, guichi <choice><orig>Eſcripturaque</orig><reg type="spanish">Escripturaque</reg></choice> rua colooyyeea la X-
+<lb/>
+  tennia ni gooca bennaabi, ni colloquial lachia celij gaacaya xillaani-
+<lb/>
+  ni, xichooco pinniini, caloo chaaloo, cala looxe Xquela nabaania.<note place="margin right">7 Pezadas.</note>
+<lb/>
+  Xillaazica ticha riini annaa 7 huanahatete rozaacaya, cica guiixi
+<lb/>
+  noo looya, cica quiche noo niiaya, cica too zooba yannia cica guiixi
+<lb/>
+  noo looya, cica quiche noo niiaya, cica too zooba yannia cica gui-
+<lb/>
+  iba gueeza ritooto lachitooya. Cooxe quiyoohui, quiziizi Anima,
+<lb/>
+  Xtennia, calooquezaaciga lachilo naa, quebeelo, quecaalo lachiñaa
+<lb/>
+  bezeeloo quiichiquee, quegoo quebaaquilo lachiñaaya. Cicarii co-
+<lb/>
+  tiiñe, cicarii connaaba Theophilo loo Xonaaxi Santa Maria chela
+<lb/>
+  zechonnaro chij zechonaro guela, cozooba zeecicani loo qla huen-<note place="margin right">3 Vn poqui-<lb/>to.</note>
+<lb/>
+  ni Oracion Xtennini, chela chii peyoona chij, peyoona guela, hua-
+<lb/>
+  caa conni xonnii cicani loo B. Dios, chiiquee 8 tochizii, pita gue-
+<lb/>
+  chaaga xcaalaani, chela, loo naha xeyaazini, Alaarij chiiquee,<note place="margin right">9 Seapare<lb/>cio otra ves.</note>
+<lb/>
+  peetta gueloohui loo yzaaca yobi Xonaaxitoo Santa MAria, loo be-
+<lb/>
+  nniquee, canno zeeta nazeeni ñaani quiichi <choice><orig>Eſcriptura</orig><reg type="spanish">Escriptura</reg></choice> ni pennini loo
+<lb/>
+  Bezeeloo. Laagaca quiichiiquee, coloo yoobiñaani, liio lachitooni
+<lb/>
+  lahui latini. Chela huazoo huazaagaa pezeezaabitini, pezeeaapini
+<lb/>
+  quiiebaa. Loo chiicatini pebaantii<note place="below">Q2</note> Theophilo, chela acanagaabiti
+<lb/>
+  aca-
   <pb n="151"/>
-
+  Exemplos.<add> 1 3 </add>
+<lb/>
+  acanabiixi peati bennaabi quela huebaa quela huezaaca lachi, quela
+<lb/>
+  naguiie quela naguiite lachi Xtennini, ni peloohuini, chij connani,
+<lb/>
+  chii pehuiani chela chii pellaabani guiichi <choice><orig>Eſcr[l?]pturaque</orig><reg type="spanish">Escr[l?]pturaque</reg></choice>, nachiiba
+<lb/>
+  lachiñaani, chela loo quitoobi loo, quichaaga niia quela racanabaa
+<lb/>
+  nayyxi lachitooni, zetoobi chij ni naca Domingo, chij paraaxee gue-
+<lb/>
+  la. Huayaachela riini cubiicha pita biigani lanni yootoo, chela ruani-
+<lb/>
+  gaana coleezateteni, caloo caliibi benniaati. cochaa yootooquee,
+<lb/>
+  chela chii, narii trrpa, narii chaaga toobi xenepe quiraani, niguiio-
+<lb/>
+  la, gonnaala, coolayaquehuila, ñeegaani yobi cooquii <choice><orig>Obiſpo</orig><reg type="spanish">Obispo</reg></choice>, ni
+<lb/>
+  pebeeni Xquela chiiñani, hualooxela Euangelio, ni raca lanni <choice><orig>Miſſa</orig><reg type="spanish">Missa</reg></choice>
+<lb/>
+  peacicani raca libaana anna. Chiique pitabiiga caaxe cachiiñatini
+<lb/>
+  loo taa, loo becoogo, rua nabee nachiiba cooquii <choice><orig>Obiſpoquee</orig><reg type="spanish">Obispoquee</reg></choice>, che-
+<lb/>
+  la huanaha huanachi, huatoo huagoochi lachini cottayooni looni.
+<lb/>
+  Peyoonini lachitooni niia capipealazini, loo quiraa benniaati narii-
+<lb/>
+  bee, narii yaacani ruanigaana cooxe cueechiiloo, chij lachini, loo
+<lb/>
+  quinniililoo, cuaaquini looni toobi ticha naachi nachiibi, nachaa-
+<lb/>
+  ga yahatete ni noo lachitooni, yoho, zooba Xtichalo, connaa <choice><orig>Obiſ</orig><reg type="spanish">Obis</reg></choice>-
+<lb/>
+  po, chela huayoo chii, chii, quiraani, pezooba chiichi tiaagani loo
+<lb/>
+  xticha Theophilo. Laagaacani loo chiicani, penni quiizi, quiizini,
+<lb/>
+  penni nohuini, coriixe lee liini quiraa nezala, tichala, quela huichii-
+<lb/>
+  cela quela cotiiaala, quela huexiihuila quela aguiizaacala, ni cotiille
+<lb/>
+  ni coxanna lachini, chij zeeloo, zeelaaqui yobigaani lachiñaa bezee-
+<lb/>
+  loo, cica coriina lachini cica pezaana teteni xicooquiini, xi B. <choice><orig>Ieſu</orig><reg type="spanish">Iesu</reg></choice>
+<lb/>
+  <choice><orig>Chriſto</orig><reg type="spanish">Christo</reg></choice> ñeegaa xíñaani Santa Maria, cica pennini toobi <choice><orig>Eſcriptura</orig><reg type="spanish">Escriptura</reg></choice>,
+<lb/>
+  rua colooyyee laa Xtennini, ni zooliibennaabi, quela gaacatete xi-
+<lb/>
+  llaanini, xichoo copiinini calagaatini, chela lanni gabiilla cachii ca-
+<lb/>
+  tiia, laa bennaabi natiiaaquee pennini, niia Xtenni cozaabi yaani xij-
+<lb/>
+  hui lachini quezii xbaa lannani, queaa Xtaani, quezooxcoogoni-
+<lb/>
+  quecaa Xquela chiiñani cicato rapani lanni yootooquee, ni pegoo-
+<lb/>
+  zana cooquii <choice><orig>Obiſpoque</orig><reg type="spanish">Obispoque</reg></choice>, yobini, Xtolla zechaacuee benniaati, X-
+<lb/>
+  quela yyeeni, lexoo letiilla Xtennini, hualiica chii huazoobala, chij
+<lb/>
+  huayaacala quiraa xticha beze[?]loo. Rennaa bennique huayooca,
+<lb/>
+  baa, huayooca lannani loo quiraa benniaatì lezaani, zetoobi chij pi-
+<lb/>
+  ta guenna lachini, pita guezaa lachitooni pellaa caxa quela huexii-
+<lb/>
+  hui.
   <pb n="152"/>
 
   <pb n="153"/>
@@ -19887,7 +20319,7 @@ y <choice><orig>arbolſeco</orig><reg type="spanish">arbolseco</reg></choice><lb
 <lb/>
   Cijcani tebela connini zeechaacuee chijñaquee chij aca na-
 <lb/>
-  <note place="margin left">3 Por mu-<lb/>cho tiēpo.</add>
+  <note place="margin left">3 Por mu-<lb/>cho tiēpo.</note>
   quijña tete chela axa zechij 3 tete connini chijña canî, cani hua-
 <lb/>
   xijagaa, chela yaaqueaani connani <choice><orig>Miſſa</orig><reg type="spanish">Missa</reg></choice> lanni Domingo, lanni
@@ -20036,7 +20468,7 @@ y <choice><orig>arbolſeco</orig><reg type="spanish">arbolseco</reg></choice><lb
 <lb/>
     guechela, laacani cica Bixooze xiñaa tonoo nacani quelani
 <lb/>
-    <note place="margin left">3 Aſsi lo<lb/>enſeña, y<lb/>dicta la<lb/>razon na-<lb/>tural.<note>
+    <note place="margin left">3 Aſsi lo<lb/>enſeña, y<lb/>dicta la<lb/>razon na-<lb/>tural.</note>
     chijla quelala rannachijni tonoo raca looni, rinnij peani to-
 <lb/>
     noo riñaa chahuini quela cobee, quela cobijba chij loo, chij
