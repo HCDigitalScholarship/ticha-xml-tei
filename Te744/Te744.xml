@@ -5,7 +5,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 <text>
 <!--Josh-->
-Laa stissima trinidad Dios bixoce Dios xini Dios espiritu<lb/>
+Laa stissima trinidad Dios<add place="above">[+?]</add> bixoce Dios xini<add place="above"> 7 8</add> Dios espiritu<add place="above">8</add><lb/>
 
 <!--Nuria-->
 chela rinnia cocachi leeche laya xipella latia missa vigilla <lb/>
@@ -17,16 +17,18 @@ Chelarinnia napaya tobicue layoo techetaaniquiebichi na <lb/>
 Chaga vizaa Miguel ernandes nezaa sosilla sochi nachaga <lb/>
 Vizaalayoo Cumun Layoo nibetoo phelipolopis chinio bichonna <lb/>
 pesos rianane xinichiapaya Manuela Agustina dela <lb/>
-
+<note place="margin left">layoo<lb/>[cibetoo?]<lb/>[?][amun?]<lb/>por [ticea?]<lb/>pesos</note>
+<!--I used <note> here because this seems to be written at the time the text was written-->
 <!--elle-->
 Cruz Chelarinnia napaya cetobicue layoo gochi nachiaga<lb/>
 bizaa Bernabel Luis nezaa sotiola nachi yaga bizaa queto ma <lb/>
 theolopes nezaa sochi querrola layoorini riane xini chiapa <lb/>
-a Manuela Agustina de la Cruz ceequerrola rianane sobrino <lb/>
+a Manuela Agustina de la Cruz ceequerrola rianane sobrino <lb/><!--I think it should be 'ya', not 'a', at the beginning of this line-->
 xitenia Salbador de la Cruz – Chela Rinnia Cetobicuela<lb/>
+<add place="margin left">[Jueuy? [g[j?]uuuas?]][some image/seal?]</add>
 yoo betoo Miguel hernandes por xonno pesos 8 ps nachaga<lb/>
- Vizaa layoo xiteni quetoo Balthazar Canandes*(?) ne*(?)<lb/>
- loo silla nachagavizaalayoo xiteni quetoo Mathias<lb/>
+Vizaa layoo xiteni quetoo Balthazar Canandes*(?) ne*(?)<lb/>
+loo silla nachagavizaalayoo xiteni quetoo Mathias<lb/>
 
 
 <!--Caroline-->
@@ -69,8 +71,8 @@ pa pesos ----- llp rianane xini chiapaya Manuela <lb/>
 Agustina(?) delaCruz ----- ----- ----- -----<lb/>
 Chela rinnia napaya Cetobi cuelayoo(?) bezo quezo mattzeo Lo<lb/>
 <pb n="3"/>
-nalani chonnabee por xo papesos — 6ps rianane xini chia<lb/>
-paya Manuela Agustina dela Cruz —--- —--- —--- <lb/>
+nalani chonnabee por xo papesos — 6ps rianane xini<add place="above"> 8  [8?]</add> chia<lb/>
+paya Manuela Agustina<add place="above">[a?]</add>dela Cruz —--- —--- —--- <lb/>
 Chela rinnia cetobi cue Layoo betoo queto Balthasar ernandes<lb/>
 ninaa techilichi pedao mrn puente roteteya bizaanaya<lb/>
 petrona larita ---- ---- ---- ---- ---- <lb/>
@@ -90,6 +92,7 @@ xini chiapaya Manuela Agustina dela Cruz ---- ----<lb/>
 Chela rinnia Cetobi mani desilla riananelechalaya petrona<lb/>
 
 <!--Halle-->
+<add place="margin left">[Jueuy? [g[j?]uuuas?]][some image/seal?]</add>
 dela Cruz ---- <lb/>
 Chela rinnia napaya gayonnaxanatobaroo nizaalo galaxa <lb/>
 na rianalachi ñalechelaya petronadela Cruz Cetuaxana <lb/>
@@ -139,20 +142,22 @@ que sinigono quira becogohuane qu<lb/>
 ra xiquichiaya gapani Cuenta Chelariniya<lb/>
 <!-- start of page 5 -->
 <pb n="5"/>
-Rilati Carini Ranna loo Rieni T[??]iaga quirra testi<lb/>
+Rilati Carini Ranna loo Rieni T[??]iaga quirra testi<add place="above">[109?]</add><lb/>
 gos niribe[??]ani Rilo xe memoria testu<lb/>
 mentos xitenia hnna coqaa xichi beo ma<lb/>
 yo looyzaa de Mill sieteciento y quarenta<lb/>
 y quatro Anos<lb/>
 
 <!-- start of signatures -->
+<add place="margin left">[Jueuy? [g[j?]uuuas?]][some image/seal?]</add>
 Antoñio hernandes<lb/>
 
 Rexidos [squiggly thing] ylsea<lb/>
-Juan dela Cruz<lb/>
-Aistigos y Alvasea<lb/>
+<add place="margin left">[+?]</add>Juan dela Cruz<lb/>
+Aistigos y Alvasea<lb/><!--should this be 'testigos' instead?-->
 Nicolas Anitono<lb/>
-
+<add place="margin left">[+?]</add>
+<!--are we missing a name here? Alcaldes...?-->
 Mez Cos Lonenato<lb/>
 Marcos Lorenso<lb/>
 Regidor<lb/>
@@ -163,6 +168,7 @@ Laono Manuel Valencia<lb/>
 eldihinro(?) Manuel de la Cruz--Su Limosna(?)-- 2p-- q*<lb/>
 ?noro 11 do 11 qsa dipcvnamijsa denigiliagorn<lb/>
 el difunto Manuel de la Cruz - su limosna - 2p - q^r^r<lb/>
+<add>[some kind of marking here...drawing? signature?]</add>
 
     </text>
 </TEI>
