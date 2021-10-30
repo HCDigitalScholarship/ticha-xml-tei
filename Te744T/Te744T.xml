@@ -35,9 +35,9 @@
     <br/>
     con
     <choice><orig>Missa</orig><reg type="spanish">Misa</reg></choice>
-    y vigilia: Ytt. digo hago limosna a todos los Altares de mi <choice><orig>dioss</orig><reg type="spanish">dios</reg></choice>:
+    y vigilia: <foreign xml:lang="lat"><choice><abbr>Ytt.</abbr><expan>Yttem</expan></choice></foreign> digo hago limosna a todos los Altares de mi <choice><orig>dioss</orig><reg type="spanish">dios</reg></choice>:
     <br/>
-    Ytt. digo que mi
+    <foreign xml:lang="lat"><choice><abbr>Ytt.</abbr><expan>Yttem</expan></choice></foreign> digo que mi
     <choice><orig>Cassa</orig><reg type="spanish">Casa</reg></choice>
     solar
     <choice><orig>mio</orig><reg type="spanish">mío</reg></choice>
@@ -63,7 +63,7 @@
     <choice><orig>Augna</orig><reg type="spanish">Augustina</reg></choice>
     de la Cruz =
     <br/>
-    Ytt. declaro tengo otro
+    <foreign xml:lang="lat"><choice><abbr>Ytt.</abbr><expan>Yttem</expan></choice></foreign> declaro tengo otro
     <choice><orig>pedaso</orig><reg type="spanish">pedazo</reg></choice>
     de tierras de
     <choice><orig>Umedad</orig><reg type="spanish">Humedad</reg></choice>
@@ -74,7 +74,7 @@
     <br/>
     Lopez; la mitad de estas tierras la ### a mi hija Manuela Agustina
     <br/>
-    y la otra mitad a mi sobrino Salvador de la Cruz = Ytt. dejo otro
+    y la otra mitad a mi sobrino Salvador de la Cruz = <foreign xml:lang="lat"><choice><abbr>Ytt.</abbr><expan>Yttem</expan></choice></foreign> dejo otro
     <choice><orig>pedaso</orig><reg type="spanish">pedazo</reg></choice>
     de
     <br/>
@@ -92,7 +92,7 @@
     <choice><orig>Augna</orig><reg type="spanish">Augustina</reg></choice>
     . de la Cruz
     <br/>
-    Ytt. declaro que dejo otro pedazo de tierras que
+    <foreign xml:lang="lat"><choice><abbr>Ytt.</abbr><expan>Yttem</expan></choice></foreign> declaro que dejo otro pedazo de tierras que
     <choice><orig>vendio</orig><reg type="spanish">vendió</reg></choice>
     Pedro Lopez por 18
     <choice><orig>ps</orig><reg type="spanish">pesos</reg></choice>
@@ -123,7 +123,7 @@
     .
     <br/>
     Hernz; linda con el <choice><abbr>difto.</abbr><expan>difunto</expan></choice> Marcos Balerrano y con el difunto Mathias<br/>
-    Domingo, por el Poniente = Ytt. digo tengo treinta Zurcos de tierras de
+    Domingo, por el Poniente = <foreign xml:lang="lat"><choice><abbr>Ytt.</abbr><expan>Yttem</expan></choice></foreign> digo tengo treinta Zurcos de tierras de
     <br/>
     Phelipe Lopez empeñados en veinte pesos; los que
     <choice><orig>volviendo</orig><reg type="spanish">volviendo</reg></choice>
@@ -133,7 +133,7 @@
     <choice><orig>dha</orig><reg type="spanish">dicha</reg></choice>
     hija Manuela Agustina de la Cruz =
     <br/>
-    Ytt. digo tengo otro pedazo de tierra en empeño de 18 p. de
+    <foreign xml:lang="lat"><choice><abbr>Ytt.</abbr><expan>Yttem</expan></choice></foreign> digo tengo otro pedazo de tierra en empeño de 18 p. de
     <choice><orig>Ygnacio</orig><reg type="spanish">Ignacio</reg></choice>
     de Mendosa,
     <br/>
@@ -141,7 +141,7 @@
     <choice><orig>muger</orig><reg type="spanish">mujer</reg></choice>
     Petrona de la Cruz =
     <br/>
-    Ytt. digo que tengo treinta Jurcos de tierra: que
+    <foreign xml:lang="lat"><choice><abbr>Ytt.</abbr><expan>Yttem</expan></choice></foreign> digo que tengo treinta Jurcos de tierra: que
     <choice><orig>vendio</orig><reg type="spanish">vendió</reg></choice>
     Antt.
     <choice><orig>Martin</orig><reg type="spanish">Martín</reg></choice>
@@ -153,7 +153,7 @@
     <choice><orig>Augna</orig><reg type="spanish">Augustina</reg></choice>
     por once pesos =
     <br/>
-    Ytt. digo tengo
+    <foreign xml:lang="lat"><choice><abbr>Ytt.</abbr><expan>Yttem</expan></choice></foreign> digo tengo
     <choice><orig>vn</orig><reg type="spanish">un</reg></choice>
     pedazo de tierra que
     <choice><orig>vendio</orig><reg type="spanish">vendió</reg></choice>
@@ -165,7 +165,7 @@
     <choice><orig>dha</orig><reg type="spanish">dicha</reg></choice>
     Manuela Agustina =
     <br/>
-    Ytt. declaro tengo otro pedazo de tierra solar que
+    <foreign xml:lang="lat"><choice><abbr>Ytt.</abbr><expan>Yttem</expan></choice></foreign> declaro tengo otro pedazo de tierra solar que
     <choice><orig>vendio</orig><reg type="spanish">vendió</reg></choice>
     el difunto<br/>
     <choice><orig>Ygnacio</orig><reg type="spanish">Ignacio</reg></choice>
@@ -181,7 +181,7 @@
     <choice><orig>Augna</orig><reg type="spanish">Augustina</reg></choice>
     =
     <br/>
-    Ytt. digo que tengo
+    <foreign xml:lang="lat"><choice><abbr>Ytt.</abbr><expan>Yttem</expan></choice></foreign> digo que tengo
     <choice><orig>vn</orig><reg type="spanish">un</reg></choice>
     pedazo de tierra que vendió el difunto
     <choice><orig>Matheo</orig><reg type="spanish">Mateo</reg></choice>
@@ -190,7 +190,7 @@
     <choice><orig>Manla</orig><reg type="spanish">Manuela</reg></choice>
     Augna=
     <br/>
-    Ytt. dejo otro pedazo que
+    <foreign xml:lang="lat"><choice><abbr>Ytt.</abbr><expan>Yttem</expan></choice></foreign> dejo otro pedazo que
     <choice><orig>vendio</orig><reg type="spanish">vendió</reg></choice>
     el difunto Balthasar
     <choice><orig>hernz</orig><reg type="spanish">hernandez</reg></choice>
@@ -200,19 +200,19 @@
     <choice><orig>cassa</orig><reg type="spanish">casa</reg></choice>
     de Pedro Mam̃ Puente; le doy a mi hermana Petrona Larita =
     <br/>
-    Ytt. digo tengo otro pedazo de tierra empeñado de veinte surcos en seis ps,
+    <foreign xml:lang="lat"><choice><abbr>Ytt.</abbr><expan>Yttem</expan></choice></foreign> digo tengo otro pedazo de tierra empeñado de veinte surcos en seis ps,
     <br/>
     Thomas Lorenzo, que quedo devolvuerlos, y se le darán a mi hija
     <choice><orig>Manla</orig><reg type="spanish">Manuela</reg></choice>
     Agustina
     <br/>
-    Ytt. digo tengo treinta surcos de tierra, linda con Nicolas Lorenzo; le quedan
+    <foreign xml:lang="lat"><choice><abbr>Ytt.</abbr><expan>Yttem</expan></choice></foreign> digo tengo treinta surcos de tierra, linda con Nicolas Lorenzo; le quedan
     <br/>
     a mi
     <choice><orig>muger</orig><reg type="spanish">mujer</reg></choice>
     Petrona de la Cruz =
     <br/>
-    Ytt. dejo otro pedazo de tierra solar que vendió el
+    <foreign xml:lang="lat"><choice><abbr>Ytt.</abbr><expan>Yttem</expan></choice></foreign> dejo otro pedazo de tierra solar que vendió el
     <choice><orig>difto</orig><reg type="spanish">difunto</reg></choice>
     <choice><orig>Ygnacio</orig><reg type="spanish">Ignacio</reg></choice>
     de
@@ -221,11 +221,11 @@
     <choice><orig>Augna</orig><reg type="spanish">Augustina</reg></choice>
     de la Cruz =
     <br/>
-    Ytt. le dejo a las
+    <foreign xml:lang="lat"><choice><abbr>Ytt.</abbr><expan>Yttem</expan></choice></foreign> le dejo a las
     <choice><orig>dha</orig><reg type="spanish">dicha</reg></choice>
     mi hija
     <choice><orig>vna</orig><reg type="spanish">una</reg></choice>
-    Yunta de Bueyes = Ytt. le dejo a mi
+    Yunta de Bueyes = <foreign xml:lang="lat"><choice><abbr>Ytt.</abbr><expan>Yttem</expan></choice></foreign> le dejo a mi
     <choice><orig>muger</orig><reg type="spanish">mujer</reg></choice>
     <br/>
     Petrona de la Cruz
@@ -233,7 +233,7 @@
     <choice><orig>Cavallo</orig><reg type="spanish">Caballo</reg></choice>
     de silla =
     <br/>
-    Ytt. digo tengo sesenta pies de magueyes grandes; de los
+    <foreign xml:lang="lat"><choice><abbr>Ytt.</abbr><expan>Yttem</expan></choice></foreign> digo tengo sesenta pies de magueyes grandes; de los
     <choice><orig>mas</orig><reg type="spanish">más</reg></choice>
     grandes, veinte pies
     <br/>
@@ -249,14 +249,14 @@
     <choice><orig>Augna</orig><reg type="spanish">Augustina</reg></choice>
     de la Cruz, que son Cien pies =
     <br/>
-    Ytt. digo tengo otros <choice><orig>dos cientos</orig><reg type="spanish">doscientos</reg></choice> pies de
+    <foreign xml:lang="lat"><choice><abbr>Ytt.</abbr><expan>Yttem</expan></choice></foreign> digo tengo otros <choice><orig>dos cientos</orig><reg type="spanish">doscientos</reg></choice> pies de
     <choice><orig>magueies</orig><reg type="spanish">magueyes</reg></choice>
     que vales un
     <choice><orig>rreal</orig><reg type="spanish">real</reg></choice>
     <br/>
     Cada pie; le queda a mi hija Manuela Augustina =
     <br/>
-    Ytt. digo tengo otro tablon de magueyes detras de la
+    <foreign xml:lang="lat"><choice><abbr>Ytt.</abbr><expan>Yttem</expan></choice></foreign> digo tengo otro tablon de magueyes detras de la
     <choice><orig>cassa</orig><reg type="spanish">casa</reg></choice>
     de Pedro Mam̃
     <br/>
@@ -268,7 +268,7 @@
     <br/>
     Doscientos pies =
     <br/>
-    Ytt. digo que tengo de
+    <foreign xml:lang="lat"><choice><abbr>Ytt.</abbr><expan>Yttem</expan></choice></foreign> digo que tengo de
     <choice><orig>quenta</orig><reg type="spanish">cuenta</reg></choice>
     de la
     <choice><orig>Resurreccion</orig><reg type="spanish">Resurrección</reg></choice>
@@ -278,7 +278,7 @@
     <br/>
     libras de Cera =
     <br/>
-    Ytt. digo tengo otro pedazo de tierra que está abajo del cerro que llaman el
+    <foreign xml:lang="lat"><choice><abbr>Ytt.</abbr><expan>Yttem</expan></choice></foreign> digo tengo otro pedazo de tierra que está abajo del cerro que llaman el
     <br/>
     negrito que son de
     <choice><orig>quatro</orig><reg type="spanish">cuatro</reg></choice>
@@ -296,7 +296,7 @@
     <br/>
     <pb n="3"/>
     <br/>
-    Ytt. digo tengo otros treinta Jurcos, que
+    <foreign xml:lang="lat"><choice><abbr>Ytt.</abbr><expan>Yttem</expan></choice></foreign> digo tengo otros treinta Jurcos, que
     <choice><orig>estan</orig><reg type="spanish">están</reg></choice>
     Junto de la torna; le queda
     <br/>
@@ -304,7 +304,7 @@
     <choice><orig>dha</orig><reg type="spanish">dicha</reg></choice>
     mi hija Manuela Agustina =
     <br/>
-    Ytt. digo, si quisiere mi hija la vender la
+    <foreign xml:lang="lat"><choice><abbr>Ytt.</abbr><expan>Yttem</expan></choice></foreign> digo, si quisiere mi hija la vender la
     <choice><orig>cassa</orig><reg type="spanish">casa</reg></choice>
     y solar <choice><orig>suia</orig><reg type="spanish">suya</reg></choice>, a
     <choice><orig>quales</orig><reg type="spanish">cuales</reg></choice>
@@ -316,7 +316,7 @@
     <choice><orig>estraño</orig><reg type="spanish">extraño</reg></choice>
     =
     <br/>
-    Ytt. es mi
+    <foreign xml:lang="lat"><choice><abbr>Ytt.</abbr><expan>Yttem</expan></choice></foreign> es mi
     <choice><orig>Vltima</orig><reg type="spanish">Ultima</reg></choice>
     voluntad que si se muriere
     <choice><orig>dha</orig><reg type="spanish">dicha</reg></choice>
@@ -328,7 +328,7 @@
     <br/>
     mi sobrino Salvador de la Cruz todos mis Bernes =
     <br/>
-    Ytt. digo que si es servido el Regidor
+    <foreign xml:lang="lat"><choice><abbr>Ytt.</abbr><expan>Yttem</expan></choice></foreign> digo que si es servido el Regidor
     <choice><orig>Antto</orig><reg type="spanish">Antonio</reg></choice>
     <choice><orig>hernz</orig><reg type="spanish">hernandez</reg></choice>
     , y
