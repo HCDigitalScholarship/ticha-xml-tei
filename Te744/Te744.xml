@@ -4,10 +4,8 @@
 <!-- Testament from San Sebastián Teitipac, 1744 -->
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 <text>
-<!--Josh-->
-Laa stissima trinidad Dios<add place="above">[+?]</add> bixoce Dios xini<add place="above"> 7 8</add> Dios espiritu<add place="above">8</add><lb/>
-
-<!--Nuria-->
++ 7 8
+Laa stissima trinidad Dios bixoce Dios xini Dios espiritu
 chela rinnia cocachi leeche laya xipella latia missa vigilla <lb/>
 Chi Cue Dios xiquela na baania <lb/> <!--dashes before line break-->
 Chela rinniya yooholichiya huane solar xitenia quea <lb/>
@@ -19,7 +17,6 @@ Vizaalayoo Cumun Layoo nibetoo phelipolopis chinio bichonna <lb/>
 pesos rianane xinichiapaya Manuela Agustina dela <lb/>
 <note place="margin left">layoo<lb/>[cibetoo?]<lb/>[?][amun?]<lb/>por [ticea?]<lb/>pesos</note>
 <!--I used <note> here because this seems to be written at the time the text was written-->
-<!--elle-->
 Cruz Chelarinnia napaya cetobicue layoo gochi nachiaga<lb/>
 bizaa Bernabel Luis nezaa sotiola nachi yaga bizaa queto ma <lb/>
 theolopes nezaa sochi querrola layoorini riane xini chiapa <lb/>
@@ -29,9 +26,6 @@ xitenia Salbador de la Cruz – Chela Rinnia Cetobicuela<lb/>
 yoo betoo Miguel hernandes por xonno pesos 8 ps nachaga<lb/>
 Vizaa layoo xiteni quetoo Balthazar Canandes*(?) ne*(?)<lb/>
 loo silla nachagavizaalayoo xiteni quetoo Mathias<lb/>
-
-
-<!--Caroline-->
 Domingo neza socay chiij layoo ri rianane xini chia paya<lb/>
 <pb n="2"/>
 Daniela Agustina delaCruz -- Chela rinniya napaya to
@@ -44,30 +38,24 @@ Chi nachiaga Vizaa laloo xiteni Alienda Santarosa riana
 <lb/>
 Ne laca xinichiapaya Manuela Agustina dela Cruz -- 
 <lb/>
-<!--Naomi-->
 Chelarinnia napaya cetoobi cuelayoo gochi nacani tiuabiaaly <lb/>
 Surco roteteya batoohuini sobrino xiteniya Manuel de la Cruz <lb/>
 nachiaga vizaa quetoo Balthasar hernandes nachiaga vizaa que[too] <lb/>
 Zoo Marcosbaleriano nachiaga vizaa queeloo Mathias Domin <lb/>
 go nezaa sochi - Chelarinnia napaya ceegalle bichi sa <lb/>
 Co layoo xizani phelipelopes zennani yochini to mines gali <lb/>
-<!--Hannah-->
 pesos - 2ops quica xinichapaya Manuela Agustina dela cruz <lb/>
 Chela rinnia napaya ceetoobi cuelayoo xiteni ygnacio mendos <lb/>
 Prenda porchinio bichonna pesos ---- ---- ---- 18p <lb/>
 xianalachina lechelaya petrona de la Cruz ---- ---- ---- <lb/>
 Chela rinnia napaya galabishi suzco laayoo betoo anatono mira <lb/>
 Rianane xini Chia Paya Manuela Agustina dela Cruz en <lb/>
-
-<!--Savannah 2-18 to 2-23-->
 Chela rinnia napaya Cetoobi cuelayoo betoo Miguel Ernand[es] <lb/>
 che bitiego gobee porchonna pesos ---- 3p xiananexini <lb/>
 Chiapa-ya Manuela Agustina dela Cruz ---- ---- ---- ---- <lb/>
 Chela Rinnia napaya Cetoobilue layoo lo larnibeto quet <lb/>
 ygnacio mendoza Xoana llagaqieia(?) matoco peachi p <lb/>
 pa pesos ----- llp rianane xini chiapaya Manuela <lb/>
-
-<!--Sarah: Lines 2-24-3-4 -->
 Agustina(?) delaCruz ----- ----- ----- -----<lb/>
 Chela rinnia napaya Cetobi cuelayoo(?) bezo quezo mattzeo Lo<lb/>
 <pb n="3"/>
@@ -81,17 +69,12 @@ xiteni thomas lorenzo porxopa pesos ---- 6p <lb/>
 riana marcos lorenzo yo chini xopa pesos lachina xini chia <lb/>
 paya Manuela Agustina dela Cruz ---- ---- ---- ---- <lb/>
 Chela rinnia napaya gala bichi Surcos layoo nachiabi za Nico <lb/>
-<!--Bella-->
-
-<!--Al-->
 Las lorenso rianane lechelaya petrona dela Cruz —--- <lb/>
 Chela rinnia cetobi cue la yo [X] beto queto ygna Ciomendos<lb/>
 Rianane lacaxinichiapaya Manuela Agustina dela Cruz<lb/>
 Chela rinnia napaya tobinezaamanibichinia gona riananee<lb/>
 xini chiapaya Manuela Agustina dela Cruz ---- ----<lb/>
 Chela rinnia Cetobi mani desilla riananelechalaya petrona<lb/>
-
-<!--Halle-->
 <add place="margin left">[Jueuy? [g[j?]uuuas?]][some image/seal?]</add>
 dela Cruz ---- <lb/>
 Chela rinnia napaya gayonnaxanatobaroo nizaalo galaxa <lb/>
@@ -99,8 +82,6 @@ na rianalachi ñalechelaya petronadela Cruz Cetuaxana <lb/>
 tobayoo Cegayonna ninaloganayachiga nacanitobi gayoaxaa <lb/>
 na riana lachinaxinichiapaya Manuela Agustina dela Cruz <lb/>
 Naacani tobigayooa loquirani –--- –--- 100 <lb/>
-
-<!--Laura (lines 3-23 through 4-3)-->
 Chela rinnia napaya ce pagaya xanatoba lesacatobi <lb/>
 tobi tomines riananexini chiapaya Manuela Augustina <lb/>
 Cruz ---- ---- ---- ---- ---- <lb/>
@@ -108,8 +89,6 @@ Cruz ---- ---- ---- ---- ---- <lb/>
 chelaRinnia ceetobi cue quinatoba napaya teeche lichi Pe <lb/>
 dro martin puente Rianane xinichia paya Manuela Augus <lb/>
 tina dela Cruz nacani tiopa gayua - - - 200 <lb/>
-
-<!--4 Gemma lines 4-4 through 4-9-->
 Chela Rinnia napaya cuenta xiteni Resurecion gallabichi p[e][sos<lb/>
 sos — — — — — — — — 3ps<lb/>
 huane gallabichonna bibra? Zera — — — 23tt<lb/>
@@ -117,11 +96,9 @@ chelarinnia napaya ceetobicue layoo xaatani quieyaza na<lb/>
 nitapabee nachiagavizaa queto lucas larita neza sochi na<lb/>
 chiagavizaa queto pasqualmendes Riananexinichiapaya<lb/>
 
-<!--?-->
 <!-- This next line looks like 1-18? -->
 bizaa Bernabel Luis nezaa sotiola nachi yaga bizaa queto ma <lb/>
 
-<!--Eric-->
 Manuela Agustina de la Cruz <lb/>
 chelarinnia napaya cegala bichi surco ruatomma rianane <lb/>
 xini chiapaya Manuela Agustina de la Cruz — —
@@ -129,7 +106,6 @@ chelaRinnia rebela ??????? xinichia paya cotoni yoohuanee
 solar xitenini tutilalo tia xitenia suaca sini Aga(...?)
 ti sicetobilabenni — — — — —
 
-<!--John-->
 ChelaRinnia rebalarati xini chia paya Manuel<lb/>
 Agustina de la Cruz sobrino xiteniya quira xi quichia<lb/>
 dor delaCruz sobrino xitenia guira xigurizo<lb/>
@@ -137,17 +113,13 @@ ya-Chelarinnia queza lachi Regidor antono hernandes<lb/>
 huane primo xitenia Juan de la Cruz ga calasini alpas<lb/>
 xitenia gannani quigachi pella latia huane<lb/>
 que sinigono quira becogohuane qu<lb/>
-
-<!--Will-->
 ra xiquichiaya gapani Cuenta Chelariniya<lb/>
-<!-- start of page 5 -->
 <pb n="5"/>
 Rilati Carini Ranna loo Rieni T[??]iaga quirra testi<add place="above">[109?]</add><lb/>
 gos niribe[??]ani Rilo xe memoria testu<lb/>
 mentos xitenia hnna coqaa xichi beo ma<lb/>
 yo looyzaa de Mill sieteciento y quarenta<lb/>
 y quatro Anos<lb/>
-
 <!-- start of signatures -->
 <add place="margin left">[Jueuy? [g[j?]uuuas?]][some image/seal?]</add>
 Antoñio hernandes<lb/>
