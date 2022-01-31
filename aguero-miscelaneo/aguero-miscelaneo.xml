@@ -26701,7 +26701,7 @@ En la lengua Zapoteca
 <lb/>
     naa pea yoobi Santa <choice><orig>Ygleſia</orig><reg type="spanish">Yglesia</reg></choice>
 <lb/>
-    hua-
+    <fw type="catchword" place="bottom-right">hua-</fw>
     <pb n="496"/>
     <pb n="497"/>
     <pb n="498"/>
@@ -26788,7 +26788,8 @@ En la lengua Zapoteca
 <lb/>
     <choice><orig>meſmos</orig><reg type="spanish">mesmos</reg></choice> le deveis <choice><orig>enſeñar</orig><reg type="spanish">enseñar</reg></choice> todo                tos cicanrizij, cicanì rateyo-
 <lb/>
-    biní
+    <fw type="catchword" place="bottom-right">biní</fw>
+    <!--pick up with catchwords here :) -->
     <pb n="510"/>
     En la lengua Zapoteca bini
 <lb/>
@@ -27532,15 +27533,15 @@ laa
 <lb/>
     ya.
 <lb/>
-    <choice><orig>Miniſt</orig><reg type="spanish">Minist</reg></choice>. Y tu varon, como es tu Chela lohuy niguijo, xijlaalo,
-<lb/>
+    <choice><orig>Miniſt</orig><reg type="spanish">Minist</reg></choice>. Y tu varon, como <add place="above">[blotch of ink?]</add> es tu Chela lohuy niguijo, xijlaalo,
+<lb/> <!--how to encode blotches of ink/corrections in ink to printed words?-->
     nombre? tu laa rapalo.
 <lb/>
     <choice><orig>Reſp</orig><reg type="spanish">Resp</reg></choice>. Padre, llamome Pedro, Channa, Pedro<add place="below">P</add> Iaaya, Iaa, Juan.
 <lb/>
    <choice><orig>ó</orig><reg type="spanish">o</reg></choice>Juan.
 <lb/>
-    P  Ma-
+    P <!--encode this as margialia? It's encoded as original text right now...-->  Ma-
     <pb n="521"/>
     <choice><orig>Conſeſſionario</orig><reg type="spanish">Conſessionario</reg></choice>
 <lb/>
@@ -27658,7 +27659,7 @@ laa
 <lb/>
     donde aveys de encender las candelas. ganoo loo becoogo, rica zoo
 <lb/>
-    zaa quito<add place="bottom">P[a?9?]</add> quijti.
+    zaa quito<add place="bottom">P[a?9?2?]</add> quijti.
 <lb/>
     <fw type="catchword" place="bottom-right">Pla-</fw>
     <pb n="523"/>
