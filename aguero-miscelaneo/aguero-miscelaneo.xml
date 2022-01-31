@@ -21625,7 +21625,7 @@ y <choice><orig>arbolſeco</orig><reg type="spanish">arbolseco</reg></choice><lb
 <lb/>
     ni arennaati quela nayaanij xquela pea rua lachi tonoo, cica
 <lb/>
-    ni
+    <fw type="catchword" place="bottom-right">ni-</fw>
     <pb n="341"/>
 <add> a qui falta la pregunta q. trae el S. [J?] Juan [oeun?] Thomas a cer <lb/>
 e el pecado q. se haze con el demonio yo hosee pori[e?]. [h?n?]o lo trad uxo <lb/>
@@ -21701,7 +21701,7 @@ e el pecado q. se haze con el demonio yo hosee pori[e?]. [h?n?]o lo trad uxo <lb
 <lb/>
     cheegatini, qui caabini, hualii naca ticha rij, cani cica benni
 <lb/>
-    goo-
+    <fw type="catchword" place="bottom-right">goo-</fw>
     <pb n="342"/>
     goolee gacani, cooxe zaabi yaani lachini, caazaabi guela
 <lb/>
@@ -21765,7 +21765,7 @@ e el pecado q. se haze con el demonio yo hosee pori[e?]. [h?n?]o lo trad uxo <lb
 <lb/>
     quiraa loo nija quela nachaaba xtennini?
 <lb/>
-    <choice><orig>Maeſ-</orig><reg type="spanish">Maes-</reg></choice>
+    <fw type="catchword" place="bottom-right"><choice><orig>Maeſ-</orig><reg type="spanish">Maes-</reg></choice></fw>
 <lb/>
     <pb n="343"/>
     <choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice>. Pijña xinni, hualijca loo chonna loo, chonna nija
@@ -21838,7 +21838,8 @@ e el pecado q. se haze con el demonio yo hosee pori[e?]. [h?n?]o lo trad uxo <lb
 <lb/>
     la naxiihui, chela yapaxa queaani gaaca laaya anima xtennini
 <lb/>
-    la-
+    <fw type="catchword" place="bottom-right">la-</fw>
+    <!--oh interesting... it looks like there is already a "bottom-right" attribute"-->
     <pb n="344"/>
     lachiña coopabijtoo.
 <lb/>
@@ -21910,7 +21911,7 @@ e el pecado q. se haze con el demonio yo hosee pori[e?]. [h?n?]o lo trad uxo <lb
 <lb/>
     bela chijpebaanini, chij hua <note place="below">Y</note> zoobanatiaani, yapebaa pezaaca,
 <lb/>
-    ya-
+    <fw type="catchword" place="bottom-right">ya-</fw>
 <lb/>
     <pb n="345"/>
     yapiguijte lachini nijaxtenni quela pixij niza cani, ya coxij gue-
@@ -21986,7 +21987,7 @@ e el pecado q. se haze con el demonio yo hosee pori[e?]. [h?n?]o lo trad uxo <lb
 <lb/>
     niaati.
 <lb/>
-    Coo-
+    <fw type="catchword" place="bottom-right">Coo-</fw>
     <pb n="346"/>
   <add> P. Maō Fluande Sto Thomas folio. loo. </add>
 <lb/>
@@ -22058,7 +22059,7 @@ e el pecado q. se haze con el demonio yo hosee pori[e?]. [h?n?]o lo trad uxo <lb
 <lb/>
     rinnijo tonoo, cica naca quichaa, <note place="below"> Y2 </note> ni collaana benniaati, naca
 <lb/>
-    yo-
+    <fw type="catchword" place="bottom-right">yo-</fw>
 <lb/>
     <pb n="347"/>
     yobi tolla quela cobaana, tebela ziaani tete naca quichaa ca-
@@ -22131,7 +22132,7 @@ e el pecado q. se haze con el demonio yo hosee pori[e?]. [h?n?]o lo trad uxo <lb
 <lb/>
     raca cobijña, huachonno huaxijatete richeela quelahuaago
 <lb/>
-    la-
+    <fw type="catchword" place="bottom-right">la-</fw>
 <lb/>
     <pb n="348"/>
     lazigaa tolla roo raca loo chijcatini tebela cuaana benniaati xi-
@@ -22204,7 +22205,7 @@ e el pecado q. se haze con el demonio yo hosee pori[e?]. [h?n?]o lo trad uxo <lb
 <lb/>
     canî quela queeya xtenni, hua roxijñe, ronnijtiloo benniquee
 <lb/>
-    ticha
+    <fw type="catchword" place="bottom-right">ticha</fw>
     <pb n="349"/>
     ticha pea xijbaa Mandamiento nachonno rijni?
 <lb/>
@@ -22276,7 +22277,7 @@ e el pecado q. se haze con el demonio yo hosee pori[e?]. [h?n?]o lo trad uxo <lb
 <lb/>
     tenni raca lachi xijhui benniquee ni peteete laani xi bichij-
 <lb/>
-    chini
+    <fw type="catchword" place="bottom-right">chini-</fw>
     <pb n="350"/>
     chini loo zetoobi lezaani cooxe zoo chahui, cooxe quijapa te-
 <lb/>
@@ -22348,7 +22349,7 @@ e el pecado q. se haze con el demonio yo hosee pori[e?]. [h?n?]o lo trad uxo <lb
 <lb/>
     chini loo quela rizij baaneza lachitooni cochiiba lazini tomines
 <lb/>
-    xten-
+    <fw type="catchword" place="bottom-right">xten-</fw>
 <lb/>
     <pb n="351"/>
     xtennini loo tomines, ni colleetijñeeni, acalaati nija xtenni tu-
@@ -22422,7 +22423,7 @@ e el pecado q. se haze con el demonio yo hosee pori[e?]. [h?n?]o lo trad uxo <lb
 <lb/>
     <choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice>. Hualiica xiinni, huanacaa chijchi pea looni queoo-
 <lb/>
-    chijni
+    <fw type="catchword" place="bottom-right">chijni-</fw>
 <lb/>
     <pb n="352"/>
     chijni queyoohui gaxeni quiraaloo ni cani, huanozaabini
@@ -22495,7 +22496,7 @@ e el pecado q. se haze con el demonio yo hosee pori[e?]. [h?n?]o lo trad uxo <lb
 <lb/>
     ola nijaxtenni yaquienni looti <note place="below">Z</note>, pallanacaxa tomin nozaabi-
 <lb/>
-    ni,
+    <fw type="catchword" place="bottom-right">ni,</fw>
     <pb n="353"/>
     ni hualijcatebela cicarij conni benniaatiquee quelaquija zaa
 <lb/>
@@ -22568,7 +22569,7 @@ e el pecado q. se haze con el demonio yo hosee pori[e?]. [h?n?]o lo trad uxo <lb
 <lb/>
     ni, queoochij toobi toobigaani too bizi cuee quichaa caní
 <lb/>
-    nicocaxi,
+    <fw type="catchword" place="bottom-right">nicocaxi,</fw>
     <pb n="354"/>
 <lb/>
     ni cocaxi laazeni, laapeati queoochini laa zecani. Cijcani,
@@ -22641,7 +22642,7 @@ e el pecado q. se haze con el demonio yo hosee pori[e?]. [h?n?]o lo trad uxo <lb
 <lb/>
     nì, zoaaca gaaca laaya quiqueni <note place="below">Z2</note> chii quita guexooba xtolla-
 <lb/>
-    ni loo
+    <fw type="catchword" place="bottom-right">ni loo</fw>
     <pb n="355"/>
     ni loo coopabijto. Toobica gaaca, tebela nalij nazij nachijbaa
 <lb/>
@@ -22714,7 +22715,7 @@ e el pecado q. se haze con el demonio yo hosee pori[e?]. [h?n?]o lo trad uxo <lb
 <lb/>
     huanozaabini quebeeni, quecaani quichij Sancta Bulla rinnijo
 <lb/>
-    tonno
+    <fw type="catchword" place="bottom-right">tonoo</fw>
     <pb n="356"/>
     tonoo ticha <choice><orig>Caſtilla</orig><reg type="spanish">Castilla</reg></choice> de <choice><orig>Compoſicion</orig><reg type="spanish">Composicion</reg></choice>, rua rezaalachi Cooquij
 <lb/>
@@ -22782,7 +22783,7 @@ e el pecado q. se haze con el demonio yo hosee pori[e?]. [h?n?]o lo trad uxo <lb
 <lb/>
     ni lachi quique lezaalo.
 <lb/>
-    <choice><orig>Diſci-</orig><reg type="spanish">Disci-</reg></choice>
+    <fw type="catchword" place="bottom-right"><choice><orig>Diſci</orig><reg type="spanish">Disci</reg></choice>-</fw>
 <lb/>
     <pb n="357"/>
     <choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Channa <choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice> nachonnohe, xijxa ticha, laa
@@ -22858,7 +22859,7 @@ e el pecado q. se haze con el demonio yo hosee pori[e?]. [h?n?]o lo trad uxo <lb
 <lb/>
     ahui tete naca loo benniaati?
 <lb/>
-    <choice><orig>Maeſ-</orig><reg type="spanish">Maes-</reg></choice>
+    <fw type="catchword" place="bottom-right"><choice><orig>Maeſ-</orig><reg type="spanish">Maes-</reg></choice>-</fw>
 <lb/>
     <pb n="358"/>
     <choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice>. Pijña xinni, lanni toopa liaaza zooaaca pealo,
@@ -22931,7 +22932,7 @@ e el pecado q. se haze con el demonio yo hosee pori[e?]. [h?n?]o lo trad uxo <lb
 <lb/>
     chi pea loo benniquee, cooxe conni queaacachahui, rua
 <lb/>
-    coxij-
+    <fw type="catchword" place="bottom-right">coxij-</fw>
     <pb n="359"/>
     coxijñe, rua collaabaa lanna xtenni lezaani, chela queoochijni,
 <lb/>
@@ -23004,7 +23005,7 @@ e el pecado q. se haze con el demonio yo hosee pori[e?]. [h?n?]o lo trad uxo <lb
 <lb/>
     pexiihuini penni lachini, chii pezaabini, chii cotiixeleeni xtol-
 <lb/>
-    la
+    <fw type="catchword" place="bottom-right">la</fw>
     <pb n="360"/>
     la lezaani, nijani ciicariibii, 1 quegaatete baa lanna xten- <note place="margin right">1 Se buel-<lb/>va, y reſ-<lb/>taure.</note>
 <lb/>
@@ -23076,7 +23077,7 @@ e el pecado q. se haze con el demonio yo hosee pori[e?]. [h?n?]o lo trad uxo <lb
 <lb/>
     hui xtennini lanni lichini, lanni <note place="below">Aa</note> taa becoogo xtennini cica
 <lb/>
-    tebela
+    <fw type="catchword" place="bottom-right">tebela</fw>
     <pb n="361"/>
     <add place="top"> dir.tn,chmt. cAimeno [vertical word?] </add>
     tebela toobi benni collaani cayooa <choice><orig>peſo</orig><reg type="spanish">peso</reg></choice>, huanaquiiña lenne te-
@@ -23150,7 +23151,7 @@ e el pecado q. se haze con el demonio yo hosee pori[e?]. [h?n?]o lo trad uxo <lb
 <lb/>
     lanna benni, huanoo lanni lichi Dios, huechijño ticha, huezijraa
 <lb/>
-    libaana
+    <fw type="catchword" place="bottom-right">libaana-</fw>
     <pb n="362"/>
     libaana bijtoo laacani zoogoozeeteni, zoogoo zoozijña lachi-
 <lb/>
@@ -23216,7 +23217,7 @@ e el pecado q. se haze con el demonio yo hosee pori[e?]. [h?n?]o lo trad uxo <lb
 <lb/>
     quela rizaabi yaani tete xiihui lachi <note place="below">Aa</note> benniaati, quela ren-
 <lb/>
-    naa
+    <fw type="catchword" place="bottom-right">naa</fw>
 <lb/>
     <pb n="363"/>
     naa tete lijoo lachitooni zooxijhuini <add place="above">poace   pecar</add> zoogaallani <add palce="above">poder [juntanie?] </add> gonnaa, zaa- <add place="above">b</add>
@@ -23290,7 +23291,7 @@ e el pecado q. se haze con el demonio yo hosee pori[e?]. [h?n?]o lo trad uxo <lb
 <lb/>
     guela tetelachini zooba xticha bezeeloo. Cijcani zaabeeca yaca
 <lb/>
-    zij-
+    <fw type="catchword" place="bottom-right">zij-</fw>
     <pb n="364"/>
     ziiguelati benniaatiquee huenni loo zonnini tolla canì, cani, hua-
 <lb/>
@@ -23364,7 +23365,7 @@ e el pecado q. se haze con el demonio yo hosee pori[e?]. [h?n?]o lo trad uxo <lb
 <lb/>
     chijño ticha hueziiraa libaana Sancta <choice><orig>Ygleſia</orig><reg type="spanish">Yglesia</reg></choice> nozaabi tete zij
 <lb/>
-    baa-
+    <fw type="catchword" place="bottom-right">baa-</fw>
     <pb n="365"/>
     baaneza quiraaliica benniaati, nijani cohui yoo, cohuiguiixeni,
 <lb/>
@@ -23440,7 +23441,7 @@ e el pecado q. se haze con el demonio yo hosee pori[e?]. [h?n?]o lo trad uxo <lb
 <lb/>
     caní cica naca ciroo ticha quee ni pellaaba lachini?
 <lb/>
-    <choice><orig>Maeſ</orig><reg type="spanish">Maes</reg></choice>-
+    <fw type="catchword" place="bottom-right"><choice><orig>Maeſ</orig><reg type="spanish">Maes</reg></choice>-</fw>
 <lb/>
     <pb n="366"/>
     <choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice>. Hualiica xinni, huanacaca tennitenni, cachee
@@ -23511,7 +23512,7 @@ e el pecado q. se haze con el demonio yo hosee pori[e?]. [h?n?]o lo trad uxo <lb
 <lb/>
     xijbaa, rennaani Mandamientos xtennini Sancta <choice><orig>Ygleſia</orig><reg type="spanish">Yglesia</reg></choice>.
 <lb/>
-    <choice><orig>Diſ</orig><reg type="spanish">Dis</reg></choice>-
+    <fw type="catchword" place="bottom-right"><choice><orig>Diſ</orig><reg type="spanish">Dis</reg></choice>-</fw>
     <pb n="367"/>
     <choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Channa nachonno he, coopaalla xijbaa xten-
 <lb/>
@@ -23583,7 +23584,7 @@ e el pecado q. se haze con el demonio yo hosee pori[e?]. [h?n?]o lo trad uxo <lb
 <lb/>
     looni, laa connaa tiaagani quiraa ticha, quiraa chijña
 <lb/>
-    nayoo-
+    <fw type="catchword" place="bottom-right">nayoo-</fw>
     <pb n="368"/>
 <lb/>
     nayoona ni ronni coopabijtoo lanni becoogo quitoobiloo
@@ -23657,7 +23658,7 @@ e el pecado q. se haze con el demonio yo hosee pori[e?]. [h?n?]o lo trad uxo <lb
 <lb/>
     quela rillooxela, cica rinniia, naxiia <note place="bottom"> Bb </note> nahuiini naca, ciicani
 <lb/>
-    tebela
+    <fw type="catchword" place="bottom-right">tebela</fw>
     <pb n="369"/>
     <add place="margin left">[?]</add> tebela lazigaa naroo gaaca cuee cani ni queaani canna benniaa-
 <lb/>
@@ -23729,7 +23730,7 @@ e el pecado q. se haze con el demonio yo hosee pori[e?]. [h?n?]o lo trad uxo <lb
 <lb/>
   <add place="marign left"> <choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Tebela toobi benni zaaneza teteni loo toobigue-
 <lb/>
-    che
+    <fw type="catchword" place="bottom-right">che</fw>
     <pb n="370"/>
     che late riaapa chaahui toobi lannij, laa rezij lachini ruanigaana
 <lb/>
@@ -23797,7 +23798,7 @@ e el pecado q. se haze con el demonio yo hosee pori[e?]. [h?n?]o lo trad uxo <lb
 <lb/>
     huanij rogaa rieet̀ e riaapi, rixoohui <note place="below">Bb</note> xigaaba <add place="below">mi[?]asa<lb/>sere pre[?]enta</note> lanni <choice><orig>Miſſa</orig><reg type="spanish">Missa</reg></choice>.
 <lb/>
-    CO-
+    <fw type="catchword" place="bottom-right">CO-</fw>
     <pb n="371"/>
     <add>[?] f J. deSoo. Thomas</add> COROOPA XIIBAA <add>fol 120</add>
 <lb/>
@@ -23865,7 +23866,7 @@ e el pecado q. se haze con el demonio yo hosee pori[e?]. [h?n?]o lo trad uxo <lb
 <lb/>
     chela tebela gaaca lachini quezee xooba xtollani zeechaacuee
 <lb/>
-    tolla,
+    <fw type="catchword" place="bottom-right">tolla</fw>
     <pb n="372"/>
     tolla, nipennini collaaza, zaabeeca huanijtiloo caniloo coo-
 <lb/>
@@ -23937,7 +23938,7 @@ e el pecado q. se haze con el demonio yo hosee pori[e?]. [h?n?]o lo trad uxo <lb
 <lb/>
     <add place="margin left">4</add> <choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Channahe, zooaaca cheebiiga cheegalla tutila
 <lb/>
-    ben-
+    <fw type="catchword" place="bottom-right">ben-</fw>
     <pb n="373"/>
     benniaati loo Sacramet̄ o nachonno xpellalati bijtoo Bejoan-
 <lb/>
@@ -24005,7 +24006,7 @@ e el pecado q. se haze con el demonio yo hosee pori[e?]. [h?n?]o lo trad uxo <lb
 <lb/>
     <choice><orig>Quareſma</orig><reg type="spanish">Quaresma</reg></choice><add place="below">[nasatras?] de la gua[?]</add> zii xillaato, lanni toobi chii ni gaacazi lachitoo,
 <lb/>
-    quela-
+    <fw type="catchword" place="bottom-right">quela-</fw>
     <pb n="374"/>
     quelani cicarij pezaaciga lachi Cooquij huijatoo Sancto Pa-
 <lb/>
@@ -24077,7 +24078,7 @@ e el pecado q. se haze con el demonio yo hosee pori[e?]. [h?n?]o lo trad uxo <lb
 <lb/>
     quela leeaani, xquela cobeeteni xquela naxijñelachini aca
 <lb/>
-    rizij-
+    <fw type="catchword" place="bottom-right">rizij-</fw>
     <pb n="375"/>
     rizijña lachini, aca racapea chahuini quiraa ticha xquela rieelij
 <lb/>
@@ -24149,7 +24150,7 @@ e el pecado q. se haze con el demonio yo hosee pori[e?]. [h?n?]o lo trad uxo <lb
 <lb/>
     ni, loo nahaxeni lanni loona xtennini?
 <lb/>
-    <choice><orig>Maeſ</orig><reg type="spanish">Maes</reg></choice>-
+    <fw type="catchword" place="bottom-right"><choice><orig>Maeſ</orig><reg type="spanish">Maes</reg></choice>-</fw>
 <lb/>
     <pb n="376"/>
   En la lengua Zapoteca <add>largo</add>
@@ -24224,7 +24225,7 @@ e el pecado q. se haze con el demonio yo hosee pori[e?]. [h?n?]o lo trad uxo <lb
 <lb/>
     la huezaaca naxiia Sacramentoquee.<note place="below">Cc</add>
 <lb/>
-    CO-
+    <fw type="catchword" place="bottom-right">CO-</fw>
     <pb n="377"/>
     <!--include the "Catecismo" on the top of the page?-->
     <add>f Juan de [soo?] Thomas fol 127 <add place="below">fol 127</add></add>
@@ -24300,7 +24301,7 @@ e el pecado q. se haze con el demonio yo hosee pori[e?]. [h?n?]o lo trad uxo <lb
 <lb/>
     cica rennaapea xiñaana Sancta <choice><orig>Ygleſia</orig><reg type="spanish">Yglesia</reg></choice> lanni xiibaa nirij?
 <lb/>
-    Mae-
+      <fw type="catchword" place="bottom-right">Mae-</fw>
     <pb n="378"/>
     <add place="margin left">19</add>
 <lb/>
@@ -24377,7 +24378,7 @@ En la lengua Zapoteca
 <lb/>
     gaagotini pella. Ciicani tebela <add palce="below">Cc2</add> huahuij, huaguijcha rizaacani,
 <lb/>
-    laa
+      <fw type="catchword" place="bottom-right">laa</fw>
 <lb/>
     <pb n="379"/>
     laa tebela yaquechelatini ni gaagoni toobi chii, nijaxtenni
@@ -24454,7 +24455,7 @@ En la lengua Zapoteca
 <lb/>
     guetta xtennini.
 <lb/>
-    Pallaa-
+      <fw type="catchword" place="bottom-right">Pallaa-</fw>
     <pb n="380"/>
     Pallaaacaxa gaaca quela huaago naxiiaquee, nigago xchee
 <lb/>
@@ -24530,7 +24531,7 @@ En la lengua Zapoteca
 <lb/>
     tenni rillaani, riguijcheni xijbaa nirij, zeechaacuee liazaaya
 <lb/>
-    roxiij-
+      <fw type="catchword" place="bottom-right">roxij-</fw>
     <pb n="381"/>
     roxijhuini zaagagoni peazigaaca lachini quelani huaya aca
 <lb/>
@@ -24603,7 +24604,7 @@ En la lengua Zapoteca
 <lb/>
     too xilichi Dios?
 <lb/>
-    Mae-
+      <fw type="catchword" place="bottom-right">Mae-</fw>
 <lb/>
     <pb n="382"/>
     <choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice>. Pijnaxinni, hualoo nijrogaa, rennaa xijbaa na-
@@ -24676,7 +24677,7 @@ En la lengua Zapoteca
 <lb/>
     becoogo B. Dios quiraa gonna rijni, nozaabi teteni cooni, co-
 <lb/>
-    chij-
+      <fw type="catchword" place="bottom-right">chij-</fw>
     <pb n="383"/>
     chijganni toobi quique lachini lanni Sancta <choice><orig>Ygleſia</orig><reg type="spanish">Yglesia</reg></choice>, quelani
 <lb/>
@@ -24744,7 +24745,7 @@ En la lengua Zapoteca
 <lb/>
     <choice><orig>Maeſtro</orig><reg type="spanish">Maestro</reg></choice>. Hualiica cicarij laa tolla quee niiaxtenni huanaca,
 <lb/>
-    quiraa-
+      <fw type="catchword" place="bottom-right">quiraa-</fw>
     <pb n="384"/>
     <add place="margin left">12</add>
 <lb/>
@@ -24822,7 +24823,7 @@ En la lengua Zapoteca
 <lb/>
     rozeete riguijcha laani, rigoobaa <note place="below">Dd</note>, rollaache lanna yoobigaani,
 <lb/>
-    aca
+      <fw type="catchword" place="bottom-right">aca</fw>
     <pb n="385"/>
     aca ronnipea chahuini xillaacica nozaabini coobaa, collaa-
 <lb/>
@@ -24897,7 +24898,7 @@ En la lengua Zapoteca
 <lb/>
     quichaa canì.
 <lb/>
-    Laani-
+      <fw type="catchword" place="bottom-right">Laani-</fw>
     <pb n="386"/>
     Laanicica tebela toobi benniaati, acarennaati lachini co-
 <lb/>
@@ -24970,7 +24971,7 @@ En la lengua Zapoteca
     <add place="margin left">3</add>
     <choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Channahe, huanaca <note place="below">Dd2</note> celij tollaroo, quela cobee-
 <lb/>
-    xe,
+      <fw type="catchword" place="bottom-right">xe-</fw>
     <pb n="387"/>
     xe, quela huezaaca nachaaba pellalati yobigaa benniaati?
 <lb/>
@@ -25043,7 +25044,7 @@ En la lengua Zapoteca
 <lb/>
     quela huaago quela cohue, zaa toochiixi tetepea quela
 <lb/>
-    huaago
+      <fw type="catchword" place="bottom-right">huaago-</fw>
 <lb/>
     <pb n="388"/>
     huaago caní quela cohue canî quelani cannaaxe zoochij cica-
@@ -25118,7 +25119,7 @@ En la lengua Zapoteca
 <lb/>
     connini.
 <lb/>
-    <choice><orig>Diſ-</orig><reg type="spanish">Dis-</reg></choice>
+      <fw type="catchword" place="bottom-right"><choice><orig>Diſ-</orig><reg type="spanish">Dis-</reg></choice></fw>
 <lb/>
     <pb n="389"/>
 <lb/>
@@ -25196,7 +25197,7 @@ En la lengua Zapoteca
 <lb/>
     ca naha lachini, loo quela ranna rohuija pizaalooni, quela na-
 <lb/>
-    zaaca
+    <fw type="catchword" place="bottom-right">zaaca</fw>
 <lb/>
     <pb n="390"/>
     zaaca lezaani ni riteeteloo, riteeteguettani yobigani, tebela ci-
@@ -25270,7 +25271,7 @@ En la lengua Zapoteca
 <lb/>
     Laguelacanihuanaquiiña tete chij zooloo quitooxo lachi
 <lb/>
-    ben-
+    <fw type="catchword" place="bottom-right">ben-</fw>
     <pb n="391"/>
     benniaati, huayoopa queaala lachini, huayoopa queoolaaya
 <lb/>
@@ -25344,7 +25345,7 @@ En la lengua Zapoteca
 <lb/>
     Ciicani tolla huiini, tolla piooxe naca quela leeaa quela co-
 <lb/>
-    beete
+    <fw type="catchword" place="bottom-right">beete</fw>
     <pb n="392"/>
     beete rij, chii toobi benniaati zaabecca zaanahuiini naziizi
 <lb/>
@@ -25413,7 +25414,7 @@ En la lengua Zapoteca
     <add palce="margin left">2</add>
     <choice><orig>Diſcipulo</orig><reg type="spanish">Discipulo</reg></choice>. Channahe, palla looxa <note place="below">Ee</note> naquijña conni benniaati,
 <lb/>
-    nijani
+    <fw type="catchword" place="bottom-right">nijani</fw>
 <lb/>
     <pb n="393"/>
     nijani gaaca nalij, gaaca naxoohui nallaabi loo B. Dios que-
@@ -25489,7 +25490,7 @@ En la lengua Zapoteca
 <lb/>
     Coyoona naca, toobi quela ribaaqui, quela tochijga lij
 <lb/>
-    anima
+    <fw type="catchword" place="bottom-right">anima</fw>
     <pb n="394"/>
     anima caní loo quela huenni xonnii xtennini loo B. Dios,
 <lb/>
@@ -25561,7 +25562,7 @@ En la lengua Zapoteca
 <lb/>
     xtennini looyoobi Dios <note place="below">Ee2</note> niiaxtenni quizaa looquichiiño loo
 <lb/>
-    q ela
+    <fw type="catchword" place="bottom-right">q ela</fw>
 <lb/>
     <pb n="395"/>
     quela huenni baaneza xtennini, ni pezaa lachini loo yoobini,
@@ -25634,7 +25635,7 @@ En la lengua Zapoteca
 <lb/>
     <note palce="margin left">[?]Eſtima</note> lijca chijcatini ciroo xootete nachij lij lachini, 1 nohui tete loo
 <lb/>
-    qui-
+    <fw type="catchword" place="bottom-right">qui-</fw>
     <pb n="396"/>
     quique la chitooni xibijtoolijni, xi cooquij lijni Dios.
 <lb/>
@@ -25704,9 +25705,9 @@ En la lengua Zapoteca
 <lb/>
     benni nazijna, quelani toobizipeanaca quela huellaaba, quichij
 <lb/>
-    chelaquela huiiña ticha, caayyee lanni quijchi, laanicica
+    chelaquela huiiña ticha, caayyee lanni quijchi, laanicica huazaa
 <lb/>
-    huazaaca
+    <fw type="catchword" place="bottom-right">ca ci-</fw>
     <pb n="397"/>
     ca ciroo gaaca, tebela cazooba liaaza zozooba tiaagani libaana
 <lb/>
@@ -25781,7 +25782,7 @@ En la lengua Zapoteca
 <lb/>
     collaaba chaahui lachi benniaati loo chijcani, quelani cica pe-
 <lb/>
-    zaa
+    <fw type="catchword" place="bottom-right">zaa</fw>
 <lb/>
     <pb n="398"/>
 <add place="margin left">9</add>En la lengua Zapoteca.
@@ -25856,7 +25857,7 @@ En la lengua Zapoteca
 <lb/>
     teela, quela huexiihuila, quiraa quela aguizaacala, quela cotij-
 <lb/>
-    haala
+    <fw type="catchword" place="bottom-right">haala</fw>
     <pb n="399"/>
     haala quela huichiieela ni pennini, ni pexiihuini, ni cotijlle, ni,
 <lb/>
@@ -25936,7 +25937,7 @@ En la lengua Zapoteca
 <lb/>
     zooba cohuiiani quelanahayoo lachi xtennini, zoaana chijni
 <lb/>
-    yoobini,
+    <fw type="catchword" place="bottom-right">yoobini</fw>
   <!--questions: 1) Should I write the "Cateciſmo" and "En Lengua Zapoteca" on each page?
   2)what to do with underlined words? Make a marking for that or...?-->
     <pb n="400"/>
@@ -26013,7 +26014,7 @@ En la lengua Zapoteca
 <lb/>
     quela huenni xonnii xtennini, chela <note place="bottom">Ff</note> catizigaa, rieeguellaagani,
 <lb/>
-    xoo-
+    <fw type="catchword" place="bottom-right">xoo-</fw>
     <!--go back and add the words that lead to the first word on the next page (I'm blanking on the name)<-->
     <pb n="401"/>
     xoolabaatola guechelayoo, chela quela cooguijte, quela hue-
@@ -26090,7 +26091,7 @@ En la lengua Zapoteca
 <lb/>
     ñaaba, quitijñe xillaanaloo B. Dios xillaabaaneza gueche
 <lb/>
-    layoo-
+    <fw type="catchword" place="bottom-right">layoo-</fw>
     <pb n="402"/>
     layoorijni, cicanaca quela coxaacala<add place="above">[salud?]</add>, quelanabaani<add place="above">vida</add> chahuila
 <lb/>
@@ -26165,7 +26166,7 @@ En la lengua Zapoteca
 <lb/>
     tooni nijani gacañeeni tonoo loo <note place="below">Ff2</note>B. Dios, gaacani peche con-
 <lb/>
-    nij
+    <fw type="catchword" place="bottom-right">nij</fw>
     <pb n="403"/>
     <!--It would be interesting to see if the markings made in this text were all done by yhe same person or if multiple handwritings are present...-->
     nij, Pizija connij, hueteete xtichana lootaa, loo becoogo x,
@@ -26240,7 +26241,7 @@ En la lengua Zapoteca
 <lb/>
     caloo quiraalij Santos, quelani xillaani lij biitoo Dios nacani,
 <lb/>
-    cu-
+    <fw type="catchword" place="bottom-right">cu-</fw>
 
     <pb n="404"/>
     curúbi ciroo naxoohui nallaabi naca xtichani looraa, loo becoogo
@@ -26315,7 +26316,7 @@ En la lengua Zapoteca
 <lb/>
     quita lanni guechelayooriini, calla chaayalooni, chijgaatia?
 <lb/>
-    Mae-
+    <fw type="catchword" place="bottom-right">Mae-</fw>
 <lb/>
     <pb n="405"/>
 <lb/>
@@ -26466,7 +26467,7 @@ En la lengua Zapoteca
 <lb/>
     Dios zaayeeguennini quela oracion xtenini, huazaacacirootetegaca
 <lb/>
-    tebela
+    <fw type="catchword" place="bottom-right">tebela</fw>
     <pb n="407"/>
     tebela ruaqueegaca. Chela zaabeecagaca quela huenni xonnijcani
 <lb/>
@@ -26532,7 +26533,7 @@ En la lengua Zapoteca
 <lb/>
     <add>fol-[l?i?I?][55?ss?] paro el [p?] M[?] Aguero de traducir el Chatesismo</add>
 <lb/>
-    <add palce="mrgin left">117</add>Quijoo baatoo, laache lannatoo chaapizaabiciroo xticha quizaalacota
+    <add place="margin left">117</add>Quijoo baatoo, laache lannatoo chaapizaabiciroo xticha quizaalacota
 <lb/>
     quizaala huezaa bijtoo B. Dios, huañee xtenni, xona exitoo S. Maria
 <lb/>
@@ -26540,7 +26541,7 @@ En la lengua Zapoteca
 <lb/>
     go, huegoo libaanaroo xtenninica cacicacica.
 <lb/>
-    CON-
+    <fw type="catchword" place="bottom-right">CON-</fw>
     <pb n="408"/>
     <pb n="409"/>
     <pb n="410"/>
